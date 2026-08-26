@@ -5,15 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va qoʻlini ⟨את⟩ gunoh qurbonligining boshiga qoʻyadi va uni ⟨את⟩ gunoh qurbonligi sifatida — olova qurbonligi soʻyiladigan joyda ⟨את⟩ soʻyadi.",
+  "translation": "Va qoʻlini ⟨את⟩ chattok qurbonining boshiga qoʻyadi, uni ⟨את⟩ chattok qurboni sifatida, olomon qurboni soʻyiladigan joyda soʻyadi ⟨את⟩.",
   "tokens": [
     {
-      "surface": "וססמך",
-      "gloss": ""
-    },
-    {
       "surface": "וסמך",
-      "gloss": "⟨את⟩ va qoʻyadi"
+      "gloss": "Va...qoʻyadi"
     },
     {
       "surface": "את",
@@ -26,28 +22,28 @@
     },
     {
       "surface": "על",
-      "gloss": "...ga"
+      "gloss": "ustiga"
     },
     {
       "surface": "ראש",
-      "gloss": "boshi"
+      "gloss": "boshiga"
     },
     {
       "surface": "החטאת",
-      "gloss": "gunoh qurbonligining"
+      "gloss": "chattok qurbonining"
     },
     {
       "surface": "ושחט",
-      "gloss": "⟨את⟩ va soʻyadi"
+      "gloss": "va soʻyadi"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "uni (gunoh qurbonligi)"
+      "marks": "uni (chattok qurboni sifatida)"
     },
     {
       "surface": "לחטאת",
-      "gloss": "gunoh qurbonligi sifatida"
+      "gloss": "chattok qurboni sifatida"
     },
     {
       "surface": "במקום",
@@ -55,22 +51,22 @@
     },
     {
       "surface": "אשר",
-      "gloss": "…-adigan"
+      "gloss": "ki"
     },
     {
       "surface": "ישחט",
-      "gloss": "⟨את⟩ soʻyadi"
+      "gloss": "soʻyadi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olova qurbonligini"
+      "marks": "olomon qurbonini"
     },
     {
       "surface": "העלה",
-      "gloss": "olova qurbonligi"
+      "gloss": "olomon qurbonini"
     }
   ],
-  "timestamp": "2026-08-26T10:21:20.066636555Z",
+  "timestamp": "2026-08-26T13:57:27.104405619Z",
   "model": "glm-5.3"
 }

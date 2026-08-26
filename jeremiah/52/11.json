@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 52,
-  "translation": "Va ⟨את⟩ Tsidkiyahuning koʻzlarini koʻr qildi, uni bronza kishanlar bilan bogʻladi, va Bobil shohi uni Bobilga olib keldi va uni nazorat uyiga — oʻlim kunigacha — qoʻydi.",
+  "translation": "Va ⟨את⟩ Tsidkiyahuning koʻzlarini koʻr qildi, uni bronza kishanlarda bogʻladi, Bobil shohi uni Bobilga olib keldi va uni nazorat uyiga qoʻydi — oʻlim kunigacha.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Tsidkiyahuning koʻzlarini"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "surface": "צדקיהו",
-      "gloss": "Tsidkiyahu"
+      "gloss": "Tsidkiyahuning"
     },
     {
       "surface": "עור",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "בנחשתים",
-      "gloss": "bronza kishanlar bilan"
+      "gloss": "bronza kishanlarda"
     },
     {
       "surface": "ויבאהו",
-      "gloss": "olib keldi"
+      "gloss": "uni olib keldi"
     },
     {
       "surface": "מלך",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הפקדת",
-      "gloss": "nazoraт"
+      "gloss": "nazokat (davriy nazorat)"
     },
     {
       "surface": "עד",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "יום",
-      "gloss": "kun"
+      "gloss": "kuni"
     },
     {
-      "surface": "мותו",
-      "gloss": "oʻlim"
+      "surface": "מותו",
+      "gloss": "oʻlimi"
     }
   ],
-  "timestamp": "2026-08-26T10:23:30.504492391Z",
+  "timestamp": "2026-08-26T13:53:32.946027742Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va endi ⟨את⟩ odamning xotinini qaytar, chunki u nabiydir, va u sen uchun ibodat qiladi, va sen tiril〈qol〉san; agar qaytarmasang, bilginki, albatta oʻlasan — sen va senga tegishli boʻlgan hamma narsa.",
+  "translation": "Va endi odamning xotinini qaytar, chunki u naviydir, va u sen uchun ibodat qiladi, va sen yashaysan; agar qaytarmasang — bilginki, albatta oʻlasan, sen va seniki boʻlgan barcha narsalar.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -14,11 +14,6 @@
     {
       "surface": "השב",
       "gloss": "qaytar"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "odamning xotinini"
     },
     {
       "surface": "אשת",
@@ -34,7 +29,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "nabiy"
+      "gloss": "naviy"
     },
     {
       "surface": "הוא",
@@ -50,7 +45,7 @@
     },
     {
       "surface": "וחיה",
-      "gloss": "va tirilqolsan"
+      "gloss": "va yashaysan"
     },
     {
       "surface": "ואם",
@@ -58,11 +53,11 @@
     },
     {
       "surface": "אינך",
-      "gloss": "emasan"
+      "gloss": "qaytarmasang"
     },
     {
       "surface": "משיב",
-      "gloss": "qaytarmasang"
+      "gloss": "qaytarmoqda boʻlmasang"
     },
     {
       "surface": "דע",
@@ -70,15 +65,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "chunki"
+      "gloss": "—"
     },
     {
       "surface": "מות",
-      "gloss": "albatta oʻlasan"
+      "gloss": "albatta oʻl"
     },
     {
       "surface": "תמות",
-      "gloss": "oʻlishdan oʻlasan"
+      "gloss": "oʻlasan"
     },
     {
       "surface": "אתה",
@@ -86,17 +81,17 @@
     },
     {
       "surface": "וכל",
-      "gloss": "va hamma narsa"
+      "gloss": "va barcha"
     },
     {
       "surface": "אשר",
-      "gloss": "boʻlgan"
+      "gloss": "ki"
     },
     {
       "surface": "לך",
-      "gloss": "senga tegishli"
+      "gloss": "seniki"
     }
   ],
-  "timestamp": "2026-08-26T10:20:38.876850211Z",
+  "timestamp": "2026-08-26T13:55:30.762227401Z",
   "model": "glm-5.3"
 }

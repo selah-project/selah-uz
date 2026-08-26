@@ -5,8 +5,41 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Barakali ⟨⟩– barakali oʻsha gabar —kim —suhbat –kim –Ismga –boʻlgan –suhbat",
-  "tokens": [],
-  "timestamp": "2026-08-26T10:23:11.919098999Z",
+  "translation": "Barokatli ⟨–⟩ odamki u Yahvega tayanadi, va Yahve uning tayanchi boʻladi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barokatli ⟨–⟩"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "tayanadi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "uning tayanchi"
+    }
+  ],
+  "timestamp": "2026-08-26T13:53:23.379839075Z",
   "model": "glm-5.3"
 }

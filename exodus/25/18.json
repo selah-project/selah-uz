@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va yasaysan ikki keruvni — oltindan; uringan ish bilan qilasiz ⟨אתם⟩ — yopqichning ikki chekkasidan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Va yasaysan"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ikkita"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruvni"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltindan"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "uringan ish"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qilasiz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ularni (ikkita keruvni)"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "chekkasidan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "yopqichning"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:46.780129842Z",
+  "model": "glm-5.3"
+}

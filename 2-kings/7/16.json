@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va xalq chiqdi va Aram lagerini ⟨את⟩ talon-taroj qildi, va bir sʼa noyoy shekel boʻldi, va ikki sʼa arpa shekel boʻldi, Yahve soʻzi boʻyicha.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Va chiqdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "va talon-taroj qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram lagerini"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lagerini"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "bir sʼa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "noyoy"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "shekel (narxida)"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "va ikki sʼa"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "arpa"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "shekel (narxida)"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "soʻzi boʻyicha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T03:51:42.319410561Z",
+  "model": "glm-5.3"
+}

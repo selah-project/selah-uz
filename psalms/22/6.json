@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Senga faryod qildilar va qutuldilar; senga ishondilar va uyalmadilar.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "faryod qildilar"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "va qutuldilar"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ishondilar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "uyalmadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:22.359013606Z",
+  "model": "glm-5.3"
+}

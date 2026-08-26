@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Yomonlikdan chekin va yaxshini qil, tinchlikni izla va uni quv.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "chekin"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "yomonlikdan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "va qil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshini"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "izla"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlikni"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "va uni quv"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:02.028401330Z",
+  "model": "glm-5.3"
+}

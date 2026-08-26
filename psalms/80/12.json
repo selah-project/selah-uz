@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 80,
+  "translation": "U oʻz novdalarini dengizgacha va oʻz kurtaklarini daryo tomon yubatdi.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "yubatdi"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "uning novdalarini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va tomon"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "daryo"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "uning kurtaklari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:38.911788039Z",
+  "model": "glm-5.3"
+}

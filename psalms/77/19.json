@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Momaqaldiroq tovushing gardonda ⟨yoyildi⟩, chaqmoqlar yoritdi olamni, larza soldi va qimirladi yer.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "tovush"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "momaqaldiroqing"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "gardonda"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "yoritdi"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "chaqmoqlar"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "olam"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "larza soldi"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "va qimirladi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:32.269103807Z",
+  "model": "glm-5.3"
+}

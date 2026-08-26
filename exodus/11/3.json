@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Yahve xalqning ⟨את⟩ marhamatini Mitsrayimliklarning koʻzida berdi; hatto odam Moshe ham juda ulugʻ edi Mitsrayim yerida — Parʻoh qullarining koʻzida va xalqning koʻzida.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Va berdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqning marhamatini"
+    },
+    {
+      "surface": "חן",
+      "gloss": "marhamat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimliklarning"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ulugʻ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qullarining"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʻoh"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "va koʻzida"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:33.140124200Z",
+  "model": "glm-5.3"
+}

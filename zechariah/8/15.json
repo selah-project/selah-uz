@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Shunday qilib qaytdim: bu kunlarda Yerushalaimga va Yahudo uyiga yaxshilik qilishni maʼqul koʻrdim — qoʻrqmanglar.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Shunday qilib"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "qaytdim"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "maʼqul koʻrdim"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "kunlarda"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "yaxshilik qilishni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaimni"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaimni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yahudo uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qoʻrqmanglar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:53:46.571792562Z",
+  "model": "glm-5.3"
+}

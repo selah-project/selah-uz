@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Diriga, Korach oʻgʻillariga, sopranolar ustidan — qoʻshiq.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Diriga"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "sopranolar"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:30.609386780Z",
+  "model": "glm-5.3"
+}

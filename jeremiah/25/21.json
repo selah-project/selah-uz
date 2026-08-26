@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "⟨את⟩ Edomni, ⟨את⟩ Moavni va ⟨את⟩ Amon oʻgʻillarini",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomni"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Moavni"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moavni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Amon oʻgʻillarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-08-26T04:50:40.106144078Z",
+  "model": "glm-5.3"
+}

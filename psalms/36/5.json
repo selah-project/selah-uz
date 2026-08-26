@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Yovliqni toʻshagida oʻylaydi, yaxshi boʻlmagan yoʻlda tur oladi, yomonlikni rad etmaydi.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "yovliq"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "oʻylaydi"
+    },
+    {
+      "surface": "על",
+      "gloss": "…da"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "toʻshagida"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "tur oladi"
+    },
+    {
+      "surface": "על",
+      "gloss": "…da"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…magan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maydi"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "rad etmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:07.766101639Z",
+  "model": "glm-5.3"
+}

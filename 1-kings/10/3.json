@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Shlomo unga ⟨את⟩ uning barcha soʻzlarini bayon qildi; shohdan yashirin qolgan, unga bayon qilinmagan hech bir soʻz boʻlmadi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Va … bayon qildi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha soʻzlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "uning soʻzlarini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "yashirin qolgan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "bayon qilinmagan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:34:29.698820844Z",
+  "model": "glm-5.3"
+}

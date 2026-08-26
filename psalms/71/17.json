@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Elohim, yoshligimdan oʻrgatding meni, va shu kungacha Sening moʻjizalaringni eʼlon qilaman.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "oʻrgatding meni"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "yoshligimdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va shu kungacha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "shu joyga"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "eʼlon qilaman"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "Sening moʻjizalaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:59.133402828Z",
+  "model": "glm-5.3"
+}

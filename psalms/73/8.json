@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Ular masxara qiladilar va zulm yovuzligida gapiradilar; balanddan ⟨oʻta⟩ gapiradilar.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "masxara qiladilar"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "va gapiradilar"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "yovuzlikda"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "zulm"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "balanddan"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "gapiradilar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:40.081823218Z",
+  "model": "glm-5.3"
+}

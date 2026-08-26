@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Chunki bola otamjon, onamjon deya chaqirishni bilishidan oldin ⟨את⟩ Damashq boyligini va ⟨את⟩ Shomroning oʻljasini Ashur shohining oldiga koʻtarib ketadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "…dan oldin"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilib oladi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bola"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chaqirishni"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otamjon"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "va onamjon"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "koʻtarib ketadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Damashq boyligini"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "boyligini"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damashq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Shomroning oʻljasini"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "oʻljasini"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "…ning oldiga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-08-26T04:08:08.107325536Z",
+  "model": "glm-5.3"
+}

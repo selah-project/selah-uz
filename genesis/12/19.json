@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "«Nega aytding: „U — mening opam“, va men uni ⟨את⟩ oʻzimga xotinlikka oldim? Endi mana, xoting — ol va ket!»",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "aytding"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "opam"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "va oldim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oʻzimga"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "xotinlikka"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "endi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "xoting"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ol"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "va ket"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:41.143525395Z",
+  "model": "glm-5.3"
+}

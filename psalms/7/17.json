@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Uning mehnati oʻz boshiga qaytadi, va oʻz tugʻru(choqqi)sigа uning zoʻravonligi tushadi.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "qaytadi"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "uning mehnati"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "oʻz boshiga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va oʻz ... -ga"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "tugʻru(choqqi)si"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "uning zoʻravonligi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tushadi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:26.048901873Z",
+  "model": "glm-5.3"
+}

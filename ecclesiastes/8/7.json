@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Chunki u nima boʻlishini bilmaydi, chunki boʻlganida uni unga kim xabar beradi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "u ... emas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmaydi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nimani"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "boʻlishini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "boʻlganida"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlganda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "xabar beradi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:35.551465051Z",
+  "model": "glm-5.3"
+}

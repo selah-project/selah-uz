@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Yaxshi nom yaxshi moydan ⟨yaxshiroq⟩, va oʻlim kuni tugʻilgan kunidan ⟨afzal⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "moydan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "va kun"
+    },
+    {
+      "surface": "המות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kundan"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "uning tugʻilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:17.755455071Z",
+  "model": "glm-5.3"
+}

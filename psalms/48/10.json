@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 48,
+  "translation": "Oʻyladik, Elohim, xesedingni — saroying ichida.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "oʻyladik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedingni"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ichida"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "saroying"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:40.798459658Z",
+  "model": "glm-5.3"
+}

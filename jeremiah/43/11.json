@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Va u kelib, ⟨את⟩ Misr yerini uradi — oʻlimga mahkum boʻlgan oʻlimga, asirlikka mahkum boʻlgan asirlikka, qilichga mahkum boʻlgan qilichga.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "va u kelib"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "uradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misr yerini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "למות",
+      "gloss": "oʻlimga ... boʻlgan"
+    },
+    {
+      "surface": "למות",
+      "gloss": "oʻlimga"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "va —"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "asirlikka ... boʻlgan"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "asirlikka"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "va —"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "qilichga ... boʻlgan"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "qilichga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:02:12.326365032Z",
+  "model": "glm-5.3"
+}

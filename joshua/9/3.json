@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Givon aholisi eshitdi ⟨את⟩ narsani ki qilgan edi Yehoshua Yerixo va Ayga nisbatan.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "va aholisi"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narsani (ki qilgan edi Yehoshua)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan edi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "Yerixoga nisbatan"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "va Ayga nisbatan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:14:39.208939399Z",
+  "model": "glm-5.3"
+}

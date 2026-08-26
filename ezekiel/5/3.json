@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va u yerdan ozgina — sanoqlisini — olib, ⟨את⟩ularni etaklaring ichiga bogʻlasan.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Va olasan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ozgina"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sanoqli"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "va bogʻlasan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ularni",
+      "marks": "etaklaring ichiga"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "etaklaring ichiga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:10:31.735476859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "va ⟨את⟩ chiroqdonini — yorugʻlikning — va ⟨את⟩ asboblarini va ⟨את⟩ chiroqlarini va ⟨את⟩ yorugʻlik moyini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "chiroqdon"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "chiroqdon"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "yorugʻlik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "asboblar"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "asboblar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "chiroqlar"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "chiroqlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "moy"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "yorugʻlik"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:46.137207300Z",
+  "model": "glm-5.3"
+}

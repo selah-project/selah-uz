@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va musofirni qiynamang ⟨va⟩ uni ezanglar ⟨emas⟩, chunki siz Misr yerida musofir boʻlgansizlar.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "va musofirni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "qiynamang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ⟨emas⟩"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "uni ezanglar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "musofir"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "boʻlgansizlar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:39.956532847Z",
+  "model": "glm-5.3"
+}

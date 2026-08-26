@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va podshoh vafot etdi va Shomronga keltirildi, va podshohni Shomronda dafn etdilar.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "va vafot etdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "va keltirildi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomronga"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "va dafn etdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podshohni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshohni"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomronda"
+    }
+  ],
+  "timestamp": "2026-08-26T03:46:02.429223164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Isming uchun, ey Yahve, gunohimni kechir, chunki u kattadir.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Isming"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "kechir"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "gunohimni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "katta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:13.537343388Z",
+  "model": "glm-5.3"
+}

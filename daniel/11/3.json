@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va kuchli shoh turadi va buyuk hukmronlik bilan hukm suradi va oʻz xohishiga koʻra qiladi.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "Va turadi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "kuchli"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "va hukm suradi"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "hukmronlik"
+    },
+    {
+      "surface": "רב",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "va qiladi"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "oʻz xohishiga koʻra"
+    }
+  ],
+  "timestamp": "2026-08-26T07:35:19.677548474Z",
+  "model": "glm-5.3"
+}

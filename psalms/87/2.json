@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 87,
+  "translation": "Yahve Sion darvozalarini sevadi, Yoqubning barcha maskanlaridan ⟨koʻproq⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "sevadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "darvozalarini"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barchasidan"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "maskanlaridan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yoqubning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:52.042482063Z",
+  "model": "glm-5.3"
+}

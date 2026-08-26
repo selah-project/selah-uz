@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Yahvening maslahati abadiy turadi; Uning yuragining oʻylari avloddan avlodgacha.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "maslahati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "turadi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "oʻylari"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yuragining"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "avloddan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "avlodgacha"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:08.478397959Z",
+  "model": "glm-5.3"
+}

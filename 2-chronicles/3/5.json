@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ⟨את⟩ katta xonani sarv yogʻochi bilan qopladi va uni yaxshi oltin bilan qopladi va uning ustiga xurmo ustunlarini va zanjirlarni chiqardi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "katta xona"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xona"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "katta"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "qopladi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yogʻoch"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sarv"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "va uni qopladi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "va chiqardi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "xurmo ustunlari"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "va zanjirlar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:04:46.447764785Z",
+  "model": "glm-5.3"
+}

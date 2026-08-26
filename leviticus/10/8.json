@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yahve Ahron bilan gapirdi, deb:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:27.349044091Z",
+  "model": "glm-5.3"
+}

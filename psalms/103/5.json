@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "Seni yaxshilik bilan toʻydiradi — ⟨the⟩ chamanning qadiga; ne-yoshliging lochin kabi yangilanadi.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "toʻydiradi"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "yaxshilik bilan"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "chamanning qadiga"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "yangilanadi"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "lochin kabi"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "ne-yoshliging"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:09.329218713Z",
+  "model": "glm-5.3"
+}

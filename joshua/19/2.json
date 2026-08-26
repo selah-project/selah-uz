@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va ularning merosida ularga Buʼr-Shava, Sheva va Molada boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "ularning merosida"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Buʼr-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shava"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "va Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "va Molada"
+    }
+  ],
+  "timestamp": "2026-08-26T02:19:39.027691699Z",
+  "model": "glm-5.3"
+}

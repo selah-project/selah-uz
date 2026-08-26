@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Murr, aloe va kassiya — barcha kiyimlaring; fil suyagi saroylaridan ⟨torlar⟩ seni quvontirdi.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "murr"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "aloe"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "kassiya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "kiyimlaring"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "saroylaridan"
+    },
+    {
+      "surface": "שן",
+      "gloss": "fil suyagi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "torlar"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "quvontirdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:12.753072817Z",
+  "model": "glm-5.3"
+}

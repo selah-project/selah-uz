@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Egasidan qochib senga yetib kelgan qulni uning egasiga topshirmasan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "topshirmasan"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "topshirmasan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "egasiga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "qochib qutulgan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "egasidan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:00:53.145018754Z",
+  "model": "glm-5.3"
+}

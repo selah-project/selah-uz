@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Yahve’ga shukur aytingiz, chunki ⟨u⟩ yaxshi, chunki abadga ⟨duradur⟩ Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "shukur aytingiz"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve’ga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadga"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:23.294425818Z",
+  "model": "glm-5.3"
+}

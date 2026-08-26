@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va Yaakov Raning uchun yetti yil xizmat qildi va uni ⟨את⟩ sevishi tufayli ular uning koʻzlarida bir necha kun kabi boʻldilar.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "va xizmat qildì"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "Raning — uchun"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "va boʻldilar"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "uning koʻzlarida"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "kunlar kabi"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "bir necha"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "sevishi tufayli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:39.134793441Z",
+  "model": "glm-5.3"
+}

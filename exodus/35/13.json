@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "⟨את⟩ stolini va ⟨את⟩ tayoqlarini va ⟨את⟩ barcha asboblarini va ⟨את⟩ yuz nonini",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stol"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stol"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tayoqlari"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tayoqlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "asboblar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yuz noni"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "yuz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:46.136940697Z",
+  "model": "glm-5.3"
+}

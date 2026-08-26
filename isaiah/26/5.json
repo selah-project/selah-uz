@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Chunki u balandlikda yashovchilarni choʻktirdi, mustahkam shaharni; uni pasaytirdi, uni yergacha pasaytirdi, uni changgacha yetkazdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "השח",
+      "gloss": "choʻktirdi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yashovchilarni"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "balandlikda"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "shaharni"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "mustahkam"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "uni pasaytirdi"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "uni pasaytirdi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "uni yetkazdi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "chang"
+    }
+  ],
+  "timestamp": "2026-08-26T04:16:44.182574228Z",
+  "model": "glm-5.3"
+}

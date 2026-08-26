@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Sara esa koʻrdi ⟨את⟩ Hogarning oʻgʻlini — ⟨the⟩ misrlik ayolning, u Avrahimga tugʻ bergan — kulib oʻynayotganini.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hogarning oʻgʻlini"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hogar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "⟨the⟩ misrlik ayol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— u"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tugʻ bergan"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahimga"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "kulib oʻynayotgan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:02.639348166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va tong yorugʻidek quyosh chiqadi — bulutsiz ⟨tong⟩, yaltirashdan, yomgʻirdan, yerdan oʻt koʻkarib ⟨chiqadi⟩.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "va ... yorugʻidek"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "chiqadi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "bulutli"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "yaltirashdan"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "yomgʻirdan"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:22:40.684171140Z",
+  "model": "glm-5.3"
+}

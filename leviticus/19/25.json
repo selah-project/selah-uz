@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va beshinchi yilda uning mevasini yeyinglar, ⟨ki⟩ uning hosili sizga qoʻshilsin; men Yahve, sizning Elohimingizman.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "va yilda"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "beshinchi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyinglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning mevasini"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "uning mevasini"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "qoʻshilsin"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "uning hosili"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizning Elohimingiz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:56.066856210Z",
+  "model": "glm-5.3"
+}

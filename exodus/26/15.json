@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va Mishkan uchun ⟨את⟩ taxtalarni yasash qilgin — akatsiya daraxti yogʻochidan, tik turgan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "va yasash qilgin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taxtalarni"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "taxtalarni"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkan uchun"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsiya"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "tik turgan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:06.664234755Z",
+  "model": "glm-5.3"
+}

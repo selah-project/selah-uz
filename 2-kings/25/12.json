@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va yer miskinlaridan rab-tabachimlar ⟨sardori⟩ uzumzorlar va dehqonlar uchun qoldirdi.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "va miskinlaridan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "qoldirdi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rab"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabachimlar"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "uzumzorlar uchun"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "va dehqonlar uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T04:04:36.658846727Z",
+  "model": "glm-5.3"
+}

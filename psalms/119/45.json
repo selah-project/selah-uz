@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Va kenglikda yuraman, chunki Sening buyruqlaringni izladim.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "yuraman"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "kenglikda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "Sening buyruqlaringni"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "izladim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:41.932409706Z",
+  "model": "glm-5.3"
+}

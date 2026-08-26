@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Bu oy — sizlar uchun oylarning boshi; u sizlar uchun yilning oylaridan birinchisidir.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "bu oy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "oylarning"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "birinchisi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "oylaridan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "yilning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:31.854289430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yahve Yehuda bilan edi; va ⟨את⟩ togʻni egalladi, chunki vodiy aholisini siqib chiqara olmadi, chunki ularda temir jang aravalari bor edi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "va egalladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "togʻni"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "siqib chiqarishga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vodiy aholisini"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "aholisi"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "vodiy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "jang aravalari"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "temir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:24:03.407978169Z",
+  "model": "glm-5.3"
+}

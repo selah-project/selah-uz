@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 14:5",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Men ularning murtadliklarini davolayman, ularni erkin sevarman, chunki gʻazabim undan qaytdi.",
+  "tokens": [
+    {
+      "surface": "ארפא",
+      "gloss": "davolayman"
+    },
+    {
+      "surface": "משובתם",
+      "gloss": "ularning murtadliklarini"
+    },
+    {
+      "surface": "אהבם",
+      "gloss": "ularni sevarman"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "erkin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "gʻazabim"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:38:02.526892488Z",
+  "model": "glm-5.3"
+}

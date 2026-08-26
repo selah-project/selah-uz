@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 3:7",
+  "book": "zephaniah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Men dedim: faqat Mendan qoʻrq, ⟨את⟩Meni tanib, tarbiyani qabul qil — va uning maskani kesib tashlanmaydi, unga qarshi buyurgan barcha narsamga qaramay; ammo ular erta turib barcha ishlarini buzdilar.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Men dedim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "qoʻrq"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩Meni",
+      "marks": "tarbiyani qabul qil (bevosita obyekt: Meni"
+    },
+    {
+      "surface": "תקחי",
+      "gloss": "qabul qil"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tarbiya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "kesib tashlanadi"
+    },
+    {
+      "surface": "מעונה",
+      "gloss": "uning maskani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsamki"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "buyurganman"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "unga qarshi"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "השכימו",
+      "gloss": "erta turdilar"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "buzdilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "ishlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T05:50:34.041005646Z",
+  "model": "glm-5.3"
+}

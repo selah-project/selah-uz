@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Avishua ⟨את⟩ Buckini dunyoga keltirdi, va Bucki ⟨את⟩ Uzzini dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "va Avishua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Buckini"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bucki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "va Bucki"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzini"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzzi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:55:15.219842149Z",
+  "model": "glm-5.3"
+}

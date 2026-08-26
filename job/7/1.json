@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Halolmi? — harbiy xizmat odamga yer ustida, va yollanma kishi kunlari kabi uning kunlari.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "halolmi?"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "harbiy xizmat"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "odamga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "va ... kunlari kabi"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "yollanma kishi"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "uning kunlari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:55:54.388060194Z",
+  "model": "glm-5.3"
+}

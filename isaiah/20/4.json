@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 20:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Shunday qilib Ashur podshohi ⟨את⟩ Misr asirligini va ⟨את⟩ Kush surgunini haydab olib ketadi — yoshlar va qarilar, yalang va yalang oyok, oralar ochiq — Misr uyatsi sifatida.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "haydab olib ketadi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misr asirligini"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "asirligini"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Kush surgunini"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "surgunini"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "yoshlar"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "va qarilar"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "yalang"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "va yalang oyok"
+    },
+    {
+      "surface": "וחשופי",
+      "gloss": "va ochiq"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ora"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "uyatsi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T04:15:38.928256182Z",
+  "model": "glm-5.3"
+}

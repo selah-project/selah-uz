@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Menga rahm qil, Yahve, chunki men siqilganman; koʻzim gʻamdan, nefeshim va qornim tugangan.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "menga rahm qil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "צר",
+      "gloss": "siqilganman"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "tugangan"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "gʻamdan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefishim"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "va qornim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:33.137619401Z",
+  "model": "glm-5.3"
+}

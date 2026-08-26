@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Aminadav ⟨את⟩ Nachshonni dunyoga keltirdi, va Nachshon ⟨את⟩ Salmoni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "va Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshonni"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshonni"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "va Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmoni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salmoni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:14:47.273481401Z",
+  "model": "glm-5.3"
+}

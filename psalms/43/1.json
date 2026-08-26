@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Meni sudlangin, Elohim, va ishimni koʻrsat chinlardan boʻlmagan xalqdan; soxta va zulmkor odamdan sen meni qutqarasan.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "meni sudlangin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "va koʻrsat"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ishimni"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "xalqdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "boʻlmagan"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "chinlardan (xesedli)"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "odamdan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "soxta (aldov)"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "va zulmkor"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "sen meni qutqarasan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:50.464233308Z",
+  "model": "glm-5.3"
+}

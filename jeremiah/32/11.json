@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 32:11",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va men sotib olish kitobini oldim — ⟨את⟩ muhrlangan nusxani, buyruq va qoidalari bilan, va ⟨את⟩ ochiq nusxani.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Va men oldim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sotib olish kitobini"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitobini"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "sotib olish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muhrlangan nusxani"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "muhrlangan nusxani"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "buyruq"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "va qoidalar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ochiq nusxani"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "ochiq nusxani"
+    }
+  ],
+  "timestamp": "2026-08-26T04:55:59.512776451Z",
+  "model": "glm-5.3"
+}

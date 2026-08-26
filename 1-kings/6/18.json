@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 6:18",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va uyning ichki tomonida sadr ⟨bor⟩ edi — oʻymakor gumbazlar va ochilgan gullar; hammasi sadr ⟨edi⟩, koʻrinadigan tosh yoʻq ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "וארז",
+      "gloss": "va sadr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "ichki tomonida"
+    },
+    {
+      "surface": "מקלעת",
+      "gloss": "oʻymakor"
+    },
+    {
+      "surface": "פקעים",
+      "gloss": "gumbazlar"
+    },
+    {
+      "surface": "ופטורי",
+      "gloss": "va ochilgan"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "gullar"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sadr"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "tosh"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "koʻrinadigan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:28:48.595726405Z",
+  "model": "glm-5.3"
+}

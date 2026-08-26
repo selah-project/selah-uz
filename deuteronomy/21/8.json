@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 21:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Yoninglar ber, xalqingga — Isroilga, seni Yahve qutqargan; va pok qonni xalqing — Isroil — ichiga bermagin, va qon ular uchun yengillatiladi.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "Yoninglar ber"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "xalqingga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seni ... qutqargan"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "qutqargan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va bermagin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bermagin"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qonni"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "pok"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ichiga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqing"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ונכפר",
+      "gloss": "va yengillatiladi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ular uchun"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qon"
+    }
+  ],
+  "timestamp": "2026-08-26T01:57:58.240018497Z",
+  "model": "glm-5.3"
+}

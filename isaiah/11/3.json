@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Yahve qoʻrquvida uning hidlagani ⟨boʻladi⟩; va koʻzlari koʻrganiga koʻra hukm chiqarmaydi, va quloqlari eshitganiga koʻra qaror bermaydi.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "hidlagani"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "qoʻrquvida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "koʻrganiga koʻra"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "koʻzlari"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "hukm chiqarmaydi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "eshitganiga koʻra"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "quloqlari"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "qaror bermaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:12:44.025560103Z",
+  "model": "glm-5.3"
+}

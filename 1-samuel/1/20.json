@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 1:20",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va kunlar aylanib kelgach, Xanna homila boʻldi va oʻgʻil tugʻdi va ⟨את⟩ uning ismini Shemuel deb atadi, chunki men uni Yahvedan soʻradim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "לתקפות",
+      "gloss": "aylanib kelgach"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kunlar"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "va homila boʻldi"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Xanna"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "va tugʻdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "va atadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning ismini"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning ismini"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahvedan"
+    },
+    {
+      "surface": "שאלתיו",
+      "gloss": "men uni soʻradim"
+    }
+  ],
+  "timestamp": "2026-08-26T02:40:53.652315344Z",
+  "model": "glm-5.3"
+}

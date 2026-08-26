@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yeshua Yoyakimni tugʻdi, va Yoyakim Elyashivni tugʻdi, va Elyashiv ⟨את⟩ Yoyadani tugʻdi.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Va Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "va Yoyakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashiv"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "va Elyashiv"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-08-26T07:49:56.859669052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Quloqlari bor, lekin eshitmaydilar; burunlari bor, lekin hidni sezmaydilar.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "quloqlar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin emas"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "eshitadilar"
+    },
+    {
+      "surface": "אף",
+      "gloss": "burun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin emas"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "hidni sezadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:20.337296573Z",
+  "model": "glm-5.3"
+}

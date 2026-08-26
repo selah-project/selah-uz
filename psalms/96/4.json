@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 96,
+  "translation": "Chunki Yahve buyukdir va juda ham maqtovga loyiq, U barcha elohlardan qoʻrqinchlidir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "va maqtovga loyiq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "qoʻrqinchli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:51.962643019Z",
+  "model": "glm-5.3"
+}

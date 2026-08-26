@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Sinab koʻr, iltimos, ⟨את⟩ qullaringni — oʻn kun; va bizga urugʻ-oʻsimliklardan bersinlar va yeymiz, va suv va ichamiz.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "sinab koʻr"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullaringni"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qullaringni"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "va bersinlar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–dan"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "urugʻ-oʻsimliklardan"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "va yeymiz"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "va suv"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "va ichamiz"
+    }
+  ],
+  "timestamp": "2026-08-26T07:27:09.380625054Z",
+  "model": "glm-5.3"
+}

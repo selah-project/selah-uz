@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va raqsga tushgan ayollar javob berib aytdilar: Shaul oʻz mingligini urdi, Dovud esa oʻn mingligini.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "va javob berib aytdilar"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ayollar"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "raqsga tushgan"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "va aytdilar"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "oʻz mingligini"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dovud esa"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "oʻn mingligini"
+    }
+  ],
+  "timestamp": "2026-08-26T02:53:03.119827307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Senda topilmaysin: oʻgʻlini yoki qizini olovdan oʻtkazuvchi, fol ochuvchi, bashoratchi, ajoyibnomo va sehrgar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…maysin"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "topilmaysin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senda"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "oʻtkazuvchi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻgʻlini"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "yoki qizini"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovdan"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "fol ochuvchi"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "bashoratchi"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "ajoibnomo"
+    },
+    {
+      "surface": "וומנחש",
+      "gloss": "va"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "sehrgar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:57:47.096380678Z",
+  "model": "glm-5.3"
+}

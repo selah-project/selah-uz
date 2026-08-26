@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "va qurbongohlarda qurbonlik qildi va tutatdi, tepaliklarda va har bir yashil daraxt ostida.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "qurbonlik qildi"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "tutatdi"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "qurbongohlarda (bamotlarda)"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... ustida"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "tepaliklar"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "va ostida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yashil"
+    }
+  ],
+  "timestamp": "2026-08-26T03:58:43.637492376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va dedi: ⟨את⟩ men bilan kel va Yahve uchun qinoatimda koʻr. Va uni uning aravasiga mindirdilar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kel"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ men bilan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "va koʻr"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "qinoatimda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "va mindirdilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "uning aravasiga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:53:54.935230552Z",
+  "model": "glm-5.3"
+}

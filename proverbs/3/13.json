@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Baxtlidir odam — hikmat topgan, va odam — tushunchani hosil qilgan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtlidir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "topgan"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "va odam"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "hosil qilgan"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "tushuncha"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:30.771260197Z",
+  "model": "glm-5.3"
+}

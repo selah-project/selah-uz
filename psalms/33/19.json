@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Ularning nefeshini oʻlimdan qutqarish uchun va ochlikda ularni tirik saqlash uchun.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "qutqarish uchun"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "oʻlimdan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ularning nefeshini"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "va ularni tirik saqlash uchun"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "ochlikda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:46.934335870Z",
+  "model": "glm-5.3"
+}

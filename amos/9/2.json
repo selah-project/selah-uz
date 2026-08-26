@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 9:2",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Agar ular Sheolga oʻt yoʻsib kirsalar, u yerdan qoʻlim ularni oladi; va agar osmonga koʻtarilsalar, u yerdan ularni tushiraman.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "יחתרו",
+      "gloss": "oʻt yoʻsib kirsalar"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Sheolga"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻlim"
+    },
+    {
+      "surface": "תקחם",
+      "gloss": "ularni oladi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "koʻtarilsalar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonga"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    },
+    {
+      "surface": "אורידם",
+      "gloss": "ularni tushiraman"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:17.036929749Z",
+  "model": "glm-5.3"
+}

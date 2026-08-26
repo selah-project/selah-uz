@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va toshlar ustiga ⟨את⟩ bu Toroning barcha soʻzlarini yaxshilab oʻyib yoz.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "va yoz"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "toshlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu Toroning barcha soʻzlari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarini"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "bu Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "—"
+    },
+    {
+      "surface": "באר",
+      "gloss": "oʻyib"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "yaxshilab"
+    }
+  ],
+  "timestamp": "2026-08-26T02:01:39.882702604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 58:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 58,
+  "translation": "Tomogʻing bilan qichqir, tiyilma, shofar kabi ovozini koʻtar, va xalqimga isyonlarini, Yaakov uyiga gunohlarini eʼlon qil.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "qichqir"
+    },
+    {
+      "surface": "בגרון",
+      "gloss": "tomogʻing bilan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tiyilma"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "⟨tiyilma⟩"
+    },
+    {
+      "surface": "כשופר",
+      "gloss": "shofar kabi"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "koʻtar"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ozingni"
+    },
+    {
+      "surface": "והגד",
+      "gloss": "va eʼlon qil"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "xalqimga"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "isyonlarini"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "va ... uyiga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "gunohlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T09:04:38.425094439Z",
+  "model": "glm-5.3"
+}

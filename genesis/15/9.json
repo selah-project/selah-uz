@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 15:9",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "U unga aytdi: menga uch yillik buzoqcha, uch yillik echki va uch yillik qoʻchqor, hamda toʻti va goʻzalacha olib kel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "קחה",
+      "gloss": "olib kel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "buzoqcha"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "uch yillik"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "va echki"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "uch yillik"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "va qoʻchqor"
+    },
+    {
+      "surface": "משלש",
+      "gloss": "uch yillik"
+    },
+    {
+      "surface": "ותר",
+      "gloss": "va toʻti"
+    },
+    {
+      "surface": "וגוזל",
+      "gloss": "va goʻzalacha"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:38.178666737Z",
+  "model": "glm-5.3"
+}

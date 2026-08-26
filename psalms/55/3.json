@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Menga qulgʻa sol va menga javob ber, shikoyatimda gʻorgʻiragan boʻlaman va oʻtkir tovush chiqaraman.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "qulgʻa sol"
+    },
+    {
+      "surface": "לי",
+      "gloss": "manga"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "va menga javob ber"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "gʻorgʻiragan boʻlaman"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "shikoyatimda"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "va oʻtkir tovush chiqaraman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:45.261412659Z",
+  "model": "glm-5.3"
+}

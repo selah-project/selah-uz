@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va har qanday sopol idish ustiga ulardan biri tushsa — ichidagi hamma narsa nopok boʻladi, va uni sindirasizlar.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "va har"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "idish"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sopol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tushsa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ichiga"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "uning ichiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma narsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "uning ichida"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nopok boʻladi"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "idishni (sopol idish)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "sindirasizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:16.057965520Z",
+  "model": "glm-5.3"
+}

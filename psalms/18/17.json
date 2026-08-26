@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 18:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "U yuqoridan yubordi, meni oldi, meni koʻp suvlardan tortib chiqardi.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "U yubordi"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yuqoridan"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "meni oldi"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "meni tortib chiqardi"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "suvlardan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:23.775916381Z",
+  "model": "glm-5.3"
+}

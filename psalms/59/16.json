@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Ular taom izab adashib yuradi, agar toʻyishmasa — kechani oʻtkazadilar.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "adashib yuradi"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "taom izab"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "masa"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "toʻyishmasa"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "kechani oʻtkazadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:44.556365198Z",
+  "model": "glm-5.3"
+}

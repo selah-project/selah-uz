@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 21:28",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va agar buqa ⟨את⟩ erkakni yoki ⟨את⟩ ayolni suvib oʻldirsa, buqa albatta toshboʻron qilinsin va ⟨את⟩ goʻshti yeyilmasin, buqaning egasi esa aybsizdir.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Va agar"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "suvsa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "buqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erkak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayol"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "va oʻlsa"
+    },
+    {
+      "surface": "סקול",
+      "gloss": "toshboʻron"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "qilinsin"
+    },
+    {
+      "surface": "השור",
+      "gloss": "buqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... masin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goʻshti"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goʻshti"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "va ... egasi"
+    },
+    {
+      "surface": "השור",
+      "gloss": "buqa"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "aybsiz"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:24.664155983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Oʻlim bogʻlari meni oʻrab oldi, va Sheol torliklari meni topdi; tangchilik va qaygʻuni topdim.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "meni oʻrab oldi"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "bogʻlari"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "va torliklari"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "meni topdi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tangchilik"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "va qaygʻu"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "topdim"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:41.701366171Z",
+  "model": "glm-5.3"
+}

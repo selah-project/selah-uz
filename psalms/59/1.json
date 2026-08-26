@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Dirijorga; „Vayron qilma“; Dovudga; miktam; Shaul yuborganida va ular ⟨את⟩ uyni oʻldirish uchun kuzatganlarida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijorga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "„Vayron"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "qilma“"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "yuborganida"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "va ular kuzatganlarida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyni"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨the⟩ uy"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "uni oʻldirish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:18.210214020Z",
+  "model": "glm-5.3"
+}

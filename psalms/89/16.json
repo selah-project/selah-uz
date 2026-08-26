@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Baxtlidir — shodliq nidosini bilgan xalq, ey Yahve; yuzingning nurida yuradilar ular.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "baxtlidir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "bilgan"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "shodliq nidosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באור",
+      "gloss": "nurida"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingning"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "yuradilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:24.286982425Z",
+  "model": "glm-5.3"
+}

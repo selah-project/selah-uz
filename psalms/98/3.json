@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 98,
+  "translation": "U Isroil uyiga nisbatan oʻz xesedini va oʻz sadoqatini esladi, yer chekkalarining barchasi Elohimimizning ⟨את⟩ najotini koʻrdi.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "esladi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "oʻz xesedini"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "va oʻz sadoqatini"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "chekkalarining"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "najotini"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "najotini"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:56.788934389Z",
+  "model": "glm-5.3"
+}

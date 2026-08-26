@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 87,
+  "translation": "Va kuylaguvchilar, raqqosalar kabi ⟨deydilar⟩: barcha buloqlarim Senda.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Va kuylaguvchilar"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "raqqosalar kabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "buloqlarim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Senda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:10.857344954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Yahve butun Isroil urugʻini rad etdi va ularni qiynadi va ularni talonchilar qoʻliga berdi, hatto ularni oʻz yuzidan tashlab yuborguniga qadar.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "rad etdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urugʻini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "qiynadi"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻliga"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "talonchilar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qadar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "tashlab yubordi"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "oʻz yuzidan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:57:50.692059016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Xormeyster uchun, sheminith ustida, Dovudning mizmori.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xormeyster uchun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "sheminith ⟨sakkizinchi⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudning"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:49.137636858Z",
+  "model": "glm-5.3"
+}

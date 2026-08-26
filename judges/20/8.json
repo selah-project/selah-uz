@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 20:8",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va butun xalq bir kishidek turdi, deydilar: hech birimiz o'z chodiriga ketmaydi va hech kim o'z uyiga qaytmaydi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "bir kishidek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yakka"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deydilar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yo'q"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ketmaydi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hech kim"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "o'z chodiriga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yo'q"
+    },
+    {
+      "surface": "נסור",
+      "gloss": "qaytmaydi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hech kim"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "o'z uyiga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:38:28.480454014Z",
+  "model": "glm-5.3"
+}

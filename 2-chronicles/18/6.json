@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Yehoshafat dedi: Bu yerda Yahve ⟨tomidan⟩ yana paygʻambar yoʻqmi, va undan ⟨את⟩ soʻrab koʻramiz?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "yoʻqmi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "bu yerda"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "paygʻambar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "va soʻraylik"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "undan ⟨את⟩",
+      "marks": "undan (min + את qoʻshilgan shakl)"
+    }
+  ],
+  "timestamp": "2026-08-26T08:52:23.124463845Z",
+  "model": "glm-5.3"
+}

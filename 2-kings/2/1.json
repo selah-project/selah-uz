@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va boʻldiki, Yahve ⟨את⟩ Eliyani boʻrongʻorda osmonga koʻtarayotganida, Eliya va Elisha Gilgaldan yurdilar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldiki"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "koʻtarayotganida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyani"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyani"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "boʻrongʻorda"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonga"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yurdilar"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "va Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-26T03:45:34.577476188Z",
+  "model": "glm-5.3"
+}

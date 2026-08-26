@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Yahve — qoyam, va qalʼam, va qutqaruvchim; Elim, tosh-qoyam — Unga panoh topaman; qalqonim va najotimning shoxi, baland panohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "qoyam"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "va qalʼam"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "va qutqaruvchim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "tosh-qoyam"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "panoh topaman"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "qalqonim"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "va shoxi"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "najotimning"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "baland panohim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:24.016506559Z",
+  "model": "glm-5.3"
+}

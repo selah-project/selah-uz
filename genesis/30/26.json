@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Ber ⟨את⟩ xotinlarimni va ⟨את⟩ bolalarimni, senga qaysi uchun ularda xizmat qildim, va men boray; chunki sen bilasan ⟨את⟩ xizmatimni, qaysini senga qildim.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Ber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xotinlarimni"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "xotinlarimni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "bolalarimni"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "bolalarimni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysi uchun"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "xizmat qildim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ senga",
+      "marks": "senga"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ularda"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "va men boray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xizmatimni"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "xizmatimni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysini"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "senga qildim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:09.582051489Z",
+  "model": "glm-5.3"
+}

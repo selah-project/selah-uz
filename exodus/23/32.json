@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Ular bilan va ularning xudolari bilan ahd tuzmaysan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "-maysan"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ahd tuzyursan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ular bilan"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "va ularning xudolari bilan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    }
+  ],
+  "timestamp": "2026-08-26T00:59:07.800433501Z",
+  "model": "glm-5.3"
+}

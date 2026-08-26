@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va jamoat qariyalari buxoʻlning boshiga qoʻllarini Yahve yuziga ⟨את⟩ qoʻyadilar, va buxoʻlni Yahve yuzida ⟨את⟩ soʻyadi.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "va qoʻyadilar"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qariyalari"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamoat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻllarini"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "qoʻllarini"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "buxoʻlning"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yuzida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "va soʻyadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buxoʻlni"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "buxoʻlni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yuzida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:19.467743358Z",
+  "model": "glm-5.3"
+}

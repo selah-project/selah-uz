@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "U oʻz uyiga suyanadi, lekin ⟨u⟩ turmaydi; u unga mahkam yopishadi, lekin ⟨u⟩ oʻrnidan turmaydi.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "suyanadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "oʻz uyiga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin turmaydi"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "turmaydi"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "mahkam yopishadi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin oʻrnidan turmaydi"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "oʻrnidan turmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:56:07.422937325Z",
+  "model": "glm-5.3"
+}

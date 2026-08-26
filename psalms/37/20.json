@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Chunki yovuzlar halok boʻladilar va Yahvening dushmanlari qoʻchqorlar yogʻidek tugaydilar — tutun boʻlib tugaydilar, tugaydilar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovuzlar"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "halok boʻladilar"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "va ... dushmanlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "yogʻidek"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "qoʻchqorlar"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tugaydilar"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "tutun boʻlib"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tugaydilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:59.242852416Z",
+  "model": "glm-5.3"
+}

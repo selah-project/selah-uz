@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 101,
+  "translation": "Kamtarlik yoʻlida aql bilan yurishga harakat qilaman. Qachon kelasan menga? Butun qalbim bilan uyim ichida yuraman.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "aql bilan yurishga harakat qilaman"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlida"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kamtarlik (butunlik)"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kelasan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "yuraman"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "butunlik bilan"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "qalbim"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ichida"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "uyim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:32.584019539Z",
+  "model": "glm-5.3"
+}

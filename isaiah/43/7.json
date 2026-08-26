@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Ismim bilan chaqirilgan har biri — sharafim uchun uni yaratdim, uni shakllantirdim, balki uni qildim.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "chaqirilgan"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ismim bilan"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "va sharafim uchun"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "uni yaratdim"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "uni shakllantirdim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "balki"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "uni qildim"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:15.334850072Z",
+  "model": "glm-5.3"
+}

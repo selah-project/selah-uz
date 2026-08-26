@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Chunki yovuzlarning qoʻllari sindiriladi, solihlarni esa Yahve koʻtarib turadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "qoʻllari"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovuzlarning"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "sindiriladi"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "esa koʻtarib turadi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "solihlarni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:59.242238383Z",
+  "model": "glm-5.3"
+}

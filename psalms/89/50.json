@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Qayerda ⟨sening⟩ avvalgi xesedlaring, Adonay? Davudga sadoqating bilan qasam ichgansan.",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "qayerda"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "xesedlaring"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "avvalgi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "qasam ichgansan"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davudga"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "sadoqating bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:42.049506195Z",
+  "model": "glm-5.3"
+}

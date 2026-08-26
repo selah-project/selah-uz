@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Buni Elohim tekshirmaydimi? Chunki u yurak sirlarini biladi.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "-maydimi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "tekshirmaydi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "buni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "sirlarini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurak"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:00.427060739Z",
+  "model": "glm-5.3"
+}

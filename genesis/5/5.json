@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Adamning barcha kunlari — ki u yashadi — toʻqqiz yuz yil va oʻttiz yil boʻldi, va u oʻldi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlari"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חי",
+      "gloss": "u yashadi"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "toʻqqiz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "va oʻttiz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "va u oʻldi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:02.856263307Z",
+  "model": "glm-5.3"
+}

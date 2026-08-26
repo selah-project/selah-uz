@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Mana, Yahve ning koʻzi Unga qoʻrqqivanlar ustiga, Uning xesediga umid qilib kutganlar ustiga.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "עין",
+      "gloss": "koʻz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Unga qoʻrqqivanlar"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "kutganlar"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "uning xesediga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:46.934195335Z",
+  "model": "glm-5.3"
+}

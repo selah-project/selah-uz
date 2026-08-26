@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ular Yahve Elohimning ⟨את⟩ ovozini eshitdilar — bog'da kunning shamasida yurib kelgan — va odam bilan xotini Yahve Elohimning yuzidan bog'dagi daraxtlar orasiga yashirindilar.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "eshitdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovoz"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "yurib kelgan"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "bog'da"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "shamasida"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "yashirindi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "xotini bilan"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "orasiga"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "daraxtlar"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bog'dagi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:13.870054837Z",
+  "model": "glm-5.3"
+}

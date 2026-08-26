@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 63,
+  "translation": "Shunday qilib, muqaddas joyda Seni koʻrdim — Sening qudratingni va ulugʻvorligingni koʻrish uchun.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Shunday qilib"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "muqaddas joyda"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "Seni koʻrdim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "koʻrish uchun"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "qudratingni"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "va ulugʻvorligingni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:17.179352623Z",
+  "model": "glm-5.3"
+}

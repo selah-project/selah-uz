@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 144,
+  "translation": "Dovudga tegishli. Barakali — Yahve, mening qoyam, qoʻllarimni jangga, barmoqlarimni urushga oʻrgatgan Zot.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga tegishli"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barakali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "mening qoyam"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "oʻrgatgan Zot"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻllarimni"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "jangga"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "barmoqlarimni"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "urushga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:58.703499516Z",
+  "model": "glm-5.3"
+}

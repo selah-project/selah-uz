@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va Moshe ⟨את⟩ ularga buyruq berib aytdi: yetti yilning oxirida — belgilangan muddatda, shmita yilida, Sukkot bayramida —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Va ... buyruq berdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ularga",
+      "marks": "ularga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aytib"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "oxirida"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "belgilangan muddatda"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "yili"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "shmita (ozod qilish)"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "bayramida"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Sukkot (kulbalar)"
+    }
+  ],
+  "timestamp": "2026-08-26T02:08:13.908063897Z",
+  "model": "glm-5.3"
+}

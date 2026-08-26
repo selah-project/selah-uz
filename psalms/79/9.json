@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 79,
+  "translation": "Yordam ber bizga, najotimiz Elohi, Isming shon-sharfi sababidan, va qutqar bizni, va gunohlarimiz ustidan kafforat qil, Isming uchun.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Yordam ber bizga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "najotimiz"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababidan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨ishtiyoqida⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "shon-sharfi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Isming"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "va qutqar bizni"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "va kafforat qil"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "gunohlarimiz"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Isming"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:05.095886610Z",
+  "model": "glm-5.3"
+}

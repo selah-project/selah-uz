@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Ham qoʻylaringizni, ham molllaringizni olinglar, sizlar soʻlagandek, va boringlar, va meni ham barakalanglar.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "qoʻylaringizni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "mollaringizni"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "olinglar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "sizlar soʻlagandek...dek"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "sizlar soʻladingiz"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "va boringlar"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "va barakalanglar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ meni",
+      "marks": "meni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:03.997624617Z",
+  "model": "glm-5.3"
+}

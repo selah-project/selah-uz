@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Chunki Axaz Yahve uyini ⟨את⟩ boʻlib chiqdi, podshoh uyini ⟨את⟩ va amaldorlar ⟨mulki⟩ni ⟨את⟩, va Assur podshohiga berdi — ammo ⟨bu⟩ unga yordam boʻlmadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "boʻlib chiqdi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Axaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ va",
+      "marks": "podshoh uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "va amaldorlar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "podshohiga"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo ... yoʻq"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "yordam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:14:05.135323489Z",
+  "model": "glm-5.3"
+}

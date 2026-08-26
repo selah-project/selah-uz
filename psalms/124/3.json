@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 124,
+  "translation": "U paytda tiriklayin yutib yuborgan boʻlar edilar bizni, gʻazablari yonib turganida bizga qarshi:",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "u paytda"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tiriklayin"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "yutib yuborgan boʻlar edilar bizni"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "yonib turganida"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "gʻazablari"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizga qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:59.552266756Z",
+  "model": "glm-5.3"
+}

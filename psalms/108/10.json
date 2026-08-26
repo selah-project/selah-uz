@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 108,
+  "translation": "Moav — yuvunish idishim; Edom ustiga poyabzalki otaman; Falastim ustida gʻalaba baqiraman.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "idish"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "yuvunish"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "otaman"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "poyabzalki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Falastim"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "gʻalaba baqiraman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:51.160308379Z",
+  "model": "glm-5.3"
+}

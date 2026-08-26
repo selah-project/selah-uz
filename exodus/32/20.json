@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 32:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va u ⟨את⟩ buzoqni oldi — ular yasaganini — va olovda yoqdi va mayin boʻlguncha yanchdi va suvning ustiga sepd va Yisroel oʻgʻillarini ⟨את⟩ ichirdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Va u oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buzoq"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "buzoq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—niki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ular yasagan"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "va yoqdi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovda"
+    },
+    {
+      "surface": "ויטחן",
+      "gloss": "va yanchdi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-guncha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ki"
+    },
+    {
+      "surface": "דק",
+      "gloss": "mayin"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "va sepd"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuziga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvning"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "va ichirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisroel oʻgʻillari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:35.922754228Z",
+  "model": "glm-5.3"
+}

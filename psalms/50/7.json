@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Esxit, ey xalqim, va men gapiraman; Isroil, va men senga guvohlik beraman; Elohim — Elohiming — men Anamen.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "esxit"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ey xalqim"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "va men gapiraman"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "va men guvohlik beraman"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men Anamen"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:21.495025536Z",
+  "model": "glm-5.3"
+}

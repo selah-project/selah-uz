@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Yehoshua oʻzi uchun chaqmoqtoş pichoqlar yasadi va Isroil oʻgʻillarini ⟨את⟩ Givʼat-ha-Aralot — Sunnat tepaligida — sunnat qildi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Va ... yasadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "oʻzi uchun"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "pichoqlar"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "chaqmoqtoşdan"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "va sunnat qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil oʻgʻillarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "da"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Givʼat — tepaligida"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "ha-Aralot — sunnat"
+    }
+  ],
+  "timestamp": "2026-08-26T02:12:15.262027767Z",
+  "model": "glm-5.3"
+}

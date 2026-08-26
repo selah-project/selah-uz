@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 9:1",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Yahve Sinay choʻlida, Misr yeridan chiqqanlarining ikkinchi yilida, birinchi oyda Moshega gapirdi, dedi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlida"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "yilida"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "chiqqanlarining"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "oyida"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "birinchi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:30:57.255876350Z",
+  "model": "glm-5.3"
+}

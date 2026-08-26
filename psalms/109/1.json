@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Dirigentga, Dovudning mizmori. Maqtovlarimning Elohimi, jim turmagin.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirigentga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmori"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "maqtovlarimning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "jim"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "turmagin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:23.140175433Z",
+  "model": "glm-5.3"
+}

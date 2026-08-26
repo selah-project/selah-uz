@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va Yosef ularga dedi: „U — oʻshani ki sizga aytdim, deb: josuslarsiz siz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oʻshani ki"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aytdim"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "josuslar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:19.842820101Z",
+  "model": "glm-5.3"
+}

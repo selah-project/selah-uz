@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va unda kambagʻal bir donishmand odam topildi, va u oʻz hikmati bilan ⟨את⟩ shaharni qutqardi, va hech bir odam ⟨את⟩ oʻsha kambagʻal odamni eslamadi.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "va topildi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "kambagʻal"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "donishmand"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "va qutqardi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaharni"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharni"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "oʻz hikmati bilan"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "va odam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "eslamadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odamni"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "kambagʻal"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:33.799864660Z",
+  "model": "glm-5.3"
+}

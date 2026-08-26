@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va u dedi: „Men Avrahamning xizmatkori man.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va u dedi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "xizmatkori"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamning"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men … man"
+    }
+  ],
+  "timestamp": "2026-08-26T00:37:49.412963809Z",
+  "model": "glm-5.3"
+}

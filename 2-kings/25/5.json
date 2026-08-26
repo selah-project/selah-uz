@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va quvladi Kasdim qoʻshini qirol ortidan va ⟨את⟩ uni Yerixo dashtlarida qoʻlga tushirdi, va butun qoʻshini undan sochilib ketdi.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "quvladi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qoʻshini"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "qoʻlga tushirdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (qirol)"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "dashtlarida"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerixo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "qoʻshini"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "sochilib ketdi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:06:12.535930850Z",
+  "model": "glm-5.3"
+}

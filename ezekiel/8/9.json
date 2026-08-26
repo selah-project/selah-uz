@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va u menga aytdi: kir va ⟨את⟩ yomon kirplashiklarni koʻrki, ularni bu yerda qilayotganlarini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kir"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "va koʻr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kirplashiklarni"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "kirplashiklar"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kiki"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "qilmoqdalar"
+    },
+    {
+      "surface": "פה",
+      "gloss": "bu yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:11:31.194641407Z",
+  "model": "glm-5.3"
+}

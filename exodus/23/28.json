@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va ⟨את⟩ shirani oldinga yuboraman va u ⟨את⟩ xiviylikni, ⟨את⟩ kənaʼanlikni va ⟨את⟩ xitlikti yuzingdan haydab chiqaradi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "va yuboraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shirani"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "shirani"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "oldinga"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "va haydab chiqaradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xiviylikni"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "xiviylikni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kənaʼanlikni"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kənaʼanlikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xitlikti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "xitlikti"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "yuzingdan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:38.149358017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 67,
+  "translation": "Xalqlar Seni ulugʻlashsin, Elohim; xalqlar — ularning barchasi Seni ulugʻlashsin.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Seni ulugʻlashsin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Xalqlar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "Seni ulugʻlashsin"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ularning barchasi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:03.900435551Z",
+  "model": "glm-5.3"
+}

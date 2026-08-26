@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va daryo qurbaqalar bilan gij-gij boʻladi, va ular koʻtarilib uyingga, yotoqxona-hujranga va toʻshagingga, xizmatkorlaringning uyiga va xalqingga, tandirlaringga va xamir qoriladigan idishlaringa kiradi.",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "Va … gij-gij boʻladi"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "daryo"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "qurbaqalar bilan"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "va … koʻtarilib"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "kiradi"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "uyingga"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "yotoqxona-hujranga"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "—"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va … ustiga"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "toʻshagingga"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "xizmatkorlaringning"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "xalqingga"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "tandirlaringga"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "xamir qoriladigan idishlaringa"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:57.935859294Z",
+  "model": "glm-5.3"
+}

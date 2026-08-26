@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va David butun Isroil ustidan podshohlik qildi; va David butun xalqiga hukm va adolat ishlab turdi.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "podshohlik qildi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldiki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ishlab turdi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukm"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "va adolat"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqiga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:07:11.526857211Z",
+  "model": "glm-5.3"
+}

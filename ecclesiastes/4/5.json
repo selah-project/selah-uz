@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Ahmoq ⟨את⟩ qoʻllarini quchsarlaydi va ⟨את⟩ oʻz goʻshtini yeydi.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "ahmoq"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "quchsarlaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻllarini"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "oʻz qoʻllarini"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "va yeydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz goʻshtini"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "oʻz goʻshtini"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:47.354431820Z",
+  "model": "glm-5.3"
+}

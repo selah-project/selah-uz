@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Yahve ⟨את⟩ yeringning yomgʻirini chang va tuproqchangga aylantirib beradi; osmondan sening ustingga tushadi, yoʻq qilinguningcha.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "beradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeringning yomgʻirini"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "yomgʻirini"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "yeringning"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "chang"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "va tuproqchang"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmondan"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tushadi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sening ustingga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "–guncha"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "yoʻq qilinguningcha"
+    }
+  ],
+  "timestamp": "2026-08-26T02:03:29.421430461Z",
+  "model": "glm-5.3"
+}

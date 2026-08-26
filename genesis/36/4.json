@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Va Ada Esavga ⟨את⟩ Eliphazni tugʻdi, va Bosmat ⟨את‬ Reuelni tugʻdi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Va ... tugʻdi"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Esavga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliphazni"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Eliphazni"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "va Bosmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reuelni"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reuelni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:14.645094057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 56,
+  "translation": "Elohimda soʻzni madh etaman; Yahveda soʻzni madh etaman.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimda"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "madh etaman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzni"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahveda"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "madh etaman"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:47.769916343Z",
+  "model": "glm-5.3"
+}

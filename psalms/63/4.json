@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 63,
+  "translation": "Chunki Sening xeseding hayotdan ham yaxshiroq — lablarim Seni maqtaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshiroq"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Sening xeseding"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "hayotdan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lablarim"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "Seni maqtaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:17.179457147Z",
+  "model": "glm-5.3"
+}

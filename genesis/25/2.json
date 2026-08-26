@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va u unga ⟨את⟩ Zimron va ⟨את⟩ Yokshon va ⟨את⟩ Medon va ⟨את⟩ Midyon va ⟨את⟩ Yishbok va ⟨את⟩ Shuaxni tug‘di.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "tug‘di"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimron"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yokshon"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Medon"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Midyon"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yishbok"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishbok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shuax"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuax"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:36.488005170Z",
+  "model": "glm-5.3"
+}

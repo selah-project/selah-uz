@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 21:3",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va qaytdi va ⟨את⟩ baland joylarni qurdi — otasi Xizkiyo yoʻq qilganlarni — va Baal uchun qurbongohlar tikdi va Ashera yasadi, xuddi Isroil podshohi Axav qilgani kabi, va osmon barcha jangovar guruhlariga sajda qildi va ularga xizmat qildi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "va qaytdi"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "va qurdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baland joylarni"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "baland joylarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yoʻq qilgan"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Xizkiyo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "va tikdi"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "qurbongohlar"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal uchun"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "va yasadi"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xuddi ... kabi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "va sajda qildi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barchasiga"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "jangovar guruh"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonning"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "va xizmat qildi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:01:26.995574442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Shemuël Yahvening ⟨את⟩ barcha soʻzlarini odamga aytdi — podshoh soʻrab ⟨את⟩ undan soʻragan odamga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha soʻzlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "soʻrayotgan"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "undan ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshoh"
+    }
+  ],
+  "timestamp": "2026-08-26T02:43:24.458083231Z",
+  "model": "glm-5.3"
+}

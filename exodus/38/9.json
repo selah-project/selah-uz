@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va u ⟨את⟩ hovlini yasadi — janub tomonda, tejanim tomonda; hovli pardalari egilgan linadan, yuz qadam.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va u yasadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hovlini"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hovlini"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tomonida"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "janub"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "tejanim tomonda"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "pardalari"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hovli"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lina"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "egilgan"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "qadam"
+    }
+  ],
+  "timestamp": "2026-08-26T01:06:25.523859629Z",
+  "model": "glm-5.3"
+}

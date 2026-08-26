@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va sen bu xalq uchun ibodat qilma, ular uchun nola va ibodat koʻtarma, va Menda iltijo qilma, chunki Men seni eshitmayman.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Va sen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ma"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "ibodat qilma"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va –ma"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "koʻtarma"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "ular uchun"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "nola"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "va ibodat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va –ma"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "iltijo qilma"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Menda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "Men... emasman"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshituvchi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seni",
+      "marks": "eshitilayotgan sen"
+    }
+  ],
+  "timestamp": "2026-08-26T04:41:36.436360300Z",
+  "model": "glm-5.3"
+}

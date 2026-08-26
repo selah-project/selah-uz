@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Bizni dushmandan orqaga qaytarasan va bizdan nafratlanganlar oʻzlariga oʻlja tortadilar.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Bizni qaytarasan"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "orqaga"
+    },
+    {
+      "surface": "מני",
+      "gloss": "‑dan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dushman"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "va bizdan nafratlanganlar"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "oʻlja tortadilar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "oʻzlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:51.084922277Z",
+  "model": "glm-5.3"
+}

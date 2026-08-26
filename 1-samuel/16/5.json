@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va u aytdi: Tinchlik bilan, Yahvegʻi qurbonlik qilishga keldim; muqaddas boʻlinglar va qurbonlikka men bilan birga kelinglar. Va u Yishayni va uning oʻgʻillarini muqaddas qildi va ularni qurbonlikka chaqirdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u aytdi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Tinchlik bilan"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "qurbonlik qilishga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegʻi"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "keldim"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "muqaddas boʻlinglar"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "va kelinglar"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bilan"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "qurbonlikga"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "Va u muqaddas qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishayni"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning oʻgʻillarini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uning oʻgʻillari"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularni"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "qurbonlikka"
+    }
+  ],
+  "timestamp": "2026-08-26T02:50:30.652965944Z",
+  "model": "glm-5.3"
+}

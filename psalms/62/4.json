@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 62:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 62,
+  "translation": "Qachongacha bir odam ustiga hujum qilasizlar, barchangiz oʻldirasizlarmi? Eğilgan devor, qulatilgan toʻsiq kabi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Qachongacha"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "תהותתו",
+      "gloss": "hujum qilasizlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir odam"
+    },
+    {
+      "surface": "תרצחו",
+      "gloss": "oʻldirasizlar"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "barchangiz"
+    },
+    {
+      "surface": "כקיר",
+      "gloss": "devor kabi"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "eğilgan"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "toʻsiq"
+    },
+    {
+      "surface": "הדחויה",
+      "gloss": "qulatilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:09.793722808Z",
+  "model": "glm-5.3"
+}

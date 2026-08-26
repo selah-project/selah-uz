@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 82,
+  "translation": "Tur, Elohim, yerni sudda hukm qil, chunki Sen barcha xalqlarni meros olasan.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "hukm qil"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "meros olasan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:09.030713151Z",
+  "model": "glm-5.3"
+}

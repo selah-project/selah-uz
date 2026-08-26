@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 5:27",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Unda charchagan yoʻq va tovlaydigan yoʻq; u mast boʻlmaydi va uxlamaydi; uning belbogʻi yechilmagan, va etigining bogʻovi uzilmagan.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "charchagan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "כושל",
+      "gloss": "tovlaydigan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "mast boʻlmaydi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "uxlamaydi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "נפתח",
+      "gloss": "yechilmagan"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "belbogʻi"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "uning belining"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "uzilmagan"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "bogʻovi"
+    },
+    {
+      "surface": "נעליו",
+      "gloss": "uning etigining"
+    }
+  ],
+  "timestamp": "2026-08-26T04:08:35.132098930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Resenni Nineva bilan Kalax orasida — u ⟨⟨...⟩⟩ buyuk shahardir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Resenni"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resenni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "orasida"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineva bilan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "... bilan"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalax"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "buyuk"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:10.112412599Z",
+  "model": "glm-5.3"
+}

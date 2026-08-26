@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va podshoh Yerushalaimda ⟨את⟩ kumushni va ⟨את⟩ oltinni toshlardek berdi, va ⟨את⟩ sadr daraxtlarini ko'p bo'lgani uchun tekislikdagi tut daraxtlaridek berdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Va berdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumushni"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumushni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oltinni"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "oltinni"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaimda"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "toshlardek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "sadr daraxtlarini"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "sadr daraxtlarini"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "tut daraxtlaridek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "tekislikda"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ko'p bo'lgani uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:04:21.321136944Z",
+  "model": "glm-5.3"
+}

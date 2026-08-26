@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Uning suvlari gʻuvullaydi, qaynaydi, togʻlar uning gʻururi bilan qaltirraydi. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "gʻuvullaydi"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "qaynaydi"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "Uning suvlari"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "qaltirraydi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "uning gʻururi bilan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:30.610115958Z",
+  "model": "glm-5.3"
+}

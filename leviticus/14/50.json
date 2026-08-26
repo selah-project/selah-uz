@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va u ⟨את⟩ qushlardan birini sopol idish ichida, tirik suv ustida soʻyadi.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "soʻyadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qushlardan birini"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "qush"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "biri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ichiga"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "idish"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sopol"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tirik"
+    }
+  ],
+  "timestamp": "2026-08-26T01:15:42.072336220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 142,
+  "translation": "Senga baqirdim, ey Yahve; dedim: Sen ⟨mening⟩ panohimsan, tiriklar yerida ulushim.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "baqirdim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "panohim"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ulushim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tiriklar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:38.834387780Z",
+  "model": "glm-5.3"
+}

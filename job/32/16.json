@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va men kutdim — chunki gapirmadilar, chunki toʻxtadilar, boshqa javob berishmadi —",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "Va men kutdim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…madilar"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "gapir-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "toʻxtadilar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…madi"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "javob berish-"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "boshqa"
+    }
+  ],
+  "timestamp": "2026-08-26T07:05:37.381844128Z",
+  "model": "glm-5.3"
+}

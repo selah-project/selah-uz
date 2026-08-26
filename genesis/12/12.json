@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va boʻlajak: mitsrayimliklar seni ⟨את⟩ koʻrganlarida, „Bu uning xotini“ deyishadi, va meni ⟨את⟩ oʻldirishadi, seni esa ⟨את⟩ tirik qoldirishadi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "va boʻlajak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ganda"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "koʻrganlarida"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "seni"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "mitsrayimliklar"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va deyishadi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "uning xotini"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "va oʻldirishadi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "seni"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "tirik qoldirishadi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:43.524662893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Belauning o‘g‘illari bo‘ldi: Ard va Naaman — Ard uchun Ard urug‘i, Naaman uchun Naam urug‘i.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "bo‘ldi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o‘g‘illari"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Belauning"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Ard"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "va Naaman"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "urug‘i"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "Ard urug‘i"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "Naaman uchun"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "urug‘i"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "Naam urug‘i"
+    }
+  ],
+  "timestamp": "2026-08-26T01:41:19.698296290Z",
+  "model": "glm-5.3"
+}

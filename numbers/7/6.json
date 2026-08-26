@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Moshe ⟨את⟩ aravalarni va ⟨את⟩ buqalarni oldi va ularni Leviylarga berdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aravalarni"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "aravalar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "buqalarni"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "buqalar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "Leviylarga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ga"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviylar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:27:37.924375105Z",
+  "model": "glm-5.3"
+}

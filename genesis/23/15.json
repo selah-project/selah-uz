@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "„Janobim, meni tingla: yer — toʻrt yuz shkel kumush; men bilan senning oramda u nima? Bas ⟨את⟩ oʻligingni dafn qil.“",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Janobim"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "meni tingla"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "toʻrt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shkel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "men bilan"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "senning oramda"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻliging"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "oʻligingni"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "dafn qil"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:52.771999330Z",
+  "model": "glm-5.3"
+}

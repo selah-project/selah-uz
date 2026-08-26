@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Baxtli ⟨u⟩ — odamki, uni sen, Yah, intizomga solasan va Tavrotingdan uni oʻrgatasan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtli"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "uni intizomga solasan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "va Tavrotingdan"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "uni oʻrgatasan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:47.021692959Z",
+  "model": "glm-5.3"
+}

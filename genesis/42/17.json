@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va u ularni ⟨את⟩ qamoqqa yigʻdi — uch kun.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "va yigʻdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularga",
+      "marks": "ularni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qamoqqa"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "qamoq"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uch"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-26T00:45:56.350750822Z",
+  "model": "glm-5.3"
+}

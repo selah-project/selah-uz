@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Yuborsin sening yordamingni muqaddas ⟨the⟩ joydan, va Tsiyondan seni boqsin.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "yuborsin"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "yordamingni"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "muqaddas joydan"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "va Tsiyondan"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "seni boqsin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:58.458735519Z",
+  "model": "glm-5.3"
+}

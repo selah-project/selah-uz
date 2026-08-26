@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Dovud koʻrdi ki, Shoul ⟨את⟩ uning jonini qidirish uchun chiqqan; va Dovud Zif choʻlida, Xorshada ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqqan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "qidirish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning jonini"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "uning jonini"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "va Dovud"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlida"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "Xorshada"
+    }
+  ],
+  "timestamp": "2026-08-26T02:56:37.627783686Z",
+  "model": "glm-5.3"
+}

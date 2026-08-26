@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Yahvega shukr aytinglar, Ismiga murojaat qilinglar, xalqlar orasida Uning amallarini e'lon qilinglar.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "shukr ayitinglar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "murojaat qilinglar"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "Ismiga"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "e'lon qilinglar"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "xalqlar orasida"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "Uning amallarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:42.073379662Z",
+  "model": "glm-5.3"
+}

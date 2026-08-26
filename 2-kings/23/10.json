@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va u Tofetni ⟨את⟩ — u Gey Ben-Hinom vodiysida — ifloslantirdi, hech kim oʻz oʻgʻlini ⟨את⟩ va oʻz qizini ⟨את⟩ olovdan Moloxga oʻtkazmasin deb.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "ifloslantirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "vodiysida"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "—"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "oʻtkazmasin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hech kim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻgʻlini"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qizini"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovdan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Moloxga"
+    }
+  ],
+  "timestamp": "2026-08-26T09:02:42.695007930Z",
+  "model": "glm-5.3"
+}

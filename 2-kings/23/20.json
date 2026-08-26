@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va u ⟨את⟩ bama kohinlarining hammasini, u yerda mizbaxlar ustida boʻlganlarni, qurbon qildi va ⟨את⟩ odam suyaklarini ularning ustiga yoqdi va Yerushalaimga qaytdi.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "qurbon qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bama kohinlarining hammasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasini"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kohinlarining"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "bama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "mizbaxlar"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "yoqdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odam suyaklari"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "suyaklari"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ularning ustiga"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaimga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:04:09.638151416Z",
+  "model": "glm-5.3"
+}

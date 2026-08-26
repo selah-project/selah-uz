@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Osmonlardan Yahve qaradi, u ⟨את⟩ barcha odam bolalarini koʻrdi.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "osmonlardan"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "qaradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha odam bolalarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bolalarini"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:48.298665937Z",
+  "model": "glm-5.3"
+}

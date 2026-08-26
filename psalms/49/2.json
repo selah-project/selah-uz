@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Eshitlar buni, barcha xalqlar; quloq solsalar, ⟨olam⟩ aholisining hammasi.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "eshitar"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "buni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "quloq solar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "aholisi"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "⟨olam⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:40.409063128Z",
+  "model": "glm-5.3"
+}

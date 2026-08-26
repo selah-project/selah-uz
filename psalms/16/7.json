@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Yahveni ⟨את⟩ barakalayman, U menga maslahat berdi; tunda ham buyraklarim meni tarbiyalaydi.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "barakalayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "U"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "menga maslahat berdi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "meni tarbiyalaydi"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "buyraklarim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:47.559941481Z",
+  "model": "glm-5.3"
+}

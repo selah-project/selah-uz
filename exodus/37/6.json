@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va u muqarna — toza oltindan — yasadi: uzunligi ikki tirsak va yarim, kengligi bir tirsak va yarim.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va u yasadi"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "muqarna"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltindan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "toza"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ikki tirsak"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "va yarim"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "uzunligi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "va bir tirsak"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "va yarim"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "kengligi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:06:10.428796542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va sizlar goylar ichida yoʻq boʻlasizlar, va dushmanlaringiz eri ⟨את⟩ sizlarni yeydi.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "va yoʻq boʻlasizlar"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "goylar ichida"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "va ... yeydi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "er"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dushmanlaringiz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:24:28.383365035Z",
+  "model": "glm-5.3"
+}

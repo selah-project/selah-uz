@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Haddan oshib solih boʻlma, va ortiqcha dono boʻlub olma — nima uchun vayron boʻlasan?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "boʻlma"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "boʻl"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "haddan oshib"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va boʻlma"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "dono boʻlmoq"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ortiqcha"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "vayron boʻlasan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:59.215256740Z",
+  "model": "glm-5.3"
+}

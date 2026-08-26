@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Sen ularni yuzingning panohida odam hiylaridan yashirursan, sen ularni kulbadan tillar nizosidan pinhon saqlaysan.",
+  "tokens": [
+    {
+      "surface": "תסתירם",
+      "gloss": "yashirursan"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "panohida"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingning"
+    },
+    {
+      "surface": "מרכסי",
+      "gloss": "hiylaridan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "תצפנם",
+      "gloss": "pinhon saqlaysan"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "kulbada"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "nizosidan"
+    },
+    {
+      "surface": "לשנות",
+      "gloss": "tillar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:20.147982331Z",
+  "model": "glm-5.3"
+}

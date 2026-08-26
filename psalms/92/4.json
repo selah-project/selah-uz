@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 92,
+  "translation": "Oʻn torli asbobda va nevelda, kinorda higayon ⟨kuylanadi⟩.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "-da (ustida)"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "oʻn torli asbob"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "va -da"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "-da"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinorda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:37.462948512Z",
+  "model": "glm-5.3"
+}

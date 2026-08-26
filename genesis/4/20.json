@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Ada ⟨את» Yavalni tugʻdi; u chodirlarda yashovchilar va mollarning otasi boʻlgan edi.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yavalni"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yavalni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻlgan edi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yashovchilar"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodirlarda"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "va mollarning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:16.698114167Z",
+  "model": "glm-5.3"
+}

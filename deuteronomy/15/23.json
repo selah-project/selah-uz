@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Faqat uning qonini yemaysan; ⟨את⟩ uni yerga suv kabi toʻkib tashlaysan.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Faqat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning qonini"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "uning qonini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yemaysan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yemaysan"
+    },
+    {
+      "surface": "על",
+      "gloss": "urga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "toʻkib tashlaysan"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "suv kabi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:24:31.804523030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va Moshe Yahve ogʻzi boʻyicha ularning chiqishlarini ⟨את⟩ ularning koʻchishlari boʻyicha yozdi, va bular ularning koʻchishlari — ularning chiqishlariga koʻra.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "Va ... yozdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning chiqishlarini"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "ularning chiqishlarini"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "ularning koʻchishlari boʻyicha"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻyicha"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "va bular"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "ularning koʻchishlari"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "ularning chiqishlariga koʻra"
+    }
+  ],
+  "timestamp": "2026-08-26T01:45:50.862326610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va boshqa toshlarni olib, o'sha toshlar o'rniga keltirsinlar, va boshqa loy olib, ⟨את⟩ uyni suvaganlar.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "va olsinlar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "toshlarni"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "va keltirsinlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "o'rniga"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "o'sha toshlar"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "va loy"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "olsin"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "va suvagan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyni"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uyni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:16:21.603153863Z",
+  "model": "glm-5.3"
+}

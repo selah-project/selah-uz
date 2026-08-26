@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 10:12",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Hayot va xesed qilding men bilan, va tashrifing saqlab turdi ruhimni.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "hayot"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "va xesed"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "qilding"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "men bilan"
+    },
+    {
+      "surface": "ופקדתך",
+      "gloss": "va tashrifing"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "saqlab turdi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:56:40.753563472Z",
+  "model": "glm-5.3"
+}

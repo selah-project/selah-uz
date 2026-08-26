@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 137,
+  "translation": "Esla, ey Yahve, Edom oʻgʻillariga ⟨את⟩ Yerushalaim kunini — ular: „Yiqit, yiqit uning poydevorigacha!“ deganlar.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Esla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahve"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim kunini"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kunini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "deganlar"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "„Yiqit"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "yiqit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—gacha"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "poydevoriga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "uning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:53.319600877Z",
+  "model": "glm-5.3"
+}

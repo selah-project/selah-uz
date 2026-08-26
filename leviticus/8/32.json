@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Goʻshtda va nonda qolgan qoldiqni esa olovtada yoqasizlar.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "qolgan qoldiqni esa"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "goʻshtda"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "va nonda"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovtada"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "yoqasizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:58.652000154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va Dovud dedi: „Bunday qilmanglar, aka-ukalarim, Yahvening bizga berganiga ⟨את⟩ bilan; U ⟨את⟩ bizni saqladi va ustimizga kelgan guruhni ⟨את⟩ qoʻlimizga berdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "qilmanglar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bunday"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "aka-ukalarim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "Yahvening bizga bergan narsasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nimaiki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bergan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "saqladi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizni",
+      "marks": "biz"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guruhni"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "guruhni"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "kelgan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ustimizga"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "qoʻlimizga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:02:24.986442163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "va ⟨את⟩ oʻgʻillaringni soʻyding va ularni ⟨את⟩ ularga oʻtkazib berding",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "soʻyding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻgʻillaringni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillaring"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "berding"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "oʻtkazib"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:14:47.024993565Z",
+  "model": "glm-5.3"
+}

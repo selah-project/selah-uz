@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Barcha isyonlarimdan meni qutqar, nodonning masxarasiga meni qoʻymagin.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "barcha …dan"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "isyonlarim"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "meni qutqar"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "masxarasi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nodonning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qoʻymagin"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "meni qoʻymoq"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:35.047475106Z",
+  "model": "glm-5.3"
+}

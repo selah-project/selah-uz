@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va otalarimiz Elohi Yahvega faryod qildik, va Yahve eshitdi ⟨את⟩ ovozimizni, va koʻrdi ⟨את⟩ musibatimizni va ⟨את⟩ mehnatimizni va ⟨את⟩ zulmimizni.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "va faryod qildik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "otalarimiz"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozimizni"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "ovozimizni"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musibatimizni"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "musibatimizni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "mehnatimizni"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "mehnatimizni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "zulmimizni"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "zulmimizni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:01:34.013872611Z",
+  "model": "glm-5.3"
+}

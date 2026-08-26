@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Halokat taxti Siz bilan birga boʻladimi — zarar-mazarra tugʻruvchi, qonun ustidan?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "Siz bilan birga boʻladimi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taxti"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "halokat"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "tugʻruvchi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zarar-mazarra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qonun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:26.728469747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va ⟨את⟩ choʻchqani — chunki u tuyoqni boʻladi, tuyoq yorigʻi boʻylab yorilgan, lekin oshqozonidagini qaytarmaydi — u sizlar uchun nopokdir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Va ⟨את⟩",
+      "marks": "choʻchqa"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "choʻchqa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "tuyoqni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "va yorilgan"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "yorigʻi boʻylab"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "tuyoq"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "lekin u"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "oshqozonidagini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "qaytarmaydi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nopok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:56.808880956Z",
+  "model": "glm-5.3"
+}

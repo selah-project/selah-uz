@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve ⟨oʻz⟩ muqaddas saroyida — jim turing, Yuzi oldida butun yer!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Va Yahve"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "saroyida"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "הס",
+      "gloss": "Jim turing!"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "Yuzi oldida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T05:48:33.149137500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 25:33",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Yaakov aytdi: „Menга bugun qasam ich“, va ⟨u⟩ unga qasam ichdi, va befikrorligini Yaakovga sotdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "qasam ich"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "va qasam ichdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "va sotdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "befikrorligini"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "befikrorligini"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakovga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:37:42.684744268Z",
+  "model": "glm-5.3"
+}

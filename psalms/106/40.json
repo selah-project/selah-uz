@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va Yahvening gʻazabi oʻz xalqiga alanguladi, va U ⟨את⟩ oʻz merosini yomon koʻrdi.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "alanguladi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gʻazabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "oʻz xalqiga"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "va yomon koʻrdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz merosini"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "oʻz merosini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:11.184696773Z",
+  "model": "glm-5.3"
+}

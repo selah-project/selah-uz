@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Qaerdalar endi sening donishmandlaring? Endi senga aytib bersinlar va bilib olsinlar: Yahve Sevaot Misr ustiga nima maslahat qilganini.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "qaerdalar"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "endiva"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "sening donishmandlaring"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "aytib bersinlar"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Endi (iltijosiga yaqin)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "va bilib olsinlar"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "maslahat qilgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T04:14:19.727531120Z",
+  "model": "glm-5.3"
+}

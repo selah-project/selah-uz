@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 7:2",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Tur Yahve uyining darvozasida va u yerda ⟨את⟩ bu soʻzni eʼlon qil va aytilsin: Esiting, Yahve soʻzini, butun Yahudo, butun bu darvozalardan Yahve sajda qilishga kirayotganlar!",
+  "tokens": [
+    {
+      "surface": "עמד",
+      "gloss": "Tur"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "darvozasida"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyining"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "va eʼlon qil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu soʻzni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻzni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "va aytilsin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Esiting"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "kirayotganlar"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "darvozalardan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "sajda qilishga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    }
+  ],
+  "timestamp": "2026-08-26T04:40:41.950042001Z",
+  "model": "glm-5.3"
+}

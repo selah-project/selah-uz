@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Dovud odamlarini ⟨את⟩ soʻzlar bilan tiydi va ularning Shaʼulga qalqishiga yoʻl qoʻymadi; Shaʼul gʻordan turdi va yoʻlda ketdi.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "va tiydi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odamlarini"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "odamlarini"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "soʻzlar bilan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "yoʻl qoʻymadi"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "qalqishiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaʼul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "va Shaʼul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "gʻordan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va ketdi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:55:56.495125665Z",
+  "model": "glm-5.3"
+}

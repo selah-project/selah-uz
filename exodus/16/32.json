@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 16:32",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Moshe aytdi: Mana bu — soʻzki Yahve buyurgan: undan bir omer toʻldirib saqlansin avlodlaringiz uchun, — uchun koʻrsinlar ⟨את⟩ nonni, qaysi nonni men sizlarga choʻlda yedirganman, sizlarni Misr yeridan olib chiqqanimda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... aytdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Mana bu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "toʻldirib"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "bir omer"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "saqlansin"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "avlodlaringiz uchun"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "koʻrsinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonni"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "nonni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysi"
+    },
+    {
+      "surface": "האכלתי",
+      "gloss": "yedirganman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni yedirgan obyekt"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "בהוציאי",
+      "gloss": "olib chiqqanimda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "olib chiqilgan obyekt"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:52.305431981Z",
+  "model": "glm-5.3"
+}

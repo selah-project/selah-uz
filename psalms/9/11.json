@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Ismingni bilganlar Senga ishonadilar, chunki Sen Sizlaganlarni tashlab ketmading, ey Yahve.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "Va ishonadilar"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "bilganlar"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Ismingni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…emas"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "tashlab ketmading"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "Sizlaganlarni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:34.284624974Z",
+  "model": "glm-5.3"
+}

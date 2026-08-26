@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va Yahve koʻrdi ki, Lea soʻkilgan, va u uning bachadonini ochdi; Rahel esa bepusht edi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "soʻkilgan"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ochdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bachadon"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "uning bachadoni"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "Rahel esa"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "bepusht"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:01.491218428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Yehoshafat, Yehuda qiroli, tinchlikda oʻz uyiga, Yerushalaimga qaytdi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "oʻz uyiga"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "tinchlikda"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalaimga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:10:48.178758939Z",
+  "model": "glm-5.3"
+}

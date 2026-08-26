@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va ularni ⟨את⟩ asir olganlarining hammasi oldida rahm-shafqatga berdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "rahm-shafqatga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "asir olganlarining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:41.451895065Z",
+  "model": "glm-5.3"
+}

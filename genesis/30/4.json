@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va u unga ⟨את⟩ Bilhani — kanizasini — xotinlikka berdi, va Yaakov uning oldiga kirdi.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "kanizasini"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "xotinlikka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kirdi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "uning oldiga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:58.983266769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 75,
+  "translation": "Chunki ⟨balandlik⟩ chiqmaydi na chiqish tomondan, na g'urbdan, va na tog'lar cho'lidan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "chiqish tomondan"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "va na g'urbdan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va na"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "cho'lidan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tog'lar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:25.224209434Z",
+  "model": "glm-5.3"
+}

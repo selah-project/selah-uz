@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 100,
+  "translation": "Bilinglar: Yahve — U Elohim; U bizni yaratdi, biz ⟨oʻzimiz⟩ emas. Biz — Uning xalqi va Uning oʻtlak qoʻylarimiziz.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Bilinglar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "bizni yaratdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Uning xalqi"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "va qoʻylar"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "Uning oʻtlagi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:23.767253489Z",
+  "model": "glm-5.3"
+}

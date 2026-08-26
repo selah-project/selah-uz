@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Adonaylar ichidagi Adonay’ga shukur aytingiz, chunki abadga ⟨duradur⟩ Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "shukur aytingiz"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonay’ga"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "Adonaylarning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ללעלם",
+      "gloss": "abadga"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:23.294902552Z",
+  "model": "glm-5.3"
+}

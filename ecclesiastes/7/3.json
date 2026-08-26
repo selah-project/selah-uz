@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Gʻam kulgidan ⟨yaxshiroq⟩, chunki yuz qaygʻusida yurax yaxshilanadi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "gʻam"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "kulgidan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "qaygʻusida"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "yaxshilanadi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurax"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:17.755891202Z",
+  "model": "glm-5.3"
+}

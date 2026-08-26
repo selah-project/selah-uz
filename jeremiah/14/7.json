@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 14:7",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Agar jinoyatlarimiz bizga qarshi guvohlik bersa — Yahve, Isming uchun ⟨buni⟩ qil, chunki qayishlarimiz koʻpaydi, Senga qarshi gunoh qildik.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "עונינו",
+      "gloss": "jinoyatlarimiz"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "guvohlik berdi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizga qarshi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qil"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Isming"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "koʻpaydi"
+    },
+    {
+      "surface": "משובתינו",
+      "gloss": "qayishlarimiz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Senga qarshi"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "gunoh qildik"
+    }
+  ],
+  "timestamp": "2026-08-26T04:45:35.491977547Z",
+  "model": "glm-5.3"
+}

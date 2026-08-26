@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Senga aytdi yuragim: „Yuzimni izlanglar“; ⟨את⟩ Yuzingni, Yahve, izlayman.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "izlanglar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzimni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuzingni"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Yuzingni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "izlayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:31.430375902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va aralash olomon ham ular bilan ⟨את⟩ birga koʻtarildi, hamda qoʻylar va mol — juda ogʻir chorva mollar.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Va ham"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aralash"
+    },
+    {
+      "surface": "רב",
+      "gloss": "olomon"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "koʻtarildi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ular bilan",
+      "marks": "ular bilan"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "va qoʻylar"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "va mol"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "chorva"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ogʻir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:36.663439775Z",
+  "model": "glm-5.3"
+}

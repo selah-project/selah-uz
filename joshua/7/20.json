@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Axxan Yehoshuani ⟨את⟩ javob berdi va dedi: Rostinan, men Yahve isroil Elohimining oldida gunoh qildim, va mana buni va mana buni qildim.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Axxan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshuani"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuani"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "rostinan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "gunoh qildim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…ning Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "va mana buni"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "va mana buni"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "qildim"
+    }
+  ],
+  "timestamp": "2026-08-26T02:13:04.619404022Z",
+  "model": "glm-5.3"
+}

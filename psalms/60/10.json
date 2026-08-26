@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "Moav — yuvish idishim, Edom ustiga poyabzalimni tashlayman, oʻzim ustiga Pellishtga qichqirib gʻalaba qilaman.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "idish"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "yuvish"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "tashlayman"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "poyabzalimni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oʻzim ustiga"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pellisht"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "qichqirib gʻalaba qilaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:54.101257336Z",
+  "model": "glm-5.3"
+}

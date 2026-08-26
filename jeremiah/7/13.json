@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 7:13",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va endi, chunki sizlar ⟨את⟩ barcha shu ishlarni qildingiz, — Yahvening nutqi — va men sizlarga gapirdim, erta turib gapirdim, ammo sizlar eshitmadingiz, va men ⟨את⟩ sizlarni chaqirdim, ammo sizlar javob bermadingiz.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Va endi"
+    },
+    {
+      "surface": "יען",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עשותכם",
+      "gloss": "sizlar qildingiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha shu ishlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ishlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nutqi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "va men gapirdim"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "erta turib"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "va gapirib"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "sizlar eshitmadingiz"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "va men chaqirdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "chaqirilayotgan sizlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "sizlar javob bermadingiz"
+    }
+  ],
+  "timestamp": "2026-08-26T04:41:36.435729456Z",
+  "model": "glm-5.3"
+}

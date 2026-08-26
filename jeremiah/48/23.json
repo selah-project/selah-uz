@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 48,
+  "translation": "Va Qiryatayim ustiga, va Beyt-Gamul ustiga, va Beyt-Meon ustiga.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "va ... ustiga"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Qiryatayim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... ustiga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "Gamul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... ustiga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meon"
+    }
+  ],
+  "timestamp": "2026-08-26T05:04:14.550540733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Va bu Yahve uchun shoxli, tuyokli buqadan ham yoqimliroq boʻladi.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "va yoqimliroq boʻladi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "משור",
+      "gloss": "buqadan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buqadan"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "shoxli"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "tuyokli"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:37.500484154Z",
+  "model": "glm-5.3"
+}

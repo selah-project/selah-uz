@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Ixtiyoriy ehsonlar yomgʻirini sochding, ey Elohim; Merosing toliqtganda — Sen uni mustahkam qilding.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "yomgʻirini"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "ixtiyoriy ehsonlar"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "sochding"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "Merosing"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "toliqtganda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "uni mustahkam qilding"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:31.966168167Z",
+  "model": "glm-5.3"
+}

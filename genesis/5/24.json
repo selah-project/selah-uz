@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Xanok Elohim bilan ⟨את⟩ yurdi va ⟨u⟩ yoʻq edi, chunki Elohim uni ⟨את⟩ olib ketdi.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "yurdi"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Xanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim bilan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "yoʻq edi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "olib ketdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:32.364923819Z",
+  "model": "glm-5.3"
+}

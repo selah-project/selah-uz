@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Va bilsinlarki — Sen, Isming Yahve yolgʻiz Sen — Eng Yuqori butun yer ustidasan.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "va bilsinlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kigi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Isming"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yolgʻiz Sen"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eng Yuqori"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:35.246996874Z",
+  "model": "glm-5.3"
+}

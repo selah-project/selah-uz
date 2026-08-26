@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Yahve Sarani ⟨את⟩ tashrif bilan yodlab, oʻz aytganidek qildi; va Yahve Sara uchun oʻz soʻlaganidek qildi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "va Yahve"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "tashrif bilan yodladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xuddi shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytganday"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sara uchun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xuddi shunday"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻlaganday"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:12.240160184Z",
+  "model": "glm-5.3"
+}

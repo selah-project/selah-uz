@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va Yaakov yashadi otasining muhojirliklar yerida — Kenaan yerida.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "muhojirliklarida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:43:15.780205094Z",
+  "model": "glm-5.3"
+}

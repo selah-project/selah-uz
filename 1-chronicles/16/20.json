@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va ular xalqdan xalqqa, shohlikdan boshqa xalqqa yurib yurdi.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "va yurib yurdi"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "xalqdan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "xalqqa"
+    },
+    {
+      "surface": "ומממללכה",
+      "gloss": "va shohlikdan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqqa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boshqa"
+    }
+  ],
+  "timestamp": "2026-08-26T07:58:37.797596741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 88,
+  "translation": "Koʻzim iztirojimdan soʻldi; har kuni senga murojaat qildim, ey Yahve; qoʻllarimni senga yoydim.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "koʻzim"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "soʻldi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "עני",
+      "gloss": "iztirojim"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "senga murojaat qildim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "har"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "yoydim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "qoʻllarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:30.419144910Z",
+  "model": "glm-5.3"
+}

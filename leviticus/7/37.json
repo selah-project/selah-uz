@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 7:37",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Bu — tora: ⟨the⟩ olon qurbonligi uchun, minxa uchun, xato qurbonligi uchun va ayb qurbonligi uchun, va tayinlash qurbonliklari uchun va shalom-qurbonliklari qurboni uchun.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Bu"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "tora"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "olon qurbonligi uchun"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "minxa uchun"
+    },
+    {
+      "surface": "ולחטאת",
+      "gloss": "xato qurbonligi uchun va"
+    },
+    {
+      "surface": "ולאשם",
+      "gloss": "ayb qurbonligi uchun va"
+    },
+    {
+      "surface": "ולמלואים",
+      "gloss": "tayinlash qurbonliklari uchun va"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "qurboni uchun va"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shalom-qurbonliklari"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:45.194649795Z",
+  "model": "glm-5.3"
+}

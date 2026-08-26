@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va U ogʻir ahvollarida ularga nazar tashladi, ularning nolasini ⟨את⟩ eshitganda.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nazr tashladi"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ogʻir ahvol"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularning"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "eshitganda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning nolasini"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "ularning nolasini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:21.466341960Z",
+  "model": "glm-5.3"
+}

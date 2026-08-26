@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Chunki uni oldin kutib olasan yaxshilik duolari bilan, boshiga qoʻysan toj — sof oltindan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "uni oldin kutib olasan"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "duolari bilan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshilik"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "qoʻysan"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "boshiga"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "toj"
+    },
+    {
+      "surface": "פז",
+      "gloss": "sof oltindan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:34.546049360Z",
+  "model": "glm-5.3"
+}

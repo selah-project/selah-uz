@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 11:8",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Lekin ular eshitmadilar va quloqlarini egsiz qoʻymadilar — har biri yovuz qalbining qatʼiyatida yurdi. Shuning uchun Men ular ustiga bu ahdning barcha soʻzlarini keltirdim — bajarsinlar deb buyurgan edim, ammo ular bajarmadilar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "lekin ... emas"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshitmadilar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "egsiz qoʻymadilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quloqlarini"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "quloqlarini"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "va yurdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "qatʼiyatida"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "qalbining"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yovuz"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "va keltirdim"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ular ustiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha soʻzlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarini"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ahdning"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "buyurgan edim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bajarsinlar deb"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo ... emas"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bajarmadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:44:00.515137179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Elohimning qurbonliklari — singan ruaxdir; singan va ezilgan yurakni, ey Elohim, sen mensimaysan — yoʻq, mensimaysan degani emas: sen yengil koʻrmaysan.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "qurbonliklari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruax"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "singan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurak"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "singan"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "va ezilgan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maysan"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "yengil koʻrmaysan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:52.511711341Z",
+  "model": "glm-5.3"
+}

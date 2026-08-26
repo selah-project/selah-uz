@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Nega yuzingni yashiryorsan, bizning zorligimizni va bosilishimizni unutasan?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nega"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "yashiryorsan"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutasan"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "zorligimizni"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "va bosilishimizni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:19.908561409Z",
+  "model": "glm-5.3"
+}

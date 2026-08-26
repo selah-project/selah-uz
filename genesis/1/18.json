@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va kunduzga va tunga hukmronlik qilish uchun, va yorugʻlik bilan zulmat orasini ajratish uchun; va Elohim koʻrdiki, bu yaxshi.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "hukmronlik qilish uchun"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunduzga"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "va tunga"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "va ajratish uchun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "orasini"
+    },
+    {
+      "surface": "האור",
+      "gloss": "yorugʻlik"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "zulmat"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:29.346093283Z",
+  "model": "glm-5.3"
+}

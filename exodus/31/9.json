@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "va ⟨את⟩ butun yoqiladigan qurbongohni va ⟨את⟩ uning barcha asboblari, va ⟨את⟩ yuvinish havzasini va ⟨את⟩ uning poydevolini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "butun yoqiladigan qurbongoh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yoqiladigan qurbonlik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning barcha asboblari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uning asboblari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yuvinish havzasi"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "yuvinish havzasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning poydevoli"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "uning poydevoli"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:00.397911410Z",
+  "model": "glm-5.3"
+}

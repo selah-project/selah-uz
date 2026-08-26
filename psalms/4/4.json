@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va bilinki, Yahve oʻz hasidini ⟨oʻzi uchun⟩ ajratdi; chaqirganimda Yahve eshitadi.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Va bilinki"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "ajratdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hasidini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨oʻzi uchun⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eshitadi"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "chaqirganimda"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Unga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:27.585723107Z",
+  "model": "glm-5.3"
+}

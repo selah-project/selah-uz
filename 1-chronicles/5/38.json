@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Axitub ⟨את⟩ Tsadokni dunyoga keltirdi, Tsadok esa ⟨את⟩ Shallumni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "Axitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadokni"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadokni"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "Tsadok esa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallumni"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallumni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:54:41.362827876Z",
+  "model": "glm-5.3"
+}

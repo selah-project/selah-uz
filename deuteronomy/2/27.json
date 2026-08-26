@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Oʻtib ketay sening mamlakatingdan, yoʻl boʻylab yoʻl yurayman; oʻng tomonga ogʻmayman va chap tomonga ham.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "oʻtib ketay"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "sening mamlakatingdan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻl boʻylab"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻl yurayman"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "yuray"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…may"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "ogʻmayman"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oʻng tomonga"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "va chap tomonga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:23:43.120153508Z",
+  "model": "glm-5.3"
+}

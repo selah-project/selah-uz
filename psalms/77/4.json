@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Elohimni eslayman va nolayman; oʻylanaman va ruhim holsizlanadi. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "eslayman"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "va nolayman"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "oʻylanaman"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "va holsizlanadi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:45.264544937Z",
+  "model": "glm-5.3"
+}

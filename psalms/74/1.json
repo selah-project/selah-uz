@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Masal-li Asaf tomonidan. Nega, ey Elohim, bizni abadiy tashlab yubordinging? Gʻashing podang — sen boqib turgan qoʻylaring ustidan tutun chiqarmoqda.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Masal-li"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf tomonidan"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nega"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "tashlab yubordinging"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "tutun chiqarmoqda"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "gʻashing"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "qoʻylaring ustidan"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "sen boqib turgan podang"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:58.926161317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Chunki U oʻz elchilariga sen haqida buyruq beradi — seni barcha yoʻllaringda saqlash uchun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "oʻz elchilariga"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "buyruq beradi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sen haqida"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "seni saqlash uchun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "yoʻllaringda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:39.376746922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yehuda koʻtarildi, va Yahve ⟨את⟩ kengaanni va perizziyliklarni ularning qoʻliga berdi; va ular Bezekda ularni oʻn ming kishini urdilar.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "koʻtarildi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kengaanni"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kengaanni"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "va perizziyliklarni"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ularning qoʻliga"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "urdilar"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekda"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ming"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishini"
+    }
+  ],
+  "timestamp": "2026-08-26T02:24:29.768055958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va David nom qozondi — qaytganda Aramni ⟨את⟩ Tuz vodiysida yengib qaytgach; oʻn sakkiz ming.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "qozondi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "qaytganda"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "yengib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "vodiysida"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "Tuz"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "sakkiz"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    }
+  ],
+  "timestamp": "2026-08-26T03:07:11.526475383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Xalqlar birga yig'ilganda, va shohliklar — Yahve ⟨את⟩ ga xizmat qilish uchun.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "yig'ilganda"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birga"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "va shohliklar"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "xizmat qilish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:07.866186156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 24:10",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Dovudning yuragi uni urdi, xalqni sanagandan keyin; va Dovud Yahvega aytdi: juda ham gunoh qildim nimani qilgan boʻlsam; va endi, ey Yahve, oʻtib ket, iltijo, bandangning gunohini, chunki juda ham ahmoqona ish qildim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Va ... urdi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuragi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shundan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sanagandan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va ... aytdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "gunoh qildim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nimani"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "qilgan boʻlsam"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "oʻtib ket"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunohini"
+    },
+    {
+      "surface": "עון",
+      "gloss": "gunohini"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bandangning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "ahmoqona ish qildim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    }
+  ],
+  "timestamp": "2026-08-26T03:23:10.016278648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Shuning uchun ey xalqlar, eshiting, va ey jamoat, bilgin ⟨את⟩ ulardagi narsani.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshiting"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ey xalqlar"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "va bilgin"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ey jamoat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulardagi narsani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki (narsani)"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ularda"
+    }
+  ],
+  "timestamp": "2026-08-26T04:39:46.179049573Z",
+  "model": "glm-5.3"
+}

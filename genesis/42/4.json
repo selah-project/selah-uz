@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va ⟨את⟩ Binyaminni, Yusufning ukasini, Yaakov uning ukalari bilan yubormadi, chunki dedi: yomonlik unga duch kelmasin.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binyaminni"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ukasi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "... emas"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yubormadi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning ukalari"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "uning ukalari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "...masin"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "unga duch kelmasin"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "yomonlik"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:18.657034476Z",
+  "model": "glm-5.3"
+}

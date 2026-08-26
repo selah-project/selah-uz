@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "Bariklang Yahveni, Uning elchilari — qudrat kuchlilari, Uning soʻzini qiluvchilar, Uning soʻzi ovozini tinglash uchun.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bariklang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "Uning elchilari"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "kuchlilari"
+    },
+    {
+      "surface": "כח",
+      "gloss": "qudrat"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "qiluvchilar"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Uning soʻzini"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "tinglash uchun"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Uning soʻzi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:38.918228070Z",
+  "model": "glm-5.3"
+}

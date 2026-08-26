@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Yahve ⟨את⟩ Misrni uradi — urib davolaydi, va ular Yahvega qaytishadi, va U ularning duosini qabul qiladi va ularni davolaydi.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "va uradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "urib"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "va davolaydi"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "va qaytishadi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…ga qadar (to)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "va qabul qiladi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularning (duosini)"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "va ularni davolaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:14:27.650071924Z",
+  "model": "glm-5.3"
+}

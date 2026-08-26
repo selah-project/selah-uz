@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 118,
+  "translation": "Barakali ⟨he⟩ Yahve nomi bilan kelayotgan — sizlarni Yahve uyidan barakaladik.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barakali"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "kelayotgan"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nomi bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "sizlarni barakaladik"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uyidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T09:09:21.910818267Z",
+  "model": "glm-5.3"
+}

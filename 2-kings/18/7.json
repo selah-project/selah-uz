@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 18:7",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Yahve ⟨u⟩ bilan boʻldi; ⟨u⟩ chiqqan hamma narsada donishmandlik qildi; va Ashur shohiga qarshi isyon koʻtardi va unga xizmat qilmadi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hamma ... da"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqqan"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "donishmandlik qildi"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "va isyon koʻtardi"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "shohiga qarshi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xizmat qildi unga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:57:53.420791893Z",
+  "model": "glm-5.3"
+}

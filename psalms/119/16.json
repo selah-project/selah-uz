@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Chuqur bandlaringda lazzatlanaman, soʻzingni unutmayman.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "chuqur bandlaringda"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "lazzatlanaman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "unutaman"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "soʻzingni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:22.286823689Z",
+  "model": "glm-5.3"
+}

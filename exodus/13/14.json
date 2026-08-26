@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 13:14",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va boʻladi: ertaga oʻgʻling sizdan soʻrab: „Bu nima?“ — siz unga aytasiz: „Qoʻl kuch bilan Yahve bizni Misrdan, qullar uyidan olib chiqdi.“",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Va boʻladi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "sizdan soʻrab"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oʻgʻling"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ertaga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deya"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "siz aytasiz"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "kuch bilan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "bizni olib chiqdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uyidan"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:28.449977712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "U ularning tokzorlarini va anjir daraxtlarini urdi, va chegaralaridagi daraxtlarni sindirdi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ularning tokzorlari"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "va ularning anjir daraxtlari"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "va sindirdi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "daraxtlar"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ularning chegarasi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:19.914129287Z",
+  "model": "glm-5.3"
+}

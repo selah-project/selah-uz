@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Oldimga dasturxon yozasan dushmanlarim qarshisida; boshimni moy bilan yogʻlading, kosam toʻlib-toshgan ⟨toʻlgan⟩.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "yozasan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldinga"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "dasturxon"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "qarshisida"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "yogʻlading"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "moy bilan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "boshimni"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kosam"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "toʻlgan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:03.224868821Z",
+  "model": "glm-5.3"
+}

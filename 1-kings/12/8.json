@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va u ⟨את⟩ keksalarning maslahatini tark etdi, ki unga maslahat bergan edilar, va ⟨את⟩ yoshlar bilan maslahatlashdi, ki u bilan ⟨את⟩ ulgʻaygan edilar, ki uning oldida turganlar.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "Va tark etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maslahat"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "maslahat"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "keksalarning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "unga maslahat bergan"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "va maslahatlashdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoshlar"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "yoshlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ulgʻaygan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bilan u"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "turganlar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "uning oldida"
+    }
+  ],
+  "timestamp": "2026-08-26T03:36:49.219419212Z",
+  "model": "glm-5.3"
+}

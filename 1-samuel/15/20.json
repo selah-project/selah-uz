@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va Shoul Shemuëlga dedi: men Yahve ovozini tingladim va Yahve meni yuborgan yoʻlda yurdim va ⟨את⟩ Agagni — Amalek qiroqini — keltirdim va ⟨את⟩ Amalekni cherm qildim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "tingladim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "va yurdim"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ki"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "yuborgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "va keltirdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agagni"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agagni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroqi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Amalekni"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekni"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "cherm qildim"
+    }
+  ],
+  "timestamp": "2026-08-26T02:49:42.742998645Z",
+  "model": "glm-5.3"
+}

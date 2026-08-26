@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Dushmanlaring shu'la soldilar sening majlis oʻrtangda; belgilarini — belgilar sifatida — oʻrnatdilar.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "shu'la soldilar"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "dushmanlaring"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "oʻrtangda"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "majlis — senning"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "oʻrnatdilar"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "belgilarini"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "belgilar sifatida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:58.926642991Z",
+  "model": "glm-5.3"
+}

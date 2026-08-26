@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Shet yashadi besh yil va yuz yil, va ⟨את⟩ Enoshni tugʻdi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "besh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "va yuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "va tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enoshni"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:02.856533116Z",
+  "model": "glm-5.3"
+}

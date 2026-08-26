@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va seni oʻzimga sadoqatda unashtiraman, va sen Yahveni bilib olasan.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "va seni unashtiraman"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oʻzimga"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sadoqatda"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "va sen bilib olasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T05:35:30.189932678Z",
+  "model": "glm-5.3"
+}

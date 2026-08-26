@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Chunki soyada ⟨dir⟩ hikma, soyada ⟨dir⟩ kumush, va bilimning ustunligi — hikma uni egalarni tiriltiradi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "soyada"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikma"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "soyada"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "va-ustunlik"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilim"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "hikma"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "tiriltiradi"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "egalarni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:48.443085863Z",
+  "model": "glm-5.3"
+}

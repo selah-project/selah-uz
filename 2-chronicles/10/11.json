@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va endi otam sizlarga ogʻir boyin yukladi, esa men sizning boyiningizga qoʻshaman; otam sizlarni ⟨את⟩ qamchilar bilan tarbiyaladi, esa men chaqanoqlar bilan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otam"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "yukladi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "על",
+      "gloss": "boyin"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ogʻir"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "esa men"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "qoʻshaman"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "sizning boyiningiz"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otam"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "tarbiyaladi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "qamchilar bilan"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "qamchilar bilan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "esa men"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "chaqanoqlar bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:08:00.508918468Z",
+  "model": "glm-5.3"
+}

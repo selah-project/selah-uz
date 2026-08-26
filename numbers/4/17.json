@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Yahve gapirdi Moshega va Ahronga, aytib:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va…ga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aytib"
+    }
+  ],
+  "timestamp": "2026-08-26T01:26:32.110576492Z",
+  "model": "glm-5.3"
+}

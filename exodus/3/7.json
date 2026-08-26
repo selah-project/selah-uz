@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yahve aytdi: Albatta koʻrdim — ⟨את⟩ xalqimning Mitzrayimdagi muqtligini, va ⟨את⟩ ularning faryodini eshitdim — zor chekkanlari yuzidan, chunki men uning ogʻriqlarini bilaman ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Albatta"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muqtligini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "muqtligini"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqimning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ki"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitzrayimda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "faryodini"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ularning faryodini"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eshitdim"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "zor chekkanlari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogʻriqlarini"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "uning ogʻriqlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:03.863989353Z",
+  "model": "glm-5.3"
+}

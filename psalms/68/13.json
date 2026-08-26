@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Qoʻshinlar shohlari qochdi, qochdi, va ⟨uyda⟩ qolgan ⟨ayol⟩ oʻljani boʻladi.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "shohlari"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "qoʻshinlar"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "qochdi"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "qochdi"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "va… qolgan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyda"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "oʻljani"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:40.014785684Z",
+  "model": "glm-5.3"
+}

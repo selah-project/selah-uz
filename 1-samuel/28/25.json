@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "U ⟨uni⟩ Shaul oldiga va uning xizmatkorlari oldiga keltirdi, va ular yedilar, va turdilar, va oʻsha kechasi ketdilar.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "keltirdi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "va oldiga"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "uning xizmatkorlari"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "va yedilar"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "va turdilar"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "va ketdilar"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "kechasi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    }
+  ],
+  "timestamp": "2026-08-26T02:58:14.934476020Z",
+  "model": "glm-5.3"
+}

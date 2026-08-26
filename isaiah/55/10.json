@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Chunki yomgʻir va qor osmonlardan tushgani va u yerga qaytmagani kabi — faqat yerni sugʻorgandan keyin ⟨את⟩ yerni dunyoga keltirgan va unga nihol chiqargan, soʻchuvchiga urugʻ va yeyuvchiga non bergan —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-gani kabi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tushadi"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "yomgʻir"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "va-qor"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlardan"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qaytadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-gandan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "sugʻorgandan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "va-dunyoga keltirgan"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "va-nihol chiqargan"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "va-bergan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urugʻ"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "soʻchuvchiga"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "va-non"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yeyuvchiga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:31:47.229030890Z",
+  "model": "glm-5.3"
+}

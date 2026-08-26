@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 6:21",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va unda qaynatilgan sopol idish sinadi; va agar mis idishda qaynatilgan boʻlsa — u surtib tozalanadi va suvda yuviladi.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "va idish"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sopol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תבשל",
+      "gloss": "qaynatilsa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unda"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "sinadi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "idishda"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mis"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "qaynatilgan boʻlsa"
+    },
+    {
+      "surface": "ומרק",
+      "gloss": "va surtib tozalanadi"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "va yuviladi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:10.489769401Z",
+  "model": "glm-5.3"
+}

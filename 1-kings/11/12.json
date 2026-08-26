@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Faqat sening kunlaringda qilmayman, Dovud — otang — tufayli; oʻgʻling qoʻlidan yirtib olaman.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Faqat"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "sening kunlaringda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qilmayman"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "uni qilish"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tufayli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otang"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oʻgʻling"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "yirtib olaman"
+    }
+  ],
+  "timestamp": "2026-08-26T03:36:19.848960193Z",
+  "model": "glm-5.3"
+}

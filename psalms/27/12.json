@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Meni dushmanlarimning ixtiyoriga bermaginki, chunki yolgʻon guvohlar menga qoʻzgʻoldilar va zoʻravonlik puflaydilar.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "bermagin (−ma)"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "bermagin"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ixtiyoriga"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dushmanlarimning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "qoʻzgʻoldilar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "guvohlar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "va puflaydilar"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zoʻravonlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:43.607700727Z",
+  "model": "glm-5.3"
+}

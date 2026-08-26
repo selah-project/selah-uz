@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va bir erkak, kim oʻz yotishini hayvonga bersa — oʻlimdan oʻldirilsin; va ⟨את⟩ hayvonni oʻldirsangizlar.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Va bir erkak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bersa"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "oʻz yotishini"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "hayvonga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlimdan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldirilsin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hayvonni"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvonni"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "oʻldirsangizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:52.590173556Z",
+  "model": "glm-5.3"
+}

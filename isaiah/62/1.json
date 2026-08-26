@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 62:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 62,
+  "translation": "Tsiyon uchun jim turmayman, va Yerushalaim uchun tinch qolmayman — toki uning adolati nurdek chiqmaguncha va uning najoti yonayotgan mash’ala kabi yorimaguncha.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "jim turmayman (emas)"
+    },
+    {
+      "surface": "אחשה",
+      "gloss": "jim turmayman"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "va … uchun"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tinch qolmayman (emas)"
+    },
+    {
+      "surface": "אשקוט",
+      "gloss": "tinch qolmayman"
+    },
+    {
+      "surface": "עד",
+      "gloss": "toki … guncha"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqmaguncha"
+    },
+    {
+      "surface": "כנגה",
+      "gloss": "nurdek"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "uning adolati"
+    },
+    {
+      "surface": "וישועתה",
+      "gloss": "va uning najoti"
+    },
+    {
+      "surface": "כלפיד",
+      "gloss": "mash’ala kabi"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "yonayotgan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:34:56.942458509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Senga shukrona qurbonligini soʻyib yuboraman va Yahve nomiga murojaat qilaman.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "soʻyib yuboraman"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbonlik"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "shukrona"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "va … nomiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "murojaat qilaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:25.721990568Z",
+  "model": "glm-5.3"
+}

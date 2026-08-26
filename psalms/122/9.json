@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 122,
+  "translation": "Yahve Elohimimizning uyi ⟨uchun⟩ — seni ⟨uchun⟩ yaxshiligini qidiraman.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "⟨uchun⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizning"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "qidiraman"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshiligini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "seni ⟨uchun⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:24.408578586Z",
+  "model": "glm-5.3"
+}

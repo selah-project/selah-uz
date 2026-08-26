@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va minxadan qolgan qismi Ahronga va uning oʻgʻillariga boʻlsin — muqaddaslar muqaddasi, Yahvening olov qurbonlaridan.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "Va qolgan qismi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minxadan"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ahronga"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "va uning oʻgʻillariga"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "muqaddaslar muqaddasi"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "olov qurbonlaridan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:37.492416681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Chunki Elohim har bir ishni ⟨את⟩ yashirin hamma narsa ustidan hukmga keltiradi — yaxshimi yoki yomonmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "har bir ishni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "keltiradi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hukmga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "yashirin narsa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yaxshimi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomonmi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:47.453701680Z",
+  "model": "glm-5.3"
+}

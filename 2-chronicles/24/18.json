@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va ular tark etdilar ⟨את⟩ otalarining Elohimi Yahvening uyini, va xizmat qildilar ⟨את⟩ Asherah ustunlariga va ⟨את⟩ butlarga; va Yahudo va Yerushalaim ustiga gʻazab keldi — bu gunohlari uchun.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "tark etdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otalarining Elohimi Yahvening uyi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "otalarining"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "xizmat qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asherah ustunlari"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "Asherah ustunlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butlar"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "butlar"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "gʻazab"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "va Yerushalaim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "gunohlari uchun"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T08:13:12.490535828Z",
+  "model": "glm-5.3"
+}

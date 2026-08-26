@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 47,
+  "translation": "Elohim xalqlar ustidan podshohlik qildi, Elohim oʻz muqaddas taxtiga oʻtirdi.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "podshohlik qildi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oʻtirdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taxt"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "oʻz muqaddas"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:10.586066070Z",
+  "model": "glm-5.3"
+}

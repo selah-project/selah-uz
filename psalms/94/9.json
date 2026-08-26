@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Quloqni oʻrnatgan ⟨u⟩ eshitmasmi? koʻzni shakllantirgan ⟨u⟩ qaramasmi?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "oʻrnatgan"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "quloqni"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "masmi"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eshitmas"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨yoki⟩"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "shakllantirgan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "koʻzni"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "masmi"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "qaramas"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:47.021181717Z",
+  "model": "glm-5.3"
+}

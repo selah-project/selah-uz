@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 1:11",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Ularning yuzlari va qanotlari yuqorida ajratilgan — har biri uchun ikkisi qoʻshilgan, har biri va ikkisi ⟨את⟩ ularning badanlarini yopadi.",
+  "tokens": [
+    {
+      "surface": "ופניהם",
+      "gloss": "va ularning yuzlari"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "va ularning qanotlari"
+    },
+    {
+      "surface": "פרדות",
+      "gloss": "ajratilgan"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yuqoridan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "har biri uchun"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ikkita"
+    },
+    {
+      "surface": "חברות",
+      "gloss": "qoʻshilgan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "va ikkita"
+    },
+    {
+      "surface": "מכסות",
+      "gloss": "yopadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning badanlarini"
+    },
+    {
+      "surface": "גויתיהנה",
+      "gloss": "ularning badanlari"
+    }
+  ],
+  "timestamp": "2026-08-26T05:07:53.622713080Z",
+  "model": "glm-5.3"
+}

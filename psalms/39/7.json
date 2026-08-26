@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Faqat tasvirda yuradi odam; faqat hebel boʻlib gʻalayon qiladi; yigʻadi-yu bilmas ⟨kim⟩ ularni yigʻar.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "tasvirda"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "yuradi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "gʻalayon qiladi"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "yigʻadi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …emas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "ularni yigʻar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:06.513311331Z",
+  "model": "glm-5.3"
+}

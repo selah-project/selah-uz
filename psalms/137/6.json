@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 137,
+  "translation": "Tilim taqtaga yopishsin, agar seni eslamasam, agar Yerushalaimni bosh quvonchimning boshiga koʻtarmasam ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "yopishsin"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "tilim"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "taqtaga (ogʻiz boʻshligʻiga)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—masam"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "seni eslamasam"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—masam"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "koʻtarmasam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaimni"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaimni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "bosh"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "quvonchimning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:53.319418150Z",
+  "model": "glm-5.3"
+}

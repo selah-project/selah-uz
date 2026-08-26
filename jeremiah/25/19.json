@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "⟨את⟩ Mitsrayim podshohi Paroni va ⟨את⟩ uning qullarini va ⟨את⟩ uning sarkardalarini va ⟨את⟩ butun xalqini —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning qullarini"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "uning qullarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning sarkardalarini"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "uning sarkardalarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun xalqini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqini"
+    }
+  ],
+  "timestamp": "2026-08-26T04:51:57.252078910Z",
+  "model": "glm-5.3"
+}

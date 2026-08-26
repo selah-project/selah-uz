@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va Yosuf ⟨את⟩ Parohga javob berib dedi: Mendan boʻlak — Elohim ⟨את⟩ Parohning tinchligini javob beradi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Va ... javob berdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosuf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "Mendan boʻlak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "javob beradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parohning tinchligini"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchligini"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:20.635753561Z",
+  "model": "glm-5.3"
+}

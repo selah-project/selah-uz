@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Yahve Retsinning dushmanlarini uning ustiga yuksaltirdi va ⟨את⟩ uning adovlarini qoʻzgʻatdi.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "yuksaltirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retsinning dushmanlarini"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dushmanlarini"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsinning"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning adovlarini"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "uning adovlarini"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "qoʻzgʻatdi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:10:39.729293847Z",
+  "model": "glm-5.3"
+}

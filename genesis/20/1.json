@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va u yerdan Avraham janub yurtiga koʻchdi va Kadesh bilan Shur oʻrtasida yashadi va Gerarda musofir boʻlib qoldi.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "koʻchdi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yurtiga"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "janub"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "musofir boʻldi"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "Gerarda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:54.457568117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Yahve sandigʻi Pelishtilar diyorida yetti oy qoldi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandigʻi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "diyorida"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtilar"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "oy"
+    }
+  ],
+  "timestamp": "2026-08-26T02:44:20.444232883Z",
+  "model": "glm-5.3"
+}

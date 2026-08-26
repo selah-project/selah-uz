@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va saqlanglar qilish uchun xuddiki buyurgan Yahve, Elohimlaringiz, ⟨את⟩ sizlarni — yoʻq, ogʻmanglar oʻngga va chapga.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Va saqlanglar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "qilish uchun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xuddiki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimlaringiz"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "ogʻmanglar"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oʻngga"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "va chapga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:50:21.120444706Z",
+  "model": "glm-5.3"
+}

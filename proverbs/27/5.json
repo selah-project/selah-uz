@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Yashirin muhabbatdan koʻra ochiq tanbeh yaxshiroqdir.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "yaxshiroq"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tanbeh"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ochiq"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "muhabbatdan"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "yashirin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:50:19.119575053Z",
+  "model": "glm-5.3"
+}

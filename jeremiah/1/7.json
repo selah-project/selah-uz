@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yahve menga aytdi: „Yoshman“ deb ayta koʻrma, chunki men seni yuborgan hamma narsaga borasan, va buyuradigan hamma narsani ⟨את⟩ gapirasan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va … aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma (ayta koʻrma)"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ayta koʻrma"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yosh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni(n)ki"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "seni yuborgan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "borasan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "buyuradigan hamma narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni(n)ki"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "buyuradigan"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "gapirasan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:36:35.701875900Z",
+  "model": "glm-5.3"
+}

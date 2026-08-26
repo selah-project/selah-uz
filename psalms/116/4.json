@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Va Yahve nomi bilan chaqirdim: „Eh, Yahve, jonimni qutqar!“",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "va nomi bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "chaqirdim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Eh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "qutqar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:41.701624857Z",
+  "model": "glm-5.3"
+}

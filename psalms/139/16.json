@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Shaklsiz jonimni koʻrdi koʻzlaring, va kitobingda hammasi yozilgan; kunlar belgilab qoʻyilgan, ulardan ⟨hali⟩ bittasi ham ⟨yoq⟩ edi.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "shaklsiz jonimni"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "koʻzlaring"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "kitobingda"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "yozilgan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlar"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "belgilab qoʻyilgan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bittasi ham"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ulardan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:13.977306589Z",
+  "model": "glm-5.3"
+}

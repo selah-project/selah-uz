@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va aslida adashgan boʻlsam ham, adashuvim ⟨את⟩ men bilan qoladi.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "va hatto"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "aslida"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "adashgan boʻlsam"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "men"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "qoladi"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "adashuvim"
+    }
+  ],
+  "timestamp": "2026-08-26T07:00:15.413264331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "va ⟨את⟩ uning belgilarini va ⟨את⟩ uning amallarini, qilganlarni Mitsrayim ichida — Paroga, Mitsrayim podshohiga va uning butun yerga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "belgilarini"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "uning belgilarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amallarini"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "uning amallarini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ichida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paroga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "uning yeri"
+    }
+  ],
+  "timestamp": "2026-08-26T01:54:06.459815740Z",
+  "model": "glm-5.3"
+}

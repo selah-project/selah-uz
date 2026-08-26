@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Mendan uzoqlashma, chunki qiyinchilik yaqin, chunki yordamchi yoʻq.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzoqlashma"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "Mendan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "qiyinchilik"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "yaqin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "yordamchi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:24.471780981Z",
+  "model": "glm-5.3"
+}

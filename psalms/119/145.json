@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Butun yuragim bilan chaqirdim — menga javob ber, Yahve; Toning qoidalarini saqlayman.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "chaqirdim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun ... bilan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "menga javob ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "Toning qoidalari"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "saqlayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:07.809546385Z",
+  "model": "glm-5.3"
+}

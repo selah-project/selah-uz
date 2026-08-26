@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va u ⟨את⟩ ular bilan bordi, Iyordonga yetib kelishdi va daraxtlarni kesishdi",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "va u bordi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ular bilan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "va kelishdi"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "Iyordonga"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "va kesishdi"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "daraxtlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T03:49:14.505703648Z",
+  "model": "glm-5.3"
+}

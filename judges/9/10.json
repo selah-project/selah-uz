@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va daraxtlar anjir daraxtiga dedilar: kelsen, ⟨את⟩ — podshohlik qilsen bizning ustimizda.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "daraxtlar"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "anjir daraxtiga"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "podshohlik qil"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizning ustimizda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:30:15.688178945Z",
+  "model": "glm-5.3"
+}

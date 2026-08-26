@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va podshoh Shelomoh koʻp begona ayollarni, Parʼohning qizini ⟨את⟩, moʻablik, ammonlik, adomlik, sidonlik va xetlik ayollarni sevdи — sevmоqda edi.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Va podshoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevdi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ayollar"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "begona"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Parʼohning qizi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʼoh"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "moʻablik ayollar"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "ammonlik ayollar"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "adomlik ayollar"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "sidonlik ayollar"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "xetlik ayollar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:35:20.384449997Z",
+  "model": "glm-5.3"
+}

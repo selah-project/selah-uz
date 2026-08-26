@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 64,
+  "translation": "Va butun odam qoʻrqdi, va Elohimning ishini eʼlon qildi, va ⟨uning⟩ amalini dono oʻylab chiqdi.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "va qoʻrqdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "va eʼlon qildi"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ishini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "va uning amalini"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "dono oʻylab chiqdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:23.494063566Z",
+  "model": "glm-5.3"
+}

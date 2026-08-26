@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va koʻrdi Yaakov ⟨את⟩ yuzini Lavanning, va mana u endi unga ilgari giday emas.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzini"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavanning"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "u endi ... emas"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "ilgari"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "giday"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:14.261902170Z",
+  "model": "glm-5.3"
+}

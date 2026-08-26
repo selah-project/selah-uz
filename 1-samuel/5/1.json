@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Pelishtiyliklar Elohim sandigʻini ⟨את⟩ oldilar va uni Eben-ha-Ezerdan Ashdodga olib kelishdi.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Pelishtiyliklar"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "oldilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim sandigʻini"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandigʻini"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "va uni olib kelishdi"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Eben-ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdodga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:43:00.648866632Z",
+  "model": "glm-5.3"
+}

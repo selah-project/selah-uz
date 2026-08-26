@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Kuy ochinglar Yahveʼga, Uning sodiq-lari, va shukr aytinglar Uning muqaddasligining xotirasiga.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Kuy ochinglar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveʼga"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "Uning sodiq-lari"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "va shukr aytinglar"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "xotirasiga"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Uning muqaddasligining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:16.575416994Z",
+  "model": "glm-5.3"
+}

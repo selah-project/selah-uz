@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va boʻladi oʻsha kunda, va Men Isroilning kamonini Yizreel vodiysida sindiraman.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "sindiraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamonini"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kamonini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "vodiysida"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-26T05:33:39.283220251Z",
+  "model": "glm-5.3"
+}

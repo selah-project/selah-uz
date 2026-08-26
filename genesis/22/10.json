@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va choʻzdi Avraham ⟨את⟩ qoʻlini va oldi ⟨את⟩ pichoqni — soʻyish uchun ⟨את⟩ oʻgʻlini.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "va choʻzdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻlini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻli"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pichoqni"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "pichoq"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "soʻyish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻgʻlini"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻgʻli"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:40.592894476Z",
+  "model": "glm-5.3"
+}

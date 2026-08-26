@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Va menga murojaat qil qiyin kunda — Men seni qutqaraman, va Sen Meni ulugʻlaysan.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "va menga murojaat qil"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "qiyin"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "Men seni qutqaraman"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "va Sen Meni ulugʻlaysan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:14.216971076Z",
+  "model": "glm-5.3"
+}

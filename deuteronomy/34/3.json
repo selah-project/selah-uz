@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va ⟨את⟩ Janubiy togʻlikni, va ⟨את⟩ tekislikni — Yerixo vodiysini, xurmo shahrini — Tsoargacha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Janubiy togʻlikni"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Janubiy togʻlikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tekislikni"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "tekislikni"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "vodiysini"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerixo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahrini"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "xurmo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-26T02:08:42.167506468Z",
+  "model": "glm-5.3"
+}

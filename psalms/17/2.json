@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Yuzimdan menga hukmim chiqadi; koʻzlaring toʻgʻrilikni koʻradi.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "yuzingdan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqadi"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "koʻzlaring"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "koʻradi"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "toʻgʻrilikni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:56.647609862Z",
+  "model": "glm-5.3"
+}

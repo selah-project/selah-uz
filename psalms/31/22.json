@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Barakotlidir Yahve, chunki U oʻz xesedini menga qamal shahrida ajoyib qildi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barakotlidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "ajoyib qildi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "oʻz xesedini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shahrida"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "qamal"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:20.148201370Z",
+  "model": "glm-5.3"
+}

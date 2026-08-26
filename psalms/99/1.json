@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 99,
+  "translation": "Yahve hukmronlik qildi — xalqlar titradi; Kerublar ustida oʻtirgan — yer larzaga kelsin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hukmronlik qildi"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "titradi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oʻtirgan"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "Kerublar"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "larzaga kelsin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:34.241369505Z",
+  "model": "glm-5.3"
+}

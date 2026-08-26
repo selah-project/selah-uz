@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 114,
+  "translation": "Togʻlar, qoʻchqorlar kabi sakraysizlar; tepalar, podalar bolalari kabi!",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Togʻlar"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "sakraysizlar"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "qoʻchqorlar kabi"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "tepalar"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "…bolalari kabi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "podalar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:18.854646616Z",
+  "model": "glm-5.3"
+}

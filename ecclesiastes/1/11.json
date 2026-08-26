@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Yoʻq xotira avvalgilar uchun; va keyingilar uchun ham — boʻladiganlar — ularga xotira boʻlmaydi, oxirgilarda boʻlganlar bilan birga.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "xotira"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "avvalgilar uchun"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "va ham"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "keyingilar uchun"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "boʻladiganlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "xotira"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "boʻlganlarida"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "oxirgilarda"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:06.780485878Z",
+  "model": "glm-5.3"
+}

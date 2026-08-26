@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Chunki endi qoʻlimni choʻzib, ⟨את⟩ seni va ⟨את⟩ xalqingni vabo bilan urardim, va sen yer yuzidan yoʻq boʻlib ketarding —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "endi"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "choʻzib ... urardim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻlimni"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻlimni"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "va ... urardim"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ seni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "xalqingni"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqingni"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "vabo bilan"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "va ... yoʻq boʻlib ketarding"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer yuzidan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:13.593622675Z",
+  "model": "glm-5.3"
+}

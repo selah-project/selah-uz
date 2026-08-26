@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Elon qilman Ismingni birodarlarimga, jamoat oʻrtasida seni madh etaman.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "elon qilman"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Ismingni"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "birodarlarimga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamoat"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "seni madh etaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:39.532115224Z",
+  "model": "glm-5.3"
+}

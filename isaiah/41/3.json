@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Ularni taʼqib qiladi, tinchlik bilan oʻtadi — yoʻl uning oyoqlari bilan kelmaydi.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "ularni taʼqib qiladi"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "oʻtadi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik bilan"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "uning oyoqlari bilan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kelmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:53.896258895Z",
+  "model": "glm-5.3"
+}

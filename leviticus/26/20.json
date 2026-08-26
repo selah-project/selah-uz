@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va kuchingiz boʻshga tugaydi, va yeringiz ⟨את⟩ hosilini bermaydi, va yer daraxtlari mevasini bermaydi.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "va tugaydi"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "boʻshga"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "kuchingiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bermaydi"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "yeringiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hosilini"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "hosilini"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "va daraxtlari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bermaydi"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "mevasini"
+    }
+  ],
+  "timestamp": "2026-08-26T01:24:17.573478940Z",
+  "model": "glm-5.3"
+}

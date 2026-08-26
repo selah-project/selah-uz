@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Va bunlar Esavning sardorlarining ⟨the⟩ nomlari — urug‘laricha, joylari bo‘yicha, o‘z nomlari bilan: sardor Timna, sardor Alva, sardor Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Va bunlar"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nomlari"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "sardorlarining"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "urug‘laricha"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "joylari bo‘yicha"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "o‘z nomlari bilan"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "sardor"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "sardor"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "sardor"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:41.344637150Z",
+  "model": "glm-5.3"
+}

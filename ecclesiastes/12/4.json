@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va koʻchadagi eshiklar yopilganda, tegirmonovoz past boʻlganda, va qush ovoziga turulganda, va qoʻshiq qizlarining hammasi egilganda.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "va yopilganda"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "eshiklar"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "koʻchada"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "…i pasayganda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovi"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "tegirmon"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "va turulganda"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ovoziga"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "qush"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "va egilganda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qizlari"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "qoʻshiq"
+    }
+  ],
+  "timestamp": "2026-08-26T07:23:21.288246018Z",
+  "model": "glm-5.3"
+}

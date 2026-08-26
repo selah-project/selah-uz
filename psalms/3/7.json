@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "O'n minglab xalqdan qo'rqmayman, atrofimga qurshab olganlardan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "qo'rqmayman... emas"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "qo'rqaman"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "o'n minglab... dan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—lardan"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofimga"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "qurshab olgan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:52.462769716Z",
+  "model": "glm-5.3"
+}

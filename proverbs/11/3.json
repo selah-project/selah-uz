@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Toʻgʻrilarning pokligi ularni boshqaradi, va xoinlarning bukilishi — ulardan ⟨eryoʻq⟩.",
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "poklik"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "toʻgʻrilarning"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "ularni boshqaradi"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "va bukilish"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "xoinlarning"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "ularni yoʻq qiladi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:42:45.995917682Z",
+  "model": "glm-5.3"
+}

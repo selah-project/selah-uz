@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 106,
+  "ref": "psalms 119:106",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Qasam ichdim va uni bajaraman — Sening solih hukmlaringni saqlashga.",
+  "tokens": [
+    {
+      "surface": "נשבעתי",
+      "gloss": "qasam ichdim"
+    },
+    {
+      "surface": "ואקימה",
+      "gloss": "va uni bajaraman"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saqlashga"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmlarini"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "Sening solih"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:36.186112809Z",
+  "model": "glm-5.3"
+}

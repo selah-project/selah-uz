@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 8:10",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va shunday qilib, yomonlar dafn etilganini koʻrdim: ⟨ular⟩ ⟨joyga⟩ kelgan va muqaddas joydan chiqib yurishgan edi, va shunday qilgan ⟨shaharlarida⟩ unutildilar — bu ham behuda.",
+  "tokens": [
+    {
+      "surface": "ובכן",
+      "gloss": "va shunday qilib"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yomonlarning"
+    },
+    {
+      "surface": "קברים",
+      "gloss": "dafn etilganini"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "va kelgan"
+    },
+    {
+      "surface": "וממקום",
+      "gloss": "va joyidan"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yurishgan"
+    },
+    {
+      "surface": "וישתכחו",
+      "gloss": "va unutildilar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shaharda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "behuda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:49:42.596213168Z",
+  "model": "glm-5.3"
+}

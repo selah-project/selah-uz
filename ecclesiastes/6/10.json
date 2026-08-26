@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Nima boʻlgan boʻlsa, uning nomi allaqachon chaqirilgan, va maʼlumki u ⟨odam⟩; va u undan kuchliroq boʻlgan bilan tortisha olmaydi.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "boʻlgan boʻlsa"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "allaqachon"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "chaqirilgan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning nomi"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "va maʼlum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "yola oladi"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "tortishmoqqa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "kuchliroq boʻlgan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:42.261957555Z",
+  "model": "glm-5.3"
+}

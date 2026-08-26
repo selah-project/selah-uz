@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Tugadimi abadiy Uning xesedi? Soʻzi bitmadimi avloddan avlodga?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "tugadimi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Uning xesedi"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "bitmadimi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "soʻzi"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "avloddan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "avlodga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:55.267902743Z",
+  "model": "glm-5.3"
+}

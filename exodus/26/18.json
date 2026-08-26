@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va chodir ⟨uchun⟩ taxtalarni qil: janub tomonda yigirmaga taxta, tekis janubga ⟨qaragan⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Va qil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taxtalarni"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "taxtalarni"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "chodir uchun"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirmata"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "taxta"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tomonda"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "janub"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "janubga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:21.667915751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 67,
+  "translation": "Bizni barakalasin Elohim, va ⟨את⟩ Udan qoʻrqqin yer chekkalarning hammasi.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "bizni barakalasin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "va qoʻrqqin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "U (Elohim)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "chekkalarning"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:15.718115365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Boʻshashing va bilinki, Men Elohimman; xalqlar orasida koʻtarilaman, yerda koʻtarilaman.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Boʻshashing"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "va bilinki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimman"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "koʻtarilaman"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar orasida"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "koʻtarilaman"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:05.804470042Z",
+  "model": "glm-5.3"
+}

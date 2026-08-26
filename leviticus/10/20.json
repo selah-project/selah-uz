@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Moshe eshitdi, va bu uning koʻzlarida yaxshi boʻldi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Va ... eshitdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "va ... yaxshi boʻldi"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "uning koʻzlarida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:14:23.545558861Z",
+  "model": "glm-5.3"
+}

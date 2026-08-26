@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va oʻldi ikkalasi ham — Maxlon va Kilyon; va qoldi ⟨the⟩ ayol ikki farzandidan va eridan.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "va oʻldi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikkalasi"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Maxlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "va Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "va qoldi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨the⟩ ayol"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "farzandidan"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "va eridan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:13:29.987995586Z",
+  "model": "glm-5.3"
+}

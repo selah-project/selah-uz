@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Jonim ichimda holsizlanganda Yahveni ⟨את⟩ esladim, va duom Senga kirdi, muqaddas saroyingga.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "holsizlanganda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "esladim"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "va kirdi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "saroy"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "muqaddasliging"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:59.515824188Z",
+  "model": "glm-5.3"
+}

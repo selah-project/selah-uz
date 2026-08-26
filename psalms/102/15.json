@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Chunki xizmatkorlaring ⟨את⟩ toshlarini xush koʻradilar va ⟨את⟩ changiga marhamat koʻrsatadilar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "xush koʻradilar"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "xizmatkorlaring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toshlarini"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "toshlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "changiga"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "changi"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "marhamat koʻrsatadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:27.566742096Z",
+  "model": "glm-5.3"
+}

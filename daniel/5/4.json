@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Ular sharob ichdilar va oltin, kumush, mis, temir, yogʻoch va tosh xudolarini ulugʻladilar.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "ichdilar"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "sharob"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "va ulugʻladilar"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "xudolarini"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "mis"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "temir"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "yogʻoch"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "va tosh"
+    }
+  ],
+  "timestamp": "2026-08-26T08:49:39.066703761Z",
+  "model": "glm-5.3"
+}

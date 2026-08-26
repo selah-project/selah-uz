@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va uni koʻtarib onasining oldiga keltirdi, va u tong otguncha — tushgacha — uning tizzalarida oʻtirdi va oʻldi.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "uni koʻtarib"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "keltirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "onasi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oʻtirdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "tizzalarining"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "tush"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "oʻldi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:48:43.787044598Z",
+  "model": "glm-5.3"
+}

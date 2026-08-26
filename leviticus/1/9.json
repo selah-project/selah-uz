@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Uning ichki aʼzolarini va oyoqlarini suvda yuvsin; va kohen ⟨את⟩ hammasini Mizbaxda tutatqisin — olov qurbonligi, olov hadyasi, Yahve uchun yoqimli hid.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "uning ichki aʼzolarini"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "va uning oyoqlarini"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "yuvsin"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvda"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "va tutatqisin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hammasini"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "Mizbaxda"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olov qurbonligi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "olov hadyasi"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "hid"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "yoqimli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:37.753465388Z",
+  "model": "glm-5.3"
+}

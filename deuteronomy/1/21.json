@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 1:21",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Qarangigina, Yahve, Elohimingiz, ⟨את⟩ erni yuzingizga qoʻydi; koʻtarilib uni egallang, otalaringizning Elohimi Yahve sizga aytganidek; qoʻrqmang va yuragingiz xira boʻlmagay.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Qarangigina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimingiz"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yuzingizga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erni"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "koʻtarilib"
+    },
+    {
+      "surface": "רש",
+      "gloss": "egallang"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "aytganidek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aytgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "otalaringizning"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qoʻrqmang... yoʻq"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qoʻrqmang"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va... yoʻq"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yuragingiz xira boʻlmagay"
+    }
+  ],
+  "timestamp": "2026-08-26T01:47:19.922113676Z",
+  "model": "glm-5.3"
+}

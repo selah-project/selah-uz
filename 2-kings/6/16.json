@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va u dedi: Qoʻrqma, chunki koʻpdirlar ⟨את⟩ bilan bizda boʻlganlar ⟨את⟩ ulardan boʻlganlardan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qoʻrqma (inkor)"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qoʻrqma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻpdirlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bilan biz"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "…dan koʻra, ki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ular",
+      "marks": "ulardan boʻlganlar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:49:57.877050077Z",
+  "model": "glm-5.3"
+}

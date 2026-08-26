@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 16:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va u Hogarning oldiga kirdi, va u homila boʻldi; va u homila boʻlganini koʻrgach, uning xonimi uning koʻzida yengil qildi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "va kirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hogarning"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "va homila boʻldi"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "va koʻrgach"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ni"
+    },
+    {
+      "surface": "הרתה",
+      "gloss": "homila boʻlganini"
+    },
+    {
+      "surface": "ותקל",
+      "gloss": "yengil qildi"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "xonimi"
+    },
+    {
+      "surface": "בעיניה",
+      "gloss": "koʻzida"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:38.048483635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 108,
+  "translation": "Tayyor ⟨⟨dir⟩⟩ yuragim, ey Elohim; kuylayman, ha, chertib madhiya aytayman — hatto shaʼnim ⟨ham⟩.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "tayyor"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "kuylayman"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ha, chertib madhiya aytayman"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "shaʼnim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:53.548852270Z",
+  "model": "glm-5.3"
+}

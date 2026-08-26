@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Sizni bugun Unga ⟨את⟩ xalq qilib tiklashi va U sizga Elohim boʻlishi uchun — sizga gapirganidek va ota-bobolaringizga — Avrahamga, Yitsxakga va Yaakovga qasam ichganidek.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "tiklashi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sizni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "va U"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlishi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "—ganidek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "va —ganidek"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "qasam ichgan"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "ota-bobolaringizga"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamga"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsxakga"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "va Yaakovga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:04:36.980204924Z",
+  "model": "glm-5.3"
+}

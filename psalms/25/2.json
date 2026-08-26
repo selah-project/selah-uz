@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Elohimim, senga ishondim; xijolat boʻlmayin, dushmanlarim men ustidan xursand boʻlmasinlar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ishondim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "xijolat boʻlmayin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "xursand boʻlmasinlar"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "men ustidan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:01.460871428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Rostdan ham, Yahve, Ashur podshohlari xalqlarni ⟨את⟩ va ⟨את⟩ ularning yerlarini vayron qildilar.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Rostdan ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "vayron qildilar"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "podshohlari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqlarni"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning yerlarini"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ularning yerlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T04:01:38.235998729Z",
+  "model": "glm-5.3"
+}

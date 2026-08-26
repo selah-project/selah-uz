@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Va Sen, Yahve, ularga kulursan, barcha xalqlarni masxara qilursan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Va Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "kulursan"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "masxara qilursan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:52.820448183Z",
+  "model": "glm-5.3"
+}

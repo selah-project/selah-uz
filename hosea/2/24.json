@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va yer ⟨את⟩ donni, ⟨את⟩ yangi sharobni va ⟨את⟩ moyni javob beradi, va ular ⟨את⟩ Yizreelga javob beradilar.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "va yer"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "javob beradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "donni"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "don"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yangi sharobni"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "yangi sharob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "moyni"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "moy"
+    },
+    {
+      "surface": "והם",
+      "gloss": "va ular"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "javob beradilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreelga"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-08-26T05:35:30.190242536Z",
+  "model": "glm-5.3"
+}

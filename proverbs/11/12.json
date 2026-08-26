@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Doʻstini mensimaydi — yuragi yetmagan odam, va aql-idrokli odam jim turadi.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "mensimaydi"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "doʻstini"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "yetmagan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuragi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "va odam"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "aql-idrokli"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "jim turadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:42:46.248049323Z",
+  "model": "glm-5.3"
+}

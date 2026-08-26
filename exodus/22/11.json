@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va agar undan oʻgʻirlab olingan boʻlsa — ⟨oʻgʻri⟩ uni oʻgʻirlasa — ⟨u⟩ egasiga toʻlaydi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Va agar"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "oʻgʻirlab olingan boʻlsa"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "⟨oʻgʻri⟩ oʻgʻirlasa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "⟨u⟩ toʻlaydi"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "egasiga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:43.093263281Z",
+  "model": "glm-5.3"
+}

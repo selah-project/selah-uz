@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va gunoh buzoğini ⟨את⟩ yaqinlashtirdi, va Aharon va uning oʻgʻillari qoʻllarini ⟨את⟩ gunoh buzoğining boshiga qoʻydilar.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "yaqinlashtirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunoh buzoğini"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buzoq"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "gunoh"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "qoʻydilar"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "va uning oʻgʻillari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻllarini"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "qoʻllarini"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buzoq"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "gunoh"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:49.501318253Z",
+  "model": "glm-5.3"
+}

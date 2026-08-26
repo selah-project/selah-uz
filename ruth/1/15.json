@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 1:15",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "U aytdi: Mana, kelin opang oʻz xalqiga va oʻz xudolariga qaytdi; kelin opang orqasidan qaytgin.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "kelin opang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "oʻz xalqiga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va -ga"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "oʻz xudolariga"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "qaytgin"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "orqasidan"
+    },
+    {
+      "surface": "יבמתך",
+      "gloss": "kelin opang"
+    }
+  ],
+  "timestamp": "2026-08-26T07:13:45.185492985Z",
+  "model": "glm-5.3"
+}

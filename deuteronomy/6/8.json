@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va ularni qoʻling ustiga belgi qilib bogʻlaysan, va ular koʻzlaring orasida totafot boʻladi.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "bogʻlaysan"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "belgi qilib"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻling"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "va boʻladi"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "totafot"
+    },
+    {
+      "surface": "בין",
+      "gloss": "orasida"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "koʻzlaring"
+    }
+  ],
+  "timestamp": "2026-08-26T01:49:05.767636731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Xalq ⟨את⟩ bu yomon soʻzni eshitdi va motam tutdi, va hech bir kishi oʻz bezaklarini oʻziga taqmadi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu yomon soʻzni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "motam tutdi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "taqmadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hech bir kishi"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "oʻz bezaklarini"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oʻziga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:57.481835Z",
+  "model": "glm-5.3"
+}

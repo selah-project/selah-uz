@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "va ⟨את⟩ yevusiylikni, va ⟨את⟩ emoriylikni, va ⟨את⟩ girgashiylikni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yevusiylikni"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "yevusiylikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "emoriylikni"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriylikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "girgashiylikni"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgashiylikni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:05.820790002Z",
+  "model": "glm-5.3"
+}

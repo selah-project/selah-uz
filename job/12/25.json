@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 12:25",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Ular qorongʻulikni siypalab yuradilar, yorugʻlik emas, va ⟨u⟩ ularni mast kabi adashtiradi.",
+  "tokens": [
+    {
+      "surface": "ימששו",
+      "gloss": "siypalab yuradilar"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qorongʻulikni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yorugʻlik"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "va ⟨u⟩ ularni adashtiradi"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "mast kabi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:57:17.025482028Z",
+  "model": "glm-5.3"
+}

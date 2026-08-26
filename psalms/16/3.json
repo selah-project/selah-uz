@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Er yezdidagi muqaddaslarga — ular, va ulugʻvorlarga: butun xohishim ularda.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "muqaddaslarga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "er yuzida"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "va ulugʻvorlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "xohishim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ularda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:40.820338138Z",
+  "model": "glm-5.3"
+}

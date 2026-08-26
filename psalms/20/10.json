@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Yahve, qutqar! Shoh biz chaqirgan kunda javob bersin!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "qutqar!"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "javob bersin bizga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "biz chaqirganimizda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:11.733274820Z",
+  "model": "glm-5.3"
+}

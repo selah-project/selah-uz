@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Biroq hech kim tortishmasin va hech kim kishini qaytarmasin; sening xalqing esa kohenga qarshi tortishayotganlar kabi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "biroq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hech kim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-masin"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "tortishmasin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va -masin"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "qaytarmasin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishini"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "sening xalqing"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "qarshi tortishayotganlar kabi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohenga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:35:39.617196075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Yahve sodda qalblarni qo‘riqlaydi; men xor bo‘lgan edim va menga najot berdi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "qo‘riqlaydi"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "sodda qalblarni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "men xor bo‘lgan edim"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "va menga"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "najot berdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:55.050842986Z",
+  "model": "glm-5.3"
+}

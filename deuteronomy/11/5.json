@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va choʻlda sizlar uchun qilganlarini — sizlar shu ⟨the⟩ joyga kelguningizlarcha.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Va ... qilganlarini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-guncha"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "kelguningizlarcha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨the⟩ joyga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    }
+  ],
+  "timestamp": "2026-08-26T08:24:21.468330773Z",
+  "model": "glm-5.3"
+}

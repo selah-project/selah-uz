@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Moshe ⟨את⟩ xotinini va ⟨את⟩ oʻgʻillarini oldi va ularni eshakka mindirdi va Misr yurtiga qaytdi va Moshe ⟨את⟩ Elohimning tayoqini qoʻlida oldi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xotinini"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "xotinini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻgʻillarini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "mindirdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "eshakka"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yurtiga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayoqni"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tayoqni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "qoʻlida"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:54.132937873Z",
+  "model": "glm-5.3"
+}

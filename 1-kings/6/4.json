@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va uy uchun ⟨את⟩ sakqop derazalar — yumiq ogʻizli — qildi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uy uchun"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "derazalar"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "sakqop"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "yumiq ogʻizli"
+    }
+  ],
+  "timestamp": "2026-08-26T03:28:31.134375130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 112,
+  "translation": "Yaxshi ⟨⟨dir⟩⟩ — rahm qilib beradigan va qarz beradigan odam; oʻz ishlarini adolat bilan olib boradi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Yaxshi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "rahm qilib beradigan"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "va qarz beradigan"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "olib boradi"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "oʻz ishlarini"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "adolat bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:01.381968517Z",
+  "model": "glm-5.3"
+}

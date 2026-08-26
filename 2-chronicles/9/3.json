@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Shiba malikasi ⟨את⟩ Shlomoning donishmandligini va u qurgan binoni koʻrdi.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Va koʻrdi"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "malikasi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shiba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shlomoning donishmandligini"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "donishmandligini"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoning"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "va binoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "qurgan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:07:41.919421179Z",
+  "model": "glm-5.3"
+}

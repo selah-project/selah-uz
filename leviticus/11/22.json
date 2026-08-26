@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "⟨את⟩ Shulardan quyidagilarni yesangiz: ⟨את⟩ chigirtkani turiga koʻra, va ⟨את⟩ soʻlamni turiga koʻra, va ⟨את⟩ xargʻolni turiga koʻra, va ⟨את⟩ xoʻgʻobni turiga koʻra.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shulardan quyidagilarni"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "shulardan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": ""
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yesangiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chigirtkani"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "chigirtkani"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "turiga koʻra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "soʻlamni"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "soʻlamni"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "turiga koʻra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "xargʻolni"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "xargʻolni"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "turiga koʻra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "xoʻgʻobni"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "xoʻgʻobni"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "turiga koʻra"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:52.589056003Z",
+  "model": "glm-5.3"
+}

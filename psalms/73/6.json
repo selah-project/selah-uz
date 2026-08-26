@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Shuning uchun gʻurur — ularning boʻyin taqinchasi, zulm esa ularga kiyim kabi yopinadi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "boʻyin taqinchasi"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "gʻurur"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "yopinadi"
+    },
+    {
+      "surface": "שית",
+      "gloss": "kiyim"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zulm"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ular uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:39.990397504Z",
+  "model": "glm-5.3"
+}

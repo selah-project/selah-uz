@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va kuchingizning gʻururini ⟨את⟩ sindiraman, va osmonlaringizni ⟨את⟩ temirdek, va yeringizni ⟨את⟩ misdek qilaman.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "va sindiraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gʻururini"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "gʻururini"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "kuchingizning"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "va qilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osmonlaringizni"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "osmonlaringizni"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "temirdek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yeringizni"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "yeringizni"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "misdek"
+    }
+  ],
+  "timestamp": "2026-08-26T01:24:17.573341111Z",
+  "model": "glm-5.3"
+}

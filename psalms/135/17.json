@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Quloqlari bor ularda, ammo ular eshitmaydilar; hatto nafas yoʻq ⟨bor⟩ ogʻizlarida.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "quloqlari"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo ... emas"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "eshitmaydilar"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨bor⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nafas"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ogʻizlarida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:18.864009073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Chunki har bir xohish uchun vaqt va hukm bor, chunki odamning yovuzligi uning ustida kattadir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "har bir... uchun"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xohish"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "va hukm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "yovuzligi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odamning"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "katta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustida"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:35.551338354Z",
+  "model": "glm-5.3"
+}

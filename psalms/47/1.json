@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 47,
+  "translation": "Dirrga, Korach oʻgʻillariga, mazmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirrga"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmor"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:26.696194592Z",
+  "model": "glm-5.3"
+}

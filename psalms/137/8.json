@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 137,
+  "translation": "Ey Bobil qizi, vayron etiluvchi, baxtli ⟨he⟩ — senga berganingni qaytarib beradigan kimki ⟨את⟩ mukofotingni, bizga qilganingdek.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ey Bobil"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "vayron etiluvchi"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "baxtli"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "qaytarib beradigan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mukofotingni"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "mukofotingni"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "qilganingdek"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:53.319754468Z",
+  "model": "glm-5.3"
+}

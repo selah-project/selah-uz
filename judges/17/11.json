@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Levi ⟨את⟩ odam bilan yashashga rozi boʻldi, va yigit unga oʻgʻillaridan biridek boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "Va ... rozi boʻldi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "yashashga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odam"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam bilan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yigit"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "biridek"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "oʻgʻillaridan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:36:19.293936752Z",
+  "model": "glm-5.3"
+}

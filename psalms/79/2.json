@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 79,
+  "translation": "⟨Ular⟩ ⟨את⟩ banoglaringiz jasadi­ni osmon qushlariga ozuqa qilib berdilar, sadirlaringiz goʻshtini yerning yirtqich hayvoniga.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "berdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banoglaringiz jasadini"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "jasad"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "banoglaringiz"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ozuqa"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "qushlariga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goʻshti"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "sadirlaringiz"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "yirtqich hayvoniga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T09:08:52.674130334Z",
+  "model": "glm-5.3"
+}

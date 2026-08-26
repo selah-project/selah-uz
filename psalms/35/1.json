@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Dovudga. Nizochen boʻl, Yahve, menga nizochilarga qarshi; jang qil, menga jangchilarimga qarshi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "nizochen boʻl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menga nizochilar"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "menga nizochilar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "jang qil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menga jangchilarim"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "menga jangchilarim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:18.210842729Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Seni olqishlaydi, ey Yahve, sening barcha ishlarıng, va sening sodiqlaring seni barakalaydi.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "seni olqishlaydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ishlarıng"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "va sening sodiqlaring"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "seni barakalaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:07.649123793Z",
+  "model": "glm-5.3"
+}

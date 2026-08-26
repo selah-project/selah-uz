@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Yelkasini yukdan olib chiqdimgina; qoʻllari ham savatdan oʻtadi.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "olib chiqdim"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "yukdan"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "yelkasini"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "qoʻllari"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "savatdan"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "oʻtadi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:08.191012539Z",
+  "model": "glm-5.3"
+}

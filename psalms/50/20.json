@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "O'tirasan, akangga qarshi gapirasan, onangning o'g'liga to'siq (ig'vo) qo'yasan.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "O'tirasan"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "akangga qarshi"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "gapirasan"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "o'g'liga"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "onangning"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qo'yasan"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "to'siq (ig'vo)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:17.938187887Z",
+  "model": "glm-5.3"
+}

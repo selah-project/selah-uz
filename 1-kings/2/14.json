@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va u aytdi: «Menda seniga aytagan soʻzim bor». Va u aytdi: «Ayt».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u aytdi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "seni(u)nga"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Va u aytdi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ayt"
+    }
+  ],
+  "timestamp": "2026-08-26T08:30:58.609944112Z",
+  "model": "glm-5.3"
+}

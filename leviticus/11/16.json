@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "va ⟨את⟩ tuyaqushni va ⟨את⟩ tun qushini va ⟨את⟩ chag'alayni va ⟨את⟩ lochinni — o'z turilariga",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tuyaqushni"
+    },
+    {
+      "surface": "בת",
+      "gloss": "…qushi (qizi)"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "tuyaqushni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tun qushini"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "tun qushini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "chag'alayni"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "chag'alayni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "lochinni"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "lochinni"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "o'z turilariga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:56.336212598Z",
+  "model": "glm-5.3"
+}

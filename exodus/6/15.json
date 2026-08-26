@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 6:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Shimonning o‘g‘illari — Yemuel, Yamin, Ohad, Yokin, Zoxar va kanaʼanlik ayolning o‘g‘li Shaul; bular Shimon oilalari.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Va o‘g‘illari"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "va Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "va Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "va Yokin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "va Zoxar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "va Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "o‘g‘li"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "kanaʼanlik ayolning"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bular"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "oilalari"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:29.367439440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "O'g'lingni tarbiya qil, chunki umid bor, va uni o'ldirishga nefeshingni ⟨ko'tarma⟩.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "tarbiya qil"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "o'g'lingni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "umid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va... emas"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "uni o'ldirish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ema"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ko'tarma"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshingni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:47:09.049636879Z",
+  "model": "glm-5.3"
+}

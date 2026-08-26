@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 32:11",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Men barcha xesedlardan va barcha sodiqlikdan kichikman, ki Sen quling ⟨את⟩ ga qilganing ⟨icha⟩ — chunki tayoqcham bilan ⟨men⟩ bu ⟨את⟩ Yardenni kechdim, va endi ikki lagerga aylandim.",
+  "tokens": [
+    {
+      "surface": "קטנתי",
+      "gloss": "kichikman"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha ... dan"
+    },
+    {
+      "surface": "החסדים",
+      "gloss": "xesedlar"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "va barcha ... dan"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "sodiqlik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quling"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "quling"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "במקלי",
+      "gloss": "tayoqcham bilan"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "kechdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "boʻldim"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ikkita"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "lagerga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:57.451092512Z",
+  "model": "glm-5.3"
+}

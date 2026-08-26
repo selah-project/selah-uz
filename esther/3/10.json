@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va mlk uz uzugini qoʻlidan yechdi va uni Homonga — Medataning oʻgʻli, agagiy, yahudiylarning dushmaniga — berdi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "va yechdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mlk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uz uzugini"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "uz uzugini"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "...dan"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "Homonga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medataning"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "agagiy"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "dushmani"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "yahudiylarning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:24:30.091193923Z",
+  "model": "glm-5.3"
+}

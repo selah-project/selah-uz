@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Yahveni yomon koʻrganlar Unga soxta itoat koʻrsatar edilar va ularning vaqti abadiy davom etar edi.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "yomon koʻrganlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "soxta itoat koʻrsatar edilar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "boʻlar edi"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "ularning vaqti"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:50.692777563Z",
+  "model": "glm-5.3"
+}

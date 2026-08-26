@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va ⟨את⟩ Yisroel oʻgʻillarining jamoasidan u oladi ikki echki takasini gunoh qurbonligi uchun va bir qoʻchqorni yoqiq qurbonligi uchun.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yisroel oʻgʻillarining jamoasi"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamoasidan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "u oladi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "taka"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "echki"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "gunoh qurbonligi uchun"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "va qoʻchqor"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "yoqiq qurbonligi uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:18:18.116016585Z",
+  "model": "glm-5.3"
+}

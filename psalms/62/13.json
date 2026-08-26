@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 62,
+  "translation": "Va senga, ey Adonay, ⟨bor⟩ xesed, chunki sen har bir kishiga oʻz amaliga koʻra toʻlab berursan.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "va senga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "toʻlab berursan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "har bir kishiga"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "oʻz amaliga koʻra"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:04.947647265Z",
+  "model": "glm-5.3"
+}

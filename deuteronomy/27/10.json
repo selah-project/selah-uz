@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va Yahve, Elohimingning ovoziga quloq solasan va Uning buyruqlarini va ⟨את⟩ Uning farmonlarini bajarmisan, qaysi(ki)larni Men sana bugun buyuraman.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "va quloq solasan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovoziga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimingning"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "va bajarmisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyruqlarini"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "buyruqlarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "farmonlarini"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "farmonlarini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysi(ki)larni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sana buyuraman"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:25:36.024633768Z",
+  "model": "glm-5.3"
+}

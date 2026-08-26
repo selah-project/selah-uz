@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Shaul oʻsha kundan buyon va undan keyin Dovudni ⟨את⟩ kuzatib turdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kuzatib turdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dovudni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovudni"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "oʻsha kundan"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "va undan keyin"
+    }
+  ],
+  "timestamp": "2026-08-26T02:52:49.311226350Z",
+  "model": "glm-5.3"
+}

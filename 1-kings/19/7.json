@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Yahve elchisi qaytdi ikkinchi marta va uni tegdi va aytdi: tur, ye, chunki ⟨sendan⟩ uchun yoʻl koʻpdir.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "va qaytdi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "elchi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikkinchi marta"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "va tegdi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tur"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "⟨sendan⟩"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yoʻl"
+    }
+  ],
+  "timestamp": "2026-08-26T03:42:36.245565623Z",
+  "model": "glm-5.3"
+}

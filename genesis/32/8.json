@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va Yaakov juda qoʻrqdi va unga torlik keldi; va u bilan boʻlgan xalqni ⟨את⟩ va qoʻylarni ⟨את⟩ va moljalni ⟨את⟩ va tuya suruvlarini ikki lagerga boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "Va qoʻrqdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "va torlik keldi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ u bilan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻylarni"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "qoʻylarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "moljalni"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "moljalni"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "va tuya suruvlarini"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ikkita"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "lagerga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:45.818082283Z",
+  "model": "glm-5.3"
+}

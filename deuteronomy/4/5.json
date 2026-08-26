@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 4:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Qarang, men sizga ⟨את⟩ qonunlar va hukmlarni oʻrgatdim, xuddi Yahve Elohimimga buyurganidek — shunday qilib amal qilish uchun, sizlar borib egalaydigan mamlakat ichida.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Qarang"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "oʻrgatdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizga (obiyekt: qonunlar va hukmlar)"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "qonunlar"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "va hukmlar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xuddi ...dek"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "menga buyurgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "amal qilish uchun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ichida"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mamlakat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "borayotgansizlar"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "uni egalash uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:58:57.816264866Z",
+  "model": "glm-5.3"
+}

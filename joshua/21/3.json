@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Isroil oʻgʻillari levilarga oʻz meroslaridan Yahve ogʻziga ⟨muvofiq⟩ ⟨את⟩ shu shaharlarni va ⟨את⟩ ularning yaylovlarini berdilar.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "berdilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levilarga"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "oʻz meroslaridan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨muvofiq⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻziga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shu shaharlarni"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "shaharlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning yaylovlarini"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ularning yaylovlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:26:45.466567221Z",
+  "model": "glm-5.3"
+}

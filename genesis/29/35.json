@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 29:35",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va yana homila boʻldi va oʻgʻil tugʻdi va dedi: bu marta Yahveni ⟨את⟩ maqtayman; shuning uchun uning ismini Yehuda deb atadi va tugʻishdan toʻxtadi.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "homila boʻldi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "bu marta"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "maqtayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "shuning uchun (ustidan)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "atadi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning ismini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "va toʻxtadi"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "tugʻishdan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:31.516351472Z",
+  "model": "glm-5.3"
+}

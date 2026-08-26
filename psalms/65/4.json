@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 65,
+  "translation": "Gunohlarimish ishlari mendan kuchli boʻldi; bizning isyonlarimizni — Sen yopasan ⟨את⟩ular.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ishlari"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "gunohlarimish"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "kuchli boʻldi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "menda(n)"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "bizning isyonlarimizni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "yopasan ⟨את⟩ular"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:35.248238576Z",
+  "model": "glm-5.3"
+}

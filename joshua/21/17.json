@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Binjamin qabilasidan ⟨את⟩ Givonni va uning atrof yaylovlarini, ⟨את⟩ Gevani va uning atrof yaylovlarini.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "qabilasidan"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givonni"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givonni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atrof yaylovlarini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "atrof yaylovlarini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gevani"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gevani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "atrof yaylovlarini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "atrof yaylovlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T02:21:04.927212971Z",
+  "model": "glm-5.3"
+}

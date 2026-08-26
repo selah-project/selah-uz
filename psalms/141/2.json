@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 141,
+  "translation": "Iltijomim yuzing oldida tutun qurbonligi ⟨deb⟩ belgilansin, kaftlarim koʻtarilishi kechki minxat ⟨deb⟩.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "belgilansin"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "iltijomim"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tutun qurbonligi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yuzing oldida"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "koʻtarilishi"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kaftlarimning"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minxat"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kechki"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:28.521840007Z",
+  "model": "glm-5.3"
+}

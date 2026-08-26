@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va U aytdi: „Senga kim aytdiki, yalangʻochsan? Daraxtdan — Men senga buyurdimki, undan yema — dedimmi, yeidingmi?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "yalangʻoch"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "san"
+    },
+    {
+      "surface": "המן",
+      "gloss": "mi…"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daraxtdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "senga buyurdim"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "yema deb"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yemoq"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "yeidingmi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:25.917634881Z",
+  "model": "glm-5.3"
+}

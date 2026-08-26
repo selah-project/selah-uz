@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Yahveni izlanglar va Uning qudratini, Yuzini izlanglar izchil.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "izlanglar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "va Uning qudratini"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "izlanglar"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Yuzini"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "izchil"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:42.073837188Z",
+  "model": "glm-5.3"
+}

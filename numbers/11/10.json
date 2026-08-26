@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Moshe ⟨את⟩ xalqning oilalari boʻyicha, har biri oʻz chodiri eshigida yigʻlayotganini eshitdi; va Yahvening buruni juda qaynadi va Moshe koʻzida yomon boʻldi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalq"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "yigʻlayotganini"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "oila boʻyicha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "eshigida"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "oʻz chodiri"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "va qaynadi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "burun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "va koʻzida"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomon boʻldi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:33:03.965313469Z",
+  "model": "glm-5.3"
+}

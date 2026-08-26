@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va ⟨את⟩ butun yogʻini undan koʻtarib olib, qurbongohda tutatadi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "butun yogʻini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "yogʻini"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "koʻtarib olib"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "va tutatadi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "qurbongohda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:01.234334054Z",
+  "model": "glm-5.3"
+}

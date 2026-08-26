@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Manashshe qabilasining yarim qismidan ⟨את⟩ Taanakni va ⟨את⟩ uning atrof-maydonlarini, ⟨את⟩ Gat-Rimmonni va ⟨את⟩ uning atrof-maydonlarini — ikki shahar.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "va ... yarim qismidan"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "qabilasi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manashshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanak"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "atrof-maydonlari"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "atrof-maydonlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Gat-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "atrof-maydonlari"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "atrof-maydonlari"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ikki"
+    }
+  ],
+  "timestamp": "2026-08-26T02:21:28.851352135Z",
+  "model": "glm-5.3"
+}

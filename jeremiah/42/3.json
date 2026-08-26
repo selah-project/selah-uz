@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va Yahve Elohim ing xabar bersin bizga ⟨את⟩ yoʻl ni biz yuraylik u unda, va ⟨את⟩ soʻz ni biz qilaylik.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "va xabar bersin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoʻl"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "yuraylik"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "soʻz"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "qilaylik"
+    }
+  ],
+  "timestamp": "2026-08-26T05:01:02.109737259Z",
+  "model": "glm-5.3"
+}

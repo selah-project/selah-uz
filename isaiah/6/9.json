@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va U aytdi: bor, va bu xalqqa ayta san: eshitinglar — eshitib, lekin anglamanglar; koʻringlar — koʻrib, lekin bilmasanglar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va U aytdi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bor"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ayta san"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalqqa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshitinglar"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "eshitib"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lekin"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "anglamanglar"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "koʻringlar"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "koʻrib"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "lekin"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "bilmasanglar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:09:42.947737987Z",
+  "model": "glm-5.3"
+}

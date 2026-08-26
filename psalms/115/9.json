@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Ey Isroil, Yahvega ishonch bil ⟨⟨⟩⟩ tayan — U ⟨ulardan⟩ ularning yordami va qalqoni ⟨U Oʻzidir⟩.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Ey Isroil"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tayaningiz, ishonch bilan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ulardan yordam"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "va qalqonlari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:52.713876221Z",
+  "model": "glm-5.3"
+}

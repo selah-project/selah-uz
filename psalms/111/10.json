@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 111,
+  "translation": "Boshlanishi hikmatning — Yahve hurmati; yaxshi tushuncha barcha amal qiluvchilarga ⟨u⟩niki; uning maqtovi turadi abadiy.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Boshlanishi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmatning"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "hurmati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "tushuncha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "amal qiluvchilarga"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "uning maqtovi"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "turadi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:44.672162972Z",
+  "model": "glm-5.3"
+}

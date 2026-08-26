@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Yarovamning gunohlari sababli, ki u gunoh qildi va ki u ⟨את⟩ Isroilni gunohga olib keldi, — oʻzini gʻazablantirgani uchun, ki u ⟨את⟩ Yahveni, Isroilning Elohimini gʻazablantirdi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "sababli"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "gunohlari"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovamning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "gunoh qildi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "va ki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "gunohga olib keldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "oʻzini gʻazablantirgani uchun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "gʻazablantirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:40:10.470106509Z",
+  "model": "glm-5.3"
+}

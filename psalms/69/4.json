@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Baqirishdan tolib qoldim, halqum qurib yondi, koʻzlarim tugadi, Elohimimga kutib.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "tolib qoldim"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "baqirishdan"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "qurib yondi"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "halqum"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tugadi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarim"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "kutib"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimimga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:11.912680786Z",
+  "model": "glm-5.3"
+}

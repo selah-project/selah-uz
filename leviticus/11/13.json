@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va ⟨את⟩ bularni qushlardan yiqqir bilasiz — yeyilmaydilar, yiqqir narsadirlar: ⟨את⟩ burgutni va ⟨את⟩ g'irg'ini va ⟨את⟩ ozniyani",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "bularni"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bularni"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "yiqqir bilasiz"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "qushlardan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…may"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeyilmaydilar"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "yiqqir narsa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "dirlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "burgutni"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "burgutni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "g'irg'ini"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "g'irg'ini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ozniyani"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "ozniyani"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:56.335775392Z",
+  "model": "glm-5.3"
+}

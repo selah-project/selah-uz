@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Yuragimni egib ber sening guvohliklaringa, va ⟨ema⟩ norasmiy foydaga.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "egib ber"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragimni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "sening guvohliklaring"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ⟨ema⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "norasmiy foyda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:34.384033370Z",
+  "model": "glm-5.3"
+}

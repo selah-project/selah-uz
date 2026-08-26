@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "Sen oʻz xalqingga qattiq narsani koʻrsatding; bizga sarxushlik vinosisini ichirding.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "koʻrsatding"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "oʻz xalqingga"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "qattiq narsani"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "ichirding bizga"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "sarxushlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:53.768212568Z",
+  "model": "glm-5.3"
+}

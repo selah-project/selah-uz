@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va endi, agar ularning gunohini koʻtarsan — va agar ⟨yoʻq⟩ — meni, iltijo, yozgan kitobingdan oʻchirgin.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Va endi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "koʻtarsan"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "ularning gunohini"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "meni oʻchirgin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltijo"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "kitobingdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "yozgan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:13.915026901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Eslab qoʻy, ey Yahve, rahmlaringni va xesedlaringni, chunki ular azaldan bordir.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Eslab qoʻy"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmlaringni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "va xesedlaringni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "azaldan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:34.407332384Z",
+  "model": "glm-5.3"
+}

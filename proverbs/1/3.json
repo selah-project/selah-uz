@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "aqlli muomalaning tarbiyasini qabul qilish uchun — adolat, hamda hukm, hamda toʻgʻrilik ⟨uchun⟩;",
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "qabul qilish uchun"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tarbiyasini"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "aqlli muomalaning"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "hamda hukm"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "hamda toʻgʻrilik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:34.155716708Z",
+  "model": "glm-5.3"
+}

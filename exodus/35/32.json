@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va tasavvurlarni oʻylab topish uchun — oltinda, kumushda va misda ishlash uchun.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "va oʻylab topish uchun"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "tasavvurlarni"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ishlash uchun"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "oltinda"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "va kumushda"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "va misda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:44.217793582Z",
+  "model": "glm-5.3"
+}

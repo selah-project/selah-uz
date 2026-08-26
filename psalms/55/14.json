@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Lekin sen — oʻlimli odam, menga teng, doʻstim va tanishim ⟨eding⟩.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "lekin sen"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "oʻlimli odam"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "menga teng"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "doʻstim"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "va tanishim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:41.019505646Z",
+  "model": "glm-5.3"
+}

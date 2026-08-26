@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Chunki Sen mening hukmimni va mening daʼvomni bajarding, Sen taxtga oʻtirding — solih Adolat sudi sifatida.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "bajarding"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmimni"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "va daʼvomni"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "oʻtirding"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "taxtga"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "solih adolat"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:27.013741053Z",
+  "model": "glm-5.3"
+}

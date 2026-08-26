@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 76,
+  "translation": "U yerda u kamon oʻqlarining charxlari chaqnagini sindirdi — qalqonni, qilichni va urushni. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "U yerda"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sindirdi"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "charxlari chaqnagi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kamon oʻqlarining"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "qalqonni"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "va qilichni"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "va urushni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:46.223768711Z",
+  "model": "glm-5.3"
+}

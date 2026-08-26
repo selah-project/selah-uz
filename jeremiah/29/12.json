@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va sizlar meni ⟨את⟩ chaqirasizlar, borasizlar va menga duo qilasizlar, va men sizlarga ijobat beraman.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "va chaqirasizlar"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ meni",
+      "marks": "meni"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "va borasizlar"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "va duo qilasizlar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "va eshitaman"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:54:12.950807101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va sehrgarlar oʻz maxfiy sanʼatlari bilan shunday qildilar — chivinlarni chiqarish uchun — ammo qila olmadilar; va chivinlar odamda va hayvonda boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "qildilar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "sehrgarlar"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "oʻz maxfiy sanʼatlari bilan"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "chiqarish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chivinlarni"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "chivinlarni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "qila oldilar"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "chivinlar"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "odamda"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "va hayvonda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:14.175503356Z",
+  "model": "glm-5.3"
+}

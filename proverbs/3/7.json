@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Koʻzlingda dono boʻlma; Yahvedan qoʻrq va yomonlikdan chekin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "boʻlma"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "boʻlma"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "dono"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "koʻzlingda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨את⟩ Yahve"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qoʻrq"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "va chekin"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "yomonlikdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:39:05.098128372Z",
+  "model": "glm-5.3"
+}

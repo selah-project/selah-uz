@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Hayrat va dahshat yuz berdi ⟨the⟩ yerda.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "dahshat"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "va hayrat"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "yuz berdi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T04:39:50.090619550Z",
+  "model": "glm-5.3"
+}

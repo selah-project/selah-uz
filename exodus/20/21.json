@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va xalq uzoqda turdi, Moshe esa zulmat oldiga yaqinlashdi — Elohim ⟨shu⟩ yerda ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Va turdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzoqda"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "va Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "yaqinlashdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "zulmat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "shu yerda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:10.933873283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va Aharon va uning oʻgʻillari ⟨את⟩ qoʻchqorning goʻshtini va ⟨את⟩ savatdagi nonni uchrashuv chodirining eshigi oldida yeydilar.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "va yeydilar"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "va uning oʻgʻillari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻchqorning goʻshtini"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goʻshtini"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qoʻchqorning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "savatdagi nonni"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "nonni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ki⟩"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "savatda"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eshigi oldida"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodirining"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:50.337506193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Nuh besh yuz yoshda boʻldi, va Nuh ⟨את⟩ Shemni, ⟨את⟩ Xomni va ⟨את⟩ Yofisni tugʻdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va … boʻldi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "besh"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "va u tugʻdi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nuh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xomni"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Xom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yofisni"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yofis"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:02.756577276Z",
+  "model": "glm-5.3"
+}

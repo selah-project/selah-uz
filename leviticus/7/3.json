@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va ⟨את⟩ uning barcha yogʻini undan yaqinlashtiradi: ⟨את⟩ dum yogʻini va ⟨את⟩ ichaklarni qoplaydigan yogʻni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha yogʻini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "uning yogʻini"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "yaqinlashtiradi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dum yogʻini"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "dum yogʻini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yogʻni"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yogʻni"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "qoplaydigan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ichaklarni"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ichaklarni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:11:13.597954320Z",
+  "model": "glm-5.3"
+}

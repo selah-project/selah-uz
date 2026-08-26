@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Yerga qaragan — u larzaga keladi, togʻlarga tegadi — ular tutun chiqaradi.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "qaragan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "va u larzaga keladi"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "tegadi"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "togʻlarga"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "va ular tutun chiqaradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:27.034442777Z",
+  "model": "glm-5.3"
+}

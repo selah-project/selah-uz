@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "«U holda ⟨את⟩ o‘g‘ullaringizga bildirasiz: quruq yer ustidan Yisroel ⟨את⟩ bu Yarden daryosini kesib o‘tdi.",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "u holda bildirasiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o‘g‘ullaringizga"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "o‘g‘ullaringiz"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aytib"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "quruq yer ustidan"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kesib o‘tdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu Yarden daryosini"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden daryosi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T02:10:41.582603727Z",
+  "model": "glm-5.3"
+}

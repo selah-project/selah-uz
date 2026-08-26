@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va u ⟨את⟩ Bet-Lehemni, ⟨את⟩ Etamni va ⟨את⟩ Tekoani qurdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "va qurdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Lehemni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehemni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Etamni"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Etamni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tekoani"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoani"
+    }
+  ],
+  "timestamp": "2026-08-26T08:07:48.177454996Z",
+  "model": "glm-5.3"
+}

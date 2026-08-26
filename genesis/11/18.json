@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Peleg yashadi oʻttiz yil, va ⟨את⟩ Reuni tugʻdi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "oʻttiz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "va tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reu"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:23.770031332Z",
+  "model": "glm-5.3"
+}

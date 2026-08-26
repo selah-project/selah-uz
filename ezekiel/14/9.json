@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 14:9",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va nabii, agar aldanib soʻz gapirsa — Men, Yahve, oʻsha nabiyni aldaganman; va qoʻlimni uning ustiga choʻzgandirman va uni xalqim Yisroilning oʻrtasidan qirib tashlagandirman.",
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "Va nabii"
+    },
+    {
+      "surface": "כי",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "aldanadi"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "va gapirsa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פתיתי",
+      "gloss": "aldaganman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻsha nabiyni"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabiyni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "ונטיתי",
+      "gloss": "va choʻzgandirman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻlimni"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻlim"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "והשמדתיו",
+      "gloss": "va uni qirib tashlagandirman"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "oʻrtasidan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroil"
+    }
+  ],
+  "timestamp": "2026-08-26T05:14:29.489608949Z",
+  "model": "glm-5.3"
+}

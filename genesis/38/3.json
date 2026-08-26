@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va homila boʻldi va oʻgʻil tugʻdi, va uning nomiga ⟨את⟩ Er deb chaqirdi.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "homila boʻldi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "oʻgʻil tugʻdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "chaqirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning nomini"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning nomini"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:10.315795666Z",
+  "model": "glm-5.3"
+}

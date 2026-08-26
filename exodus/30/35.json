@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va undan ⟨את⟩ tutatqini tayyorla — aralash qorishma, atirchining mahsuloti, tuz qoʻshilgan, pok, muqaddas.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Va ... tayyorla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ uni",
+      "marks": "tutatqi"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tutatqini"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "aralash qorishma"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mahsuloti"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "atirchining"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "tuz qoʻshilgan"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pok"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    }
+  ],
+  "timestamp": "2026-08-26T01:02:32.303295285Z",
+  "model": "glm-5.3"
+}

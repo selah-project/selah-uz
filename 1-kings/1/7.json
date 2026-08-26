@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va uning soʻzlari Yoav, Tseruyaning oʻgʻli bilan, va Evyatar kohin bilan boʻldi, va ular Adoniyahu ortidan yordam berdilar.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "uning soʻzlari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruyaning"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "va … bilan"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "va yordam berdilar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adoniyahu"
+    }
+  ],
+  "timestamp": "2026-08-26T03:22:39.615775884Z",
+  "model": "glm-5.3"
+}

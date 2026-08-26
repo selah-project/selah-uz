@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Yahve unga dedi: qoʻlingda nima bor bu? U esa dedi: tayoq.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "nima bu"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "qoʻlingda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "tayoq"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:49.928244450Z",
+  "model": "glm-5.3"
+}

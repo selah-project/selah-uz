@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Dushmanlarim esa tirik va kuchlidirlar, yolgʻon ravishda meni yomon koʻrganlar koʻpaydi.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "dushmanlarim esa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tirik"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "kuchlidirlar"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "koʻpaydi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "meni yomon koʻrganlar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon ravishda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:37.993182521Z",
+  "model": "glm-5.3"
+}

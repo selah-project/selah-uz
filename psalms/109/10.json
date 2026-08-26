@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Va kezbulsin doimiy uning farzandlari, va tilansinlar, va izlab yursinlar ⟨nonni⟩ oʻz vayronalaridan.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "va kezbulsin doimiy"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "adashib yurayotganda"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uning farzandlari"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "va tilansinlar"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "va izlab yursinlar"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "oʻz vayronalaridan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:12.952004667Z",
+  "model": "glm-5.3"
+}

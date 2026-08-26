@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Yahve, eslang meni xalqingizga rozilik berganda, meni yodingizdan oʻtkazing najotingiz bilan!",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "eslang meni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "rozilik berganda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqingizga"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "meni yodingizdan oʻtkazing"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "najotingiz bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:10.347309074Z",
+  "model": "glm-5.3"
+}

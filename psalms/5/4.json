@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Yahve, ertalab ovozimni eshitasan; ertalab Senga tartibga qoʻyaman va kuzatib turaman.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ertalab"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "eshitasan"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ovozimni"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ertalab"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "tartibga qoʻyaman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "va kuzatib turaman"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:46.328436672Z",
+  "model": "glm-5.3"
+}

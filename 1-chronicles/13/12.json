@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Dovud oʻsha kuni ⟨את⟩ Elohimdan qoʻrqdi, degan ediki: Qanday qilib ⟨את⟩ Elohimning sandigʻini oʻzimga olib kelaman?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "qoʻrqdi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimdan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimdan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "oʻsha kuni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan ediki"
+    },
+    {
+      "surface": "היך",
+      "gloss": "qanday qilib"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "olib kelaman"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "oʻzimga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandigʻini"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandigʻini"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:58:21.694373286Z",
+  "model": "glm-5.3"
+}

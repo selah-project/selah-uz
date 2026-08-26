@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Kohinlardan har bir erkak uni yesin; muqaddas joyda yeyiladi — bu muqaddaslarning muqaddasi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "kohinlardan"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "uni yesin"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "joyda"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyiladi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddaslik"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "muqaddaslarning"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:23.790414231Z",
+  "model": "glm-5.3"
+}

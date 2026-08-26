@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Ahmoq yoʻli oʻz koʻzida toʻgʻri, esa maslahatni eshituvchi donishmand.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yoʻli"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ahmoq"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "toʻgʻri"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "oʻz koʻzida"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "esa eshituvchi"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "maslahatni"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "donishmand"
+    }
+  ],
+  "timestamp": "2026-08-26T06:43:26.410800092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 16:23",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Aharon mo'ljd o'tiga kiradi va muqaddasga kirganida kiygan beden kiyimlarini yechadi va ularni u yerda qoldiradi.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "Va ... kiradi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mo'ljd"
+    },
+    {
+      "surface": "ופשט",
+      "gloss": "va ... yechadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beden kiyimlarini"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kiyimlarini"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "beden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niki"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "kiygan"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "kirganida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "va ... qoldiradi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:39.838465826Z",
+  "model": "glm-5.3"
+}

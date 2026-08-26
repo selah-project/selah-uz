@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Men taxtalarga avvalgi taxtalarda boʻlgan ⟨את⟩ soʻzlarni — seni singanlaringni — yozaman, va sen ularni sandiqqa qoʻyasан.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "va Men yozaman"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ga (ustiga)"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "taxtalar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlarni"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "על",
+      "gloss": "-da (ustida)"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "taxtalarda"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "avvalgi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "sening singanlaring"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "va qoʻyasан"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sandiqqa"
+    }
+  ],
+  "timestamp": "2026-08-26T01:53:27.811200576Z",
+  "model": "glm-5.3"
+}

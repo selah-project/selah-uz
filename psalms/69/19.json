@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Nefshima yaqin kel, uni qarzdan ozod qil; dushmanlarim tufayli meni qutqar.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "yaqin kel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefshima"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "uni qarzdan ozod qil"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tufayli"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "meni qutqar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:10.590352503Z",
+  "model": "glm-5.3"
+}

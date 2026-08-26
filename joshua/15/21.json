@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 15:21",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va shaharlar boʻldi — Yehuda oʻgʻillari qabilasining chekka chekkasidan, Edom chegarasi tomon, janubda: Qavtseel va Eder va Yagur.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "shaharlar"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "chekka cheggarasidan"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qabilasining"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "chegarasi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בנגבה",
+      "gloss": "janubda (Neg evda)"
+    },
+    {
+      "surface": "קבצאל",
+      "gloss": "Qavtseel"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "va Eder"
+    },
+    {
+      "surface": "ויגור",
+      "gloss": "va Yagur"
+    }
+  ],
+  "timestamp": "2026-08-26T02:18:29.144060582Z",
+  "model": "glm-5.3"
+}

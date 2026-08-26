@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 140,
+  "translation": "Ular tilini ilon kabi oʻtkirladilar, ilon zahari lablari ostida. Sela",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "oʻtkirladilar"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "tilini"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ilon"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "zahari"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "ilon"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "lablari"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:42.606654242Z",
+  "model": "glm-5.3"
+}

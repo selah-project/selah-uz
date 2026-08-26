@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va Shaʼul unga Yahve bilan qasam ichdi, aytab: Tirik Yahve ⟨sudrab⟩ — agar bu ishda sanga gunoh yetmas.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Va qasam ichdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaʼul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve bilan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aytab"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Tirik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "yetadi sanga"
+    },
+    {
+      "surface": "עון",
+      "gloss": "gunoh"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ishda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T02:59:56.408975192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Va nafrat soʻzlari meni oʻrab oldi va ular meni behuda urushdilar.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "Va soʻzlari"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "nafrat"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "meni oʻrab oldi"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "va urushdilar"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "behuda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:23.140506391Z",
+  "model": "glm-5.3"
+}

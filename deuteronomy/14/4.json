@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Mana ⟨⟨the⟩⟩ hayvon — sizlar yeydigan: mol, qoʻy-birlamol va echki-birlamol.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "mana bu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kim"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeydigan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mol"
+    },
+    {
+      "surface": "שה",
+      "gloss": "birlamol"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "va birlamol"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "echki"
+    }
+  ],
+  "timestamp": "2026-08-26T01:54:51.166913258Z",
+  "model": "glm-5.3"
+}

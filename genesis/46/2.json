@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 46:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Va Elohim tunda koʻrishlarda Isroilga aytdi va dedi: Yaakov, Yaakov! Va ⟨u⟩ dedi: Mana men!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isroilga"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "koʻrishlarda"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mana men"
+    }
+  ],
+  "timestamp": "2026-08-26T00:47:29.691946710Z",
+  "model": "glm-5.3"
+}

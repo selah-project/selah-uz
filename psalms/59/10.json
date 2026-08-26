@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Kuchim — Seni kutib turaman, chunki Elohim ⟨⟨-⟩⟩ mening panohim.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Kuchim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Seni"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "kutib turaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "panohim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:52.820670248Z",
+  "model": "glm-5.3"
+}

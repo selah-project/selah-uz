@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va ⟨את⟩ Ovalni, va ⟨את⟩ Avima-elni, va ⟨את⟩ Shevani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Ovalni"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Ovalni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Avima-elni"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avima-elni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Shevani"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shevani"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:06.482889476Z",
+  "model": "glm-5.3"
+}

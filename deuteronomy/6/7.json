@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va ularni farzandlaringga qayta-qayta oʻrgatasan, oʻtirsang uyda va yursang yoʻlda, yotsang va tursang — ulardan gapirasan.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "qayta-qayta oʻrgatasan"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "farzandlaringga"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "gapirasan"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "oʻtirsang"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "uyda"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "va yursang"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "va yotsang"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "va tursang"
+    }
+  ],
+  "timestamp": "2026-08-26T01:49:05.767478752Z",
+  "model": "glm-5.3"
+}

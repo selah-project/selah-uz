@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Sening soʻzingning boshi haqiqatdir va abadiy ⟨qoladi⟩ sening solih hukmlaringning barchasi.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sening soʻzingning"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "haqiqatdir"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "va abadiy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukmlaringning"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "solih"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:39.561919661Z",
+  "model": "glm-5.3"
+}

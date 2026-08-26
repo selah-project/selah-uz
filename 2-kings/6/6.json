@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Elohim odami dedi: „Qayerga tushdi?“ Unga ⟨את⟩ joyni koʻrsatdi; u yogʻoch kesib oʻsha yerga tashladi va temir suzdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odami"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Qayerga"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "unga koʻrsatdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joy"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "joyni"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "kesib oldi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yogʻoch"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "tashladi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "oʻsha yerga"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "suzdi"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "temir"
+    }
+  ],
+  "timestamp": "2026-08-26T03:48:52.122920361Z",
+  "model": "glm-5.3"
+}

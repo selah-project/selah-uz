@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Ketib xizmat qildilar boshqa xudolarga va sajda qildilar ularga — xudolarga ki taniMadilar, va ⟨U⟩ ularga taqsimlamagan edi.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ketib"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "xizmat qildilar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xudolar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "va sajda qildilar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xudolar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tanimadilar emas"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "taniMadilar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "taqsimlamagan edi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:03:30.034623360Z",
+  "model": "glm-5.3"
+}

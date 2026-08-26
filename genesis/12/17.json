@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yahve Parohni ⟨את⟩ katta zararlar bilan urdi va ⟨את⟩ uning uyini — Saroy, Avramning xotini sababidan.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parohni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "zararlar"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "katta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning uyini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uning uyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababidan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ish"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saroy"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "xotini"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:41.143093528Z",
+  "model": "glm-5.3"
+}

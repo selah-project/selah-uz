@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "va ⟨את⟩ xiviylik, va ⟨את⟩ arqiylik, va ⟨את⟩ siniylik",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "xiviylik"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "xiviylik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "arqiylik"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "arqiylik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "siniylik"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "siniylik"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:08.845024025Z",
+  "model": "glm-5.3"
+}

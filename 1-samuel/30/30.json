@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "va Xormada boʻlganlarga, va BorAshanda boʻlganlarga, va Ataxda boʻlganlarga",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "va ... boʻlganlarga"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Xormada"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "va ... boʻlganlarga"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Bor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "va ... boʻlganlarga"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Ataxda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:58:37.538466872Z",
+  "model": "glm-5.3"
+}

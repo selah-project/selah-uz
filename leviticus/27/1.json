@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va Yahve Moshega gapirdi, deganicha:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deganicha"
+    }
+  ],
+  "timestamp": "2026-08-26T01:24:50.917700368Z",
+  "model": "glm-5.3"
+}

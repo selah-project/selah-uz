@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 25:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va u aytiladi: oʻsha kunda — mana, bu bizning Elohimimiz, biz Unga umid bogʻladik va U bizni qutqaradi; bu Yahve, biz Unga umid bogʻladik; Uning najotida sevinamiz va xursand boʻlamiz.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Va aytiladi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "bizning Elohimimiz"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "biz umid bogʻladik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "ויושיענו",
+      "gloss": "va U bizni qutqaradi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "biz umid bogʻladik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "sevinamiz"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "va xursand boʻlamiz"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "Uning najotida"
+    }
+  ],
+  "timestamp": "2026-08-26T04:17:23.650290800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Men Seni chaqirdim, chunki Sen meni javob bersan, El; qulogʻingni menga egib, soʻzimni eshit.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "Seni chaqirdim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "meni javob bersan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "egib"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "qulogʻingni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshit"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "soʻzimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:46.288797238Z",
+  "model": "glm-5.3"
+}

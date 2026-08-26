@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va Sha-ul Yahve uchun mehrob qurdi; ⟨u⟩ bilan boshladi Yahve uchun mehroblar qurishni.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "qurdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha-ul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mehrob"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "u bilan boshladi (boshlashni)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "boshladi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "qurishni"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mehrob"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T02:51:38.454296579Z",
+  "model": "glm-5.3"
+}

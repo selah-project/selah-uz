@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va agar odam ⟨את⟩ qulini yoki ⟨את⟩ chorisini tayoq bilanursa va u qoʻl ostida oʻlsa, albatta intiqom olinadi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Va agar"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ursa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulini"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "qulini"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chorisini"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "chorisini"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "tayoq bilan"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "va oʻlsa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlining"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "intiqom"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "olinadi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:26.372101914Z",
+  "model": "glm-5.3"
+}

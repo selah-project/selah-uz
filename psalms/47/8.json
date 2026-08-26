@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 47,
+  "translation": "Chunki butun yerning maliki — Elohim; ijro qilinglar, ⟨donishmandlik bilan⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maliki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ijro qilinglar"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "donishmandlik bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:28.538601098Z",
+  "model": "glm-5.3"
+}

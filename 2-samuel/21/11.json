@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Davidga xabar qilindi ⟨את⟩ Ritspa, Ayaning qizi, Shoulning kanizagi qilgan narsani.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "xabar qilindi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qilgan narsani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "kanizagi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoulning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:19:09.583545143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Nafasim changga yopishdi; Soʻzingga koʻra meni tiriltir.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "yopishdi"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "changga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafasim"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "meni tiriltir"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Soʻzingga koʻra"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:57.480782447Z",
+  "model": "glm-5.3"
+}

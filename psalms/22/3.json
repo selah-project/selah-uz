@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Elohimim, kunduzi chaqiraman va javob bermaysan, va tunda — menga sukut yoʻq",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "chaqiraman"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "kunduzi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "javob bermaysan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "va tunda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "sukut"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:27.389883755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 85,
+  "translation": "Miqi emasmisan, Sen qaytib bizni tiriltirsang, va Sening xalqing Sendan xursand boʻladi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Miqi emasmisan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "qaytib"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "bizni tiriltirsang"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "va Sening xalqing"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "xursand boʻladi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Sendan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:15.971055845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Oyoqlarini kishanlar bilan qiynadilar, temur uning nefeshiga kirdi.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "qiynadilar"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "kishanlar bilan"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "uning oyoqlari"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "temur"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kirdi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "uning nefeshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:31.509863334Z",
+  "model": "glm-5.3"
+}

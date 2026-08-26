@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Qoʻlingni uning ustiga qoʻy — jangni esla, ortiq qilma.",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "qoʻlingni"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "esla"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "jangni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ma"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ortiq qil"
+    }
+  ],
+  "timestamp": "2026-08-26T07:09:30.825976258Z",
+  "model": "glm-5.3"
+}

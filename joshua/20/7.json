@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va ular muqaddas qildilar ⟨את⟩ Qedeshni Galiloda, Naftali togʻida, va ⟨את⟩ Shekemni Efrayim togʻida, va ⟨את⟩ Kiryat-Arbani — u Xevrondir — Yahuda togʻida.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Va ular muqaddas qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Qedeshni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedeshni"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "Galiloda"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻida"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Shekemni"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemni"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻida"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Kiryat-Arbani"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "-Arbani"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Xevrondir"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻida"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:22:35.493152291Z",
+  "model": "glm-5.3"
+}

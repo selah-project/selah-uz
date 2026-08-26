@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Misr ⟨את⟩ Isroil oʻgʻillarini shafqatsiz mehnatga soldi.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "va... mehnatga soldi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil oʻgʻillarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "shafqatsiz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:54.063699306Z",
+  "model": "glm-5.3"
+}

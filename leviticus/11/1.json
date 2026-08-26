@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Yahve Moshega va Ahronga gapirdi, ularga aytib:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... ga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aytib"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:22.124955855Z",
+  "model": "glm-5.3"
+}

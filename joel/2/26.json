@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joel 2:26",
+  "book": "joel",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va sizlar yeyaversizlar — yeb toʻyasizlar — va Yahve, Elohimlaringizning ⟨את⟩ Ismini maqtaysizlar, ki U sizlar bilan ajoyib ish qilgan; va xalqim abadiy uyalmaydi.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "Va sizlar yeyaversizlar"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "yeb"
+    },
+    {
+      "surface": "ושבוע",
+      "gloss": "toʻyasizlar"
+    },
+    {
+      "surface": "והללתם",
+      "gloss": "va maqtaysizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ismni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Ismni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimlaringizning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ish qilgan"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizlar bilan"
+    },
+    {
+      "surface": "להפליא",
+      "gloss": "ajoyib"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "uyalmaydi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T05:38:36.702244874Z",
+  "model": "glm-5.3"
+}

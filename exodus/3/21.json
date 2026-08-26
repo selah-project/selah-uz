@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Men bu xalqqa Misrliklar koʻzida ⟨את⟩ marhamat beraman va boʻladiki, qachon ketsangizlar, boʻsh qoʻl bilan ketmaysizlar.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "va Men beraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marhamat"
+    },
+    {
+      "surface": "חן",
+      "gloss": "marhamat"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrliklar"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻladiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "ketsangizlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ketmaysizlar"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "boʻsh qoʻl bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:11.057985638Z",
+  "model": "glm-5.3"
+}

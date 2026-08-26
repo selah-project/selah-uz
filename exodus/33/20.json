@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va aytdi: Yuzimni koʻra olmaysan, chunki meni odam koʻrsa — tirik qolmaydi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "olasan"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "koʻrga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzimni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzimni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "meni koʻrsa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "va tirik qoladi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:57.080384674Z",
+  "model": "glm-5.3"
+}

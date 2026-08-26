@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va endi Menga tinch qoʻy, yansin gʻazabim ularga va ularni qiray, va ⟨את⟩ seni buyuk xalq qilay.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "tinch qoʻy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "yansin"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "gʻazabim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "va ularni qiray"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "va qilay"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ seni",
+      "marks": "buyuk xalq"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:17.836421292Z",
+  "model": "glm-5.3"
+}

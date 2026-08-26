@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Patasida seni yopadi U, va qanotlari ostida panoh topasan; Uning haqiqati — qalqon va himoya.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "patasida"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "yopadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "seni"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "va ostida"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "qanotlari"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "panoh topasan"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "qalqon"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "va himoya"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "Uning haqiqati"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:58.842272110Z",
+  "model": "glm-5.3"
+}

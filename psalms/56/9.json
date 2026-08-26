@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 56,
+  "translation": "Gʻaribliklarimni sanagansan — Sen; koʻz yoshimni shishangga qoʻygin — ular Sening kitobingda emasmi?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "gʻaribliklarimni"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "sanagansan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "qoʻygin"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "koʻz yoshimni"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "shishangga"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "emasmi"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "kitobingda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:47.769496391Z",
+  "model": "glm-5.3"
+}

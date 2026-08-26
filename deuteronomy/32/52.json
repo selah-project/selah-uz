@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Chunki ⟨the⟩ erni qarshisidan koʻrasan, lekin u yerga — ⟨the⟩ erga, ki Men Yisroil oʻgʻillariga bermoqdaman, kirmaysan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "qarshisidan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "koʻrasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erni"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "lekin u yerga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kirmaysan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kirasan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bermoqdaman"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroil"
+    }
+  ],
+  "timestamp": "2026-08-26T02:08:17.400977573Z",
+  "model": "glm-5.3"
+}

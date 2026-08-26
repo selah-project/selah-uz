@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Isroil oʻgʻillari Pesaxni belgilangan vaqtida qilsinlar.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "qilsinlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaxni"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesax"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "belgilangan vaqtida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:30:57.256251422Z",
+  "model": "glm-5.3"
+}

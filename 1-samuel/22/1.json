@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 22:1",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va David u yerdan ketdi va Adullam gʻoriga qochib qutuldi; va uning aka-ukalari va butun otasining bayti eshitdilar va uning huzuriga u yerga tushdilar.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Va ... ketdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "va qochib qutuldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "gʻor"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "va eshitdilar"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "uning aka-ukalari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bayti"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uning otasi"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "va tushdilar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "uning huzuriga"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:57:27.987030514Z",
+  "model": "glm-5.3"
+}

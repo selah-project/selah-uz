@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Barakoludir Yahve Siondan, Yerushalaimda yashovchi — maqtanglar Yahni!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barakoludir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siondan"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "yashovchi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaimda"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "maqtanglar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:03.497883491Z",
+  "model": "glm-5.3"
+}

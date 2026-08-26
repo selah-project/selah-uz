@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va podshoh ayolga aytdi: „Uyingga bor, va men sen haqingda buyruq beraman.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "bor"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "uyingga"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "va men"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "buyruq beraman"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sen haqingda"
+    }
+  ],
+  "timestamp": "2026-08-26T03:12:26.656251068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Isroil Shittimda qaror topdi, va xalq Moʻab qizlariga ⟨qarab⟩ zino qila boshladi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaror topdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "Shittimda"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "boshladi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "zino qilmoq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨qarab⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qizlar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moʻab"
+    }
+  ],
+  "timestamp": "2026-08-26T01:40:13.404017201Z",
+  "model": "glm-5.3"
+}

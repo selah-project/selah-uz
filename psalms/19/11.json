@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Ular oltindan, hatto koʻp soflashtirilgan oltindan ham orzuliroq, asal va chuqur asal ketmonlaridan ham shirinroqdir.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "orzuliroq"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "oltindan"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "hatto soflashtirilgan oltindan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "shirinroqdir"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "asaldan"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "va chuqur asaldan"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "ketmonlaridan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:05.428870476Z",
+  "model": "glm-5.3"
+}

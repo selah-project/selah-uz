@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Balki ⟨את⟩ qoʻlingni unga ochib ochgin va unga qarz berib bergin — yetishmovchiligiga yetarlicha, unga yetishayotgan narsasiga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Balki"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ochib"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ochgin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻlingni"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻlingni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "qarz berib"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "bergin unga"
+    },
+    {
+      "surface": "די",
+      "gloss": "yetarlicha"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "yetishmovchiligiga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "yetishayotgan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:57:13.457521656Z",
+  "model": "glm-5.3"
+}

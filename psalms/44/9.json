@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Elohimda butun kunning davomida maqtandik va Ismingni abadiy ulugʻlaymiz. Sela.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimda"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "maqtandik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunning"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "va Ismingni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "ulgʻlaymiz"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:51.084489158Z",
+  "model": "glm-5.3"
+}

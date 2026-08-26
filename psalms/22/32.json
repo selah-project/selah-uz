@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Keladilar va Uning solihligini eʼlon qiladilar hali tugʻiladigan xalqqa, chunki U qildi.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Keladilar"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "va eʼlon qiladilar"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "Uning solihligini"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalqqa"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "hali tugʻiladigan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "U qildi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:53.020159824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 10:15",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Shunday qildi sizlarga Beyt-El, yovuzligingiz yomonligi yuzasidan; tong saharida yoʻq boʻladi, yoʻq qilinadi Isroilning shohi.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Shunday"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzasidan"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "yomonligi"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "yovuzligingiz"
+    },
+    {
+      "surface": "בשחר",
+      "gloss": "tong saharida"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "yoʻq boʻladi"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "yoʻq qilinadi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:39:33.702148142Z",
+  "model": "glm-5.3"
+}

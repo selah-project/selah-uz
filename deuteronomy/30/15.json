@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Qar, men bugun senning oldinga ⟨את⟩ hayotni va ⟨את⟩ yaxshilikni, ⟨את⟩ o'limni va ⟨את⟩ yomonni qo'ydim.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "qar"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "men qo'ydim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "senning oldinga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hayotni"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "hayotni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yaxshilikni"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yaxshilikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "o'limni"
+    },
+    {
+      "surface": "המות",
+      "gloss": "o'limni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yomonni"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yomonni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:04:49.722175005Z",
+  "model": "glm-5.3"
+}

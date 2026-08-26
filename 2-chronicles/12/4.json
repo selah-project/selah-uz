@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va u ⟨את⟩ Yehudaning mustahkam shaharlarini egalladi va Yerushalaimgacha keldi.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Va u egalladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mustahkam shaharlarni"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "shaharlarini"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "mustahkam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudaning"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T08:08:07.170460094Z",
+  "model": "glm-5.3"
+}

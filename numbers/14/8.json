@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Agar Yahve bizdan xursand bo‘lsa, U bizni ⟨את⟩ buni — bu erga — keltiradi va uni bizga beradi: sut va asal oqib turgan er.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xursand bo‘lsa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizdan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "va keltiradi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizni",
+      "marks": "bizni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "va beradi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "er"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "oqib turgan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "sut"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "va asal"
+    }
+  ],
+  "timestamp": "2026-08-26T01:32:24.988150651Z",
+  "model": "glm-5.3"
+}

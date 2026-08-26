@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Ahdimni buzmayman va lablarimdan chiqqanni o'zgartirmayman",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ema-"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "buzmayman"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimni"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "va ... chiqqanni"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lablarimdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "−may"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "o'zgartirmayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:07.524997811Z",
+  "model": "glm-5.3"
+}

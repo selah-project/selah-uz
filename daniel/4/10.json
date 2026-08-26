@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 4:10",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Karavotimda boshimning koʻrishlarida koʻrdim, va mana, bir kuzatuvchi va bir muqaddas osmondan tushdi.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "boʻldim"
+    },
+    {
+      "surface": "בחזוי",
+      "gloss": "koʻrishlarida"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "boshim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "karavotim"
+    },
+    {
+      "surface": "ואלו",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "kuzatuvchi"
+    },
+    {
+      "surface": "וקדיש",
+      "gloss": "va muqaddas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "tushdi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:30:19.286118739Z",
+  "model": "glm-5.3"
+}

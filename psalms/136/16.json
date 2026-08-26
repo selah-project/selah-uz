@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Xalqini choʻlda boshlab yurganiga — chunki abadiydir Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "boshlab yurgan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "Xalqini"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Uning xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:27.184054204Z",
+  "model": "glm-5.3"
+}

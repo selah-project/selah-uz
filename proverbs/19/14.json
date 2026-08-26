@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Uy va boylik — otalardan meros, lekin aqlli xotin — Yahvedan.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "והון",
+      "gloss": "va boylik"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "meros"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "otalardan"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "lekin Yahvedan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "xotin"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "aqlli"
+    }
+  ],
+  "timestamp": "2026-08-26T06:46:43.527702754Z",
+  "model": "glm-5.3"
+}

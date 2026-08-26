@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Zulmatda yuruvchi vabodan, tushda vayron qiluvchi qirgʻindan.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "vabodan"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "zulmatda"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "yuruvchi"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "qirgʻindan"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "vayron qiluvchi"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "tushda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:33.859009375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 132,
+  "translation": "Mana, biz uni Efratada eshitdik, uni Yoar dalalarida topdik.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "biz uni eshitdik"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "Efratada"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "biz uni topdik"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "dalalarida"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Yoar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:36.386478553Z",
+  "model": "glm-5.3"
+}

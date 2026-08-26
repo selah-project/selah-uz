@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Moshe Yahvega qichqirdi, deb: „Men bu xalqga nima qilay? Yana ozgina va ular meni toshboʻron qiladi.“",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "qichqirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "qilay"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalqga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ozgina"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "va ular meni toshboʻron qiladi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:49.309367911Z",
+  "model": "glm-5.3"
+}

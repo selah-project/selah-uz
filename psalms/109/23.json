@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Soya choʻzilganidek ketdim, chigirtkadek silkitildim.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "Soyadek"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "choʻzilganidek"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "ketdim"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "silkitildim"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "chigirtkadek"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:41.749847872Z",
+  "model": "glm-5.3"
+}

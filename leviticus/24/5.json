@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va sen nozik un olasan va undan ⟨את⟩ oʻn ikki non pishirasan; har bir nonda ikki oʻnlik boʻladi.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "olasan"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "nozik un"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "pishirasan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "oʻn ikki non"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "non"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "oʻnlik"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "har bir non"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-08-26T01:21:51.504538194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Ey Avrahamning urugʻi, Uning bandisi, ey Yaakov oʻgʻillari, Uning tanlanganlari!",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "urugʻi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bandisi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "tanlanganlari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:16.812937764Z",
+  "model": "glm-5.3"
+}

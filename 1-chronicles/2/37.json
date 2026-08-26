@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Zabad ⟨את⟩ Eflalni dunyoga keltirdi, va Eflal ⟨את⟩ Obedni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "va Zabad"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eflalni"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Eflal"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "va Eflal"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedni"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:47.539341107Z",
+  "model": "glm-5.3"
+}

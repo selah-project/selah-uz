@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Elohim, quloqlarimiz bilan eshitdik; otalarimiz bizga hikoya qildilar — ularning kunlarida, qadim kunlarda bajargan ishingni.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "quloqlarimiz bilan"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "eshitdik"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "otalarimiz"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "hikoya qildilar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ish"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "bajargan ishing"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "ularning kunlarida"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "kunlarda"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "qadim"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:52.746852909Z",
+  "model": "glm-5.3"
+}

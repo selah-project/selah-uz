@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va kohin ⟨את⟩ Dovudga javob berdi va dedi: qoʻlim ostida oddiy non yoʻq, faqat muqaddas non bor — agar yoshlar oʻzlarini ayoldan saqlagan boʻlsa.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dovud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "חל",
+      "gloss": "oddiy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻlim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "–"
+    },
+    {
+      "surface": "אם",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "saqlangan boʻlsalar"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "yoshlar"
+    },
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "ayoldan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:58:03.618897461Z",
+  "model": "glm-5.3"
+}

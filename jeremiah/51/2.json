@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Va Bobilga yotlarni yuboraman, ular uni yanchsirlar va uning ⟨את⟩ yerini toʻkib boʻshatadilar, chunki uunga qarshi boʻlib keladilar atrofdan, uning yomon kunida.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Va yuboraman"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Bobilga"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yotlarni"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "uni yanchadilar"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "va toʻkib boʻshatadilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning yerini"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "boʻlib keladilar"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "unga qarshi"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "atrofdan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomon"
+    }
+  ],
+  "timestamp": "2026-08-26T05:06:32.991447914Z",
+  "model": "glm-5.3"
+}

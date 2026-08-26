@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Yehoshua ⟨את⟩ xalqga buyruq berib dedi: Nido qilmangiz va ovozlaringizni eshitdirmangiz va ogʻizlaringizdan hech bir soʻz chiqmasin — sizlarga „Nido qilinglar!“ degun kunimcha, unda nido qilursizlar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xalq"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyruq berdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "nido qilmangiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "eshitdirmangiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozlaringizni"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "ovozlaringizni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqmasin"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "ogʻizlaringizdan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-guncha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "degan"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Nido qilinglar"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "nido qilursizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T02:11:22.578287245Z",
+  "model": "glm-5.3"
+}

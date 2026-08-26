@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va kohen ⟨את⟩ ularni qiladi: bittasini xato qurboni, bittasini yoqilma qurboni; va kohen Yahve huzurida uning oqibasi uchun kefforat qiladi.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "va qiladi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bittasini"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "xato qurboni"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "va bittasini"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yoqilma qurboni"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "va kefforat qiladi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning uchun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "uning oqibasi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:18:05.913736702Z",
+  "model": "glm-5.3"
+}

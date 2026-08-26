@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va nefesim Yahve'da sevinib aylanadi, Uning najotida quvonadi.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Va nefesim"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "sevinib aylanadi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve'da"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "quvonadi"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "Uning najotida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:50.518451092Z",
+  "model": "glm-5.3"
+}

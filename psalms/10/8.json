@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Qishloq hovlilarining pana joylarida oʻtiradi; yashirin joylarda begunohlarni oʻldiradi; koʻzlari nochorlarni poylaydi.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "oʻtiradi"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "pana joylarida"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "qishloq hovlilari"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "yashirin joylarda"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "oʻldiradi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "begunohlarni"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "koʻzlari"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "nochorlarni"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "poylaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:48.181992048Z",
+  "model": "glm-5.3"
+}

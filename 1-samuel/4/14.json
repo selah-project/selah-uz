@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Eli ⟨את⟩ faryod ovozini eshitti va aytdi: „Bu shovqinning ovozi nima?“ Va odam shoshdi va keldi va Eliga aytdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "faryod ovozini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "faryod"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "shovqinning"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "va odam"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "shoshdi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Eliga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:43:04.955065537Z",
+  "model": "glm-5.3"
+}

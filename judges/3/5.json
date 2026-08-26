@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Isroil oʻgʻillari kashonlik, xitlik, emorlik, perizlik, xivlik va yevusliklar oʻrtasida yashadilar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Va ... oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "yashadilar"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kashonlik"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "xitlik"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "va emorlik"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "va perizlik"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "va xivlik"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "va yevuslik"
+    }
+  ],
+  "timestamp": "2026-08-26T02:25:09.843960701Z",
+  "model": "glm-5.3"
+}

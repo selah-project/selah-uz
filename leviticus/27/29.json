@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Har qanday cherem — odamlardan cherem qilingan narsa — fidyo qilinmaydi; oʻlib oʻldiriladi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "cherem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "cherem qilingan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–dan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odamlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "fidyo qilinadi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlib"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldiriladi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:24:50.040564656Z",
+  "model": "glm-5.3"
+}

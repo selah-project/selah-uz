@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Esav dedi: mana, men oʻlmoqdagiman, va tunglik huquqi menga nima beradi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "bormoqdaman"
+    },
+    {
+      "surface": "למות",
+      "gloss": "oʻlishga"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "va nima uchun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "tunglik huquqi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:06.382462860Z",
+  "model": "glm-5.3"
+}

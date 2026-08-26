@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Va U oʻz xalqini quvonch bilan chiqardi, bayram qoʻshigʻi bilan ⟨את⟩ oʻz tanlanganlarini.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "va chiqardi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻz xalqi"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "quvonch bilan"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "bayram qoʻshigʻi bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz tanlanganlarini"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "oʻz tanlanganlari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:37.739404876Z",
+  "model": "glm-5.3"
+}

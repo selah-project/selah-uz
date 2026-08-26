@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Va Yosef xizmatkorlariga — tabiblarga — otasini muomala qilishni buyurdi, va tabiblar ⟨את⟩ Isroilni muomala qildilar.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "buyurdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xizmatkorlari"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xizmatkorlari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabiblar"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "tabiblar"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "muomala qilish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otasi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "muomala qildilar"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "tabiblar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:06.523666241Z",
+  "model": "glm-5.3"
+}

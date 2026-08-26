@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Qaytarib ber — unga garovni qaytarib ber, quyosh botganda, va u oʻz koʻylagida yotsin, va seni barakalasin; va senga Yahve, sening Elohimingning oldida solihlik boʻlur.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "qaytarib ber"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "qaytarib ber"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "garovni"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "garovni"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "botganda"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "va yotsin"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "oʻz koʻylagida"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "va seni barakalasin"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "va senga"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻlur"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "solihlik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sening Elohiming"
+    }
+  ],
+  "timestamp": "2026-08-26T02:01:14.353581531Z",
+  "model": "glm-5.3"
+}

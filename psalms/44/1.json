@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Xor boshligʻiga, Korach oʻgʻillariga, taʼlimiy sheʼr.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xor boshligʻiga"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "taʼlimiy sheʼr"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:52.746637909Z",
+  "model": "glm-5.3"
+}

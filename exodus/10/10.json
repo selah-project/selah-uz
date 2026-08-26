@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va ⟨u⟩ ularga dedi: Yahve sizlar bilan shunday boʻlsin, qanday qilib men sizlarni va ⟨את⟩ chaqaloqlaringizni yuborsam! Koʻringlar, chunki yomonlik yuzlaringizning ⟨oldida⟩ ⟨turibdir⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizlar bilan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "qanday qilib"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "men yuborsam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "chaqaloqlaringizni"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "chaqaloqlaringizni"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "koʻringlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlik"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "qarshi \/ oldida"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "yuzlaringiz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:37.456118067Z",
+  "model": "glm-5.3"
+}

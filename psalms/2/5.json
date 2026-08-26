@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "U holda u ularga gʻazabida gapiradi va yonishida ularni qoʻrqitadi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "u holda"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "gapiradi"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "gʻazabida"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "va yonishida"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "ularni qoʻrqitadi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:16.381918923Z",
+  "model": "glm-5.3"
+}

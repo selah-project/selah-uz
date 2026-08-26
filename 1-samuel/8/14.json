@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va ⟨את⟩ dalalaringizni, ⟨את⟩ uzumzorlaringizni va eng yaxshi zaytunzorlaringizni olib, xizmatkorlariga beradi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dalalaringizni"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "dalalaringizni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uzumzorlaringizni"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "uzumzorlaringizni"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "va zaytunlaringizni"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "eng yaxshilarini"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "oladi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "va beradi"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "xizmatkorlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:43:00.036570112Z",
+  "model": "glm-5.3"
+}

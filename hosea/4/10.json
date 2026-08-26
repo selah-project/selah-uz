@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va yeydilar-u, toʻymaydilar; zino qiladilar-u, koʻpaymaydilar; chunki ⟨את⟩ Yahveni tark etdilar, rioya qilishni toʻxtatib.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Va yeydilar-u"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "toʻymaydilar emas, —"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "toʻymaydilar"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "zino qiladilar-u"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "koʻpaymaydilar emas, —"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "koʻpaymaydilar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "tark etdilar"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "rioya qilishni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:35:01.553628070Z",
+  "model": "glm-5.3"
+}

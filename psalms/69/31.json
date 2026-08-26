@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Elohimning nomini qoʻshiq bilan madh etaman va Uni shukurona bilan ulugʻlayman.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "madh etaman"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "qoʻshiq bilan"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "va Uni ulugʻlayman"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "shukurona bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:37.500356203Z",
+  "model": "glm-5.3"
+}

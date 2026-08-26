@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 143,
+  "translation": "Va ruaxim ustimga qorayib oldi, ichimda yuragim lol boʻldi.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "qorayib oldi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruaxim"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "ichimda"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "lol boʻldi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:23.984356446Z",
+  "model": "glm-5.3"
+}

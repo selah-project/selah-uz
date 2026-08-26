@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Elohimlar ichidagi Elohim’ga shukur aytingiz, chunki abadga ⟨duradur⟩ Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "shukur aytingiz"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim’ga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimlarning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadga"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:23.294734412Z",
+  "model": "glm-5.3"
+}

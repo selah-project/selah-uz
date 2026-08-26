@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 6:13",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Bet-Shemesh vodiyda bug'doy o'ridi, va ⟨את⟩ ko'zlarini ko'tardilar va ⟨את⟩ sandiqni ko'rdilar va uni ko'rganlariga xursand bo'ldilar.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "Va Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "קצרים",
+      "gloss": "o'ruvchilar"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "o'rim"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "bug'doy"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "vodiyda"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "va ko'tardilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko'zlarini"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ko'zlarini"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "va ko'rdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandiqni"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandiqni"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "va xursand bo'ldilar"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ko'rganlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:45:18.581979521Z",
+  "model": "glm-5.3"
+}

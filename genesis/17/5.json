@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va endi seni Avram deb ⟨את⟩ noming bilan chaqirishmaydi, balki sening noming Avraham boʻladi, chunki men seni koʻp xalqlar otasi qildim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va endi ... emas"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "chaqiriladi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noming"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "noming"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻladi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "noming"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ota"
+    },
+    {
+      "surface": "המון",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "qildim seni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:25.323393767Z",
+  "model": "glm-5.3"
+}

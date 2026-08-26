@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 87,
+  "translation": "Korang oʻgʻillariga tegishli mizmor, qoʻshiq. Unging asosi muqaddas togʻlarda ⟨bor⟩.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Korang oʻgʻillariga"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korang"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "uning asosi"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "togʻlarida"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:52.042252864Z",
+  "model": "glm-5.3"
+}

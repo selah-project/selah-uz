@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Kaftlari ustida seni koʻtaradilar — shunda oyogʻing toshga urilib qolmasin.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "kaftlari"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "seni koʻtaradilar"
+    },
+    {
+      "surface": "פן",
+      "gloss": "— shunda ... qolmasin"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "urilib"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "toshga"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "oyogʻing"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:39.376881305Z",
+  "model": "glm-5.3"
+}

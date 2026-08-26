@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Kichik bir shahar va unga oz odam, va unga qarshi katta bir shoh keldi, va u ⟨את⟩ uni qurshab oldi, va uning ustiga katta qamal inshootlari bunyod etdi.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kichik"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "va odamlar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "oz"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "katta"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "va qurshab oldi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni (shaharni)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "va bunyod etdi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "qamal inshootlari"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "katta"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:33.799680390Z",
+  "model": "glm-5.3"
+}

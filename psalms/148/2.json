@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 148,
+  "translation": "Maqtanglar Uni, barcha Uning elchilari, maqtanglar Uni, barcha Uning saflari.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Maqtanglar Uni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "Uning elchilari"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "maqtanglar Uni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "Uning saflari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:10.584400489Z",
+  "model": "glm-5.3"
+}

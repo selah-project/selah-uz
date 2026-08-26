@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "U ularning yuragini oʻzgartirdi — oʻz xalqidan nafratlanishga, oʻz bandilariga hiyla ishlashga.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "oʻzgartirdi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ularning yuragini"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "nafratlanishga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻz xalqidan"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "hiyla ishlashga"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "oʻz bandilariga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:45.618205739Z",
+  "model": "glm-5.3"
+}

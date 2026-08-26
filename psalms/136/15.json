@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Va Peroʻni va uning qoʻshinini Qamish dengizida silkitib tashladi — chunki abadiydir Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "va silkitib tashladi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Peroʻni"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "va uning qoʻshinini"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dengizida"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Uning xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:27.183931714Z",
+  "model": "glm-5.3"
+}

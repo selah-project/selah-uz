@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Kenaan ⟨את⟩ Tsidonni, oʻz birinchi tugʻilganini va ⟨את⟩ Xetni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "וכננען",
+      "gloss": "Va Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidonni"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidonni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "oʻz birinchi tugʻilganini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Xetni"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Xetni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:05.820543668Z",
+  "model": "glm-5.3"
+}

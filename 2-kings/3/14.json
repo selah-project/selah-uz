@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 3:14",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Elishe dedi: Yahve Sebaot tirikdir, kimning oldida turganman — agar Yehoshafat, Yahudo malikining yuzi boʻlmaganda, men koʻtarmasdim edim — senga qaramas edim va seni koʻrmas edim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishe"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tirikdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kim"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "turganman"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "agar ... boʻlmaganda"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maliki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "koʻtarmasdim edim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "qarar edim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "seni koʻrar edim"
+    }
+  ],
+  "timestamp": "2026-08-26T03:47:44.632035783Z",
+  "model": "glm-5.3"
+}

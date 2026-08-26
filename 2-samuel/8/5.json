@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 8:5",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Aram-Damashq Hadadezer Tsoba qiroliga yordam berishga keldi, va Dovud Aramda yigirma ikki ming kishini urdi.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damashq"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "yordam berishga"
+    },
+    {
+      "surface": "להדדעזר",
+      "gloss": "Hadadezerga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aramda"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirma"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "va ikki"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishini"
+    }
+  ],
+  "timestamp": "2026-08-26T03:07:17.955168524Z",
+  "model": "glm-5.3"
+}

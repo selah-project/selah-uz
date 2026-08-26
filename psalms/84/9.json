@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 84,
+  "translation": "Yahve, Elohim Tsevaot, duomni eshit; quloq sol, Yoqubning Elohimi. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "eshit"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duomni"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "quloq sol"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yoqub"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:32.042718670Z",
+  "model": "glm-5.3"
+}

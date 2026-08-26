@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va agar bir kishi oʻz uyini Yahvega muqaddas qilib bagʻishlasa, kohin uni yaxshi yoki yomon deb baholaydi; kohin uni qanday baholasa, shunday boʻlib turadi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Va agar bir kishi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "muqaddas qilib bagʻishlasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz uyini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "oʻz uyini"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegа"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "baholaydi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "בין",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "qanday"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "baholasa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "boʻlib turadi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:25:13.462919472Z",
+  "model": "glm-5.3"
+}

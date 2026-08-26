@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Chunki Sening oʻqlaring menga sanchilib turdi, va qoʻling men ustiga bosilib tushding.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "Sening oʻqlaring"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "sanchilib turdi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "va ... tushding"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "men ustiga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻling"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:31.997117829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va u bittasini Bet-Elga qoʻydi, va bittasini Danga qoʻydi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "va u qoʻydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bittasini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bittasi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bet-Elga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Bet-El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "bittasini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bittasi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Danda"
+    }
+  ],
+  "timestamp": "2026-08-26T03:37:53.945042041Z",
+  "model": "glm-5.3"
+}

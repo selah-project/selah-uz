@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 132,
+  "translation": "Uning oziq-ovqatini barakalayman — barakalayman, uning kambeğallarini non bilan toʻydiraman.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "oziq-ovqatini"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barakalayman"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "barakalayman"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "uning kambeğallarini"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "toʻydiraman"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:38.138213566Z",
+  "model": "glm-5.3"
+}

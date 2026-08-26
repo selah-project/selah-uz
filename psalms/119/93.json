@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Abadiy unutmayman Sening buyruqlaringni, chunki ularda Sen meni tiriltirding.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "unutmayman"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Sening buyruqlaringni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ularda"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "Sen meni tiriltirding"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:32.909830415Z",
+  "model": "glm-5.3"
+}

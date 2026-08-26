@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Nima bilan yosh oʻz yoʻlini pok qiladi? Sening soʻzingga koʻra uni saqlash orqali.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "nima bilan"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "pok qiladi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz yoʻlini"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "oʻz yoʻli"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saqlash uchun"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "sening soʻzingga koʻra"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:18.875497022Z",
+  "model": "glm-5.3"
+}

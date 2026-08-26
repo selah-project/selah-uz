@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Yuhsho ertalab erta turdi va Isroilni ⟨את⟩ qabilalari boʻyicha yaqinlashtirdi, va Yehuda qabilasi ushlandi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "erta turdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yuhsho"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ertalab"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "va yaqinlashtirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "qabilalari boʻyicha"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "va ushlandi"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qabila"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:14:54.401280122Z",
+  "model": "glm-5.3"
+}

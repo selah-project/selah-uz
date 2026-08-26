@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "U ularni zulmatdan va oʻlgulik soyasidan olib chiqdi va bogʻlovlarini uzib yubordi.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "olib chiqdi ularni"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "zulmatdan"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "va oʻlgulik soyasidan"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "va ularning bogʻlovlari"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "uzib yubordi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:38.072919940Z",
+  "model": "glm-5.3"
+}

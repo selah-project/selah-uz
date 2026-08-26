@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va u Isroilni ⟨את⟩ yigirma uch yil hukm qildi, va oʻldi, va Shamirda dafn etildi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "va hukm qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirma"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "uch"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "va oʻldi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "va dafn etildi"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "Shamirda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:30:52.810870022Z",
+  "model": "glm-5.3"
+}

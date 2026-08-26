@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Yahve, qanchalar koʻpaydi dushmanlarim! Koʻplari turibdi manga qarshi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qanchalar"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "koʻpaydi"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻplari"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "turibdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "manga qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:23.723080779Z",
+  "model": "glm-5.3"
+}

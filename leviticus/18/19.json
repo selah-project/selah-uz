@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va ajralib turgan — oʻz toqatlarida — ayolga yaqinlashmaysan, uning yalangʻochligini ochish uchun.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "va …ga"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayolga"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "ajralib turgan — toqatlarida"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "oʻz toqatlarida — iflosligida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yuq"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "yaqinlashmaysan"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ochish uchun"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "uning yalangʻochligini"
+    }
+  ],
+  "timestamp": "2026-08-26T01:18:15.405552178Z",
+  "model": "glm-5.3"
+}

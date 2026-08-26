@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 15:5",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va mash'alalarda olov yoqdi va ularni Pelishtilar boshoqlariga yubordi; va boshoq uyumidan tikka boshoqgacha va zaytun uzumzorigacha yondirdi.",
+  "tokens": [
+    {
+      "surface": "ויבער",
+      "gloss": "yoqdi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "בלפידים",
+      "gloss": "mash'alalarda"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "בקמות",
+      "gloss": "boshoqlariga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtilar"
+    },
+    {
+      "surface": "ויבער",
+      "gloss": "yondirdi"
+    },
+    {
+      "surface": "מגדיש",
+      "gloss": "boshoq uyumidan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "—gacha"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "tikka boshoqgacha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "—gacha"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "uzumzor"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zeytun"
+    }
+  ],
+  "timestamp": "2026-08-26T02:35:04.594092987Z",
+  "model": "glm-5.3"
+}

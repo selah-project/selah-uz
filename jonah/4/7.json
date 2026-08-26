@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Elohim ertasi tong otganda qurt tayinladi va u ⟨את⟩ qovoq oʻsimligini urdi va u quridi.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "va tayinladi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "qurt"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "otganda"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "ertasi"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qovoq oʻsimligini"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "qovoq oʻsimligi"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "va quridi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:46.856380855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "U ⟨את⟩ hukmronligi shon-sharafining boylik-tovonini va ⟨את⟩ buyukligi ulugʻvorligining qadr-qimmatini koʻrsatganida — koʻp kunlar, sakson va yuz kun.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "u koʻrsatganida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukmronligi shon-sharafining boylik-tovonini"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "boylik-tovon"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "shon-sharaf"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "hukmronligining"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "buyukligi ulugʻvorligining qadr-qimmatini"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "qadr-qimmat"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ulugʻvorlik"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "buyukligi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "sakson"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "va yuz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-26T07:23:28.388683831Z",
+  "model": "glm-5.3"
+}

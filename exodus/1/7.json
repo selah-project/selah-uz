@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 1:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Isroil oʻgʻillari meva berdi, koʻpayib ketdi, ortdi va kuchaydi — juda-juda; va yer ular bilan toʻldi ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Va oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "meva berdi"
+    },
+    {
+      "surface": "וישרצו",
+      "gloss": "va koʻpayib ketdi"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "va ortdi"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "va kuchaydi"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "va toʻldi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ular"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:16.306475397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Dovud Elohimni ⟨את⟩ bola uchun izladi, va Dovud roʻza tutdi, va kirdi va tunab qoldi va yerga yotdi.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "va izladi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimni"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bola"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "va roʻza tutdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "צום",
+      "gloss": "roʻza"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "va kirdi"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "va tunab qoldi"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "va yotdi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:10:13.297572016Z",
+  "model": "glm-5.3"
+}

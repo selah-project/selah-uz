@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Oʻzimga dedim yuragimda: solihni ⟨את⟩ va yovuzni ⟨את⟩ Elohim hukm qiladi, chunki har bir maqsad uchun va har bir ish uchun u yerda ⟨bir⟩ vaqt bor.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "oʻzimga"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "yuragimda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "solihni"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "solihni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yovuzni"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "yovuzni"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hukm qiladi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "maqsad"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va … uchun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:00.616378169Z",
+  "model": "glm-5.3"
+}

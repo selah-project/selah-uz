@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 113,
+  "translation": "Maqtanglar, Yah! Maqtanglar, Ey Yahve qullari, maqtanglar Yahve ⟨את⟩ nomini!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "maqtanglar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "maqtanglar"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qullari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "maqtanglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nomini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:27.346607622Z",
+  "model": "glm-5.3"
+}

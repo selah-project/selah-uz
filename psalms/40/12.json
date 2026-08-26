@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Sen, Yahve, rahmlaringni mendan tiqmaysan; xeseding va haqiqating doim meni saqlaydi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiqmaysan — emas"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "tiqmaysan"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmlaringni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "va haqiqating"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "meni saqlaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:02.586359405Z",
+  "model": "glm-5.3"
+}

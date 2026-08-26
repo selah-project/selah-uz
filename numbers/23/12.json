@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va u javob berib aytdi: ogʻzimga Yahve qoʻygan narsani — ⟨את⟩ — gapirishga ehtiyot boʻlmaysizmi ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "va javob berib"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ehtiyot boʻlmaysizmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narsani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsani"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "qoʻygan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ogʻzimga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "gloss note": "",
+      "marks": "gapirishga"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ehtiyot boʻlish"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "gapirishga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:39:07.717698629Z",
+  "model": "glm-5.3"
+}

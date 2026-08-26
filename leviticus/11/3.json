@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Har hayvondan tuyoq boʻlaklovchi va tuyoqlari yorugʻini butunlay yoruvchi, gʻirrani qaytarib chiqaruvchi — ⟨את⟩ oshani yeyishingiz mumkin.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "tuyoq boʻlaklovchi"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "tuyoq"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "va yoruvchi"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "yoriq"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "tuyoqlari"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "qaytarib chiqaruvchi"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gʻirra"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "hayvondan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "oshani"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyishingiz mumkin"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:31.070032688Z",
+  "model": "glm-5.3"
+}

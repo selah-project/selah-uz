@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 93,
+  "translation": "Guvohliklaring juda mustahkam boʻldi; uyingga munosib ⟨⟨dir⟩⟩ muqaddaslik, ey Yahve, uzoq kunlarga.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "guvohliklaring"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "mustahkam boʻldi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "uyingga"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "munosib ⟨dir⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddaslik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "uzoq"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:09.940320873Z",
+  "model": "glm-5.3"
+}

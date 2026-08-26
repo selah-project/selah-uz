@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Yoʻlingni menga oʻrgat, Yahve; Sening haqiqatingda yuraman — yuragimni yagona qil, Ismingdan qoʻrishim uchun.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "oʻrgat menga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "Yoʻlingni"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "yuraman"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "Sening haqiqatingda"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "yagona qil"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "yuragimni"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "qoʻrishim uchun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Ismingdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:27.147355023Z",
+  "model": "glm-5.3"
+}

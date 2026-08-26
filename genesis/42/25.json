@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 42:25",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va Yosef buyruq berdi, va ular ularning idishlarini ⟨את⟩ don bilan toʻldirdilar, hamda ularning kumushlarini har birining xaltasiga qaytarish uchun, va ularga yoʻl uchun ozuq berish uchun; va ularga shunday qilindi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "buyruq berdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וימלאו",
+      "gloss": "toʻldirdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning idishlarini"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "ularning idishlarini"
+    },
+    {
+      "surface": "בר",
+      "gloss": "don"
+    },
+    {
+      "surface": "ולהשיב",
+      "gloss": "qaytarish uchun"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "ularning kumushlarini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ichiga"
+    },
+    {
+      "surface": "שקו",
+      "gloss": "uning xaltasiga"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "berish uchun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "ozuq"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "yoʻl uchun"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "qilindi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:17.513844812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "va biz ham barcha xalqlar kabi boʻlamiz, va podshohimiz bizni sud qiladi, va oldimizga chiqadi, va ⟨את⟩ urushlarimizni olib boradi.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "va boʻlamiz"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "barcha ... kabi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "va sud qiladi"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "podshohimiz"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "va chiqadi"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "oldimizga"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "va jang qiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urushlarimizni"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "urushlarimizni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:42:53.886435762Z",
+  "model": "glm-5.3"
+}

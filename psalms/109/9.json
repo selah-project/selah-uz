@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Boʻlsinlar uning farzandlari yetimlar, va uning xotini ⟨boʻlsin⟩ beva.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "boʻlsinlar"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uning farzandlari"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "yetimlar"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "va uning xotini"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "beva"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:12.951804976Z",
+  "model": "glm-5.3"
+}

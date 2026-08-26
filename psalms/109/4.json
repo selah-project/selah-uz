@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Muhabbatim evaziga ular meni ayblashdi, men esa — duogа aylandim.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "evaziga"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "Muhabbatim"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ayblashdi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men esa"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "duo"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:23.140616607Z",
+  "model": "glm-5.3"
+}

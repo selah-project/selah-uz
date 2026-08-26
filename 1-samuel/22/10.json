@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va u uning uchun Yahvedan soʻradi, va ozuqaga berdi uni, va ⟨את⟩ Goliat filishtiylikning qilichini berdi unga.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Va soʻradi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uning uchun"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvedan"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "va ozuqaga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Goliat filishtiylikning qilichi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "filishtiylikning"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:55:53.319212572Z",
+  "model": "glm-5.3"
+}

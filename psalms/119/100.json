@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Keksalardan koʻra tushunuvchanroqman, chunki farmonlaringni saqladim.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "Keksalardan koʻra"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "tushunuvchanroqman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "farmonlaringni"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "saqladim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:09.393810196Z",
+  "model": "glm-5.3"
+}

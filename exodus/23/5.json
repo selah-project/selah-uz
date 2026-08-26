@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Agar seni yomon koʻruvchining eshagini yuki ostida yotgan koʻrsang va uni tashlamoqdan toʻxtashni istasang ham — tashlab tashlama, u bilan birga ⟨uni koʻtarishga yordam ber⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "koʻrsang"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "eshagini"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "seni yomon koʻruvchining"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "yotgan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "yuki"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "va toʻxtashni istasang ham"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "tashlamoqdan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "tashlab"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "tashlama"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan birga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:42.613473701Z",
+  "model": "glm-5.3"
+}

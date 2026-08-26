@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 32:16",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va yana uning xizmatkorlari Yahve, ⟨the⟩ Elohim haqida — qarshi — va Uning xizmatkori Xizqiyo haqida gapirdilar.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Va yana"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "gapirdilar"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "uning xizmatkorlari"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨the⟩ Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va qarshi"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Xizqiyo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "uning xizmatkori"
+    }
+  ],
+  "timestamp": "2026-08-26T08:15:55.368227959Z",
+  "model": "glm-5.3"
+}

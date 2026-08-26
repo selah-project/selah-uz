@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 137,
+  "translation": "Tol daraxtlariga, uning oʻrtasida, osib qoʻyganimiz cholgʻularimizni.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "tol daraxtlari"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "uning oʻrtasida"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "osib qoʻyganimiz"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "cholgʻularimizni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:57.829828472Z",
+  "model": "glm-5.3"
+}

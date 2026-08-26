@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Isroilning barcha qariylari keldi, va kohinlar sandig‘ni ko‘tarib oldilar.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qariylari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ko‘tarib oldilar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandig‘ni"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandig‘ni"
+    }
+  ],
+  "timestamp": "2026-08-26T03:32:06.222933599Z",
+  "model": "glm-5.3"
+}

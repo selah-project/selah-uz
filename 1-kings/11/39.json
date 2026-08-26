@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va men azoblayman ⟨את⟩ Daviddan urugʻni shu sababdan, lekin barcha kunlar emas.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "azoblayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urugʻni"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urugʻni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Daviddan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sababdan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "shu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "lekin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kunlar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:36:51.143421322Z",
+  "model": "glm-5.3"
+}

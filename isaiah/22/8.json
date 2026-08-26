@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va ⟨u⟩ Yahudaning ⟨את⟩ yopinchigʻini yechdi, va sen oʻsha kunda Oʻrmon uyining qurol-yarogʻiga qarading.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Va u yechdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yopinchigʻini"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "yopinchigʻi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudaning"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "va sen qarading"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "qurol-yarogʻi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "היער",
+      "gloss": "oʻrmon"
+    }
+  ],
+  "timestamp": "2026-08-26T04:13:41.240019308Z",
+  "model": "glm-5.3"
+}

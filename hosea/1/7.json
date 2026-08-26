@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va ⟨את⟩ Yahudaning uyiga rahm qilaman va ularni Yahve ularning Elohimlari orqali qutqaraman va ularni kamon bilan, qilich bilan, urush bilan, otlar bilan va otliqlar bilan qutqarmayman.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uyiga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudaning"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "rahm qilaman"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "qutqaraman"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimlari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... -mas"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "qutqarmayman"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "kamon bilan"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "qilich bilan"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "urush bilan"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "otlar bilan"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "otliqlar bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:33:39.283679261Z",
+  "model": "glm-5.3"
+}

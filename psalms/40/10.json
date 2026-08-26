@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Katta jamoat ichida solihlikni xushxabar berib eʼlon qildim; mana, lablarimni tiqmaganman, Yahve, Sen bilursan.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "xushxabar berib eʼlon qildim"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "solihlikni"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "jamoat ichida"
+    },
+    {
+      "surface": "רב",
+      "gloss": "katta"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lablarimni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiqmaganman — emas"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "tiqmoq"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilursan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:02.586040070Z",
+  "model": "glm-5.3"
+}

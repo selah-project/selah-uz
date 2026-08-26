@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Avlod ketadi va avlod keladi, yer esa abadiy turadi.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ketadi"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "va avlod"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keladi"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "va yer"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "turadi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:48.010181217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 16:3",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va u Isroilning har bir erkagiga, erkakdan ayolgacha, har bir erkakka bitta non halqasi va bitta xurmo boʻlagi va bitta mayiz halqasi ulashdi.",
+  "tokens": [
+    {
+      "surface": "ויחלק",
+      "gloss": "ulashdi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "erkakdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "har bir erkakka"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "halqa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "ואשפר",
+      "gloss": "va xurmo boʻlagi"
+    },
+    {
+      "surface": "ואשישה",
+      "gloss": "va mayiz halqasi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:58:45.991820052Z",
+  "model": "glm-5.3"
+}

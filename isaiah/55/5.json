@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Mana, tanimagan xalqni chaqirasan, va seni tanimagan xalq senga yugurib keladi, Yahve, sening Elohing uchun va Isroilning Muqaddasi uchun, chunki u seni bezadi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tanimagan"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "chaqirasan"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "va xalq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tanimagan"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "seni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "yugurib keladi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sening Elohing"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "va Muqaddasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "seni bezadi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:30:23.485563766Z",
+  "model": "glm-5.3"
+}

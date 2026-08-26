@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 17:4",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va sen, oʻzing ham merosingdan — senga bergan merosimdan — ayrilasang, va seni dushmanlaringni ⟨את⟩ xizmat qildiraman tanish boʻlmagan yerda, chunki gʻazabimda oʻt yoqqansizlar — abadiy yonadi u.",
+  "tokens": [
+    {
+      "surface": "ושמטתה",
+      "gloss": "va ayrilasang"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "oʻzing ham"
+    },
+    {
+      "surface": "מנחלתך",
+      "gloss": "merosingdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "bergan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "והעבדתיך",
+      "gloss": "va xizmat qildiraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dushmanlaringni"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dushmanlaringni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tanish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "קדחתם",
+      "gloss": "yoqqansizlar"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "gʻazabimda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "yonadi u"
+    }
+  ],
+  "timestamp": "2026-08-26T04:46:47.366609796Z",
+  "model": "glm-5.3"
+}

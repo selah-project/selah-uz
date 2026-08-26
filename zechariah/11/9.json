@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va dedim: sizlarni boqmayman — oʻlguvchi oʻlsin, va yoʻq qilinuvchi yoʻq qilinsin, va qolganlari yesinlar — har biri ⟨את⟩ oʻz qoʻshnisining goʻshtini.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Va dedim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "boqmayman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "oʻlguvchi"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "oʻlsin"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "va yoʻq qilinuvchi"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "yoʻq qilinsin"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "va qolganlari"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "yesinlar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz qoʻshnisining goʻshtini"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goʻsht"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "oʻz qoʻshnisining"
+    }
+  ],
+  "timestamp": "2026-08-26T05:55:49.326040471Z",
+  "model": "glm-5.3"
+}

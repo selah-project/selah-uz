@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va ⟨את⟩ Hadoramni, va ⟨את⟩ Uzalni, va ⟨את⟩ Diklani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Hadoramni"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoramni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Uzalni"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Uzalni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Diklani"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diklani"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:06.482764541Z",
+  "model": "glm-5.3"
+}

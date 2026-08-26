@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va ular oʻz shon-sharafini ⟨את⟩ oʻt yeydigan hoʻkiz suratiga almashtirdilar.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "va almashtirdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz shon-sharafi"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "oʻz shon-sharafi"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "suratiga"
+    },
+    {
+      "surface": "שור",
+      "gloss": "hoʻkiz"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yeydigan"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "oʻt"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:49.031287225Z",
+  "model": "glm-5.3"
+}

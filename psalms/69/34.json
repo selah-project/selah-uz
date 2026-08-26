@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Chunki Yahve muhtojlarni eshitadi va ⟨את⟩ asirlarini kamsitmaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "— tomonidan (muhtojlarga)"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "muhtojlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asirlarini"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "asirlarini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "— yoʻq"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "kamsitadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:35.415871713Z",
+  "model": "glm-5.3"
+}

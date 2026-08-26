@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Chunki u hevel ichida keldi va qorongʻulikda ketadi, va qorongʻulikda uning nomi yopiladi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "hevel ichida"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "va qorongʻulikda"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ketadi"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "va qorongʻulikda"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning nomi"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "yopiladi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:14.381251535Z",
+  "model": "glm-5.3"
+}

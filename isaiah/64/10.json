@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 64,
+  "translation": "Muqaddas uyimiz va sha’nimiz — otalarimiz Sizni ulugʻlagan joy — olov kuydiruviga aylandi, va barcha yoqimli narsalarimiz xarobaga aylandi.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "uyimiz"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "va sha’nimiz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "Sizni ulugʻlagan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "otalarimiz"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aylandi"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "kuydiruviga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "yoqimli narsalarimiz"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aylandi"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "xarobaga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:35:23.821721862Z",
+  "model": "glm-5.3"
+}

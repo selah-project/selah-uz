@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va sen — tayingizni koʻtar va qoʻlingni dengiz ustiga choʻz va uni yorib yubor, va Isroil oʻgʻillari dengiz oʻrtasidan quruq yer boʻylab kirsinlar.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Va sen"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "koʻtar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayingizni"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "tayingizni"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "va choʻz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻlingni"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻlingni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "va uni yorib yubor"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "va kirsinlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "oʻrtasidan"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "quruq yer boʻylab"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:34.537714186Z",
+  "model": "glm-5.3"
+}

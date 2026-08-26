@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va bu soʻz Adonay koʻzida yaxshi boʻldi, chunki Shlomo ⟨את⟩ bu soʻzni soʻradi.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "yaxshi boʻldi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzida"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "soʻradi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu soʻzni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T03:26:15.599358418Z",
+  "model": "glm-5.3"
+}

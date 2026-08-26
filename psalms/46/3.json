@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Shuning uchun qoʻrqmaymiz, yer oʻzgarganda va togʻlar dengizlarning yuragiga siljiganida.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Shuning"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…-mas"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "qoʻrqmaymiz"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "oʻzgarganda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "va siljiganida"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "yuragiga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dengizlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:30.609949081Z",
+  "model": "glm-5.3"
+}

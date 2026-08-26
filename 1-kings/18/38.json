@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 18:38",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Yahve olovi tushdi va yutib yubordi ⟨את⟩ yoqilgan qurbonlikni va ⟨את⟩ yogʻochlarni va ⟨את⟩ toshlarni va ⟨את⟩ changni va ⟨את⟩ ariqda boʻlgan suvlarni yalab oldi.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "Va tushdi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "va yutib yubordi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoqilgan qurbonlikni"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yoqilgan qurbonlik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yogʻochlarni"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "yogʻochlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "toshlarni"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "toshlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "changni"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "chang"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "suvlarni"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "בתעלה",
+      "gloss": "ariqda"
+    },
+    {
+      "surface": "לחכה",
+      "gloss": "yalab oldi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:42:56.663415295Z",
+  "model": "glm-5.3"
+}

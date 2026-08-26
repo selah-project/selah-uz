@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va men Yehudaga olov yubordim, va u Yerushalaim qalʼalarini yutdi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "va men yubordim"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudaga"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "va u yutdi"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "qalʼalarini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T05:39:31.404026088Z",
+  "model": "glm-5.3"
+}

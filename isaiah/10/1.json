@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Voy halolarga — ular nohaq farmonlar farmon qiladilar, va zoʻr kuch talab qilib yozadilar.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "voy"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "⟨ular⟩ farmon qiluvchilar"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "farmonlar"
+    },
+    {
+      "surface": "און",
+      "gloss": "nohaqlik"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "va yozuvchilar"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zoʻr kuch"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "yozadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:11:20.606627367Z",
+  "model": "glm-5.3"
+}

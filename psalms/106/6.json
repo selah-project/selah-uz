@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Otalaramiz bilan birga gunoh qildik, buzuq ish qildik, yomonlik qildik.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "gunoh qildik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan birga"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "otalaramiz"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "buzuq ish qildik"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "yomonlik qildik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:55.729066636Z",
+  "model": "glm-5.3"
+}

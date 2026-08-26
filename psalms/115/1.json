@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Yoʻq, bizga emas, Yahve, yoʻq, bizga emas, balki Ismingga kabod ber — xeseding uchun, sadoqating uchun.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Yoʻq"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga emas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga emas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "balki"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Ismingga"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ber"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kabod"
+    },
+    {
+      "surface": "על",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding"
+    },
+    {
+      "surface": "על",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sadoqating"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:28.643155532Z",
+  "model": "glm-5.3"
+}

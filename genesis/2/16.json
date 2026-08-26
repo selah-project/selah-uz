@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve Elohim odamga buyuradi, deyishicha: bogʻning har bir daraxtidan yesa boʻladi, eyib yeyaversan.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "va buyuradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyishicha"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "har biridan"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bogʻning"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yesa boʻladi"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "eyib yeyaversan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:46.982745337Z",
+  "model": "glm-5.3"
+}

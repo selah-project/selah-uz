@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Otangning singlisining yalangʻochligini ochmaysan ⟨emas⟩, chunki u otangning goʻshtidir.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "yalangʻochligini"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "singlisining"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otangning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨emas⟩"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ochmaysan"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "goʻshti"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otangning"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u ...dir"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:38.410341143Z",
+  "model": "glm-5.3"
+}

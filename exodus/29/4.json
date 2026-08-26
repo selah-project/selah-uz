@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va ⟨את⟩ Aharonni va ⟨את⟩ oʻgʻillarini uchrashuv chodiri eshigiga yaqin keltirasAN va ⟨את⟩ ularni suv bilan yuvsAN.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Aharonni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻgʻillarini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "yaqin keltirasAN"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eshigi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "va yuvsAN"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suv bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:14.244433043Z",
+  "model": "glm-5.3"
+}

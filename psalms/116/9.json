@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Yahve oldida yuraman, tiriklar ⟨⟨oʻlkasida⟩⟩.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "yuraman"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "⟨oʻlkasida⟩"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tiriklar ⟨oʻlkasida⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:22.952107665Z",
+  "model": "glm-5.3"
+}

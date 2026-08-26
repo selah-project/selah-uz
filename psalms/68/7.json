@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Elohim yolgʻizlarni uylarga joylashtiradi, bandilarni baxtga chiqaradi; faqat isyonkorlar qurgʻoqchil yerda yashaydilar.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "joylashtiradi"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "yolgʻizlarni"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "uylarga"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "chiqaradi"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "bandilarni"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "baxtga"
+    },
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "isyonkorlar"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "yashaydilar"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "qurgʻoqchil yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:43.735978860Z",
+  "model": "glm-5.3"
+}

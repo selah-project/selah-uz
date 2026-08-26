@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Yahve Moshega dedi: Parohning huzuriga bor, chunki Men uning qalbini va qullarining qalbini ogʻirlashtirdim — belgilarimni shularni oʻrtasiga qoʻyishim uchun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "bor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "ogʻirlashtirdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning qalbini"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "qullarining qalbini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbini"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullarining"
+    },
+    {
+      "surface": "למען",
+      "gloss": "— uchun"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "qoʻyishim"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "belgilarimni"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "shularni"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "oʻrtasiga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:11.845429597Z",
+  "model": "glm-5.3"
+}

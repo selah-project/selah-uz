@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Ammo xesedimni undan olib tashlamayman va sodiqligimda yolg'on gapirmayman",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "ammo xesedimni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ema-"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "olib tashlamayman"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "yolg'on gapirmayman"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "sodiqligimda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:07.524884699Z",
+  "model": "glm-5.3"
+}

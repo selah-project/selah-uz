@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 24:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Balakning gʻazabi Bilamga alanglandi va u ⟨את⟩ kaftlarini chopdi, va Balak Bilamga aytdi: dushmanlarimni laʼnatlash uchun seni chorladim, va mana, sen ulardan butunlay barakotladin — bu uch marta.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "va ... alanglandi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gʻazabi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balakning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויספק",
+      "gloss": "va ... chopdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaftlarini"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "kaftlarini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va ... aytdi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לקב",
+      "gloss": "laʼnatlash uchun"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dushmanlarimni"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "seni chorladim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barakotladin"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "butunlay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uch"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "marta"
+    }
+  ],
+  "timestamp": "2026-08-26T01:39:28.144732244Z",
+  "model": "glm-5.3"
+}

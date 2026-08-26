@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Qarang, men Betsalelni ismi bilan chaqirdim — Uri oʻgʻli, Xur oʻgʻli, Yahuda qabilasidan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Qarang"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "chaqirdim"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ismi bilan"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Xur"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qabilasidan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:57.486200236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "Barakangiz, ey Yahveni — barcha amallari Uning, barcha joylarida hukmronligining; baraka ay, ey nefeshim, ⟨את⟩ Yahveni.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "barakangiz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "amallari Uning"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha joylarida"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "joylarida"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "hukmronligining"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "baraka ay"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ey nefeshim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:14.221087718Z",
+  "model": "glm-5.3"
+}

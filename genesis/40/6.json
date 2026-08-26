@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Yusuf ertalab ularning oldiga kirdi va ularni koʻrdi — mana, ular gʻamgin ⟨⟨edilar⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kirdi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularning oldiga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ertalab"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "gʻamgin ⟨edilar⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:30.628724162Z",
+  "model": "glm-5.3"
+}

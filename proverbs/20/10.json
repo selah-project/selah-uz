@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Tosh va tosh, eyfa va eyfa — ikkalasi ham Yahve uchun yolgʻizdir.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "tosh"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "va tosh"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "eyfa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "va eyfa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "yolgʻizdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikkalasi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:47:12.292934536Z",
+  "model": "glm-5.3"
+}

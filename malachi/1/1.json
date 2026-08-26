@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Yuk — Yahve ning soʻzi Yisroelga, Malaki qoʻli orqali.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "yuk"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻli orqali"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:03.540575421Z",
+  "model": "glm-5.3"
+}

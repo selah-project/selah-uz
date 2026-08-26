@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Yahve, bizning Elohimimiz, biz bilan ⟨ahd⟩ni Xorevda kesdi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "bizning Elohimimiz"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kesdi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "biz bilan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahdni"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Xorevda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:23:40.346525050Z",
+  "model": "glm-5.3"
+}

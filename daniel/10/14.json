@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 10:14",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va seni tushuntirish uchun keldim — ⟨את⟩ xalqingga oxirgi kunlarda roʻy beradigan narsani; chunki hali koʻrinish kunlar uchun qoldi.",
+  "tokens": [
+    {
+      "surface": "ובאתי",
+      "gloss": "Va keldim"
+    },
+    {
+      "surface": "להבינך",
+      "gloss": "seni tushuntirish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqingga ... roʻy beradigan narsani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "roʻy beradigan"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "xalqingga"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "oxirida"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kunlarning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hali"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "koʻrinish"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "kunlar uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T07:35:57.475945271Z",
+  "model": "glm-5.3"
+}

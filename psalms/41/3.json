@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Yahve uni saqlaydi va tirik qoʻyadi; uni yerda baxtli qiladi va uni dushmanlarining nefeshiga bermaydi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "saqlaydi"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "tirik qoʻyadi"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "baxtli qiladi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va… bermaydi"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "uni bermaydi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nefeshiga"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "dushmanlarining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:35.159824046Z",
+  "model": "glm-5.3"
+}

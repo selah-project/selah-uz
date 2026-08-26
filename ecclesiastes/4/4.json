@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va men koʻrdim ⟨את⟩ barcha mehnatni va ⟨את⟩ ishning barcha muvaffaqiyatini — chunki bu kishining oʻz yaqinidan hasadi; bu ham hevel va ruax ezikligi.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "va koʻrdim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha mehnatni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mehnat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha muvaffaqiyatni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "muvaffaqiyat"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ishning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "hasad"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "oʻz yaqinisidan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "va eziklik"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruax"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:08.060512692Z",
+  "model": "glm-5.3"
+}

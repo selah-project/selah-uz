@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va u otasining huzuriga kirdi va dedi: Otajon! Va u dedi: Mana man; sen kimsan, oʻgʻlim?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "va u kirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va u dedi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Otajon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va u dedi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mana man"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻlim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:56.738503407Z",
+  "model": "glm-5.3"
+}

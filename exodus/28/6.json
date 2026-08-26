@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va ⟨את⟩ efodni yasasinlar: oltin, koʻk, binafsha, qizil qurt junlari va olingan burilgan mato — oʻymakorlikdir.",
+  "tokens": [
+    {
+      "surface": "ועשׂו",
+      "gloss": "va yasasinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "koʻk"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "va binafsha"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "qurt"
+    },
+    {
+      "surface": "שני",
+      "gloss": "qizil (shani)"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "va nozik mato"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "burilgan (mashzar)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "qilinish"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "oʻymakorlik (xoshev)"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:34.690013816Z",
+  "model": "glm-5.3"
+}

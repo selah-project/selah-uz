@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Har qanday mehnatda foyda bo'ladi, lekin lablarning so'zi faqat yetishmovchilikka ⟨yetaklaydi⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "mehnatda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo'ladi"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "foyda"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "lekin ... so'zi"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lablarning"
+    },
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "yetishmovchilikka"
+    }
+  ],
+  "timestamp": "2026-08-26T06:45:25.188570237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Elohimga aytinglar: „Qanchalar dahshatli ⟨sizning⟩ ishlaringiz! Kuchingizning koʻpligi bilan dushmanlaringiz sizga yolgʻon boʻysunurlar.“",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "aytinglar"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Qanchalar"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "dahshatli"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ishlaringiz"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "koʻpligi bilan"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kuchingizning"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "yolgʻon boʻysunurlar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dushmanlaringiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:04.664567454Z",
+  "model": "glm-5.3"
+}

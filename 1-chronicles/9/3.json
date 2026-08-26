@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Yerushalaimda Yehuda oʻgʻillaridan, Binyamin oʻgʻillaridan, Efraym oʻgʻillaridan va Menashshe ⟨oʻgʻillaridan⟩ yashagan ⟨kishilar⟩.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "va Yerushalaimda"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "yashagan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "va -dan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "va -dan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraym"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "va Menashshe"
+    }
+  ],
+  "timestamp": "2026-08-26T07:57:07.515326855Z",
+  "model": "glm-5.3"
+}

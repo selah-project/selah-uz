@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Qoʻriqlaydi Yahve ⟨את⟩ uni sevganlarining barchasini, va ⟨את⟩ rejgarlarning barchasini yoʻq qiladi.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Qoʻriqlaydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uni sevganlarining barchasini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasini"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "uni sevganlarning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "rejgarlarning barchasini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasini"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "rejgarlarning"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "yoʻq qiladi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:40.889373260Z",
+  "model": "glm-5.3"
+}

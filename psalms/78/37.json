@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va ularning yuragi U bilan ⟨⟩ mustahkam emas edi, va Uning ahdida sodiq bo'lmadilar.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "va ularning yuragi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yo'q"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "mustahkam emas"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "U bilan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yo'q"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "sodiq bo'lmadilar"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "Uning ahdida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:08.003052887Z",
+  "model": "glm-5.3"
+}

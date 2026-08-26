@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 120,
+  "translation": "Qahramonning oʻtkir oʻqlari, qizil chinor choʻgʻlari ⟨bilan⟩.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "oʻqlari"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qahramonning"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "oʻtkir"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨bilan⟩"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "choʻgʻlari"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "qizil chinor"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:31.856564460Z",
+  "model": "glm-5.3"
+}

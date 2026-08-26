@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Dovudning mizmori, eslatish uchun.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "eslatish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:31.996731603Z",
+  "model": "glm-5.3"
+}

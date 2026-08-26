@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va u endi Avnerga ⟨את⟩ bir soʻzni javob bera olmay qoldi — undan qoʻrqgani uchun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "qila olmadi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "javob berish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnerni"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzni"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "undan qoʻrqgani uchun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni"
+    }
+  ],
+  "timestamp": "2026-08-26T03:05:12.046943326Z",
+  "model": "glm-5.3"
+}

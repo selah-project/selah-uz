@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Chunki men odamdan ham behushroqman, va odam aqli menga yoʻq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בער",
+      "gloss": "behushroq"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "odamdan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "aqli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:52:18.034273634Z",
+  "model": "glm-5.3"
+}

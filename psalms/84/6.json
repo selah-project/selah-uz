@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 84,
+  "translation": "Baxtlidir odam — kuchi Senda boʻlgan, ⟨ularning⟩ yuragida esa yoʻllar ⟨bor⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtlidir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "kuchi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unda"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Senda"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "yoʻllar"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "yuragida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:44.040199637Z",
+  "model": "glm-5.3"
+}

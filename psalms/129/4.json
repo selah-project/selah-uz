@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 129,
+  "translation": "Yahve — solih; yovlarning arqonlarini kesib tashladi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "kesib tashladi"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "arqonlarini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:34.960788916Z",
+  "model": "glm-5.3"
+}

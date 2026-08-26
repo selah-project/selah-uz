@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 48:7",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 48,
+  "translation": "Endi yaratildilar, oʻshandan emas, va kundan ilgʻari — sen ularni eshitmagansan — sen: „Mana, men bilardim ularni“ desang deb.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "endi"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "yaratildilar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …emas"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "oʻshandan"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "va …ilgʻari"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kundan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …emas"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "sen ularni eshitmagansan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "— desang deb"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sen desang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ידעתין",
+      "gloss": "men bilardim ularni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:29:01.581899771Z",
+  "model": "glm-5.3"
+}

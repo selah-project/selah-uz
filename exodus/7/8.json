@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Yahve Moshega va Aharonga gapirdi, degan:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va … gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …ga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:51.744423351Z",
+  "model": "glm-5.3"
+}

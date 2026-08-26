@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Agar u yolgʻiz oʻzi kelsa — yolgʻiz oʻzi chiqsin; agar xotinning egasi boʻlsa, xotini ham u bilan birga chiqsin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "yolgʻiz oʻzi (oʻz kiyimi bilan)"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kelsa"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "yolgʻiz oʻzi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqsin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "egasi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "xotin"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "chiqsin (ayol)"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "uning xotini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:54.296723230Z",
+  "model": "glm-5.3"
+}

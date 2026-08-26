@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Ha, Yahve, Sening hukmlaring yoʻlida Senga intizor bilan kutdik; Sening isming va Sening esdaliging — nefeshning orzusi.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "Sening hukmlaring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "Senga intizor bilan kutdik"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Sening isming"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "va Sening esdaliging"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "orzusi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    }
+  ],
+  "timestamp": "2026-08-26T04:16:44.183041425Z",
+  "model": "glm-5.3"
+}

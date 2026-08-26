@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va qildi Moshe, shundayki buyurgan edi Yahve ⟨את⟩ unga; va yigʻildi jamoa uchrashuv chodirining ogʻziga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Va qildi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "shundayki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurgan edi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ unga",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "va yigʻildi"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamoat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ogʻiz\/eshik"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    }
+  ],
+  "timestamp": "2026-08-26T01:11:53.383086350Z",
+  "model": "glm-5.3"
+}

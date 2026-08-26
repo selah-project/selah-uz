@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va agar Yahvegа shalom-qurbonligini soʻysangizlar, — oʻz roziligingiz uchun soʻysangizlar uni.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Va agar"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "soʻysangizlar"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbonlik"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shalom-(qurbonligi)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegа"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "roziligingiz uchun"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "uni soʻysangizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:42.557270858Z",
+  "model": "glm-5.3"
+}

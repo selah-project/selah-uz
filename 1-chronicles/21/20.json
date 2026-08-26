@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Arnon ⟨orqaga⟩ burildi va ⟨את⟩ farishtani koʻrdi, va uning toʻrt oʻgʻli uning bilan — yashirinib yotgan edilar; va Arnon bugʻdoy bosayotgan edi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Va ⟨orqaga⟩ burildi"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farishtani"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "farishtani"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "va toʻrt"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uning bilan"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "yashirinib yotgan edilar"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "va Arnon"
+    },
+    {
+      "surface": "דש",
+      "gloss": "bosayotgan edi"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "bugʻdoy"
+    }
+  ],
+  "timestamp": "2026-08-26T08:00:29.597075408Z",
+  "model": "glm-5.3"
+}

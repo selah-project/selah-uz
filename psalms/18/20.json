@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va U meni keng joyga olib chiqdi, meni qutqazdi, chunki U mendan xursand boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Va U meni olib chiqdi"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "keng joyga"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "meni qutqazdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xursand boʻldi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:23.776399867Z",
+  "model": "glm-5.3"
+}

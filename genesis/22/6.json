@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va Avraham ⟨את⟩ olloh-oʻtinini oldi va oʻgʻli Yitsxakning ustiga qoʻydi, va qoʻlida ⟨את⟩ olovni va ⟨את⟩ pichoqni oldi, va ikkalasi birga ketdilar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olloh-oʻtinini"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "oʻtini"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olloh-"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "qoʻlida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olovni"
+    },
+    {
+      "surface": "האש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "pichoqni"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "pichoq"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "va ketdilar"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikkalasi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:42.910968504Z",
+  "model": "glm-5.3"
+}

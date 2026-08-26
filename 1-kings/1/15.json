@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Bat-Sheva qirol huzuriga, uning xonasiga kirdi; qirol esa juda qariygan edi, va Avishag Shunamlik qirolga xizmat qilar edi.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "va kirdi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "xonasiga"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "va qirol"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qariygan edi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "va Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Shunamlik"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "xizmat qilar edi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qirolga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    }
+  ],
+  "timestamp": "2026-08-26T03:23:09.668741523Z",
+  "model": "glm-5.3"
+}

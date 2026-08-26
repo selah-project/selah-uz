@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va gapirdi Yahve Moshega, aytib:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Va gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Moshega"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aytib"
+    }
+  ],
+  "timestamp": "2026-08-26T01:11:53.382410126Z",
+  "model": "glm-5.3"
+}

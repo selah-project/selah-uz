@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va u menga aytdi: Sen kimsan? Va men unga aytdim: Men amaleklikman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdim"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "u"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "amaleklik"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    }
+  ],
+  "timestamp": "2026-08-26T03:03:24.275878814Z",
+  "model": "glm-5.3"
+}

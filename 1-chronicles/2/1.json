@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Bular — Isroilning oʻgʻillari: Reuven, Shimon, Levi va Yahudo, Yissokor va Zevulun.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bular"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "va Yahodo"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissokor"
+    },
+    {
+      "surface": "ווזבלון",
+      "gloss": "va Zevulun",
+      "_skip": true
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:34.916412058Z",
+  "model": "glm-5.3"
+}

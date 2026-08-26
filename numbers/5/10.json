@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va har bir odam ⟨את⟩ oʻz muqaddas narsalarini — unga boʻladi; odam bergan narsa kohenning boʻladi — u bergan kishiga boʻladi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "va har bir odam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz muqaddas narsalarini"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "oʻz muqaddas narsalarini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bergan"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:27:16.511354502Z",
+  "model": "glm-5.3"
+}

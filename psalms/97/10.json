@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 97,
+  "translation": "Yahveʼni sevuvchilar, yomonlikdan nafratlana⟨nglar⟩: U oʻz sodiqlarining nefeshlarini saqlaydi, ularni yovuzlar qoʻlidan qutqaradi.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "sevuvchilar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "nafratlana⟨nglar⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomonlikdan"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saqlaydi"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "nefeshlarini"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "oʻz sodiqlarining"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovuzlar"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "qutqaradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:43.847235318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va bugʻ ⟨er⟩ yuzidan koʻtarilib, butun tuproq yuzini sugʻorardi.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "Va bugʻ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "koʻtarilib"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "er yuzidan"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "sugʻorardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun ... yuzini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproq"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:25.649687436Z",
+  "model": "glm-5.3"
+}

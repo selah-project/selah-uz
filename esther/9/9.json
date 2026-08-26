@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "va ⟨את⟩ Parmashtani, va ⟨את⟩ Arisayni, va ⟨את⟩ Aridayni va ⟨את⟩ Vayzatani",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Parmashtani"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Parmashta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Arisayni"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Arisay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Aridayni"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Ariday"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Vayzatani"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Vayzata"
+    }
+  ],
+  "timestamp": "2026-08-26T07:25:46.268242800Z",
+  "model": "glm-5.3"
+}

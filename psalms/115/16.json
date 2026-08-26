@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Osmonlar — osmonlar Yahvening; yer esa odam bolalariga berilgan.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Osmonlar"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvenging"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "yer esa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bolalariga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:53.915404616Z",
+  "model": "glm-5.3"
+}

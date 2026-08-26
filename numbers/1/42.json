@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Naftalining oʻgʻillari — ularning nasllari, oʻz urugʻlari boʻyicha, oʻz otalarining uylari boʻyicha, ismlar soni boʻyicha, yigirma yoshdan yuqori, har bir jangga chiqadigan kishi;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalining"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ularning nasllari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "oʻz urugʻlari boʻyicha"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uylari boʻyicha"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "oʻz otalarining"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "soni boʻyicha"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "ismlar"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirma"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yosh"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "yuqori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqadigan"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "jangga (qoʻshinga)"
+    }
+  ],
+  "timestamp": "2026-08-26T08:22:51.093515825Z",
+  "model": "glm-5.3"
+}

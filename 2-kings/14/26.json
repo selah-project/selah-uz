@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Chunki Yahve ⟨את⟩ Isroilning tashlandiqligini koʻrdi — juda achchiq edi: bosib olingan ham yoʻq, tashlab ketilgan ham yoʻq, va Isroilga yordamchi yoʻq edi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilning tashlandiqligini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "tashlandiqligini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "achchiq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "bosib olingan"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "tashlab ketilgan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq edi"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yordamchi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isroilga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:56:32.713605879Z",
+  "model": "glm-5.3"
+}

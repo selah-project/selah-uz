@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 128,
+  "translation": "Qoʻllaring mehnatini yesan — baxtli ⟨boʻlasan⟩, va senga yaxshilik ⟨boʻladi⟩.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "mehnatini"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "qoʻllaring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yesan"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "baxtli"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "yaxshilik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:09.202554163Z",
+  "model": "glm-5.3"
+}

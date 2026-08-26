@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Ester oʻz xalqini ⟨את⟩ va oʻz qarindosh-urugʻini ⟨את⟩ xabar bermadi, chunki Mordebxay unga xabar bermaslikni buyurgan edi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "xabar bermadi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz xalqini"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "oʻz xalqini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻz qarindosh-urugʻini"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "oʻz qarindosh-urugʻini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordebxay"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurgan edi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "xabar bermaslikni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:24:22.571059872Z",
+  "model": "glm-5.3"
+}

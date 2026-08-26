@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "va Oholivama esa Yeish, ⟨את⟩ Yealam va ⟨את⟩ Koraxni tugʻdi — bular Esavning oʻgʻillari boʻlib, unga Kenaan yerida tugʻilgan edilar.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "va Oholivama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yealam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yealam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Korax"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korax"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bular"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esavning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "tugʻilgan edilar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yерida"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:58.258405880Z",
+  "model": "glm-5.3"
+}

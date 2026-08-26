@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Avraham ⟨את⟩ Avimelexni tanbeh berdi suv qudugʻi sababli, uni Avimelexning qullari tortib olgan edilar.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "tanbeh berdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelex"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelexni"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababli (uning ustiga)"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "sababli"
+    },
+    {
+      "surface": "באר",
+      "gloss": "quduq"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uni"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "tortib olgan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qullari"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelexning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:30.774557118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 132,
+  "translation": "Zilol qoʻshiqlar. Eslab oling, Yahve, Dovudni — ⟨את⟩ barcha uning qiynoqlarini.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "zilol (marotib) qoʻshiqlari"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "eslab oling"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha uning qiynoqlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "uning qiynoqlari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:39.035075965Z",
+  "model": "glm-5.3"
+}

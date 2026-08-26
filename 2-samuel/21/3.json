@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Dovud givʼonliklarga aytdi: Sizlarga nima qilay va nima bilan tovon toʻlay, va barakalang ⟨את⟩ Yahve merosini?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "givʼonliklar"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "qilay"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "va nima bilan"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "tovon toʻlay"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "barakalang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve merosini"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "merosini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T03:20:47.932241890Z",
+  "model": "glm-5.3"
+}

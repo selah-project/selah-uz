@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Sevganlarim va yaqinlarim yaramdan chetda turibdi, va qarindoshlarim uzoqdan turibdi.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Sevganlarim"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "va yaqinlarim"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "chetda"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "yaramdan"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "turibdi"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "va qarindoshlarim"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzoqdan"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "turibdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:10.217531108Z",
+  "model": "glm-5.3"
+}

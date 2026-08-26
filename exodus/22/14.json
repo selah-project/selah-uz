@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Agar uning egasi uni bilan boʻlsa — toʻlamaydi; agar ⟨u⟩ ijaraga olingan boʻlsa, ⟨u⟩ oʻz haqi evaziga kelgan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "uning egasi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uni bilan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "toʻlamaydi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ijaraga olingan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kelgan"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "oʻz haqi evaziga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:55.072911686Z",
+  "model": "glm-5.3"
+}

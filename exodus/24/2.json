@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Moshe yolg'iz o'zi Yahvegа yaqinlashadi, ular esa yaqinlashmaydilar; xalq esa u bilan ko'tarilmaydi.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "va yaqinlashadi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yolg'iz o'zi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ular esa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yo'q"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "yaqinlashmaydilar"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "va xalq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yo'q"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ko'tarilmaydi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:15.356420069Z",
+  "model": "glm-5.3"
+}

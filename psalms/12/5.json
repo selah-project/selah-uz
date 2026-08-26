@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Ularki, dedilar: Tilimiz bilan kuch boʻlamiz, lablarimiz bizniki — bizga hukmdor kim?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ularki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dedilar"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "tilimiz bilan"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "kuch boʻlamiz"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "lablarimiz"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "bizniki (lablarimiz)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "hukmdor"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:20.121014098Z",
+  "model": "glm-5.3"
+}

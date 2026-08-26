@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Soʻz yoʻq va soʻzlar yoʻq — ularning ovozlari eshitilmaydi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Soʻz"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "soʻzlar"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "—"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "eshitilmaydi"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ularning ovozlari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:38.824735500Z",
+  "model": "glm-5.3"
+}

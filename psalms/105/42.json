@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Chunki U esladi ⟨את⟩ oʻz muqaddas soʻzini, ⟨את⟩ Avrahomni, oʻz bandasini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "esladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz muqaddas soʻzini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "oʻz muqaddas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahomni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahom"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "oʻz bandasi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:37.739225935Z",
+  "model": "glm-5.3"
+}

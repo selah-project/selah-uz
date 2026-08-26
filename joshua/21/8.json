@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Isroil oʻgʻillari levilarga bu ⟨את⟩ shaharlarni va ⟨את⟩ ularning atrofidagi yaylovlarini berdilar, Xudoning Yahve buyurganidek Moshe qoʻli orqali, qurʼa bilan.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "va berdilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levilarga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaharlarni"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "shaharlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yaylovlarini"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ularning atrof-dala yerlarini"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…deganidek"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻli orqali"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "qurʼa bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:21:42.855269355Z",
+  "model": "glm-5.3"
+}

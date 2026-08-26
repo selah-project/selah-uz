@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 128,
+  "translation": "Moʻtariblar qoʻshigʻi. Baxtli ⟨har⟩ Yahvedan qoʻrqgan har kim, uning yoʻllarida yurgan!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshigʻi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Moʻtariblar"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har kim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qoʻrqgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yurgan"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "uning yoʻllarida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:09.202334392Z",
+  "model": "glm-5.3"
+}

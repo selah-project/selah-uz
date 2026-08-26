@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Dovudga. Yahve — yorugʻligim va najotim, kimga qoʻrqaman? Yahve — hayotimning qalʼasi, kimga dahshatlanaman?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "yorugʻligim"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "va najotim"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kimga"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "qoʻrqaman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "qalʼasi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hayotimning"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "kimga"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "dahshatlanaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:44.186093130Z",
+  "model": "glm-5.3"
+}

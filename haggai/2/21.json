@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Ayt: Zerubbabelga, Yehudaning hokimiga, soʻzlab: Men osmonlarni ⟨את⟩ va yerni ⟨את⟩ larzaga keltiraman.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ayt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "hokimi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "soʻzlab"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "larzaga keltiraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osmonlarni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:12.014294378Z",
+  "model": "glm-5.3"
+}

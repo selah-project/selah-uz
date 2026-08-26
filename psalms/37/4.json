@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va Yahvada lazzat topgin, va ⟨u⟩ senning yuragingning iltijolarini sanga beradi.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "va ... lazzat topgin"
+    },
+    {
+      "surface": "על",
+      "gloss": "...da"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvada"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va beradi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sanga"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "iltijolarini"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "yuragingning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:34.719182753Z",
+  "model": "glm-5.3"
+}

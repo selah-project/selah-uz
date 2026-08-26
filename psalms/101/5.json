@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 101,
+  "translation": "Oʻrtogʻini yashirincha haqlovchini — ⟨את⟩ uni yoʻq qilaman; baland koʻzli va keng qalbni — ⟨את⟩ uni koʻtara olmayman.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "haqlovchini"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "yashirincha"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oʻrtogʻini"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "yoʻq qilaman"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "baland"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "koʻzli"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "va keng"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (baland koʻzli va keng qalbni)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "koʻtara olmayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:57.065462727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Chunki Sen meni qorindan chiqarding; onamning koʻkragida boʻlganimda Sen menka ishonch bergan eding.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "chiqarding"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "qorindan"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "ishonch bergan eding"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻlganimda… ustida"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "koʻkragida"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "onamning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:24.471503859Z",
+  "model": "glm-5.3"
+}

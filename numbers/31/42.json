@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va Isroil oʻgʻillarining yarimidan, jang qilgan erkaklardan Moshe ajratganidan —",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "va ... yarimidan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "ajratdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "erkaklar"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "jang qilganlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:42:51.746345754Z",
+  "model": "glm-5.3"
+}

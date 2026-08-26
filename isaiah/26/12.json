@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Yahve, bizga tinchlik belgilaysan, chunki butun amallarimizni ham biz uchun Sen bajarding.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "belgilaysan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "amallarimizni"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "bajarding"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biz uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T04:17:24.847959647Z",
+  "model": "glm-5.3"
+}

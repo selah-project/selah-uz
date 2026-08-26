@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Ustlariga gʻazabingni toʻkdagin, va burunning qaynashi ularni yetib olsin.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "toʻkdagin"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ustlariga"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "gʻazabingni"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "va qaynashi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "burunning"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "ularni yetib olsin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:11.403865135Z",
+  "model": "glm-5.3"
+}

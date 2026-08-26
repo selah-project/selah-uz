@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Quyoshga buyuradi va u chiqmaydi; yulduzlarni esa muhr bilan yopadi.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "buyuradi"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "quyoshga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va chiqmaydi"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "chiqmaydi"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "esa"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "yulduzlarni"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "muhr bilan yopadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:56:23.983143384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 7:50",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va ⟨the⟩ kosalar, va ⟨the⟩ qaychilar, va ⟨the⟩ purkagʻich idishlar, va ⟨the⟩ qoshiqlar, va ⟨the⟩ oʻtovoʻzlar — sof oltindan; va ⟨the⟩ eshik ilgaklari — uyning ichki eshiklari uchun, muqaddaslar muqaddasi uchun, va uyning eshiklari uchun, ibodatxona uchun — oltindan.",
+  "tokens": [
+    {
+      "surface": "והספות",
+      "gloss": "va kosalar"
+    },
+    {
+      "surface": "והמזמרות",
+      "gloss": "va qaychilar"
+    },
+    {
+      "surface": "והמזרקות",
+      "gloss": "va purkagʻich idishlar"
+    },
+    {
+      "surface": "והכפות",
+      "gloss": "va qoshiqlar"
+    },
+    {
+      "surface": "והמחתות",
+      "gloss": "va oʻtavoʻzlar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltindan"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "sof"
+    },
+    {
+      "surface": "והפתות",
+      "gloss": "va eshik ilgaklari"
+    },
+    {
+      "surface": "לדלתות",
+      "gloss": "eshiklari uchun"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uyning"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "ichki"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "muqaddasi uchun"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "muqaddaslar"
+    },
+    {
+      "surface": "לדלתי",
+      "gloss": "eshiklari uchun"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uyning"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "ibodatxona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltindan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:28:36.015456287Z",
+  "model": "glm-5.3"
+}

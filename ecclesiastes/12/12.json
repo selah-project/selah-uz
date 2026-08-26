@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va ulardan ortiqrogʻidan, oʻgʻlim, ogoh boʻl: koʻp kitob yasashda oxir yoʻq, va koʻp gapirish — tanning charchashi.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "va ortiqrogʻidan"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻlim"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "ogoh boʻl"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "yasash"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "kitob"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "oxir"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "va koʻp gapirish"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "charchash"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tanning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:23:08.779787788Z",
+  "model": "glm-5.3"
+}

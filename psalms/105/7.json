@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "U — Yahve, Elohimimiz; barcha yerda ⟨⟨bor⟩⟩ Uning hukmlari.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "hukmlari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:16.813080393Z",
+  "model": "glm-5.3"
+}

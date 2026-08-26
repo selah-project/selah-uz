@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 111,
+  "translation": "Yodgorlik qildi oʻz moʻjizalari uchun — mehribon va rahmli Yahve.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "yodgorlik"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "oʻz moʻjizalari uchun"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mehribon"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "va rahmli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:48.408528777Z",
+  "model": "glm-5.3"
+}

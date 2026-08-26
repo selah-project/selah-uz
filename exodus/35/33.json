@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 35:33",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "va toshni ⟨the⟩ oʻyib ⟨...⟩ joylashtirishda, va yogʻochni oʻyishda — har bir mohir oʻyilgan ishni bajarish uchun.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "va-oʻyishda"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "tosh"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "joylashtirish uchun"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "va-oʻyishda"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yogʻoch"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bajarish uchun"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "har"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ish"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "mohir oʻyilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:47.308997088Z",
+  "model": "glm-5.3"
+}

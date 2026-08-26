@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "U qorongʻilikni yubordi va qorongʻi boʻldi, va ular uning soʻziga ⟨את⟩ qarshi chiqmadilar.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qorongʻilikni"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "va qorongʻi boʻldi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "qarshi chiqmadilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning soʻzi"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "uning soʻzi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:45.618818600Z",
+  "model": "glm-5.3"
+}

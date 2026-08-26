@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 7:25",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "U oʻn ikki mol ustida turardi: uchtasi shimolga qaragan, uchtasi gʻarbga qaragan, uchtasi janubga qaragan va uchtasi sharqqa qaragan; va dengiz ularning ustida, yuqorida ⟨edi⟩, va ularning orqa qismlarining hammasi ichkariga ⟨qaragan⟩ edi.",
+  "tokens": [
+    {
+      "surface": "עמד",
+      "gloss": "turardi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "שני",
+      "gloss": "oʻn ikki (ikki)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mol"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uchtasi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "qaragan"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "shimolga"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "uchtasi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "qaragan"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "gʻarbga"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "uchtasi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "qaragan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "janubga"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "uchtasi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "qaragan"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "sharqqa"
+    },
+    {
+      "surface": "והים",
+      "gloss": "va dengiz"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ularning ustida"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yuqorida"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va … hammasi"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ularning orqa qismlari"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ichkariga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:31:34.522828943Z",
+  "model": "glm-5.3"
+}

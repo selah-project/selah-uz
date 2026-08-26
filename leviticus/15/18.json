@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 15:18",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va ayol bilan — erkak ⟨את⟩ unga urugʻ oqimi bilan yotsa — ikkalasi suvda yuvinadi va oqshomgacha pok boʻlmaydi.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "va ayol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yotsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni (ayolni)"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "oqimi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urugʻ"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "ikkalasi yuvinadi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvda"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "va pok boʻlmaydi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "oqshom"
+    }
+  ],
+  "timestamp": "2026-08-26T01:18:16.668678136Z",
+  "model": "glm-5.3"
+}

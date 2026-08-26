@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va yaqiningning ayoliga oʻz yotishingni — urugʻ sochishni — bermaysan, uning bilan ifloslanish uchun.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "va …ga"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ayoliga"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "yaqiningning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yuq"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bermaysan"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "oʻz yotishingni"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "urugʻ sochishni"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "ifloslanish uchun"
+    },
+    {
+      "surface": "בה",
+      "gloss": "uning bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:18:15.405687223Z",
+  "model": "glm-5.3"
+}

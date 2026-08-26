@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Yosh boʻldim, qaridim ham, va solih kishi tashlab ketilganini koʻrmadim, va uning urugʻi non tilab yurmagani.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "yosh"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "boʻldim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "qaridim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "koʻrmadim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih kishi"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "tashlab ketilgan"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "va uning urugʻi"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "tilab yurmagan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:45.190400997Z",
+  "model": "glm-5.3"
+}

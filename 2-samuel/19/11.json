@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va bizning ustimizga moylagan Avshalom jangda oʻldi; va endi nima uchun sizlar qirolni ⟨את⟩ qaytarishda jim turasizlar?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "va Avshalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "moylagan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ustimizga"
+    },
+    {
+      "surface": "מת",
+      "gloss": "oʻldi"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "jangda"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "jim turasizlar"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "qaytarishda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qirolni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    }
+  ],
+  "timestamp": "2026-08-26T03:19:57.778770105Z",
+  "model": "glm-5.3"
+}

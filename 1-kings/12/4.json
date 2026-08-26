@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "„Otang bizning ⟨את⟩ boyinimizni qattiq qildi; va sen endi otangning qattiq xizmatidan va bizning ustimizga qoʻygan ogʻir boyindan yengillashtir — va biz senga xizmat qilamiz.“",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Otang"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "qattiq qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bizning boyinimizni"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "bizning boyinimiz"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "va sen"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "endi"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "yengillashtir"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "xizmatidan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otangning"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "qattiq"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "va ... boyindan"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ogʻir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoʻygan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizning ustimizga"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "va biz senga xizmat qilamiz"
+    }
+  ],
+  "timestamp": "2026-08-26T03:38:24.443131067Z",
+  "model": "glm-5.3"
+}

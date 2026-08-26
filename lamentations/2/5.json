@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 2:5",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Adonay dushmanni oʻzida boʻlgandek boʻldi, Isroilni yutib yubordi, uning barcha saroylarini yutib yubordi, qalʼalarini vayron qildi va Yahudo qizida motam va oh-u-zorlarni koʻpaytirdi.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כאויב",
+      "gloss": "dushmanni oʻzida boʻlgandek"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "yutib yubordi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "yutib yubordi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "saroylarini"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "vayron qildi"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "qalʼalarini"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "va koʻpaytirdi"
+    },
+    {
+      "surface": "בבת",
+      "gloss": "…qizida"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "motamni"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "va oh-u-zorlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:16:07.831116123Z",
+  "model": "glm-5.3"
+}

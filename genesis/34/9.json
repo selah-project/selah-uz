@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va biz bilan qarindoshlik qiling: qizlaringizni bizga bering, va ⟨את⟩ qizlarimizni o'zingizga oling.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "qarindoshlik qiling"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ biz bilan",
+      "marks": "biz"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "qizlaringizni"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "bering"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qizlarimizni"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "qizlarimizni"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "oling"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "o'zingizga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:17.639783612Z",
+  "model": "glm-5.3"
+}

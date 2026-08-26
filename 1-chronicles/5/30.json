@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Elazar ⟨את⟩ Pinxasni dunyoga keltirdi, Pinxas ⟨את⟩ Avishuani dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinxasni"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinxas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinxas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishuani"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Avishua"
+    }
+  ],
+  "timestamp": "2026-08-26T07:55:15.219713697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Yahve uchun yoqimsiz ⟨narsadir⟩ tosh va tosh, va aldov tarozilari yaxshi emas.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "yoqimsiz narsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "tosh"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "va tosh"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "va tarozilari"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aldovning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:47:29.498855952Z",
+  "model": "glm-5.3"
+}

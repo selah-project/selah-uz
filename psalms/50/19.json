@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Og'zingni yomonlikka yubordinging va tilng firibgarlikni qo'shib turadi.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "Og'zingni"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "yubordinging"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "yomonlikka"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "va tilng"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "qo'shib turadi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "firibgarlikni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:17.938060638Z",
+  "model": "glm-5.3"
+}

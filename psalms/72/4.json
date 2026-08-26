@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "U xalqning beygoralarini hukm chiqarsin, ebionlarning oʻgʻillariga najot bersin, va ezuvchini maydalasin.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "hukm chiqarsin"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "beygoralarini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "najot bersin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ebionlarning"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "va maydalasin"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "ezuvchini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:07.830816582Z",
+  "model": "glm-5.3"
+}

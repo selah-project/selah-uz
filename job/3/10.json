@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Chunki u onam qornining eshiklarini yopmadi va mehnatni koʻzlarimdan yashirmadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "yopmadi"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "eshiklarini"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "qornining"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "va yashirmadi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mehnatni"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "koʻzlarimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:54:08.823519945Z",
+  "model": "glm-5.3"
+}

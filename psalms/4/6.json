@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Adolat qurbonlarini soʻyinglar va Yahvega ishoninglar.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "soʻyinglar"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qurbonlarini"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "va ishoninglar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:37.585618321Z",
+  "model": "glm-5.3"
+}

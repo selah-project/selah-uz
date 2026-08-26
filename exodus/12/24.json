@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va bu soʻzni siz uchun va oʻgʻillaringiz uchun abadiy qonun sifatida saqlanglar.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Va saqlanglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻzni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "qonun sifatida"
+    },
+    {
+      "surface": "לך",
+      "gloss": "siz uchun"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "va oʻgʻillaringiz uchun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:51.283623554Z",
+  "model": "glm-5.3"
+}

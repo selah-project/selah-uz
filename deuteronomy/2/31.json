@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 2:31",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve menga dedi: Qara, ⟨את⟩ Sichonni va ⟨את⟩ uning yerini sening oldinga berishni boshladim — uning yerini egallash uchun egallashni boshla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Qara"
+    },
+    {
+      "surface": "החלתי",
+      "gloss": "boshladim"
+    },
+    {
+      "surface": "תת",
+      "gloss": "berishni"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sening oldinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sichonni"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sichon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning yerini"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "uning yeri"
+    },
+    {
+      "surface": "החל",
+      "gloss": "boshla"
+    },
+    {
+      "surface": "רש",
+      "gloss": "egallashni"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "egallash uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning yerini"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "uning yeri"
+    }
+  ],
+  "timestamp": "2026-08-26T01:48:25.666762707Z",
+  "model": "glm-5.3"
+}

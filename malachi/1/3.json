@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "va ⟨את⟩ Esavni yomon koʻrdim, uning togʻlarini vayronaga aylantirdim va uning merosini choʻl tanalariga ⟨berdim⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Esavni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "yomon koʻrdim"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "va aylantirdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "togʻlarini"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "uning togʻlarini"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "vayronaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "merosini"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "uning merosini"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "tanalariga (chiyoborilarga)"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "choʻl"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:03.540955576Z",
+  "model": "glm-5.3"
+}

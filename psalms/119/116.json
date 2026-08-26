@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Meni tayyorla soʻringga koʻra, va yashayin, va umidimdan xijolat qilmagin.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "meni tayyorla"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "soʻringga koʻra"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "va yashayin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va … -gin"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "xijolat qilmagin"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "umidimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:44.338336778Z",
+  "model": "glm-5.3"
+}

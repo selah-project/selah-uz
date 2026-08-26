@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ⟨את⟩ ikkala buyrakni va ⟨את⟩ ular ustidagi, bel ustidagi yogʻni, va ⟨את⟩ jigar uzragi — buyraklar bilan birga olib tashlanadi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ikkala buyrakni"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikkala"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buyraklar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yogʻni"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yogʻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ular ustidagi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "bel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "jigar pardasini"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "jigar pardasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jigar"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buyraklar"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "olib tashlanadi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:24.141728641Z",
+  "model": "glm-5.3"
+}

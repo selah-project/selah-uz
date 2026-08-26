@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Xam yerida moʻjizakor ishlar, Qamish dengizi ustida dahshatli ishlar.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "moʻjizakor ishlar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Xam"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "dahshatli ishlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengizi"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamish"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:10.647255663Z",
+  "model": "glm-5.3"
+}

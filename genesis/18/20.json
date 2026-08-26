@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Yahve aytdi: «Sodom va Amoraning faryodi — chunki u juda katta, va ularning gunohi — chunki u juda ogʻir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "faryodi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "va Amora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "juda katta"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "va ularning gunohi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "juda ogʻir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:24.657007687Z",
+  "model": "glm-5.3"
+}

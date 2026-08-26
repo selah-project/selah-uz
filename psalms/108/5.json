@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 108,
+  "translation": "Chunki buyukdir osmonlardan yuqoriga sening xeseding, va bulutlarcha ⟨the⟩ ossiyoqqa sening muqarrarliging.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyukdir"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yuqoriga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlardan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sening xeseding"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va …gacha"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "bulutlarcha ⟨the⟩ ossiyoqqa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sening muqarrarliging"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:13.081833382Z",
+  "model": "glm-5.3"
+}

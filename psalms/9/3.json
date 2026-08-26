@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Sendan xursand bo'laman va quvonaman, Ey Elyon, ismingni torlab olqishlayman.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "xursand bo'laman"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "va quvonaman"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Sendan"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "torlab olqishlayman"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ismingni"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Ey Elyon"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:24.613978987Z",
+  "model": "glm-5.3"
+}

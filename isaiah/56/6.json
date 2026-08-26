@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 56:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 56,
+  "translation": "Va begona oʻgʻillari — Yahvega qoʻshilganlar — Uni xizmat qilish uchun va Yahvening ⟨את⟩ nomini sevganlik uchun, unga qullar boʻlish uchun; shabbatni saqlagan va uni buzmaydigan, ahdimni mahkam ushlagan har bir kishi ⟨uchun⟩.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Va ... oʻgʻillari"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "begona"
+    },
+    {
+      "surface": "הנלוים",
+      "gloss": "qoʻshilganlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "Uni xizmat qilish uchun"
+    },
+    {
+      "surface": "ולאהבה",
+      "gloss": "va ... sevganlik uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "boʻlish uchun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "qullar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saqlagan"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "מחללו",
+      "gloss": "uni buzishdan"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "va ... mahkam ushlagan"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "ahdimni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:32:35.838864585Z",
+  "model": "glm-5.3"
+}

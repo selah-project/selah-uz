@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Chunki Senin bilan guruh ustidan yuguraman, va Elohimim bilan devordan oshaman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Senin bilan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yuguraman"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "guruh (dushman otryadi) ustidan"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "va Elohimim bilan"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "oshaman"
+    },
+    {
+      "surface": "שור",
+      "gloss": "devordan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:32.884461266Z",
+  "model": "glm-5.3"
+}

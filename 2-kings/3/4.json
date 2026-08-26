@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Mesha, Moav podshosi, qoʻychi edi; u Isroil podshosiga yuz ming qoʻchqor va yuz ming takalarni — junini — qaytarib berardi.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Va Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshosi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "היה",
+      "gloss": "edi"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "qoʻychi"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "va u qaytarib berardi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "podshosiga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "qoʻchqor"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "va yuz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "takalar"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "jun"
+    }
+  ],
+  "timestamp": "2026-08-26T03:47:42.534398340Z",
+  "model": "glm-5.3"
+}

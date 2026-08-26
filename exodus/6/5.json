@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va men ham Yisroel oʻgʻillarining ⟨את⟩ nolishini eshitdim — kimlarni Misr qul qilmoqda — va ⟨את⟩ ahdimni esladim.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Va ... ham"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eshitdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nolishni"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "nolishini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimlarni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "qul qilmoqda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "va esladim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:29.572036679Z",
+  "model": "glm-5.3"
+}

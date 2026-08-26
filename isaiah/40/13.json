@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Kim Yahve ruaxini oʻlchab toʻgʻrilagan, va uning maslahatini bilib unga ⟨⟩ koʻrsatgan odam qaysi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "oʻlchab toʻgʻrilagan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruaxini"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaxini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואישׁ",
+      "gloss": "va odam"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "uning maslahatini"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "unga koʻrsatgan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:48.622488269Z",
+  "model": "glm-5.3"
+}

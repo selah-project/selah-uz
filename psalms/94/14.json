@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Chunki Yahve oʻz xalqini tashlamaydi va oʻz merosini tark etmaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...maydi"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "tashlamaydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻz xalqini"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "va oʻz merosini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...maydi"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "tark etmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:42.256982807Z",
+  "model": "glm-5.3"
+}

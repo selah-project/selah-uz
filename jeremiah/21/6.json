@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va men ⟨את⟩ shu shahar aholisini, ⟨את⟩ odamni va ⟨את⟩ hayvonni uraman — buyuk vabo bilan oʻladilar.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "Va ... uraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shu shahar aholisi"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "aholisi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "shu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ va",
+      "marks": "odam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ va",
+      "marks": "hayvon"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvon"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "vabo bilan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "oʻladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:48:54.464819282Z",
+  "model": "glm-5.3"
+}

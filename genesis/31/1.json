@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 31:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va eshitdi u ⟨את⟩ soʻzlarini Lavan oʻgʻillarining, dedilar: oldi Yaakov ⟨את⟩ hammasini ki otamizniki, va otamiznikidan qildi ⟨את⟩ barcha bu shon-shuhratni.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlarini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedilar"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hammasini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "otamizniki"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "va otamiznikidan"
+    },
+    {
+      "surface": "לאבינו",
+      "gloss": "otamizniki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "shon-shuhratni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:14.261698130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 144,
+  "translation": "Qoʻllaringni yuqoridan yubor, meni qutqargin va meni koʻp suvlardan, begona oʻgʻillari qoʻlidan xalos qilgʻin.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "yubor"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "qoʻllaringni"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "yuqoridan"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "meni qutqargin"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "va meni xalos qilgʻin"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "suvlardan"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "begona"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:25.266515095Z",
+  "model": "glm-5.3"
+}

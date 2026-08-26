@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 97,
+  "translation": "Eʼlon qildilar osmonlar ⟨⟨uning⟩⟩ solisligini, va koʻrdi barcha xalqlar ⟨⟨uning⟩⟩ ulugʻvorligini.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "Eʼlon qildilar"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "solisligini"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ulugʻvorligini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:00.437805756Z",
+  "model": "glm-5.3"
+}

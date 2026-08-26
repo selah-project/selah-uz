@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Dirijorga. Qoʻshiq, mizmor. Elohimga baralla baqiring, butun yer.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijorga"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Qoʻshiq"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "baralla baqiring"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:04.664201578Z",
+  "model": "glm-5.3"
+}

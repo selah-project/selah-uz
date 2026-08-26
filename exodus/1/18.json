@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Misr shohi accouchement qiluvchilarni chaqirdi va ularga dedi: nima uchun bu ishni qildilar va bolalarni tirik saqladingizlar?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "accouchement qiluvchilarni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "qildilar"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ishni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "va tirik saqladingizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolalar"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "bolalar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:11.672758106Z",
+  "model": "glm-5.3"
+}

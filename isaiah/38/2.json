@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va Xizqiyo yuzini devorga burdi va Yahvega duo qildi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "va burdi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Xizqiyo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon --ga"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "devor"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "va duo qildi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "--ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T04:22:05.648116602Z",
+  "model": "glm-5.3"
+}

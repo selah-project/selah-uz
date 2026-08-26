@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Albatta tovlik va xesed taqib keladi meni hayotimning barcha kunlarida, va Yahve uyida yashayman uzun kunlarga ⟨ergacha⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "albatta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "tovlik"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "va xesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "taqib keladi meni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlarida"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hayotimning"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "va yashayman"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "uzun"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:03.225094332Z",
+  "model": "glm-5.3"
+}

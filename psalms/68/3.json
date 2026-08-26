@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Tutun haydalganidek haydaladi, olov yuzidan mum eriganidek, yovlar Elohim yuzidan yoʻq boʻlar.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "haydalganidek"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "tutun"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "haydaladi"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "eriganidek"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "mum"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yoʻq boʻlar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:19.543946634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Chegara qoʻyding — aslo oʻtmaydilar, aslo yerni qoplash uchun qaytmaydilar.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "chegara"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "qoʻyding"
+    },
+    {
+      "surface": "בל",
+      "gloss": "aslo"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "oʻtmaydilar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "aslo"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "qaytmaydilar"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "qoplash uchun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:47.709126384Z",
+  "model": "glm-5.3"
+}

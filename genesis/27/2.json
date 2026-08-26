@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va u dedi: „Mana endi, men qaradim, oʻlim kunini bilmasman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u dedi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "men qaradim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mas"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bil"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kunini"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "oʻlim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:51.980365026Z",
+  "model": "glm-5.3"
+}

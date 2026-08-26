@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va Iyordan ⟨את⟩ dan o'tganingizda, men ⟨את⟩ sizlarga bugun Eyval tog'ida buyurayotgan shu toshlarni ⟨את⟩ tikib, ularni ⟨את⟩ oh bilan suvalang.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Va bo'ladi"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "o'tganingizda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iyordan"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "tikasizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shu toshlarni"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "toshlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimniki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "buyurayotgan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tog'ida"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eyval"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "va suvalang"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "oh bilan suvalang"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "oh bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:00:32.981652093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Vayronalar ularga — tirik holda Sheolga tushsinlar, chunki yomonliklar ularning turarlarida, ularning ichida.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "vayronalar"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "tushsinlar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheolga"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tirik holda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "yomonliklar"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "ularning turarlarida"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "ularning ichida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:41.019776066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 82,
+  "translation": "Zaif va yetimni qutqaringlar, yovlar qoʻlidan xalos qilinglar.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "qutqaringlar"
+    },
+    {
+      "surface": "דל",
+      "gloss": "zaif"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "va yetim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlar"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "xalos qilinglar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:12.279273251Z",
+  "model": "glm-5.3"
+}

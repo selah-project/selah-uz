@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 48,
+  "translation": "Buyuk ⟨⟨dir⟩⟩ Yahve va juda ham maqtovga loyiq — bizning Elohimimiz shahrida, uning muqaddas togʻida.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Buyuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "va maqtovga loyiq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shahrida"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizning"
+    },
+    {
+      "surface": "הר",
+      "gloss": "togʻida"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "uning muqaddas (togʻi)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:58.579031308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 29:41",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va ⟨את⟩ ikkinchi qoʻzini kechqurunlar oraligʻida tayyorlaysan — tonggi minxaga muvofiq va uning nisxaiga muvofiq uni tayyorlaysan — xushboʻ hid sifatida, Yahve uchun olov qurbonligi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikkinchi qoʻzini"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "qoʻzini"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tayyorlaysan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "oraligʻida"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kechqurunlar"
+    },
+    {
+      "surface": "כמנחת",
+      "gloss": "minxaga muvofiq"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "tonggi"
+    },
+    {
+      "surface": "וכנסכה",
+      "gloss": "va uning nisxaigina muvofiq"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "tayyorlaysan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "uni"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "hid sifatida"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "xushboʻ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "olov qurbonligi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:02:06.911801985Z",
+  "model": "glm-5.3"
+}

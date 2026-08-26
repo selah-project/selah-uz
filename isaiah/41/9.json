@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 41:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Kimni yer chetlaridan ushlab oldim va uning uchlaridan seni chaqirdim, va senga aytdim: mening xizmatkorim sensan, seni tanladim va seni rad etmadim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kimni"
+    },
+    {
+      "surface": "החזקתיך",
+      "gloss": "ushlab oldim"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "chetlaridan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ומאציליה",
+      "gloss": "va uning uchlaridan"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "seni chaqirdim"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "va aytdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmatkorim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sensan"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "seni tanladim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "מאסתיך",
+      "gloss": "rad etmadim"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:41.934237040Z",
+  "model": "glm-5.3"
+}

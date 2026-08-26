@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Mana, Yahve yerni boʻshatmoqda va uni butunlay boʻshatmoqda, uning yuzini buzmoqda va uning istiqomatguvchilarini sochib yubormoqda.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "boʻshatmoqda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "va uni butunlay boʻshatmoqda"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "va buzmoqda"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "uning yuzini"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "va sochib yubormoqda"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "uning istiqomatguvchilarini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:34:24.255059550Z",
+  "model": "glm-5.3"
+}

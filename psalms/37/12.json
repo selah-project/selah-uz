@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Yov odil kishiga qarshi makr oʻylaydi va unga qarshi tishlarini qirishlaydi.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "makr oʻylaydi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yov"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "odil kishiga qarshi"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "va qirishlaydi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "unga qarshi"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "tishlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:22.289043524Z",
+  "model": "glm-5.3"
+}

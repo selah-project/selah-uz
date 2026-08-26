@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va sen ⟨את⟩ choʻzinchoqlarni akatsiya yogʻochidan yasaysan va ularni oltin bilan qoplaysan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "yasaysan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "choʻzinchoqlarni"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "choʻzinchoqlarni"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsiya"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "qoplaysan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni (oltin bilan)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:09.091842039Z",
+  "model": "glm-5.3"
+}

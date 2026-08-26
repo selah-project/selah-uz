@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 108,
+  "translation": "Menga Gilad, menga Menashsheh; Efrayim — boshimning qalʼasi, Yahuda — mening qonunchim.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "qalʼasi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "boshimning"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "qonunchim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:51.160068279Z",
+  "model": "glm-5.3"
+}

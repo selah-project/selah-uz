@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 14:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va u Mitsrayim lagri bilan Yisroel lagri oʻrtasiga kirdi, va ⟨bu⟩ bulut va zulmat boʻldi, va ⟨u⟩ ⟨את⟩ tunning ustini yoritdi, va biri biriga butun tun davomida yaqinlashmadi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Va kirdi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "oʻrtasiga"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lagri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va bilan"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lagri"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulut"
+    },
+    {
+      "surface": "והחשך",
+      "gloss": "va zulmat"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "va yoritdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tun"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tunning ustini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "yaqinlashmadi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "biri"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "biri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tun davomida"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:02.574167245Z",
+  "model": "glm-5.3"
+}

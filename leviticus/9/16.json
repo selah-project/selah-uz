@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va ⟨את⟩ yoqilgan qurbonda yaqinlashtirdi va uni odatdagidek bajardi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yaqinlashtirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoqilgan qurbonni"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yoqilgan qurbonni"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "bajardi"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "odatdagidek"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:45.140014585Z",
+  "model": "glm-5.3"
+}

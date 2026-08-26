@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Keling, farzandlar, menga quloq soling; Yahve qoʻrquvini sizga oʻrgataman.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "keling"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "farzandlar"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "quloq soling"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "qoʻrquvini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "sizga oʻrgataman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:01.997097635Z",
+  "model": "glm-5.3"
+}

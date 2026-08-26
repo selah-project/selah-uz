@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "⟨את⟩ shanbalarimni saqlanglar va muqoddasimga taʼzim qilinglar; Men Yahveman.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shanbalarimni"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "shanbalarimni"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "saqlanglar"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "va muqoddasimga"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "taʼzim qilinglar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveman"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:38.831770566Z",
+  "model": "glm-5.3"
+}

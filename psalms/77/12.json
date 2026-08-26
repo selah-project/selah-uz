@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Eslab aytaman Yahning qilmishlarini, chunki eslayman qadimdan moʻjizalaringni.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "eslab aytaman"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "qilmishlari"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "eslayman"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "qadimdan"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "moʻjizalaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:55.268340611Z",
+  "model": "glm-5.3"
+}

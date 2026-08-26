@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Donishmandlar ⟨את⟩ bilan yur — donishmand ⟨boʻlasan⟩; ahmoqlarga hamroh boʻlgan esa zarar koʻradi.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "yur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "donishmandlar"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "donishmandlar"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "va donishmand"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "esa hamroh boʻlgan"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ahmoqlarga"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "zarar koʻradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:44:09.462790843Z",
+  "model": "glm-5.3"
+}

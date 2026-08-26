@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Chunki koʻp donolikda koʻp gʻam bor, va bilimni koʻpaytirgan kishi ogʻriqni koʻpaytiradi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "koʻp...da"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "donolik"
+    },
+    {
+      "surface": "רב",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "gʻam"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "va koʻpaytirgan"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilimni"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "koʻpaytiradi"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ogʻriqni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:12.516957474Z",
+  "model": "glm-5.3"
+}

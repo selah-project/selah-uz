@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Yaqin mening solihligim, chiqdi mening najotim va mening bilagim xalqlarni hukm qiladi, menga orollar umid bilan qaraydi va mening bilagimga tavakkal qiladilar.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Yaqin"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "solihligim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqdi"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "najotim"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "va bilagim"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "hukm qiladi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "איים",
+      "gloss": "orollar"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "umid bilan qaraydi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ...ga"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "bilagimga"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "tavakkal qiladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:30:50.205689594Z",
+  "model": "glm-5.3"
+}

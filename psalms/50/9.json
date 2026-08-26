@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Olmayman sening uyingdan buqani, sening qoʻralaringdan ⟨echki⟩ takalarini.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "olmayman (yoʻq)"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "olmayman"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "sening uyingdan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buqa"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "sening qoʻralaringdan"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "takalarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:07.222110133Z",
+  "model": "glm-5.3"
+}

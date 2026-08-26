@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Shoh uz uzugini — uni Hamondan olib, o'tkazib yuborgan edi — olib, MordeXayga berdi; Ester esa MordeXayni ⟨את⟩ Hamonning uyi ustiga qo'ydi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "olib"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uz uzugini"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "uz uzugini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "o'tkazib yuborgan"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "Hamondan"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "MordeXayga"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "qo'ydi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "MordeXayni"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "MordeXayni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamonning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:26:10.665674672Z",
+  "model": "glm-5.3"
+}

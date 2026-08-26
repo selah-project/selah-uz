@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va jonim juda ham larzaga keldi — va Sen, ey Yahve, to qachon?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "va jonim"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "larzaga keldi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "to"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "qachon"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:08.905505554Z",
+  "model": "glm-5.3"
+}

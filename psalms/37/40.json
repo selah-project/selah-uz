@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va Yahve ularga yordam beradi va ularga ⟨panoh⟩ — Ular­ni yovillardan qutqaradi va qutqaradi, chunki ular Unga panoh topganlar.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "va ularga yordam beradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "va ularga"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "qutqaradi"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "yovillardan"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "va qutqaradi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "panoh topganlar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Unga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:09.095815853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 102:27",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Ular yo'q bo'lurlar, va Sen ⟨turasan⟩; va ularning barchasi kiyimdek eskirur; libosdek ulardan o'tib yuborursan — va ular o'tib keturlar.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yo'q bo'lurlar"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "va Sen"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "⟨turasan⟩"
+    },
+    {
+      "surface": "וכלם",
+      "gloss": "va ularning barchasi"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kiyimdek"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "eskirur"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "libosdek"
+    },
+    {
+      "surface": "תחליפם",
+      "gloss": "ulardan o'tib yuborursan"
+    },
+    {
+      "surface": "ויחלפו",
+      "gloss": "va ular o'tib keturlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:16.735475708Z",
+  "model": "glm-5.3"
+}

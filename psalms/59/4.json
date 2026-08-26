@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Chunki mana, ular jonimga pana tushib yotishdi; dashnoqlar menga yigʻilishdi; mening isyonim emas, va mening gunnohim emas, Yahve!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "pana tushib yotishdi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "jonimga"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "yigʻilishdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "dashnoqlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ming isyonim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "gunnohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:18.210751042Z",
+  "model": "glm-5.3"
+}

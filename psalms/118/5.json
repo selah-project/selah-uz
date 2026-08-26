@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 118,
+  "translation": "Torliqdan Yah ni chaqirdim — Yah meni kenglikda javob berdi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "torliq"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "chaqirdim"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "meni javob berdi"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "kenglikda"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:44.906426187Z",
+  "model": "glm-5.3"
+}

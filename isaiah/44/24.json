@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Shunday deydi Yahve, sening chaqlovching va seni ona qornidan shakllantirgan: Men Yahviman, hammasini qiluvchi; osmonlarni yolgʻiz oʻzim yoydim; yerni esa — ⟨את⟩ — kim Men bilan?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "sening chaqlovching"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "va seni shakllantirgan"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "ona qornidan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasini"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "yoydim"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "yolgʻiz oʻzim"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "yoydim (chozdim)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kim (Men bilan — «kim Menda?»)"
+    }
+  ],
+  "timestamp": "2026-08-26T04:29:10.860864770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yavesh-Giladning ⟨את⟩ butun aholisi Filistlarning Shaulga qilgan ⟨את⟩ hamma ishlarini eshitdi.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨את⟩ butun"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamma ishlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨את⟩ hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlar"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:57:22.018630323Z",
+  "model": "glm-5.3"
+}

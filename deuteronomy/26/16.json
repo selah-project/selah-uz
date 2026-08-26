@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Shu kuni Yahve, Elohiming, seni ⟨את⟩ shu farmonlarni va ⟨את⟩ hukmlarni bajarishga buyuradi; ⟨את⟩ ularni butun qalbing va butun jon-gerdaning bilan saqlaysan va bajarasan.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "seni buyuradi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bajarishga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shu farmonlarni"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "farmonlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hukmlarni"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukmlarni"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "va saqlaysan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "va bajarasan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ularni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbing"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jon-gerdaning"
+    }
+  ],
+  "timestamp": "2026-08-26T02:03:19.040493996Z",
+  "model": "glm-5.3"
+}

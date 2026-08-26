@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Blessed boʻlasan barcha xalqlardan; senda bepusht erkak va bepusht ayol boʻlmaydi, hamda mollaringda ham.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Blessed"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻlasan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlardan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlmaydi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senda"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "bepusht erkak"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "va bepusht ayol"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "hamda mollaringda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:53:16.993320793Z",
+  "model": "glm-5.3"
+}

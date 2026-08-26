@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va u ⟨את⟩ yoqilma qurbonligini soʻydi, va Aharonning oʻgʻillari unga ⟨את⟩ qonni keltirdilar, va u uni qurbongohga atrofga sepgan holda sepdi.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "va soʻydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoqilma qurbonligini"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yoqilma qurbonligini"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "va keltirdilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonning"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qonni"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qonni"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "va uni sepdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongohga"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:26.317207184Z",
+  "model": "glm-5.3"
+}

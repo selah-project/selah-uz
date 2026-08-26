@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va ular menga shu soʻz boʻyicha toʻrt marta yubordilar, va men ularga ⟨את⟩ xuddi shu soʻz boʻyicha javob berdim.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Va ular yubordilar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "shu soʻz boʻyicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "toʻrt"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "marta"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "va men javob berdim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni (shu soʻz boʻyicha javob bilan)"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "xuddi shu soʻz boʻyicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    }
+  ],
+  "timestamp": "2026-08-26T07:45:33.029934714Z",
+  "model": "glm-5.3"
+}

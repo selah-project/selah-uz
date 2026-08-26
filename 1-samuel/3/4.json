@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yahve Shemuëlni chaqirdi, va u dedi: Mana men!",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Va chaqirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëlni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va u dedi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mana men!"
+    }
+  ],
+  "timestamp": "2026-08-26T02:41:52.602791767Z",
+  "model": "glm-5.3"
+}

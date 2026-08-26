@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Yovga marhamat ⟨koʻrsatilsa⟩ ham u adolat oʻrganmaydi; toʻgʻrilik yerida buzuqlik qiladi va Yahvening ulugʻvorligini koʻrmaydi.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "marhamat ⟨koʻrsatilsa⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yov"
+    },
+    {
+      "surface": "בל",
+      "gloss": "...ham ...oʻrganmaydi"
+    },
+    {
+      "surface": "למד",
+      "gloss": "oʻrganmaydi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "toʻgʻrilik"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "buzuqlik qiladi"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "va ...koʻrmaydi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "koʻrmaydi"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ulugʻvorligini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T04:17:24.847674287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 9:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va qorovul xabar berib dedi: ularning oldiga keldi va qaytmadi. Va haydash — Yehu oʻgʻli Nimshiyning haydashidek, chunki jinnilik bilan haydaydi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "va xabar berdi"
+    },
+    {
+      "surface": "הצפה",
+      "gloss": "qorovul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularning oldiga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "והמנהג",
+      "gloss": "va haydash"
+    },
+    {
+      "surface": "כמנהג",
+      "gloss": "-dek"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshiy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "jinnilik bilan"
+    },
+    {
+      "surface": "ינהג",
+      "gloss": "haydaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:54:40.109015062Z",
+  "model": "glm-5.3"
+}

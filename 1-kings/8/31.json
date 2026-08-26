@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 8:31",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "⟨את⟩ ki — odam o'z yaqiniga qarshi gunoh qilsa va unga qasam yuklanib, uni qasam ichirilsa, va qasam sening mehrobing oldiga kelsa, bu uyda —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odamning o'z yaqiniga qarshi qilgan gunohi (keyingi oyatda hukm qilinadigan narsa)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "gunoh qilsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "o'z yaqiniga qarshi"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "va yuklansa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "qasam"
+    },
+    {
+      "surface": "להאלתו",
+      "gloss": "uni qasam ichirish uchun"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "va kelsa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "qasam"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "mehrobingning"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T03:33:22.019551019Z",
+  "model": "glm-5.3"
+}

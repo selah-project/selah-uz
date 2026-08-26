@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Abadiyatgacha zergingni mustahkam qilaman va avloddan avlodga taxtingni quraman. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "abadiyatgacha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "(olam — uzoq vaqt)"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "mustahkam qilaman"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zergingni"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "va quraman"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "avloddan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "avlodga"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "taxtingni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:58.614006559Z",
+  "model": "glm-5.3"
+}

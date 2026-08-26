@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Barcha buyruqlaring — sidqidir; yolgʻon bilan taʼqib qildilar meni — yordam ber menga.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "buyruqlaring"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "sidqidir"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon bilan"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "taʼqib qildilar meni"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "yordam ber menga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:03.043178931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Yahve, Adonayimiz, qanchalik ulugʻ Isming butun yer yuzida!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonayimiz"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qanchalik"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ulugʻ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Isming"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer yuzida"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:01.622505388Z",
+  "model": "glm-5.3"
+}

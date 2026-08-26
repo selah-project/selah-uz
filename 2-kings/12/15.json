@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Chunki uni ish qiluvchilarga berdilar, va u bilan Yahve uyini ⟨את⟩ mustahkamladilar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ish qiluvchilarga"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "uni berdilar"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "va mustahkamladilar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "u bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T03:55:25.570744828Z",
+  "model": "glm-5.3"
+}

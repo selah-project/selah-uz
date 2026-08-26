@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Yahve, men xijolat boʻlmayin, chunki men Seni chorladim; yolgʻizlar xijolat boʻlsin, Sheolga jim boʻlsinlar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…boʻlmayin"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "xijolat boʻlmayin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "men Seni chorladim"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "xijolat boʻlsin"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yolgʻizlar"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "jim boʻlsinlar"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheolga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:37.151532451Z",
+  "model": "glm-5.3"
+}

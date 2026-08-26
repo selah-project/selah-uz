@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Agar u turib, tashqarida tayogʻiga suyanib yursa, urgunning ⟨gunohi⟩ pok boʻlur; faqat uning dam olishini bersin va davolab davolasin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "u turib"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "yursa"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "tashqarida"
+    },
+    {
+      "surface": "על",
+      "gloss": "suyanib"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "tayogʻiga"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "pok boʻlur"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "urgunning"
+    },
+    {
+      "surface": "רק",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "uning dam olishini"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bersin"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "davolab"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "davolasin"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:26.371836837Z",
+  "model": "glm-5.3"
+}

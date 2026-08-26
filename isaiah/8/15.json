@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va ularda koʻplar qaqshaydilar, va yiqiladilar, va sindiriladilar, va toʻrga tutiladilar, va qoʻlga olinadilar.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "va qaqshaydilar"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ularda"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻplar"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "va yiqiladilar"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "va sindiriladilar"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "va toʻrga tutiladilar"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "va qoʻlga olinadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:34:31.175005404Z",
+  "model": "glm-5.3"
+}

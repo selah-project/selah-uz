@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Keyin esa u qiz dunyoga keltirdi va uning ismini Dina deb atadi.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "keyin esa"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qiz"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "va atadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning ismini"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "uning ismini"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:18.543815947Z",
+  "model": "glm-5.3"
+}

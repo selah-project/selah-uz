@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Men, Kohelet, boʻlganman podshoh Isroil ustida, Yerushalaimda.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "boʻlganman"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaimda"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:06.780613517Z",
+  "model": "glm-5.3"
+}

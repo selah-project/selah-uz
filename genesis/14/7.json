@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 14:7",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va qaytdilar va En-Mishpatga — u Kadesh — kelib, ⟨את⟩ Amalekiylikning butun dalasini, shuningdek ⟨את⟩ Xatsetson-Tamarda yashovchi Emoriylarni ham urdilar.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Va qaytdilar"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "va kelib"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "Mishpat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "va urdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun dalani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "dala"
+    },
+    {
+      "surface": "העמלקי",
+      "gloss": "Amalekiylikning"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "shuningdek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emoriylarni"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriylarni"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "yashovchi"
+    },
+    {
+      "surface": "בחצצן",
+      "gloss": "Xatsetson-"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamarda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:03.509952565Z",
+  "model": "glm-5.3"
+}

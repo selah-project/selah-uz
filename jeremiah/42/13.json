@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 42:13",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Agar siz: „Bu yurtda yashamaymiz, Yahve sizning Elohimingizning ovozini eshitmaslik uchun“ desangiz —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "desangiz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נשב",
+      "gloss": "yashamaymiz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yurtda"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "uchun emas"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitmaslik"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizning Elohimingiz"
+    }
+  ],
+  "timestamp": "2026-08-26T08:38:14.195215461Z",
+  "model": "glm-5.3"
+}

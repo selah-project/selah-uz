@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Zulmat ham Sendan yashirinmaydi, va tunga kunduz kabi yorugʻ beradi — qorongʻulik yorugʻlikdaydir.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "zulmat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yashirinmaydi"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "qorongʻi boʻlmaydi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Sendan"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "va tunga"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kunduz kabi"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "yorugʻ beradi"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "qorongʻulik"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "yorugʻlikdaydir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:11.572248507Z",
+  "model": "glm-5.3"
+}

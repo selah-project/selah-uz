@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 12:10",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Koʻplar tozalanadi va oqaradi va sinchlanadi, va yomonlar yomonlik qiladi, va hech bir yomon tushunmaydi, va donishmandlar tushunadilar.",
+  "tokens": [
+    {
+      "surface": "יתבררו",
+      "gloss": "tozalanadi"
+    },
+    {
+      "surface": "ויתלבנו",
+      "gloss": "va oqaradi"
+    },
+    {
+      "surface": "ויצרפו",
+      "gloss": "va sinchlanadi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Koʻplar"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "va yomonlik qiladi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yomonlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "tushunmaydi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hech bir"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "והמשכלים",
+      "gloss": "va donishmandlar"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "tushunadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T07:37:14.793439633Z",
+  "model": "glm-5.3"
+}

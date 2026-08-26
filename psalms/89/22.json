@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Ki qoʻlim u bilan barqaror boʻladi, bilingki, bilagim uni quvvatlaydi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻlim"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "barqaror boʻladi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bilingki"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "bilagim"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "uni quvvatlaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:02.354705401Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Odamlardan birini urib oʻldirganni albatta oʻlim jazosiga hukm qilinsin.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "urib"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odamlardan birini"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "va oʻlsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim jazosiga"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hukm qilinsin"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:30.668805202Z",
+  "model": "glm-5.3"
+}

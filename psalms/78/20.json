@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "„Ana, U qoyani urdi va suvlar oqib chiqdi, soylar toshdi; bermoqqa nonni ham qodirmi? Qavmi uchun goʻshtni tayinlarmi?“",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "qoyani"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "oqib chiqdi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "soylar"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "toshdi"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nonni"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "qodirmi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "bermoqqa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "tayinlarmi"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "goʻshtni"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "qavmi uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:54.818228324Z",
+  "model": "glm-5.3"
+}

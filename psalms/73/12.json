@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Mana bular — yovuzlar, va doim osuda yashovchilar boylik orttirdilar.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bular"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovuzlar"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "va osuda yashovchilar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "doim"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "arttirdilar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "boylik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:40.481453658Z",
+  "model": "glm-5.3"
+}

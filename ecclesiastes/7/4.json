@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Donishmandlarning yuragi mota uyida, va ahmoqlarning yuragi xursandchilik uyida.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "yuragi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "donishmandlarning"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "mota"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "va yuragi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ahmoqlarning"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "xursandchilik"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:17.756010385Z",
+  "model": "glm-5.3"
+}

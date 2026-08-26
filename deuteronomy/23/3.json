@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "A mamzer ⟨illegitimate child⟩ shall not enter into the assembly of Yahve; even the tenth generation shall not enter for it into the assembly of Yahve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "shall not"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "enter"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "mamzer"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "into the assembly"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "דור",
+      "gloss": "generation"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "tenth"
+    },
+    {
+      "surface": "לא",
+      "gloss": "shall not"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "enter"
+    },
+    {
+      "surface": "לו",
+      "gloss": "for it"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "into the assembly"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T02:01:36.092182306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Dengizga kemalarda tushuvchilar, koʻp suvlarda ish qiluvchilar —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "tushuvchilar"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengizga"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "kemalarda"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "qiluvchilar"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvlarda"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:26.597127945Z",
+  "model": "glm-5.3"
+}

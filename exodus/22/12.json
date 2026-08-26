@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Agar yirtib tashlansa — albatta yirtilsa — ⟨u⟩ unga guvoh ⟨holda⟩ keltirsin; yirtilgan ⟨jonivorni⟩ u toʻlamaydi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "yirtib tashlansa"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "albatta yirtilsa"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "⟨u⟩ ... keltirsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guvoh ⟨holda⟩"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "yirtilgan ⟨jonivorni⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "... yoʻq"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "u toʻlamaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:43.093407584Z",
+  "model": "glm-5.3"
+}

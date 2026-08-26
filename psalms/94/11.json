@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Yahve odamning oʻylarini biladi, chunki ular behuddir.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "oʻylarini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odamning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "behuddir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:47.021513397Z",
+  "model": "glm-5.3"
+}

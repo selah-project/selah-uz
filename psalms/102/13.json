@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Va Sen, ey Yahve, abadiy oʻtirasan, va eslatmang avloddan avlodga.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Va Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "oʻtirasan"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "va eslatmang"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "avlodga"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "va avlod"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:27.566325710Z",
+  "model": "glm-5.3"
+}

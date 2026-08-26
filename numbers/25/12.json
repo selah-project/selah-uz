@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Shuning uchun aytgil: mana, Men unga ⟨את⟩ ahdimni — tinchlikni beraman.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytgil"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mana Men"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "beraman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimni"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlikni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:39:50.335523251Z",
+  "model": "glm-5.3"
+}

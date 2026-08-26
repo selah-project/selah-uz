@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Va Adonay Yahve menga yordam beradi; shuning uchun xijolat boʻlmadim; shuning uchun yuzimni chaqmoqtoshday qildim va bilamanki, xor boʻlmayman.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "Va Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "yordam beradi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "על",
+      "gloss": "shuning"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-ma"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "xijolat boʻlmadim"
+    },
+    {
+      "surface": "על",
+      "gloss": "shuning"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "qildim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzimni"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "chaqmoqtoshday"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "va bilaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-may"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "xor boʻlmayman"
+    }
+  ],
+  "timestamp": "2026-08-26T04:31:09.566501958Z",
+  "model": "glm-5.3"
+}

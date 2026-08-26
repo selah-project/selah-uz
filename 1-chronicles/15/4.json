@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va Davud Aharon oʻgʻillarini ⟨את⟩ va Levilarni ⟨את⟩ toʻpladi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "toʻpladi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon oʻgʻillarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Levilarni"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levilarni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:59:05.799353779Z",
+  "model": "glm-5.3"
+}

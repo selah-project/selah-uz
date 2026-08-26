@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 28:21",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Bitta oʻndan bir <issa> — har bir qoʻzichaq uchun bitta oʻndan bir, yetti qoʻzichaqning yettitasi uchun qilasiz.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "bitta oʻndan bir ⟨issa⟩"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "bitta oʻndan bir"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qilasiz"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "qoʻzichaq uchun"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "yettitasi uchun"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "qoʻzichaq"
+    }
+  ],
+  "timestamp": "2026-08-26T08:23:23.939051066Z",
+  "model": "glm-5.3"
+}

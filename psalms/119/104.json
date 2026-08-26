@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Senning buyruqlaringdan aql olaman — shu sababli yolgʻonning har bir yoʻlini yomon koʻraman.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "Senning buyruqlaringdan"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "aql olaman"
+    },
+    {
+      "surface": "על",
+      "gloss": "shu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sababli"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "yomon koʻraman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yoʻlini"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻonning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:21.668052559Z",
+  "model": "glm-5.3"
+}

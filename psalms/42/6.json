@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Nima uchun sen mongooseʻasan, ey jonim, va nima uchun menga gʻalayon salis? Elohimga umid qil, chunki baribir Unga iqror boʻlaman — yuz Najotlarining U.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nima uchun"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "sen mongooseʻasan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ey jonim"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "va ... gʻalayon salis"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "umid qil"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "baribir"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "Unga iqror boʻlaman"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "Najotlar"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuz ... Uning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:52.311979347Z",
+  "model": "glm-5.3"
+}

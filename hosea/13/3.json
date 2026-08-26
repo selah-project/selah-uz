@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Shuning uchun ular tong buluti va erta ketadigan shudg'or, garmdon ustidan boʻron bilan uchiriladigan g'ovur va derazadan chiqadigan tutun kabi boʻladilar.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "boʻladilar"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "buluti kabi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "va shudg'or kabi"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "erta ketadigan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ketadigan"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "g'ovur kabi"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "boʻron bilan uchiriladigan"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "garmdon ustidan"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "va tutun kabi"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "derazadan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:38:00.153435778Z",
+  "model": "glm-5.3"
+}

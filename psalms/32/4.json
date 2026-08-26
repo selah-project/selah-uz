@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Chunki kunduzi va tunda qoʻling men ustimga ogʻir boʻldi, bugʻim yoz qurgʻoqchiligiga aylandi. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "kunduzi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "va tunda"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "ogʻir boʻldi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "men ustimga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻling"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "aylandi"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "bugʻim"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "qurgʻoqchiligida"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "yoz"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:50.059937460Z",
+  "model": "glm-5.3"
+}

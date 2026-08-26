@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Kehatilar — muqaddas majmuani koʻtaruvchilar — yoʻlga chiqdilar, va ⟨ular⟩ ularga kelguniga qadar ⟨את⟩ maskanni qadab turdilar.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "yoʻlga chiqdilar"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Kehatilar"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "koʻtaruvchilar"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "muqaddas majmua"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "va qadab turdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maskan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "maskan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qadar"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ularga kelguni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:29:45.380979987Z",
+  "model": "glm-5.3"
+}

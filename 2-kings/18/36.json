@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va xalq jim turdi va unga javoban ⟨את⟩ bir ogʻiz soʻz aytishmadi, chunki bu podshohning buyrugʻi ⟨⟨edi⟩⟩: „Javob bermanglar unga“.",
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "jim turdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... aytishmadi"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "javob"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ unga",
+      "marks": "bir ogʻiz soʻz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir ogʻiz soʻz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyrugʻi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshohning"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨edi⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan buyruq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bermanglar"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "javob ... unga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:33:35.819939347Z",
+  "model": "glm-5.3"
+}

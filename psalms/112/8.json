@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 112,
+  "translation": "Qalbi mustahkamlangan, qoʻrqmaydi — dushmanlariga qaraguncha.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "mustahkamlangan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "qoʻrqmaydi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "— guncha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qaraguncha"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "dushmanlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:01.382550156Z",
+  "model": "glm-5.3"
+}

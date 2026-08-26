@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va u yana tugʻdi — ukasi ⟨את⟩ Habelni. Va Habel podachi — mol boqardi, Qoin esa yer haydovchi boʻldi.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "va u yana"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukasi Habelni"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "uning ukasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Habel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Habel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Habel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "podachi — mol boqardi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "mol"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "va Qoin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yer haydovchi"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:32.530603970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 17:20",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Yahve, Sendek yoʻq, va Sendan boshqa Elohim yoʻq, biz quloqlarimiz bilan eshitgan hamma narsaga ⟨koʻra⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "Sendek"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "Sendan boshqa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hamma narsada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "eshitganmiz"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "quloqlarimiz bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:51:10.923677048Z",
+  "model": "glm-5.3"
+}

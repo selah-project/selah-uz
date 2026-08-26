@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Ular Elni, qutqaruvchilarini unutdilar — Misrda buyuk ishlarni qilgan:",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "unutdilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "qutqaruvchilarini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "buyuk ishlarni"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misrda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:10.647043778Z",
+  "model": "glm-5.3"
+}

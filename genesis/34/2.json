@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Uni Shchem koʻrdi — Xamorning oʻgʻli, xiviy, ⟨the⟩ mamlakatning knyazi — va u uni oldi, va u bilan yotdi, va uni kamsitdi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shchem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Xamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "xiviy"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "knyazi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mamlakatning"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "yotdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "kamsitdi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:01.508667583Z",
+  "model": "glm-5.3"
+}

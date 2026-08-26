@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Uni Elohimdan ozgina past qilding va unga shon-sharaf va ulugʻvorlik toj kiydirding.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "uni past qilding"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ozgina"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "Elohimdan"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "va shon-sharaf"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "va ulugʻvorlik"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "unga toj kiydirding"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:48.186039893Z",
+  "model": "glm-5.3"
+}

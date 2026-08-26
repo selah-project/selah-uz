@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 15:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va u oʻzi uchun ⟨את⟩ barcha shularni oldi va ⟨את⟩ularni oʻrtadan boʻldi va har boʻlakni oʻz jufti roʻparasiga qoʻydi, ammo ⟨את⟩ qushni boʻlamadi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "oʻzi uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha shularni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "shularni"
+    },
+    {
+      "surface": "ויבתר",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ularni",
+      "marks": "ularni"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "oʻrtadan"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "בתרו",
+      "gloss": "boʻlagini"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "roʻparasiga"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oʻz jufti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qushni"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "qush"
+    },
+    {
+      "surface": "לא",
+      "gloss": "amasan"
+    },
+    {
+      "surface": "בתר",
+      "gloss": "boʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:38.179102190Z",
+  "model": "glm-5.3"
+}

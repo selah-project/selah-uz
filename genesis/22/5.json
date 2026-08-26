@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 22:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va Avraham oʻz yoshlariga aytdi: Sizlar eshak bilan shu yerda qolinglar, men va oʻgʻil esa u yerga boramiz va sajda qilamiz va sizlarning oldingizga qaytamiz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "oʻz yoshlari"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "qolinglar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "פה",
+      "gloss": "shu yerda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "eshak"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "va men"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "va oʻgʻil"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "boramiz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "כה",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "ונשתחוה",
+      "gloss": "va sajda qilamiz"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "va qaytamiz"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizlarning oldingizga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:42.910559883Z",
+  "model": "glm-5.3"
+}

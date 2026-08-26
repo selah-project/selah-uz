@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Va Yisroil xonadoni ularni dafn etadi — erni poklash uchun ⟨את⟩ ⟨the⟩ yerni — yetti oy.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "va dafn etadi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xonadoni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "poklash"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "oy"
+    }
+  ],
+  "timestamp": "2026-08-26T05:28:39.895019203Z",
+  "model": "glm-5.3"
+}

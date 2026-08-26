@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 56,
+  "translation": "Butun kun soʻzlarimni buzadilar, menga qarshi — barcha oʻylab topganlari yomonlikka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarimni"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "buzadilar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga qarshi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "oʻylab topganlari"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "yomonlikka"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:52.897837507Z",
+  "model": "glm-5.3"
+}

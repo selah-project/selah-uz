@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 42:3",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Ichki hovliga tegishli yigirma ⟨tirsak⟩ oldida va tashqi hovliga tegishli tosh yotqizilgan pol oldida — uch qatorda atiq atiqning yuziga qarshi edi.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "yigirma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "hovliga"
+    },
+    {
+      "surface": "הפנימי",
+      "gloss": "ichki"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "va oldida"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "tosh pol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "hovliga"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "tashqi"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "atiq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzi"
+    },
+    {
+      "surface": "אתיק",
+      "gloss": "atiq"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "uch qatorda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:30:07.940611898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 120,
+  "translation": "Men — tinchlikman; lekin gapirsam, ular urushga ⟨tayyor⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlikman"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "lekin gapirsam"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "gapirsam"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "urushga ⟨tayyor⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:14.803112734Z",
+  "model": "glm-5.3"
+}

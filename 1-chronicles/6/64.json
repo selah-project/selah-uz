@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "va ⟨את⟩ Qedemotni va ⟨את⟩ uning chorva maydonlarini, va ⟨את⟩ Mepaatni va ⟨את⟩ uning chorva maydonlarini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Qedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Qedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning chorva maydonlari"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uning chorva maydonlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Mepaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mepaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning chorva maydonlari"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uning chorva maydonlari"
+    }
+  ],
+  "timestamp": "2026-08-26T07:55:51.183927260Z",
+  "model": "glm-5.3"
+}

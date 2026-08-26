@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Yahvening farmoyishlari toʻgʻri, qalbni quvontiradi; Yahvening amri pok, koʻzlarni yoritadi.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "farmoyishlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "toʻgʻri"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "quvontiradi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbni"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "pok"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "yoritadi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "koʻzlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:05.428489320Z",
+  "model": "glm-5.3"
+}

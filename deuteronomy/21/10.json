@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 21:10",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Qachonki dushmanlaring ustiga urushga chiqsang, va Yahve, Elohiming, ularni qo'linga bersa, va sen asirini olgan bo'lsang,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "qachonki"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "chiqsang"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "urushga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dushmanlaring"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "va bersa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "qo'linga"
+    },
+    {
+      "surface": "ושבית",
+      "gloss": "va olgan bo'lsang"
+    },
+    {
+      "surface": "שביו",
+      "gloss": "uning asirini"
+    }
+  ],
+  "timestamp": "2026-08-26T01:58:17.247619308Z",
+  "model": "glm-5.3"
+}

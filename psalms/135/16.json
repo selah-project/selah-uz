@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Ogʻizlari bor, ammo gapiradilar ⟨emas⟩; koʻzlari bor, ammo koʻradilar ⟨emas⟩ — ⟨yoʻq⟩, gapirmaydilar va koʻrmaydilar.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "ogʻiz"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularning ⟨bor⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo ⟨emas⟩"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "gapirmaydilar"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "koʻzlar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularning ⟨bor⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo ⟨emas⟩"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "koʻrmaydilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:01.417152526Z",
+  "model": "glm-5.3"
+}

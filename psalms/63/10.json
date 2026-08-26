@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 63,
+  "translation": "Ular esa nefeshimni vayronagarchilik uchun qidiradilar, yerning eng past qismlariga kirib boradilar.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ular esa"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "vayronagarchilik uchun"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "qidiradilar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshimni"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kirib boradilar"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "eng past qismlariga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:19.720916911Z",
+  "model": "glm-5.3"
+}

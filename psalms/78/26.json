@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Sharq shamolini osmonda yoʻlga soldi va qudrati bilan janub shamolini haydadi.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "yoʻlga soldi"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "sharq shamoli"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "osmonda"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "va haydadi"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "qudrati bilan"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "janub shamoli"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:27.985381084Z",
+  "model": "glm-5.3"
+}

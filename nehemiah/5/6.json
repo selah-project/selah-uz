@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va menga juda ham gʻazab keldi, ⟨את⟩ ularning faryodlarini va ⟨את⟩ bu soʻzlarni eshitganimda.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Va gʻazab keldi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…ganimda"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eshitganim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning faryodlari"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ularning faryodlarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "soʻzlar"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T07:45:45.934633739Z",
+  "model": "glm-5.3"
+}

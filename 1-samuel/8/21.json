@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Shemuël ⟨את⟩ xalqning barcha soʻzlarini eshitdi va ularni Yahvening qulogʻida aytdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqning barcha soʻzlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "va ularni aytdi"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "qulogʻida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    }
+  ],
+  "timestamp": "2026-08-26T02:42:34.865737363Z",
+  "model": "glm-5.3"
+}

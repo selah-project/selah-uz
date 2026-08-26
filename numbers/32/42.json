@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va Novax bordi va Kenatni ⟨את⟩ va uning qishloqlarini ⟨את⟩ zabt etdi va uni oʻz nomi bilan Novax deb nomladi.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Va Novax"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bordi"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "va zabt etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenatni"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning qishloqlarini"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "uning qishloqlari"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va nomladi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "uni"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novax"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "oʻz nomi bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:24:03.319792651Z",
+  "model": "glm-5.3"
+}

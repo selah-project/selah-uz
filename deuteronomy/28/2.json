@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va bu barakalarning barchasi sening usting keladi va seni yetib oladi, chunki Yahve Elohimingning ovozini eshitasan.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Va keladi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sening usting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "barakalarning"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "va seni yetib oladi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "eshitasan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimingning"
+    }
+  ],
+  "timestamp": "2026-08-26T02:04:16.263996220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Yahvelda xursand boʻling va quvoning, ey solihlar; zafar bilan hayqiring, barcha toʻgʻri yuraklilar!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "xursand boʻling"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvelda"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "va quvoning"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ey solihlar"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "zafar bilan hayqiring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "toʻgʻri"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuraklilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:44.111297145Z",
+  "model": "glm-5.3"
+}

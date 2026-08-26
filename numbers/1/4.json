@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va ⟨את⟩ sizlar bilan har bir qabiladan bitta kishi — otalar uyining boshligʻi boʻlgan kishi boʻlsin.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Va ⟨את⟩ sizlar bilan"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "qabiladan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshligʻi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uyining"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otalar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "oʻzi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:25:02.938291272Z",
+  "model": "glm-5.3"
+}

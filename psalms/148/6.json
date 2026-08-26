@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 148,
+  "translation": "Va ularni abadiy, olamgacha turgʻizdi; chek qoʻydi — ⟨u⟩ oshib oʻtmaydi.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "va ularni turgʻizdi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "olamgacha"
+    },
+    {
+      "surface": "חק",
+      "gloss": "chek (qonun)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va oshib oʻtmaydi (emas)"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "oshiib oʻtmoq"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:21.021697754Z",
+  "model": "glm-5.3"
+}

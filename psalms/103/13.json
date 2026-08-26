@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "Ot farzandlariga rahm qilgandek, Yahve Oʻzidan qoʻrqqanlarga rahm qiladi.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "rahm qilgandek"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ot"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "farzandlari"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "rahm qiladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Oʻzidan qoʻrqqanlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:22.630862962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 115:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Yahve qoʻrquvchilarini barakalaydi — kichiklarni ham, kattalar bilan birga.",
+  "tokens": [
+    {
+      "surface": "יברך",
+      "gloss": "barakalaydi"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "qoʻrquvchilarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "kichiklarni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "kattalar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:53.915004732Z",
+  "model": "glm-5.3"
+}

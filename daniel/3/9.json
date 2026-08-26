@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Javob berib, Nebuchadnezzar shohga aytishdi: Shoh, shoh, abadiy yashang!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "javob berib"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "va aytishdi"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "Nebuchadnezzarga"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "yashang"
+    }
+  ],
+  "timestamp": "2026-08-26T07:29:10.165017978Z",
+  "model": "glm-5.3"
+}

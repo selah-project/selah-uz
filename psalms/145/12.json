@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Odamlar oʻgʻillariga uning jasurliklarini va uning shohligining ulugʻ shon-sharafini bildirmoq uchun.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "bildirmoq uchun"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odamlar"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "uning jasurliklarini"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "va shon-sharafini"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ulugʻ"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "uning shohligining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:07.649378322Z",
+  "model": "glm-5.3"
+}

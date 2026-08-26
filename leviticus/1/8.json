@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Aharonning oʻgʻillari — kohinlar — ⟨את⟩ boʻlaklarni, ⟨את⟩ boshni va ⟨את⟩ moy qismini mizbax ustidagi oʻtdagi yogʻoch ustiga tartib bilan yigʻadilar.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "va yigʻadilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonning"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boʻlaklarni"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "boʻlaklarni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boshni"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "boshni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "moy qismini"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "moy qismini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "yogʻochning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "האש",
+      "gloss": "oʻtning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbaxning"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:34.240150940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Ham sen mast boʻlasan, yashiringan boʻlasan; ham sen dushman tufayli mustahkam panoh qidirasan.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "mast boʻlasan"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "boʻlasan"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "yashiringan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "qidirasan"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "mustahkam panoh"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "dushman tufayli"
+    }
+  ],
+  "timestamp": "2026-08-26T05:48:12.191729678Z",
+  "model": "glm-5.3"
+}

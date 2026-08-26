@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va qirol qasam ichdi va aytdi: Tirikdir Yahve, ki ⟨את⟩ jonimni butun tangchilikdan xalos qildi.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "Va qirol qasam ichdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Tirikdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "xalos qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jonimni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "butun …dan"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tangchilikdan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:25:41.897852375Z",
+  "model": "glm-5.3"
+}

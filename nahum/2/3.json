@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Chunki Yahve Yoqubning buyukligini ⟨את⟩ qaytardi, Isroilning buyukligi kabi, chunki boʻshatuvchilar ularni boʻshatdi va ularning tok shoxlarini buzdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytardi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoqubning buyukligini"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "buyukligini"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yoqub"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "buyukligi kabi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "boʻshatuvchilar"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "boʻshatdi"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "ularning tok shoxlarini"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "buzdi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:47:24.284266465Z",
+  "model": "glm-5.3"
+}

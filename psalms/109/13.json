@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Boʻlsin uning oxirati ⟨⟩ yoʻq qilinish uchun, boshqa avlodda ularning nomi oʻchirilsin.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Boʻlsin"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "uning oxirati"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "yoʻq qilinish uchun"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "avlodda"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "oʻchirilsin"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ularning nomi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:20.191155133Z",
+  "model": "glm-5.3"
+}

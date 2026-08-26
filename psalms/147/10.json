@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "U otning qudratidan xohlamaydi, odamning oyoqlaridan mamnun boʻlmaydi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "qudratidan"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "otning"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "xohlamaydi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "oyoqlaridan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odamning"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "mamnun boʻlmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:20.705919287Z",
+  "model": "glm-5.3"
+}

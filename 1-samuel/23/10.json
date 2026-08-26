@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va David aytdi: Yahve, Isroilning Elohimi, banishing shundmi — Toning xizmatkori albatta eshitdiki, Shaul Kelaga kelib, meni uchun shaharni yoʻq qilmoqni qidirmoqda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... aytdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "albatta"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "Toning xizmatkori"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "qidirmoqda"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kelmoqqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "yoʻq qilmoqqa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "shaharni"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "meni uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T02:55:31.987958Z",
+  "model": "glm-5.3"
+}

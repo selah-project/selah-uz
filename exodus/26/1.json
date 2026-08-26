@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va ⟨את⟩ mishkan yasha: oʻn toʻrdan — chigʻan ipagi, moviy, binafsha va qizil qirt qizilgʻan; keruvlar, sarroh ishi — ⟨את⟩ ularni shunday yasha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mishkan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yasha"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "toʻrdan"
+    },
+    {
+      "surface": "שש",
+      "gloss": "chigʻan ipagi"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "oʻrilgan"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "moviy"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "binafsha"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "qizil qirt"
+    },
+    {
+      "surface": "שני",
+      "gloss": "qizilgʻan"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keruvlar"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ishi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "sarroh"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yasha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:27.664809019Z",
+  "model": "glm-5.3"
+}

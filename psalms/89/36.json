@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Bir marta muqaddisligim bilan qasam ichdim: Dovudga yolg'on gapirmayman",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Bir marta"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "qasam ichdim"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "muqaddisligim bilan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨agar⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "yolg'on gapirmayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:07.525153406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Isroil oʻgʻillariga gapir va ularga aytingiki: Men Yahve, sizlarning Elohimlaringizman.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "gapir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "va aytingki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimlaringiz"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:18.125615795Z",
+  "model": "glm-5.3"
+}

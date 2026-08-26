@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 98,
+  "translation": "Gʻurlasin dengiz va uning toʻlgʻinligi, yer yuzi va unda yashovchilar.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "gʻurlasin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "va uning toʻlgʻinligi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "yer yuzi"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "va yashovchilar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:46.132641995Z",
+  "model": "glm-5.3"
+}

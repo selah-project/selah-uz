@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 114,
+  "translation": "Isroil Misrdan chiqqanida, Yaakov xonadoni notanish tilda gapiruvchi xalqdan ⟨uchdi⟩.",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "chiqqanida"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xonadoni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "xalqdan"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "notanish tilda gapiruvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:48.223465432Z",
+  "model": "glm-5.3"
+}

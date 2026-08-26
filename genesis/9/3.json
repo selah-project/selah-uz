@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Har bir sudralib yuruvchi jonli narsa sizga oziq-ovqat boʻlsin; yashil oʻtlarni sizga berganimday, hamma narsani ⟨את⟩ sizga berdim.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sudralib yuruvchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jonli"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "oziq-ovqat"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "yashil oʻtlarni ... day"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "berdim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamma narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma narsa"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:44.142202745Z",
+  "model": "glm-5.3"
+}

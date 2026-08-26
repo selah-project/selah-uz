@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va chodirning ikkinchi yon tomoni ⟨uchun⟩, shimol tomonda, yigirmata taxta.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "Va yon tomon uchun"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chodirning"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tomonida"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "shimol"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirmata"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "taxta"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:21.668236770Z",
+  "model": "glm-5.3"
+}

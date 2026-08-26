@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Va Yahve ⟨את⟩ Yusuf bilan boʻldi, va unga xesed choʻzdi, va qamoq uyi boshligʻining koʻzida unga inʼom berdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yusuf bilan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "va choʻzdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "inʼomini"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzida"
+    },
+    {
+      "surface": "שר",
+      "gloss": "boshligʻi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyi"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "qamoqxona"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:02.290385927Z",
+  "model": "glm-5.3"
+}

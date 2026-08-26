@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Meni loydan qutqar va ⟨men⟩ botmayin; nafratlanuvchilarim qoʻlidan va suv chuqurliklaridan qutqarilay.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "qutqar meni"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "loydan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va yôq"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "botmay"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "qutqarilay"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "nafratlanuvchilarimdan"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "va chuqurliklaridan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:43.237478985Z",
+  "model": "glm-5.3"
+}

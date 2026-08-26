@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Qoʻllarimni poklik bilan yuvaman va Yahve, ⟨את⟩ mehbaringni aylanaman.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "yuvaman"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "poklik bilan"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "qoʻllarimni"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "va aylanaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehbaringni"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "mehbaringni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:05.119429122Z",
+  "model": "glm-5.3"
+}

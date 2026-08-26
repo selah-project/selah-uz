@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "Chunki u shahar darvozalarining mixlarini mustahkam qildi, ichingdagi farzandlarini barakaladi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mustahkam qildi"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "mixlarini"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "darvozalarining"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barakaladi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "farzandlarini"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ichingdagi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:46.666663261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 108,
+  "translation": "Seni xalqlar ichida maqtayman, ey Yahve, va millatlar ichida Senga madhiya aytaman.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Seni maqtayman"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "xalqlar ichida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "va Senga madhiya aytaman"
+    },
+    {
+      "surface": "בל",
+      "gloss": "millatlar ichida"
+    },
+    {
+      "surface": "אמים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:53.549110566Z",
+  "model": "glm-5.3"
+}

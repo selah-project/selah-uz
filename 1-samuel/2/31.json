@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Mana, kunlar kelmoqda va Men ⟨את⟩ sening qoʻlingni va ⟨את⟩ otang uyining qoʻlini kesib tashlayman — sening uyingda qari boʻlmaydi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kelmoqda"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "va Men kesib tashlayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sening qoʻlingni"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sening qoʻlingni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻl"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otang"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "boʻlishdan"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qari"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "seniṅ uyingda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:27:52.262791998Z",
+  "model": "glm-5.3"
+}

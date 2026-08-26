@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Tur, Yahve, uning yuzini oldini kes, uni tizzalatib yiqit; nefeshimni qutqar yovdan — Sening qiliching ⟨bilan⟩.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "oldinga chiqib toʻsqin"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uning yuzini"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "uni tizzalatib yiqit"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "qutqar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshimni"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "yovdan"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "Sening qiliching"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:43.197407667Z",
+  "model": "glm-5.3"
+}

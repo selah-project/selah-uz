@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 18:20",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Balki paygʻambar — Ismim bilan buyruq bermagan narsani gapirishga tavakkal qilib ⟨את⟩ soʻz aytguchi, yoki boshqa elohimlar nomi bilan gapirguchi — oʻsha paygʻambar oʻladi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "balki"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "paygʻambar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ki"
+    },
+    {
+      "surface": "יזיד",
+      "gloss": "tavakkal qilib"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "gapirishga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "Ismim bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "…ni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mas"
+    },
+    {
+      "surface": "צויתיו",
+      "gloss": "buyruq bermagan"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "gapirishga"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "yoki …ki"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "gapirguchi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nomi bilan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohimlar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "oʻladi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "paygʻambar"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    }
+  ],
+  "timestamp": "2026-08-26T01:58:05.885958900Z",
+  "model": "glm-5.3"
+}

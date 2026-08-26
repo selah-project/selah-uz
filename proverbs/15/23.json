@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Odam uchun quvonch — ogʻiz javobida, va oʻz vaqtida ⟨aytilgan⟩ soʻz — necha yaxshi!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "quvonch"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "odam uchun"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "javobida"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ogʻiz"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "va soʻz"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "oʻz vaqtida"
+    },
+    {
+      "surface": "מה",
+      "gloss": "necha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:44:52.361758814Z",
+  "model": "glm-5.3"
+}

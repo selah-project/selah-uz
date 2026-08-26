@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Toʻrtburchak ⟨edi⟩, ikki qatlamli qilib yasaldi ⟨את⟩ hoson; bir qarich uning uzunligi va bir qarich uning kengligi — ikki qatlamli.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "toʻrtburchak"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨edi⟩"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ikki qatlamli"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yasaldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoson"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoson"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "bir qarich"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uning uzunligi"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "va bir qarich"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "uning kengligi"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ikki qatlamli"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:36.443357155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Haqorat yuragimni sindirdi va men behol boʻldim; hamdard kutdim — yoʻq edi, va tasalliberuvchilar — topmadim.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "haqorat"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "sindirdi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragimni"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "va men behol boʻldim"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "va kutdim"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "hamdard"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoʻq edi"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "va tasalliberuvchilar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "— emas"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "topmadim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:05.615463819Z",
+  "model": "glm-5.3"
+}

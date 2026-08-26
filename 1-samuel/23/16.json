@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Shoulning oʻgʻli Yehonatan turdi va Dovud huzuriga — Xorshaga — bordi va uning qoʻlini Elohim bilan mustahkamladi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoulning"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va bordi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "Xorshaga"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "va mustahkamladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning qoʻlini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "uning qoʻlini"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:56:37.627950734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va dafn etdilar ⟨את⟩ Avnerni Hevronda; va qirol koʻtardi ⟨את⟩ ovozini va yigʻladi Avner qabri yonida, va butun xalq yigʻladi.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Va dafn etdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avnerni"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avnerni"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hevronda"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "va koʻtardi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozini"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "va yigʻladi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga qarab"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qabri"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "va yigʻladi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    }
+  ],
+  "timestamp": "2026-08-26T03:06:15.947621022Z",
+  "model": "glm-5.3"
+}

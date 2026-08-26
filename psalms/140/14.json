@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 140,
+  "translation": "Albatta solihlar sening ismingga shukur aytadi, toʻgʻri yuruvchilar ⟨את⟩ yuzing oldida oʻtiradi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Albatta"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "solihlar"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "shukur aytadi"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sening ismingga"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oʻtiradi"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "toʻgʻri yuruvchilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzing"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzing oldida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:40.765574303Z",
+  "model": "glm-5.3"
+}

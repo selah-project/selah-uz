@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 12:3",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va boʻlur: oʻsha kunda Men ⟨את⟩ Yerushalaimni barcha xalqlar uchun ogʻir yuk toshi qilib qoʻyaman — barcha uni koʻtarganlar yorilgan yaralar bilan yorilur, va yer yuzining barcha xalqlari unga qarshi toʻplanur.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Va boʻlur"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "qilib qoʻyaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaimni"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaimni"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "tosh"
+    },
+    {
+      "surface": "מעמסה",
+      "gloss": "ogʻir yuk"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha … uchun"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עמסיה",
+      "gloss": "uni koʻtarganlar"
+    },
+    {
+      "surface": "שרוט",
+      "gloss": "yorilgan"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "yorilur"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "va toʻplanur"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "unga qarshi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "xalqlari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer yuzining"
+    }
+  ],
+  "timestamp": "2026-08-26T05:55:24.532835118Z",
+  "model": "glm-5.3"
+}

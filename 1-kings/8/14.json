@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va malik yuzini oʻgirib, butun Yisroel jamoasini barakaladi — butun Yisroel jamoasi esa turar edi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "va oʻgirib"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "malik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzini"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "va barakaladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun Yisroel jamoasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamoasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamoasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "turar edi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:32:09.081027607Z",
+  "model": "glm-5.3"
+}

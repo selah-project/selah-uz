@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 66:23",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Va bo'ladi: har yangi oy o'z oyida va har shanba o'z shanbasida barcha tan Oldimga sajda qilishga keladi, deydi Yahve.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "va bo'ladi"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "har"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yangi oy"
+    },
+    {
+      "surface": "בחדשו",
+      "gloss": "o'z oyida"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "va har"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shanba"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "o'z shanbasida"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "keladi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tan"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "sajda qilishga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "Oldimga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T04:35:37.000189487Z",
+  "model": "glm-5.3"
+}

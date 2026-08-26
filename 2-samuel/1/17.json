@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Dovud ⟨את⟩ bu marsiyani aytib yigʻladi Shaul ustiga va Yehonatan, oʻgʻli ustiga.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "yigʻladi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu marsiya"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "marsiya"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustiga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻgʻli"
+    }
+  ],
+  "timestamp": "2026-08-26T03:02:59.395637068Z",
+  "model": "glm-5.3"
+}

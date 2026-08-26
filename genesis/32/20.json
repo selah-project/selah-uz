@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va ham ikkinchini ⟨את⟩, ham uchinchini ⟨את⟩, ham podalar orqasidan yuruvchi barchani ⟨את⟩ buyurdi, deb: „Bu soʻzga koʻra gapirasanlar Esavga, ⟨את⟩ uni uchratganingizda.«",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "va buyurdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikkinchini"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uchinchini"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "uchinchi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barchani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yuruvchilar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "orqasidan"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "podalarning"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "soʻzga koʻra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "gapirasanlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "uchratganingizda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:28.317882797Z",
+  "model": "glm-5.3"
+}

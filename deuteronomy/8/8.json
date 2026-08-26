@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Bugʻdoy va arpadan, tok va anjirdan, anordan — zaytun moyi va asaldan ⟨the⟩ yer.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "bugʻdoy"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "va arpa"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "va tok"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "va anjir"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "va anor"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaytun"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "va asal"
+    }
+  ],
+  "timestamp": "2026-08-26T08:24:07.307937368Z",
+  "model": "glm-5.3"
+}

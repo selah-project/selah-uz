@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 120,
+  "translation": "Nima beriladi ⟨senga⟩, va nima qoʻshiladi ⟨senga⟩, ey makker til?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "beriladi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨senga⟩"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "va nima"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "qoʻshiladi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨senga⟩"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "til"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "makker"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:31.856430087Z",
+  "model": "glm-5.3"
+}

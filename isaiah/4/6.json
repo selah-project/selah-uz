@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va kulba ⟨boʻladi⟩ kunduzi qurgʻoqchilikdan soya boʻlib, va panoh, va yashirin joy boʻlib zilziradan va yomgʻirdan.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "va kulba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "soya boʻlib"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "kunduzi"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "qurgʻoqchilikdan"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "va panoh"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "va yashirin joy"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "zilziradan"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "va yomgʻirdan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:07:41.989691768Z",
+  "model": "glm-5.3"
+}

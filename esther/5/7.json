@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Ester javob berdi va dedi: Mening iltijom va tilagim ⟨shu⟩ —",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "Va ... javob berdi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va ... dedi"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "iltijom"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "va tilagim"
+    }
+  ],
+  "timestamp": "2026-08-26T07:25:11.772540595Z",
+  "model": "glm-5.3"
+}

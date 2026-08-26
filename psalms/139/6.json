@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Bilim menga ajibdur, u baland koʻtarilgan — men unga qodir emasman.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "ajibdur"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilim"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "menga"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "baland koʻtarilgan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "qodir"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga ... man"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:03.077944913Z",
+  "model": "glm-5.3"
+}

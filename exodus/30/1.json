@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va sen qilib qoʻyasiz tutatqi mizbaxini — tutatqi chiqarish uchun; akatsiya yogʻochidan qil uni ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Va sen qil"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbax"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "tutatqi chiqarish uchun"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tutatqi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsiya"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:02:13.767441877Z",
+  "model": "glm-5.3"
+}

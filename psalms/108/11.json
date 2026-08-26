@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 108,
+  "translation": "Kim ⟨meni⟩ mustahkam shaharga olib boradi? Kim ⟨meni⟩ Edomgacha boshlaydi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "olib boradi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "mustahkam"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "boshlaydi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Edomgacha"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:51.160464394Z",
+  "model": "glm-5.3"
+}

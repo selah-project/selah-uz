@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Axiya ustidagi yangi kiyimni ushlab oldi va uni oʻn ikki boʻlakka yirtdi.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "ushlab oldi"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Axiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "kiyimni"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "yangi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysiki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ustida edi"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "va yirtdi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "boʻlak"
+    }
+  ],
+  "timestamp": "2026-08-26T03:37:16.213613087Z",
+  "model": "glm-5.3"
+}

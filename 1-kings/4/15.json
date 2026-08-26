@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Aximaas — Naftalida ⟨edi⟩; u ham ⟨את⟩ Bashmatni, Shelomoning qizini, xotinlikka oldi.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Aximaas"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "Naftalida"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bashmatni"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashmatni"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizini"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoning"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "xotinlikka"
+    }
+  ],
+  "timestamp": "2026-08-26T03:25:42.287424203Z",
+  "model": "glm-5.3"
+}

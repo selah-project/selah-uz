@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va ruh chiqdi va Yahvening huzurida turdi va aytdi: men uni aldab olaman. Va Yahve unga aytdi: Nima bilan?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Va chiqdi"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "uni aldab olaman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Nima bilan?"
+    }
+  ],
+  "timestamp": "2026-08-26T08:10:24.907260953Z",
+  "model": "glm-5.3"
+}

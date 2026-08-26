@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Yahudiylarga esa yorugʻlik va quvonch, sevinch va shon-sharaf ⟨boʻldi⟩.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "yahudiylarga"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "yorugʻlik"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "va quvonch"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "va sevinch"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "va shon-sharaf"
+    }
+  ],
+  "timestamp": "2026-08-26T07:26:09.240476728Z",
+  "model": "glm-5.3"
+}

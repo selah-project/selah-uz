@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 122,
+  "translation": "Akalarim va yaqinlarim sababli endi ayturman: sening ichingda tinchlik boʻlgay!",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sababli"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Akalarim"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "va yaqinlarim"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ayturman"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sening ichingda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:04.950417888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Tavba — Moshening, Elohim odamining. Adonay, maskan Sen boʻlding bizga, avloddan avlodga.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tavba"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshening"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "maskan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "היית",
+      "gloss": "boʻlding"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "avloddan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "avlodga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:02.156052385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Paroh koʻrdiki, ⟨⟩ dam olish boʻldi, va u ⟨את⟩ oʻz yuragini ogʻirlashtirdi va ularni tinglamadi — Yahve gapirgani kabi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "–ki"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "dam olish"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "va ogʻirlashtirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz yuragini"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "oʻz yuragi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tingladi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:25.088211651Z",
+  "model": "glm-5.3"
+}

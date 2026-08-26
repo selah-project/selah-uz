@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Sizlar esa uni hurmatdan chiqarasizlar: «Adonayning dasturxoni iflos, uning mahsuloti va yemishi mensiz» — deganingizda.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Sizlar esa"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "hurmatdan chiqarasizlar"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (Adonayning Ismini)"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "degoningizda"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "dasturxon"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayning"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "iflos"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "uning mahsuloti"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "mensiz"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yemishi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:56:51.076445303Z",
+  "model": "glm-5.3"
+}

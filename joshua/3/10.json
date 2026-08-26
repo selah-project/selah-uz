@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yehoshua dedi: bundan bilasizlarki tirik El siz ⟨orningizda⟩, va muqarrar sürib chiqaradi sizning yuza⟨ningiz⟩dan ⟨את⟩ kancanlikni va ⟨את⟩ xitlikni va ⟨את⟩ xivlikni va ⟨את⟩ perizlikni va ⟨את⟩ girgashlikni va amorlikni va yevuslikni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "bundan"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "bilasizlarki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tirik"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "sizning oranzgizda"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "va ... sürub chiqaruvchi"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "muqarrar sürub chiqaradi"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "sizning yuzangizdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kancanlikni"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kancanlikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "xitlikni"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "xitlikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "xivlikni"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "xivlikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "perizlikni"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perizlikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "girgashlikni"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgashlikni"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "va amorlikni"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "va yevuslikni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:09:59.530604876Z",
+  "model": "glm-5.3"
+}

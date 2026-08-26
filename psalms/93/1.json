@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 93,
+  "translation": "Yahve podshohlik qildi, ulugʻvorlik kiydi, Yahve kuch kiydi, oʻzini bogʻladi; ha, yer mustahkam turadi, tebranmaydi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohlik qildi"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ulugʻvorlik"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "kiydi"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "kiydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kuch"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "oʻzini bogʻladi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "mustahkam turadi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "yer"
+    },
+    {
+      "surface": "בל",
+      "gloss": "…may"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tebranmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:19.748822404Z",
+  "model": "glm-5.3"
+}

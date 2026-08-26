@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Oyning toʻqqizinchisida ocharchilik shaharda kuchaydi, va er xalqi uchun non boʻlmadi.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "toʻqqizinchisida"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "oyning"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "Va kuchaydi"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ocharchilik"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shaharda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... boʻlmadi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "uchun ... xalqi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "er"
+    }
+  ],
+  "timestamp": "2026-08-26T04:06:25.699341968Z",
+  "model": "glm-5.3"
+}

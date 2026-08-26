@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Mana, buzuqlik ichida dunyoga keldim, va gunohda meni onam homila boʻldi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "buzuqlik ichida"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "dunyoga keldim"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "va gunohda"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "meni homila boʻldi"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "onam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:43.205782024Z",
+  "model": "glm-5.3"
+}

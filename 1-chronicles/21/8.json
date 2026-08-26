@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Dovud Elohimga aytdi: Juda koʻp gunoh qildim, chunki shu ishni qildim; va endi, oʻtib ket, iltijos, ⟨את⟩ bandangning gunohini, chunki juda ahmoqona ish qildim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "gunoh qildim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda koʻp"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "qildim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ishni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ishni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "oʻtib ket"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltijos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunohini"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "gunohini"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bandangning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "ahmoqona ish qildim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:00:39.459539551Z",
+  "model": "glm-5.3"
+}

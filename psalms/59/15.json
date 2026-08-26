@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Va qaytishsin kechqurun, it kabi vovullashsin va shahar aylanib yursinlar.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "qaytishsin"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "kechqurun"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "vovullashsin"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "it kabi"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "aylanib yursinlar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:44.556218981Z",
+  "model": "glm-5.3"
+}

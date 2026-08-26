@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Voy — otasiga: „Nima tugʻuyapsan?“ degan kishiga, va xotinga: „Nima ⟨ bilan ⟩ qiynalib tugʻuyapsan?“ degan kishiga.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Voy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "degan kishiga"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "otasiga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "tugʻuyapsan"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "va xotinga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "qiynalib tugʻuyapsan"
+    }
+  ],
+  "timestamp": "2026-08-26T09:03:43.331468110Z",
+  "model": "glm-5.3"
+}

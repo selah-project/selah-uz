@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Yahve yuragi singanlarga yaqindir va ruhi siqilganlarni ⟨את⟩ qutqaradi.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "yaqindir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "singanlarga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuragi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ruhi siqilganlarni"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "siqilganlarni"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhi"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "qutqaradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:32.137057743Z",
+  "model": "glm-5.3"
+}

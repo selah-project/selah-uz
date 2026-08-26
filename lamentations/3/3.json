@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Albatta faqat menga qarshi — u qaytadi, qoʻlini agʻdaradi butun kun davomida.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Albatta faqat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menga qarshi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "qaytadi"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "agʻdaradi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun davomida"
+    }
+  ],
+  "timestamp": "2026-08-26T07:15:29.828089452Z",
+  "model": "glm-5.3"
+}

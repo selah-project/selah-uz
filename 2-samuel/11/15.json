@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va xatga yozdi, degan: Qoʻyinglar ⟨את⟩ Uriyani jangning qattiq yuz roʻparasiga, va undan orqaga qaytinglar, va u uriladi va oʻladi.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "va yozdi"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "xatga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "qoʻyinglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyani"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מול",
+      "gloss": "roʻparasiga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "jangning"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "qattiq"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "va qaytinglar"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "undan orqaga"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "va uriladi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "va oʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:10:59.030995092Z",
+  "model": "glm-5.3"
+}

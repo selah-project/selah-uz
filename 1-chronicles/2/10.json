@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Ram ⟨את⟩ Amminadabni dunyoga keltirdi, va Amminadab ⟨את》 Nachshonni dunyoga keltirdi — Yahudo oʻgʻillarining sardori.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Va Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amminadabni"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Amminadabni"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "va Amminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nachshonni"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nachshonni"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "sardori"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:40.147750010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Senga uch marta yozmadimmi — maslahatlar va bilim bilan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "-madimmi"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "yozdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "uch marta"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "maslahatlar bilan"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "va bilim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:48:02.085300205Z",
+  "model": "glm-5.3"
+}

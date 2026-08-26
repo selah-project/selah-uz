@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 92,
+  "translation": "Yahvegа shukr aytish va ey Elyon, sening ismingga mozalan kuylash — yaxshidir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxshidir"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "shukr aytish"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegа"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "va mozalan kuylash"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "sening ismingga"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ey Elyon"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:37.462719914Z",
+  "model": "glm-5.3"
+}

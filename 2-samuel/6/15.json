@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va David va butun Isroil uyi Yahvening sandigʻini ⟨את⟩ shodlik nidosi va shofar tovushi bilan koʻtarib keldilar.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Va David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "koʻtarib keldilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvening sandigʻini"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandigʻini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "shodlik nidosi bilan"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "va tovushi bilan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:30:42.729306937Z",
+  "model": "glm-5.3"
+}

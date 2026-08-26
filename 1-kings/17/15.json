@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "U ketdi va Eliyaxu soʻzi boʻyicha qildi, va u yedi — u ham, u ham, va uning uy xonadoni — kunlar boʻyi.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "u ketdi"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "soʻzi boʻyicha"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyaxu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "va u yedi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u (ayol — urgʻu)"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "va u (erkak — urgʻu)"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "va uning uy xonadoni"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlar boʻyi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:31:55.743560921Z",
+  "model": "glm-5.3"
+}

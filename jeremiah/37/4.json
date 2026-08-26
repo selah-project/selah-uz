@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va Yirmeyaxu kirardi va chiqardi xalq orasida, va uni ⟨את⟩ qamoq uyiga solmagan edilar.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Va Yirmeyaxu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kirardi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "va chiqardi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "orasida"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "soldilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "Yirmeyaxu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "qamoq"
+    }
+  ],
+  "timestamp": "2026-08-26T04:59:35.065704119Z",
+  "model": "glm-5.3"
+}

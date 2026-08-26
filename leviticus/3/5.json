@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Aharon oʻgʻillari uni ⟨את⟩ ⟨the⟩ mizbaxda tutatqtiradilar, ⟨the⟩ oʻla qurbonligi ustiga, u esa ⟨the⟩ yogʻochlarning ustidadir, ular esa ⟨the⟩ olov ustidadir — olov-qurbonlik, xushboʻy hid Yahve uchun.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "tutatqtiradilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩uni",
+      "marks": "uni (qurbonlik yogʻi)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨the⟩ mizbaxda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "⟨the⟩ oʻla qurbonligi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidadir"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "⟨the⟩ yogʻochlarning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidadir"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨the⟩ olovning"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "olov-qurbonlik"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "hid"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "xushboʻy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:38.652260099Z",
+  "model": "glm-5.3"
+}

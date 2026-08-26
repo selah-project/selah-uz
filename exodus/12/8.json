@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va yesinlar ⟨את⟩ goʻshtni shu kechada — olovida qovurilgan, va xamirturshisiz nonlarni, achchiq koʻkatlar ustida yesinlar uni.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Va yesinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goʻshtni"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "goʻshtni"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "kechada"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "qovurilgan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olovinida"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "va xamirturshisiz nonlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "achchiq koʻkatlar"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "yesinlar uni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:07.505768164Z",
+  "model": "glm-5.3"
+}

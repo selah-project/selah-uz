@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 62,
+  "translation": "Chunki yigor bokira qizga uylanadi, oʻgʻullaring ⟨senga⟩ uylanadi, va kuyov kelin ustidagi quvonchday, Elohiming sen ustida quvonadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "uylanadi"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "yigor"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "bokira qiz"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "ulanadi ⟨senga⟩"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oʻgʻullaring"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "va quvonch"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "kuyov"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidagi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "kelin"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "quvonadi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sen ustida"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    }
+  ],
+  "timestamp": "2026-08-26T04:35:11.069371864Z",
+  "model": "glm-5.3"
+}

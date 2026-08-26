@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Iltimos, xalqning qulogʻiga gapir, va soʻrasinlar — har bir erkak oʻz yonidoshidan ⟨את⟩, har bir ayol oʻz yonidosh ayolidan ⟨את⟩ — kumush buyumlarni va oltin buyumlarni.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "gapir"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "qulogʻiga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "va soʻrasinlar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har bir erkak"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ dan",
+      "marks": "kumush va oltin buyumlar"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oʻz yonidoshidan"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "va har bir ayol"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ dan",
+      "marks": "kumush va oltin buyumlar"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "oʻz yonidosh ayolidan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "buyumlarni"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "va buyumlarni"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:33.139959747Z",
+  "model": "glm-5.3"
+}

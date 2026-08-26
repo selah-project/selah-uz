@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va dedi Yahve Moshega: yoz oʻzing uchun ⟨את⟩ ⟨the⟩ soʻzlarni bu soʻzlarni, chunki ogʻiz boʻyicha soʻzlarning bu soʻzlarning kesdim ⟨את⟩ bilan sen ahdni va ⟨את⟩ Isroil bilan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "yoz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzing uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlarni"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻyicha"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻiz"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarning"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "kesdim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bilan"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Isroil bilan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:30.587628842Z",
+  "model": "glm-5.3"
+}

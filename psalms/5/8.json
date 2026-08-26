@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Men esa, xeseding moʻl-koʻlligida uyingga kiraman, muqaddas saroying tomon sigʻinaman, Sendan qoʻrqib.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men esa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "moʻl-koʻlligida"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kiraman"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "uyingga"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "sigʻinaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "saroying"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "Sendan qoʻrqib"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:43.644837748Z",
+  "model": "glm-5.3"
+}

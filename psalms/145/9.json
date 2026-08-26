@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Yahve barchaga yaxshilik qiladi va uning rahmlari uning barcha ishları ustidadir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxshilik qiladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barchaga"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "va uning rahmlari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidadir"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ishları"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:07.648911117Z",
+  "model": "glm-5.3"
+}

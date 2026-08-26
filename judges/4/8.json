@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Barak unga aytdi: agar sen mening bilan borsang, boraman; agar mening bilan bormasang, bormayman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "borsang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mening bilan"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "boraman"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "borsang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mening bilan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bormayman"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "bor"
+    }
+  ],
+  "timestamp": "2026-08-26T02:28:40.233266143Z",
+  "model": "glm-5.3"
+}

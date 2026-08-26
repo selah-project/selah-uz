@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Faqat Navat oʻgʻli Yarovam gunohlariga — Isroilni gunohga solgan gunohlariga — yopishib oldi, ulardan qaytmadi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Faqat"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "gunohlariga"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Navat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "gunohga solgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "yopishib oldi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "... emas"
+    },
+    {
+      "surface": "סר",
+      "gloss": "qaytmadi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ulardan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:47:42.534253878Z",
+  "model": "glm-5.3"
+}

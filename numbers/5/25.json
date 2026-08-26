@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va kohin ayolning qoʻlidan ⟨את⟩ hasad minchasini olsa, va minchani Yahve yuzida tebratib, uni ⟨את⟩ mehrobga yaqinlashtirsa.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "va olsa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayolning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hasad minchasini"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minchasini"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "hasad"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "va tebratib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minchani"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minchani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yuzida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "va yaqinlashtirsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mehrobga (uni)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mehrob"
+    }
+  ],
+  "timestamp": "2026-08-26T01:28:38.868984634Z",
+  "model": "glm-5.3"
+}

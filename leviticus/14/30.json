@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va toʻrtqushlardan yoki kabutar joʻjalaridan birini — qoʻli yetadigani qadar — qiladi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Va qiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "toʻrtqushlardan"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "joʻjalari"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "kabutar"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "yetadi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻli"
+    }
+  ],
+  "timestamp": "2026-08-26T01:15:45.816620442Z",
+  "model": "glm-5.3"
+}

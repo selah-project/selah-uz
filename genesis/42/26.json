@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va ular ularning donini ⟨את⟩ eshaklariga yukladilar va u yerdan yoʻl oldilar.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "yukladilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning donini"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "ularning donini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "eshaklariga"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "yoʻl oldilar"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:17.514075983Z",
+  "model": "glm-5.3"
+}

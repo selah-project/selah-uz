@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va Avimelex butun xalqqa ⟨את⟩ buyruq berdi, deb: „Bu odamga yoki uning xotiniga teggan — oʻlim bilan oʻldiriladi.“",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "buyruq berdi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun xalq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "teggan"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "odamga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "yoki uning xotiniga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim bilan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldiriladi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:39.365538666Z",
+  "model": "glm-5.3"
+}

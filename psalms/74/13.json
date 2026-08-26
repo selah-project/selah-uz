@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Sen kuching bilan dengizni parchalading, suvlar ustidagi tanninlarning boshlarini sindirding.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "parchalading"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "kuching bilan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengizni"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "sindirding"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "boshlarini"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "tanninlarning (dengiz-ajdarlar)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidagi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:59.394995124Z",
+  "model": "glm-5.3"
+}

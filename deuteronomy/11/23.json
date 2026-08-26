@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "u holda Yahve shu barcha xalqlarni yuzlaringizdan haydab chiqaradi va sizlardan katta va kuchli xalqlarni meros qilib olasizlar.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "haydab chiqaradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shu barcha xalqlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "yuzlaringizdan"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "meros qilib olasizlar"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "katta"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "va kuchli"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizlardan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:53:54.554399391Z",
+  "model": "glm-5.3"
+}

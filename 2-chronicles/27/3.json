@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "U Yahve uyining yuqori darvozasini ⟨את⟩ qurdi, va Ofel devorida koʻp qurdi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "qurdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuqori darvoza"
+    },
+    {
+      "surface": "שער",
+      "gloss": "darvoza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "yuqori"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "va devori"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Ofel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "qurdi"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "koʻp"
+    }
+  ],
+  "timestamp": "2026-08-26T08:13:19.386033656Z",
+  "model": "glm-5.3"
+}

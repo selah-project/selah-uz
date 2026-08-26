@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Chunki ular — boshingga marhamat toji va bo'yningga halqalar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "toj (gilam-toj)"
+    },
+    {
+      "surface": "חן",
+      "gloss": "marhamat"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "boshingga"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "va halqalar"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "bo'yningga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:48.805002039Z",
+  "model": "glm-5.3"
+}

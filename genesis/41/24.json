@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va ingichka boshoqlar ⟨את⟩ yetti yaxshi boshoqni yutib yubordi; va sehrgarlarga aytdim, ammo menga bildiruvchi yoʻq.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "yutib yubordi"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "boshoqlar"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "ingichka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yetti yaxshi boshoqni"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "boshoq"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "aytdim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "sehrgarlar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ammo ... yoʻq"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "bildiruvchi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:15.990315783Z",
+  "model": "glm-5.3"
+}

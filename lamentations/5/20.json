@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Nega abadiy bizni unutasan, uzoq kunlar davomida bizni tashlab ketasan?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nega"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "bizni unutasan"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "bizni tashlab ketasan"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "davomida"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlar"
+    }
+  ],
+  "timestamp": "2026-08-26T09:10:44.150096493Z",
+  "model": "glm-5.3"
+}

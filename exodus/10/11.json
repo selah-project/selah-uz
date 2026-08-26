@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Yoʻq, shunday ⟨emas⟩; borilar, endi erkaklar, va Yahvega xizmat qilinglar, chunki ⟨את⟩ aynan shuni sizlar soʻrayapsizlar. Va ⟨u⟩ ularni Firʼon yuzidan haydab yubordi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "borilar"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "erkaklar"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "va xizmat qilinglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ aynan shuni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "soʻrayapsizlar"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "va haydab yubordi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ... yuzidan",
+      "marks": "Firʼon yuzidan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firʼon"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:37.456343809Z",
+  "model": "glm-5.3"
+}

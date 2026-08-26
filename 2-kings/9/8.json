@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Axbavning butun uyi yoʻq boʻladi, va men Axbavdan devorga siyadigan odamni, ham qamalganni, ham tashlab ketilganni Isroilda kesib tashlayman.»",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "Va yoʻq boʻladi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axbavning"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "va men kesib tashlayman"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Axbavdan"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "siyadigan odam"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "devorga"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "qamalganni"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "tashlab ketilganni"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isroilda"
+    }
+  ],
+  "timestamp": "2026-08-26T03:53:09.815180785Z",
+  "model": "glm-5.3"
+}

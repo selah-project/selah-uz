@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 138,
+  "translation": "Seni olqilaydilar, Yahve, yerning barcha mulklari, chunki ular ogʻzing soʻzlarini eshitdilar.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Seni olqilaydilar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mulklari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshitdilar"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "soʻzlarini"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ogʻzing"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:25.878137752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 2:11",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va oʻgʻillaringizdan paygʻambarlar, yigitlaringizdan nazirlikka bagʻishlanganlarni tikladim. Axir shunday emasmi, ey Isroil oʻgʻillari? — Yahve aytadi.",
+  "tokens": [
+    {
+      "surface": "ואקים",
+      "gloss": "tikladim"
+    },
+    {
+      "surface": "מבניכם",
+      "gloss": "oʻgʻillaringizdan"
+    },
+    {
+      "surface": "לנביאים",
+      "gloss": "paygʻambarlar"
+    },
+    {
+      "surface": "ומבחוריכם",
+      "gloss": "yigitlaringizdan"
+    },
+    {
+      "surface": "לנזרים",
+      "gloss": "nazirlikka bagʻishlanganlar"
+    },
+    {
+      "surface": "האף",
+      "gloss": "axir... emasmi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "emas"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "aytadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T05:40:02.706845149Z",
+  "model": "glm-5.3"
+}

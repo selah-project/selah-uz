@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va men yuritdim ⟨את⟩ sizni qirq yil choʻlda; eskimadi kiyimlaringiz sizlardan, va poyabzalingiz eskimadi oyoqingdan.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "va yuritdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizni"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qirq"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "eskimadi"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "kiyimlaringiz"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "sizlardan"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "va poyabzalingiz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "eskimadi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uzoq"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "oyoqingdan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:04:26.913867449Z",
+  "model": "glm-5.3"
+}

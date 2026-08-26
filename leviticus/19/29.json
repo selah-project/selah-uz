@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Qizingni ⟨את⟩ fohishalikka berib ifloslantirma, va yer fohishalik qilmasin, va yer yomon niyat bilan toʻlmasin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "ifloslantirma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qizingni"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "qizingni"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "fohishalikka berib"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... masin"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "fohishalik qilmasin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "va toʻlmasin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "yomon niyat"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:38.831531117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Yahve ichida jonim maqtanadi; kamtarlar eshitsin va xursand boʻlsin.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve ichida"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "maqtanadi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "eshitsin"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "kamtarlar"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "va xursand boʻlsin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:06.561874960Z",
+  "model": "glm-5.3"
+}

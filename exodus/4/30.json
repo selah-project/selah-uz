@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Aharon Yahvening Moshega aygan barcha soʻzlarini aytdi va belgilarni xalqning koʻz oʻngida qildi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha soʻzlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aygan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "belgilarni"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "koʻz oʻngida"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:46.150004261Z",
+  "model": "glm-5.3"
+}

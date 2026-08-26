@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Yer shohlari va olam barilarining hammasi ishonmadilarki, dushman va adovat Yerushalaim darvozalariga kiradi deb.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ishonmadilarki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "shohlari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va…hammasi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "barilarining"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "olam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kiradi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dushman"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "va adovat"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "darvozalariga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:24.693218432Z",
+  "model": "glm-5.3"
+}

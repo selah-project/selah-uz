@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va mustahkamlandi ⟨the⟩ maydon va gʻor, ki u unda, Avrahamga qabul mulki sifatida, Xet farzandlaridan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "va mustahkamlandi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "maydon"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "va gʻor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unda"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamga"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "mulki sifatida"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qabul"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Xet farzandlari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "farzandlari"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Xet"
+    }
+  ],
+  "timestamp": "2026-08-26T00:37:17.286829157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Ularni temir tayoq bilan sindirasan, sopolchining idishidek ularni parchalab tashlaysan.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "Ularni sindirasan"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "tayoq bilan"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "temir"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "idishidek"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "sopolchining"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "ularni parchalab tashlaysan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:28.379051885Z",
+  "model": "glm-5.3"
+}

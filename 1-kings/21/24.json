@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Ahavdán shaharda oʻlganni itlar yeydilar, va dalada oʻlganni osmon qushlari yeydilar.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "oʻlganni"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahavdan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shaharda"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeydilar"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "itlar"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "va oʻlganni"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dalada"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeydilar"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "qushlari"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmon"
+    }
+  ],
+  "timestamp": "2026-08-26T03:42:34.139064990Z",
+  "model": "glm-5.3"
+}

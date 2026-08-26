@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Sionda Yahve ismini, va Uning maqtovini Yerushalaimda aytib berish uchun;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "aytib berish uchun"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Sionda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ismni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "va Uning maqtovini"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaimda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:07.866047695Z",
+  "model": "glm-5.3"
+}

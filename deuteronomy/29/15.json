@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "zero sizlar bilardingizlar — ⟨את⟩ biz Misr yerida yashaganimizni va ⟨את⟩ biz xalqlar orasidan oʻtganimizni, ulardan sizlar oʻtgansizlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "zero"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "bilardingizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biz... yashaganimizni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimni \/ narsani"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "biz yashaganimizni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "biz... oʻtganimizni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimni \/ narsani"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "biz oʻtganimizni"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "orasidan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "sizlar oʻtgansizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T02:04:54.082757258Z",
+  "model": "glm-5.3"
+}

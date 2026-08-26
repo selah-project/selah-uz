@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Men uni vabo bilan uraman va uni merosdan mahrum qilaman, va ⟨את⟩ seni ulugʻ va qudratli xalq qilib qoʻyaman — undan.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Men uni uraman"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "vabo bilan"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "va uni merosdan mahrum qilaman"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "va qilib qoʻyaman"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "seni"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "uluʻ"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "va qudratli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:33:37.402081354Z",
+  "model": "glm-5.3"
+}

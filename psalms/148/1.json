@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 148,
+  "translation": "Maqtanglar Yah, maqtanglar Yahve ⟨את⟩ osmonlardan, maqtanglar Uni balandliklarda.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Maqtanglar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "maqtanglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "maqtanglar Uni"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "balandliklarda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:10.584170609Z",
+  "model": "glm-5.3"
+}

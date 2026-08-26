@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va u oʻsha joyning nomini Tavʼera deb atadi, chunki Yahvening oʻti ular ichida yonib ⟨yuborgan edi⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Va atadi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomini"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "joyning"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Tavʼera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "yonib"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ularning ichida"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    }
+  ],
+  "timestamp": "2026-08-26T01:31:06.610306771Z",
+  "model": "glm-5.3"
+}

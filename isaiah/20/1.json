@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Tartan Ashdodga kelgan yilda — Sargon, Ashur podshohi uni yuborgan edi — u Ashdod bilan urushdi va uni bosib oldi.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "yilida"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kelgan"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "Ashdodga"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "yuborganida"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "Sargon (uni yuborgan)"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "va urushdi"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "Ashdod bilan"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "va uni bosib oldi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:15:38.927647276Z",
+  "model": "glm-5.3"
+}

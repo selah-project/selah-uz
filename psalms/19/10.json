@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Yahvedan qoʻrqish pokdir, abadiy turadi; Yahvening hukmlari rost, hammasi birga adolatlidir.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "qoʻrqish"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvedan"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "pokdir"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "turadi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "rost"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "adolatlidir"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "hammasi birga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:05.428717457Z",
+  "model": "glm-5.3"
+}

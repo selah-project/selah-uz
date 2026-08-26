@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va u ⟨את⟩ muqaddasni, ⟨את⟩ uchratuv chodirini va ⟨את⟩ qurbongohni kafforot qilib boʻlgach, ⟨את⟩ tirik takani yaqinlashtirsin.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "va …boʻlgach"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "kafforot qilib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muqaddasni"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uchratuv chodirini"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchratuv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qurbongohni"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "va yaqinlashtirsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tirik takani"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "taka"
+    },
+    {
+      "surface": "החי",
+      "gloss": "tirik"
+    }
+  ],
+  "timestamp": "2026-08-26T01:18:44.957707443Z",
+  "model": "glm-5.3"
+}

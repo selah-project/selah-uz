@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Har ehtiyotkor kishi bilim bilan ish qiladi, ahmoq esa ahmoqlikni yoyadi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ehtiyotkor"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ish qiladi"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "bilim bilan"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ahmoq"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "yoyadi"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ahmoqlikni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:44:09.583377713Z",
+  "model": "glm-5.3"
+}

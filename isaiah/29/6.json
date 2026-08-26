@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Yahve Tsevaot tomonidan ⟨sen⟩ yoxlanasan — gʻuldur va silkinish bilan, buyuk ovoz, dovul va boʻron bilan, yutib yuboruvchi olov alangasi bilan.",
+  "tokens": [
+    {
+      "surface": "מעים",
+      "gloss": "tomonidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "yoxlanasan"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "gʻuldur bilan"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "va silkinish bilan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "va ovoz"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "dovul"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "va boʻron"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "va alanga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "yutib yuboruvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:19:40.006836059Z",
+  "model": "glm-5.3"
+}

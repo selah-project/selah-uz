@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 5:22",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Xanok Metushelaxni ⟨את⟩ dunyoga keltirgandan keyin uch yuz yil Elohim bilan ⟨את⟩ yurdi va oʻgʻillar va qizlar koʻrdi.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "yurdi"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Xanok"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim bilan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "dunyoga keltirgandan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metushelaxni"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelax"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uch"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oʻgʻillar"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "qizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:32.364650133Z",
+  "model": "glm-5.3"
+}

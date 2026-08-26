@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va Moshe butun Yisroel oʻgʻillari jamoasini ⟨את⟩ yigʻdi va ularga aytdi: mana shu soʻzlarki, ularni qilish uchun Yahve buyurdi.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "yigʻdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun jamoa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamoasi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "mana shu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "qilish uchun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni (soʻzlarni)"
+    }
+  ],
+  "timestamp": "2026-08-26T01:03:19.106615174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Shomuel koʻrdi ⟨את⟩ Shaulni, va Yahve unga javob berdi: Mana odam, senga aytganim shu — shu xalqim ustida hukm suradi.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Va Shomuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaulni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulni"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "va Yahve"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "unga javob berdi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aytganim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "hukm suradi"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "xalqim ustida"
+    }
+  ],
+  "timestamp": "2026-08-26T02:47:53.131720052Z",
+  "model": "glm-5.3"
+}

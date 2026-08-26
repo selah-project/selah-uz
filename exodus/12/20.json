@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Xamirlovchi har qanday narsani yemanglar; barcha turar-joylaringizda mazzalarni ⟨siz⟩ yeyursizlar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "xamirlovchi narsani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yemanglar"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yemanglar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "turar-joylaringizda"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyursizlar"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mazzalarni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:40.735686578Z",
+  "model": "glm-5.3"
+}

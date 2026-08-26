@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Olti kun mehnat qilasan va butun mehnatingni bajarasan.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "olti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "mehnat qilasan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "va bajarasan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "mehnatingni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:21.723774037Z",
+  "model": "glm-5.3"
+}

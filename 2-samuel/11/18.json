@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Yoav yubordi va Dovudga urushning ⟨את⟩ barcha soʻzlarini xabar qildi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "xabar qildi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarini"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "urushning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:09:46.142514190Z",
+  "model": "glm-5.3"
+}

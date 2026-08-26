@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va sehrgarlar oʻz maxfiy sanʼatlari bilan shunday qildilar va baqalarni Misr yerining ustiga chiqardilar.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "va qildilar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "sehrgarlar"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "oʻz maxfiy sanʼatlari bilan"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "va chiqardilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baqalarni"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "baqalarni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yering"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:38.611419667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Shoh ⟨uni⟩ yechish uchun yubordi, xalqlar hukmdori uni ozod qildi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "va uni yechdi"
+    },
+    {
+      "surface": "משל",
+      "gloss": "hukmdor"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "va uni ozod qildi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:31.510130267Z",
+  "model": "glm-5.3"
+}

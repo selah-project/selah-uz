@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va u yerda toshlar ustiga ⟨את⟩ Moshe Tavotining nusxasini — Yisroil oʻgʻillari oldida yozganini — yozdi.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "yozdi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "toshlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe Tavotining nusxasini"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "nusxasi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tavoti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshening"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "yozgan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroil"
+    }
+  ],
+  "timestamp": "2026-08-26T02:15:50.137849703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "U holda ular Yahvega faryod qiladilar, va ⟨U⟩ ularga javob bermaydi, va ⟨U⟩ oʻsha paytda yuzini ulardan yashiradi, chunki ularning amallarini yomon qildilar.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "U holda"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "faryod qiladilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "javob beradi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularga javob bermaydi"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "va yashiradi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "paytda"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "yomon qildilar"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ularning amallarini"
+    }
+  ],
+  "timestamp": "2026-08-26T05:45:07.526281216Z",
+  "model": "glm-5.3"
+}

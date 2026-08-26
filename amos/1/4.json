@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va men Xaza-el uyiga olov yuboraman va u Ben-Hadad qalʼalarini yutib yuboradi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Va men yuboraman"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Xaza-el"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "va u yutib yuboradi"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "qalʼalarini"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    }
+  ],
+  "timestamp": "2026-08-26T05:39:55.856564590Z",
+  "model": "glm-5.3"
+}

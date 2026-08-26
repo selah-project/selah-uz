@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 150,
+  "translation": "Maqtanglar Yahni, maqtanglar Elni uning muqaddasligida, maqtanglar Uni qudratining gumbazida!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "maqtanglar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahni"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "maqtanglar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elni"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "uning muqaddasligida"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "maqtanglar Uni"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "gumbazida"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "qudratining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:26.877957545Z",
+  "model": "glm-5.3"
+}

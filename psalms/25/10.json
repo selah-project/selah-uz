@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Yahvening barcha yoʻllari — ahdning sodiq muhabbati (xesed) va haqiqat, ahdini va guvohliklarini saqlaganlar uchun.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "yoʻllari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ahdning sodiq muhabbati (xesed)"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "va haqiqat"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "saqlaganlar uchun"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ahdini"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "va guvohliklarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:13.537216390Z",
+  "model": "glm-5.3"
+}

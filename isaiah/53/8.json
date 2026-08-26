@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 53,
+  "translation": "Qattiq qamaldan va hukmdan olindi, va ⟨את⟩ uning avlodini kim eslab oʻtadi? Chunki tirilarning yeridan kesildi — xalqimning isyonidan ularga zarba berildi.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "qattiq qamaldan"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "va hukmdan"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "olindi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning avlodini"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "uning avlodi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "eslab oʻtadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "kesildi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…ning yeridan"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tirilarning"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "…ning isyonidan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqimning"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "zarba"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:32:28.422475455Z",
+  "model": "glm-5.3"
+}

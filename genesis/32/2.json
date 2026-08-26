@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va Yaakov oʻz yoʻliga yurdi va uni Elohim elchilari uchratdi.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "va Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yurdi"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "oʻz yoʻliga"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "va uchratdilar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "elchilari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:58.950057803Z",
+  "model": "glm-5.3"
+}

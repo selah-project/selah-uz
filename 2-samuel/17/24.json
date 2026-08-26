@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Dovud Maxanaymga keldi, va Avshalom ⟨את⟩ Iordan daryosidan oʻtdi, u va butun Isroil erkaklari u bilan birga.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Va Dovud"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Maxanaymga"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "va Avshalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oʻtdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iordan daryosini"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordan daryosi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:15:34.808652781Z",
+  "model": "glm-5.3"
+}

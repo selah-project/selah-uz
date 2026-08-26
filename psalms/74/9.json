@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Belgilarimizni koʻrmadik; endi paygʻambar yoʻq, va ⟨את⟩ bizni biladigan yoʻq — qancha vaqtgacha.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "belgilarimizni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "koʻrmadik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "paygʻambar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "bizni"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biladigan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qancha"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:32.390608360Z",
+  "model": "glm-5.3"
+}

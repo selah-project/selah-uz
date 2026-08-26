@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yahve yubordi ⟨את⟩ Yerubbaalni va ⟨את⟩ Bedanni va ⟨את⟩ Yiftaxni va ⟨את⟩ Shmuelni, va sizlarni qutqardi atrofingizdagi dushmanlaringiz qoʻlidan, va xotirjam yashadingiz.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubbaalni"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaalni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bedanni"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedanni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yiftaxni"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftaxni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shmuelni"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuelni"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "va qutqardi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dushmanlaringizning"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "atrofingizdagi"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "va yashadingiz"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "xotirjam"
+    }
+  ],
+  "timestamp": "2026-08-26T02:47:24.933551578Z",
+  "model": "glm-5.3"
+}

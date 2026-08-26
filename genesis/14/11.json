@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va ular Sedom va Amoraning ⟨את⟩ butun mol-mulkini va ⟨את⟩ ularning butun ozuqasini oldi va ketdi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "va oldilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun mol-mulk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "mol-mulk"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "va Amora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "butun ozuqa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ozuqa"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "va ketdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:12.778238649Z",
+  "model": "glm-5.3"
+}

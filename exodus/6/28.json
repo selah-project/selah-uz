@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va sodir boʻldi: kuni Yahve Misr yerida Moshega gapirganda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va sodir boʻldi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirganda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshega"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:19.497535438Z",
+  "model": "glm-5.3"
+}

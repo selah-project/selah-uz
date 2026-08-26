@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Koʻrdilar ⟨the⟩ yurishlaringni, Elohim, Elimgina — Menga yurishlar, Mening Qirolim, muqaddaslikda.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Koʻrdilar"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "yurishlaringni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "yurishlar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Qirolim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "muqaddaslikda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:44.836880971Z",
+  "model": "glm-5.3"
+}

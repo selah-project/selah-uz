@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Nitton paygʻambar unga kelganida, u Bat-Shevaga kirgan chogʻida.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "kelganida"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Nitton"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "paygʻambar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "chogʻida"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kirgan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:47.798667918Z",
+  "model": "glm-5.3"
+}

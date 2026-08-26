@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 8:16",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Ulay boʻgʻozlari oraligʻida odam ovozi eshitdim, va u nido qildi va aytdi: «Gavriel! Ana shunga ⟨את⟩ koʻrinishni tushuntir.»",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Va eshitdim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "בין",
+      "gloss": "oraligʻida"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "Ulay (daryosi)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va u nido qildi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "גבריאל",
+      "gloss": "Gavriel"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "tushuntir"
+    },
+    {
+      "surface": "להלז",
+      "gloss": "ana shunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʻrinishni"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "koʻrinish"
+    }
+  ],
+  "timestamp": "2026-08-26T07:33:49.025525424Z",
+  "model": "glm-5.3"
+}

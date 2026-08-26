@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 42:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Men Yahve, seni sedaqlik bilan chaqirdim va qoʻlingdan ushlayman, seni saqlayman va seni xalq ahdiga, millatlar yorugʻligʻiga beraman.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "seni chaqirdim"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sedaqlik bilan"
+    },
+    {
+      "surface": "ואחזק",
+      "gloss": "va ushlayman"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "qoʻlingdan"
+    },
+    {
+      "surface": "ואצרך",
+      "gloss": "va seni saqlayman"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "va seni beraman"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "ahdga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "yorugʻligʻiga"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millatlar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:09.867043285Z",
+  "model": "glm-5.3"
+}

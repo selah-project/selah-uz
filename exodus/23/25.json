@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va siz Yahve, Elohimlaringizga xizmat qilasizlar, va ⟨u⟩ noningizni va suvlaringizni barakalaydi, va men hastalikni ichkarangizdan olib tashlayman.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "xizmat qilasizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimlaringiz"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "va barakalaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noningizni"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "noningizni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "suvlaringizni"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "suvlaringizni"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "va olib tashlayman"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "hastalikni"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "ichkarangizdan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:38.148799944Z",
+  "model": "glm-5.3"
+}

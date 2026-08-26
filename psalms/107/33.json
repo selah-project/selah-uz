@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Daryolarni choʻlga aylantiradi va suv buloqlarini qurgʻoqchilikka.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "aylantiradi (qoʻyadi)"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "daryolarni"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "choʻlga"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "va buloqlarini"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "qurgʻoqchilikka"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:07.214016667Z",
+  "model": "glm-5.3"
+}

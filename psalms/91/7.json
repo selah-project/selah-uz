@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Yoningda ming tushadi, oʻng tomoningda oʻn ming — senga yaqin kelmaydi.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "tushadi"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "yoningda"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "oʻn ming"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "oʻng tomoningda"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "yaqin kelmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:33.859163166Z",
+  "model": "glm-5.3"
+}

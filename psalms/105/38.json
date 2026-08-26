@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Misr ularning chiqishlaridan xursand boʻldi, chunki ularning qoʻrquvi ustlariga tushdi.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "xursand boʻldi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ularning chiqishlaridan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ularning qoʻrquvi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ustlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:08.198732893Z",
+  "model": "glm-5.3"
+}

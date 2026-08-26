@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 142,
+  "translation": "Quloq sol menga — shivqatimga, chunki juda zaif boʻldim; qutqar meni taʼqib qiluvchilarimdan, chunki ular mendan kuchliroq boʻldi.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "quloq sol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "manga —"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "shivqatim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "zaif boʻldim"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "qutqar meni"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "taʼqib qiluvchilarim(dan)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "kuchliroq boʻldi(ular)"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "menda(n)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:38.834533625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 52,
+  "translation": "Yutib yuboruvchi har bir soʻzni sevsan, aldovchi til!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "sevsan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzni"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "yutib yuboruvchi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "til"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aldovchi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:41.557104060Z",
+  "model": "glm-5.3"
+}

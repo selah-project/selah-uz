@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Menga quloq soling, xalqim, va millatim, menga eshiting; chunki Tora mendan ⟨את⟩ chiqadi va mening hukmim xalqlar uchun nur — uni tez barpo etaman.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "quloq soling"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqim"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "va millatim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "eshiting"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "mendan ⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "chiqadi"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "va mening hukmim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "nur sifatida"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "tez barpo etaman"
+    }
+  ],
+  "timestamp": "2026-08-26T08:36:25.027149259Z",
+  "model": "glm-5.3"
+}

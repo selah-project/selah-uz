@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va shohning qiladigan farmoni butun podshohligida eshitilsin — chunki u buyukdir — va barcha ayollar, kattadan kichikka qadar, erlariga hurmat bersinlar.",
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "Va eshitilsin"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "farmoni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shohning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qiladigan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "podshohligida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "buyukdir"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ayollar"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "bersinlar"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "hurmat"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "erlariga"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "kattadan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "qadar"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kichikka"
+    }
+  ],
+  "timestamp": "2026-08-26T07:24:06.180529137Z",
+  "model": "glm-5.3"
+}

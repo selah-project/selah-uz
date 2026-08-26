@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 2:10",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Zero, Kitim orollariga oʻtib boring va koʻring, va Qedarga yuboring; juda ham oʻylab koʻring va koʻring — mana, bunga oʻxshash boʻlganmiki?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "zero"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "oʻtib boring"
+    },
+    {
+      "surface": "איי",
+      "gloss": "orollari"
+    },
+    {
+      "surface": "כתיים",
+      "gloss": "Kitim"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "va koʻring"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "va Qedarga"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "yuboring"
+    },
+    {
+      "surface": "והתבוננו",
+      "gloss": "va oʻylab koʻring"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "va koʻring"
+    },
+    {
+      "surface": "הן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "boʻlganmiki"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "bunaqa"
+    }
+  ],
+  "timestamp": "2026-08-26T04:35:57.832621347Z",
+  "model": "glm-5.3"
+}

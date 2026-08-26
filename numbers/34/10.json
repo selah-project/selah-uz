@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va sizlar oʻzingiz uchun sharq tomon chegara ⟨belgilaysizlar⟩, Xatsar-Enandan Shephamgacha.",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "Va ... belgilaysizlar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "oʻzingiz uchun"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "chegara"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sharq tomon"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "Xatsar-Enandan"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "(Enan)"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "Shephamgacha"
+    }
+  ],
+  "timestamp": "2026-08-26T01:45:40.319186951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "va ⟨את⟩ arvadiylik, va ⟨את⟩ tsemariylik, va ⟨את⟩ xamatiylik; keyin esa kenaniylarning urugʻlari tarqab ketdi",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "arvadiylik"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "arvadiylik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tsemariylik"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "tsemariylik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "xamatiylik"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "xamatiylik"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "tarqab ketdi"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "urugʻlari"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaniylarning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:08.845283854Z",
+  "model": "glm-5.3"
+}

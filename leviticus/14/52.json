@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va u ⟨את⟩ uyni qushning qoni bilan va tirik suv bilan va tirik qush bilan va sedar yogʻochi bilan va zufa bilan va qizil boʻyovchi tol bilan tozalaydi.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "tozalaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyni"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "qoni bilan"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "qush"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "va suv bilan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tirik"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "va qush bilan"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "tirik"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "va yogʻoch bilan"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "sedar"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "va zufa bilan"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "va qizil boʻyovchi bilan"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "qurt (tol)"
+    }
+  ],
+  "timestamp": "2026-08-26T01:15:42.072682228Z",
+  "model": "glm-5.3"
+}

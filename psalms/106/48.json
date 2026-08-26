@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Barakotli ⟨boʻlsin⟩ Yahve, Yisroilning Elohimi, abaddan abadgacha; va butun xalq ⟨u⟩ desin: Omin. Haliluya!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barakotli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroilning"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "abaddan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "abadgacha"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "va desin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Omin"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Maqtang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:41.452178600Z",
+  "model": "glm-5.3"
+}

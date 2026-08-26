@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Kumushini foizga bermagan, va pokiza odamga pora olmagan — bularni qilgan ⟨odam⟩ abadiy barqaror turadi.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "kumushini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bergan"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "foizga"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "va pora"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "pokiza odam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "olgan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bularni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "qimirlaydi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:59.750999797Z",
+  "model": "glm-5.3"
+}

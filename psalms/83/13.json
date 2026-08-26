@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Ular dedilar: „Elohimning ⟨את⟩ yaylovlarini egallab olamiz biz uchun.“",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ular ki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dedilar"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "egallab olamiz"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biz uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaylovlarini"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "yaylovlar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:34.134277564Z",
+  "model": "glm-5.3"
+}

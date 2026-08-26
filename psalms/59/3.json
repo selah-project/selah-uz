@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Meni yovillik qiluvchilardan qutqar va qon odamlaridan meni najotkor et.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "meni qutqar"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "qiluvchilardan"
+    },
+    {
+      "surface": "און",
+      "gloss": "yovillik"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "va ... odamlaridan"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qon"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "meni najotkor et"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:18.210612019Z",
+  "model": "glm-5.3"
+}

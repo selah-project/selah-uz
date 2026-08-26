@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va agar qurbonliging machavat ustida ⟨⟩ mincha boʻlsa — solet moy bilan aralashtirilgan matsa boʻlur.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "machavat"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "qurbonliging"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "solet"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "aralashtirilgan"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "moy bilan"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "matsa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻlur"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:18.794427402Z",
+  "model": "glm-5.3"
+}

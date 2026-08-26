@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Ishing bandalaringga zohir boʻlsin, va ulugʻvorligʻing ularning oʻgʻillariga ⟨tushsin⟩.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "zohir boʻlsin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bandalaring"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ishing"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "va ulugʻvorligʻing"
+    },
+    {
+      "surface": "על",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ularning oʻgʻillariga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:33.480464115Z",
+  "model": "glm-5.3"
+}

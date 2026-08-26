@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Yitro, Midyan kohini, Moshening qaynotasi, Elohimning Moshega va oʻz xalqi Isroilga qilgan barcha ishlarini — Yahve Isroilni Misrdan chiqargani uchun — eshitdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohini"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyan"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "qaynotasi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshening"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha ishlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsalarni ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshega"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "va Isroilga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻz xalqi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "chiqargan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:04.283802246Z",
+  "model": "glm-5.3"
+}

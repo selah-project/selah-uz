@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Paroh xizmatkorlariga gʻazablandi va meni qassoblar sarining uyida qamoqqa berdi — meni va nonvoylar sarini.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "gʻazablandi"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xizmatkorlariga"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "qamoqqa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sarining"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "qassoblar"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "nonvoylar sarini"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sarini"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "nonvoylar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:57.121424253Z",
+  "model": "glm-5.3"
+}

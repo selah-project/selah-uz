@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va ular ahdtga kirdilar — otalari Elohimi Yahveni ⟨את⟩ butun qalblari va butun nefeshlari bilan izlash uchun.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Va ular kirdilar"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "ahdtga"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "izlash uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "otalari"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "qalblari"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefeshlari"
+    }
+  ],
+  "timestamp": "2026-08-26T08:09:00.495551103Z",
+  "model": "glm-5.3"
+}

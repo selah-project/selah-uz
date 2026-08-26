@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 132,
+  "translation": "Tur, ey Yahve, dam olish joyingga — Sen va qudrating sandig'i.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "dam olish joyingga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "va ... sandig'i"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "qudrating"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:36.386788851Z",
+  "model": "glm-5.3"
+}

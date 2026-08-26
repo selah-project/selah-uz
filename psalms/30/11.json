@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Eshit, Yahve, va menga rahm qil; Yahve, menga yordamchi boʻl.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Eshit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "va menga rahm qil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻl"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yordamchi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:01.742210205Z",
+  "model": "glm-5.3"
+}

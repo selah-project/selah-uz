@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "va ⟨ularning⟩ yurtini meros ⟨sifatida⟩ berdi — meros sifatida Isroilga, ⟨Uning⟩ xalqiga.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "yurtini"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "meros ⟨sifatida⟩"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "meros sifatida"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isroilga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨Uning⟩ xalqiga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:02.571872013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va levililarga ham endi ⟨את⟩ tabernakelni va ⟨את⟩ uning barcha asboblarini uning xizmati uchun koʻtarish ⟨toʻgʻri emas⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "va ... ham"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levililarga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨toʻgʻri emas⟩"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "koʻtarish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabernakelni"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tabernakel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning barcha asboblarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uning asboblari"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "uning xizmati uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:01:34.493914071Z",
+  "model": "glm-5.3"
+}

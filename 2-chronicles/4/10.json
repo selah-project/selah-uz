@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va ⟨את⟩ dengizni oʻng yelka tomonidan, sharq tomonda, janub roʻparasida qoʻydi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dengiz"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "yelka tomonidan"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "oʻng"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sharq tomonda"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "roʻparasida"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "janub"
+    }
+  ],
+  "timestamp": "2026-08-26T08:05:47.666596981Z",
+  "model": "glm-5.3"
+}

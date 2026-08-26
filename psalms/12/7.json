@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Yahvening soʻzlari — pok soʻzlardir: yer usti pechida qayta ishlangan kumushdek, yetti marta tozalangan.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "soʻzlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "soʻzlar"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "pok"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumushdek"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "qayta ishlangan"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "pechida"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yer usti"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "tozalangan"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "yetti marta"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:20.121365516Z",
+  "model": "glm-5.3"
+}

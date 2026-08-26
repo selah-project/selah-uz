@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va qirol Dovid ⟨את⟩ bu soʻzlarning barchasini eshitdi va unga juda gʻazablandi.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Va qirol"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovid"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu soʻzlarning barchasini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasini"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarning"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "gʻazablandi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    }
+  ],
+  "timestamp": "2026-08-26T03:10:44.326510934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va boʻldi ikki yil kunlarining oxirida, va Paroh tush koʻrdi, va mana u daryo boʻyida turardi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "oxirida"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "ikki yil"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlar"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "va Paroh"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "tush koʻrdi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "turardi"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻyida"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "daryo"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:45.494896558Z",
+  "model": "glm-5.3"
+}

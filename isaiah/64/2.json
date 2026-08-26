@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 64,
+  "translation": "Sen dahshatli ishlarni qilganda — biz kutmagan narsalarni — Sen pastga tushingding, Toning oldidan togʻlar larzaga keldi.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "Sen qilganda"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "dahshatli ishlarni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "biz kutmagan"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "pastga tushingding"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "Toning oldidan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "larzaga keldi"
+    }
+  ],
+  "timestamp": "2026-08-26T09:04:50.529367398Z",
+  "model": "glm-5.3"
+}

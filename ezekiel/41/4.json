@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 41:4",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va u ⟨את⟩ uning uzunligini oʻlchadi — yigirma tirsak, va kengligi — yigirma tirsak, heykalning yuz tomonida; va u menga aytdi: bu — muqaddaslarning muqaddasi.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "va oʻlchadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning uzunligini"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uning uzunligini"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirma"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "va kengligi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirma"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomonida"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heykalning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "muqaddaslarning (muqaddasi)"
+    }
+  ],
+  "timestamp": "2026-08-26T05:30:31.298011688Z",
+  "model": "glm-5.3"
+}

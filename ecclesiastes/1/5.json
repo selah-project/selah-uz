@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va quyosh chiqadi, va quyosh botadi, va oʻz oʻrniga talbinib shoshiladi — chiqqan joyi u yerdadir.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "va chiqadi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "va botadi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... tomon"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "oʻz oʻrniga"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "talbinib shoshiladi"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "chiqadi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oʻsha yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:49:09.799401403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 95,
+  "translation": "Shuning uchun gʻazabim ichida qasam ichdimki: „Ular Mening istirohatimga kirmasinlar!“",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "qasam ichdim"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "gʻazabim ichida"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kirmasinlar (qasam shakli)"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "kirsalar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "Mening istirohatim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:33.841760841Z",
+  "model": "glm-5.3"
+}

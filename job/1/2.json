@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va unga yetti oʻgʻil va uch qiz tugʻildi.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "va tugʻildi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "va uch"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:53:37.680406437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Gunohkorlar bilan nefeshimni yigʻib olma, va qon odamlari bilan hayotimni ⟨yigʻib olma⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "yigʻib"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "gunohkorlar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshimni"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "va … bilan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "odamlari"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qon"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hayotimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:05.050833088Z",
+  "model": "glm-5.3"
+}

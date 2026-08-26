@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Unga qo'shiq aytinglar, Unga chalib madh ayinglar, butun mo'jizalari haqida gapiringlar.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "qo'shiq ayitinglar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chalib madh ayinglar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "gapiringlar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "mo'jizalari haqida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:42.073560726Z",
+  "model": "glm-5.3"
+}

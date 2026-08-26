@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Avlod — otasini kamsitadi, ⟨את⟩ onasini barakalamaydi.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasini"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "kamsitadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "onasini"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "onasini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barakalamaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:51:59.502510672Z",
+  "model": "glm-5.3"
+}

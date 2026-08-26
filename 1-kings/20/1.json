@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 20:1",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Ben-Hadad, Aram shohi, butun qoʻshinini yigʻdi, va un bilan oʻttiz ikki shoh, va otd va jangovar aravalar; u koʻtarilib, Shomronga qarshi qamal qildi va unga qarshi urushdi.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "yigʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun qoʻshinini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "qoʻshinini"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "va oʻttiz"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bilan"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "va otd"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "jangovar aravalar"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "koʻtarilib"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "qamal qildi"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "urushdi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unga qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:43:40.456775070Z",
+  "model": "glm-5.3"
+}

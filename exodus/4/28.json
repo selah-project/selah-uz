@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Moshe Aharonga bayon qildi ⟨את⟩ Yahvening uni yuborgan barcha soʻzlarini va ⟨את⟩ uni buyurgan barcha belgilarni.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bayon qildi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha soʻzlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "yuborgan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha belgilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "belgilar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "buyurgan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:02.587013997Z",
+  "model": "glm-5.3"
+}

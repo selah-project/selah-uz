@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Miygina bu senga oʻzingdan kelmadimi — Yahve, Elohimingni tark qilganingdan, U seni ⟨the⟩ yoʻlda boshlayotgan paytda?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "miygina"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "keladi (oʻzingdan)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "tark qilganingdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "paytda"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "seni boshlayotgan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    }
+  ],
+  "timestamp": "2026-08-26T04:36:52.225191233Z",
+  "model": "glm-5.3"
+}

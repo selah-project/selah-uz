@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 62,
+  "translation": "Faqat U — qoyam va najotim, baland panohim; koʻp miltillamayman.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Faqat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "qoyam"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "va najotim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "baland panohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "miltillamayman"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "koʻp"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:09.793500532Z",
+  "model": "glm-5.3"
+}

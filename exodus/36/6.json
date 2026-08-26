@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 36:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Va Moshe buyruq berdi, va lager boʻylab ovoz yoydilar, deb: «Har bir erkak va ayol muqaddas hadya uchun boshqa ish qilmasin» — va xalq keltirishdan tiyildi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "va u buyruq berdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויעבירו",
+      "gloss": "va ular yoydilar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "lager boʻylab"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har bir erkak"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "va ayol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…masin"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "qilsinlar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "לתרומת",
+      "gloss": "hadya uchun"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "va tiyildi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "מהביא",
+      "gloss": "keltirishdan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:43.096855812Z",
+  "model": "glm-5.3"
+}

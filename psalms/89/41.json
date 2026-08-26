@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Sen uning barcha toʻsiqlarini yorib tashlading, uning qalʼalarini xarobaga aylantirding.",
+  "tokens": [
+    {
+      "surface": "פרצת",
+      "gloss": "yorib tashlading"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "גדרתיו",
+      "gloss": "uning toʻsiqlarini"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "qilding"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "uning qalʼalarini"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "xarobaga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:08.210556308Z",
+  "model": "glm-5.3"
+}

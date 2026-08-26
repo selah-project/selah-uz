@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va oʻz saroylari va qahramonlari bilan maslahatlashdi shahar tashqarisidagi buloqlarning suvlarini ⟨את⟩ toʻsish uchun, va ular unga yordam berishdi.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "Va maslahatlashdi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "saroylari"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "va qahramonlari"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "toʻsish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suvlarni"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "suvlarini"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "buloqlarning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqarisida"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "va unga yordam berishdi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:15:10.504145107Z",
+  "model": "glm-5.3"
+}

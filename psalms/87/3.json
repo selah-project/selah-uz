@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 87,
+  "translation": "Shon-shararli narsalar sening haqingda aytiladi, Elohim shahri. Sela.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "shon-shararli narsalar"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "aytiladi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sening haqingda"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahri"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:52.042595415Z",
+  "model": "glm-5.3"
+}

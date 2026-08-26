@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Ahab Isroil oʻgʻillarining barchasiga yubordi va paygʻambarlarni ⟨את⟩ Karmel togʻiga yigʻdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "va yubordi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barchasiga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "va yigʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paygʻambarlar"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "paygʻambarlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-08-26T03:41:40.780312678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Elohim bola ⟨את⟩ bilan edi, va u oʻsdi va choʻlda yashab qoldi va ⟨u⟩ kamonchilikda koʻpayib bordi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "bola bilan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bola"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "va u oʻsdi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va yashab qoldi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "koʻpayib bordi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kamonchilik"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:12.759169906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Iydal va xijolat boʻlsinlar nefeshimni qidiruvchilar; orqaga chekinsinlar va uyalsinlar yomonligimni moʻljalovchilar.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "iydalsinlar"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "va xijolat boʻlsinlar"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "qidiruvchilar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshimni"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "chekinsinlar"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "orqaga"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "va uyalsinlar"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "moʻljalovchilar"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "yomonligimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:18.211412325Z",
+  "model": "glm-5.3"
+}

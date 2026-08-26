@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Men seni barakalaganlarni barakalayman, va seni soʻkkan odamni laʼnatlayman, va senda barakotlandilar tuproqning barcha oilalari.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Va barakalayman"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "seni barakalovchilarni"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "va seni soʻkuvchini"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "laʼnatlayman"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "va barakotlandilar"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "oilalari"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproqning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:10.393906233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va agar odam ⟨את⟩ akasining xotinini olsa — ifloslikdir u; uyatini akasining ochdi; farzandsiz boʻlurlar.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Va agar odam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "olsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akasining xotinini"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "xotinini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "akasining"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "ifloslikdir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "uyatini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "akasining"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ochdi"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "farzandsiz"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "boʻlurlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:21:10.090563068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "U o'z buyrug'ini yerga yuboradi, o'z so'zi tez yuguradi.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "yuboradi"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "o'z buyrug'ini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "tez"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "yuguradi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "o'z so'zi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:46.667050499Z",
+  "model": "glm-5.3"
+}

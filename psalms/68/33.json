@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Yer podshohliklari, Elohimga kuylanglar, Adonayga chalinglar — Sela.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "podshohliklari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Yer"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "kuylanglar"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimga"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chalinglar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:22.268457899Z",
+  "model": "glm-5.3"
+}

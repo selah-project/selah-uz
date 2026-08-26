@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 19:17",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "U koʻzlarini koʻtarib, ⟨את⟩ mehmon odamni shaharning maydonida koʻrdi, va qari odam aytdi: „Qaytomon borasiz va qaydan kelasiz?“",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "koʻtarib"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "koʻzlarini"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehmon odamni"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "הארח",
+      "gloss": "mehmon"
+    },
+    {
+      "surface": "ברחב",
+      "gloss": "maydonida"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "qari"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "qaytomon"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "borasiz"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "va qaydan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kelasiz"
+    }
+  ],
+  "timestamp": "2026-08-26T02:36:07.941543576Z",
+  "model": "glm-5.3"
+}

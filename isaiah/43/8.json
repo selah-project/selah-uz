@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Chiqar ⟨⟨xalqni⟩⟩ — koʻr, lekin koʻzlari bor, kar, lekin quloqlari bor.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "chiqar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "עור",
+      "gloss": "koʻr"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "va koʻzlari"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "va kar"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "va quloqlari"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:15.334969296Z",
+  "model": "glm-5.3"
+}

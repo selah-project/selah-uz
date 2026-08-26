@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va misdan ellikta ilgak yasaysan, va ilgaklarni halqalar ichiga kiritasan, va chodirni qoʻshasan, va ⟨u⟩ bitta boʻladi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "va yasaysan"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "ilgaklar"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "misdan"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ellikta"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "va kiritasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilgaklar"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "ilgaklar"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "halqalar ichiga"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "va qoʻshasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chodir"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻladi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:32.072301546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Tilini yomonlikdan saqla va lablarini aldovdan gapirishdan ⟨saqla⟩.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "saqla"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "tilini"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "yomonlikdan"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "va lablarini"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gapirishdan"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aldovdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:02.028226578Z",
+  "model": "glm-5.3"
+}

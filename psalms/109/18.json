@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "U laqani kiyimi kabi kiyib oldi va u uning ichiga suv singani kich kirdi va moy singani kich suyaklariga kirdi.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "kiyib oldi"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "laqani"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "kiyimi kabi"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "u kirdi"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "suv singani kich"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "uning ichiga"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "va moy singani kich"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "uning suyaklariga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:05.494713602Z",
+  "model": "glm-5.3"
+}

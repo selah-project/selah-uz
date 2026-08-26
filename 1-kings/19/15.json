@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va dedi Yahve unga: bor, qayt yoʻlingga choʻl tomon Damashqqa, va kirsan va moylaysan ⟨את⟩ Xazaelni Aram ustidan podshoh qilib.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bor"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "qayt"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "yoʻlingga"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "choʻl tomon"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damashq"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "va kirsan"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "va moylaysan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xazaelni"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Xazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "podshoh qilib"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-26T03:42:48.780865520Z",
+  "model": "glm-5.3"
+}

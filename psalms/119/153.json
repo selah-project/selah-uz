@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Koʻr menga tajangligimni va qutqar meni, chunki Tavratingni unutganim yoʻq.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Koʻr"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "tajangligimni"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "va qutqar meni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tavratingni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutganim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:18.646392450Z",
+  "model": "glm-5.3"
+}

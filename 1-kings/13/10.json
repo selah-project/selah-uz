@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va boshqa yoʻl bilan ketdi, va qaytmadi yoʻl bilan, undan Bet-Elga keldi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "va ketdi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻl bilan"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytmadi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻl bilan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "undan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-26T03:35:21.248407764Z",
+  "model": "glm-5.3"
+}

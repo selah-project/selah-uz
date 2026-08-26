@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Va deydilar: Qanday qilib biladi El? Va Elyonda bilim ⟨bormi⟩?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "va deydilar"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "qanday qilib"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "va ⟨bormi⟩"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "bilim"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "Elyonda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:40.481321860Z",
+  "model": "glm-5.3"
+}

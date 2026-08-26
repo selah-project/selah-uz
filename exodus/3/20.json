@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va qoʻlni choʻzaman va Misrni ⟨את⟩ barcha moʻjizalarim bilan uraman — ularning ichida qiladiganlarim bilan — va shundan keyin u sizlarni joʻnatadi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "va choʻzaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻlni"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻlimni"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "va uraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "moʻjizalarim bilan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ki"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "qilaman"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "uning ichida"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "va keyin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shundan"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "joʻnatadi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:24.226296928Z",
+  "model": "glm-5.3"
+}

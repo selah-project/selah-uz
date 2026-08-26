@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Yoʻlboshchiga, Yedutun boʻyicha, Asafga — mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Yoʻlboshchiga"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻyicha"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutun"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafga"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:45.264072161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Chunki Sen katta San va gʻaroyib ishlar qiluvchi San — Sen yolgʻiz Elohim San.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "katta"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "va qiluvchi"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "gʻaroyib ishlar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yolgʻiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:27.147233004Z",
+  "model": "glm-5.3"
+}

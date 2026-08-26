@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 114,
+  "translation": "Togʻlar takallu qildi, qoʻchqorlar kabi; tepaliklar — qoʻy bolalari kabi.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "raqs qildi \/ sakradi"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "qoʻchqorlar kabi"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "tepaliklar"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "...bolalari kabi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "qoʻy podasi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:38.744464645Z",
+  "model": "glm-5.3"
+}

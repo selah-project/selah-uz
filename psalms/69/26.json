@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Qasrlari vayron boʻlgay, chodirlarida hech turmagan turmagay.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "boʻlgay"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "qasrlari"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "vayron"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "chodirlarida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hech…-magay"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "turmagay"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "turmagan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:11.404060567Z",
+  "model": "glm-5.3"
+}

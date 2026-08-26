@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Yahve xalqlarni sudlaydi: meni suda, Yahve, mening solihligimga va menda ⟨bor⟩ pokligimga koʻra.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sudlaydi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "meni suda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "mening solihligimga koʻra"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "va mening pokligimga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:10.048362836Z",
+  "model": "glm-5.3"
+}

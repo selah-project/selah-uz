@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yarov'am Efrayim tog'ida ⟨את⟩ Shekemni qurdi va u yerda yashadi; u yerdan chiqib, ⟨את⟩ Penuelni qurdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "va qurdi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarov'am"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekemni"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekemni"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "tog'ida"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va yashadi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "va chiqib"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "va qurdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuelni"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuelni"
+    }
+  ],
+  "timestamp": "2026-08-26T03:37:20.264693803Z",
+  "model": "glm-5.3"
+}

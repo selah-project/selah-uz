@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 23:8",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va ⟨את⟩ ularga muloqot qilib dedi: Agar bor ⟨את⟩ jonlaringizda — ⟨את⟩ oʻlganimni yuzimdan dafn qilishga — meni tinglang va Efronga, Tsoxar oʻgʻliga, mening nomimdan aralashinglar.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Va muloqot qilib"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularga (bilan)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jonlaringizda"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "jonlaringiz"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "dafn qilishga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻlganimni"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "oʻlganimni"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yuzimdan"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "meni tinglang"
+    },
+    {
+      "surface": "ופגעו",
+      "gloss": "va aralashinglar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "בעפרון",
+      "gloss": "Efronga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Tsoxar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:37:16.025059463Z",
+  "model": "glm-5.3"
+}

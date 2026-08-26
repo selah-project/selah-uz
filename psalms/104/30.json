@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Ruhingni yuborsang — ular yaratiladilar, va yer yuzini yangilaysan.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "yuborsang"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruhingni"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "yaratiladilar"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "va yangilaysan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:27.034202647Z",
+  "model": "glm-5.3"
+}

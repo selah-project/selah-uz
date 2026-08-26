@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Yehuda xonadonidan qochib qutulgan, qolgan qismi ortadi: ildiz pastga va meva yuqoriga beradi.",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "ortadi"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "qochib qutulgan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xonadonidan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "qolgan qismi"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "ildiz"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "pastga"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "va beradi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meva"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "yuqoriga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:01:47.036341032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 2:7",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Satan Yahve yuzidan ⟨את⟩ chiqdi, va Iyovni ⟨את⟩ yomon shishdan urgʻan — oyogʻi kaftidan bosh tojigacha.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "va chiqdi"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ dan",
+      "marks": "Yahve yuzidan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "va urgʻan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyovni"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyovni"
+    },
+    {
+      "surface": "בשחין",
+      "gloss": "shishdan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kaftidan"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "oyogʻi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "bosh tojigacha"
+    }
+  ],
+  "timestamp": "2026-08-26T06:53:34.245254285Z",
+  "model": "glm-5.3"
+}

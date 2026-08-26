@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "va Mitsrayim ⟨את⟩ Ludiyliklarni, ⟨את⟩ Anamiylarni, ⟨את⟩ Leabiyliklarni va ⟨את⟩ Naftuxiylarni dunyaga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ludiyliklarni"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "Ludiyliklar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Anamiylarni"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "Anamiylar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Leabiyliklarni"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "Leabiyliklar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Naftuxiylarni"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "Naftuxiylar"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:33.965768086Z",
+  "model": "glm-5.3"
+}

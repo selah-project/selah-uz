@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 56,
+  "translation": "Oʻsha kunda — men chaqirganim kunda — dushmanlarim orqaga qaytadir; buni bilaman, chunki Elohim ⟨men⟩ ⟨uchun⟩.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "oʻsha kunda"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "qaytadir"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "orqaga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kundа — men chaqirganim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "chaqirganim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "buni"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨men⟩ ⟨uchun⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:47.769784495Z",
+  "model": "glm-5.3"
+}

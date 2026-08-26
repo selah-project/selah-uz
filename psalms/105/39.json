@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Bulutni yoydi --soyabon uchun-- va olovni --tunda yorugʻlik berish uchun--.",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "yoydi"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "bulut"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "soyabon uchun"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "va olov"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "yoritish uchun"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:08.198883167Z",
+  "model": "glm-5.3"
+}

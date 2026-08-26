@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "U hayvonlarga ozigʻini beradi, chaqirgan qargʻalar bolalariga ham.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "beradi"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "hayvonlarga"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ozigʻini"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bolalariga"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "qargʻalar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "chaqirgan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:20.705648707Z",
+  "model": "glm-5.3"
+}

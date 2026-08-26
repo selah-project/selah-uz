@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 11:9",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va ⟨ular⟩ kelgan elchilarga aydilar: «Shunday deyinglar Yavesh Gileod kishilariga: ertaga, quyosh issiqligida sizlarga najot boʻladi». Va elchilar kelib, Yavesh kishilariga xabar berdilar va ular quvondilar.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "aydilar"
+    },
+    {
+      "surface": "למלאכים",
+      "gloss": "elchilarga"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "kelgan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "deyinglar"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kishisiga"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileod"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ertaga"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "najot"
+    },
+    {
+      "surface": "בחם",
+      "gloss": "issiqligida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "keldilar"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "elchilar"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "xabar berdilar"
+    },
+    {
+      "surface": "לאנשי",
+      "gloss": "kishilariga"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "quvondilar"
+    }
+  ],
+  "timestamp": "2026-08-26T02:47:24.634663219Z",
+  "model": "glm-5.3"
+}

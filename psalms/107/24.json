@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Ular Yahvening ishlarini va uning moʻjizalarini chuqurlikda koʻrdilar.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "koʻrdilar"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ishlarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "va uning moʻjizalarini"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "chuqurlikda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:26.597350851Z",
+  "model": "glm-5.3"
+}

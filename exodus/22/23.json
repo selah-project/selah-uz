@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Gʻazabim alangalanadi va sizlarni qilich bilan oʻldiraman, va xotinlaringiz bevalarga, oʻgʻillaringiz yetimlarga aylanadi.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "alangalanadi"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "Gʻazabim (burnim)"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "va oʻldiraman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qilich bilan"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "va aylanadi"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "xotinlaringiz"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "bevalarga"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "va oʻgʻillaringiz"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "yetimlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:28.139038775Z",
+  "model": "glm-5.3"
+}

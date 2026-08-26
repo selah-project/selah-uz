@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Agar Menga quloq solmasangiz va barcha shu buyruqlarni ⟨את⟩ bajarmasangiz —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...mas"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "quloq solmasangiz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ...mas"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bajarmasangiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha shu buyruqlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "buyruqlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:39.492372979Z",
+  "model": "glm-5.3"
+}

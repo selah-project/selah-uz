@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Dovud eshitdi va ⟨את⟩ Yoavni va ⟨את⟩ butun qahramonlar qoʻshinini yubordi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoavni"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "butun qahramonlar qoʻshinini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "qoʻshin"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "qahramonlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:00:07.569990943Z",
+  "model": "glm-5.3"
+}

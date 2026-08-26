@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Va dedim: albatta zulmat meni yutadi — ammo tunda ham yorugʻlik ⟨mening atrofimda⟩",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "va dedim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "albatta"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "zulmat"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "meni yutadi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ammo tunda ham"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yorugʻlik"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "⟨mening atrofimda⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:11.572120416Z",
+  "model": "glm-5.3"
+}

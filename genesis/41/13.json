@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va ‹u› ‹qanday› ‹tarjima qilgani› ‹bizga› ‹sodir boʻlganidek› — ‹meni› ⟨את⟩ ‹oʻz oʻrnimga› qaytardi va ‹uni› ⟨את⟩ osdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "qanday"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "tarjima qildi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "qaytardi"
+    },
+    {
+      "surface": "על",
+      "gloss": " ustiga"
+    },
+    {
+      "surface": "כני",
+      "gloss": "oʻrnimga"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "osdi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:24.652944234Z",
+  "model": "glm-5.3"
+}

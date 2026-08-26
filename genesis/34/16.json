@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va qizlarimizni sizga beramiz va qizlaringizni bizga olamiz, va sizlar bilan yashaymiz va bitta el boʻlamiz.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "va beramiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qizlarimiz"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "qizlarimizni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "qizlaringiz"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "qizlaringizni"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "olamiz"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "va yashaymiz"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlar bilan"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "va boʻlamiz"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "elga"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:11.731223043Z",
+  "model": "glm-5.3"
+}

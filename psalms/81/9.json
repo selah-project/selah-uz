@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Eshtit, ey xalqim, va men senga guvohlik beraman; ey Yisroel, agar menga quloq tutishing ⟨mumkin⟩!",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Eshtit"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ey xalqim"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "va men guvohlik beraman"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ey Yisroel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "quloq tutishing"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:47.463299352Z",
+  "model": "glm-5.3"
+}

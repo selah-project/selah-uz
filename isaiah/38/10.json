@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Men dedim: kunlarimning tanaffusida Sheol darvozalariga boraman; yillarimning qoldigʻini sanadim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "tanaffusida"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlarimning"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "boraman"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "darvozalariga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "sanadim"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "qoldigʻini"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "yillarimning"
+    }
+  ],
+  "timestamp": "2026-08-26T04:23:24.566313220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Men esa deyarli oyogʻim sirgʻib ketdi, qadamlarim ⟨deyarli⟩ ochildi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men esa"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "deyarli"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "sirgʻib ketdi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "oyogʻim"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "deyarli ⟨yoʻq edi⟩"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ochildi"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "qadamlarim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:22.699432791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va Yahve Iyobning surgunini qaytardi — u oʻz doʻsti uchun ibodat qilganda — va Yahve Iyobniki boʻlgan hamma narsani ikki barobar qoʻshdi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Va Yahve"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surgunini"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "surgunini"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobning"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "u ibodat qilganda"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oʻz doʻsti"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "va qoʻshdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamma narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…niki"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "ikkki barobar"
+    }
+  ],
+  "timestamp": "2026-08-26T07:11:45.972206073Z",
+  "model": "glm-5.3"
+}

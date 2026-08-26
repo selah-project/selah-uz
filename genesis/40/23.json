@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va ichimliklar beruvchilar sari Yosefni ⟨את⟩ eslamadi va uni unutdi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "eslamadi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sari"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ichimliklar beruvchilarning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefni"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefni"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "va uni unutdi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:43:38.877690332Z",
+  "model": "glm-5.3"
+}

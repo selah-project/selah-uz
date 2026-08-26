@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Chunki u Menda yoqdi, Men uni qutqarurman, uni balandga koʻtarurman, chunki u Mening Ismimi biladi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Menda"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "yoqdi"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "uni qutqarurman"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "uni balandga koʻtarurman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Ismimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:01.882031118Z",
+  "model": "glm-5.3"
+}

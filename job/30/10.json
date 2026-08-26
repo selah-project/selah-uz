@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Meni jirkandilar, mendan uzoqlashdilar, va yuzim oldida tupurishdan tiyilmadilar.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "meni jirkandilar"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "uzoqlashdilar"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "va yuzim oldida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tiyilmadilar (inkor)"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "tiyildilar"
+    },
+    {
+      "surface": "רק",
+      "gloss": "tupurish"
+    }
+  ],
+  "timestamp": "2026-08-26T07:04:57.742807110Z",
+  "model": "glm-5.3"
+}

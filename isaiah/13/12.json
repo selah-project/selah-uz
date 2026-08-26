@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Odamlarni sof oltindan, insonni esa Opirning oltin bullionidan qimmatroq qilaman.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "qimmatroq qilaman"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "odamlarni"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "sof oltindan"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "insonni esa"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "oltin bullionidan"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Opirning"
+    }
+  ],
+  "timestamp": "2026-08-26T04:11:18.885734848Z",
+  "model": "glm-5.3"
+}

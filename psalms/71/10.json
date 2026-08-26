@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Chunki dushmanlarim men haqimda gapirdilar va jonimni kuzatuvchilar birga maslahat qildilar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "gapirdilar"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "men haqimda"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "va kuzatuvchilar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "maslahat qildilar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:37.133619731Z",
+  "model": "glm-5.3"
+}

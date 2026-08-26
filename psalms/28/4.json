@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Ularga ularning qilganlari boʻyicha ber, ularning ishlari yomonligi boʻyicha, ularning qoʻllari ishi boʻyicha ularga ber; ularning mukofotini ularga qaytar.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ber"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "ularning qilganlari boʻyicha"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "va ... yomonligi boʻyicha"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ularning ishlari"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ishi boʻyicha"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ularning qoʻllari"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ber"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "השב",
+      "gloss": "qaytar"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "ularning mukofoti"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:08.570854706Z",
+  "model": "glm-5.3"
+}

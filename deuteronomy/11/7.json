@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Zero qarang: sizlarning koʻzlaringiz koʻrdi ⟨את⟩ Yahvening butun ulugʻ ishini, qaysi (ishlarni) u qildi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "zero"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "koʻzlaringiz"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun ulugʻ ishini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ishini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ulgʻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:24:23.886849185Z",
+  "model": "glm-5.3"
+}

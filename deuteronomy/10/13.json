@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "saqlash uchun Yahvening buyruqlarini ⟨את⟩ va ⟨את⟩ Uning farmonlarini, qaysilarki Men senga bugun buyuraman, yaxshilik uchun senga.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "saqlash uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyruqlarini"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyruqlarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "⟨את⟩ va",
+      "marks": "farmonlarini"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "Uning farmonlarini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysilarki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "senga buyuraman"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "yaxshilik uchun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:53:07.040808803Z",
+  "model": "glm-5.3"
+}

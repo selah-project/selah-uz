@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va Yusufning oʻn ukasi Misrdan don sotib olish uchun tushdilar.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "va tushdilar"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ukanlari"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "sotib olish uchun"
+    },
+    {
+      "surface": "בר",
+      "gloss": "don"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:18.656725912Z",
+  "model": "glm-5.3"
+}

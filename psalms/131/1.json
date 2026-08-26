@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 131,
+  "translation": "Maqolat qoʻshigʻi, Dovudnikidir. Yahve, yuragim magʻrur boʻlmadi va koʻzlarim koʻtarilmadi, va men oʻzimdan ulugʻ ishlarda va ajoyibotlarda yurmadim.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshigʻi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "maqolat"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudnikidir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "magʻrur boʻlmadi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "koʻtarilmadi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "yurmadim"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "ulugʻ ishlarda"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "va ajoyibotlarda"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "oʻzimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:31.794446471Z",
+  "model": "glm-5.3"
+}

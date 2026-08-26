@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Yuzingni gunohlarimdan yashir va barcha jinoyatlarimni oʻchirgin.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "yashirgin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "gunohlarimdan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "jinoyatlarimni"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "oʻchirgin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:11.612244910Z",
+  "model": "glm-5.3"
+}

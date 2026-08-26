@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Chunki kim bor Eloh, Yahvedan boshqa? Va kim bor qoya, bizning Elohimimizdan boshqa?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloh"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "...dan boshqa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "va kim"
+    },
+    {
+      "surface": "צור",
+      "gloss": "qoya"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "...dan boshqa"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "bizning Elohimimiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:32.884755362Z",
+  "model": "glm-5.3"
+}

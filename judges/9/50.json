@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Avimelex Tevesga bordi, Tevesga qarab lager qurdi va uni egalladi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "va bordi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Teves"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "va lager qurdi"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "Tevesga qarab"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "va uni egalladi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:30:59.438259292Z",
+  "model": "glm-5.3"
+}

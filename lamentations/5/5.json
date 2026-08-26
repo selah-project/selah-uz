@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Boʻynimiz ustidan taʼqib qilindi, biz tolmadan tolyab qoldyk, bizga ⟨umuman⟩ dam berilmadi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "boʻynimiz"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "taʼqib qilindi"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "tolyab qoldyk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨umuman⟩ yoʻq"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "dam berilmadi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:32.030640539Z",
+  "model": "glm-5.3"
+}

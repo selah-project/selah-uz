@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Moshe qoʻlini ⟨את⟩ osmonga choʻzdi, va qalin qorongʻilik boʻldi butun Mitsrayim erida uch kun.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Va choʻzdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻlini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "על",
+      "gloss": "tomonga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qorongʻilik"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "qalin"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uch"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:03.430116304Z",
+  "model": "glm-5.3"
+}

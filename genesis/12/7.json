@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yahve Avramga zohir boʻldi va dedi: «Zuriyatingga ⟨את⟩ mana shu yerni beraman»; va u u yerda Yahve u zohir boʻlgan Zot uchun mehrob qurdi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "zohir boʻldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "zuriyatingga"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "beraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "mana shu"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "va qurdi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mehrob"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "u zohir boʻlgan Zot"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:18:15.157931188Z",
+  "model": "glm-5.3"
+}

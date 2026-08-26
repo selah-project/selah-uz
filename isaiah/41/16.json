@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Sen ⟨את⟩ ularni yigʻirib tashlaysan, shamol olib ketadi, dovul sochib yuboradi — va Sen Yahve bilan quvonasan, Isroilning Muqaddasi bilan maqtanasan.",
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "ularni yigʻirib tashlaysan"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "va shamol"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "olib ketadi"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "va dovul"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "sochib yuboradi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ularni"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "va Sen"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "quvonasan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve bilan"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "Muqaddasi bilan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "maqtanasan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:48.868358215Z",
+  "model": "glm-5.3"
+}

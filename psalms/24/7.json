@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Koʻtaringiz, ey darvozalar, boshlaringizni, va koʻtarilingiz, abadiy eshiklar, va shon-sharat maliki kiradi.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "koʻtaringiz"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ey darvozalar"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "boshlaringizni"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "va koʻtarilingiz"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "eshiklar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "va … kiradi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "malik"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "shon-sharatning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:25.468522205Z",
+  "model": "glm-5.3"
+}

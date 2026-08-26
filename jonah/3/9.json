@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Kim biladi, balki qaytadi va pushmaydi Elohim, va qaytadi gʻazabining qaynoqligidan — va biz halok boʻlmaymiz.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qaytadi"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "va pushmaydi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "va qaytadi"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "qaynoqligidan"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "gʻazabining"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "halok boʻlmaymiz"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:05.212245886Z",
+  "model": "glm-5.3"
+}

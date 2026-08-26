@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Tinchlikda ozod qildi ⟨u⟩ mening nefeshimni — menga yaqin turganidan, chunki koʻpchilik bilan edilar menga qarshi.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "ozod qildi"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "tinchlikda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mening nefeshimni"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "yaqin turganidan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "koʻpchilik bilan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "edilar"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "menga qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:37.346394477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 9:12",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va U ⟨את⟩ Svoikh slovlarini tasdiqladi, ki Ular bizga va bizning hakamlarimiz haqida gapirilgan, bizni hukm qilganlar, ustimizga buyuk yomonlikni keltirish uchun, ki butun osmonlar ostida bunday qilinmagan, Jerushalaimda qilingandek.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Va tasdiqladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Svoikh slovlarini"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "Svoikh slovlari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizga qarshi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va"
+    },
+    {
+      "surface": "שפטינו",
+      "gloss": "hakamlarimizga qarshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kilar"
+    },
+    {
+      "surface": "שפטונו",
+      "gloss": "bizni hukm qilgan"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "keltirish uchun"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ustimizga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki bunday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "qilinmagan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "osti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "...dek"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "qilingan"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalaimda"
+    }
+  ],
+  "timestamp": "2026-08-26T07:33:45.226012848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Nima qilasizlar tayinlangan kunda, va kunda bayram Yahvening?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nima"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "qilasizlar"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "tayinlangan"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "va kunda"
+    },
+    {
+      "surface": "חג",
+      "gloss": "bayram"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    }
+  ],
+  "timestamp": "2026-08-26T05:36:43.661987006Z",
+  "model": "glm-5.3"
+}

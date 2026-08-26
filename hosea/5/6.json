@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Oʻz qoʻylari va mol-qoramolari bilan Yahve ⟨את⟩ni izlashga boradilar, ammo Uni topmaydilar — U ulardan chekingan.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "oʻz qoʻylari bilan"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "va mol-qoramolari bilan"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "boradilar"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "izlashga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "topmaydilar"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "chekingan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ulardan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:35:21.367397521Z",
+  "model": "glm-5.3"
+}

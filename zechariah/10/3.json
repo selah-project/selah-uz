@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 10:3",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Choʻponlar ustida yonib turibdi gʻazabim va takalar ustida jazolayman; chunki Yahve Sevaot ⟨את⟩ podasini — ⟨את⟩ Yahudo uyini — yodladi va ⟨את⟩ ularni oʻz ulugʻ oti kabi qildi jangda.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "choʻponlar"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "yonib turibdi"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "gʻazabim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... ustida"
+    },
+    {
+      "surface": "העתודים",
+      "gloss": "takalar"
+    },
+    {
+      "surface": "אפקוד",
+      "gloss": "jazolayman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "yodladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sevaot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podasini"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "podasini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahudo uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni (ulugʻ ot kabi)"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "ot kabi"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "oʻz ulugʻ"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "jangda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:55:35.081344597Z",
+  "model": "glm-5.3"
+}

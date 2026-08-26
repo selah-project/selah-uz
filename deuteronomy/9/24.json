@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Sizlar Yahve bilan isyonkor boʻlgansizlar — sizlarni tanigan kunimdan beri.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "isyonkor"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "boʻlgansizlar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "…kunidan beri"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "tanigan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:52:20.731652316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Sening shon-sharafating ulugʻvorligining goʻzalligi va sening ajoyibotlaringning soʻzlari haqida ⟨men⟩ mulohaza yuritib soʻzlayman",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "goʻzalligi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "shon-sharafating"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ulugʻvorligining"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "soʻzlari"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ajoyibotlaringning"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mulohaza yuritib soʻzlayman"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:30.339170400Z",
+  "model": "glm-5.3"
+}

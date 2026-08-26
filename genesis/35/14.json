@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 35:14",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va Yaakov ustun qoʻydi — u ⟨את⟩ bilan gaplashgan joyda — toshdan ustun, va uning ustiga suyuq qurbonlik quydi va uning ustiga moy quydi.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ustun"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "joyda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gaplashgan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "u (Elohim bilan)"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ustun"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "tosh"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "quydi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "suyuq qurbonlik"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "quydi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "moy"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:39.756535074Z",
+  "model": "glm-5.3"
+}

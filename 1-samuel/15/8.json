@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va u ⟨את⟩ Agagni — Amalek podshohini — tirik qoʻlga oldi, va ⟨את⟩ butun xalqni qilich ogʻzi bilan cherim qildi.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "Va qoʻlga oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agagni"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tirik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "butun xalqni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "cherim qildi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ogʻzi bilan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    }
+  ],
+  "timestamp": "2026-08-26T02:50:11.347750365Z",
+  "model": "glm-5.3"
+}

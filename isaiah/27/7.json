@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Uni urganni urgandek ⟨u⟩ urildimi? Yoki oʻldirilganlarining oʻldirilganidek oʻldirildimi?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "urgandek"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "uni urganni"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "urildimi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "oʻldirilganidek"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "oʻldirilganlari"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "oʻldirildi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:18:01.528376772Z",
+  "model": "glm-5.3"
+}

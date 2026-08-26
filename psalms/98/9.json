@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 98,
+  "translation": "Yahve oldida, chunki ⟨U⟩ yer yuzini hukm qilishga keladi; ⟨U⟩ olamni sodiqlik bilan hukm qiladi va xalqlarni toʻgʻrilik bilan.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keladi"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "hukm qilishga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hukm qiladi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "olamni"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sodiqlik bilan"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "va xalqlarni"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "toʻgʻrilik bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:57.928504359Z",
+  "model": "glm-5.3"
+}

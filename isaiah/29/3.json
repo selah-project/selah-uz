@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va men sen atrofida davra boʻlib qoʻnim topaman, va sen ustiga qoʻshin turaman, va sen ustiga qamal devorlari tiklayman.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "qoʻnim topaman"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "davra boʻlib"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sen atrofida"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "qoʻshin turaman"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sen ustiga"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "harbiy qoʻrgʻon"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "tiklayman"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sen ustiga"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "qamal devorlari"
+    }
+  ],
+  "timestamp": "2026-08-26T04:20:16.373961291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 31:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Barcha siqib oluvchilarim orasida mensizlikka aylandim va qoʻshnilarim uchun juda, tanishlarim uchun dahshatman; koʻrganlarim tashqarida ⟨meni⟩ tashlab qochdi.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "barcha … orasida"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "siqib oluvchilarim"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "aylandim"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "mensizlik"
+    },
+    {
+      "surface": "ולשכני",
+      "gloss": "va qoʻshnilarim uchun"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "ופחד",
+      "gloss": "va dahshat"
+    },
+    {
+      "surface": "למידעי",
+      "gloss": "tanishlarim uchun"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "koʻrganlarim"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "tashqarida"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "qochdi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "meni tashlab"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:33.137911343Z",
+  "model": "glm-5.3"
+}

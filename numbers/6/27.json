@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va ular Isroil oʻgʻillariga ⟨את⟩ mening ismimga ⟨the⟩ nom qoʻyishadi, va Men ularga barokat beraman.",
+  "tokens": [
+    {
+      "surface": "וְשָׂמ֥וּ",
+      "gloss": "va qoʻyishadi"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": " mening ismimga"
+    },
+    {
+      "surface": "שְׁמִ֖י",
+      "gloss": " mening ismimga"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "⟨the⟩ ustiga"
+    },
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֑ל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "וַאֲנִ֖י",
+      "gloss": "va Men"
+    },
+    {
+      "surface": "אֲבָרֲכֵֽם",
+      "gloss": "ularni barokat beraman"
+    }
+  ],
+  "timestamp": "2026-08-26T01:26:56.969693276Z",
+  "model": "glm-5.3"
+}

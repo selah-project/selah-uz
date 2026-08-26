@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "U Isroilni haqorat qildi va uni Yehonatan o'ldirdi — Shimeaning o'g'li, Dovudning ukasi.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "haqorat qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "o'ldirdi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "o'g'li"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimei"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ukasi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    }
+  ],
+  "timestamp": "2026-08-26T03:17:17.419075877Z",
+  "model": "glm-5.3"
+}

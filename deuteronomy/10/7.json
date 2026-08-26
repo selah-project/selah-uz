@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "U yerdan Gudgodaga koʻchib oʻtdilar, va Gudgodadan Yotvataga — suv soylari ⟨the⟩ yurt.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "koʻchib oʻtdilar"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Gudgodaga"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "va -dan"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Gudgodadan"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "Yotvataga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yurt"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "soylari"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    }
+  ],
+  "timestamp": "2026-08-26T01:53:02.327382253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 2:8",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va shunday boʻldi: qirolning soʻzi va uning qonuni eshitilganda va koʻp qizlar Shushan qalʼasiga, Hegay qoʻliga yigʻilganda, Ester qirolning uyiga, ayollarning qoʻriqchisi Hegay qoʻliga olib ketildi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va shunday boʻldi"
+    },
+    {
+      "surface": "בהשמע",
+      "gloss": "eshitilganda"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirolning"
+    },
+    {
+      "surface": "ודתו",
+      "gloss": "va uning qonuni"
+    },
+    {
+      "surface": "ובהקבץ",
+      "gloss": "va yigʻilganda"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "qizlar"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "qalʼasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "הגי",
+      "gloss": "Hegay"
+    },
+    {
+      "surface": "ותלקח",
+      "gloss": "olib ketildi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirolning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻli"
+    },
+    {
+      "surface": "הגי",
+      "gloss": "Hegay"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "qoʻriqchisi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ayollarning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:24:10.540718353Z",
+  "model": "glm-5.3"
+}

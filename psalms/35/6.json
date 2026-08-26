@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Boʻlsin ularning yoʻli qorongʻilik va sirgʻaluvchi, va Yahve maligi ularni quvayotgan boʻlsin.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ularning yoʻli"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qorongʻilik"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "va sirgʻaluvchi"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "va maligi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "ularni quvayotgan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:46.074127361Z",
+  "model": "glm-5.3"
+}

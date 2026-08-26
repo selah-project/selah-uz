@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 98,
+  "translation": "Yahvega chertib ijro etinglar kinor bilan, kinor bilan va qoʻshiq ovozi bilan.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "chertib ijro etinglar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinor bilan"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinor bilan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "va ovozi"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "qoʻshiq"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:46.132339182Z",
+  "model": "glm-5.3"
+}

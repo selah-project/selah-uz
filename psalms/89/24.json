@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Va uning dushmanlarini yuzidan oldin maydalayman, undan nafratlanganlarni uraman.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "va maydalayman"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "uning yuzidan oldin"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "uning dushmanlarini"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "va undan nafratlanganlarni"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "uraman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:02.354994127Z",
+  "model": "glm-5.3"
+}

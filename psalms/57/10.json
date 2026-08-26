@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 57,
+  "translation": "Men Seni xalqlar orasida olqiyman, Adonay, Seni millatlar orasida kuylayman.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "men Seni olqiyman"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "xalqlar orasida"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "Seni kuylayman"
+    },
+    {
+      "surface": "בל",
+      "gloss": "millatlar orasida"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "millatlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:42.909449822Z",
+  "model": "glm-5.3"
+}

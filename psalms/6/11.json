@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Uyalasinlar va juda qattiq vahimaga tushsinlar barcha dushmanlarim; orqaga qaytsinlar — bir lahzada uyalsinlar.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "uyalasinlar"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "vahimaga tushsinlar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda qattiq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "orqaga qaytsinlar"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "uyalasinlar"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "bir lahzada"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:24.996054166Z",
+  "model": "glm-5.3"
+}

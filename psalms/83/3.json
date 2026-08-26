@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Chunki mana, dushmanlaring gʻovurlovdi va seni yomon koʻruvchilar ⟨bosh⟩ni koʻtardi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "dushmanlaring"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "gʻovurlovdi"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "va seni yomon koʻruvchilar"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "koʻtardi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "⟨bosh⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:51.019516391Z",
+  "model": "glm-5.3"
+}

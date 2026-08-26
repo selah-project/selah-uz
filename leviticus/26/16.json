@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 26:16",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "hatto Men ham sizga buni qilaman: ustingizga vahima — koʻzni qurituvchi va nefeshni soʻndiruvchi silni ⟨את⟩ va isitmani ⟨את⟩ — tayinlayman; behuda ekasiz urugʻingizni va uni yeydi dushmanlaringiz.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "qilaman"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "buni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "והפקדתי",
+      "gloss": "va tayinlayman"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ustingizga"
+    },
+    {
+      "surface": "בהלה",
+      "gloss": "vahima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silni"
+    },
+    {
+      "surface": "השחפת",
+      "gloss": "silni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isitmani"
+    },
+    {
+      "surface": "הקדחת",
+      "gloss": "isitmani"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "qurituvchi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "koʻz"
+    },
+    {
+      "surface": "ומדיבת",
+      "gloss": "va soʻndiruvchi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "va ekasiz"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "behuda"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "urugʻingizni"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "va uni yeydi"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dushmanlaringiz"
+    }
+  ],
+  "timestamp": "2026-08-26T08:22:32.673947864Z",
+  "model": "glm-5.3"
+}

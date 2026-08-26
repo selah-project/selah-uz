@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 2:2",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va ruh men ichiga kirdi, U menga gapirgach, va meni oyoqlarim ustiga turğizdi, va ⟨את⟩ gapirayotgan Ovozni eshitdim — U menga ⟨⟩ aytdi.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "va kirdi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "men ichiga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "gapirgach"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "U gapirganda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ותעמדני",
+      "gloss": "va meni turğizdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "oyoqlarim"
+    },
+    {
+      "surface": "ואשמע",
+      "gloss": "va eshitdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gapirayotgan Ovozni"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gapirayotgan"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:08:32.222790757Z",
+  "model": "glm-5.3"
+}

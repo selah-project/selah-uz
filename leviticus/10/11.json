@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va oʻrgatmoq uchun ⟨את⟩ Yisroel oʻgʻillarini ⟨את⟩ barcha farovatlarni, ki gapirdi Yahve ularga Moshe qoʻli orqali.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "va oʻrgatmoq uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisroel oʻgʻillari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha farovatlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "farovatlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻli orqali"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:43.988002204Z",
+  "model": "glm-5.3"
+}

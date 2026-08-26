@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "va ⟨את⟩ Eyvalni, va ⟨את⟩ Avimaelni va ⟨את⟩ Shvani",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Eyval"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eyval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avimael"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Avimael"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Shva"
+    }
+  ],
+  "timestamp": "2026-08-26T08:50:41.294861985Z",
+  "model": "glm-5.3"
+}

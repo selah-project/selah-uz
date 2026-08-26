@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 8:4",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va ularga buyurdi, deb: qaranglar, sizlar shaharga, shaharning orqa tomonidan yashirin puxta boʻlasizlar; shahardan juda uzoqlashmanglar, va hammasi tayyor boʻlasizlar.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Va ... buyurdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "qaranglar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "yashirin puxta boʻlasizlar"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "shaharga"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "orqa tomonidan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "neg."
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "uzoqlashmanglar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "va ... boʻlasizlar"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "tayyor"
+    }
+  ],
+  "timestamp": "2026-08-26T02:15:33.238261013Z",
+  "model": "glm-5.3"
+}

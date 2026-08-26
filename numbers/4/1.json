@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Yahve Moshe bilan gaplashdi va Aharon bilan, degan:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "va gaplashdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va bilan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:26:37.120406173Z",
+  "model": "glm-5.3"
+}

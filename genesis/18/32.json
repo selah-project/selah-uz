@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 18:32",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va dedi: iltijo, Adonay gʻazablanmasin, va faqat shu marta gapiray: balki u yerda oʻn topilsa? Va U dedi: oʻn tufayli yoʻq qilmayman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "‑masin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltijo"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "gʻazablansin"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "va gapiray"
+    },
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "shu marta"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "balki"
+    },
+    {
+      "surface": "ימצאון",
+      "gloss": "topilsalar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "yoʻq qilmayman"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "tufayli"
+    },
+    {
+      "surface": "העשרה",
+      "gloss": "oʻn"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:53.891297950Z",
+  "model": "glm-5.3"
+}

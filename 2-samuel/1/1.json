@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va boʻldi, Shaúl oʻlimidan keyin, Dovud Amalekni ⟨את⟩ urishdan qaytgach, Dovud Siklagda ikki kun qoldi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlimi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaúl"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "va Dovud"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytgach"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "urishdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va qoldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Siklagda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ikki"
+    }
+  ],
+  "timestamp": "2026-08-26T03:05:04.505140358Z",
+  "model": "glm-5.3"
+}

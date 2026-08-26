@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Solihning ogʻzi donolikdan gapiradi va uning tili adolatdan soʻzlaydi.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ogʻizi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solihning"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "gapiradi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "donolikni"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "va uning tili"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "soʻzlaydi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "adolatni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:27.453181013Z",
+  "model": "glm-5.3"
+}

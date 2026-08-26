@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va ular oʻz xudolarini u yerda qoldirib ketdilar va ⟨Dovud⟩ buyruq berdi va ular olovida yoqib yuborildi.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "Va … qoldirib ketdilar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz xudolarini"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "oʻz xudolarini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va … buyruq berdi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "⟨Dovud⟩"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "va … yoqib yuborildi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovida"
+    }
+  ],
+  "timestamp": "2026-08-26T07:58:45.169008207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 5:10",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Aron ichida faqat ikki lavha bor ⟨edi⟩ — Moshening Xorevda qoʻygani, Yahvening Yisroel oʻgʻillari bilan ular Misrdan chiqqanlarida kesib tuzgani.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "aronda"
+    },
+    {
+      "surface": "רק",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "הלחות",
+      "gloss": "lavha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–ni"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Xorevda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–ni"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kesdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "chiqishlarida"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:06:47.829167467Z",
+  "model": "glm-5.3"
+}

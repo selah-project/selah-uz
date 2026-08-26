@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Uriya uning huzuriga keldi, va Dovud Yoavning salomatligini, va xalqning salomatligini, va urushning salomatligini soʻradi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "uning huzuriga"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "soʻradi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "salomatligini"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "va salomatligini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "va salomatligini"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "urush"
+    }
+  ],
+  "timestamp": "2026-08-26T03:09:38.610838270Z",
+  "model": "glm-5.3"
+}

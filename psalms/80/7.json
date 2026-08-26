@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 80,
+  "translation": "Bizni qoʻshnilarimizga nizoyi qilding va dushmanlarimiz ustidan masxara qiladi.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "qilding"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "nizoyi"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "qoʻshnilarimizga"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "va dushmanlarimiz"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "masxara qiladi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ustidan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:14.028989087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Yahvedan qoʻrqing, ⟨u⟩ Uning muqaddaslari, chunki Unga qoʻrquvchilarga ehtiyoj yoʻq.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "qoʻrqing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvedan"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "Uning muqaddaslari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ehtiyoj"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "Unga qoʻrquvchilarga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:01.996854829Z",
+  "model": "glm-5.3"
+}

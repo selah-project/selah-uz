@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Har kuni Seni barakalayman, va Sening ismingni maqtayman abadiy va gʻoyat muddatgacha.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Har"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "Seni barakalayman"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "va maqtayman"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sening ismingni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va gʻoyat muddatgacha"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:58.175257614Z",
+  "model": "glm-5.3"
+}

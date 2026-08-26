@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 96,
+  "translation": "Ulugʻvorlik va dabdaba uning oldida, qudrat va ziynat uning muqaddas maskanida.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "ulugʻvorlik"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "va dabdaba"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "uning oldida"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qudrat"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "va ziynat"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "uning muqaddas maskanida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:02.521863563Z",
+  "model": "glm-5.3"
+}

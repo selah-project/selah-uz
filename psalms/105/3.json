@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Muqaddas Ismi bilan faxrlaninglar, Yahveni izlaganlarning yurugi xursand bo'ladi.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "faxrlaninglar"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Ismi bilan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Muqaddas"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "xursand bo'ladi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurugi"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "izlaganlarning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:42.073718716Z",
+  "model": "glm-5.3"
+}

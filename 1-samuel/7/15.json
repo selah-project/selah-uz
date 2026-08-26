@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Shemuell Yisroelni ⟨את⟩ umrining barcha kunlarida hukm qildi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "hukm qildi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuell"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisroelni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlari"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "umrining"
+    }
+  ],
+  "timestamp": "2026-08-26T02:43:34.228183675Z",
+  "model": "glm-5.3"
+}

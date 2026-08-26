@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va ⟨את⟩ beshta toʻrt qoʻshmoqni alohida qoʻshasan, va ⟨את⟩ oltita toʻrni alohida; oltinchi toʻrni chodirning yuz tomoniga qarab ikki qavat qilasan.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "va qoʻshasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beshta toʻr"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beshta"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "toʻrlar"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "alohida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oltita toʻr"
+    },
+    {
+      "surface": "שש",
+      "gloss": "oltita"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "toʻrlar"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "alohida"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "va ikki qavat qilasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toʻr"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "toʻr"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "oltinchi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "מול",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzi"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "chodirning"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:32.071931140Z",
+  "model": "glm-5.3"
+}

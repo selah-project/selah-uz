@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 1:29",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Chunki siz xohlagan butlar sababli ular xijolat boʻladi, va siz tanlagan bogʻlar sababli ular sharmanda boʻladi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "xijolat boʻladi"
+    },
+    {
+      "surface": "מאילים",
+      "gloss": "butlar sababli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חמדתם",
+      "gloss": "siz xohlagan"
+    },
+    {
+      "surface": "ותחפרו",
+      "gloss": "va sharmanda boʻladi"
+    },
+    {
+      "surface": "מהגנות",
+      "gloss": "bogʻlar sababli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "siz tanlagan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:04:59.987786922Z",
+  "model": "glm-5.3"
+}

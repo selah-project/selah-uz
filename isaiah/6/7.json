@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va u ogʻizimga tegizdi va aytdi: mana, bu lablaringga tegdi, va gunxkoringlik ketildi, va gunxoringlik yopildi.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "va u tegizdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻizimga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "tegdi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lablaringga"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "va ketildi"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "gunxkoringliging"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "va gunxoringliging"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "yopildi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:09:26.431676425Z",
+  "model": "glm-5.3"
+}

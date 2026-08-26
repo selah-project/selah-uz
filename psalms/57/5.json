@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 57,
+  "translation": "Nafsim sherlar ichidadir; yonuvchilar orasida yoturman — odam oʻgʻullari, tishlari nayza va oʻqlar, tillari esa oʻtkir qilichdir.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nafsim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ichida"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "sherlar"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "yoturman"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "yonuvchilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻullari"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "tishlari"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "nayza"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "va oʻqlar"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "va tillari"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "oʻtkir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:53.222081986Z",
+  "model": "glm-5.3"
+}

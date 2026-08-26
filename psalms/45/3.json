@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Sen odam oʻgʻillaridan goʻzalroqsan, moʻrt-riyoyat lablaringa toʻkildi — shuning uchun Elohim seni abadiy barakaladi.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "goʻzalroqsan"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oʻgʻillaridan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "toʻkildi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "moʻrt-riyoyat"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "lablaringga"
+    },
+    {
+      "surface": "על",
+      "gloss": "shuning ustiga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "seni barakaladi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:35.046926715Z",
+  "model": "glm-5.3"
+}

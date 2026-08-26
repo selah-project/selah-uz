@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va u: „Uni chaqir“. Va u uni chaqirdi, va u eshik ogʻzida turdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u aytdi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chaqir"
+    },
+    {
+      "surface": "לה",
+      "gloss": "uni"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va u chaqirdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "uni"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "va u turdi"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "eshik ogʻzida"
+    }
+  ],
+  "timestamp": "2026-08-26T09:01:58.114408127Z",
+  "model": "glm-5.3"
+}

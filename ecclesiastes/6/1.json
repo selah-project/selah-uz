@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Yovgilik bor — buni quyosh ostida koʻrdim, va u odam ustida ogʻir ⟨he⟩.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yovgilik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "buni"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "va ogʻir"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:14.380638808Z",
+  "model": "glm-5.3"
+}

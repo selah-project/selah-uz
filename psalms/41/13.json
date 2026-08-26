@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va meni esa — butligimda sen qoʻllab-turgʻazding, va yuzingning oldida abadiy turʻgʻazding meni.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Va meni esa"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "butligimda"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "qoʻllab-turgʻazding"
+    },
+    {
+      "surface": "בי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "va turʻgʻazding meni"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yuzingning oldida"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:28.083883101Z",
+  "model": "glm-5.3"
+}

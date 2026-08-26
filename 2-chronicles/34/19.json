@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va boʻldiki, qirol Tavrot soʻzlarini eshitganda, kiyimlarini yirtdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldiki"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "eshitganda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlarini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlar"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tavrot"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "yirtdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyimlarini"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kiyimlari"
+    }
+  ],
+  "timestamp": "2026-08-26T08:16:02.630930088Z",
+  "model": "glm-5.3"
+}

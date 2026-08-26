@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va ular ⟨את⟩ hayotlarini achchiq qildilar qattiq mehnat bilan — loyda va gʻishtda, va daladagi har qanday mehnatda; ⟨את⟩ barcha mehnatlarini, ularda ular xizmat qilganlari, shafqatsizlik bilan.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "va... achchiq qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hayotlarini"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "hayotlarini"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "mehnat bilan"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "qattiq"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "loyda"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "va gʻishtda"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va har qanday"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "mehnatda"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "daladagi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha mehnatlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "mehnatlarini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ularda... —lar"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xizmat qilganlari"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularda"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "shafqatsizlik bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:54.063959325Z",
+  "model": "glm-5.3"
+}

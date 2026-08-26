@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Shaul Yishayga elchilar yubordi va dedi: menga oʻgʻling ⟨את⟩ Dovudni yubor — qoʻylar yonida boʻlgan.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Va yubordi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elchilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "yubor"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dovudni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oʻgʻling"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "qoʻylar yonida"
+    }
+  ],
+  "timestamp": "2026-08-26T02:51:35.975317616Z",
+  "model": "glm-5.3"
+}

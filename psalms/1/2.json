@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Balki uning xohishi Yahvening Tavrotidadir, uning Tavroti haqida ⟨u⟩ kunu tun pichirlaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "aksincha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "balki"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Tavrotidadir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "uning xohishi"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "uning Tavroti haqida"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "pichirlaydi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "va tun"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:10.913118317Z",
+  "model": "glm-5.3"
+}

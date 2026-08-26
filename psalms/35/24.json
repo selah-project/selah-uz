@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Menga hukm chiqar, sendek adolating boʻyicha, Yahve, Elohim, va ularga menga qarshi xursand boʻlish nasib qilmasin.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Menga hukm chiqar"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "sendek adolating boʻyicha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …masin"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "xursand boʻlish"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:56.300348653Z",
+  "model": "glm-5.3"
+}

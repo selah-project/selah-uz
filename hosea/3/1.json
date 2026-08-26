@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 3:1",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yahve menga dedi: yana bor, ⟨את⟩ ayolni sev — doʻst sevgan va zinokor ayolni — xuddi Yahve ⟨את⟩ Isroil oʻgʻillarini sevganidek, ular esa boshqa xudolarga yuz oʻgirib, uzum mayiz nonlarining sevuvcilaridir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bor"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sev"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayolni"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "sevgan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "doʻst"
+    },
+    {
+      "surface": "ומנאפת",
+      "gloss": "va zinokor"
+    },
+    {
+      "surface": "כאהבת",
+      "gloss": "sevgani kabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil oʻgʻillarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "והם",
+      "gloss": "va ular"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yuz oʻgirib"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xudolar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "va sevuvcilari"
+    },
+    {
+      "surface": "אשישי",
+      "gloss": "mayiz nonlarining"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "uzum"
+    }
+  ],
+  "timestamp": "2026-08-26T05:35:21.736224626Z",
+  "model": "glm-5.3"
+}

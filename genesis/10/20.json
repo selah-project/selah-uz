@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Bular Xomning oʻgʻillari — urugʻlariga koʻra, tillariga koʻra, oʻz yerlarida, oʻz xalqlari ichida",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bular"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Xomning"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "urugʻlariga koʻra"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "tillariga koʻra"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "oʻz yerlarida"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "oʻz xalqlari ichida"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:08.845633539Z",
+  "model": "glm-5.3"
+}

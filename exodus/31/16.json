@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va Yisroel farzandlari ⟨את⟩ shabbatni saqlasinlar — ⟨את⟩ shabbatni avlodlaringiz davomida bajarish uchun, abadiy ahd sifatida.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Va saqlasinlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "farzandlari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shabbatni"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbatni"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bajarish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shabbatni"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbatni"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "avlodlari davomida"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T01:02:10.693080651Z",
+  "model": "glm-5.3"
+}

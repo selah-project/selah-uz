@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yehoshua xalqni yubordi va Isroil oʻgʻillari har biri oʻz merosiga — yerni egallash ⟨uchun⟩ — ⟨את⟩ yerni egallashga ketdilar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "va yubordi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "va ketdilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "oʻz merosiga"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "egallashga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:26:53.687014917Z",
+  "model": "glm-5.3"
+}

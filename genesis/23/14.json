@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Efron ⟨את⟩ Avrahomga javob berdi, unga deyib:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahom"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyib"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:52.771867562Z",
+  "model": "glm-5.3"
+}

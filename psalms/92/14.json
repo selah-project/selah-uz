@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 92,
+  "translation": "Yahve uyida ekilganlar, bizning Elohimimiz hovlilarida gullaydilar.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "ekilganlar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "hovlilarida"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "gullaydilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:03.295235827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 75,
+  "translation": "Va yovuzlarning barcha shoxlarini kesib tashlayman, solihlarning shoxlari koʻtariladi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "shoxlarini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovuzlarning"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "kesib tashlayman"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "koʻtariladi"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "shoxlari"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solihlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:19.931003677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Qoʻllari bor, lekin tegmaydilar; oyoqlari bor, lekin yurmaydilar; halqumlari bilan ovoz chiqarmaydilar.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "qoʻllari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin emas"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "tegdilar"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "oyoqlari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin emas"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yuradilar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ovoz chiqaradilar"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "halqumlari bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:20.337432269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Ammo podshohning soʻzi Yoabga va qoʻshin sardorlari ustidan zoʻr keldi, va Yoab va qoʻshin sardorlari podshoh huzuridan ⟨את⟩ xalqni — ⟨את⟩ Isroilni — sanash uchun chiqib ketdi.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "zoʻr keldi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshohning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustidan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sardorlari"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "qoʻshin"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "va chiqib ketdi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "va sardorlari"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "qoʻshin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzuridan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "sanash uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalq"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T03:24:07.069788574Z",
+  "model": "glm-5.3"
+}

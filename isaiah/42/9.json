@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Birinchi narsalar — mana, kelib yetdi, va yangi narsalarni Men eʼlon qilaman; ular unib chiqishidan oldin ⟨את⟩ sizlarga eshittiraman.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "birinchi narsalar"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kelib yetdi"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "va yangi narsalarni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "eʼlon qilaman"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "…dan oldin"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "unib chiqishidan"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "eshittiraman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarga",
+      "marks": "eshittirishning manzili — sizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:26:20.390418630Z",
+  "model": "glm-5.3"
+}

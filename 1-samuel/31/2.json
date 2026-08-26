@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va pelishtiylar Shaulni ⟨את⟩ va uning oʻgʻillarini ⟨את⟩ taʼqib qildilar, va pelishtiylar Yehonatanni ⟨את⟩ va Avinadavni ⟨את⟩ va Malki-Shuani ⟨את⟩ — Shaulning oʻgʻillarini oʻldirdilar.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Va taʼqib qildilar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtiylar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning oʻgʻillari"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uning oʻgʻillari"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "va oʻldirdilar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtiylar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Avinadav"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:05:18.729703213Z",
+  "model": "glm-5.3"
+}

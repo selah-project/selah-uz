@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Chunki qonni tekshirgan ⟨את⟩ ularni eslaydi, kambagʻallarning faryodini unutmaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "tekshirgan"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qonni"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "eslaydi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "unutmaydi"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "faryodini"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "kambagʻallarning"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:42.379434545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve Elohim odamdan olgan qovurgʻani ⟨את⟩ ayolga aylantirdi va uni odamning huzuriga olib keldi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "aylantirdi (qurdi)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qovurgʻani"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "qovurgʻani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "olgan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ayolga"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "va olib keldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:43.186172783Z",
+  "model": "glm-5.3"
+}

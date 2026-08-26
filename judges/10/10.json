@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Isroil oʻgʻillari Yahvega faryod qildilar, deyishdi: Gunoh qildik Senga, chunki tashlab ketdik ⟨את⟩ Elohimimizni va xizmat qildik ⟨את⟩ Baʻallarga.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "va faryod qildilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyishdi"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "gunoh qildik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "tashlab ketdik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimimizni"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizni"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "va xizmat qildik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baʻallarga"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baʻallarga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:29:53.956205219Z",
+  "model": "glm-5.3"
+}

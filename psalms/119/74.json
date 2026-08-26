@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Sizdan qoʻrqqonlar koʻradi meni va xursand boʻladi, chunki Sizning soʻringizga umid qildim",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "Sizdan qoʻrqqonlar"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "koʻradi meni"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "va xursand boʻladi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "Sizning soʻringizga"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "umid qildim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:39.284392782Z",
+  "model": "glm-5.3"
+}

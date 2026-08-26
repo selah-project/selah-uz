@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "va ⟨את⟩ Bosmatni — Yishmoelning qizi, Nevayotning opasi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Bosmatni"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmatni"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmoel"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "opasi"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nevayot"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:14.644953422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Va Yosef aka-ukalariga dedi: «Menga yaqin kelinglar, iltijo.» Va yaqinlashdilar. Va u dedi: «Men Yosefman — sizning akangiz, sizlarning meni ⟨את⟩ Misrga sotganingiz.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "aka-ukalari"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "yaqin kelinglar"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltijo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "va yaqinlashdilar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "sizning akangiz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sizlarning …ganingiz"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "sotganingiz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Misrga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:16.580137117Z",
+  "model": "glm-5.3"
+}

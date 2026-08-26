@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va yomon narsa boʻladilar sizlar uchun; ularning goʻshtidan yemaysizlar va ⟨את⟩ ularning doʻnxonasini yomon koʻrasizlar.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "va yomon narsa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "boʻladilar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "ularning goʻshtidan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yemaysizlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "doʻnxonasini"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "ularning doʻnxonasi"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "yomon koʻrasizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:44.773552025Z",
+  "model": "glm-5.3"
+}

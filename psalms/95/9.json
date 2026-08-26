@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 95,
+  "translation": "Qachonki otalaringiz Meni sinadilar, Meni tekshiradilar — hatto Mening ishimni koʻrgan holdalarida.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "qachonki"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "Meni sinadilar"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "otalaringiz"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "Meni tekshiradilar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "koʻrgan holdalarida"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "Mening ishimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:33.841333735Z",
+  "model": "glm-5.3"
+}

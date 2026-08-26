@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va ikkinchi daryoning nomi Gichon — u butun Kush yerini aylanib chiquvchi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "va nomi"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "daryoning"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "aylanib chiquvchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun Kush yeri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:46.982169478Z",
+  "model": "glm-5.3"
+}

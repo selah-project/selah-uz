@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Otalaramiz Misrda moʻjizalaringni anglamadilar, xesedlaringning koʻpligini eslamadilar, balki Qamish dengizi boʻyida, dengizda isyon qildilar.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Otalaramiz"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misrda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "anglamadilar"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "moʻjizalaringni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "eslamadilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xesedlaringning koʻpligini"
+    },
+    {
+      "surface": "רב",
+      "gloss": "koʻpligini"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "xesedlaringning"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "isyon qildilar"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻyida"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengizda"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamish (dengizi)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:55.729240666Z",
+  "model": "glm-5.3"
+}

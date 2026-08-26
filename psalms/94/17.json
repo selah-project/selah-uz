@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Agar Yahve menga yordam berganda boʻlmasa, jonim deyarli jimlikda yashagan boʻlar edi.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "agar ... boʻlmasa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "yordam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "deyarli"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "yashagan boʻlar edi"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "jimlikda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:03.464017634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 121,
+  "translation": "Maqomlar qoʻshigʻi. Koʻzlarimni togʻlarga koʻtaraman — yordamim qaydan keladi?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshigʻi"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "Maqomlar"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "koʻtaraman"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Koʻzlarimni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "togʻlarga"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "qaydan"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "keladi"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "yordamim"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:11.469517629Z",
+  "model": "glm-5.3"
+}

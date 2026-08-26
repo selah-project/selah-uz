@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va ular Yehoshuʼga javob berib aytishdi: Sen bizga buyurgan barcha narsani qilamiz va sen bizni yuborgan hamma joyga boramiz.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Va javob berib aytishdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshuʼga"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuʼga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aytib"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsani"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "qilamiz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "joyga"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "yuborgan"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "boramiz"
+    }
+  ],
+  "timestamp": "2026-08-26T02:10:17.250287898Z",
+  "model": "glm-5.3"
+}

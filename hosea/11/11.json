@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 11:11",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Misrdan qushdek, Ashur yeridan kabutardek qoʻrqib keladilar, va Men ularni oʻz uylariga joylashtiraman, — degan Yahve.",
+  "tokens": [
+    {
+      "surface": "יחרדו",
+      "gloss": "qoʻrqib keladilar"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "qushdek"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    },
+    {
+      "surface": "וכיונה",
+      "gloss": "va kabutardek"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "והושבתים",
+      "gloss": "va joylashtiraman"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "oʻz uylariga"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "degan (ogʻizdan)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T05:37:16.554765715Z",
+  "model": "glm-5.3"
+}

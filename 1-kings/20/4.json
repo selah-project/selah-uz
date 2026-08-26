@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 20:4",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Isroil shohi javob berdi va aytdi: Sening soʻzingga koʻra, meni podshohim: men va hammasi narsalaringniki — meniki — seningdir.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "javob berdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Sening soʻzingga koʻra"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "meni podshohim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sening"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va hammasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsalaringniki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meniki"
+    }
+  ],
+  "timestamp": "2026-08-26T03:43:40.457270563Z",
+  "model": "glm-5.3"
+}

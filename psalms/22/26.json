@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Sening ⟨את⟩ oldida — madhim mening katta jamoat ichida; nazrlarimni Unga qoʻrquvchilar oldida toʻlayman.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "Sening ⟨את⟩ oldida",
+      "marks": "madhim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "madhim"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "jamoat ichida"
+    },
+    {
+      "surface": "רב",
+      "gloss": "katta"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "nazrlarimni"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "toʻlayman"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Unga qoʻrquvchilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:58.296452841Z",
+  "model": "glm-5.3"
+}

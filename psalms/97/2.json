@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 97,
+  "translation": "Bulut va qorongʻilik ⟨uning⟩ atrofida, adolat va hukm uning taxtining poydevori.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "Bulut"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "va qorongʻilik"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "atrofida"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "va hukm"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "poydevori"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "uning taxtining"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:23.821439116Z",
+  "model": "glm-5.3"
+}

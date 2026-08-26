@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va koʻrdi Elohim ⟨את⟩ ularning amallarini, chunki qaytdilar oʻz yoʻllaridan — yovuz yoʻldan; va pushmadi Elohim ⟨the⟩ yovuzlikdan ki gapirgan edi qilmoq ularga, va qilmadi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning amallarini"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ularning amallarini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "qaytdilar"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "oʻz yoʻllaridan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yovuz yoʻldan"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "va pushmadi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "(-dan)"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yovuzlikdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirgan edi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "qilmoq"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilmadi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:05.212567426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Bedor boʻldim va boʻldim qushdek yolgʻiz — tomda.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "Bedor boʻldim"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "va boʻldim"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "qushdek"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "yolgʻiz"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "גג",
+      "gloss": "tomda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:19.547396553Z",
+  "model": "glm-5.3"
+}

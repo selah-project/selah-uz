@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 52,
+  "translation": "Shuning uchun xalqim Ismimni biladi; shuning uchun oʻsha kunda ⟨biladilar⟩ki — Men, aslida gapirgan Oʻzim — Mana, Men!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqim"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Ismimni"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "oʻsha kunda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "aslida"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mana, Men"
+    }
+  ],
+  "timestamp": "2026-08-26T04:31:50.916388307Z",
+  "model": "glm-5.3"
+}

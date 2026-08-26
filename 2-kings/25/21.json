@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Bobil shohi ularga ⟨אתם⟩ urib, ularni Rivlada, Hamat yerida oʻldirdi; va Yahudo oʻz tuprogʻidan koʻchirildi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "urib"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ulgа — yaʼni asirlarga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bobil"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "oʻldirdi"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "Rivlada"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "koʻchirildi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uz"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "tuprogʻidan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:06:45.048240452Z",
+  "model": "glm-5.3"
+}

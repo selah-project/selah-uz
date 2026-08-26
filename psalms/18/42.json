@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Qichqirdilar, lekin qutqaruvchi yoʻq edi — Yahvega ⟨ojona⟩, lekin u ularga javob bermadi.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "qichqirdilar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lekin yoʻq edi"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "qutqaruvchi"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ojona⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin ... emas"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "u ularga javob bermadi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:23.787709599Z",
+  "model": "glm-5.3"
+}

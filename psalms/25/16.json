@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Yuzingni menga bur va menga marhamat qil, chunki yolgʻiz va majruhman men.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "yuzingni bur"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "va menga marhamat qil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "yolgʻiz"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "va majruh"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:30.903914602Z",
+  "model": "glm-5.3"
+}

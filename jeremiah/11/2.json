@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Esiting ⟨את⟩ bu ahdning so'zlarini va ularga Yehuda odamlariga va Yerushalaim istiqomatchilariga gapirib bering:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "esiting"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu ahdning so'zlari"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "so'zlarini"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ahdning"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "va gapirasiz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odamlariga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... ga"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "istiqomatchilariga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T04:41:47.599173047Z",
+  "model": "glm-5.3"
+}

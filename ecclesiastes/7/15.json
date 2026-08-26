@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "⟨את⟩ Hammasini koʻrdim futillik kunlarimda: bor solih kimsa oʻz solihligida halok boʻlayotgan, va bor yomon kimsa oʻz yomonligida ⟨umrini⟩ choʻzayotgan.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hammasini"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Hammasini"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "kunlarimda"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "futillik"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "halok boʻlayotgan"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "oʻz solihligida"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "va bor"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "choʻzayotgan"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "oʻz yomonligida"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:59.215139151Z",
+  "model": "glm-5.3"
+}

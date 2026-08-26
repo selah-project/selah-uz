@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Chunki bu Isroil uchun farmon ⟨u⟩, Yaakovning Elohimining hukmi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חק",
+      "gloss": "farmon"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isroil uchun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨u⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukm"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimining"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:53.660030318Z",
+  "model": "glm-5.3"
+}

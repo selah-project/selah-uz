@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va shuning uchun Eli uyiga qasam ichdim: agar Eli uyining gunohi qurbonlik va tuhfalar bilan yuvilsa — abadiylikka qadar yuvilmaydi.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "Va shuning uchun"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "qasam ichdim"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "yuvilsa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "gunohi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyining"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "qurbonlik bilan"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "va tuhfalar bilan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qadar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiylikka"
+    }
+  ],
+  "timestamp": "2026-08-26T08:28:20.012980374Z",
+  "model": "glm-5.3"
+}

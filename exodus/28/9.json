@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va ⟨את⟩ ikki shoham toshini olasan va ularning ustiga Yisroel oʻgʻillarining ismlarini oʻyib yozasan.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Va olasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikki shoham toshi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "tosh"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "va oʻyib yozasan"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ularning ustiga"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ismlarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:58.206188303Z",
+  "model": "glm-5.3"
+}

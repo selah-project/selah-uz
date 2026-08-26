@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Axitub ⟨את⟩ Tsadokni dunyoga keltirdi, Tsadok esa ⟨את⟩ Aximaasni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "Axitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "Tsadok esa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aximaas"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Aximaas"
+    }
+  ],
+  "timestamp": "2026-08-26T07:55:05.422552413Z",
+  "model": "glm-5.3"
+}

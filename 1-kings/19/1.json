@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Axav Izevelga xabar berdi ⟨את⟩ barcha narsani, ki qildi Eliyahu, va ⟨את⟩ barcha narsani, ki oʻldirdi ⟨את⟩ barcha paygʻambarlarni qilich bilan.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "xabar berdi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axav"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "Izevelga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "oʻldirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha paygʻambarlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "paygʻambarlar"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qilich bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:43:50.506219952Z",
+  "model": "glm-5.3"
+}

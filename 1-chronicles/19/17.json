@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 19:17",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Dovudga xabar berildi, va u ⟨את⟩ butun Isroilni yigʻdi, va Iordan daryosidan oʻtdi, va ularning ustiga keldi, va ularga qarab saf tortdi; va Dovud Aromga qarshi urush uchun saf tortdi, va ular u bilan jang qildilar.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "va xabar berildi"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "va yigʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun Isroilni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "va oʻtdi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordan daryosi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularning ustiga"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "va saf tortdi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga qarab"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "va saf tortdi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arom"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "urush"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "va jang qildilar"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:00:22.030374241Z",
+  "model": "glm-5.3"
+}

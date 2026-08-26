@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Chunki hammalari bizni ⟨את⟩ qoʻrqitmoqda, deyishmoq: ularning qoʻllari ishdan boʻshaydi va u bajarilmaydi. Endi esa qoʻllarimni ⟨את⟩ mustahkamla.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hammalari"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "qoʻrqitmoqda"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩",
+      "marks": "bizni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyishmoq"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "boʻshaydi"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ularning qoʻllari"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "bajarilmaydi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "endi esa"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mustahkamla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻllarimni"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻllarim"
+    }
+  ],
+  "timestamp": "2026-08-26T08:50:32.417811015Z",
+  "model": "glm-5.3"
+}

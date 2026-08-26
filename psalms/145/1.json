@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Madhiya — Dovudnikidir. Seni ulugʻlayman, Eloahim, ⟨the⟩ shohim, va Sening ismingni barakalayman abadiy va但 gʻoyat muddatgacha.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Madhiya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudnikidir"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Seni ulugʻlayman"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloahim"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ shohim"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "va barakalayman"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sening ismingni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va gʻoyat muddatgacha"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:58.175029637Z",
+  "model": "glm-5.3"
+}

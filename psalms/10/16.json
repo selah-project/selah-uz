@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Yahve — olam va abad Podshoh; xalqlar Uning yurtidan yoʻq boʻldilar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Podshoh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "olam"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va abad"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "yoʻq boʻldilar"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "Uning yurtidan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:59.134578917Z",
+  "model": "glm-5.3"
+}

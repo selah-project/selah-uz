@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Chunki Sen nefeshimni o‘limdan qutqarding, ⟨את⟩ ko‘zimni ko‘z yoshidan, ⟨את》 oyog‘imni qoqilishdan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "qutqarding"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshimni"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "o‘limdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko‘zimni"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ko‘zimni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ko‘z yoshidan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyog‘imni"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "oyog‘imni"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "qoqilishdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:55.051097775Z",
+  "model": "glm-5.3"
+}

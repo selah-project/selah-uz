@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Paro Mosheni chaqirdi va dedi: Boringlar, Yahvega ⟨את⟩ xizmat qilinglar; faqat qoʻylaringiz va mol-ollaringiz qolsin, hatto bolalaringiz ham sizlar bilan yursin.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Va chaqirdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Boringlar"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xizmat qilinglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "qoʻylaringiz"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "va mol-ollaringiz"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "qolsin"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatto … ham"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "bolalaringiz"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "yursin"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizlar bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:03.430488603Z",
+  "model": "glm-5.3"
+}

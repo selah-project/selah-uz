@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Yahve bizni eslab qoldi, barakalaydi: ⟨את⟩ Isroil uyini barakalaydi, ⟨את⟩ Aharon uyini barakalaydi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "bizni eslab qoldi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barakalaydi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barakalaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barakalaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:45.579652634Z",
+  "model": "glm-5.3"
+}

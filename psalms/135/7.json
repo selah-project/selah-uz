@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Bulutlarni koʻtaradi yer chekkalaridan, yomgʻir uchun chaqmoqlar qiladi, shamolni chiqaradi omborlaridan.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "koʻtaradi"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "bulutlarni"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "chekkalaridan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "chaqnoqlar"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "yomgʻir uchun"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiladi"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "chiqaradi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "shamolni"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "omborlaridan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:00.058817544Z",
+  "model": "glm-5.3"
+}

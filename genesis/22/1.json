@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va bu soʻzlardan keyin boʻldi, va Elohim Avrahamni sinadi, va unga aytdi: «Avraham!» Va u aytdi: «Mana men».",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlardan"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "va Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "sinadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mana men"
+    }
+  ],
+  "timestamp": "2026-08-26T00:37:12.494438988Z",
+  "model": "glm-5.3"
+}

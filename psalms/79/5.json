@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 79,
+  "translation": "Qancha vaqtgacha, Yahve? Gʻazablanganmisen abadiyga? Hasadingiz olov kabi yonadimi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Qancha vaqtgacha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "?"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Gʻazablanganmisen"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "abadiyga"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "yonadimi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "Hasadingiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:14.720614673Z",
+  "model": "glm-5.3"
+}

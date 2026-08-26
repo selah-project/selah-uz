@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Shoulning amakisi aytdi: iltimos, menga aytib ber, Shemuel sizlarga nimа dedi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "amakisi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoulning"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "aitib ber"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    }
+  ],
+  "timestamp": "2026-08-26T02:46:38.687677538Z",
+  "model": "glm-5.3"
+}

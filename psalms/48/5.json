@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 48,
+  "translation": "Chunki mana, shohlar yigʻildi, birgalikda oʻtib ketdilar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "shohlar"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "yigʻildi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "oʻtib ketdilar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birgalikda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:23.252272577Z",
+  "model": "glm-5.3"
+}

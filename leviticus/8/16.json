@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va ichki aʼzolar ustidagi barcha yogʻni ⟨את⟩ oldi, va jigar boʻlagini ⟨את⟩ va ikki buyrakni ⟨את⟩ va ularning yogʻini ⟨את⟩, va Moshe ularni mexrobxonada tutatdi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha yogʻni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yogʻni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidagi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ichki aʼzolar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "jigar boʻlagini"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "boʻlagini"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jigar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ikki buyrakni"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buyrakni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning yogʻini"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "ularning yogʻini"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "tutatdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mexrobxonada"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:49.501664301Z",
+  "model": "glm-5.3"
+}

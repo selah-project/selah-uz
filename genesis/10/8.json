@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Kush ⟨את⟩ Nimrodni dunyoga keltirdi; u yer yuzida qudratli boʻla boshladi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "va Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodni"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "החל",
+      "gloss": "boʻla boshladi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "boʻlish"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "qudratli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer yuzida"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:21.343375982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Adamning Shetni koʻrganidan keyingi kunlari sakkiz yuz yil boʻldi ⟨את⟩, va u oʻgʻillar va qizlar koʻrdi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlari"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyingi"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "koʻrganidan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "sakkiz"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oʻgʻillar"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "va qizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:37.291888811Z",
+  "model": "glm-5.3"
+}

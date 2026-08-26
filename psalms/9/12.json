@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Siyonda istiqomat qiluvchi Yahvega madhiya ayting, xalqlar orasida Uning amallarini eʼlon qiling.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "madhiya ayting"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "istiqomat qiluvchi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyonda"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "eʼlon qiling"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "xalqlar orasida"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "Uning amallarini"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:34.284745390Z",
+  "model": "glm-5.3"
+}

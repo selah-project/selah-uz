@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Bu ⟨avlod⟩ — Sizning yuzingizni izlaganlar, Yaakov. Sela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "דור",
+      "gloss": "⟨avlod⟩"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "izlaganlar"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "…ni izlaganlar"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Sizning yuzingiz"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:25.468343485Z",
+  "model": "glm-5.3"
+}

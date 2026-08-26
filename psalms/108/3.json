@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 108,
+  "translation": "Uygʻon, arfa va ud! Men tongni uygʻotaman.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "uygʻon"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "arfa"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "va ud"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "men uygʻotaman"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "tongni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:53.548980651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Va ulardan ham kohanimlar va Leviylar uchun olaman, deydi Yahve.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "va ham"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "olaman"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "kohanimlar uchun"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Leviylar uchun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T04:35:36.999662094Z",
+  "model": "glm-5.3"
+}

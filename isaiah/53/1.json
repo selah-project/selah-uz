@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 53,
+  "translation": "Kim ishondi bizning eshitganimizga? Va Yahvening zoroʻi kimga oshkor boʻldi?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "ishondi"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "bizning eshitganimizga"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "Va zoroʻi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "oshkor boʻldi"
+    }
+  ],
+  "timestamp": "2026-08-26T09:04:15.592416242Z",
+  "model": "glm-5.3"
+}

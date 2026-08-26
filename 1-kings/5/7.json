@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va bu noiblar ⟨את⟩ Shelomo shohni va ⟨את⟩ Shelomo shoh dasturxoniga yaqinlashgan hamma odamni oziq-ovqat bilan taʼminladilar, har biri oʻz oyida; hech narsa kam etmadi.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "taʼminladilar"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "noiblar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo shohni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hamma odamni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yaqinlashgan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "dasturxoni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "oʻz oyida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "kam etmadi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hech narsa"
+    }
+  ],
+  "timestamp": "2026-08-26T03:30:10.805152176Z",
+  "model": "glm-5.3"
+}

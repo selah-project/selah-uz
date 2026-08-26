@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Oqsoqning oyoqlari bo'shashgan, va mashal ahmoqlar og'zida ⟨shunday⟩.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "bo'shashgan"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "oyoqlari"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "oqsoqning"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "va mashal"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "og'zida"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ahmoqlar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:46:29.865603811Z",
+  "model": "glm-5.3"
+}

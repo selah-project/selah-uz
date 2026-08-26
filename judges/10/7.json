@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yahvening gʻazabi Isroilga alanga oldi va ularni Falistim qoʻliga va Ammon oʻgʻillari qoʻliga sotdi.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "alanga oldi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gʻazabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isroilga"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "va ularni sotdi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻliga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falistim"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "va qoʻliga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    }
+  ],
+  "timestamp": "2026-08-26T02:30:59.103340869Z",
+  "model": "glm-5.3"
+}

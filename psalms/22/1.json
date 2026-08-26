@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Xorga, „Shohdagi tong“ ohangida, Dovudning mizmor",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xorga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ohangida"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Shohdagi"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:27.389390108Z",
+  "model": "glm-5.3"
+}

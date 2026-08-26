@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Oʻz Elohimining nonini — muqaddaslar muqaddasidan va muqaddaslardan yesin.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "nonini"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "oʻz Elohimining"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "muqaddaslar muqaddasidan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "muqaddaslar"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "va …dan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "muqaddaslardan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yesin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:04.958235817Z",
+  "model": "glm-5.3"
+}

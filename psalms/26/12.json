@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Oyogʻim tekis joyda turdi; yigʻinlarda Yahveni barakalayman.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "oyogʻim"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "tekis joyda"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "yigʻinlarda"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "barakalayman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:05.051350832Z",
+  "model": "glm-5.3"
+}

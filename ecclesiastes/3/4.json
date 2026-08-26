@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Yigʻlashga vaqt, va kulishga vaqt; motam tutishga vaqt, va raqsga tushishga vaqt.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "yigʻlashga"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va vaqt"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "kulishga"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "motam tutishga"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va vaqt"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "raqsga tushishga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:03.439089984Z",
+  "model": "glm-5.3"
+}

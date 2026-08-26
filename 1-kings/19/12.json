@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "zilziladan keyin olov — Yahve olovda ⟨was⟩ emas; olovdan keyin esa tinch ovoz — mayin jim ovoz.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "va ... keyin"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "zilziladan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "va ... keyin"
+    },
+    {
+      "surface": "האש",
+      "gloss": "olovdan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "tinch jim"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "mayin"
+    }
+  ],
+  "timestamp": "2026-08-26T03:42:52.905169042Z",
+  "model": "glm-5.3"
+}

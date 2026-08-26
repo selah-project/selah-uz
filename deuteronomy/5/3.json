@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Notalar ⟨את⟩ otalarimiz bilan Yahve bu ahdni kesmadi, chunki ⟨את⟩ biz bilan — biz, mana shular, shu yerda, bugun, hammasimiz tirikmiz.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otalarimiz bilan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "otalarimiz"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kesdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu ahdni"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "bu ahd"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ biz bilan"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "mana shular"
+    },
+    {
+      "surface": "פה",
+      "gloss": "shu yerda"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "hammasimiz"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tirikmiz"
+    }
+  ],
+  "timestamp": "2026-08-26T08:23:51.774536743Z",
+  "model": "glm-5.3"
+}

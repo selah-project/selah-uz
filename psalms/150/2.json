@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 150,
+  "translation": "Maqtanglar Uni uning jasur ishlarida, maqtanglar Uni uning ulugʻvorligining koʻpligicha!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "maqtanglar Uni"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "uning jasur ishlarida"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "maqtanglar Uni"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "koʻpligicha"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "uning ulugʻvorligining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:26.878184139Z",
+  "model": "glm-5.3"
+}

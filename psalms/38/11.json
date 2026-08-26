@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Yuragim taxlab turibdi, kuchim meni tark etdi, va koʻzlarimning nuri ham — ular ⟨את⟩ men bilan yoʻq.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Yuragim"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "taxlab turibdi"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "tark etdi meni"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kuchim"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "va nuri"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarimning"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ (men bilan)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:10.217394721Z",
+  "model": "glm-5.3"
+}

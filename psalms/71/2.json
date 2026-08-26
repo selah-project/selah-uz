@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Sening sedaqatingda meni qutqar va qochirib chiqar meni; qulogʻingni menga egib, va meni najot ber.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "sening sedaqatingda"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "meni qutqar"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "va qochirib chiqar meni"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "egib"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "qulogʻingni"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "va meni najot ber"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:51.918232285Z",
+  "model": "glm-5.3"
+}

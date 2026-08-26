@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Agar tunnelab ⟨kirayotganda⟩ oʻgʻri topilsa, va urilib oʻlsa va oʻlsa, unga qon toʻlovi yoʻq.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "tunnelab"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "topilsa"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "oʻgʻri"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "va urilib oʻlsa"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "va oʻlsa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qon toʻlovi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:30.431562971Z",
+  "model": "glm-5.3"
+}

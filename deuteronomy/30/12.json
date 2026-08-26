@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "U osmonlarda emas —ki: «Biz uchun osmonga kim koʻtarilib, uni olib kelib, uni bizga eshittirsin, va biz uni bajaramiz?» desang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "osmonlarda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "desang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "koʻtarilib"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biz uchun"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "osmonga"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "olib kelib"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "eshittirsin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni (bajaramiz) — ваנעשנה"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "va biz bajaramiz"
+    }
+  ],
+  "timestamp": "2026-08-26T02:04:09.125933727Z",
+  "model": "glm-5.3"
+}

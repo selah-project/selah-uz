@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Uning singlisi Hamoleket esa ⟨את⟩ Ishodni, ⟨את⟩ Aviyezerni va ⟨את⟩ Maxlani tugʻdi.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Va uning singlisi"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hamoleket"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishodni"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Aviyezerni"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Maxlani"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Maxla"
+    }
+  ],
+  "timestamp": "2026-08-26T07:56:38.437470822Z",
+  "model": "glm-5.3"
+}

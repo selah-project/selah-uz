@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Yahvadan qoʻrqganlar, Yahvega ishonchingizni qoʻying: ularning yordami va qalqoni U ⟨Он⟩.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "qoʻrqganlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvadan"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ishonchingizni qoʻying"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ularning yordami"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "va qalqoni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U ⟨Он⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:45.579331225Z",
+  "model": "glm-5.3"
+}

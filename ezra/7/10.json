@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Chunki Ezra qalbini tayyorlagan ⟨edi⟩ — Yahvening ⟨את⟩ Tavrotini izlashga, va ⟨uni⟩ bajarishga, va Isroilda qonun va hukmni oʻrgatishga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "tayyorlagan"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "qalbini"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "izlashga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tavrotini"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tavrotini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "va bajarishga"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "va oʻrgatishga"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isroilda"
+    },
+    {
+      "surface": "חק",
+      "gloss": "qonunni"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "va hukmni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:39:40.495743116Z",
+  "model": "glm-5.3"
+}

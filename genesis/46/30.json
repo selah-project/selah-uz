@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Va Yisroel Yosefga dedi: ⟨endi⟩ o'lsam ham mayli, ⟨chunki⟩ yuzingni ko'rdim — sen hanuz tirisan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "o'lsam ham"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "bu safar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "ko'rdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzingni"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zero"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "hanuz"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tirisan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:47:58.551462113Z",
+  "model": "glm-5.3"
+}

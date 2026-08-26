@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 56,
+  "translation": "Elohimda Oʻz soʻzini maqtayman, Elohimda suyandim, qoʻrqmayman — tana menga nima qiladi?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimda"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "maqtayman"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Oʻz soʻzini"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimda"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "suyandim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "qoʻrqaman"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qiladi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tana"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:52.897606495Z",
+  "model": "glm-5.3"
+}

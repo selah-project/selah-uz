@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Agar ular ⟨את⟩ oʻgʻillarini voyaga yetkazsalar ham, Men ularni odamlardan mahrum qilaman; ha, voy ularga, chunki Men ulardan yuz oʻgirganimda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "voyaga yetkazsalar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻgʻillarini"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "mahrum qilaman"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "odamlardan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "voy"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "yuz oʻgirganimda"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ulardan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:36:25.093414069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Men koʻrdim ⟨את⟩ quyosh ostida qilingan barcha ishlarni, va mana, hammasi − havodan iborat va ruaxning ranjishi.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "men koʻrdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha ishlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "ishlarni"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "qilingan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "osti­da"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "havodan iborat"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "va ranjishi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaxning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:18:54.008481625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "„Yahudoga koʻtarilaylik, uni bezovta qilaylik va uni biz uchun yorib olaylik va uning ichiga ⟨את⟩ Taval oʻgʻlini shoh qilib qoʻyaylik.“",
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "koʻtarilaylik"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yahudoga"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "va uni bezovta qilaylik"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "va uni yorib olaylik"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "biz uchun"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "va shoh qilib qoʻyaylik"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "uning ichiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taval oʻgʻli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Taval"
+    }
+  ],
+  "timestamp": "2026-08-26T04:08:27.003545610Z",
+  "model": "glm-5.3"
+}

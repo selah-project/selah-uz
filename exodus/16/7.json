@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va ertalaba Yahvening ⟨את⟩ ulugʻvorligini koʻrasizlar — U ⟨את⟩ shikoyatlaringizni eshitganida, Yahve ustiga; va biz nimaki, sizlar bizga qarshi shikoyat qilursizlar?»",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "Va ertalaba"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "koʻrasizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulugʻvorlikni"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulugʻvorlik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "U eshitganida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shikoyatlaringizni"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "shikoyatlaringizni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "va biz"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "shikoyat qilursizlar"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizga qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:08.803046596Z",
+  "model": "glm-5.3"
+}

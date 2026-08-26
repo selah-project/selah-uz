@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va barchasini qoʻyasansan Ahron kaftlari ustiga va oʻgʻillari kaftlari ustiga, va ularni ⟨את⟩ tebratib — tebratish ⟨nazri⟩ sifatida — Yahve huzurida koʻtarsan.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "va qoʻyasansan"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "barchasini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kaftlari"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustiga"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kaftlari"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "va tebratib koʻtarsan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni (barcha nazr azalari)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tebratish nazri"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:39.772604109Z",
+  "model": "glm-5.3"
+}

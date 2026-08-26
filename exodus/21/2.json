@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Agar ibroniy qulni sotib olsang — olti yil xizmat qilsin, yettinchi ⟨yilda⟩ esa bepul chiqsin, hech narsa toʻlamasdan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "sotib olsang"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qul"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "ibroniy"
+    },
+    {
+      "surface": "שש",
+      "gloss": "olti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "xizmat qilsin"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "va yettinchida"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqsin"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "bepul (erkin)"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "hech narsa toʻlamasdan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:54.296553056Z",
+  "model": "glm-5.3"
+}

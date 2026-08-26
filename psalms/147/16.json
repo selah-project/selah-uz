@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "U qorni jun kabi beradi, qirotni kul kabi sochadi.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "beradi"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "qorni"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "jun kabi"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "qirotni"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "kul kabi"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "sochadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:46.667196244Z",
+  "model": "glm-5.3"
+}

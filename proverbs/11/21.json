@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Qoʻldan qoʻlga — yovuz <⟨he⟩> jazosiz qolmaydi, solihlarning nasli esa qutuladi.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "qoʻlga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "jazosiz qolmaydi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yovuz"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "va nasli"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "solihlarning"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "qutuladi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:47.093062192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 79,
+  "translation": "Qoʻshnilarimiz uchun haqoratga, atrofimizdagilar uchun masxara va kulgiga aylandik.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "aylandik"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "haqoratga"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "qoʻshnilarimiz uchun"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "masxara"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "va kulgi"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "atrofimizdagilar uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:10.403696417Z",
+  "model": "glm-5.3"
+}

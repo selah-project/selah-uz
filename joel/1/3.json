@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Ustidan oʻgʻillaringizga aytib beringlar, va oʻgʻillaringiz oʻz oʻgʻillariga, va ularning oʻgʻillari boshqa avlodga ⟨aytib bersin⟩.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "undan"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "oʻgʻillaringizga"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "aytib beringlar"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "va oʻgʻillaringiz"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "va ularning oʻgʻillari"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "avlodga"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boshqa"
+    }
+  ],
+  "timestamp": "2026-08-26T05:38:07.944512974Z",
+  "model": "glm-5.3"
+}

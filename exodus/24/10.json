@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va ⟨u⟩lar Isroil Elohimini ko'rdilar, va uning oyoqlari ostida safir toshining oq taxtaligi kabi, va osmonning moyilligi kabi tozalikda.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ko'rdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil Elohimini"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "va ostida"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "uning oyoqlari"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kabi ish"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "oq"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "safir toshining"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "va moyilligi kabi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonning"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "tozalikda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:09.172410617Z",
+  "model": "glm-5.3"
+}

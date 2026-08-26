@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va Balak, Tsiporning oʻgʻli, Isroilning amoriylarga qilgan barcha ishlarini koʻrdi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha ishlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki ... qilgan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "amoriylarga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:38:11.749181807Z",
+  "model": "glm-5.3"
+}

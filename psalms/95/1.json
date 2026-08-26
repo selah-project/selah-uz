@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 95,
+  "translation": "Keling, Yahvega kuylanaylik, qutulishimizning togʻiga nola qilib baqiraylik.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Keling"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "kuylanaylik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "baqiraylik"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "togʻiga"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "qutulishimizning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:33.611348991Z",
+  "model": "glm-5.3"
+}

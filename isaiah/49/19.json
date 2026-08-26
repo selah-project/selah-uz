@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 49:19",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Chunki seni vayronalaring va boʻshab qolgan joylarıng va buzilgan yering — endi aholi uchun tor boʻlasan, va seni yutib yuborganlar uzoqda boʻladilar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חרבתיך",
+      "gloss": "seni vayronalaring"
+    },
+    {
+      "surface": "ושממתיך",
+      "gloss": "va boʻshab qolgan joylarıng"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "va yering"
+    },
+    {
+      "surface": "הרסתיך",
+      "gloss": "buzilgan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zero"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "endi"
+    },
+    {
+      "surface": "תצרי",
+      "gloss": "tor boʻlasan"
+    },
+    {
+      "surface": "מיושב",
+      "gloss": "aholidan"
+    },
+    {
+      "surface": "ורחקו",
+      "gloss": "va uzoq boʻladilar"
+    },
+    {
+      "surface": "מבלעיך",
+      "gloss": "seni yutib yuborganlar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:30:12.011150424Z",
+  "model": "glm-5.3"
+}

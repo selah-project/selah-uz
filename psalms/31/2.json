@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Senga, Yahve, panoh topdim; hech qachon xijolat boʻlmayin abadiy; sadqing bilan qutqar meni.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "panoh topdim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "hech qachon … boʻlmayin"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "xijolat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sadqing bilan"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "qutqar meni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:04.529051598Z",
+  "model": "glm-5.3"
+}

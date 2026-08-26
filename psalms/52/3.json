@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 52,
+  "translation": "Nima uchun yovillikda maqtanasan, ey qahramon? Elning xesedi butun kun davom etadi.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nima uchun"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "maqtanasan"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "yovillikda"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "ey qahramon"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun davom etadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:34.645447405Z",
+  "model": "glm-5.3"
+}

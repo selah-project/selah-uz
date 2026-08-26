@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Haman oʻzini tiydi va uyiga kirdi va yubordi va ⟨את⟩ doʻstlarini va ⟨את⟩ Zeresh xotinini olib keldi.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "oʻzini tiydi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "va kirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "va yubordi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va olib keldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doʻstlarini"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "doʻstlarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Zereshni"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "xotinini"
+    }
+  ],
+  "timestamp": "2026-08-26T07:25:07.096222920Z",
+  "model": "glm-5.3"
+}

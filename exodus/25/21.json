@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va ⟨את⟩ kapporetni aron ustiga, yuqorisiga qoʻyasansan; va aronga ⟨את⟩ guvohlikni qoʻyasansan, ki men senga beraman.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Va qoʻyasansan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kapporetni"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kapporetni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yuqorisiga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va tomon"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aron"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qoʻyasansan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guvohlikni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "guvohlikni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "beraman"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:53.247438802Z",
+  "model": "glm-5.3"
+}

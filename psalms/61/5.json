@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 61,
+  "translation": "Chodiringda abadiylar davomida toʻxtab yashayman, qanotlaringning yashirin panohida sigʻinaman. Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "toʻxtab yashayman"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "chodiringda"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "abadiylar davomida"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "sigʻinaman"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "yashirin panohida"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "qanotlaringning"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:26.707202858Z",
+  "model": "glm-5.3"
+}

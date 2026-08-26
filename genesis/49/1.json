@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Va Yaakov oʻgʻillarini chaqirdi va dedi: Yigʻilinglar, va men sizlarga ⟨את⟩ narsani — ki sizlarga roʻyi keladi oxirgi kunlarda — eʼlon beraman.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ga"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "yigʻilinglar"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "va eʼlon beraman"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narsani (ki sizlarga yetadi)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "roʻyi keladi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarga"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "oxirida"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kunlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:33.207043240Z",
+  "model": "glm-5.3"
+}

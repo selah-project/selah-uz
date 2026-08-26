@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Oʻsha kunda Men yiqilgan Dovudning kulbasini tiklayman, uning yorilgan joylarini devorlab beraman, uning xarobalarini tiklayman va uni qadimgi kunlardagidek qurib chiqaman —",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "tiklayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dovudning kulbasini"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "kulbasini"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "yiqilgan"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "va devorlab beraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning yorilgan joylarini"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "yorilgan joylarini"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "uning xarobalarini"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "tiklayman"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "va qurib chiqaman"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kunlardagidek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "qadimgi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:42:45.077332532Z",
+  "model": "glm-5.3"
+}

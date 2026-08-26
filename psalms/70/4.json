@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 70,
+  "translation": "Orqaga qaytsinlar uyatlarining oqibatida — ⟨the⟩ „He-ox, he-ox“ deganlar.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "qaytsinlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "tufayli"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "oqibatida (poyida)"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "uyatlarining"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "deganlar"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-ox"
+    },
+    {
+      "surface": "האח",
+      "gloss": "he-ox"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:36.994531697Z",
+  "model": "glm-5.3"
+}

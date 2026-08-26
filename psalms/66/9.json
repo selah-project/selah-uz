@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Nafsimizni hayotga qoʻygan va oyogʻimizni sirgʻanishiga yoʻl qoʻymagan.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "qoʻygan"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nafsimizni"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "hayotga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻl qoʻymagan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bergan"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "sirgʻanishiga"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "oyogʻimizni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:58.367115530Z",
+  "model": "glm-5.3"
+}

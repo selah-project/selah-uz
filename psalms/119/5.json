@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Kashki yoʻllarim barqaror boʻlsa sening farmonlaringni saqlashga!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Kashki"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "barqaror boʻlsa"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yoʻllarim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saqlashga"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sening farmonlaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:15.639756625Z",
+  "model": "glm-5.3"
+}

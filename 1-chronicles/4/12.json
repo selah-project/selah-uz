@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Eshton ⟨את⟩ Beit-Rafani, va ⟨את⟩ Paseaxni, va ⟨את⟩ Texinnani — Ir-Naxashning otasini dunyoga keltirdi; bular Rekax odamlari.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "Va Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit-Rafani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Paseaxni"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseaxni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Texinnani"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Texinnani"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Naxashning"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bular"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "odamlari"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekax"
+    }
+  ],
+  "timestamp": "2026-08-26T07:54:57.922606755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Yahve oʻz xalqiga kuch beradi, Yahve ⟨את⟩ oʻz xalqini tinchlikda barakalaydi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kuch"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "oʻz xalqiga"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "beradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barakalaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz xalqini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻz xalqini"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "tinchlikda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:13.909918865Z",
+  "model": "glm-5.3"
+}

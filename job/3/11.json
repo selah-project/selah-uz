@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Nega onam qornidan oʻlmadim, qorndan chiqdim-u darrov jon bermadim?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ona qornidan"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "oʻlmadim"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "qorndan"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "chiqdim"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "va jon bermadim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:54:08.823745757Z",
+  "model": "glm-5.3"
+}

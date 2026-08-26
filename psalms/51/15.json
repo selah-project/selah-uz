@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Tuhmatkorlarga yoʻllaringni oʻrgataman va gunohkorlar senga qaytadilar",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "oʻrgataman"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "tuhmatkorlarga"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "yoʻllaringni"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "va gunohkorlar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "qaytadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:11.584037872Z",
+  "model": "glm-5.3"
+}

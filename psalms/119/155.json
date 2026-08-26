@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Uzoq yovuzlardan ⟨najot⟩, chunki seni buyruqlaringni izlashmadi.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Uzoq"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "yovuzlardan"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "najot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "sening buyruqlaringni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…madi"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "izlashmadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:18.646902078Z",
+  "model": "glm-5.3"
+}

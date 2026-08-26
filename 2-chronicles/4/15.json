@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "⟨את⟩ bitta dengizni va ⟨את]] uning ostidagi oʻn ikki buqani.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bitta dengiz"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oʻn ikki buqa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "buqalar"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "oʻn ikki (2)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn ikki (10)"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "uning ostida"
+    }
+  ],
+  "timestamp": "2026-08-26T08:04:34.755075349Z",
+  "model": "glm-5.3"
+}

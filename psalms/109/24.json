@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Tizzalarim roʻzadan qaltilladi, va tanam yogʻdan mahrum boʻldi.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Tizzalarim"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "qaltilladi"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "roʻzadan"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "va tanam"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "mahrum boʻldi"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "yogʻdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:41.749983027Z",
+  "model": "glm-5.3"
+}

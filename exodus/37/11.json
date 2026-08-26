@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va uni toza oltin bilan qopladi va unga atrofida oltin zar bilan toj qildi.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "qopladi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "toza oltin bilan qoplangan narsa — stol"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "toza"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zar \/ toj"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:06:01.223500883Z",
+  "model": "glm-5.3"
+}

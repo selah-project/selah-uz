@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va har qanday oʻlgan jon ustiga kirmasin; otasi uchun ham, onasi uchun ham ifloslanmasin.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Va ... ustiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "jon"
+    },
+    {
+      "surface": "מת",
+      "gloss": "oʻlgan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kirmasin"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "otasi uchun"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "va onasi uchun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ifloslanmasin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:44.714126026Z",
+  "model": "glm-5.3"
+}

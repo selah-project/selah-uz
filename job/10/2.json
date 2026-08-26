@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Eloahga ayurman: meni ayblama, menga bildirgin — nima uchun men bilan tortishasan?",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ayurman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "meni aybla"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "menga bildirgin"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "men bilan tortishasan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:47:09.875140874Z",
+  "model": "glm-5.3"
+}

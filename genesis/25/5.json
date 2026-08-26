@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Avraham ⟨את⟩ butun mulkini — oʻzi egasi boʻlgan hamma narsani — Yitsxakka berdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun mulki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oʻzi egasi boʻlgan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uning"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsxakka"
+    }
+  ],
+  "timestamp": "2026-08-26T00:37:50.028678791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va koʻtarildi odam — Elqana — va butun uning uyi, Yahve ga qurbonlik qilish uchun: ⟨את⟩ kunlar qurbonligini va ⟨את⟩ uning nazrini.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Va koʻtarildi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elqana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uning uy"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "qurbonlik qilish uchun"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunlar qurbonligini"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbonlik"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kunlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning nazrini"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "uning nazri"
+    }
+  ],
+  "timestamp": "2026-08-26T02:40:53.369126390Z",
+  "model": "glm-5.3"
+}

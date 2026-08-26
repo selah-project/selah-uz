@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Yahve ham shunday dedi: „Qayerdan kelasan?“ HaSatan Yahvega ⟨את⟩ javob berdi va dedi: „Yer yuzini aylanib chiqishdan va u boʻylab yurishdan.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "HaSatan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "qayerdan"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kelasan"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "HaSatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "ylanib chiqishdan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer yuzini"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "va yurishdan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "uni boʻylab"
+    }
+  ],
+  "timestamp": "2026-08-26T08:46:55.954221046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Ruh ustida hukmron boʻlib ruhani ushlab qoladigan odam yoʻq, va oʻlim kunda hukmronlik yoʻq, va jangda ozod qilish yoʻq, va yovuzlik oʻz egasini qutqarmaydi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "hukmron"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ruh ustida"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "ushlab qolish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruhani"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruhani"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "hukmronlik"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kundа"
+    },
+    {
+      "surface": "המות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "ozod qilish"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "jangda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "qutqarmaydi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovuzlik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz egasini"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "oʻz egasini"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:35.551674380Z",
+  "model": "glm-5.3"
+}

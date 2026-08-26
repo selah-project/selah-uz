@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 93,
+  "translation": "Koʻtardilar daryolar, ey Yahve, koʻtardilar daryolar ovozini, koʻtaradilar daryolar dovullarini.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "koʻtardilar"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "daryolar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ey Yahve"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "koʻtardilar"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "daryolar"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "koʻtaradilar"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "daryolar"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "dovullarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:19.749236545Z",
+  "model": "glm-5.3"
+}

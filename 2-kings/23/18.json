@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 23:18",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va u aytdi: «Uni tinch qoʻyinglar; odam uning suyaklarini siljitmasin.» Va ular uning suyaklarini Shomrondan kelgan paygʻambarning suyaklari bilan ⟨את⟩ daxlsiz qoldirdilar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "tinch qoʻyinglar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—masin"
+    },
+    {
+      "surface": "ינע",
+      "gloss": "siljitmasin"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "suyaklarini"
+    },
+    {
+      "surface": "וימלטו",
+      "gloss": "daxlsiz qoldirdilar"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "suyaklarini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paygʻambarning suyaklari"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "suyaklari"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "paygʻambarning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kelgan"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Shomrondan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:04:09.637808335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Necha qadrli xeseding, Elohim! Odamlar bololari qanotlaringning soyasida panoh topadilar.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "necha"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "qadrli"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "…ning bololari"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odamlar"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "soyasida"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "qanotlaringning"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "panoh topadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:07.766629382Z",
+  "model": "glm-5.3"
+}

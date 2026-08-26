@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Va ular ⟨את⟩ tuhifani Yosuf tushlik vaqtida kelguniga qadar tayyorladilar, chunki eshitdilarki, u yerda non yeydilar.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "va tayyorladilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhifani"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "tuhifa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qadar"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kelguniga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosuf"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "tushlik vaqtida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshitdilar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeydilar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:10.690404219Z",
+  "model": "glm-5.3"
+}

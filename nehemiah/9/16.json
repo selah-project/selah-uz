@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va ular va otalarimiz magʻrurlik qildilar va ⟨את⟩ boʻyinlarini qattiqlashtirdilar va buyruqlaringni eshitmadilar.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "va ular"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "va otalarimiz"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "magʻrurlik qildilar"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "va qattiqlashtirdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boʻyinlarini"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "boʻyinlarini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshitmadilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "buyruqlaring"
+    }
+  ],
+  "timestamp": "2026-08-26T07:47:18.314321096Z",
+  "model": "glm-5.3"
+}

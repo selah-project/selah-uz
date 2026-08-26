@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Doston, Dovudga — qochgan paytida yuzidan Avshalomning, oʻgʻlining.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Doston"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "qochgan paytida"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalomning"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻgʻlining"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:23.722858835Z",
+  "model": "glm-5.3"
+}

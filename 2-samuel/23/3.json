@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Isroil Elohisi aytdi, Isroilning Qoyasi menga gapirdi: inson ustida hukmron ⟨solih⟩, Elohim qoʻrquvida hukmronlik qiladi.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohisi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Qoyasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "hukmron"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "inson ustida"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "hukmronlik qiladi"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "qoʻrquvida"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:22:40.683982711Z",
+  "model": "glm-5.3"
+}

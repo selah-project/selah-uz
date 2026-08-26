@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 4:7",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Uning naziriylari qordan pok, sutdan oydin edi; badanlari marjondan qizil, tana shakllari sapfirga teng edi.",
+  "tokens": [
+    {
+      "surface": "זכו",
+      "gloss": "pok"
+    },
+    {
+      "surface": "נזיריה",
+      "gloss": "uning naziriylari"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "qordan"
+    },
+    {
+      "surface": "צחו",
+      "gloss": "oydin"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "sutdan"
+    },
+    {
+      "surface": "אדמו",
+      "gloss": "qizillandi"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "badan"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "marjondan"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "sapfir"
+    },
+    {
+      "surface": "גזרתם",
+      "gloss": "ularning tana shakli"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:45.912328377Z",
+  "model": "glm-5.3"
+}

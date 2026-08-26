@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Senning najotingda sevinib qichqirurmiz, va Elohimimizning nomida bayroq koʻtarurmiz; Yahve butun iltijolaringni bajarsin.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "sevinib qichqirurmiz"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "senning najotingda"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "va ... nomida"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizning"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "bayroq koʻtarurmiz"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "bajarsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "iltijolaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:13.838215759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 120,
+  "translation": "Yahve, nefushimni yolgʻon lablardan, makker tiladan qutqar!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "qutqar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefushimni"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "lablardan"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "tiladan"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "makker"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:31.856284151Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "U hech kimga ularga zulm qilishga ruxsat bermadi va ular uchun podshohlarni qoraladi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "hech"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "ruхsat bermadi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "hech kimga"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "ularga zulm qilishga"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "va qoraladi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ular uchun"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "podshohlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:45.257949570Z",
+  "model": "glm-5.3"
+}

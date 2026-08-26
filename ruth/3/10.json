@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 3:10",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "U aytdi: «Barakali sensan Yahve ⟨tomonidan⟩, qizimchi: oxirgi xesedingni birinchisidan yaxshiroq qilding — yosh yigitlar ortidan yurmaganing uchun, kambagʻal boʻlsa ham, boy boʻlsa ham.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "ברוכה",
+      "gloss": "barakali"
+    },
+    {
+      "surface": "את",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve ⟨tomonidan⟩"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "qizimchi"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "yaxshiroq qilding"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xesedingni"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "oxirgi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "birinchi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "yurmasliging uchun"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "yurmoq"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "הבחורים",
+      "gloss": "yosh yigitlar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "דל",
+      "gloss": "kambagʻal"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "boy"
+    }
+  ],
+  "timestamp": "2026-08-26T07:15:31.244965645Z",
+  "model": "glm-5.3"
+}

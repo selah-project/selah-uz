@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va kohenni yuragi xush boʻldi, va ⟨את⟩ efodni, ⟨את⟩ terafimlarni va ⟨את⟩ oʻyilgan haykalni oldi va xalq orasiga kirdi.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "xush boʻldi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuragi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohenni"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efodni"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "terafimlarni"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻyilgan haykalni"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "oʻyilgan haykalni"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va kirdi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "orasiga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    }
+  ],
+  "timestamp": "2026-08-26T02:37:25.846629242Z",
+  "model": "glm-5.3"
+}

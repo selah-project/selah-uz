@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Yahve Moshega gapirdi, degan:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Va gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan:"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:08.825733801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va qirol turdi va ⟨את⟩ kiyimlarini yirtdi va yerga yotdi; va uning barcha xizmatkorlari yirtiq kiyimlar bilan turib turardilar.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "va yirtdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyimlarini"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kiyimlarini"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "va yotdi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xizmatkorlari"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "turib"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "yirtiq"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "kiyimlar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:10:31.614979424Z",
+  "model": "glm-5.3"
+}

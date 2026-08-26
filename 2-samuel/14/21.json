@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va podshoh Yova'ga dedi: Mana, iltimos, ⟨את⟩ bu ishni qildim; endi bor, ⟨את⟩ yigitni — ⟨את⟩ Avshalomni qaytarib kel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va … dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yova'"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "qildim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu ishni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bu ish"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "endi bor"
+    },
+    {
+      "surface": "השב",
+      "gloss": "qaytarib kel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yigitni"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yigit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomni"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-26T03:14:15.140384037Z",
+  "model": "glm-5.3"
+}

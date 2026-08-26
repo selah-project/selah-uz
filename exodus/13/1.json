@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Yahve Moshega gapirdi, deganidek:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deganidek"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:31.112606984Z",
+  "model": "glm-5.3"
+}

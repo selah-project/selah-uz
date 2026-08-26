@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Solih kishi haqida aytingki, ⟨u⟩ yaxshi boʻladi, chunki oʻz amallarining mevasini yeydi.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ayting"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih kishi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mevasini"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "oʻz amallarining"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeydi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:04:00.644547401Z",
+  "model": "glm-5.3"
+}

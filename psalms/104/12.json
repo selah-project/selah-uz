@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Ularning ustida osmon qushlari yashaydi, shoxlar orasidan ovoz beradilar.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "ularning ustida"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "qush"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "yashaydi"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "orasidan"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "shoxlar"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "beradilar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:47.709628036Z",
+  "model": "glm-5.3"
+}

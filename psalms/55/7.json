@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Va dedim: kim menga kabutardek qanot bersa — uchib ketardim va joylashardim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Va dedim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bersa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "qanot"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "kabutardek"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "uchib ketardim"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "va joylashardim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:24.419947513Z",
+  "model": "glm-5.3"
+}

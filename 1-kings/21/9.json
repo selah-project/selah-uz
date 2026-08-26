@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va u xatlarga yozdi: roʻza eʼlon qiling va Nabotni xalq boshida oʻtqazing.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "Va u yozdi"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "xatlarda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dega maʼnoda"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "eʼlon qiling"
+    },
+    {
+      "surface": "צום",
+      "gloss": "roʻza"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "va oʻtqazing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabotni"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "boshida"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    }
+  ],
+  "timestamp": "2026-08-26T03:42:04.243261694Z",
+  "model": "glm-5.3"
+}

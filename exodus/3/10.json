@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va endi, kel, Men seni Par’oga yuboraman, va xalqimni — Isroil o‘g‘illarini — Misrdan chiqar.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kel"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "Men seni yuboraman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par’oga"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "va chiqar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqimni"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqimni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o‘g‘illarini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:35.358956740Z",
+  "model": "glm-5.3"
+}

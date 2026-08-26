@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 25:19",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va qil bir kerubni bir chekkadan — bu tomondan, va bir keruvni bir chekkadan — u tomondan; yopqichdan qiling ⟨את⟩ keruvlarni, uning ikki chekkasi ustiga.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Va qil"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "bir kerubni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "bir chekkadan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "bu tomondan"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "va bir keruvni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "bir chekkadan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "u tomondan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "‑dan"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "yopqich"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "qiling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keruvlarni"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "keruvlarni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "uning chekkasi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:46.780274495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Magʻrurlar meni juda ham masxara qildilar, Tavratingdan esa men ogʻmaganman.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Magʻrurlar"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "meni masxara qildilar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Tavratingdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "... emas"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "men ogʻmaganman"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:06.600081689Z",
+  "model": "glm-5.3"
+}

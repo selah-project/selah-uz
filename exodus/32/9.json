@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va aytdi Yahve Moshega: koʻrdim ⟨את⟩ bu xalqni, va mana, qattiq boʻyinli xalqdir ⟨u⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "qattiq"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "boʻyinli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:17.836155782Z",
+  "model": "glm-5.3"
+}

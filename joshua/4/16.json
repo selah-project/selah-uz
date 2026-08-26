@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Kohinlarga — guvohlik sandigʻini koʻtaruvchilarga — buyruq ber, va ular Iyordanndan chiqib yuqoriga koʻtarilsinlar.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "buyruq ber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohinlarga"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohinlarga"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "koʻtaruvchilarga"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandigʻini"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "guvohlik"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "va koʻtarilsinlar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iyordanndan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:09:36.441727475Z",
+  "model": "glm-5.3"
+}

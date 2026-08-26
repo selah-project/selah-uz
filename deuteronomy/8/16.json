@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "— seni choʻlda otalaring bilmagan man bilan oziqlantiruvchi — seni kamtar qilish uchun va seni sinash uchun, oxirida senga yaxshilik qilishi uchun",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "oziqlantiruvchi — seni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "bilmagan"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "otalaring"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "seni kamtar qilish"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "va … uchun"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "seni sinash"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "senga yaxshilik qilishi"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "oxirida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:52:13.254441760Z",
+  "model": "glm-5.3"
+}

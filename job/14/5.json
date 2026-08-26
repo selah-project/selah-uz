@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Agar uning kunlari belgilangan boʻlsa, oylarining soni ⟨את⟩ sening huzuringda — uning chegarasini belgilading va u ⟨oshib⟩ oʻtmaydi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "belgilangan"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "uning kunlari"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "soni"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "oylarining"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sening huzuringda",
+      "marks": "sening huzuringda (prepositiv yaqinlik — H854)"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "uning chegarasi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "belgilading"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "oʻtadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:58:55.142780605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va qirol yuzini ⟨את⟩ oʻgirib, butun Isroil jamoasini ⟨את⟩ barakaladi, butun Isroil jamoasi esa turar edi.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "va oʻgirib"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzini"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "va barakaladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun Isroil jamoasini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamoasini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamoasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "turar edi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:05:12.591554939Z",
+  "model": "glm-5.3"
+}

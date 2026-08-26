@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 82,
+  "translation": "Zaif va yetim uchun hukm chiqaringlar, ezilgan va qashshoqni oqlanglar.",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "hukm chiqaringlar"
+    },
+    {
+      "surface": "דל",
+      "gloss": "zaif"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "va yetim"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ezilgan"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "va qashshoq"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "oqlanglar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:12.279160170Z",
+  "model": "glm-5.3"
+}

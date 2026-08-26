@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Togʻlar koʻtariladi, vodiylar tushadi — Sen ularga belgilab bergan oʻrniga.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "koʻtariladi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Togʻlar"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "tushadi"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "vodiylar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "oʻrniga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "belgilab bergan"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:41.624999832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 2:9",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va men kattalashdim va Yerushalaimda mendan oldin boʻlgan har kishidan oshib ketdim; hatto hikmatim ham men bilan turdi.",
+  "tokens": [
+    {
+      "surface": "וגדלתי",
+      "gloss": "kattalashdim"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "va oshib ketdim"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "…dan har"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldin"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaimda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "חכמתי",
+      "gloss": "hikmatim"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "men bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:32.268127308Z",
+  "model": "glm-5.3"
+}

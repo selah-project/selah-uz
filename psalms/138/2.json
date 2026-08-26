@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 138,
+  "translation": "Muqaddas saroying tomon sajda qilaman va ⟨את⟩ Ismingni Seni olqilab tilayman — xeseding uchun va sadoqating uchun, chunki Sen oʻz Isming ustidan barcha mingʻizingni buyuq qilding.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "sajda qilaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "saroy"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "muqaddas ... ing"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "va ... olqilab tilayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ismingni"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Ismingni"
+    },
+    {
+      "surface": "על",
+      "gloss": "uchun ... ustidan"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... uchun"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sadoqating"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "buyuq qilding"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Isming"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "mingʻizingni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:25.877885428Z",
+  "model": "glm-5.3"
+}

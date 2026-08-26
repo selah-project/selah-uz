@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "podshohlikni Shoul uyidan oʻtkazib, va Dovud taxtini Isroil va Yahudo ustiga oʻrnatish uchun — Dandan Ber-Shevagacha.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "oʻtkazish uchun"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "podshohlikni"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uyidan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "va oʻrnatish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dovud taxtini"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taxtini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustiga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dandan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va gacha"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Ber-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-08-26T03:05:12.046679589Z",
+  "model": "glm-5.3"
+}

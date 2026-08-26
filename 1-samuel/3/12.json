@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Oʻsha kunda Eliga qarshi uning uyi haqida gapirgan barcha soʻzlarimni ⟨את⟩ bajaraman — boshlanib, tugatib.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Oʻsha kunda... kunda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "bajaraman (turgʻazaman)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga... qarshi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha soʻzlarimni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "gapirgan soʻzlarim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haqida"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uning uyi"
+    },
+    {
+      "surface": "החל",
+      "gloss": "boshlanib"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "va tugatib"
+    }
+  ],
+  "timestamp": "2026-08-26T08:29:07.936307781Z",
+  "model": "glm-5.3"
+}

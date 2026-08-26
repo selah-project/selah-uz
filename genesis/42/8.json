@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va Yosef ⟨את⟩ akalarini tanidi, ammo ular uni tanimadilar.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "Va tanidi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akalarini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "akalarini"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ammo ular"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "uni tanimadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:45:57.911503629Z",
+  "model": "glm-5.3"
+}

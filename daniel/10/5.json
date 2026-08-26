@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va koʻzlarimni ⟨את⟩ koʻtardim va qaradim, va mana bir kishi — linon kiyimda, beli esa Offaz oltini bilan bogʻlangan.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "koʻtardim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʻzlarim"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarim"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "va qaradim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "kiyinigan"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "linon kiyimda"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "va uning beli"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "bogʻlangan"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "oltin bilan"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Offazdan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:34:52.885742056Z",
+  "model": "glm-5.3"
+}

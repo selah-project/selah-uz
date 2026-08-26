@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va endi uni aybsiz deb qoldirma, chunki sen donishmand kishisan, va unga nima qilishni bilasan, va uning oq sochini qon bilan Sheolga tushirasan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qoldirma (inkor)"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "uni aybsiz deb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "donishmand"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "san"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "va bilasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unga nima qilishni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nima"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qilishni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "va tushirasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning oq sochini"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "uning oq sochini (qarilik)"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "qon bilan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheolga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:25:01.870913568Z",
+  "model": "glm-5.3"
+}

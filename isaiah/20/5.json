@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va ular qoʻrqib xijolat tortadilar — Kushdan, umidlaridan, va Mitsrajimdan, shon-sharaflaridan.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "qoʻrqib"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "xijolat tortadilar"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "Kushdan"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "umidlaridan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "va … dan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimdan"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "shon-sharaflaridan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:13:31.423359317Z",
+  "model": "glm-5.3"
+}

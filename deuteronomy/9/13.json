@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Yahve menga aytdi: „Koʻrdim ⟨את⟩ bu xalqni, va mana, qattiq enikkli xalqdir u.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyib"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Koʻrdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "qattiq"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "enik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T01:53:04.943539046Z",
+  "model": "glm-5.3"
+}

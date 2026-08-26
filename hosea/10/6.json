@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "U ⟨את⟩ ham Ossurga olib boriladi — sovgʻa sifatida Yarev shohga; xijolat oladi Efraym, va Isroil oʻz maslahatidan uyatlanadi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "u (buqaga ishora)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "Ossurga"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "olib boriladi"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "sovgʻa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "shohga"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yarev"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "xijolat"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraym"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "oladi"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "va uyatlanadi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "oʻz maslahatidan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:37:46.777825486Z",
+  "model": "glm-5.3"
+}

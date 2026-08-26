@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Chunki gʻazabingda barham topdik, va qahr-qahringda betoqat boʻldik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "barham topdik"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "gʻazabingda"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "va qahr-qahringda"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "betoqat boʻldik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:33.944456959Z",
+  "model": "glm-5.3"
+}

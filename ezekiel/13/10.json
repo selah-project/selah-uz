@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Chunki, ha, chunki xalqimni ⟨את⟩ yoʻldan ozdirdilar: „Tinchlik!“ — deb, holbuki tinchlik yoʻq; va u devor quradi va mana ular uni ⟨את⟩ qayirib suvab qoʻyadilar.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "ha, chunki"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "ozdirdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqim"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Tinchlik"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "holbuki yoʻq"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "va u"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "devor quradi"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "devor"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "va mana ular"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "suvab qoʻyadilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "uni ⟨את⟩",
+      "marks": "qayir (loy)"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "qayirib"
+    }
+  ],
+  "timestamp": "2026-08-26T05:13:47.503859315Z",
+  "model": "glm-5.3"
+}

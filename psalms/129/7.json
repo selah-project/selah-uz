@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 129,
+  "translation": "Buni oʻruvchi qoʻli bilan toʻlmagan, dasta bogʻlovchining bagʻri ham.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "buni — yoʻq"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "toʻlmagan"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "qoʻli bilan"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "oʻruvchi"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "va bagʻri"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "dasta bogʻlovchining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:11.749121494Z",
+  "model": "glm-5.3"
+}

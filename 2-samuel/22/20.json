@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va U meni kenglikka olib chiqdi ⟨את⟩; U meni xalos qildi, chunki U menga xohish koʻrsatdi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Va U olib chiqdi"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "kenglikka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "xalos qildi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xohish koʻrsatdi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:21:53.247891973Z",
+  "model": "glm-5.3"
+}

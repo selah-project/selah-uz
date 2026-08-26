@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va ⟨u⟩ dedi: uni yerga tashla. Va uni yerga tashladi, va u ilonga aylandi, va Moshe undan qochdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "uni tashla"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "va uni tashladi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "ilonga"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "va qochdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:49.928404513Z",
+  "model": "glm-5.3"
+}

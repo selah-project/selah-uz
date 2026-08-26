@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va ⟨the⟩ u erkakni yoki ⟨the⟩ u ayolni, kimki ⟨את⟩ bu yomon ishni qilgan, ⟨the⟩ darvozalaring oldiga chiqarib olasan — ⟨את⟩ erkakni yoki ⟨את⟩ ayolni — va ularni toshlar bilan toshlab oʻldirasan, va ular oʻladi.",
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "chiqarib olasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u erkak"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u ayol"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu yomon ish"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ish"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldinga"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "darvozalaring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erkak"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayol"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "toshlab oʻldirasan"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "toshlar bilan"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "oʻladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:25:02.809402005Z",
+  "model": "glm-5.3"
+}

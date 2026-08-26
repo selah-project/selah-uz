@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 4:15",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "«Chetlan! — deb baqirishdi ularga, — nopok! Chetlan, chetlan, tegmanglar!» Chunki ular qochib ham qochdi, adashib ham yurdi; millatlar ichida: «Bular endi bu yerda yashamaydi», — deyishdi.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Chetlan!"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nopok!"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "baqirishdi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "Chetlan,"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "chetlan,"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ma"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "tegishlaring"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "נצו",
+      "gloss": "qochib"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "adashib yurdi"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "deyishdi"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "millatlar ichida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—ma"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "endi"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "yashamaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:28.760557519Z",
+  "model": "glm-5.3"
+}

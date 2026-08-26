@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 100,
+  "translation": "Chunki Yahve yaxshi; abadiy uning xesedi, va avloddan avlodgacha uning sodiqligi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "uning xesedi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ... gacha"
+    },
+    {
+      "surface": "דר",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "va avlod"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "uning sodiqligi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:52.474733934Z",
+  "model": "glm-5.3"
+}

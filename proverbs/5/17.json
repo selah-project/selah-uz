@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Ular boʻlsin senga, faqat oʻzingga, va begonalar uchun yoʻq ⟨את⟩ sen bilan.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "boʻlsinlar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "faqat oʻzingga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "begonalar uchun"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sen bilan",
+      "marks": "sen bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:40:39.626768342Z",
+  "model": "glm-5.3"
+}

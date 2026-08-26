@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Kumush uchun — choʻyan qozon, oltin uchun — pech, lekin dillarni sinaydigan — Yahve.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "choʻyan qozon"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "kumush uchun"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "va pech"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "oltin uchun"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "lekin sinaydigan"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "dillarni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:45:58.326186707Z",
+  "model": "glm-5.3"
+}

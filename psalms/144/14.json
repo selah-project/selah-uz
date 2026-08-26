@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 144,
+  "translation": "Bizning hoʻkizlarimiz ogʻir yuk koʻtaruvchi, sinib chiqish yoʻq, chiqib ketish yoʻq va maydonlarimizda figʻon yoʻq.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "bizning hoʻkizlarimiz"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "ogʻir yuk koʻtaruvchi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "sinib chiqish"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "chiqib ketish"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "figʻon"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "maydonlarimizda"
+    }
+  ],
+  "timestamp": "2026-08-26T09:09:40.203077407Z",
+  "model": "glm-5.3"
+}

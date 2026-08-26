@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va isyon koʻtardi Moav Isroilga qarshi, Axavning oʻlimidan keyin.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "isyon koʻtardi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isroilga qarshi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlimi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axavning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:45:25.879284931Z",
+  "model": "glm-5.3"
+}

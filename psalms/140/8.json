@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 140,
+  "translation": "Yahve, Adonay — najotimning kuchi, jang kunida boshimga soyabon boʻlding.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kuchi"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "najotimning"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "soyabon boʻlding"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "boshimga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "jang"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:56.531482140Z",
+  "model": "glm-5.3"
+}

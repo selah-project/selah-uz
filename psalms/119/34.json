@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Meni tushunishga keltir, va men saqlayman sening Toringni, va men uni butun yurak bilan bajaraman.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "meni tushunishga keltir"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "va men saqlayman"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "sening Toringni"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "va men uni bajaraman"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurak"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:34.383772970Z",
+  "model": "glm-5.3"
+}

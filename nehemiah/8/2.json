@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Ezro kohin ⟨את⟩ Tavrotni jamoat oldiga keltirdi — erkakdan ayolgacha va eshitib tushunadigan har bir kishi, yettinchi oyning birinchi kunida.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "va keltirdi"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezro"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tavrotni"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tavrotni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jamoat"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "erkakdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va…gacha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va har bir"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "tushunadigan"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "eshitishga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birinchi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "oyning"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yettinchi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:47:09.554530034Z",
+  "model": "glm-5.3"
+}

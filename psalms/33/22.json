@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Boʻlsin xeseding, Yahve, bizning ustimizda — senga umid bogʻlaganimizdek.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Boʻlsin"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizning ustimizda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "—dek"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "umid bogʻlaganimiz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:33.283475569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Buyuk ⟨is⟩ Yahve va juda ham maqtovga loyiq, va Uning ulugʻvorligini ⟨kim⟩ oʻrganib tugata olmaydi.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Buyuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "va maqtovga loyiq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "va Uning ulugʻvorligini"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨kim⟩ oʻranib tugata olmaydi"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "oʻrganib tugatish"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:58.175395434Z",
+  "model": "glm-5.3"
+}

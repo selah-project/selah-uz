@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va yerning foydasi hamma narsada ⟨bor⟩ — hatto podshoh ham ⟨oʻzi⟩ dalga xizmat qilinadi.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "va foyda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hamma narsada"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "dalgа uchun"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "xizmat qilinadi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:41.354573174Z",
+  "model": "glm-5.3"
+}

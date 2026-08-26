@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Yahve belgilangan muddatni belgiladi, degan: ertaga Yahve bu soʻzni ⟨⟨mamlakatda⟩⟩ qiladi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "belgiladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "belgilangan muddat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ertaga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qiladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mamlakatda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:40.489250087Z",
+  "model": "glm-5.3"
+}

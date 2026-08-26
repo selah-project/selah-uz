@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Shomronga va uning butlariga qilganimdek, Yerushalaimga va uning haykallariga shunday qilmaydinmi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "-maydinmi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-dek"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "qilganim"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "Shomronga"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "va uning butlariga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "qilmay"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalaimga"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "va uning haykallariga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:10:42.679795836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va boʻldiki, mamlakat xalqi Yehuda xalqining qoʻllarini boʻshashtirdilar va ularni qurishdan toʻxtatib charchatdilar ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldiki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mamlakat"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "boʻshashtirayotgan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻllarini"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "va charchatayotgan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "qurish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T07:38:02.358696943Z",
+  "model": "glm-5.3"
+}

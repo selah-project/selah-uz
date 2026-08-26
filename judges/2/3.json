@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va men ham dedim: «Ularni yuzingizdan haydamayman; va ular sizning yonlaringizga ⟨tikanlar⟩ bo'ladi va ularning xudolari sizga tuzoq bo'ladi».",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Va ... ham"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "haydamayman"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "yuzingizdan"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "va bo'ladi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "yonlaringizga"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "va ularning xudolari"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bo'ladi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tuzoq"
+    }
+  ],
+  "timestamp": "2026-08-26T02:25:44.067629597Z",
+  "model": "glm-5.3"
+}

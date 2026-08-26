@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Levi xonadonidan bir er ketdi va Levi qizini ⟨את⟩ oldi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ketdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "er"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "xonadonidan"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi qizini"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizini"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:32.085710955Z",
+  "model": "glm-5.3"
+}

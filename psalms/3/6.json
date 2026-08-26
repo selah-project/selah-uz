@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Men yotdim-u uxladim, uyqondim, chunki Yahve meni suvaydi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "yotdim"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "va uxladim"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "uyqondim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "menni suvaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:52.462616787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Dovud yana yigʻdi ⟨את⟩ butun tanlangan yigitlarni Isroilda — oʻttiz ming.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yigʻdi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun tanlangan yigitlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "tanlangan yigitlar"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isroilda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "oʻttiz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    }
+  ],
+  "timestamp": "2026-08-26T03:08:03.721435897Z",
+  "model": "glm-5.3"
+}

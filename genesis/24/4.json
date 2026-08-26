@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "baliki mening diyoriga va mening tugʻilgan joyimga borasan, va oʻgʻlimga — Yitsxakka — xotin olasan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "baliki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mening diyorim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va … ga"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "mening tugʻilgan joyimga"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "borasan"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "va olasan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "xotin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻlimga"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsxakka"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:30.306737593Z",
+  "model": "glm-5.3"
+}

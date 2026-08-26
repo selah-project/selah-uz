@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 129,
+  "translation": "Koʻp marta siquvchi boʻldilar mendan — yoshligimdan beri; ammo mandan oʻza olmadilar.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "siquvchi boʻldilar mendan"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "yoshligimdan beri"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "oʻza olmadilar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mandan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:34.960421867Z",
+  "model": "glm-5.3"
+}

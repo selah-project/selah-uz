@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 16:2",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Yahve, Elohimingga Pesaxni qurbon qil, qoʻy va mol-dan, joyda ki tanlaydi Yahve Ismini u yerga joylashtirish uchun.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "va qurbon qil"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaxni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimingga"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "va mol"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "joyda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "tanlaydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "joylashtirish uchun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Ismini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:24:49.288527961Z",
+  "model": "glm-5.3"
+}

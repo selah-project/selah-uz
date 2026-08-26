@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va oldi, va guvohlikni ⟨את⟩ Aronga solib qoʻydi, va choʻqmorlarni ⟨את⟩ Aron ustiga terdi, va toʻrpardani ⟨את⟩ Aronga, yuqorisiga qoʻydi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Va oldi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guvohlikni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "guvohlikni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "va terdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "choʻqmorlarni"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "choʻqmorlarni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toʻrpardani"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "toʻrpardani"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "yuqorisiga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:58.770620918Z",
+  "model": "glm-5.3"
+}

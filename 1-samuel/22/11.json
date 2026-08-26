@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va podshoh yubordi chaqirish uchun ⟨את⟩ Aximelexni, Axituvning oʻgʻli, kohenni, va ⟨את⟩ uning otasining butun uyini — kohenlarni, Nogʻada boʻlganlarni, va ularning barchasi podshoh huzuriga keldi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Va yubordi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "chaqirish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aximelex"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Aximelexni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "Axituvning"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barchasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohenlarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "Nogʻada"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ularning barchasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshohning"
+    }
+  ],
+  "timestamp": "2026-08-26T02:55:53.319377796Z",
+  "model": "glm-5.3"
+}

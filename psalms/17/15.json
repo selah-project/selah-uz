@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Men esa, solihlikda Sening yuzingni koʼraman, uygʻonganimda Sening siyrating bilan toʼyaman.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "solihlikda"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "koʼraman"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Sening yuzingni"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "toʼyaman"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "uygʻonganimda"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "Sening siyrating ⟨bilan⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:43.197907395Z",
+  "model": "glm-5.3"
+}

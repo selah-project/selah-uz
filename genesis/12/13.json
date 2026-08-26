@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Iltimos, aytki: singilimsan — men uchun yaxshi boʻlsin seni xotinga, va jonim saqlansin sen sababli.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "aytki"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "singilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "sen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "— uchun"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "yaxshi boʻlsin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "men"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "seni xotinga"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "va saqlansin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "sen sababli"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:30.585274074Z",
+  "model": "glm-5.3"
+}

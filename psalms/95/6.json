@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 95,
+  "translation": "Keling, sajda qilaylik va bukaylik, Bizni Yasagan Yahve huzurida tiz cho'kaylik.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Keling"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "sajda qilaylik"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "va bukaylik"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "tiz cho'kaylik"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "Bizni Yasagan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:26.780017523Z",
+  "model": "glm-5.3"
+}

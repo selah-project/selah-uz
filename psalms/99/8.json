@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 99,
+  "translation": "Yahve, Elohimimiz, Sen ularga javob berding; ular uchun tavbalidir, ey koʻtaruvchi El boʻlding Sen, va ularning qilmishlaridan oʻch olding.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "javob berding"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "koʻtaruvchi (kechiruvchi)"
+    },
+    {
+      "surface": "היית",
+      "gloss": "boʻlding"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ular uchun"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "va oʻch oluvchi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "ularning qilmishlari"
+    }
+  ],
+  "timestamp": "2026-08-26T09:09:05.205344001Z",
+  "model": "glm-5.3"
+}

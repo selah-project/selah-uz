@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Avram Misrdan koʻtarilib chiqdi — u, va xotini, va unga tegishli boʻlgan hamma narsa, va uning bilan Lot — janub tomon.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "koʻtarilib chiqdi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "va xotini"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga tegishli"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "va Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uning bilan"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "janub tomon"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:00.119978554Z",
+  "model": "glm-5.3"
+}

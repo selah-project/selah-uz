@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 113,
+  "translation": "U qashshoqni changdan koʻtaradi, ehtiyojmandni axlatxonadan yuqoriga koʻtaradi —",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "koʻtaradi"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "changdan"
+    },
+    {
+      "surface": "דל",
+      "gloss": "qashshoqni"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "axlatxonadan"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "yuqoriga koʻtaradi"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ehtiyojmandni"
+    }
+  ],
+  "timestamp": "2026-08-26T09:09:12.622453598Z",
+  "model": "glm-5.3"
+}

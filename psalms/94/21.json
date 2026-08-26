@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Ular solihning nefeshiga qarshi toʻplanishadi va pok qonni aybdor deb eʼlon qiladilar.",
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "toʻplanishadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "va qon"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "pok"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "aybdor deb eʼlon qiladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:18.910002468Z",
+  "model": "glm-5.3"
+}

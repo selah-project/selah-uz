@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Qayerda Xamat podshohi, va Arpad podshohi, va Sefarvayim shahri podshohi, Hena va Ivva?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "qayerda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Xamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "va podshohi"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "va podshohi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "shahri"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "va Ivva"
+    }
+  ],
+  "timestamp": "2026-08-26T03:59:23.634597356Z",
+  "model": "glm-5.3"
+}

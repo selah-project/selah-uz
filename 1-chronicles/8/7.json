@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Naaman, va Axiya, va Gera — u — ularni surgun qilgan; va u ⟨את⟩ Uzzani va ⟨את⟩ Axixudni tugʻdi.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "va Naaman"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "va Axiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "va Gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "ularga surgun qildi"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "va tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzzani"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Axixudni"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Axixud"
+    }
+  ],
+  "timestamp": "2026-08-26T07:56:11.972961624Z",
+  "model": "glm-5.3"
+}

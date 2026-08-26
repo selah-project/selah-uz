@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Dilida aytdi: „Qaltirayman yoʻq, avlod avloddan yomonliq koʻrmayman“.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "dilida"
+    },
+    {
+      "surface": "בל",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "qaltirayman"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "avloddan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mayman"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "yomonliq"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:48.181731728Z",
+  "model": "glm-5.3"
+}

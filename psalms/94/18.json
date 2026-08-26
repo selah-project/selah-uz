@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Agar aytsam: „oyoqim sirgʻiyapti“, — xeseding, ey Yahve, meni koʻtarib turadi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aytsam"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "sirgʻiyapti"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "oyoqim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "meni koʻtarib turadi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:03.464227765Z",
+  "model": "glm-5.3"
+}

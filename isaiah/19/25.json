@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Kimga Yahve Sebaoth baraka berdi, deb aytdi: Barokdir — Misr xalqim, va Ashshur qoʻllarimning ishi, va Isroil merosim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kimga"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "baraka berdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaoth"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb aytdi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barokdir"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "va ishi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻllarimning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "va merosim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T04:13:00.080481176Z",
+  "model": "glm-5.3"
+}

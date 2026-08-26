@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Yolgʻiz, burun kayfishining balandligida, izlamaydi; 'Elohim yoʻq' — barcha hiyalari ⟨shu⟩.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "yolgʻiz"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "balandligida"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "burun kayfishining"
+    },
+    {
+      "surface": "בל",
+      "gloss": "—mas"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "izlamaydi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "hiyalari"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:43.817046211Z",
+  "model": "glm-5.3"
+}

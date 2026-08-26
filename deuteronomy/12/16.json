@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Faqat qonni yemanglar — uni yerga suvdek toʻkasilar.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qonni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—manglar"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yemanglar"
+    },
+    {
+      "surface": "על",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "toʻkasilar"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "suvdek"
+    }
+  ],
+  "timestamp": "2026-08-26T01:55:07.591344434Z",
+  "model": "glm-5.3"
+}

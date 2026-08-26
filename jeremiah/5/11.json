@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Chunki Isroil uyi va Yahudo uyi Menga qattiq xiyonat qildilar, — Yahve bayonoti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "qattiq xiyonat"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "xiyonat qildilar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "va ... uyi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "bayonoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T04:39:38.367727047Z",
+  "model": "glm-5.3"
+}

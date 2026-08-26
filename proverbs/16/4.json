@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Barcha amalni Yahve oʻz maqsadi uchun qiladi, hatto yovuzni ham yovuzlik kunining oʻzi uchun.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "amalni qiladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "oʻzi uchun"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hatto … ham"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovuzni"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kunning"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yovuzlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:44:43.166297245Z",
+  "model": "glm-5.3"
+}

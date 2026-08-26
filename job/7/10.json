@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "U yana oʻz uyiga qaytmaydi va uning joyi uni yana tanimaydi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "... emas"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qaytmaydi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "oʻz uyiga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "uni tanimaydi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "uning joyi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:56:00.429060883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Men Yahveman, sizning Muqaddadingiz, Isroilni yaratgan, sizning Podshohingiz.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveman"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Muqaddadingiz"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "yaratgan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Podshohingiz"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:09.455262581Z",
+  "model": "glm-5.3"
+}

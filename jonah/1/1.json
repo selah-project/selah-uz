@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va YahveNING soʻzi Yona Amittoy oʻgʻliga boʻlib, deyishicha keldi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomonidan"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Amittoy"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyishicha"
+    }
+  ],
+  "timestamp": "2026-08-26T05:44:22.381371879Z",
+  "model": "glm-5.3"
+}

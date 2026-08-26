@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Ol ⟨את⟩ levilarni Isroil oʻgʻillarining ichidan, va ⟨את⟩ ularni pokla.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "levilarni"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levilarni"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ichidan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "va pokla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "levilar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:22:11.183805546Z",
+  "model": "glm-5.3"
+}

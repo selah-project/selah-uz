@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Hech qanday tovonning yuzini koʻtarmaydi, va pora koʻpaytirilsa ham rozi boʻlmaydi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "koʻtarmaydi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hech qanday"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "tovon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "rozi boʻladi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "koʻpaytirsan"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "pora"
+    }
+  ],
+  "timestamp": "2026-08-26T06:40:48.035783480Z",
+  "model": "glm-5.3"
+}

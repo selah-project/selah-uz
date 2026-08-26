@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va oʻsha yerning oltini yaxshi; u yerda bedolax va shoxam toshi ⟨bor⟩.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "va oltini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolax"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "va tosh"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoxam"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:42.776105445Z",
+  "model": "glm-5.3"
+}

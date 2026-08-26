@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 85,
+  "translation": "Mudirga, Korach oʻgʻillariga — mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mudirga"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:18.942861484Z",
+  "model": "glm-5.3"
+}

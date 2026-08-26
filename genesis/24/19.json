@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 24:19",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va uni ichirishni tugatgach, aytdi: tuyalaring uchun ham, ichib boʻlguncha suv chiqaman.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "va tugatdi"
+    },
+    {
+      "surface": "להשקתו",
+      "gloss": "uni ichirishni"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לגמליך",
+      "gloss": "tuyalaring uchun"
+    },
+    {
+      "surface": "אשאב",
+      "gloss": "suv chiqaman"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "…gacha"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tugatmaguncha"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "ichishni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:21.945270651Z",
+  "model": "glm-5.3"
+}

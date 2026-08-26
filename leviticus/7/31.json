@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Kohin ⟨את⟩ yog‘nialta rga tutatib yuborsin, va ko‘krak Aharon va uning o‘g‘illariga tegishli bo‘lsin.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "tutatib yuborsin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yog‘ni"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yog‘ni"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "alta rga"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "bo‘lsin"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "ko‘krak"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ahron …ga"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "va uning o‘g‘illariga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:00.497431464Z",
+  "model": "glm-5.3"
+}

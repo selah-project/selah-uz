@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Belimni uruvchilarga berdim, yonoqlarimni yuluvchilarga; yuzimni haqorat va tupurikdan yashirmadim.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "belimni"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "berdim"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "uruvchilarga"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "yonoqlarimni"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "yuluvchilarga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzimni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-ma"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "yashirmadim"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "haqoratdan"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "va tupurikdan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:31:09.566318890Z",
+  "model": "glm-5.3"
+}

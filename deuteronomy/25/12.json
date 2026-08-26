@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "u holda uning kaftini kesib tashlaysan — koʻzing ham rahm qilmasin.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "kesib tashlaysan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning kaftini"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "uning kaftini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "rahm qilmasin"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "koʻzing"
+    }
+  ],
+  "timestamp": "2026-08-26T02:01:50.734515693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Senga panoh topdim, ey Yahve; abadiy uyalib ketmay men.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "panoh topdim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "uyalib ketmay"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:51.918035179Z",
+  "model": "glm-5.3"
+}

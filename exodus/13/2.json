@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 13:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Muqaddas qil Mening uchun har bir bachkorni — har bir bachdonni ochgan, Isroil oʻgʻillarida, odamda va hayvonda — Mening uchun ⟨u⟩ ⟨u⟩.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas qil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mening uchun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "bachkorni"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "ochgan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "bachdonni"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "oʻgʻillarida"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "odamda"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "va hayvonda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mening uchun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:31.112864088Z",
+  "model": "glm-5.3"
+}

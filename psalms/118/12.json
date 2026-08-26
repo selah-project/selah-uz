@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 118,
+  "translation": "Meni asalarilardek oʻrab oldilar, chigʻatoy oʻtidagi olovday oʻchdilar — Yahve nomi bilan ularni kesib tashlayman.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "meni oʻrab oldilar"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "asalarilardek"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "oʻchdilar"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "olovday"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "chigʻatoy oʻtidagi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nomi bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ularni kesib tashlayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:43.421748712Z",
+  "model": "glm-5.3"
+}

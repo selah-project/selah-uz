@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 34:17",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va ular Yahve uyida topilgan ⟨את⟩ kumushni toʻkib chiqardilar va uni nazoratchilar qoʻliga va ishni qiluvchilar qoʻliga berdilar.",
+  "tokens": [
+    {
+      "surface": "ויתיכו",
+      "gloss": "toʻkib chiqardilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumushni"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "topilgan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויתנוהו",
+      "gloss": "uni berdilar"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻli"
+    },
+    {
+      "surface": "המפקדים",
+      "gloss": "nazooratchilar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ...ga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻli"
+    },
+    {
+      "surface": "עושי",
+      "gloss": "qiluvchilar"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ish"
+    }
+  ],
+  "timestamp": "2026-08-26T08:16:02.630361271Z",
+  "model": "glm-5.3"
+}

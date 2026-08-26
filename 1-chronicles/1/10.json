@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Kush ⟨את⟩ Nimrodni dunyaga keltirdi; u yerni bosib ulkan boʻlishni boshladi.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrodni"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "החל",
+      "gloss": "boshladi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "boʻlishni"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ulkan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:33.965563675Z",
+  "model": "glm-5.3"
+}

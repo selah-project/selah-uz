@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 88,
+  "translation": "Meni suvlar kabi oʻrab oldi butun kunning davomida, birgalikda yopishti ustimga.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "oʻrab oldi"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "suvlar kabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunning"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "yopishti"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birgalikda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:47.567139828Z",
+  "model": "glm-5.3"
+}

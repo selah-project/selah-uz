@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 146,
+  "translation": "Baxtli ⟨u⟩ — Yaakovning Elohimi yordamida ⟨boʻlgan⟩, umidi Yahve — oʻz Elohimida ⟨boʻlgan⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtli"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "yordamida"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "umidi"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "oʻz Elohimida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:45.656284534Z",
+  "model": "glm-5.3"
+}

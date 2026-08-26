@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Noʻomining eri ElimLex oʻldi; va u qoldi — oʻzi va ikki oʻgʻli.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "oʻldi"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "ElimLex"
+    },
+    {
+      "surface": "איש",
+      "gloss": "eri"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noʻomining"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "qoldi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "va ikki"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "oʻgʻli"
+    }
+  ],
+  "timestamp": "2026-08-26T07:13:21.545568113Z",
+  "model": "glm-5.3"
+}

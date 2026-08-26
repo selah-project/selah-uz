@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va U sening haqligingni nurdek, sening hukmingni peshindek chiqaradi.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "va U... chiqaradi"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "nurdek"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sening haqligingni"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "sening hukmingni"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "peshindek"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:35.615685080Z",
+  "model": "glm-5.3"
+}

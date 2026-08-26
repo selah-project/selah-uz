@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va u, hatto Rahelga ham kirdi, va Rahelni Leadan ham koʻproq sevdì ⟨את⟩, va u bilan yana yetti yil boshqa xizmat qildi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "kirdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatto…ham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "sevdì"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahelni"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "Leadan koʻproq"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "xizmat qildi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "boshqa"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:01.491035229Z",
+  "model": "glm-5.3"
+}

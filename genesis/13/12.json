@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Abram dwelt in the land of Canaan, and Lot dwelt in the cities of the plain, and pitched ⟨his⟩ tent as far as Sodom.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Abram"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "dwelt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in the land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "of Canaan"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "and Lot"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "dwelt"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "in the cities"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "of the plain"
+    },
+    {
+      "surface": "ויאהל",
+      "gloss": "and pitched tent"
+    },
+    {
+      "surface": "עד",
+      "gloss": "as far as"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:37.231168009Z",
+  "model": "glm-5.3"
+}

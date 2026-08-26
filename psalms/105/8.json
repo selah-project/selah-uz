@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Esdi abadiy ahdi — soʻzni ki buyurdi ming avlodgacha.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Esdi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ahdi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzni"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdi"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "דור",
+      "gloss": "avlodgacha"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:16.813201050Z",
+  "model": "glm-5.3"
+}

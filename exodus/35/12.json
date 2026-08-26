@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "⟨את⟩ Sandiqni va ⟨את⟩ uning tayoqlarini, ⟨את⟩ kafarotni va ⟨את⟩ parda — toʻsqichni.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sandiqni"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Sandiqni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning tayoqlarini"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "uning tayoqlarini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kafarotni"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kafarotni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "parda"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "parda"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "toʻsqichni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:03:40.349802987Z",
+  "model": "glm-5.3"
+}

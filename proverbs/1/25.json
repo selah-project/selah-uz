@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Sizlar esa butun maslahatimni yengil sanadingiz va tanbehimga rozi boʻlmadingiz.",
+  "tokens": [
+    {
+      "surface": "ותפרעו",
+      "gloss": "esa yengil sanadingiz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "maslahatimni"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "va tanbehimga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-ga"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "rozi boʻlmadingiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:39:14.753882889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va bilim daraxtidan — yaxshilik va yomonlik bilimidan — undan yemaysan, chunki uni yegan kunning oʻzida — albatta oʻlasan.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "va … daraxtidan"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "bilim"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshilik"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "va yomonlik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yemaysan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "seni yeganing"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undandan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlib"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "oʻlasan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:51.003633128Z",
+  "model": "glm-5.3"
+}

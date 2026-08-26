@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Faqat baland joylar yoʻq qilinmagan edi — xali ham xalq baland joylarda qurbonliklar soʻyib va tutatqichlar tutatib yurar edi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "baland joylar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "olib tashlanmagan edi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "xali ham"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "qurbonliklar soʻyib"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "va tutatqichlar tutatib"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "baland joylarda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:33:12.225466634Z",
+  "model": "glm-5.3"
+}

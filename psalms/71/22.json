@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Men ham seni tanbar bilan, sadoqating uchun madh aytaman, Elohimim; seni kinor bilan kuylayman, Isroilning Muqaddasi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "seni madh aytaman"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "tanbar"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sadoqating"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "kuylayman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "seni"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "kinor bilan"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Muqaddasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:09.247966221Z",
+  "model": "glm-5.3"
+}

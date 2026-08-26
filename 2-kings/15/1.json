@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Yarovomning, Isroil qirolining, yigirma yettinchi yilida Azarya, Amatsyaning oʻgʻli, Yahudoh qiroli, podshohlik qildi.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "yilida"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirma"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "yettinchi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "Yarovomning"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohlik qildi"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Amatsya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudoh"
+    }
+  ],
+  "timestamp": "2026-08-26T03:54:41.897101819Z",
+  "model": "glm-5.3"
+}

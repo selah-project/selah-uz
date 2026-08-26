@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va u ⟨את⟩ buqani lager tashqarisiga olib chiqadi va uni birinchi buqa kuydirilgani kabi kuydiradi — u jamoatning gunoh qurbonidir.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Va u olib chiqadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buqa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "buqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqarisiga"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lager"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "va kuydiradi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "kuydirilgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birinchi buqa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "buqa"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "birinchi"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "gunoh qurboni"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jamoatning"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T01:11:18.845904520Z",
+  "model": "glm-5.3"
+}

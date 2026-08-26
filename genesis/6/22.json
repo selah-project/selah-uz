@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Noach ⟨את⟩ uni bajardi — Elohimning unga buyurgan hamma narsasiga koʻra, shunday qildi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Va bajardi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hamma narsasiga koʻra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "Noach"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:18:07.125692859Z",
+  "model": "glm-5.3"
+}

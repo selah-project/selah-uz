@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 114,
+  "translation": "Yahudo uning muqaddasligi ⟨boʻldi⟩, Isroil uning hukmronliklari.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "uning muqaddasligi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "uning hukmronliklari"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:48.223744087Z",
+  "model": "glm-5.3"
+}

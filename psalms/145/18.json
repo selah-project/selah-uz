@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Yaqin Yahve Uni chaqirganlarning barchasiga, Haqiqat ichida Uni chaqirganlarning barchasiga.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Yaqin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barchasiga"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "Uni chaqirganlarning"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barchasiga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "Uni chaqirganlar"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "haqiqat ichida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:40.889123020Z",
+  "model": "glm-5.3"
+}

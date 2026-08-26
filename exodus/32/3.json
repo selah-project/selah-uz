@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va butun xaloq quloqlaridagi ⟨את⟩ oltin halqalarni uzib oldi va Ahronga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "Va uzib oldilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xaloq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltin halqalarni"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "halqalarni"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "quloqlaridagi"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "va keltirdilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:47.681743590Z",
+  "model": "glm-5.3"
+}

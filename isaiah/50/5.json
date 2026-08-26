@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Adonay Yahve menga quloq ochdi va men isyon qilmadim, orqaga chekinmadim.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ochdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "quloq"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "va men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-ma"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "isyon qilmadim"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "orqaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-ma"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "chekinmadim"
+    }
+  ],
+  "timestamp": "2026-08-26T04:31:09.566069291Z",
+  "model": "glm-5.3"
+}

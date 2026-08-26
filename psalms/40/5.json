@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Baxtlidir ⟨the⟩ odam — u Yahveni oʻz ishonchi qildi va magʻrurlarga, yolgʻonga ogʻayganlarga yuz oʻgirmadi.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtlidir"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨the⟩ odam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u"
+    },
+    {
+      "surface": "שם",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "oʻz ishonchi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "yuz oʻgirmadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "magʻrurlarga"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "va ogʻayganlar"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yolgʻonga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:58.773012141Z",
+  "model": "glm-5.3"
+}

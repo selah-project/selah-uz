@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va butun xalq uning ortidan koʻtarildi, va xalq nay chalib chaldilar, va buyuk quvonch bilan quvonib, va yer ularning ovoziidan yorildi.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Va koʻtarildi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "uning ortidan"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "va xalq"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "chalib"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "nay chalib"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "va quvonib"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "quvonch"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "va yorildi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "ularning ovozi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:24:19.607479078Z",
+  "model": "glm-5.3"
+}

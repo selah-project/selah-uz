@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Yolgʻon soxtalarni hurmat qiluvchilardan nafrat qildim; men esa Yahve'ga suyandim.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "nafrat qildim"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "hurmat qiluvchilardan"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "soxtalarni"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men esa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "suyandim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:23.621416987Z",
+  "model": "glm-5.3"
+}

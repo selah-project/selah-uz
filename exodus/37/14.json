@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Halqalar romning qarshisida edi — tayoqlar uchun uylar ⟨is⟩, dasturxonni ⟨את⟩ koʻtarish uchun.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "qarshisida"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "romning"
+    },
+    {
+      "surface": "היו",
+      "gloss": "edilar"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "halqalar"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "uylar"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "tayoqlar uchun"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "koʻtarish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dasturxonni"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "dasturxonni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:06:33.085945143Z",
+  "model": "glm-5.3"
+}

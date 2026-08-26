@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ⟨את⟩ Baliqlar darvozasini qurdilar HaSneax oʻgʻillari; ular uni tom yopdilar va uning eshiklarini, qulfilarini va tayanchilarini tikdilar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baliqlar darvozasini"
+    },
+    {
+      "surface": "שער",
+      "gloss": "darvozasini"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "Baliqlar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "qurdilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "HaSneax"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "tom yopdilar"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "tikdilar"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "uning eshiklarini"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "qulfilarini"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "va tayanchilarini"
+    }
+  ],
+  "timestamp": "2026-08-26T07:43:20.599875113Z",
+  "model": "glm-5.3"
+}

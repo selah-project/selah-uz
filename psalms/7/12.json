@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Elohim solih hakam, va El har kuni gʻazablanadi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakam"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "gʻazablanadi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "har"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:10.048978772Z",
+  "model": "glm-5.3"
+}

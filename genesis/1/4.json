@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Elohim ⟨את⟩ yorugʻlikni koʻrdi, chunki ⟨u⟩ yaxshi edi; va Elohim yorugʻlik bilan zulmat oʻrtasini ajratdi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Va ... koʻrdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yorugʻlikni"
+    },
+    {
+      "surface": "האור",
+      "gloss": "yorugʻlikni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "Va ... ajratdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "oʻrtasini"
+    },
+    {
+      "surface": "האור",
+      "gloss": "yorugʻlik"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "bilan ... oʻrtasini"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "zulmat"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:33.938399245Z",
+  "model": "glm-5.3"
+}

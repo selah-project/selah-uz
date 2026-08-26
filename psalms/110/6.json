@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 110,
+  "translation": "U xalqlar orasida hukm chiqaradi, ⟨u⟩ jasadlar bilan toʻldiradi; u yer ustidagi ⟨katta⟩ yer yuzida boshni maydalaydi.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "hukm chiqaradi"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar orasida"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "toʻldiradi"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "jasadlar"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "maydalaydi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidagi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "katta"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:18.721277334Z",
+  "model": "glm-5.3"
+}

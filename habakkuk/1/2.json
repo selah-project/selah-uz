@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Qanchagacha, ey Yahve, faryod qildim va Sen eshitmading? Zorlanib Sen oloringa qichqiraman — zoʻravonlik! — va Sen qutqarmaysan.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Qanchagacha"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "qancha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "faryod qildim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va eshitmading"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "eshitmading"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "qichqiraman"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Sen oloringa"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zoʻravonlik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va qutqarmaysan"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "qutqarmaysan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:40:49.910482528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va boʻldi, Yoab shaharni kuzatganida, va u ⟨את⟩ Uriyani oʻsha joyga qoʻydi — u bilgan joyga, chunki zoʻr jangchilar oʻsha yerda edilar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "kuzatganida"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharni"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyani"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "u bilgan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "odamlari"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "zoʻr kuch"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oʻsha yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T03:10:59.031195545Z",
+  "model": "glm-5.3"
+}

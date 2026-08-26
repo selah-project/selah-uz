@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va qirol Dovid qaridi, kunlar kirdi, va uni kiyimlar bilan yopdilar, ammo unga issiqlik kelmadi.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Va qirol"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qaridi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kirdi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "kunlar"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "va uni yopdilar"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "kiyimlar bilan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo yoʻq"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "issiqlik keldi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:22:37.936638664Z",
+  "model": "glm-5.3"
+}

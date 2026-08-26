@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 53,
+  "translation": "Hammasi birga orqaga chekindi, buzildi; yaxshilik qiluvchi yoʻq, hatto bitta ham yoʻq.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "סג",
+      "gloss": "orqaga chekindi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birga"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "buzildi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshilik"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:11.614560946Z",
+  "model": "glm-5.3"
+}

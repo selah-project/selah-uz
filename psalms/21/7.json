@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Chunki Sen uni barakalarga qoʻyasen ⟨⟨abadiy⟩⟩, uni shodlik bilan xursand qilasan ⟨את⟩ yuzing bilan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "Sen uni qoʻyasen"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "barakalarga"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "⟨abadiy⟩"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "uni xursand qilasan"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "shodlik bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzing bilan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzing"
+    }
+  ],
+  "timestamp": "2026-08-26T08:41:58.126844483Z",
+  "model": "glm-5.3"
+}

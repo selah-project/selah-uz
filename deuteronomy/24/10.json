@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Agar qarz beruvchi boʻlsan yaqinlaringga — har qanday narsani garovga, — uning uyiga garovini olish uchun kirmagin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "qarz beruvchi boʻlsan"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "yaqinlaringga"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "qarz"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "har qanday narsani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kirmagin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uning uyiga"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "garovini olish"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "garovini"
+    }
+  ],
+  "timestamp": "2026-08-26T02:00:29.974533678Z",
+  "model": "glm-5.3"
+}

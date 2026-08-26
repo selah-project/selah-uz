@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Gunoh ustidan tanbehlar bilan odamni tarbiyalading, va kuya singari qadrlaganini eritding — har odam faqat aldanishdir. Selah.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "tanbehlar bilan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "עון",
+      "gloss": "gunoh"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "tarbiyalading"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "va eritding"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "kuya singari"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "qadrlaganini"
+    },
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "aldanish"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:45.359774415Z",
+  "model": "glm-5.3"
+}

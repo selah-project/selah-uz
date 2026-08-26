@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 140,
+  "translation": "Ustlariga choʻgʻlar yogʻilsin, olovga tashlansinlar, chuqur botqoqlarga — qayta turmasinlar.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "yogʻilsin"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ustlariga"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "choʻgʻlar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovga"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "tashlansinlar"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "chuqur botqoqlarga"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hech"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "qayta turmasinlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:07.321237789Z",
+  "model": "glm-5.3"
+}

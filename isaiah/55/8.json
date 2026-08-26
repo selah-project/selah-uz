@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Chunki Mening oʻy-xayollarim sizning oʻy-xayollaringiz ⟨emas⟩, va sizning yoʻllaringiz Mening yoʻllarim ⟨emas⟩, — Yahve bayonoti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "Mening oʻy-xayollarim"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "sizning oʻy-xayollaringiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "sizning yoʻllaringiz"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "Mening yoʻllarim"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "bayonoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T04:30:23.486063675Z",
+  "model": "glm-5.3"
+}

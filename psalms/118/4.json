@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 118,
+  "translation": "Endi Yahvedan qoʻrqqonlar ayursin: chunki abadiygacha ⟨davom etadi⟩ Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ayursin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "qoʻrqqonlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiygacha"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:42.914613231Z",
+  "model": "glm-5.3"
+}

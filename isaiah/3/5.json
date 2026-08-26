@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ⟨the⟩ xalq bosiladi, odam ⟨by⟩ odam va odam oʻz yoninisiga; yosh qariga qarshi tavakkal qiladi, va arzon qadrli sha'nli kishiga qarshi.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "Va bosiladi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ xalq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "⟨by⟩ odam"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "va odam"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "oʻz yoninisiga"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "tavakkal qiladi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yosh"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "qariga qarshi"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "va arzon"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "qadrli sha'nli kishiga qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T09:02:56.292908368Z",
+  "model": "glm-5.3"
+}

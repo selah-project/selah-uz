@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Yahvega shundaymi munosabat qilasizlar, ey ahmoq va dono boʻlmagan xalq? U sening otang emasmi, seni qoʻlga keltirganmi? U seni yaratdi va barpo etdimi ⟨seni⟩?",
+  "tokens": [
+    {
+      "surface": "ה",
+      "gloss": "⟨mi⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "תגמלו",
+      "gloss": "munosabat qilasizlar"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bundaymi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ey xalq"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ahmoq"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "dono"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "emasmi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "sening otang"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "seni qoʻlga keltirgan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "עשך",
+      "gloss": "seni yaratdi"
+    },
+    {
+      "surface": "ויכננך",
+      "gloss": "va barpo etdi ⟨seni⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T02:06:18.450174181Z",
+  "model": "glm-5.3"
+}

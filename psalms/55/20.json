@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "El eshitadi va ularga javob beradi, va qadimdan oʻtirgan — Sela. Chunki ularning oʻzgarishlari yoʻq, va ular Elohimdan qoʻrqmaydilar.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "eshitadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "va ularga javob beradi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va oʻtirgan"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "qadimdan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "oʻzgarishlari"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ularning"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "qoʻrqmaydilar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:37.346552607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Shaul xizmatkoriga dedi: „Soʻzing yaxshi, kel, boraylik.“ Va u yerdagi — Elohim odami boʻlgan — shaharga ketdilar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "xizmatkoriga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "soʻzing"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kel"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "boraylik"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "Va ketdilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odami"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T02:46:02.742793766Z",
+  "model": "glm-5.3"
+}

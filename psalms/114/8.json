@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 114,
+  "translation": "⟨U⟩ toshni suv havzasiga aylantirdi, chaqmoqtoshni suv buloqlariga!",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "⟨U⟩ aylantirdi"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "toshni"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "suv havzasiga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "chaqmoqtoshni"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "buloqlariga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:18.854911936Z",
+  "model": "glm-5.3"
+}

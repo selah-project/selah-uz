@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Pok yurakni yarat menga, Elohim, va muqim ruхni yangilagin ichimda.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "yurak"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pok"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yaratgin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "va ruх"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "muqim"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yangilagin"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ichimda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:11.612360116Z",
+  "model": "glm-5.3"
+}

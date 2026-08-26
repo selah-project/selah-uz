@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va olsinlar qondan va surtsinlar ikki ustunga va eshik ustuniga — ⟨the⟩ oʻsha uylarga, ularda yer uni ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "Va olsinlar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qon"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "va surtsinlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "ustunga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ga"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "eshik ustuniga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "oʻsha uylarga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ularda"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (moʻysiz goʻshti)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:07.505624693Z",
+  "model": "glm-5.3"
+}

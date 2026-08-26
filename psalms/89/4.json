@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Tanlanganimga ahd kesib berdim, bandam Dovudga qasam ichdim.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "kesdim"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "tanlanganimga"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "qasam ichdim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bandam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:01.580679903Z",
+  "model": "glm-5.3"
+}

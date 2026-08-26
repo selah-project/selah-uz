@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Qasam qildiraman sizlarni ⟨את⟩, ey Yerushalaim qizlari: agar doddimni ⟨את⟩ topsangiz, unga nima aytursiz? — Sevgidan xastaman, men.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "qasam qildiraman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "sizlarni ⟨את⟩",
+      "marks": "Yerushalaim qizlari"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qizlari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "topsansiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doddimni"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "doddimni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "aytursiz"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "xastaman"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "sevgidan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    }
+  ],
+  "timestamp": "2026-08-26T07:11:24.468504019Z",
+  "model": "glm-5.3"
+}

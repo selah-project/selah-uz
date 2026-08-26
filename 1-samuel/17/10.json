@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va palishtilik aytdi: Men bugun ⟨את⟩ Isroilning jang qatorlarini haqoratladim; menga bir kishi beringiz-ki, birga jang qilaylik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "palishtilik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "haqoratladim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilning jang qatorlarini"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "jang qatorlari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "beringiz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir kishi"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "va jang qilaylik"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:51:03.834631415Z",
+  "model": "glm-5.3"
+}

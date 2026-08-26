@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Voy boʻlsin ularga — uyatsizliklarining oqibatida, menga: „Ho, ho!“ deyuvchilar.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Voy boʻlsin"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "oqibatida"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "uyatsizliklarining"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "deyuvchilar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "האח",
+      "gloss": "„Ho!“"
+    },
+    {
+      "surface": "האח",
+      "gloss": "„Ho!“"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:36.849248341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Men adolat va haqqoniylik qildim; meni zulmkorlarimga tashlab ketma.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "qildim"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "va haqqoniylik"
+    },
+    {
+      "surface": "בל",
+      "gloss": "tashlab ketma"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "meni"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "zulmkorlarimga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:56.294030017Z",
+  "model": "glm-5.3"
+}

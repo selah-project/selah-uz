@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Agar u qulasa, tashlab yuborilmaydi, chunki Yahve uning qoʻlini suyab turadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "qulasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "tashlab yuboriladi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "suyab turadi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "uning qoʻlini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:04.473875420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va iltijo qildi Moshe ⟨את⟩ Yahve Elohimi yuziga va aytdi: Nega, Yahve, yonsin gʻazabing xalqingga, sen chiqargan Misr yeridan buyuk kuch bilan va qattiq qoʻl bilan?",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "iltijo qildi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Elohimi yuzi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "yonsin"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "gʻazabing"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "xalqingga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "chiqarding"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "kuch bilan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "va qoʻl bilan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "qattiq"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:17.836644238Z",
+  "model": "glm-5.3"
+}

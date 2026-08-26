@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 141,
+  "translation": "Solih kishi xesed bilan meni ursin, va bosh moyi bilan meni qorasin — mening boshim uni rad etmasin, chunki baribir mening duom ularning yomonliklari ustida boʻladi.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "meni ursin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed bilan"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "va meni qorasin"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "bosh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olmay"
+    },
+    {
+      "surface": "יני",
+      "gloss": "rad qilsin"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mening boshim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "baribir"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "va mening duom"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "ularning yomonliklarida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:25.617287854Z",
+  "model": "glm-5.3"
+}

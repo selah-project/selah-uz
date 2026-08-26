@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Azarja ⟨את⟩ Amarjayni dunyoga keltirdi, Amarjay esa ⟨את⟩ Axitubni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarjayni"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarjayni"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "Amarjay esa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axitubni"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Axitubni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:54:41.362536124Z",
+  "model": "glm-5.3"
+}

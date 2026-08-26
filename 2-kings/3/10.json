@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Isroil podshohi aytdi: Voy! Chunki Yahve shu uch podshohni chaqirdi — ⟨את⟩ ularni Moab qoʻliga berish uchun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Voy!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chaqirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "uch"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "podshohlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "berish uchun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻliga"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-26T03:47:27.549808642Z",
+  "model": "glm-5.3"
+}

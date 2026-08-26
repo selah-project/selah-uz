@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 141,
+  "translation": "Qoy, Yahve, ogʻizimga qorovul, lablarim eshigini yuqorisidan saqla.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Qoy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "qorovul"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ogʻizimga"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "saqla"
+    },
+    {
+      "surface": "על",
+      "gloss": "yuqorisidan"
+    },
+    {
+      "surface": "דל",
+      "gloss": "eshigini"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lablarimning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:28.521976114Z",
+  "model": "glm-5.3"
+}

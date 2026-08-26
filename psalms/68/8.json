@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Elohim, xalqing oldidan chiqqaningda, choʻl — Yeshimonda — kengashib oʻtganda. Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "chiqqaningda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldidan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqing"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "oʻtganda"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "choʻl — Yeshimonda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:43.736109506Z",
+  "model": "glm-5.3"
+}

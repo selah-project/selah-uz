@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Shofarni oyda suringlar, toʻlin oyda — bayram kunimiz uchun.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "suringlar"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "oyda"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofarni"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "toʻlin oyda"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kuni uchun"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "bayram kunimiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:35.011412339Z",
+  "model": "glm-5.3"
+}

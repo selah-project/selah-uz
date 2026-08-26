@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va u oʻz xalqini qoʻy kabi olib chiqdi va ularni choʻlda poda kabi boshqarib yurdi.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Va u … olib chiqdi"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "qoʻy kabi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻz xalqini"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "va ularni boshqarib yurdi"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "poda kabi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:39.343033435Z",
+  "model": "glm-5.3"
+}

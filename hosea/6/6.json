@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Chunki xesed xohlayman, qurbonlikni emas, va Elohimni bilishni yoqilgan qurbonliklardan ⟨ustun⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "xohlayman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbonlikni"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "va bilishni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "yoqilgan qurbonliklardan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:35:39.024308686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va jamaatga suv bo‘lmadi, va ular Moshe va Aharon ustiga to‘planishdi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va bo‘lmadi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bo‘lmadi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "jamaat uchun"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "va to‘planishdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustiga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-26T01:37:36.304691332Z",
+  "model": "glm-5.3"
+}

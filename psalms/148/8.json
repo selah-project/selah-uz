@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 148,
+  "translation": "Olov va doʻl, qor va tuman, boʻronga uchgan shamol — ⟨u⟩ning soʻzini bajaradigan.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "va doʻl"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "qor"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "va tuman"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "shamol"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "boʻronga uchgan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bajaradigan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "⟨u⟩ning soʻzi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:21.022023392Z",
+  "model": "glm-5.3"
+}

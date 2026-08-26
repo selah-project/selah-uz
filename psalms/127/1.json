@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 127,
+  "translation": "Marotiblar qoʻshigʻi, Shelomo uchun. Agar Yahve uyni qurmasa, uning quruvchilari ⟨u ustida⟩ bekorga mehnat qildilar; agar Yahve shaharni saqlamas, qorovul bekorga tong ottiradi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshigʻi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "marotiblar"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomo uchun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...masa"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "qurmasa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyni"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "bekorga"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "mehnat qildilar"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "uning quruvchilari"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨u ustida⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...masa"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "saqlamas"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shaharni"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "bekorga"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "tong ottiradi"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "qorovul"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:33.352206570Z",
+  "model": "glm-5.3"
+}

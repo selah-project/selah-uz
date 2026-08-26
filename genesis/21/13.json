@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va ⟨את⟩ kanizning oʻgʻlini ham xalq qilib qoʻyaman, chunki u sening urugʻingdir.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "va…ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanizning oʻgʻlini"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kanizning"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "qilib qoʻyaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sening urugʻing"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:12.687891108Z",
+  "model": "glm-5.3"
+}

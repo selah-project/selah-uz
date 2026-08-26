@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Solihning mehnati hayotga ⟨olib boradi⟩, reshoning daromadi gunoxga ⟨olib boradi⟩.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "mehnati"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solihning"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "hayotga"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "daromadi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "reshoning"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "gunoxga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:35.882497401Z",
+  "model": "glm-5.3"
+}

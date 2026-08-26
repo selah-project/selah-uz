@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va ularni xalqlar qoʻliga berdi va ulardan nafratlanganlar ustidan hukmronlik qildi.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻliga"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "hukmronlik qildi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ular ustidan"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "ulardan nafratlanganlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:21.465913852Z",
+  "model": "glm-5.3"
+}

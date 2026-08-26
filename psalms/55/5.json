@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Yuragim ichimda to'lqinlanadi, va o'lim dahshatlari ustimga tushdi.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Yuragim"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "to'lqinlanadi"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ichimda"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "va ... dahshatlari"
+    },
+    {
+      "surface": "מות",
+      "gloss": "o'lim"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:24.419540937Z",
+  "model": "glm-5.3"
+}

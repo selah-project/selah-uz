@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Bir kun emas siz yeysizlar, va ikki kun emas, va besh kun emas, va oʻn kun emas, va yigirma kun emas —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "siz yeysizlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "ikki kun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "besh"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirma"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:33:43.147169137Z",
+  "model": "glm-5.3"
+}

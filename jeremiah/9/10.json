@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va ⟨את⟩ Yerushalaimni xarobalarga, shiyalarga maskan qilib beraman, va ⟨את⟩ Yahudaning shaharlarini vayronaga aylantiraman — aholi yoʻqligidan.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Va beraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaimni"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaimni"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "xarobalarga"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "maskan"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "shiyalar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yahudaning shaharlarini"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "shaharlarini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudaning"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "beraman"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "vayronaga"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "yoʻqligidan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "aholi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:43:12.712521730Z",
+  "model": "glm-5.3"
+}

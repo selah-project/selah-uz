@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Xushimdan u tugʻdi ⟨את⟩ Avitubni va ⟨את⟩ Elpaalni.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "va Xushimdan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "u tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abitub"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Abitub"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Elpaal"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    }
+  ],
+  "timestamp": "2026-08-26T07:56:12.085599743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Ayol aytdi: ilon meni aldadi, va men oldim. U aytdi: nima qilding! ⟨את⟩ ovozga eshituv, ⟨את⟩ hukmronlikka va uyingdan keyin oʻgʻillarining yuziga murojaat — bu hammaga tegishli.",
+  "tokens": [
+    {
+      "surface": "וַתֹּ֣אמֶר",
+      "gloss": "u aytdi (ayol)"
+    },
+    {
+      "surface": "הַנָּחָ֗שׁ",
+      "gloss": "ilon"
+    },
+    {
+      "surface": "הִשִּׁיאַ֤נִי",
+      "gloss": "meni aldadi"
+    },
+    {
+      "surface": "וָאֹכֵֽל",
+      "gloss": "va men yedim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:44.154905245Z",
+  "model": "glm-5.3"
+}

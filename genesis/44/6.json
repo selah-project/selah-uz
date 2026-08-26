@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "U ularga yetib oldi va ularga ⟨את⟩ bu soʻzlarni gapirdi.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "yetib oldi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu soʻzlarni"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:33.687829565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va ularni kohunga keltirsin; va kohun avval gunoh qurbonligi uchun boʻlganini taqdim etsin, va uning boshini boʻynining old tomonidan qisib uzsin, ammo butunlay uzib ayirmasin.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "va keltirsin"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohun"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "va taqdim etsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunoh qurbonligi uchun boʻlganini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niki"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "gunoh qurbonligi uchun"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "avval"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "va qisib uzsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning boshini"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "uning boshini"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "old tomonidan"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "boʻyni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo yoʻq"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "uzib ayirmasin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:19.632074026Z",
+  "model": "glm-5.3"
+}

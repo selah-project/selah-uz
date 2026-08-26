@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Elohim qilgan barcha narsani ⟨את⟩ koʻrdi va mana juda yaxshi ⟨edi⟩; va oqshom boʻldi, va tong otdi — oltinchi kun.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qilgan barcha narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsani"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "oqshom"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "oltinchi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:22.358250288Z",
+  "model": "glm-5.3"
+}

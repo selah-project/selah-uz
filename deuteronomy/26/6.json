@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 26:6",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va misrayliklar bizga yomonlik qildilar ⟨את⟩ va bizni qiynadilar, va bizning ustimizga ogʻir mehnat yukladilar.",
+  "tokens": [
+    {
+      "surface": "וירעו",
+      "gloss": "va yomonlik qildilar"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "bizni (misrayliklar obyekti sifatida)"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "misrayliklar"
+    },
+    {
+      "surface": "ויענונו",
+      "gloss": "va bizni qiynadilar"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "va yukladilar"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizning ustimizga"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "mehnat"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ogʻir"
+    }
+  ],
+  "timestamp": "2026-08-26T02:01:34.013694283Z",
+  "model": "glm-5.3"
+}

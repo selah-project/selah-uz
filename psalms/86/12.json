@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 86:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Seni butun yuragim bilan madh etaman, Adonay, Elohimim; va ismingni abadiy ulugʻlayman.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Seni madh etaman"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun ... bilan"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "va ulugʻlayman"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ishingni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:27.147475299Z",
+  "model": "glm-5.3"
+}

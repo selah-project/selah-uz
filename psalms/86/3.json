@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Menga marhamat qil, Adonay, chunki seni barcha kun chaqiraman.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "manga marhamat qil"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "seni"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "chaqiraman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:38.142161438Z",
+  "model": "glm-5.3"
+}

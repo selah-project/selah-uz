@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va sen yasaysan ⟨את⟩ mehbarni — akatsiya yogʻochidan: besh tirsak uzunligi va besh tirsak kengligi; toʻrtburchak boʻladi mehbar, va uning boʻyi uch tirsak.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "va sen yasaysan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehbarni"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mehbarni"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsiya"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "besh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzunligi"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "va besh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "kengligi"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "toʻrtburchak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mehbar"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "va uch"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "uning boʻyi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:06.194693456Z",
+  "model": "glm-5.3"
+}

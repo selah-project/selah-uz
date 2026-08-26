@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Va hozir ⟨את⟩ uning o'yilgan bezaklarini birga — bolta va o'roqboltalar bilan urib sindirdilar.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "Va hozir"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "uning o'yilgan bezaklarini"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birga"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "bolta bilan"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "va o'roqboltalar"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "urib sindirdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:13.911940547Z",
+  "model": "glm-5.3"
+}

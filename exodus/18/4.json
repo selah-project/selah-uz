@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va ikkinchisining ismi Eliyezer, chunki u: «Otamning Elohimi yordamim boʻldi va meni Paroning qilichidan qutqardi», degan.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "va ismi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ikkinchisining"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliyezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otamning"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "yordamim boʻldi"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "va qutqardi"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "qilichidan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:11.996450515Z",
+  "model": "glm-5.3"
+}

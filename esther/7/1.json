@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va kelishi boʻldi ⟨the⟩ podshohning va Hamanning — ichish uchun Ester bilan, ⟨the⟩ malika.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Va kelishi boʻldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ podshoh"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "va Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ichish uchun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "⟨the⟩ malika"
+    }
+  ],
+  "timestamp": "2026-08-26T07:25:49.626351336Z",
+  "model": "glm-5.3"
+}

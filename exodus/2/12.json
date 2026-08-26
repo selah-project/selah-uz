@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va u bu yonga va u yonga qaradi, va hech kim yoʻqligini koʻrdi, va ⟨את⟩ misrlikni urdi va uni qumga koʻmdi.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "qaradi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bu yonga"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "va u yonga"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ligini"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hech kim"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misrlikni"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "misrlikni"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "uni koʻmdi"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "qumga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:01.664510736Z",
+  "model": "glm-5.3"
+}

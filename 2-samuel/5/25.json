@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Dovud shunday qildi — Yahve unga buyurganidek — va filistliklarni ⟨את⟩ Gevadan tortib Gezerga yetib borguncha urdi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "...idek"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "unga buyurgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistliklarni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistliklarni"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "Gevadan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tortib"
+    },
+    {
+      "surface": "באך",
+      "gloss": "yetib borguncha"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezerga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:05:34.481370567Z",
+  "model": "glm-5.3"
+}

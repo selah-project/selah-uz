@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Kunduzi va kechasi uni aylanib yurishlar devorlari ustida, va jinoyat va iztirob ⟨ bor ⟩ uning ichida.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "kunduzi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "va kechasi"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "uni aylanib yurishlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "devorlari"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "va jinoyat"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "va iztirob"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "uning ichida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:27.411368969Z",
+  "model": "glm-5.3"
+}

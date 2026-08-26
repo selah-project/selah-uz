@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va endi bitta iltijo soʻrayman sendan: Yuzimni qaytarma. U esa unga aytdi: Gapir.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "iltijo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "soʻrayman"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "sendan ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olohida"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "qaytarma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzimni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzimni"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapir"
+    }
+  ],
+  "timestamp": "2026-08-26T08:30:59.900614999Z",
+  "model": "glm-5.3"
+}

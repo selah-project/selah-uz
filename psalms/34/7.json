@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Bu kambagʻal qichqirdi va Yahve tingladi va barcha torliklaridan uni qutqardi.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Bu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kambagʻal"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "qichqirdi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "va Yahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "tingladi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "torliklaridan"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "uni qutqardi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:11.592699152Z",
+  "model": "glm-5.3"
+}

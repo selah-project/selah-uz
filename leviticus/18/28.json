@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va yer, uni ifloslaganingizda, ⟨את⟩ sizni ham qusmasin — sizdan oldin boʻlgan xalqni qusgani kabi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... masgin"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "qusmasin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizni",
+      "marks": "sizni"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "uni ifloslaganingizda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "qusgani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sizdan oldin boʻlgan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:22:08.721086309Z",
+  "model": "glm-5.3"
+}

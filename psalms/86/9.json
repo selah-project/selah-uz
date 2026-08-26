@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Barcha xalqlar — Sen yaratganlaring — keladi va Adonay, Sening yuzing oldida sajda qiladi va Sening ismingni ulugʻlaydi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaratganlaring"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "keladi"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "sajda qiladi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Sening yuzing oldida"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "uluğlaydi"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Sening ismingni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:27.147048623Z",
+  "model": "glm-5.3"
+}

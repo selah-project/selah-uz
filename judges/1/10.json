@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yehuda Chevronda yashovchi Kenaanlik oldiga bordi — Chevronning avvalgi nomi Kiryat-Arba edi — va ⟨את⟩ Sheshayni, va ⟨את⟩ Aximanni va ⟨את⟩ Talmayni urdilar.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Va bordi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaanlik"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "yashovchi"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Chevronda"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "va nomi"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevronning"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "avval"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "va urdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshayni"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshayni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Aximanni"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Aximanni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Talmayni"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmayni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:23:07.232483001Z",
+  "model": "glm-5.3"
+}

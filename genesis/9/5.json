@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va albatta ⟨את⟩ qoningizni — jonlariniz uchun — talab qilaman: har bir jonlivor qoʻlidan uni talab qilaman; va odam qoʻlidan, odamning birodarining qoʻlidan ⟨את⟩ odam jonini talab qilaman.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "Va albatta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoningizni"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "qoningizni"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "jonlariniz uchun"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "talab qilaman"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "jonlivor"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "uni talab qilaman"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "va qoʻlidan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "birodarining"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "talab qilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odam jonini"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jon"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:07.724758761Z",
+  "model": "glm-5.3"
+}

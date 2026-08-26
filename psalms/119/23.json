@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Hatto sarlar oʻtirib, men haqimda gapirdilar; Sening xizmatkoring Sening farzlaring ustida mulohaza yuritdi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "oʻtirib"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "sarlar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "men haqimda"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "gapirdilar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "Sening xizmatkoring"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "mulohaza yuritdi"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "Sening farzlaring ustida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:05.806429725Z",
+  "model": "glm-5.3"
+}

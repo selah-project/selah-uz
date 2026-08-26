@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Dovud mizmori. Yahve — mening choʻponim, kam koʻrmayman.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmori"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "choʻponim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "kam koʻrmayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:57.153079737Z",
+  "model": "glm-5.3"
+}

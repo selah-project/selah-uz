@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 1:25",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va qoʻllarida yerning mevasidan olib, bizning oldimizga tushirdilar va bizga ⟨את⟩ soʻzni qaytardilar va dedilar: Yahve Elohimimiz bizga berayotgan yer — yaxshi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "va olib"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "qoʻllarida"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "mevasidan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "va tushirdilar"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizning oldimizga"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "va qaytardilar"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzni (bizga)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berayotgan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:42.032155656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Elohim xalqni ⟨את⟩ choʻl yoʻli bilan — Qamish dengizi tomon — aylanib olib borddi; va Isroil oʻgʻillari Misr yeridan qator boʻlib yoʻlga chiqdilar.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "aylanib olib borddi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻli bilan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "choʻl"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengizi"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamish"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "qator boʻlib"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "yoʻlga chiqdilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:36.181303086Z",
+  "model": "glm-5.3"
+}

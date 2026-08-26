@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Guvohliklaring yoʻlida quvondim, barcha boyligicha quvondim.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlida"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "guvohliklaring"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "quvondim"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "…qadar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הון",
+      "gloss": "boylik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:22.286524263Z",
+  "model": "glm-5.3"
+}

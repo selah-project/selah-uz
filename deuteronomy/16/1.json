@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Aviv oyini kuzat ⟨את⟩ va Yahve, Elohimingga Pesaxni qil, chunki Aviv oyida Yahve, Elohiming seni Misrdan tunda chiqardi.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "kuzat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aviv oyini"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "oy"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "va qil"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaxni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimingga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "oyida"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Aviv"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "chiqardi seni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tunda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:24:49.288296199Z",
+  "model": "glm-5.3"
+}

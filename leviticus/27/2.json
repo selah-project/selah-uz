@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Bani-Isroilga gapir va ularga ayt: odam qachon ajraltuvgʻuch nazr qilsa, baholang boʻyicha nefeshlar Yahvega ⟨boʻladi⟩.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "gapir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "va ayt"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "ajraltuvgʻuch qilsa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nazr"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "baholang boʻyicha"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "nefeshlar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    }
+  ],
+  "timestamp": "2026-08-26T01:24:50.917921408Z",
+  "model": "glm-5.3"
+}

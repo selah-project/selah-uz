@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 97,
+  "translation": "Eshitdi va xursand boʻldi Tsiyon, va quvonchga toʻldi Yehudaning qizlari — sening hukmlaring uchun, ey Yahve!",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Eshitdi"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "va xursand boʻldi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "va quvonchga toʻldi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qizlari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaning"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukmlaring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:00.438134831Z",
+  "model": "glm-5.3"
+}

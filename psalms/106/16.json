@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Lagerda Moshega va Yahvening muqaddisi Aharonga hasad qildilar.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "hasad qildilar"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshega"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "lagerda"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonga"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "muqaddisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:45.576694441Z",
+  "model": "glm-5.3"
+}

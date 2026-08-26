@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 128,
+  "translation": "Qar-a, chunki shunday barokat topadi odam — Yahvedan qoʻrqgan!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qar-a"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barokat topadi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qoʻrqgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:09.202973985Z",
+  "model": "glm-5.3"
+}

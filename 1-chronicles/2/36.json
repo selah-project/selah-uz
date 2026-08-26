@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Attay ⟨את⟩ Natanni tugʻildi, va Natan ⟨את⟩ Zabadni tugʻildi.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "va Attay"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "tugʻildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natanni"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natanni"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "va Natan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "tugʻildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zabadni"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Zabadni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:54:03.727696937Z",
+  "model": "glm-5.3"
+}

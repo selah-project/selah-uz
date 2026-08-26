@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yahve huzuridan oʻt chiqdi va ularni yutib yubordi va ular Yahve huzurida oʻldilar.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "va chiqdi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "huzuridan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "va yutdi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "va oʻldilar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:14:41.294866690Z",
+  "model": "glm-5.3"
+}

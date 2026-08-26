@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 10:9",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Eslab tur, iltimos, sen meni loy kabi yasagansan va changga qaytarasan.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Eslab tur"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "loy kabi"
+    },
+    {
+      "surface": "עשיתני",
+      "gloss": "yasagansan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va...ga"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "changga"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "qaytarasan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:56:40.753092429Z",
+  "model": "glm-5.3"
+}

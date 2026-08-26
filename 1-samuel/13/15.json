@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Shemuël turdi va Gilgaldan Binyoming Givʼasiga chiqdi; va Shaül ⟨את⟩ oʻzi bilan topilgan xalqni sanadi — taxminan olti yuz kishi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Va ... turdi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "va ... chiqdi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgaldan"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Givʼasiga"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyoming"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "va ... sanadi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaül"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "topilgan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻzi bilan"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "taxminan olti"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:48:25.902535901Z",
+  "model": "glm-5.3"
+}

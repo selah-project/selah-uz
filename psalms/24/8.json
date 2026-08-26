@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Kim ⟨bu⟩ — shon-sharat maliki? Yahve — qudratli va jasur, Yahve — jang qahramoni.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨bu⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "malik"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "shon-sharatning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "qudratli"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "va jasur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qahramon"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "jangning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:25.468698250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Elohim rakiyaga Shamayim deb nom berdi; va boʻldi oqshom, va boʻldi tong — ikkinchi kun.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiyaga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Shamayim"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "oqshom"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikkinchi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:52.237451128Z",
+  "model": "glm-5.3"
+}

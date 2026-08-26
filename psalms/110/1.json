@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 110,
+  "translation": "Dovud mizmorini. Yahve ning soʻzi mening hojamga: «Oʻng tomonga oʻtir, dushmanlaringni oyoqlaring uchun supurtguncha.»",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ning soʻzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "mening hojamga"
+    },
+    {
+      "surface": "שב",
+      "gloss": "oʻtir"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "oʻng tomonga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guncha"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "supurtaguncha"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dushmanlaringni"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "oʻyiq uchun"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "oyoqlaring"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:00.732836602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Yer yuzidagi butun yolgʻonchilar — shpal kabi, sen yoʻq qilding, shuning uchun men sening guvohliklaringni sevdim.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "shpal kabi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "yoʻq qilding"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "yolgʻonchilar"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer yuzidagi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "men sevdim"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "sening guvohliklaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:18.603380806Z",
+  "model": "glm-5.3"
+}

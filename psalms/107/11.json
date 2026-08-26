@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Chunki ular El soʻzlariga qarshi isyon koʻtardilar va Elyon maslahatini oyoq osti qildilar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "ison koʻtardilar"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "soʻzlariga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "va maslahatini"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "oyoq osti qildilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:37.432619764Z",
+  "model": "glm-5.3"
+}

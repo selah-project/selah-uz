@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "atrofingizdagi xalqlarning elohimlaridan — sizga yaqinlaridan yoki sizdan uzoqlaridan, yerning chekkasidan yerning chekkasigacha —",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "elohimlaridan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlarning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "atrofingizdagi"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "yaqinlaridan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "uzoqlaridan"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sizdan"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "chekkasidan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ... gacha"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "chekkasigacha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    }
+  ],
+  "timestamp": "2026-08-26T01:57:14.580527137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Zero — buyruq ustiga buyruq, buyruq ustiga buyruq; chiziq ustiga chiziq, chiziq ustiga chiziq; bir oz shu yerda, bir oz u yerda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "zero"
+    },
+    {
+      "surface": "צו",
+      "gloss": "buyruq"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "buyruq ustiga"
+    },
+    {
+      "surface": "צו",
+      "gloss": "buyruq"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "buyruq ustiga"
+    },
+    {
+      "surface": "קו",
+      "gloss": "chiziq"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "chiziq ustiga"
+    },
+    {
+      "surface": "קו",
+      "gloss": "chiziq"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "chiziq ustiga"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "bir oz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "shu yerda"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "bir oz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:35:31.403063091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va Yaakov koʻrdi ki Misrda don bor, va Yaakov oʻgʻillariga dedi: nega bir-biringizga qarab turibsizlar?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "don"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misrda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "bir-biringizga qarab turibsizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:18.655826490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Ovozim bilan Yahve'ga nidoyi qildim va u muqaddas tog'idan menga javob berdi. Selah.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ovozim bilan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nidoyi qildim"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "va u menga javob berdi"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "tog'idan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:52.462401305Z",
+  "model": "glm-5.3"
+}

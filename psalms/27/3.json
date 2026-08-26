@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Agar qoʻshin ustimga lager qursa, yuragim qoʻrqmas; agar urush ustimga qoʻzilsa — ana shunga ishonaman men.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "lager qursa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "qoʻshin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "qoʻrqmas"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "qoʻzilsa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "urush"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ana shunga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "ishonaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:44.186651012Z",
+  "model": "glm-5.3"
+}

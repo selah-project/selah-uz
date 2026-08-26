@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Yahve ⟨את⟩ tomonidan baraka koʻtaradi, va oʻz qutqaruvining Eloahidan — tsedeka.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "koʻtaradi"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "baraka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve tomonidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "va tsedeka"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "…ning Eloahisi"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "oʻz qutqaruvi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:25.468055271Z",
+  "model": "glm-5.3"
+}

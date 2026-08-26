@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 75,
+  "translation": "Chunki Men menna paytni olganda, Men — toʻgʻrilik bilan hukm chiqaraman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "paytni olganda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "menna payt"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "toʻgʻrilik bilan"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "hukm chiqaraman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:01.805048360Z",
+  "model": "glm-5.3"
+}

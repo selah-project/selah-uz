@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Va yashaydi, va unga Sheba oltinidan beriladir, va u uchun doim duo qilinadir, butun kun davomida uni barakalaydirlar.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yashaydi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "beriladir"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "oltinidan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "duo qilinadir"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "u uchun"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "uni barakalaydirlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:13.894161227Z",
+  "model": "glm-5.3"
+}

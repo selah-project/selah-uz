@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Qarang, uni xalqlarga guvoh qildim, xalqlarga hokim va buyruq beruvchi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Qarang"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guvoh"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "xalqlarga"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "qildim"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "hokim"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "va buyruq beruvchi"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "xalqlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:30:47.276635363Z",
+  "model": "glm-5.3"
+}

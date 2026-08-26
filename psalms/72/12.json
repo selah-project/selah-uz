@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Chunki u qashshoqni — faryod chekuvchini qutqaradi, va mehnatkashni, unga yordam beruvchi yoʻq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "qutqaradi"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "qashshoqni"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "faryod chekuvchini"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "va mehnatkashni"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yordam beruvchi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:13.132969252Z",
+  "model": "glm-5.3"
+}

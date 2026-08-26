@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va plishti Dovudga dedi: Kel menga, va men ⟨את⟩ go'stingni osmon qushlariga va dalaning hayvonlariga beraman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "plishti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kel"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "va beraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "go'stingni"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "go'stingni"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "qushlariga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "va hayvonlariga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dalaning"
+    }
+  ],
+  "timestamp": "2026-08-26T02:52:22.721151792Z",
+  "model": "glm-5.3"
+}

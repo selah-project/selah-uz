@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 112,
+  "translation": "Sovurib berdi — sochdi, toki muxtojlarga berdi; uning sadogʻi abadiy turadi; uning shoxi shon-sharaf bilan koʻtariladi.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "sovurdi (sochdi)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "muxtojlarga"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "uning sadogʻi"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "turadi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "uning shoxi"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "koʻtariladi"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "shon-sharaf bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:02.929933118Z",
+  "model": "glm-5.3"
+}

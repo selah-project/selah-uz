@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va Isroil oʻgʻillarining muqaddaslarini bulgʻamasinlar — Yahvegа koʻtaradigan ⟨את⟩ narsalarni.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Va ... emas"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "bulgʻasalar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muqaddaslarini"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "muqaddaslarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narsalarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsalarni"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "koʻtaradilar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegа"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:48.546976480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va Avshalom unga aytardi: „Qaragin, gaplaring yaxshi va toʻgʻri, lekin sening uchun qirol tomonidan ⟨את⟩ eshituvchi yoʻq.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytardi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "qaragin"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "gaplaring"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "va toʻgʻri"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "va eshituvchi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sening uchun"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "qirol tomonidan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    }
+  ],
+  "timestamp": "2026-08-26T03:13:37.060345946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "va ⟨את⟩ kichik boyoʻgʻli, va ⟨את⟩ qorabaliqchini, va ⟨את⟩ katta boyoʻgʻlini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "kichik boyoʻgʻli"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kichik boyoʻgʻli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "qorabaliqchi"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "qorabaliqchi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "katta boyoʻgʻli"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "katta boyoʻgʻli"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:58.939307845Z",
+  "model": "glm-5.3"
+}

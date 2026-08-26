@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va ⟨את⟩ sigirni uning koʻz oldida yondiradi — ⟨את⟩ terisini va ⟨את⟩ goʻshtini va ⟨את⟩ qonini, goʻngi ustida yondiradi.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "va yondiradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sigirni"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "sigirni"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "uning koʻz oldida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terisini"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "terisini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "goʻshtini"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "goʻshtini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "qonini"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "qonini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "goʻngi"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "yondiradi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:36:49.102912174Z",
+  "model": "glm-5.3"
+}

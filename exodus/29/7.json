@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va meshshani olib, uning boshiga quyasan va uni moylaysan.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "olib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meshshani"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "meshshani"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "moylash"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "quyasan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "uning boshiga"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "moylaysan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:27.079917315Z",
+  "model": "glm-5.3"
+}

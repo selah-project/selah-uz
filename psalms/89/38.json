@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Oy kabi ⟨u⟩ abadiy barqaror turadi, va bulutdagi guvoh sadoqatli — Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "oy kabi"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "barqaror turadi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va guvoh"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "bulutda"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "sadoqatli"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:08.047565590Z",
+  "model": "glm-5.3"
+}

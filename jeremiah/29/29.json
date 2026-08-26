@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va Tsefanya kohen ⟨את⟩ shu maktubni Yirmeyahu paygʻambarning qulogʻiga oʻqidi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Va … oʻqidi"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shu maktubni"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "maktubni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "qulogʻiga"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "paygʻambar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:55:05.990204028Z",
+  "model": "glm-5.3"
+}

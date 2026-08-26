@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Elohimning ⟨את⟩ ishini koʻr, chunki kim ⟨את⟩ bujrilganini toʻgʻrilay oladi?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "koʻr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ish"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "oladi"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "toʻgʻrilay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bujrilgan narsani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsani"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "bujrilganini"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:59.214715283Z",
+  "model": "glm-5.3"
+}

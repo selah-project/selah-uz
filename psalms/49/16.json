@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Lekin Elohim nefeshimni Sheol qoʻlidan qutqaradi, chunki u meni oladi. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Lekin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "qutqaradi (fidyo beradi)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshimni"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "meni oladi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:49.049032381Z",
+  "model": "glm-5.3"
+}

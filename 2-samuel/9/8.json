@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va u sajda qildi va dedi: Banokoringiz nimanki, seni o‘lik it — mendekiga — yuz o‘girgani uchun?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "sajda qildi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "banokoringiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ki"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "yuz o‘girding"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "itga"
+    },
+    {
+      "surface": "המת",
+      "gloss": "o‘lik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "mendeki"
+    }
+  ],
+  "timestamp": "2026-08-26T03:08:56.359734263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "U qoyani ochdi va suvlar oqib chiqdi, quruq joylarda daryo kabi yurdi.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ochdi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "qoya"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "va oqib chiqdi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "yurdi"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "quruq joylarda"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "daryo"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:37.738820321Z",
+  "model": "glm-5.3"
+}

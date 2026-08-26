@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va urugʻingdan hech birini Molekka ⟨biborib⟩ oʻtqazish uchun bermaysan, va Elohimingng nomini muqaddasdan chiqarmaysan — Men Yahveman.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "va urugʻingdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bermaysan"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "⟨biborib⟩ oʻtqazish uchun"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Molekka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va... emas"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "muqaddasdan chiqarmaysan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nomini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomini"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimingng"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:47.970904569Z",
+  "model": "glm-5.3"
+}

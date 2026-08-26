@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Chunki ular uxlamaydilar, agar yomonlik qilmasalar; va ularning uyqusi tortib olinadi, agar kimniqadamsiltatmasalar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "uxlamaydilar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "yomonlik qilmasalar"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "va tortib olinadi"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "ularning uyqusi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "qadamsiltatmasalar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:28.743670099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Boʻlsin ularning dasturxoni ularga toʻr uchun, va tinchliklariga tuzoq uchun.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "ularning dasturxoni"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ular oldida"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "toʻr uchun"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "va tinchliklariga"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tuzoq uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:05.615799417Z",
+  "model": "glm-5.3"
+}

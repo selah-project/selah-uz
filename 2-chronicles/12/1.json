@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va boʻldi: Rehavamning podshohligi mustahkam boʻlganda va u kuchlanganda, u Yahve Tavotasini tark etdi, va butun Isroil u bilan birga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "mustahkam boʻlganda"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "podshohligi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavamning"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "va u kuchlanganda"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "tark etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tavotani"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tavotasini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan birga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:08:07.169836863Z",
+  "model": "glm-5.3"
+}

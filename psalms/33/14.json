@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Oʻtiradigan joyidan u yerning barcha yashovchilariga nazar tashladi.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "joyidan"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "oʻtiradigan"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "nazarga oldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "yashovchilari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:48.298924112Z",
+  "model": "glm-5.3"
+}

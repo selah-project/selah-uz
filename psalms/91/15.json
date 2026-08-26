@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "U Meni chaqiradi, Men unga javob beraman, tanglikda Men uning bilanman, Men uni qutqarurman va ulugʻlurman.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "u Meni chaqiradi"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "Men unga javob beraman"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uning bilan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "tanglikda"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "uni qutqarurman"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "va ulugʻlurman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:01.882148979Z",
+  "model": "glm-5.3"
+}

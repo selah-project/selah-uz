@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Moshe tayoqni Yahve huzuridan oldi, unga buyurganidek.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayoqni"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "tayoqni"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "huzuridan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…dek"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "unga buyurgani"
+    }
+  ],
+  "timestamp": "2026-08-26T01:37:26.271050622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "Emasmi, Sen, Elohim, bizni tashlab yubordinging, va chiqmaysanmi, Elohim, qoʻshinlarimiz bilan?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "emasmi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "bizni tashlab yubordinging"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va chiqmaysanmi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "chiqasan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "qoʻshinlarimiz bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:54.101516594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "va o'sha shaharning qariyalari buzoqni ⟨את⟩ jar — doimiy oqar — ga tushursinlar, unda ishlanmaydigan va ekilmaydigan, va yerincha buzoqning ⟨את⟩ bo'ynini jar ichida kessinlar",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "va tushursinlar"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qariyalari"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharning"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o'sha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buzoqni"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "buzoq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "jar"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "doimiy oqar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...maydigan"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "ishlan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ...lmaydigan"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ekil"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "va kessinlar bo'ynini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "yerincha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buzoqning"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "buzoq"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "jar ichida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:58:10.406523597Z",
+  "model": "glm-5.3"
+}

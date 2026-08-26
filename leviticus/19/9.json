@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va oʻz yeringizning hosilini oʻrganda ⟨את⟩ hosilani butunlay oʻrmay qoʻyma — dalang ⟨the⟩ chetini oʻrishda tugatma, va hosiling ⟨the⟩ toʻplamini (leket) toʻplama.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "Va oʻz yeringizning hosilini oʻrganda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hosila"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "hosila"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "yeringiz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "butunlay oʻrmay qoʻyma (tugatma)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "chet"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "dalang"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "oʻrishda"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "va toʻplam (leket)"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "hosiling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "toʻplama"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:16.417545058Z",
+  "model": "glm-5.3"
+}

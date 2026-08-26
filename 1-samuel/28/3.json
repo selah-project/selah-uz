@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va Shemuël vafot etdi, va butun Isroil unga yigʻladi va uni Ramada, oʻz shahrida dafn etdi; va Shaúl ovoz beruvchi ruhlarni va ⟨את⟩ jodugarlarni yerdan olib tashladi.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Va Shemuël"
+    },
+    {
+      "surface": "מת",
+      "gloss": "vafot etdi"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "va yigʻladilar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "va uni dafn etdi"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Ramada"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "va oʻz shahrida"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "va Shaúl"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "olib tashladi"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ovoz beruvchi ruhlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "jodugarlarni"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "jodugarlarni"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "yerdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:29:44.177983688Z",
+  "model": "glm-5.3"
+}

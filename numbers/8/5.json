@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Yahve Moshega gapirdi, deganidek:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deganidek"
+    }
+  ],
+  "timestamp": "2026-08-26T08:22:11.183447527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Qancha marta Unga cho'lda qarshi chiqdilar, Yi-shimonda Uni xafa qildilar!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "qancha marta"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "Unga qarshi chiqdilar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "cho'lda"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "Uni xafa qildilar"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "Yi-shimonda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:08.003610960Z",
+  "model": "glm-5.3"
+}

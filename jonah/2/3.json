@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va u dedi: Mening tangligimda Yahvega nido qildim, va U menga javob berdi; Sheol qornidan faryod qildim — Sen ovozimni eshitding.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va u dedi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nido qildim"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "tangligimdan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "va U javob berdi menga"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "qornidan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "faryod qildim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Sen eshitding"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ovozimni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:13.134049579Z",
+  "model": "glm-5.3"
+}

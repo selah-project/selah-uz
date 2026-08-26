@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va Moshe shoshildi va yerga qaddi buktadi va sijda qildi",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "shoshildi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "qaddi buktadi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "sijda qildi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:57:21.673759517Z",
+  "model": "glm-5.3"
+}

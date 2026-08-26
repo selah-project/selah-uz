@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Yahve barcha qulaganlarni koʻtarib turadi, va barcha bukilganlarni tiklaydi.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "koʻtarib turadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "qulaganlarni"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "va tiklaydi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "bukilganlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:44.854857291Z",
+  "model": "glm-5.3"
+}

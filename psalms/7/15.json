@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Mana, u afgʻorlikdan homila boʻladi, zararni homila qilib tugʻadi — yolgʻonni.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "homila boʻladi"
+    },
+    {
+      "surface": "און",
+      "gloss": "afgʻorlikdan"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "va homila qilib"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "zarni"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "va tugʻadi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻonni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:13.602832223Z",
+  "model": "glm-5.3"
+}

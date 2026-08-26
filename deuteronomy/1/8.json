@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Koranglar, men ⟨את⟩ yerni oldingizga qoʻydimgina kirgilargina egallagilar ⟨את⟩ yerniki bilan Yahve otalaringizga — Avrahamga, Yitsxakqa va Yaakovga — ularga va ulardan keyin urugʻlariga berish uchun qasam ichgan.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Koranglar"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "qoʻydima"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "oldingizga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kirgilar"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "egallagilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niki"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "qasam ichgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "otalaringizga"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamga"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsxakqa"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "va Yaakovga"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "berish uchun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "va urugʻlariga"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ulardan keyin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:48:32.740144343Z",
+  "model": "glm-5.3"
+}

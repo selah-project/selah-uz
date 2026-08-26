@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 67,
+  "translation": "Elohim bizga marhamat qilsin va bizni barokla, yuzini biz ⟨את⟩ga nurlantirsin. Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "bizga marhamat qilsin"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "va bizni barokla"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "nurlantirsin"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "biz"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:03.900168948Z",
+  "model": "glm-5.3"
+}

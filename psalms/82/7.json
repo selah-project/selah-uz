@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 82,
+  "translation": "Shubhasiz, odam kabi oʻlasizlar va hukmdorlardan biri kabi qulaysizlar.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Shubhasiz"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "odam kabi"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "oʻlasizlar"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "va ... biri kabi"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "hukmdorlardan"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "qulaysizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:09.030566434Z",
+  "model": "glm-5.3"
+}

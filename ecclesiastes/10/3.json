@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Yoʻlda ham, ahmoq yursa, aqli yetishmaydi va ⟨u⟩ hammaga ahmoq ekanini aytadi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "va ham"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "ahmoq sifatida"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yursa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "aqli"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "yetishmaydi"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "va aytadi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hammaga"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ahmoq"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:57.961351908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 11:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Yishay tiligʻidan novda chiqadi, va ildizlaridan kurtak unib meva beradi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "chiqadi"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "novda"
+    },
+    {
+      "surface": "מגזע",
+      "gloss": "tiligʻidan"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    },
+    {
+      "surface": "ונצר",
+      "gloss": "kurtak"
+    },
+    {
+      "surface": "משרשיו",
+      "gloss": "ildizlaridan"
+    },
+    {
+      "surface": "יפרה",
+      "gloss": "unib meva beradi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:12:44.025175651Z",
+  "model": "glm-5.3"
+}

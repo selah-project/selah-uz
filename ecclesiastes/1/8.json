@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Barcha soʻzlar charchatadi, hech kim ⟨buni⟩ aytib berolmaydi; koʻz koʻrishdan toʻymaydi va quloq eshitishdan toʻlmaydi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Barcha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlar"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "charchatadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hech"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "berolmaydi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kim"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "aitib"
+    },
+    {
+      "surface": "לא",
+      "gloss": "toʻymaydi"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "toʻymaydi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "koʻz"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "koʻrishdan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va toʻlmaydi"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "toʻlmaydi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "quloq"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "eshitishdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:49:34.315040762Z",
+  "model": "glm-5.3"
+}

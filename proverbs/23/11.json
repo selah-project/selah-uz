@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Chunki ularning qarindosh-qutqaruvchisi kuchli — u ⟨את⟩ ularning daʼvosini sen bilan ⟨את⟩ yuritadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "ularning qarindosh-qutqaruvchisi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuchli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning daʼvosini"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "⟨את⟩ ularning daʼvosi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "sen bilan ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T06:49:19.477251136Z",
+  "model": "glm-5.3"
+}

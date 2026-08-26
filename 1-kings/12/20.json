@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 12:20",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va shunday boʻldi: butun Isroil Yarovam qaytgani eshitganda, ular elchi yubordilar va uni ⟨את⟩ jamoat oldiga chaqirdilar, va butun Isroil ustidan uni ⟨את⟩ shoh qildilar; Dovid uyidan keyin hech kim ergashmadi, faqatgina Yahudo qabilasi, u yolgʻiz.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "eshitganda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ki"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytgani"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "elchi yubordilar"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "chaqirdilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamoat"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "shoh qildilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ergashgan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovid"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "faqatgina"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qabila"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "u yolgʻiz"
+    }
+  ],
+  "timestamp": "2026-08-26T03:35:58.537471688Z",
+  "model": "glm-5.3"
+}

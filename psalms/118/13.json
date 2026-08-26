@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 118,
+  "translation": "Itarib itarding meni yiqilish uchun, va Yahve menga yordam berdi.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "itarib"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "itarding meni"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "yiqilish uchun"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "va Yahve"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "menga yordam berdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:03.880034273Z",
+  "model": "glm-5.3"
+}

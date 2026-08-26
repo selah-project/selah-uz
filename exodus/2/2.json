@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va xotin homilador boʻldi va oʻgʻil tugʻdi va uni ⟨אתו⟩ koʻrdi — chunki u yaxshi ⟨⟨edi⟩⟩ — va uni uch oy yashirdi.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "homilador boʻldi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "xotin"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "yashirdi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uch"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "oy"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:32.085955665Z",
+  "model": "glm-5.3"
+}

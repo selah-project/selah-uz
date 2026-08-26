@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Yashil oʻtloqlar orasida yonboshlatadi meni, tinch suvlar yonida boshlaydi meni.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "oʻtloqlar orasida"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "yashil oʻt"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "yonboshlatadi meni"
+    },
+    {
+      "surface": "על",
+      "gloss": "yonida"
+    },
+    {
+      "surface": "מי",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "tinch"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "boshlaydi meni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:57.153347221Z",
+  "model": "glm-5.3"
+}

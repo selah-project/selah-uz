@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Qoyaga kir va changda yashirin, Yahve qoʻrqinchidan va Uning ulugʻvorligining shon-sharafidan ⟨qochgan holda⟩.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "kir"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "qoyaga"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "va yashirin"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "changda"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan \/ qoʻrqinchidan"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "qoʻrqinch"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "va ulugʻvorligidan"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "Uning shon-sharafi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:33:36.132244653Z",
+  "model": "glm-5.3"
+}

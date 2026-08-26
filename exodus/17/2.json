@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va xalq Moshe bilan tortishdi va dedilar: „Bizga suv beringlar, ichamiz.“ Va Moshe ularga dedi: „Nima uchun mendan bilan tortishasizlar? Nima uchun Yahveni ⟨את⟩ sinayapsizlar?“",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "tortishdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "beringlar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "va ichamiz"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "tortishasizlar"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "mendan bilan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "sinayapsizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:49.309054728Z",
+  "model": "glm-5.3"
+}

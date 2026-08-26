@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va Uning qilmishlarini va ularga koʻrsatgan moʻjizalarini unutdilar.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "va unutdilar"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "Uning qilmishlarini"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "va Uning moʻjizalarini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "ularga koʻrsatgan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:59.376726505Z",
+  "model": "glm-5.3"
+}

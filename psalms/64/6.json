@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 64,
+  "translation": "Oʻzlari uchun yomon soʻzni mustahkamlaydilar, yashirin tuzoqlar haqida gapiradilar; „Kim ularga qaraydiki?“ — deyishadi.",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "mustahkamlaydilar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "oʻzlari uchun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "gapiradilar"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "yashirin"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "tuzoqlar"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "deyishadi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qaraydiki"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:35.552473929Z",
+  "model": "glm-5.3"
+}

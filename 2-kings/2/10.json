@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va u aytdi: Qiyin soʻrov soʻrading; agar ⟨את⟩ meni ⟨את⟩ sendan olinganimni koʻrsang, senga shunday boʻlur; agar yoʻq — boʻlmas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "qiyin qilding"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "soʻrashga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "koʻrsang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "olinganimni"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩",
+      "marks": "sendan"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "boʻlur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlmas"
+    }
+  ],
+  "timestamp": "2026-08-26T03:45:48.578148640Z",
+  "model": "glm-5.3"
+}

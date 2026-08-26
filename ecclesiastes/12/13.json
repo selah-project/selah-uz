@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Oyat soʻzning oxiri: hammasi eshitildi — Elohimdan ⟨את⟩ qoʻrq va buyruqlaridan ⟨את⟩ saqlan, chunki bu butun odamning oʻzi.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "oxiri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzning"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "eshitildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimdan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qoʻrq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "buyruqlaridan"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "buyruqlaridan"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "saqlan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odamning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:47.453454918Z",
+  "model": "glm-5.3"
+}

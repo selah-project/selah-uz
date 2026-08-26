@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va u ⟨את⟩ Moab qirolining yuzi oldiga ⟨ularni⟩ olib bordi, va ular Dovud mustahkam qalʼada boʻlgan barcha kunlarida uning bilan yashadilar.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Va ... olib bordi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab qirolining yuzi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "va yashadilar"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uning bilan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlarida"
+    },
+    {
+      "surface": "היות",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "mustahkam qalʼada"
+    }
+  ],
+  "timestamp": "2026-08-26T02:57:27.987620330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Chunki tush koʻp mashgʻulotdan ⟨keladi⟩ va ahmoqning ovozi koʻp soʻzlardan ⟨keladi⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "⟨keladi⟩"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "tush"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "koʻp…dan"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "mashgʻulot"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "va ovozi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ahmoqning"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "koʻp…dan"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "soʻzlardan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:20.460488957Z",
+  "model": "glm-5.3"
+}

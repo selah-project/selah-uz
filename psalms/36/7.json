@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Soliqliging Ilohiy togʻlar qadar, hukming buyuk chuqursu, odamni va hayvonni qutqarasiz, Yahve.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "soliqliging"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "togʻlar qadar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ilohiy"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "hukming"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "chuqursu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "va hayvonni"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "qutqarasiz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:07.766490029Z",
+  "model": "glm-5.3"
+}

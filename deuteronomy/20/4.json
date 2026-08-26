@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Chunki sizlar bilan yurayotgan Yahve, Elohimlaringiz — sizlar uchun dushmanlaringizga qarshi jang qilishga, sizlarni ⟨את⟩ qutqarishga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimlaringiz"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yurayotgan Zot"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "sizlar bilan"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "jang qilishga"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…ga qarshi \/ bilan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dushmanlaringiz"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "qutqarishga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:59:44.325478572Z",
+  "model": "glm-5.3"
+}

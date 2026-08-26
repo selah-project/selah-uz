@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 123,
+  "translation": "Mana, qullarning koʻzlari singari xoʻjayinlarining qoʻliga, xizmatkor ayolning koʻzlari singari xoʻjayin xotinining qoʻliga — shunday koʻzlarimiz Yahve, Elohimimiz tomon ⟨boʻlib⟩, bizga rahm qilguniga qadar.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "koʻzlari singari"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullarning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻliga"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "xoʻjayinlarining"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "koʻzlari singari"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "xizmatkor ayolning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻliga"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "xoʻjayin xotinining"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "koʻzlarimiz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qadar"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "bizga rahm qilguni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:16.256975677Z",
+  "model": "glm-5.3"
+}

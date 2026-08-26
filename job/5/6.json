@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Chunki chang-tuproqdan muammo chiqmaydi, va tuproqdan mehnat unib chiqmaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-maydi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqmaydi"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "chang-tuproqdan"
+    },
+    {
+      "surface": "און",
+      "gloss": "muammo"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "va tuproqdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-maydi"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "unib chiqmaydi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mehnat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:55:32.991696461Z",
+  "model": "glm-5.3"
+}

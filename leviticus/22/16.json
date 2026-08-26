@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va ularga ⟨את⟩ ayb jinoyatini yuklasinlar, muqaddaslarini yeyotganlarida; chunki Men Yahve, ularni muqaddaslovchiman.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "Va yuklasinlar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ayb"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ayb"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "jinoyat"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "yeyotganlarida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muqaddaslarini"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "muqaddaslarini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ularni muqaddaslovchiman"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:48.547124310Z",
+  "model": "glm-5.3"
+}

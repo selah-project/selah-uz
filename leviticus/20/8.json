@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va farmonlarimni ⟨את⟩ saqlang va ⟨את⟩ ularni bajaringlar: Men Yahve, sizni muqaddaslovchingizman.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "saqlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farmonlarimni"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "farmonlarimni"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "va bajaringlar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "sizni muqaddaslovchingizman"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:09.914614748Z",
+  "model": "glm-5.3"
+}

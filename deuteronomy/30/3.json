@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "va Yahve Elohim sining ⟨את⟩ sening surgunlik holatingni qaytarsin va senga rahm qilsin, va yana qaytsin va seni barcha xalqlardan — Yahve Elohim sizi u yerga tarqatgan — toʻplasin.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "va qaytarsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim sining"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sening surgunlik holatingni"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "sening surgunlik holating"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "va senga rahm qilsin"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "va yana qaytsin"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "va seni toʻplasin"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha …dan"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlardan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ni"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "tarqatgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim sizi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:05:32.863230687Z",
+  "model": "glm-5.3"
+}

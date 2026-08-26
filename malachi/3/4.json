@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yoqim boʻladi Yahvegа Yehuda va Yerushalaimning minxasi — qadim kunlardagidek va avvalgi yillardagidek.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "Va yoqimli boʻladi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegа"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minxasi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "va Yerushalaimning"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kunlardagidek"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "qadim"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "va yillardagidek"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "avvalgi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:06.001437737Z",
+  "model": "glm-5.3"
+}

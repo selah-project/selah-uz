@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va musofirni siqmaysan, chunki sizlar musofirning nefeshini bilursizlar — sizlar Misr yerida musofir boʻlgan edilar.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Va musofirni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "siqmaysan"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": ""
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "bilursizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musofirning nefeshini"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefishini"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "musofirning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "musofir"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "boʻlgan edilar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:49.581340049Z",
+  "model": "glm-5.3"
+}

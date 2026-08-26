@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Shamlaringning hidi yaxshi; toʻkilib chiqqan moy — sening isming; shuning uchun bokira qizlar seni sevadi.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "hidiga"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "shamlaringning"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "toʻkilib chiqqan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "isming"
+    },
+    {
+      "surface": "על",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "bokira qizlar"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "seni sevadi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:48:45.033803712Z",
+  "model": "glm-5.3"
+}

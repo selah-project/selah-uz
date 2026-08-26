@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Avimelex Arumada joylashdi, va Zevul ⟨את⟩ Gaalni va ⟨את⟩ uning aka-ukalarini Shekemda yashashdan haydab chiqardi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "joylashdi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "Arumada"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "va haydab chiqardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaalni"
+    },
+    {
+      "surface": "געל",
+      "gloss": "⟨את⟩ Gaalni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning aka-ukalarini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "⟨את⟩ uning aka-ukalarini"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "yashashdan"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Shekemda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:30:59.043830568Z",
+  "model": "glm-5.3"
+}

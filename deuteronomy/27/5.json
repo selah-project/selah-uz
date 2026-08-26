@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va u yerda Yahve, Elohiming uchun mehrob qur — toshlardan mehrob; ularga temir ⟨bilan⟩ uygʻotma.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "va qur"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mehrob"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mehrob"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "toshlardan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "−ma"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "uygʻot"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ular ustiga"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "temir"
+    }
+  ],
+  "timestamp": "2026-08-26T02:01:39.882098626Z",
+  "model": "glm-5.3"
+}

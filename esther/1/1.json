@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va boʻldi Axashverosh kunlarida — u Axashveroshki, podshoh boʻlib hukm surdi Hoduddan Kushgacha, yetti va yigirma va yuz viloyat ⟨uzra⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "kunlarida"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "Hoduddan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "va yigirma"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "va yuz"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "viloyat"
+    }
+  ],
+  "timestamp": "2026-08-26T07:23:28.388068829Z",
+  "model": "glm-5.3"
+}

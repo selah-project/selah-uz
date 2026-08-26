@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 3:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Ayolga aytdi: Ogʻriqlaringni — homiladorlik ogʻriqlaringni ham — koʻpaytirib koʻpaytiraman; ogʻriq bilan farzandlar tugʻursan; va eringga boʻlgan orzuing bilan — va u sen ustidan hukm suradi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Ayolga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "koʻpaytirib"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "koʻpaytiraman"
+    },
+    {
+      "surface": "עצבונך",
+      "gloss": "ogʻriqlaringni"
+    },
+    {
+      "surface": "והרנך",
+      "gloss": "va homiladorlik ogʻriqlaringni"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "ogʻriq bilan"
+    },
+    {
+      "surface": "תלדי",
+      "gloss": "tugʻursan"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "farzandlar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... ga"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "eringga"
+    },
+    {
+      "surface": "תשוקתך",
+      "gloss": "orzuing"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "va u"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "hukm suradi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sen ustidan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:30.599462392Z",
+  "model": "glm-5.3"
+}

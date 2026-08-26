@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yahve Firʼavnning yuragini ⟨את⟩ qattiqlashtirdi, va u ularni yuborishni xohlamadi.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Va qattiqlashtirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuragini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firʼavn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "xohlamadi"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "ularni yuborishni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:04.695594293Z",
+  "model": "glm-5.3"
+}

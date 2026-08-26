@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "⟨את⟩ shofar tovushini eshitdi va ogohlantirilmadi — uning qoni uning ustida boʻladi; u esa ogohlantirilsa, oʻz jonini qutqaradi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shofar tovushini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tovush"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshtidi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ogohlantirildi"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "qoni"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "va u"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ogohlantirilsa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "jonini"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "qutqaradi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:24:39.320019298Z",
+  "model": "glm-5.3"
+}

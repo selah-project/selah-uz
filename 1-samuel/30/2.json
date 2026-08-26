@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va u yerdagi ayollarni ⟨את⟩ kichikdan kattagacha asir olib ketdilar; hech bir odamni oʻldirmadilar, balki ularni haydab olib ketdilar va oʻz yoʻllariga ketdilar.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "va asir olib ketdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayollar"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ayollar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "kichikdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "katta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "oʻldirdilar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hech kimni"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "va haydab ketdilar"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "va ketdilar"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "oʻz yoʻllariga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:29:37.845370824Z",
+  "model": "glm-5.3"
+}

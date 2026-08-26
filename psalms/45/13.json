@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Va Tsor qizi ⟨sovgʻa bilan⟩ yuzingni yolvoradi, xalqning boylari.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Va ... qizi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "sovgʻa bilan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "yolvoradi"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "boylari"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:15.565129512Z",
+  "model": "glm-5.3"
+}

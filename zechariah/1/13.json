@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yahve ⟨את⟩ ⟨the⟩ farishtani — ⟨u⟩ men ichida soʻzlovchi — yaxshi soʻzlar, tasalli soʻzlari bilan javob berdi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ farishta"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "⟨the⟩ farishta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻzlovchi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "men ichida"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "soʻzlar"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "soʻzlar"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "tasalli beruvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:52:32.224625843Z",
+  "model": "glm-5.3"
+}

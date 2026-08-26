@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Sening xohishingni qilishni, Elohimim, xohladim, va Sening Toring ichki o‘tgimning ichida ⟨he⟩.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "qilishni"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "xohishingni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "xohladim"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "va Sening Toring"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ichida"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ichki o‘tgim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:02.585819879Z",
+  "model": "glm-5.3"
+}

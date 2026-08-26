@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Ular⟨ni⟩ barmoqlaringga bogʻla, ular⟨ni⟩ qalbing lavhasiga yoz.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "ularni bogʻla"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "barmoqlaring"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "ularni yoz"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "lavhasiga"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "qalbing"
+    }
+  ],
+  "timestamp": "2026-08-26T06:41:09.824451950Z",
+  "model": "glm-5.3"
+}

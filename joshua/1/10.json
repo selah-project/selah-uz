@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yehoshua xalqning amaldorlariga buyurmogʻi buyurdi ⟨את⟩ deyish uchun:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "va buyurdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqning amaldorlarini"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "amaldorlarini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:26:16.411018499Z",
+  "model": "glm-5.3"
+}

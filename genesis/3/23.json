@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yahve Elohim uni Eden bogʻidan yubordi, u yerdan olingan ⟨את⟩ tuproqni ishlashi uchun.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "va uni yubordi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "bogʻidan"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ishlashi uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuproqni"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproqni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "olingan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:18.366079541Z",
+  "model": "glm-5.3"
+}

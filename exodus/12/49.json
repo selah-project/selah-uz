@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Bitta Tora boʻladi tugʻilib kelgan ⟨uchunkin⟩ va ichingizda musofir boʻlib yashovchi ⟨musofir uchunkin⟩.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "tugʻilib kelgan uchunkin"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "va musofir uchunkin"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "musofir boʻlib yashovchi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ichingizda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:36.039074611Z",
+  "model": "glm-5.3"
+}

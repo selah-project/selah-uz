@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 112,
+  "translation": "Yomon xabardan qoʻrqmaydi; qalbi tayin, Yahvega suyanadi.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "xabardan"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "qoʻrqmaydi"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "tayin"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "suyanadi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:01.382425291Z",
+  "model": "glm-5.3"
+}

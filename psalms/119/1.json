@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Saodatlarning — yoʻlida butun boʻlganlar; Yahve Tavotida yuruvchilarning <baxti<\/b>. Nega: Тavotida yuruvchilar.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "baxtli"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "butun (kamolotli) boʻlganlar"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "yuruvchilar"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Tavotida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:18.156923777Z",
+  "model": "glm-5.3"
+}

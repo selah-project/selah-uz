@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Qasam berdim ⟨את⟩ sizlarni, Yerushalaim qizlari — gazellar bilan yoki dalaning bugʻulari bilan: agar uygʻotsangiz va agar ⟨את⟩ sevgini uygʻotsangiz — toʻki u xohlaguncha.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Qasam berdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "Yerushalaim qizlari"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qizlari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "gazellar bilan"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "bugʻulari bilan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dalaning"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "uygʻotsangiz"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "uygʻotmoqchi boʻlsangiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sevgini"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "sevgi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "toʻki"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "u xohlaguncha"
+    }
+  ],
+  "timestamp": "2026-08-26T07:12:18.752403937Z",
+  "model": "glm-5.3"
+}

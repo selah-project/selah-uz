@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Maslahat tuzing — u buziladi; soʻz gapiring — u oʻrinmaydi, chunki biz bilan El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "maslahat tuzing"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "maslahat"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "u buziladi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "gapiring"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "oʻrinmaydi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "biz bilan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-26T04:08:47.270167473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Meni dushmanlarim qoʻlidan qutqaruvchi, hatto qarshiligim koʻtarganlardan yuqoriga koʻtaruvchi, zoʻravon odam qoʻlidan meningni qutqaruvchi ⟨u⟩.",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "qutqaruvchi (meni qutqaradi)"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "dushmanlarimdan"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "qarshiligim koʻtarganlarim"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "meni yuqoriga koʻtaradi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "odamdan"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zoʻravon"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "meni qutqaradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:26.417750104Z",
+  "model": "glm-5.3"
+}

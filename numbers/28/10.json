@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Shabatning ⟨the⟩ olovi oʻz shabatida — doimiy olov ustiga va uning naski.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "olov-taklif"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabatning"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "oʻz shabatida"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "olov-taklif"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "doimiy"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "va uning naski"
+    }
+  ],
+  "timestamp": "2026-08-26T01:42:09.566345478Z",
+  "model": "glm-5.3"
+}

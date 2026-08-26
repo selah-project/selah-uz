@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Koʻplar: „Yaxshilikni bizga kim koʻrsatadi?“ deyishadi — Yahve, yuzingizning nuri biz ustida koʻtarilsin.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Koʻplar"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "deyishadi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "koʻrsatadi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshilikni"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "koʻtarilsin"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "biz ustida"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nuri"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingizning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:37.585755219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "chunki ularning qurbongohlarini ⟨את⟩ yiqitursizlar, va ularning ustunlarini ⟨את⟩ sindirursizlar, va uning Asheralarini ⟨את⟩ kesib tashlarsizlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning qurbongohlarini"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "ularning qurbongohlarini"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "yiqitursizlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning ustunlarini"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "ularning ustunlarini"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "sindirursizlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning Asheralarini"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "uning Asheralarini"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "kesib tashlarsizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:24.504662360Z",
+  "model": "glm-5.3"
+}

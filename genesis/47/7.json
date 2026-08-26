@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 47,
+  "translation": "Va Yosif ⟨את⟩ Yaakovni, otasini, olib kirdi va uni Parohning oldiga turğizdi; va Yaakov ⟨את⟩ P arohni barakaladi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "olib kirdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosif"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasini"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "turğizdi uni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohning"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "barakaladi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parohni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:13.187457159Z",
+  "model": "glm-5.3"
+}

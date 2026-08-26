@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 137,
+  "translation": "Agar seni unutib yuborsam, ey Yerushalaim, oʻng qoʻlim unutib yuborsin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "seni unutib yuborsam"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ey Yerushalaim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutib yuborsin"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "oʻng qoʻlim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:53.319171236Z",
+  "model": "glm-5.3"
+}

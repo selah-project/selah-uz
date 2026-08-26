@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 64,
+  "translation": "Adolatsizliklarni qidiradilar; „izlanishni mukammal qildik“, ⟨deydilar⟩ — tajribasiz izlanish; va odamning ichki tabiati va yuragi chuqurdur.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "qidiradilar"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "adolatsizliklarni"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "qildik"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "izlanishni"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "tajribasiz izlanish"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "va ichki tabiati"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odamning"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "va yuragi"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "chuqurdur"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:35.552660745Z",
+  "model": "glm-5.3"
+}

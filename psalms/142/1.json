@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 142,
+  "translation": "Maskil, Dovudga tegishli — gʻorda boʻlganida — ibodat.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga tegishli"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "boʻlganida"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "gʻorda"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ibodat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:09.401599695Z",
+  "model": "glm-5.3"
+}

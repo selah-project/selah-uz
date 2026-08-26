@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yahve uni yonib qaragani uchun koʻrdi, va Elohim u butaning ichidan unga murojaat qildi va dedi: Moshe, Moshe! Va u dedi: mana man.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Va koʻrdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "סר",
+      "gloss": "u yonib"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "qaragani uchun"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va murojaat qildi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ichidan"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "butaning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va u dedi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mana man"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:58.619849654Z",
+  "model": "glm-5.3"
+}

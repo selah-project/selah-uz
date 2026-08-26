@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va sanab olinganlarning kumushi — jamiyatniki — yuz kikkar, ming yetti yuz yetmish besh shakel, muqaddas shakel bilan ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "va kumushi"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "sanab olinganlarning"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamiyat"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikkar"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "va ming"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "va yetti"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "va besh"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "va yetmish"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shakel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "shakel bilan"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muqaddas"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:48.872211060Z",
+  "model": "glm-5.3"
+}

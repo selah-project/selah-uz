@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va kitob kitob bilmaydigan kishiga beriladi: «Buni oʻqi, iltimos», u esa: «Men kitob bilmayman» deydi.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Va … beriladi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kitob"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…may"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmaydigan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitob"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyib"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "oʻqi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "זה",
+      "gloss": "buni"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "u esa deydi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilmayman"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitob"
+    }
+  ],
+  "timestamp": "2026-08-26T04:19:17.743155848Z",
+  "model": "glm-5.3"
+}

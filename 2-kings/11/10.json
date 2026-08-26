@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va kohen yuz boshliklarining sarkardalariga ⟨את⟩ nizoni va ⟨את⟩ qalqonlarni berdi — Dovud shohnikilarini, Yahve uyidagilarni.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "sarkardalariga"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "yuz boshliklarning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nizoni"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "nizoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "qalqonlarni"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "qalqonlarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…nikilarini"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…dagilarni"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T03:55:47.232660648Z",
+  "model": "glm-5.3"
+}

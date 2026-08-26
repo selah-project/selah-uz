@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Yahve ⟨את⟩ soʻzni Bilamning ogʻiziga qoʻydi va aytdi: Balakka qayt va shunday soʻyla.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzni"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ogʻiziga"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilamning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "qayt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "va shunday"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "soʻyla"
+    }
+  ],
+  "timestamp": "2026-08-26T01:40:14.063922166Z",
+  "model": "glm-5.3"
+}

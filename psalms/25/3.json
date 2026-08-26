@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Ha, Senga umid bogʻlaganlar hammasi xijolat boʻlmaydilar; beadab holda xoinlik qilganlar xijolat boʻladilar.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "Senga umid bogʻlaganlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "xijolat boʻlmaydilar"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "xijolat boʻladilar"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "xoinlik qilganlar"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "beadab holda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:01.461018927Z",
+  "model": "glm-5.3"
+}

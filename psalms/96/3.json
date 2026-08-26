@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 96,
+  "translation": "Ullugʻini xalqlar orasida, moʻjizalarini barcha elatlar orasida hikoya qiling.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "hikoya qiling"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar orasida"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "Ullugʻi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "elatlar orasida"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "moʻjizalari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:51.962471954Z",
+  "model": "glm-5.3"
+}

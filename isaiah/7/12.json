@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Axoz dedi: So'ramayman va Yahveni sinab ko'rmayman ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va ... dedi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Axoz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yo'q"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "so'ramayman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yo'q"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "sinab ko'rmayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:08:38.988150123Z",
+  "model": "glm-5.3"
+}

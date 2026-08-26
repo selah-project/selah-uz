@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Goʻshtimda sogʻliq yoʻq, gʻazabing yuzidan; suyaklarimda tinchlik yoʻq, gunohim yuzidan.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sogʻliq"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "goʻshtimda"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "...yuzidan"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "gʻazabing"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "suyaklarimda"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "...yuzidan"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "gunohim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:31.997255198Z",
+  "model": "glm-5.3"
+}

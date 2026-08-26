@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Uning oldida choʻl aholisi tizzalar bosadi, va uning dushmanlari chang yalaydi.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "uning oldida"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "tizzalar bosadi"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "choʻl aholisi"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "va uning dushmanlari"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "chang"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "yalaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:13.132518419Z",
+  "model": "glm-5.3"
+}

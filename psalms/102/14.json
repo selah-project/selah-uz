@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Sen turasan, Siyonga rahm qilasan, chunki unga marhamat vaqti — chunki belgilangan vaqti yetib keldi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "turasan"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "rahm qilasan"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqti"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "unga marhamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yetib keldi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "belgilangan vaqti"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:27.566562103Z",
+  "model": "glm-5.3"
+}

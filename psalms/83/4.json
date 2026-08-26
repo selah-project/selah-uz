@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Xalqingga qarshi makkorona maslahat qurdilar va yashirilganlaringga qarshi til biriktirdilar.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqingga"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "makkorona ... qurdilar"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "maslahat"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "va til biriktirdilar"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "yashirilganlaringga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:51.019765388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va erta tongda turdilar, va quyosh suvlar ustiga nur sochdi, va Moav qarshisidan ⟨את⟩ suvlarni qonga oʻxshash qizil koʻrdi.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "erta turdilar"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tongda"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "va quyosh"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "nur sochdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moav"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "qarshisidan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suvlarni"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlarni"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "qizil"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "qonga oʻxshash"
+    }
+  ],
+  "timestamp": "2026-08-26T03:49:08.644693351Z",
+  "model": "glm-5.3"
+}

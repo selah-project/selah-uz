@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 92,
+  "translation": "Beoʻna odam bilmas, va ahmoq ⟨את⟩ buni tushunmas.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "בער",
+      "gloss": "beoʻna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmaydi"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "va ahmoq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "tushunmaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "buni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:06.617757246Z",
+  "model": "glm-5.3"
+}

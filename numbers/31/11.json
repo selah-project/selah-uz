@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va ⟨את⟩ barcha oʻljani va ⟨את⟩ barcha olijan olib keldilar — odamlarda va hayvonlarda.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "olib keldilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha oʻljani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "oʻljani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha olijan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "olijan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "odamlarda"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "va hayvonlarda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:43:53.114613422Z",
+  "model": "glm-5.3"
+}

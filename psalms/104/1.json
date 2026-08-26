@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Barokla, neyshim, Yahve! Yahve, Elohimim, sen juda katta boʻlding, hushyorlik va ulugʻvorlikni kiyding.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "barokla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "neyshim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "katta boʻlding"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "hushyorlik"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "va ulugʻvorlik"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "kiyding"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:42.596302488Z",
+  "model": "glm-5.3"
+}

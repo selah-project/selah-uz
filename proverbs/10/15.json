@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Boylning boylik — uning kuchi qalʼasi; kambagʻallarning halokati — ularning qashshoqligi.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "boylik"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "boylning"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "qalʼasi"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "uning kuchi"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "halokati"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "kambagʻallarning"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "ularning qashshoqligi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:52.666245782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Va ular qiyin choqda Yahvega faryod qildilar, va U ularni tashvishlaridan qutqardi.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "va faryod qildilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "qiyin choqda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularning"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "tashvishlaridan"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "U qutqardi ularni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:36.964926953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va uni Yaakov uchun qonun-qoida, Isroil uchun abadiy ahd sifatida mustahkam qildi.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "va uni mustahkam qildi"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov uchun"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "qonun-qoida sifatida"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isroil uchun"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T07:58:37.797089847Z",
+  "model": "glm-5.3"
+}

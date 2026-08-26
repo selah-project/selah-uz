@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 9:27",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Paroh yubordi va Moshe va Aharonni chaqirdi va ularga aytdi: bu safar gunoh qildim; Yahve ⟨solih⟩, men va xalqim esa ⟨yovuzlarmiz⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "va yubordi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheni"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "va Aharonni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "gunoh qildim"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "bu safar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "va xalqim"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "yovuzlarmiz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:16.410530961Z",
+  "model": "glm-5.3"
+}

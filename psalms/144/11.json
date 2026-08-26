@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 144,
+  "translation": "Meni qutqar va xalos qil begona oʻgʻillar qoʻlidan — ularning ogʻzi behuda soʻzlaydi va oʻng qoʻllari yolgʻonning oʻng qoʻlidir.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "qutqar (meni)"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "va xalos qil (meni)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillar"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "begona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ularning… —"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ogʻzi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzlaydi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "behuda"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "va oʻng qoʻllari"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oʻng qoʻl"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:41.144453588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Va barakolodir uning ulugʻvor nomi abadiy, va toʻladi butun ⟨את⟩ yer uning ulugʻvorligi bilan — omin va omin.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "va barakolodir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "uning ulugʻvorligi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "va toʻladi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "uning ulugʻvorligi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun yer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "omin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "va omin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:11.205855130Z",
+  "model": "glm-5.3"
+}

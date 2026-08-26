@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va o‘ng sonni ⟨את⟩ kohinga hadya sifatida bering — sizning tinchlik qurbonliklaringizdan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "sonni"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "sonni"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "o‘ng"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "bering"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "hadya sifatida"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohinga"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "qurbonliklar …dan"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "sizning tinchlik (qurbonliklaringiz)"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:00.497549776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va u aytdi: \"Ketgin, Doniel, chunki soʻzlar yopiq va muhurlangandir oxir vaqtigacha.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u aytdi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ketgin"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Doniel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "yopiq"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "va muhurlangandir"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqti"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "oxir"
+    }
+  ],
+  "timestamp": "2026-08-26T07:37:14.793226938Z",
+  "model": "glm-5.3"
+}

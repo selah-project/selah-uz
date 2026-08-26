@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va kohin — bir kishining yoqilgan qurbonligini ⟨את⟩ keltirgan kishi — yoqilgan qurbonlikning terisi, uni keltirgan kohin uchun boʻladi.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "va kohin"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "keltirgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoqilgan qurbonligini"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yoqilgan qurbonligini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir kishining"
+    },
+    {
+      "surface": "עור",
+      "gloss": "teri"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yoqilgan qurbonlikning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "keltirgan"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohin uchun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:23.790783485Z",
+  "model": "glm-5.3"
+}

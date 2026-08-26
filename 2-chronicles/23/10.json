@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va u ⟨את⟩ butun xalqni turdirdi, har bir kishi qurolini qoʻlida — uyning oʻng yelkasidan uyning chap yelkasigacha, mizbax yonida va uy yonida, podshoh atrofida.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "turdirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun xalqni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "va har bir kishi"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "qurolini"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "qoʻlida"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "yelkasidan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uyning"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "oʻng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—gacha"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "yelkasiga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uyning"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "chap"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mizbax yonida"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "va uy yonida"
+    },
+    {
+      "surface": "על",
+      "gloss": "yonida"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofida"
+    }
+  ],
+  "timestamp": "2026-08-26T08:11:54.764767688Z",
+  "model": "glm-5.3"
+}

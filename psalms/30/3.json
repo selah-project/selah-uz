@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Yahve, Elohimim, Senga nido qildim va Sen meni shifo bording.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nido qildim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "va Sen meni shifo bording"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:01.562337686Z",
+  "model": "glm-5.3"
+}

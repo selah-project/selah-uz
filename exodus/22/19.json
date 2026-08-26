@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Xudolarga qurbon kesuvchi — faqat Yahve yolgʻiz ⟨boʻlmaganda⟩ — cherem qilinsin.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "qurbon kesuvchi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "xudolarga"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "cherem qilinsin"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "faqat ... ⟨boʻlmaganda⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve ⟨ga⟩"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yolgʻiz ⟨oʻzi⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:39.956411790Z",
+  "model": "glm-5.3"
+}

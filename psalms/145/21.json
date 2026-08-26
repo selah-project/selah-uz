@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Yahvening maqtovini ogʻizim aytsin, va barcha tan Uning muqaddas ismini abadiy va betoqat barakatlasin.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "maqtovi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "aytsin"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻizim"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "va barakatlasin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ism"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Uning muqaddas"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va betoqat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:08.969960298Z",
+  "model": "glm-5.3"
+}

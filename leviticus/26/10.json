@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va eskirgan zahirani, uzoq saqlanganini yeyursizlar, va eskini yangi yuzasidan tashqariga chiqarasizlar.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "yeyursizlar"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "eskirgan zahirani"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "uzoq saqlanganini"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "eskini"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzasidan"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yangi"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "tashqariga chiqarasizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:22:10.404424312Z",
+  "model": "glm-5.3"
+}

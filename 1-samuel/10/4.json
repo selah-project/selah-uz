@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va ular salomlashib sordini soʻraydi va senga ikki non beradilar — qoʻllaridan qabul qilasan.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "soʻraydi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sen"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "salomni"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "beradilar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "qabul qilasan"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "qoʻllaridan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:46:49.075247164Z",
+  "model": "glm-5.3"
+}

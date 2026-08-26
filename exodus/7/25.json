@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va yetti kun toʻldi, Yahve ⟨את⟩ daryoni urgandan keyin.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "Va … toʻldi"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "urgandan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daryoni"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "daryoni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:57.935281603Z",
+  "model": "glm-5.3"
+}

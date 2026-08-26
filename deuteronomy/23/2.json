@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "One crushed and mutilated, and with severed member, shall not enter into the assembly of Yahve.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "shall not"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "enter"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "wounded"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "crushed"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "and severed"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "member"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "into the assembly"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "of Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T02:01:36.092065658Z",
+  "model": "glm-5.3"
+}

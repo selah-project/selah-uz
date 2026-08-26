@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 92,
+  "translation": "Chunki Sen xursand qilding meni, Yahve, ishingda, qoʻllaring ishlarida men kuylayman",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "xursand qilding meni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "ishingda"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ishlarida"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "qoʻllaring"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "men kuylayson"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:44.887339749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 26:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va javob berursan va Yahve, Elohiming oldida aytursan: „Adashib yurgan aramiy edi otam, va Misrayimga tushdi, va u yerda oz sonli guruh boʻlib muhojir boʻldi, va u yerda buyuk, qudratli va koʻp millat boʻldi.",
+  "tokens": [
+    {
+      "surface": "וענית",
+      "gloss": "va javob berursan"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "va aytursan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "ארמי",
+      "gloss": "aramiy"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "adashib yurgan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otam"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "va tushdi"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Misrayimga"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "va muhojir boʻldi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "oz sonli guruh boʻlib"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "oz"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "millat"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "qudratli"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "va koʻp"
+    }
+  ],
+  "timestamp": "2026-08-26T02:01:34.013437633Z",
+  "model": "glm-5.3"
+}

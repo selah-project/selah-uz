@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 7:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Tugasin, iltijo, yovillarning yomonligi; va solih ⟨kishi⟩ mustahkam boʻlsin; va qalblarni hamda buyraklarni sinovchi — solih Elohim.",
+  "tokens": [
+    {
+      "surface": "יגמר",
+      "gloss": "tugasin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltijo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomonligi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovillarning"
+    },
+    {
+      "surface": "ותכונן",
+      "gloss": "va mustahkam boʻlsin"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih ⟨kishi⟩"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "va sinovchi"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "qalblarni"
+    },
+    {
+      "surface": "וכליות",
+      "gloss": "hamda buyraklarni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:10.048604539Z",
+  "model": "glm-5.3"
+}

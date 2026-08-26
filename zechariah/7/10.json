@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 7:10",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va beva va yetim, musofir va miskinni ezmangiz, va har bir kishi birodariga yomonlikni qalbingizda oʻylamangiz.",
+  "tokens": [
+    {
+      "surface": "וְאַלְמָנָה",
+      "gloss": "va beva"
+    },
+    {
+      "surface": "וְיָתוֹם",
+      "gloss": "va yetim"
+    },
+    {
+      "surface": "גֵּר",
+      "gloss": "musofir"
+    },
+    {
+      "surface": "וְעָנִי",
+      "gloss": "va miskin"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "—mas"
+    },
+    {
+      "surface": "תַּעֲשֹׁקוּ",
+      "gloss": "ezmangiz"
+    },
+    {
+      "surface": "וְרָעַת",
+      "gloss": "va yomonlikni"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "har bir kishi"
+    },
+    {
+      "surface": "אָחִיו",
+      "gloss": "birodari"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "—mas"
+    },
+    {
+      "surface": "תַּחְשְׁבוּ",
+      "gloss": "oʻylamangiz"
+    },
+    {
+      "surface": "בִּלְבַבְכֶם",
+      "gloss": "qalbingizda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:53:52.178832380Z",
+  "model": "glm-5.3"
+}

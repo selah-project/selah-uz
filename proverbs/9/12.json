@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Agar dono boʻlsang — oʻzing uchun dono boʻlasan; va masxara qilsang — yolgʻiz oʻzing koʻtarsan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "dono boʻlsang"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "dono boʻlasan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzing uchun"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "masxara qilsang"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yolgʻiz oʻzing"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "koʻtarsan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:42:05.650003489Z",
+  "model": "glm-5.3"
+}

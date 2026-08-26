@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Sizlarni qasam ichirdim, Yerushalaim qizlari: nega uygʻotasizlar va nega oʻygʻotasizlar ⟨את⟩ sevgini — u xohlaguniga qadar?",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "qasam ichirdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "Yerushalaim qizlari"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qizlari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "uygʻotasizlar"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "va nega"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "oʻygʻotasizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sevgini"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "sevgini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qadar"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "u xohlaguniga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:13:23.312103686Z",
+  "model": "glm-5.3"
+}

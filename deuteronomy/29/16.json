@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va sizlar ⟨את⟩ ularning hazoratlarini va ⟨את⟩ ularning butlarini koʻrdingizlar — daraxt va tosh, kumush va oltin — ular bilan boʻlganlarini.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "Va sizlar koʻrdingizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning hazoratlarini"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "ularning hazoratlarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning butlarini"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "ularning butlarini"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "va tosh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "va oltin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimni \/ narsani"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "ular bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:04:54.082893374Z",
+  "model": "glm-5.3"
+}

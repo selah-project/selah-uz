@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Kiyik suv oqimlari orqasidan orzu qilgani kabi, shunday nefeshim Senda orzu qiladi, ey Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "kiyik kabi"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "orzu qiladi"
+    },
+    {
+      "surface": "על",
+      "gloss": "orqasidan"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "oqimlari"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshim"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "orzu qiladi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Senda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:46.392816905Z",
+  "model": "glm-5.3"
+}

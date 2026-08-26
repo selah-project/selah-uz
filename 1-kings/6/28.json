@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va u keruvlarni oltin bilan qopladi.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "va qopladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "keruvlarni"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "keruvlar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    }
+  ],
+  "timestamp": "2026-08-26T03:29:52.246378746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va boʻldi: qirol Xizqiyo eshitganda, ⟨u⟩ kiyimlarini yirtdi va xalta bilan oʻrandi va Yahve uyiga kirdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "eshitganda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Xizqiyo"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "yirtdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyimlarini"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kiyimlarini"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "oʻrandi"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "xalta bilan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kirdi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T03:59:23.481021621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va ularga aytdi: Lavonni, Naxorning oʻgʻlini bilasizlarmi? Va ular aytdilar: Bilamiz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "bilasizlarmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavonni"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavonni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxorning"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Va ular aytdilar"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Bilamiz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:52.385238613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Qurbonliklaring uchun seni ayblamayman, va butun yoqilgan qurbonliklaring oldimda doimo ⟨turibdi⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "על",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "qurbonliklaring"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "seni ayblamayman"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "va butun yoqilgan qurbonliklaring"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "oldimda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doimo"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:21.495168657Z",
+  "model": "glm-5.3"
+}

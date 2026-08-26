@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "u shaharning aholisini ⟨את⟩ qilich ogʻzi bilan albatta urib oʻldir; uni ⟨את⟩ va uning ichidagi hamma narsani ⟨את⟩ hamda uning chorva mollarini ⟨את⟩ qilich ogʻzi bilan herem qilib yoʻq qil.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "albatta urib"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "urib oʻldir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u shaharning aholisini"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "aholisini"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharning"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ogʻzi bilan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "herem qilib yoʻq qil"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hamma narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "uning ichida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chorva mollarini"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "chorva mollarini"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ogʻzi bilan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    }
+  ],
+  "timestamp": "2026-08-26T01:55:36.936238045Z",
+  "model": "glm-5.3"
+}

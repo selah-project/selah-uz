@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Uning soʻzi kelgan vaqtgacha — Yahvening amri uni tobladi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "–gacha"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kelgan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "uning soʻzi"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "amri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "uni tobladi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:31.510015843Z",
+  "model": "glm-5.3"
+}

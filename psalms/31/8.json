@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Xeseding bilan quvonaman va sevinaman, zero Sen ⟨את⟩ mashaqatimni koʻrding, tangliklar ichida nefeshimni bilding.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "quvonaman"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "va sevinaman"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "Xeseding bilan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zero"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "koʻrding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mashaqatimni"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mashaqatimni"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilding"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "tangliklar ichida"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:23.621597471Z",
+  "model": "glm-5.3"
+}

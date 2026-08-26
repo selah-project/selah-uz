@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "Yahve Yerushalaimni bunyod etmoqda, Isroilning haydalganlarini yigʻmoqda.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "bunyod etmoqda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "haydalganlarini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "yigʻmoqda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:32.851389043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va u meni hovuz eshigining ogʻziga olib keldi va ⟨את⟩ koʻrdim, va mana devorda bitta tuynuk bor edi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "olib keldi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ogʻziga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eshigining"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hovuz"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "va koʻrdim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "חר",
+      "gloss": "tuynuk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "devorda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:11:11.757524066Z",
+  "model": "glm-5.3"
+}

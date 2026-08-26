@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va chodirlarida gʻudulanishdi, Yahve ovoziga quloq solmadilar.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "va gʻudulanishdi"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "chodirlarida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-madilar"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "quloq solmadilar"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovoziga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:08.713857231Z",
+  "model": "glm-5.3"
+}

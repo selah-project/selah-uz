@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Yahve abadiy hukm suradi, umrbod!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "hukm suradi"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va umrbod"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:46.692341347Z",
+  "model": "glm-5.3"
+}

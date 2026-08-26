@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Kaftlari pok, va qalbi pok boʻlgan — kim boʻsh narsaga ⟨oʻz⟩ jonini koʻtarmagan, va aldovga qasam ichmagan.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "pok"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "kaftlari"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "va pok"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "koʻtarmagan"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "boʻsh narsaga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "qasam ichmagan"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "aldovga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:35.648128706Z",
+  "model": "glm-5.3"
+}

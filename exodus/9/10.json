@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va ular pech kulini olib, Parʻo oldida turdilar, va Moshe uni osmonga sochdi, va odamda va hayvonda pufakchalar boʻlib otilib chiqadigan yaralar paydo boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "va ular oldilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pech kulini"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "kul"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "pech"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "va turdilar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʻo"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "va sochdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (kulni)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "osmonga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "yara"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "pufakchalar"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "otilib chiqadigan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "odamda"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "va hayvonda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:00.968520179Z",
+  "model": "glm-5.3"
+}

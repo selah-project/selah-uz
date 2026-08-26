@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 146,
+  "translation": "Ruaxi chiqadi, u oʻz tuprogʻiga qaytadi; oʻsha kunda uning rejalari yoʻqoladi.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "chiqadi"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruaxi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "qaytadi"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "oʻz tuprogʻiga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "oʻsha kunda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨oʻsha⟩"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "yoʻqoladi"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "rejalari"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:16.265046079Z",
+  "model": "glm-5.3"
+}

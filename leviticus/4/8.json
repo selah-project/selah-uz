@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va gunoh qurboni buqosining ⟨את⟩ barcha moyini undan koʻtarib oladi: ⟨את⟩ ichki aʼzolarni qoplagan moyni va ichki aʼzolar ustidagi ⟨את⟩ barcha moyni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha moy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "moy"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buqo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "gunoh qurboni"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "koʻtarib oladi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoplagan moy"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "moy"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "qoplagan"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ichki aʼzolar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha moy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "moy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidagi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ichki aʼzolar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:53.922472418Z",
+  "model": "glm-5.3"
+}

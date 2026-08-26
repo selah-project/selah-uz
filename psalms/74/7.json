@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Olov yubordilar miqdashing ⟨ichiga⟩; yerga — Sening Ismingning maskanini murdador qildilar.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "yubordilar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "miqdashing"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "murdador qildilar"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "maskanini"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Ismingning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:13.912054370Z",
+  "model": "glm-5.3"
+}

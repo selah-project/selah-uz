@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Deyarli darhol dushmanlarini boʻysundirar edim va bosqinlarining ustiga qoʻlimni qaytarar edim.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "deyarli darhol"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "dushmanlarini"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "boʻysundirar edim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustiga"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "bosqinlarining"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "qaytarar edim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻlimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:50.692648069Z",
+  "model": "glm-5.3"
+}

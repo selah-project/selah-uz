@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va sen bilan ⟨the⟩ ayol oʻrtasiga, va sening urugʻing bilan uning urugʻi oʻrtasiga adovat qoʻyaman; u sening boshingni bosadi va sen uning toʻpigʻini chaqarsan.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "Va adovat"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "qoʻyaman"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "sen bilan ... oʻrtasiga"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va ... bilan ... oʻrtasiga"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨the⟩ ayol"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va ... bilan ... oʻrtasiga"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "sening urugʻing"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va ... bilan ... oʻrtasiga"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "uning urugʻi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "sening ... ni bosadi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshing"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "va sen"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "uning ... ni chaqarsan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "toʻpigʻini"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:30.599295404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Chunki Sen nefeshimni Sheolga tashlab ketmaysan, Sadogʻingni chuqurni (שחת) koʻrishga bermaysan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-mas"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "tashlab ketmaysan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshimni"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Sheolga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-mas"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bermaysan"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "Sadogʻingni"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "koʻrishga"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "chuqur (shaxt)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:16.500229257Z",
+  "model": "glm-5.3"
+}

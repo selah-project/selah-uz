@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Asher qabilasidan — ⟨את⟩ Mishalni va ⟨את⟩ uning atrof-maydonlarini, ⟨את⟩ Avdonni va ⟨את⟩ uning atrof-maydonlarini.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Va … qabilasidan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishalni"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning atrof-maydonlarini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "uning atrof-maydonlarini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdonni"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning atrof-maydonlarini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "uning atrof-maydonlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:26:39.733242872Z",
+  "model": "glm-5.3"
+}

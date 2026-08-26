@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va boʻldi, podshohlik qoʻlida mustahkam boʻlgach, u ⟨את⟩ oʻz xizmatkorlarini — otasi podshohni oʻldirganlarni urib oʻldirdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "qachonki"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "mustahkam boʻldi"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "podshohlik"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "qoʻlida"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "urib oʻldirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz xizmatkorlarini"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "oʻz xizmatkorlarini"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "oʻldirganlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podshohni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshohni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasini"
+    }
+  ],
+  "timestamp": "2026-08-26T03:56:59.012862223Z",
+  "model": "glm-5.3"
+}

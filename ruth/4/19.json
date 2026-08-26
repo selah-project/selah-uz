@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Chetsron ⟨את⟩ Ramni dunyoga keltirdi, va Ram ⟨את⟩ Aminadavni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "va Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramni"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ramni"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "va Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadavni"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadavni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:14:47.273360195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Moshe dedi: yonib tayinorman-u, koʻray ⟨את⟩ bu ulkan manzarani — nima uchun buta yonib tugamaydi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "yonib tayinorman"
+    },
+    {
+      "surface": "נא",
+      "gloss": "—"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "va koʻray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manzarani"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "manzarani"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ulkan"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "yonib tugamaydi"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "buta"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:58.619694330Z",
+  "model": "glm-5.3"
+}

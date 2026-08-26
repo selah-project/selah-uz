@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Dovud mizmosidur. Yahvegа bering, el oʻgʻillari, Yahvegа kavod va qudrat bering.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "bering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "el"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "bering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegа"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "va qudrat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:02.720378777Z",
+  "model": "glm-5.3"
+}

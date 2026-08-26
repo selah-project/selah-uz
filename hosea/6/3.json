@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va bilib olmoqchi boʻlamiz, Yahveni ⟨את⟩ bilishga intilamiz — chiqishi tongdek ishonchli, va u bizga yomgʻir kabi, kechki yomgʻir kabi keladi, yerni sugʻoradi.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "bilib olmoqchi boʻlamiz"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "intilamiz"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilishga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "tongdek"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ishonchli"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "chiqishi"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "va keladi"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "yomgʻir kabi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "kechki yomgʻir kabi"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "sugʻoradi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:35:28.365983042Z",
+  "model": "glm-5.3"
+}

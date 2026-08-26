@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 3:6",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va agar uning qurbonligi ⟨the⟩ podadan boʻlsa — shalomlar qurbonligi uchun Yahvegʻa — erkak yoki urgʻochi, kamil ⟨he⟩ boʻlsin, yaqin keltirsin uni.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—dan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨the⟩ poda"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "uning qurbonligi"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "qurbonligi uchun"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "shalomlar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegʻa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "urgʻochi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "kamil"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "yaqin keltiradi uni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:38.652518947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Midyon kohinining yetti qizi bor edi; ular kelib suv chiqardilar va otalarining qoʻylarini sugʻorish uchun ⟨את⟩ suv idishlarini toʻldirdilar.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "kohinining"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyon"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "qiz"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "keldilar"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "suv chiqardilar"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "toʻldirdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suv idishlarini"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "suv idishlari"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "sugʻorish uchun"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "qoʻylar"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "otalari"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:30.363423886Z",
+  "model": "glm-5.3"
+}

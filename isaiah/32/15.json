@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Toki Yuksakdan bizning ustimizga ru xulq tulguncha; choʻl bogʻga aylanadi va bogʻ oʻrmon deb hisoblanadi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "toki"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "xulq tulguncha"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizning ustimizga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ru"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "Yuksakdan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va ⟨boʻladi⟩"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "choʻl"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "bogʻga"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "va bogʻ"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "oʻrmon"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "deb hisoblanadi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:20:03.667663876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Haman qirolga aytdi: ⟨the⟩ odam ⟨uchun⟩, kimki qirol uning sharafini xohlaydi —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qirolga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xohlaydi"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "uning sharafini"
+    }
+  ],
+  "timestamp": "2026-08-26T07:25:37.998809764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 20:5",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va nima uchun bizni Misrdan olib chiqdingiz, ⟨את⟩ bizni bu yomon joyga keltirish uchun? ⟨Bu⟩ urugʻ ⟨joyi⟩ emas, anjir va uzum va anor, va ichishga suv yoʻq.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "va nima uchun"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "olib chiqdingiz"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "keltirish uchun"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizni",
+      "marks": "bizni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urugʻ"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "anjir"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "uzum"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "anor"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ichish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:38:24.162972154Z",
+  "model": "glm-5.3"
+}

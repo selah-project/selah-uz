@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Shimolni va janubni Sen yaratding; Tavor va Hermon Ismingda quvonch ovozi ko'taradi.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "shimolni"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "va janubni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "yaratding"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "va Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Ismingda"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "quvonch ovozi ko'taradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:24.286436406Z",
+  "model": "glm-5.3"
+}

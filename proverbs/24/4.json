@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va bilim orqali xonalar har qanday qimmatli va yoqimli boylik bilan toʻldiriladi.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "va bilim orqali"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "xonalar"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "toʻldiriladi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "הון",
+      "gloss": "boylik"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "qimmatli"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "va yoqimli"
+    }
+  ],
+  "timestamp": "2026-08-26T06:48:26.177380279Z",
+  "model": "glm-5.3"
+}

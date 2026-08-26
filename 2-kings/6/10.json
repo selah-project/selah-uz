@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Isroil qiroli Elohim odami unga aytgan joy huzuriga yubordi va ⟨uni⟩ ogohlantirdi, va u yerda oʻzini saqladi — bir marta emas, ikki marta emas.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Va yubordi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "joyga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytgan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "va ogohlantirdi"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "va saqlandi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir marta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ikki marta"
+    }
+  ],
+  "timestamp": "2026-08-26T03:50:21.267845501Z",
+  "model": "glm-5.3"
+}

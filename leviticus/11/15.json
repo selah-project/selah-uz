@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "⟨את⟩ Har bir qarg'ani — o'z turiga",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "har bir qarg'ani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "qarg'ani"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "o'z turiga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:56.336086381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Yer esa boʻlib ⟨bo'lgan⟩ gʻuborsiz va boʻsh, zulmat chuqur ustida, va Elohim ruxi suvlarning ustida qanot yoyib turardi.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Yer esa"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "gʻuborsiz"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "va boʻsh"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "va zulmat"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzida"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "chuqur"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "va ruhx"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "qanot yoyib turardi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzida"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:33.938024170Z",
+  "model": "glm-5.3"
+}

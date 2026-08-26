@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Isroil va pelishtiyliklar saf tortdi, saf ⟨the⟩ qarshi safga.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "va saf tortdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "va pelishtiyliklar"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "saf"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "saf"
+    }
+  ],
+  "timestamp": "2026-08-26T02:50:15.102801414Z",
+  "model": "glm-5.3"
+}

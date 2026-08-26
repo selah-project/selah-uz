@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 149,
+  "translation": "Ularning podshohlarini zanjirlarga, ulugʻlarini temir kishanlarga bogʻlamoq uchun —",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "bogʻlamoq uchun"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "podshohlarini"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "zanjirlarga"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "ulugʻlarini"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "kishanlarga"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "temir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:24.987205630Z",
+  "model": "glm-5.3"
+}

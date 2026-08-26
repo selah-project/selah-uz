@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Yoʻlni oʻzingga tayyorlagin va ⟨את⟩ yeringning chegarasini uchga boʻlgin — Yahve Elohiming senga meros qilib beradigan ⟨yer⟩ — va ⟨bu⟩ qotillik qilgan har bir kishi u yerga qochish uchun boʻlsin.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "tayyorlagin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzingga"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yoʻlni"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "va uchga boʻlagin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yeringning chegarasini"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "chegarasini"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "yeringning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "senga meros qilib beradigan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻlsin"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "qochish uchun"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "qotillik qilgan kishi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:59:05.282627377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Avraham aytdi: Men qasam ichaman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "qasam ichaman"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:13.915397500Z",
+  "model": "glm-5.3"
+}

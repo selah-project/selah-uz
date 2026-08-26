@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 19:4",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Xalqlar uning haqida eshitdilar; ularning chuqurida ushlandi va uni zanjirband qilib Misr yeriga olib bordilar.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "eshitdilar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "uning haqida"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "בשחתם",
+      "gloss": "ularning chuqurida"
+    },
+    {
+      "surface": "נתפש",
+      "gloss": "ushlandi"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "olib bordilar"
+    },
+    {
+      "surface": "בחחים",
+      "gloss": "zanjirband qilib"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qarata"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T05:16:58.429508004Z",
+  "model": "glm-5.3"
+}

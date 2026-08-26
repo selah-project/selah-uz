@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "chunki agar kechikkan boʻlmasdik edik, endi allaqachon bu ⟨ikkinchi⟩ marta qaytgan boʻlur edik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "agar … boʻlmasa"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "kechikkan boʻlmasdik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "endi allaqachon"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "qaytgan boʻlur edik"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "⟨ikkinchi⟩ marta"
+    }
+  ],
+  "timestamp": "2026-08-26T00:47:12.141620350Z",
+  "model": "glm-5.3"
+}

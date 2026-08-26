@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 52,
+  "translation": "Tilinq halokatni oʻylab topadi, poyondozday oʻtkir, hiyla-quruvchi.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "halokatni"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "oʻylab topadi"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "Tilinq"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "poyondozday"
+    },
+    {
+      "surface": "מלṭש",
+      "gloss": "oʻtkir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "hiyla-"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:34.645602749Z",
+  "model": "glm-5.3"
+}

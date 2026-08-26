@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Kohen lagerdan tashqariga chiqadi, kohen koʻradi va mana — tsaraat yigʻi tsaraatlidан davolangan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "chiqadi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqari"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lagerdan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "koʻradi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "davolangan"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "yigʻi"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "tsaraatli"
+    }
+  ],
+  "timestamp": "2026-08-26T01:14:48.093495769Z",
+  "model": "glm-5.3"
+}

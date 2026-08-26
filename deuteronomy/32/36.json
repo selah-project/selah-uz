@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 32:36",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Chunki Yahve oʻz xalqini yolgʻiz qoʻymaydi va oʻz bandalariga rahm qiladi, chunki koʻradiki, qoʻl kuchidan ayrilgan ⟨va⟩ mahbus ham, erkin ham qolmagan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "yolgʻiz qoʻymaydi (adolat qiladi)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻz xalqini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ...ga nisbatan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "oʻz bandalari"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "rahm qiladi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "koʻradiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אזלת",
+      "gloss": "ayrilgan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl (kuch)"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "va ... qolmagan"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "mahbus (ushlangan)"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "va erkin (tashlab ketilgan)"
+    }
+  ],
+  "timestamp": "2026-08-26T08:25:51.977799396Z",
+  "model": "glm-5.3"
+}

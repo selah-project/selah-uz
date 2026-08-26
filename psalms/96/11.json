@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 96,
+  "translation": "Quvonadi ⟨osmonlar⟩, va xursand boʻladi ⟨yer⟩; gʻurlaydi dengiz va uning toʻliqligi.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "quvonadi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "va xursand boʻladi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "gʻurlaydi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "va uning toʻliqligi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:18.698809015Z",
+  "model": "glm-5.3"
+}

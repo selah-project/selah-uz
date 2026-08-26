@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 85,
+  "translation": "Sen koʻtarding xalqingning gunohini, sen yopding barcha gunholarini — sela.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "koʻtarding"
+    },
+    {
+      "surface": "עון",
+      "gloss": "gunohini"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqingning"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "yopding"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "gunholarini"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:18.943219074Z",
+  "model": "glm-5.3"
+}

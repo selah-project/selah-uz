@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va boʻldiki, chunki pushayozlar Elohimdan qoʻrqdilar, ⟨u⟩ ularga uylar qildi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "qoʻrqdilar"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "pushayozlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "uylar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:43.983562688Z",
+  "model": "glm-5.3"
+}

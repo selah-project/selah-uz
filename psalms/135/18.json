@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Ulargа oʻxshab boʻlurlar ularni yasaganlar — har kimki ularga tayanadi.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "ularga oʻxshab"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "boʻlurlar"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ularni yasaganlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har kim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tayanadi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:18.864200007Z",
+  "model": "glm-5.3"
+}

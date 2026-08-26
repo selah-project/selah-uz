@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Gunnahkorlar yerdan tugasin, va yovuzlar bundan keyin bo'lmasin. Barikla, ey nafsim, ⟨את⟩ Yahveni. Madh aylang, Yah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "tugasin"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "gunnahkorlar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "yerdan (min)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdan"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "va yovuzlar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bundan keyin"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "bo'lmasin"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Barikla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ey nafsim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Madh aylang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:11.509930483Z",
+  "model": "glm-5.3"
+}

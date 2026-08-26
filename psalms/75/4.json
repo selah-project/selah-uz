@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 75,
+  "translation": "Yertoʻkib turganda va uning barcha aholisi — Men uning ustunlarini mustahkamlanganman. Sela.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "Yertoʻkib turganda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va ... barcha"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "uning aholisi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "mustahkamlanganman"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "uning ustunlarini"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:01.805190177Z",
+  "model": "glm-5.3"
+}

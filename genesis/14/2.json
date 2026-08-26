@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Ular ⟨את⟩ Bera, Sedom podshohi va ⟨את⟩ Birsha, Amora podshohi bilan urush qildilar — Shinav, Adma podshohi, Shemaver, Tsevoyim podshohi va Bela podshohi bilan; u — Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "urush qildilar"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "urush"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Birsha"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinav"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adma"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "va Shemaver"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsevoyim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "va podshohi"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:47.570250098Z",
+  "model": "glm-5.3"
+}

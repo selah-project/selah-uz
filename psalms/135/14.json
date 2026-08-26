@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Chunki Yahve oʻz xalqini sud qiladi va oʻz bandalari ⟨haqida⟩ tasalli topadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sud qiladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻz xalqini"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ⟨haqida⟩"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "oʻz bandalari"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "tasalli topadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:01.416908368Z",
+  "model": "glm-5.3"
+}

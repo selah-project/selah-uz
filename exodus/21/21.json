@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Faqat agar ⟨u⟩ bir kun yoki ikki kun turadigan boʻlsa, jazolanmas, chunki u uning kumushidir.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יום",
+      "gloss": "bir kun"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "ikkı kun"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "turadigan boʻlsa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mas"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "jazolanmas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "uning kumushi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:49.757890709Z",
+  "model": "glm-5.3"
+}

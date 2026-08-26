@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Tur-gin, ey Elohim, oʻz daʼvongni yurit; nodon kishidan kelgan haqoringni esla, butun kun davomida.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tur-gin"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ey Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "yurit"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "oʻz daʼvongni"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "esla"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "haqoringni"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-dan kelgan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nodon kishidan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun davomida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:23.344076789Z",
+  "model": "glm-5.3"
+}

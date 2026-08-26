@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yahvedan soʻramadi va ⟨U⟩ uni oʻldirdi va ⟨את⟩ shohlikni Dovidga, Yishayning oʻgʻliga burdi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "soʻradi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvedan"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "va U uni oʻldirdi"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "va burdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shohlikni"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "shohlikni"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Dovidga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    }
+  ],
+  "timestamp": "2026-08-26T07:57:34.250985415Z",
+  "model": "glm-5.3"
+}

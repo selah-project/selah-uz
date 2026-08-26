@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Yahve, Elohimimiz, Xorevda bizga gapirdi, degan holda: «Bu togʻda ⟨⟨siz⟩⟩ turish ⟨sizga⟩ yetarli boʻldi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Xorevda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan holda"
+    },
+    {
+      "surface": "רב",
+      "gloss": "yetarli boʻldi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "turish"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T01:48:32.739569619Z",
+  "model": "glm-5.3"
+}

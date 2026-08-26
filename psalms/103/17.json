@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "Yahvening xesedi abadiydan abadiygacha Ungidan qoʻrqqonlar ustidadir, va Uning solihligi farzandlar farzandlarigadir.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "va xesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "abadiydan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ...gacha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiygacha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidadir"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Ungidan qoʻrqqonlar"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "va Uning solihligi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "farzandlar"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "farzandlarigadir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:38.917793920Z",
+  "model": "glm-5.3"
+}

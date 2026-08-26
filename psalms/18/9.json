@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Burun teshiklaridan tutun koʻtarildi, ogʻizdan olov yedi, undan choʻgʻlar yonib yonardi.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "koʻtarildi"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "tutun"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "burun teshiklaridan"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "va olov"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ogʻizdan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "choʻgʻlar"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "yonardi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:26.065991648Z",
+  "model": "glm-5.3"
+}

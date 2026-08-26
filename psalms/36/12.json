@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Takabburlik oyogʻi menga kelmagin, va reshoy qoʻli meni siljitmagin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "meng... -gin"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "kelmagin"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "oyoq"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "takabburlik"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "va qoʻl"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "reshoy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...magin"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "siljitmagin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:16.351134419Z",
+  "model": "glm-5.3"
+}

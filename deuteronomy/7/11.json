@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va saqlagil ⟨את⟩ buyruqni va ⟨את⟩ farzlarni va ⟨את⟩ hukmlarni, ki men seniga bu kunda ularni qilishga buyuraman.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "saqlagil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyruqni"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "buyruqni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "farzlarni"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "farzlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hukmlarni"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukmlarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "seniga buyuraman"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu kunda"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ularni qilishga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:52:27.485320169Z",
+  "model": "glm-5.3"
+}

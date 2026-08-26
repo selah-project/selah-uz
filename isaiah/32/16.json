@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va adolat choʻlda maskan tutadi, va sedaqa bogʻda oʻtiradi.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "va ... maskan tutadi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "va sedaqa"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "bogʻda"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "oʻtiradi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:20:03.667835633Z",
+  "model": "glm-5.3"
+}

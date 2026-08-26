@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Parʼoning amirlari uni koʻrdilar va uni Parʼonga madad aytishdi; va xotin Parʼoning uyiga olib ketildi.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "koʻrdilar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "amirlari"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʼo"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "va madad aytishdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʼo"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "va olib ketildi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "xotin"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʼoning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:30.585736971Z",
+  "model": "glm-5.3"
+}

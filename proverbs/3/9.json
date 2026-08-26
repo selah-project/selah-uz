@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Yahveni ⟨את⟩ boyligʻingdan ulugʻla, va barcha hosilingning boshidan ⟨ulanib⟩ sharafla.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ulgʻula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "boyigʻindan"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "va boshidan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "hosiligʻning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:39:35.414419120Z",
+  "model": "glm-5.3"
+}

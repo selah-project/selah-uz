@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Pusib turadi yashirin joyda, xuddi arslon soyada; pusib turadi mazlumni tortib olish uchun; mazlumni tortib oladi — uni oʻz toʻriga sudrab, oʻz toriga.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "pusib turadi"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "yashirin joyda"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "xuddi arslon"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "soyada"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "pusib turadi"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "tortib olish uchun"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mazlumni"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "tortib oladi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mazlumni"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "uni sudrab"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "oʻz toriga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:43.465108823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 149,
+  "translation": "Yahni maqtanglar, Yahvegʻa yangi qoʻshiq kuylanglar, uning maqtovi chasidlar jamoasida boʻlsin.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "maqtanglar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahni"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "kuylanglar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegʻa"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yangi"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "uning maqtovi"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "jamoasida"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "chasidlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:37.751709962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Yahve Moshega aytdi: Qar, seni Parohga Elohim qildim, va Aharon birodarıñ seniñ payǵambarıñ boʻladi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Qar"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "seni qildim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parohga"
+    },
+    {
+      "surface": "וואהרן",
+      "gloss": "va Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birodarıñ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "payǵambarıñ"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:00.984847672Z",
+  "model": "glm-5.3"
+}

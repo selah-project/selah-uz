@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Yahveʼga aytaman: „Panohim U, qalʼam U; Elohim im, Unga tayanaman.“",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "aytaman"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveʼga"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "panohim"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "va qalʼam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim im"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "tayanaman"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Unga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:58.842019545Z",
+  "model": "glm-5.3"
+}

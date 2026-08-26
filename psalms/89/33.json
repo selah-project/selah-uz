@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Va ularning isyonini tayoq bilan, ayblarini zarbalar bilan jazo-layman",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "jazolayman"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "tayoq bilan"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "ularning isyonini"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "va zarbalar bilan"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "ularning ayblarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:07.524701671Z",
+  "model": "glm-5.3"
+}

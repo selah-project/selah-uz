@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Qaysi odam yashaydi va oʻlimni koʻrmaydi? U oʻz jonini Sheol qoʻlidan qutqaradimi? Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "qaysi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "odam"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "yashaydi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... koʻrmaydi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "koʻrmaydi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlimni"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "qutqaradimi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "oʻz jonini"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:42.049288158Z",
+  "model": "glm-5.3"
+}

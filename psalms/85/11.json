@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 85,
+  "translation": "Xesed va haqiqat uchrashdi, odillik va tinchlik bo'sa berishdi.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Xesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "va haqiqat"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "uchrashdi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "odillik"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "va tinchlik"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "bo'sa berishdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:01.805038134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va odam boʻyindi, va ⟨erkak⟩ pastlandi — va ularga koʻtarma ⟨ulardan⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "va boʻyindi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "va pastlandi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨erkak⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "koʻtarma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:33:36.132001658Z",
+  "model": "glm-5.3"
+}

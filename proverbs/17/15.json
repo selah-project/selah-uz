@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Yovni odil qiluvchi va solihni aybluvchi — ikkalasi ham Yahve uchun yomon koʻrilgan.",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "odil qiluvchi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovni"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "va aybluvchi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solihni"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "yomon koʻrilgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikkalasi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:46:08.561659735Z",
+  "model": "glm-5.3"
+}

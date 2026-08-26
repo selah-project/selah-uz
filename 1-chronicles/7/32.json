@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Xever dunyoga keltirdi ⟨את⟩ Yafletni va ⟨את⟩ Shomerni va ⟨את⟩ Xotamni va ⟨את⟩ Shuani, ularning opasini.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "va Xever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yafletni"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shomerni"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Xotamni"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Xotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shuani"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ularning opasi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:56:20.407576696Z",
+  "model": "glm-5.3"
+}

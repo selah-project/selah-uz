@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Chunki xizmatkoring Aramdagʻi Geshurda yashaganida nazr qildi, deb: Agar Yahve meni rostdan ham Yerushalayimga qaytarsa, men Yahvega ⟨את⟩ xizmat qilaman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nazr"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nazr qildi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xizmatkoring"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "yashaganimda"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "Geshurda"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aramda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "rostdan ham qaytarsa"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "meni qaytarsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimga"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "xizmat qilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T03:13:30.200607755Z",
+  "model": "glm-5.3"
+}

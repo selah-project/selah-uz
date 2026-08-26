@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va gapirdi Yahve Moshega va Aharonga, deyib:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Va gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …ga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyib"
+    }
+  ],
+  "timestamp": "2026-08-26T01:34:16.052506803Z",
+  "model": "glm-5.3"
+}

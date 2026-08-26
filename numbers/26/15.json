@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Gad oʻgʻillari — urugʻlaricha: Tsefon uchun — Tsefoniylar urugʻi, Xaggi uchun — Xaggiylar urugʻi, Shuni uchun — Shuniylar urugʻi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "urugʻlaricha"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "Tsefon uchun"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "urugʻi"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "Tsefoniylar"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "Xaggi uchun"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "urugʻi"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "Xaggiylar"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "Shuni uchun"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "urugʻi"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "Shuniylar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:39:31.608542932Z",
+  "model": "glm-5.3"
+}

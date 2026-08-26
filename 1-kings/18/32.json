@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va u Yahve nomi bilan ⟨את⟩ toshlardan mehrob qurdi, va mehrob atrofida ikki sá soʻmicha joy sigʻadigan oʻra qazidi.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "Va … qurdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toshlar"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "toshlar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mehrob"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nomi bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "va … qazidi"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "oʻra"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "…sigʻadigan joy"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "ikki sá"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "soʻmicha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofida"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mehrob … uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T03:42:40.546028389Z",
+  "model": "glm-5.3"
+}

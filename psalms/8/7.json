@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Uni qoʻl asarlari ustidan hukmron qilding; hammasini uning oyoqlari ostiga qoʻyding.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "uni hukmron qilding"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "asarlari ustidan"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "qoʻl(ing)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasini"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "qoʻyding"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostiga"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "uning oyoqlari"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:48.186175609Z",
+  "model": "glm-5.3"
+}

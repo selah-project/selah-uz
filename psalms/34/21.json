@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "U ⟨את⟩ barcha suyaklarini saqlaydi: ulardan bittasi ham sindirilmaydi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "saqlaydi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "suyaklarini"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bittasi"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "sindirilmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:02.189997492Z",
+  "model": "glm-5.3"
+}

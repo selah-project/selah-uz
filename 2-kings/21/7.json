@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 21:7",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va u Yahvening Dovudga va uning oʻgʻli Shlomoga: „Shu uyda va Isroilning barcha qabilalaridan tanlagan Yerushalaimda Ismimni abadiy qoʻyaman“ — deb aytgan uyda, oʻzi yasagan Ashera haykalini ⟨את⟩ qoʻydi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashera haykalini"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "haykeli"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Asheraning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "u yasagan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …ga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "uning oʻgʻli"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "shu uyda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "mana shu"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "va Yerushalaimda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "men tanlagan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barchasidan"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "qabilalar"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "qoʻyaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ismimni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Ismimni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T08:33:28.331448022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 117,
+  "translation": "Chunki Uning xesedi biz ustidan qudratli, va Yahvening haqiqati abadiylikka — maqtanglar Yah!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "qudratli (hukmron)"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "biz ustidan"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Uning xesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "va haqiqati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiylikka"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "maqtanglar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:18.043722646Z",
+  "model": "glm-5.3"
+}

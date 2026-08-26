@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Kemadan chiq — sen, va xoting, va oʻgʻillariñ, va oʻgʻillariñniñ xotinlari sen bilan ⟨את⟩!",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Chiq"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kema"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "va xoting"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "va oʻgʻillariñ"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "va xotinlari"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oʻgʻillariñniñ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:26.710087437Z",
+  "model": "glm-5.3"
+}

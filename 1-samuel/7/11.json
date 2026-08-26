@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Isroil odamlari Mitspadan chiqdilar va ⟨את⟩ filistliklarni ta'qib qildilar va ularni Bet-Kar ostisigacha urdilar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "chiqdilar"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "odamlari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "ta'qib qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "filistliklarni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistliklarni"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "urdilar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "osti"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:28:27.706800823Z",
+  "model": "glm-5.3"
+}

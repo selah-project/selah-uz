@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Chunki tilimda soʻz yoʻq — mana, Yahve, Sen uni butunlay bilasan",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "tilimda"
+    },
+    {
+      "surface": "הן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "Sen bilasan"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "uni butunlay"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:30.055700619Z",
+  "model": "glm-5.3"
+}

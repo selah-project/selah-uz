@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va choʻponlar keldi va ularni qisdirdi, va Moshe turdi va ularni qutqardi va ⟨את⟩ ularning podasini sugʻordi.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "choʻponlar"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "va ularni qisdirdi"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "va ularni qutqardi"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "va sugʻordi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning podasini"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "ularning podasi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:28.552773218Z",
+  "model": "glm-5.3"
+}

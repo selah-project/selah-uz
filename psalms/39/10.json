@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Jim boʻldim, ogʻzimni ochmayman, chunki Sen ⟨⟨buni⟩⟩ qilding.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "jim boʻldim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ochmayman"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻzimni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "qilding"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:35.047788279Z",
+  "model": "glm-5.3"
+}

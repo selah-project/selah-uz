@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va uning qoʻshini, va ularning sanab olinganlari — ellik uch ming toʻrt yuz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "va uning qoʻshini"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "va ularning sanab olinganlari"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uch"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "va ellik"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "va toʻrt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:25:56.830087557Z",
+  "model": "glm-5.3"
+}

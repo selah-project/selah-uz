@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 58,
+  "translation": "Aksincha, qalbingizda yovillik qilyapsizlar; yerda qoʻllaringizning zoʻravonligini tarazyapchilar.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "aksincha"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "qalbingizda"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "yovillik"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "qilyapsizlar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zoʻravonlik"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "qoʻllaringizning"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "tarazyapchilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:06.353240922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Va ⟨u⟩ besh pardani ⟨את⟩ bittasini boshqasiga uladi, va beshta pardani bittasini boshqasiga uladi.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "va uladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besh pardani"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "besh"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "pardalarni"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bittasini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "boshqasiga"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "va besh"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "pardani"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "uladi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bittasini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "boshqasiga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:06:36.980850126Z",
+  "model": "glm-5.3"
+}

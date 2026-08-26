@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va tongda, mincha qurbonligi koʻtarilayotgan paytda,Mana, suvlar Edom yoʻlidan kelayotgan edi, va yer ⟨את⟩ suvlar bilan toʻldi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tongda"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "koʻtarilayotgan paytda"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha qurbonligi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va Mana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kelayotgan edi"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "yoʻlidan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "va toʻldi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suvlar"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:48:22.782289746Z",
+  "model": "glm-5.3"
+}

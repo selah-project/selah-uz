@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va sharqiy togʻlar choʻqqilaridan, va abadiy tepaliklarning eng-goʻzal mahsulotidan.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "va choʻqqilaridan"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "sharqiy"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "va eng-goʻzal mahsulotidan"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "tepaliklar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T02:07:28.065489324Z",
+  "model": "glm-5.3"
+}

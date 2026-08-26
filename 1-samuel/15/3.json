@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Endi bor va Amalekni ⟨את⟩ ur, va uning hamma mulkini ⟨את⟩ butunlay yoʻq qil, va unga rahm qilma; va oʻldir — erkakdan ayolga, chaqaloqdan emizikligacha, hoʻkizdan qoʻygacha, tuya va eshakka qadar.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Endi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bor"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "va ur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekni"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "va butunlay yoʻq qil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamma mulkini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uning"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "rahm qil"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "va oʻldir"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "erkakdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...gacha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayolga"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "chaqaloqdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ...gacha"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "emizikli"
+    },
+    {
+      "surface": "משור",
+      "gloss": "hoʻkizdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ...gacha"
+    },
+    {
+      "surface": "שה",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "tuyadan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ...gacha"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "eshak"
+    }
+  ],
+  "timestamp": "2026-08-26T02:51:09.297149841Z",
+  "model": "glm-5.3"
+}

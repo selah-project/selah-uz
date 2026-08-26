@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Qalqonim — Elohim ⟨bilan⟩, toʻgʻri yuraklilarni qutqaruvchi.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "qalqonim"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim ⟨bilan⟩"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "qutqaruvchi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "toʻgʻri yuraklilarni"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurak"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:10.048833578Z",
+  "model": "glm-5.3"
+}

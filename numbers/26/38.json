@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 26:38",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Binyaminning o‘g‘illari, urug‘lari bo‘yicha: Bela uchun — Bela urug‘i, Ashbel uchun — Ashbel urug‘i, Axiram uchun — Axiram urug‘i.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "o‘g‘illari"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaminning"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "urug‘lari bo‘yicha"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "Bela uchun"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "urug‘i"
+    },
+    {
+      "surface": "הבלעי",
+      "gloss": "Bela urug‘i"
+    },
+    {
+      "surface": "לאשבל",
+      "gloss": "Ashbel uchun"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "urug‘i"
+    },
+    {
+      "surface": "האשבלי",
+      "gloss": "Ashbel urug‘i"
+    },
+    {
+      "surface": "לאחירם",
+      "gloss": "Axiram uchun"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "urug‘i"
+    },
+    {
+      "surface": "האחירמי",
+      "gloss": "Axiram urug‘i"
+    }
+  ],
+  "timestamp": "2026-08-26T01:41:19.698023567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Bu — ularning yoʻli, ular uchun sharmanda; va ulardan keyingilar ogʻizlari bilan mamnun boʻladi. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Bu"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "ularning yoʻli"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "sharmanda"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ular uchun"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "va ulardan keyingilar"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ogʻizlari bilan"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "mamnun boʻladi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:49.048550368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 88:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 88,
+  "translation": "Zulmatda sening moʻjizalaring bilinadimi? Va unutish yerida sening solihliging ⟨bilinadimi⟩?",
+  "tokens": [
+    {
+      "surface": "היודע",
+      "gloss": "bilinadimi"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "zulmatda"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "sening moʻjizalaring"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "va sening solihliging"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "נשיה",
+      "gloss": "unutish"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:58.365270561Z",
+  "model": "glm-5.3"
+}

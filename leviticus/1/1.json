@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va u Moshega chaqirdi, va Yahve u bilan suhbatlardi uchrashuv chodiridan, deyib:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "va suhbatlardi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "u bilan"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "choddan"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyib"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:29.027109032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Sheba malikasi Shlomoning shuhratini Yahve nomi ⟨haqida⟩ eshitib, uni topishmoqlar bilan sinamoq uchun keldi.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Va … malikasi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "eshitib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shuhratini"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "shuhratini"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "nomi ⟨haqida⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "uni sinamoq uchun"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "topishmoqlar bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:34:29.698336565Z",
+  "model": "glm-5.3"
+}

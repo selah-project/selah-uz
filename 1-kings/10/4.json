@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Sheba malikasi Shlomoning butun donishmandligini va u qurgan uyini ⟨koʻrdi⟩.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Va … ⟨koʻrdi⟩"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "malikasi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun donishmandligini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "donishmandligini"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomoning"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "va ⟨the⟩ uy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "u qurgan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:34:29.698945127Z",
+  "model": "glm-5.3"
+}

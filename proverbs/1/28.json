@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "U holda meni chaqiradilar va men javob bermayman, meni erta-erta qidiradilar va meni topmaydilar.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "U holda"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "meni chaqiradilar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "javob bermayman"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "meni erta-erta qidiradilar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "meni topmaydilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:39:14.754367518Z",
+  "model": "glm-5.3"
+}

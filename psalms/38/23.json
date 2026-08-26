@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Yordamimga shoshgin, Adonay, mening najotim!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "shoshgin"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "yordamimga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "mening najotim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:34.079017556Z",
+  "model": "glm-5.3"
+}

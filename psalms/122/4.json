@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 122,
+  "translation": "Chunki u yerga qabilalar koʻtariladi — Yah qabilalari, Isroil uchun guvohlik, Yahvening nomiga shukur qilish uchun.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "koʻtariladi"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "qabilalar"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "qabilalari"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "guvohlik"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isroil uchun"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "shukur qilish uchun"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "nomiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:10.195666410Z",
+  "model": "glm-5.3"
+}

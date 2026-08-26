@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Men Yahve, sening Elohimingman, seni Misr yeridan olib chiqqan ⟨Men⟩: ogzingni keng och va Men uni toʻldiraman.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sening Elohiming"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "olib chiqqan ⟨Men⟩"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "keng och"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ogzingni"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "va Men uni toʻldiraman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:47.463696129Z",
+  "model": "glm-5.3"
+}

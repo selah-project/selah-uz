@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va Yahve seni yoʻlga yubordi va dedi: bor va ⟨את⟩ gunohkorlarni — ⟨את⟩ Amalekni cherm qil, va uning bilan jang qil, ularni tugatguncha — ularni.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "yubordi seni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bor"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "va cherm qil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunohkorlarni"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "gunohkorlarni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekni"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekni"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "va jang qil"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uning bilan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…guncha"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ularni tugatguncha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:49:42.742721312Z",
+  "model": "glm-5.3"
+}

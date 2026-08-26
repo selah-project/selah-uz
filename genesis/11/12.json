@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Arpakshad oʻttiz besh yil yashadi va ⟨את⟩ Shelaxni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "va Arpakshad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "besh"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "va oʻttiz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "va dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelaxni"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelax"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:22.329383403Z",
+  "model": "glm-5.3"
+}

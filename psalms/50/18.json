@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Agar o'g'rini ko'rsang — uni bilan birga yugurasan, va uxlayotgan (mo'nodan chiqqan)lar bilan ulushing bo'ladi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ko'rsang"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "o'g'rini"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "va yugurasan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uni bilan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "va ... bilan"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "mo'nodan chiqqanlar"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ulushing"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:17.937918530Z",
+  "model": "glm-5.3"
+}

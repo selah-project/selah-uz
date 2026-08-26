@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va Yaakov soʻradi va aytdi: iltimos, aytib ber sening ismingni; va ⟨u⟩ aytdi: nega sen mening ismimni soʻraysan? Va ⟨u⟩ uni ⟨את⟩ u yerda duoyi barakat berdi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Va soʻradi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "aytib ber"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sening ismingni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "soʻraysan"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "mening ismimni"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "va duoyi barakat berdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:20.773937052Z",
+  "model": "glm-5.3"
+}

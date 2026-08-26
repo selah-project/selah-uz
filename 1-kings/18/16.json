@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Ovadyahu Ahab bilan uchrashish uchun bordi va unga xabar berdi; va Ahab Eliya bilan uchrashish uchun bordi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "va bordi"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "uchrashish uchun"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "va xabar berdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va bordi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "uchrashish uchun"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    }
+  ],
+  "timestamp": "2026-08-26T03:41:59.738908199Z",
+  "model": "glm-5.3"
+}

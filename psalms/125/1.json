@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 125,
+  "translation": "Koʻtarilishlar qoʻshigʻi. Yahveʼga ishonganlar Siyon togʻi kabilarki, u abadiy tebranmaydi, otiradi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshigʻi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "koʻtarilishlar"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "ishonganlar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahveʼga"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "togi kabi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tebranmaydi — emas"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "tebranmaydi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "otiradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:08.895959061Z",
+  "model": "glm-5.3"
+}

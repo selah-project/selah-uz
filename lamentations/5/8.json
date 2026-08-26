@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Qullar bizga hukmronlik qildi; ularning qoʻlidan qutqaruvchi yoʻq.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "Qullar"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "hukmronlik qildi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "qutqaruvchi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ularning qoʻlidan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:32.031141377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Katta chiroqlarni yaratganga, chunki abadiydir Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "yaratganga"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "chiroqlarni"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "katta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiydir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Uning xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:15.929133244Z",
+  "model": "glm-5.3"
+}

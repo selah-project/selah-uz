@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 1:17",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Eli javob berdi va dedi: ketgin salom bilan, va Isroilning Elohoti bersin ⟨את⟩ iltijongni ki sen undan soʻraganingni.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ketgin"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "salom bilan"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "va Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bersin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iltijongni"
+    },
+    {
+      "surface": "שלתך",
+      "gloss": "iltijongni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "soʻraganingni"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:40:53.651737017Z",
+  "model": "glm-5.3"
+}

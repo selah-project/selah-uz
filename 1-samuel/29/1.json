@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va Pelishtimlar ⟨את⟩ barcha lagerlarini Afekada to'pladilar, Isroil esa Yizre'eldagi buloq yonida lager solib turardi.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "to'pladilar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtimlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha lagerlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "lagerlarini"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afekada"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "Isroil esa"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "lager solib turardi"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "buloq yonida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki u"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "Yizre'elda"
+    }
+  ],
+  "timestamp": "2026-08-26T03:00:43.108306746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va endi bor, men senga maslahat beraman — iltijom bilan — maslahat: va ⟨את》 joningni va ⟨את⟩ oʻgʻling Shelomoning jonzotini qutqargil.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "bor"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "senga maslahat beraman"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltijom bilan"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "maslahat"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "va qutqargil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joningni"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "joning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻgʻling Shelomoning jonzoti"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jonzot"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oʻgʻling"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:22:59.416980265Z",
+  "model": "glm-5.3"
+}

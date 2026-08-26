@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 100,
+  "translation": "Uning darvozalariga shukrona bilan, Uning hovlilariga maqtov bilan kiraveringlar; Unga shukr aytinglar, Uning Ismini barakalang.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "kiraveringlar"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "Uning darvozalariga"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "shukrona bilan"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "Uning hovlilariga"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "maqtov bilan"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "shukr aytinglar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barakalang"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Uning Ismini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:23.767393193Z",
+  "model": "glm-5.3"
+}

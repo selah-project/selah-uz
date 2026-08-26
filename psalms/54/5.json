@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 54,
+  "translation": "Chunki yotlar menga qarshi turdi va zolimlar jonimni qidirdilar; ular Elohimni oʻzlarining oldilariga qoʻymadilar. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yotlar"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga qarshi"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "va zolimlar"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "qidirdilar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "qoʻymadilar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimni"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "oʻzlarining oldilariga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:53.430384943Z",
+  "model": "glm-5.3"
+}

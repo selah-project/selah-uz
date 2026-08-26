@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 17:1",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Eliyahu Tishbili, Gilad muqimlaridan, Ahabga dedi: «Sogʻ boʻlsin Yahve, Isroilning Elohi, oldida turganman men — boʻlmasin bu yillarda shud va yomgʻir, faqat ogʻzimning soʻzi boʻyicha.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Tishbli"
+    },
+    {
+      "surface": "מתשבי",
+      "gloss": "muqimlaridan"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "חי",
+      "gloss": "sogʻ boʻlsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "turganman"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "אם",
+      "gloss": "boʻlmasin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "yillarda"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "טל",
+      "gloss": "shud"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "va yomgʻir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "magar"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "boʻyicha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzimning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:39:15.789484043Z",
+  "model": "glm-5.3"
+}

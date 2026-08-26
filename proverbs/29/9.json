@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Donishmand odam ahmoq odam bilan ⟨את⟩ janjallashadi — u gʻazablansa ham, kulsa ham, tinchlik boʻlmaydi.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "donishmand"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "janjallashadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahmoq odam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ahmoq"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "gʻazablansa ham"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "kulsa ham"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "boʻlmaydi"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "tinchlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:51:57.972449483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Faqat koʻzing bilan kuzatasan va yovlarga beriladigan jazoni koʻrasan.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "koʻzing bilan"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "kuzatasan"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "jazoni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlarga beriladigan"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "koʻrasan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:33.859281127Z",
+  "model": "glm-5.3"
+}

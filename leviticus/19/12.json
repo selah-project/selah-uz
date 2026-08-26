@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Mening ismim bilan yolgʻon qasam ichmanglar, va Elohiming ⟨את⟩ ismini muqaddasdan chiqarmasliging kerak; Men Yahveman.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Va yoʻq"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "qasam ichmanglar"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "Mening ismim bilan"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "yolgʻon uchun"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "va muqaddasdan chiqarmasliging"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ism"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ism"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:16.418292131Z",
+  "model": "glm-5.3"
+}

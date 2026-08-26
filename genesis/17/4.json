@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Men — mana, ahdim ⟨את⟩ bilan, va boʻlasan koʻp xalqlar otasiga.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "sen bilan"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "va boʻlasan"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "otasiga"
+    },
+    {
+      "surface": "המון",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:41.633290388Z",
+  "model": "glm-5.3"
+}

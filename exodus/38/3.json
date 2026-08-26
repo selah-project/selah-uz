@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va u ⟨את⟩ qurbongohning barcha asboblarni yasadi: ⟨את⟩ qozonlarni, va ⟨את⟩ belkuraklarni, va ⟨את〕 choʻgʻuchlarini, ⟨את⟩ sanchqilarni va ⟨את⟩ olov idishlarini — uning barcha asboblarini misdan qildi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va u yasadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha asboblarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "asboblari"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongohning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qozonlarni"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "qozonlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "belkuraklarni"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "belkuraklar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "choʻgʻuchlarni"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "choʻgʻuchlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanchqilarni"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "sanchqilar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "olov idishlarini"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "olov idishlari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uning asboblari"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mis"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:42.698268995Z",
+  "model": "glm-5.3"
+}

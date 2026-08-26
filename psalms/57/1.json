@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 57,
+  "translation": "Xor rahbariga — „Vayron qilma“ — Dovudning miktami, Shaul yuzidan gʻorga qochgan chogʻida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xor rahbariga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "vayron qilma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "qochgan chogʻida"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "gʻorda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:06.730203098Z",
+  "model": "glm-5.3"
+}

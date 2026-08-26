@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Qaerda ⟨endi⟩ sening shohing — barcha shaharlaringda seni qutqaradigan? Va ⟨qaerda⟩ sening hakamlaring, ularga sen: „Menga shoh va sarkardalar ber“ deganing?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "Qaerda"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "sening shohing"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "seni qutqaradigan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "shaharlaringda"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "sening hakamlaring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "deganing"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ber"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "va sarkardalar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:37:33.990508389Z",
+  "model": "glm-5.3"
+}

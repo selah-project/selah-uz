@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 66:2",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Va ⟨את⟩ barcha shunilarni qoʻlim yasadi, va barcha shunilar boʻldi, — Yahvening nidoi. Va Shunga qarayman: kambagʻal va ruxdan singan va Mening soʻzimdan qoʻrqqanga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha shunilarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "shunilar"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻlim"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "shunilar"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nidoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... ga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Shunga"
+    },
+    {
+      "surface": "אביט",
+      "gloss": "qarayman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... ga"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kambagʻal"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "va ... singan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruxdan"
+    },
+    {
+      "surface": "וחרד",
+      "gloss": "va qoʻrqqan"
+    },
+    {
+      "surface": "על",
+      "gloss": "... dan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:37:48.784279106Z",
+  "model": "glm-5.3"
+}

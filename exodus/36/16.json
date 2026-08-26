@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Va beshta pardani alohida, va oltita pardani alohida birlashtirdi.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "birlashtirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beshta pardani"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "beshta"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "pardani"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "alohida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oltita pardani"
+    },
+    {
+      "surface": "שש",
+      "gloss": "oltita"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "pardani"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "alohida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:06:28.844043356Z",
+  "model": "glm-5.3"
+}

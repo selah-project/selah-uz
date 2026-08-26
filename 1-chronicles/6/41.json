@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va ⟨the⟩ shahar dalasini va ⟨את⟩ uning hovlilarini Kalav ben-Yefunnega berdilar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "shahar dalasi"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "dalasi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning hovlilari"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "uning hovlilari"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "berdilar"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalavga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefunne"
+    }
+  ],
+  "timestamp": "2026-08-26T07:55:56.075834931Z",
+  "model": "glm-5.3"
+}

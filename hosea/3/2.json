@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va men uni oʻzimga sotib oldim oʻn besh ⟨boʻlak⟩ kumushga, bir homer arpagacha va yarim homer arpaga.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "Va uni sotib oldim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oʻzimga"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "besh"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "va homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "arpa"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "va yarim homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "arpa"
+    }
+  ],
+  "timestamp": "2026-08-26T05:35:21.736510196Z",
+  "model": "glm-5.3"
+}

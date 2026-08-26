@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va Dovud ⟨את⟩ barcha qoʻylarni va mol-jonni oldi; ular shu chorvani oldinga haydab ketishdi va aytdilar: „Bu Dovudning oʻljasi.“",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha qoʻylarni va mol-jonni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "qoʻylar"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "va mol-jon"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "haydab ketishdi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldinga"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "chorva"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "shu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va aytdilar"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "oʻlja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovudning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:00:44.774712186Z",
+  "model": "glm-5.3"
+}

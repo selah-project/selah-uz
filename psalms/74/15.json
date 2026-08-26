@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Sen buloq va soyani yorib yubording, ⟨Sen⟩ doimiy oqar daryolarni quritding.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "yorib yubording"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "buloq"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "va soyani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨Sen⟩"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "quritding"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "daryolarni"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "doimiy oqar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:59.395399315Z",
+  "model": "glm-5.3"
+}

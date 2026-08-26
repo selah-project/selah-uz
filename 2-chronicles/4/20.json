@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va ⟨את⟩ shamdonlarni hamda ularning chiroqlarini — ularni yoqish uchun qoida boʻyicha devir oldida — sof oltindan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shamdonlarni"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "shamdonlarni"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "ularning chiroqlarini"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "ularni yoqish uchun"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "qoida boʻyicha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "devir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltindan"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "sof"
+    }
+  ],
+  "timestamp": "2026-08-26T08:05:06.822370723Z",
+  "model": "glm-5.3"
+}

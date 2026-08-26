@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Dono qoʻrqadi va yovuzlikdan chekinadi, va ahmoq esa gʻazur-gʻazab qilib isonadi.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "dono"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qoʻrqadi"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "va chekinadi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "yovuzlikdan"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "va ahmoq"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "gʻazur-gʻazab qilib"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "isonadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:44:12.386433472Z",
+  "model": "glm-5.3"
+}

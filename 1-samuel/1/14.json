@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Eli unga aytdi: Qanchagacha mast boʻlib turasan? ⟨את⟩ vinochni oʻz ustingdan olib tashla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... aytdi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "qancha vaqt"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "mast boʻlib turasan"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "olib tashla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vinochni"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "vinongni"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "oʻz ustingdan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:40:15.084566873Z",
+  "model": "glm-5.3"
+}

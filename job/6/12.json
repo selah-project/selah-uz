@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Agar toshlar kuchi ⟨bor⟩ mening kuchsami? Agar misdanmi mening tanam?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar…mi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kuchi"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "toshlar"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "mening kuchsami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar…mi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "mening tanam"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "misdanmi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:46:39.630321437Z",
+  "model": "glm-5.3"
+}

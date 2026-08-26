@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 6:5",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va birdan biri balkini tushirar edi — ⟨את⟩ temir suvga tushdi; u qichqirdi va dedi: „Voy, egam! U esa qarz olingan edi.“",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birdan biri"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "tushirar edi"
+    },
+    {
+      "surface": "הקורה",
+      "gloss": "balkini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "temir"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "temir"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "qichqirdi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Voy"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "egam"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u esa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "qarz olingan edi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:48:52.122673480Z",
+  "model": "glm-5.3"
+}

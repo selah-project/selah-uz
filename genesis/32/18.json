@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va birinchini ⟨את⟩ buyurdi, deb: „Agar Esav, mening ukam, sen bilan uchrashsa va sendan soʻrasa, deb: Sen kimning ⟨sensan⟩, va qayonga borasan, va oldingdagi bular kimning?«",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "va buyurdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birinchini"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "birinchi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "כי",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "sen bilan uchrashsa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mening ukam"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "va sendan soʻrasa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "למי",
+      "gloss": "kimning"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sensan"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "va qayonga"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "borasan"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "va kimning"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bular"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "oldingda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:28.317402526Z",
+  "model": "glm-5.3"
+}

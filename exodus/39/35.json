@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "⟨את⟩ guvohlik sandigʻini, ⟨את⟩ uning tayoqlarini va ⟨את⟩ kafarotni.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guvohlik sandigʻini"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sandigʻini"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "guvohlik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning tayoqlari"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "uning tayoqlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "kafarotni"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kafarotni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:07:59.875612057Z",
+  "model": "glm-5.3"
+}

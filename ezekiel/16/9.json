@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va seni suv bilan yuvidim, qonlingni sendan yuvidim, va seni moy bilan moyladim.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "va seni yuvidim"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suv bilan"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "va yuvidim"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "qonlingni"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "sendan"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "va seni moyladim"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "moy bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:14:05.994388Z",
+  "model": "glm-5.3"
+}

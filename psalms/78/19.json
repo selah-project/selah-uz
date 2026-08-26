@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va ular Elohimga qarshi gapirdilar, dedilar: „Elohimning choʻlda dasturxon yozishga kuchi yetadimi?“",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "gapirdilar"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimga qarshi"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dedilar"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "kuchi yetadimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "yozishga"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "dasturxon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:54.818075936Z",
+  "model": "glm-5.3"
+}

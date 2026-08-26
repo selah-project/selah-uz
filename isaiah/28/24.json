@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Hoʻkiz urgʻuchi hoʻkiz urarmi butun kunni ekish uchun? Yigʻirmi, tekislarmi oʻz tuprogʻini?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunni"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "hoʻkiz urarmi"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "hoʻkiz urgʻuchi"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "ekish uchun"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "yigʻirmi (ocharmi)"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "va tekislarmi"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "oʻz tuprogʻini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:35:06.525281919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va Yahve Moshega aytdi: gapirgan soʻzingni ham — ⟨את⟩ bu soʻzni — bajaraman, chunki koʻzlarimda xizmat topding va seni isming bilan bilaman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu soʻzni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "gapirganing"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "bajaraman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "topding"
+    },
+    {
+      "surface": "חן",
+      "gloss": "xizmat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzlarimda"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "va seni bilaman"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "isming bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:57.079896027Z",
+  "model": "glm-5.3"
+}

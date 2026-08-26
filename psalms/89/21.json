@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Dovudni, bandamni topdim; muqaddas moyim bilan unga moyladim.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "topdim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovudni"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bandamni"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "moy bilan"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "muqaddas …im"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "unga moyladim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:02.354485020Z",
+  "model": "glm-5.3"
+}

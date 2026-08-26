@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Yomonlik yomonni oʻldiradi, va solihdan nafratlanganlar ayblanadilar.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "oʻldiradi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlik"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "va nafratlanganlar"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ayblanadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:02.190168848Z",
+  "model": "glm-5.3"
+}

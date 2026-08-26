@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 16:13",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Sukkot bayramini yetti kun davomida oʻzing uchun qil, gʻallxonaingdan va zumradoningdan ⟨mahsulotni⟩ yigʻib olganingda.",
+  "tokens": [
+    {
+      "surface": "חג",
+      "gloss": "bayram"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzing uchun"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "yigʻib olganingda"
+    },
+    {
+      "surface": "מגרנך",
+      "gloss": "gʻallxonaingdan"
+    },
+    {
+      "surface": "ומיקבך",
+      "gloss": "va zumradoningdan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:56:35.500739889Z",
+  "model": "glm-5.3"
+}

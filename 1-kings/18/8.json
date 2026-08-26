@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va u unga dedi: Men oʻzimman; bor, xoʻjayiningga aytgin: Mana, Elyahu ⟨bu yerdadir⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va … dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men oʻzimman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bor"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytgin"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "xoʻjayiningga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elyahu"
+    }
+  ],
+  "timestamp": "2026-08-26T03:41:28.695615561Z",
+  "model": "glm-5.3"
+}

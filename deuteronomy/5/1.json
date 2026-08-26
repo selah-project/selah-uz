@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Moshe butun Isroilni chaqirdi va ularga aytdi: Tingla, Isroil, ⟨את⟩ qonunlar va ⟨את⟩ hukmlarni, menki bugun quloqlaringga aytmoqdaman, va sizlar ⟨את⟩ ulardan oʻrganasiz va ularga amal qilish uchun saqlaysiz.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Tingla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qonunlar"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "qonunlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hukmlarni"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukmlarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "menki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aytmoqdaman"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "quloqlaringga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "va oʻrganasiz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ulardan",
+      "marks": "qonunlar va hukmlar"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "va saqlaysiz"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "ularga amal qilish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:23:40.346312706Z",
+  "model": "glm-5.3"
+}

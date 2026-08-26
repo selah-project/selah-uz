@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Qoʻlingga ruхimni topshiraman; Sen xorlab qutqarding ⟨את⟩ meni, Yahve, haqiqiy El.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Qoʻlingga"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "topshiraman"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruхimni"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "xorlab qutqarding"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "haqiqiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:23.621257014Z",
+  "model": "glm-5.3"
+}

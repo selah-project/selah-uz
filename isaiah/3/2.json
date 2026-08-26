@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Qahramonni va urush odamini, hakamni va navini, folchini va qarini ⟨…⟩.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "qahramonni"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "va odam"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "urush"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "hakamni"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "va navini"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "va folchini"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "va qarini"
+    }
+  ],
+  "timestamp": "2026-08-26T04:05:26.570224848Z",
+  "model": "glm-5.3"
+}

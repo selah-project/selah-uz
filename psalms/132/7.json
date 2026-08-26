@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 132,
+  "translation": "Uning maskanlariga kiramiz, uning oyoq soyaboniga sajda qilamiz.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "kiramiz"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "Uning maskanlariga"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "sajda qilamiz"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "oyoq soyaboniga"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "uning ..."
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:36.386645660Z",
+  "model": "glm-5.3"
+}

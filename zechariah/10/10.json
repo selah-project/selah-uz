@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 10:10",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va men ularni Misr yeridan qaytarib keltiraman va Ashurdan yigʻaman, va Gilad eriga va Livanon ⟨ga⟩ olib kiraman, va ularga joy topilmaydi.",
+  "tokens": [
+    {
+      "surface": "והשיבותים",
+      "gloss": "va men ularni qaytarib keltiraman"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "eridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ומאשור",
+      "gloss": "va Ashurdan"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "ularni yigʻaman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... ga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולבנון",
+      "gloss": "va Livanonga"
+    },
+    {
+      "surface": "אביאם",
+      "gloss": "ularni olib kiraman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "topiladi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ular uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T05:54:29.187582450Z",
+  "model": "glm-5.3"
+}

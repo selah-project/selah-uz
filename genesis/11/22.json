@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Serug yashadi oʻttiz yil, va ⟨את⟩ Naxorni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "oʻttiz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "va dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:18.584321593Z",
+  "model": "glm-5.3"
+}

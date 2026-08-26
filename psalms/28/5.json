@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Chunki ular Yahvening amallarini va Uning qoʻllarining ishlarini anglamaydilar; U ularni buzadi va ularni qayta tiklamaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maydi"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "anglamaydilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "amallarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …ni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ishlarini"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "qoʻllarining"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "ularni buzadi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …mas"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "ularni qayta tiklamaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:03.280334708Z",
+  "model": "glm-5.3"
+}

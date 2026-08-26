@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "U esa dedi: ⟨את⟩ aka-ukalarimni qidiryapman; iltimos, aygin-chi menga, qayerda ular podani boqmoqdalar",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aka-ukalarimni"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "aka-ukalarimni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "qidiryapman"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "aygin-chi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "qayerda"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "podani boqmoqdalar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:59.047794323Z",
+  "model": "glm-5.3"
+}

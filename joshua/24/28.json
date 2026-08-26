@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Yehoshua ⟨את⟩ xalqni yubordi — har biri oʻz merosiga.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "va yubordi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "oʻz merosiga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:23:13.526183665Z",
+  "model": "glm-5.3"
+}

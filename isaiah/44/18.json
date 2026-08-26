@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Bilmadilar va tushunmadilar, chunki ularning koʻzlari koʻrishdan, ularning yuraklari aql yuritishdan surtib yopildi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmadilar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "tushunmadilar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טח",
+      "gloss": "surtib yopdi"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "koʻrishdan"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "ularning koʻzlari"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "aql yuritishdan"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "ularning yuraklari"
+    }
+  ],
+  "timestamp": "2026-08-26T04:29:38.406139116Z",
+  "model": "glm-5.3"
+}

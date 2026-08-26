@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Elohim, mendan uzoqlashma; Elohim — sariqimga, shoshil!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "­ma"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzoqlashma"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "sariqimga"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "shoshil"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:37.133886704Z",
+  "model": "glm-5.3"
+}

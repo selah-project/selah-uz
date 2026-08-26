@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 11:9",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va ⟨buning uchun⟩ — kunlaringizni uzaytirasizlar ⟨the⟩ tuproqda, ki Yahve otalaringizga qasam ichdi uni ularga va zuriyatlariga berish uchun: sut va asal oqizuvchi yer.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "va ⟨buning uchun⟩"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "uzaytirasizlar"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlaringizni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨the⟩ tuproq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "qasam ichdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "otalaringizga"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "berish uchun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "va zuriyatlariga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "oqizuvchi"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "sut"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "va asal"
+    }
+  ],
+  "timestamp": "2026-08-26T01:51:57.859010994Z",
+  "model": "glm-5.3"
+}

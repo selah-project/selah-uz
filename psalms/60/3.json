@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "Elohim, Sen bizni tashlab yubording, bizni yorib yubording, gʻazablanding — bizni qaytar!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "bizni tashlab yubording"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "bizni yorib yubording"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "gʻazablanding"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "qaytar!"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:08.159945952Z",
+  "model": "glm-5.3"
+}

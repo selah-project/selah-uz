@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va Lavan Yoqubga dedi: nima qilding? ⟨את⟩ yuragimni oʻgʻirlading va ⟨את⟩ qizlarimni qilich asirlari kabi olib ketding.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yoqubga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "qilding"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "oʻgʻirlading"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "gloss_placeholder": "",
+      "marks": "yuragimni"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "yuragimni"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "olib ketding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qizlarimni"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "qizlarimni"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "asirlari kabi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:01.790361896Z",
+  "model": "glm-5.3"
+}

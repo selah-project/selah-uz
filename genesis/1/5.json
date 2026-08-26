@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Elohim yorugʻlikni «kun» deb atadi, zulmatni esa «tun» deb atadi. Va boʻldi oqshom, va boʻldi tong — bir kun.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Va ... atadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "yorugʻlikni"
+    },
+    {
+      "surface": "יום",
+      "gloss": "«kun» deb"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "zulmatni esa"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "atadi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "«tun» deb"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "oqshom"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:33.938615689Z",
+  "model": "glm-5.3"
+}

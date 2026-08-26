@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Kambagʻal odam kambagʻallarni ezsa — yuvib ketadigan yomgʻir, va non yoʻq.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "odam"
+    },
+    {
+      "surface": "רש",
+      "gloss": "kambagʻal"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "va ezsa"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "kambagʻallarni"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "yomgʻir"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "yuvib ketadigan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    }
+  ],
+  "timestamp": "2026-08-26T06:51:01.244498266Z",
+  "model": "glm-5.3"
+}

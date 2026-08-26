@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Ular oz sonli odamlar boʻlganlarida, deyarli yoʻq darajada kam, va u yerda muhojirlar boʻlganlarida",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "boʻlganlarida"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "odamlar"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "oz sonli"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "deyarli yoʻq darajada"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "va muhojirlar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:17.598808030Z",
+  "model": "glm-5.3"
+}

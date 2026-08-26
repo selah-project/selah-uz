@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Adashdilar choʻlda, issiq vohasiz biyobonda — yoʻl ⟨boʻylab⟩; manzil shahri topmadilar.",
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "adashdilar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "issiq vohasiz biyobonda"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "manzil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "topmadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:29.482134181Z",
+  "model": "glm-5.3"
+}

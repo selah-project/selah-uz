@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Elohim unga raqib turgʻizdi: ⟨את⟩ Rezonni, Elyadaʻ oʻgʻli — u Xadadʻezerdan, Sova shohi, oʻz robisidan qochgan edi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "turgʻizdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "raqib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Elyadaʻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "qochgan edi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ dan",
+      "marks": "Xadadʻezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Xadadʻezerdan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Sova"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "oʻz robisi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:32:34.581006166Z",
+  "model": "glm-5.3"
+}

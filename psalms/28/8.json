@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Yahve — ularga quvvat, va U Mashiaxi qutqaruvlarining qalʼasidir.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עז",
+      "gloss": "quvvat"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "va qalʼasi"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "qutqaruvlarining"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiaxi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:03.280887330Z",
+  "model": "glm-5.3"
+}

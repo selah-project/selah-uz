@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Otasini yoki onasini urganga — oʻlim bilan oʻldirilsin.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Va uruvchi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasini"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "va onasini"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldirilsin"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:09.949540669Z",
+  "model": "glm-5.3"
+}

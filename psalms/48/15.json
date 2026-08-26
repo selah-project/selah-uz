@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 48,
+  "translation": "Zero bu — Elohim, Elohimimiz abadiy va bass: U bizni oʻlimgacha ⟨yetaklab boradi⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "zero"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va bass"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "bizni yetaklaydi"
+    },
+    {
+      "surface": "על",
+      "gloss": "…gacha \/ ustidan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:51.854687208Z",
+  "model": "glm-5.3"
+}

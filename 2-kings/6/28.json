@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va malik unga aytdi: Nima ⟨bolgan⟩ senga? Va ⟨u⟩ aytdi: Bu ayol menga shunday dedi: Oʻgʻlingni ⟨את⟩ ber, uni bugun yeymiz, va oʻgʻlimni ⟨את⟩ ertaga yeymiz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "malik"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nima"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Va ⟨u⟩ aytdi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "תני",
+      "gloss": "ber"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oʻgʻlingni"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oʻgʻlingni"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "va uni yeymiz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻgʻlimni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻlimni"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yeymiz"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ertaga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:49:13.371856208Z",
+  "model": "glm-5.3"
+}

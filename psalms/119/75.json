@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Bilaman, ey Yahve, chunki adolatdir hukmlaringiz ⟨—⟩ va sadoqat bilan mustardahil qildingiz meni",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "bilaman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukmlaringiz"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "va sadoqat"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "mustardahil qildingiz meni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:39.284542536Z",
+  "model": "glm-5.3"
+}

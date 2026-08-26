@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Dushman tamom boʻldi — vayronalar abadiy tugadi; shaharlarni yulib tashlading, ularning esdaligi birga yoʻq boʻldi.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Dushman"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "tamom boʻldi"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "vayronalar"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "va shaharlarni"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "yulib tashlading"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yoʻq boʻldi"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "esdaligi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "birga (ular)"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:27.014106909Z",
+  "model": "glm-5.3"
+}

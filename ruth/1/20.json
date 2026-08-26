@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "U ularga dedi: „Noomi deb menga murojaat qilmanglar; Mara deb murojaat qilinglar, chunki Shadday meni juda achchiq qildi.“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "va u dedi"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "murojaat qilmanglar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Noomi"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "murojaat qilinglar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Mara"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "המר",
+      "gloss": "achchiq qildi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:48:52.829342716Z",
+  "model": "glm-5.3"
+}

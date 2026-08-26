@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Yahve seni qiyin kunida javob bersin, Yaakovning Elohimining nomi seni baland qoʻysin.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "senga javob bersin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "qiyinchilikning"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "seni baland qoʻysin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimining"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:58.458551209Z",
+  "model": "glm-5.3"
+}

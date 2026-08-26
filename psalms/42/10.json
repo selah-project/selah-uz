@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Men El Selaimga aytaman: „Nega meni unutding? Nega dushman qistovi ichida qaygʻurib yuraman?“",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "aytaman"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elga"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "Selayim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nega"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "meni unutding"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nega"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "qaygʻurib"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "yuraman"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "qistovi ichida"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dushman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:44.775558400Z",
+  "model": "glm-5.3"
+}

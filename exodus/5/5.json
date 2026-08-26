@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Paroh dedi: Mana, hozir koʻp ⟨⟨the⟩⟩ yerning xalqi, va siz ularni ogʻir majburiyatlaridan dam oldirasizlar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hozir"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "va siz dam oldirasizlar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "ogʻir majburiyatlaridan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:20.097366841Z",
+  "model": "glm-5.3"
+}

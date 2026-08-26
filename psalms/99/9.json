@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 99,
+  "translation": "Yahve Elohimimizni baland koʻtaringlar va Uning muqaddas togʻiga sajda qilinglar, chunki muqaddasdir Yahve Elohimimiz.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "baland koʻtaringlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "va sajda qilinglar"
+    },
+    {
+      "surface": "להר",
+      "gloss": "togʻiga"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Uning muqaddas ⟨togi⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:55.878504783Z",
+  "model": "glm-5.3"
+}

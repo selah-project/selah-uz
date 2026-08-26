@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va uning oʻgʻillari uning yoʻllarida yurmadilar, balki toc olishga burildilar, pora oldilar va adolatni burib yubordilar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Va ... emas"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "yurmadilar"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uning oʻgʻillari"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "uning yoʻllarida"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "burildilar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "toc olish"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "oldilar"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "pora"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "burib yubordilar"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "adolatni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:43:53.132522760Z",
+  "model": "glm-5.3"
+}

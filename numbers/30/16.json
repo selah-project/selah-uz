@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Agar u eshitganidan keyin ularni bekor qilsa, u ⟨את⟩ uning gunohini koʻtaradi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bekor qilsa"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "bekor qilsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshitganidan"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "koʻtaradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning gunohini"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "uning gunohini"
+    }
+  ],
+  "timestamp": "2026-08-26T01:44:29.652060981Z",
+  "model": "glm-5.3"
+}

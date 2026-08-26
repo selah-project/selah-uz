@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Qachongacha, ey Yahve, meni unutasan — abadiy? Qachongacha ⟨את⟩ yuzingni mendan yashirasan?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "qachongacha"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "meni unutasan"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qachongacha"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "yashirasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzingni"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:31.683708243Z",
+  "model": "glm-5.3"
+}

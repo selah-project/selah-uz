@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 19:8",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va butun xalq birgalikda javob berdi va aytdi: Yahve gapirgan hamma narsani qilamiz. Va Moshe xalqning soʻzlarini Yahvega qaytarib keltirdi.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "javob berdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birgalikda"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "qilamiz"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "qaytarib keltirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqning soʻzlarini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:44.285918818Z",
+  "model": "glm-5.3"
+}

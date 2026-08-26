@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Yahve aytdi: Men ⟨את⟩ odamni, kimgen yaratganman, tuproq yuzidan oʻchirib tashlayman — odamdan hayongacha, sudralib yuruvchigacha va osmon qushlarigacha, chunki pushaymon boʻldim, chunki ularni yaratdim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "oʻchirib tashlayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odamni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimni"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "yaratganman"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproq"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "odamdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sudralib yuruvchi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ... -gacha"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "qush"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "pushaymon boʻldim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ularni yaratdim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:16.990594754Z",
+  "model": "glm-5.3"
+}

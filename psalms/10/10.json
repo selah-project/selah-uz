@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Oʻlar holda choʻkadi va baxtsizlar uning panjalari ostida yiqiladi.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "oʻlar holda"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "choʻkadi"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "va yiqiladi"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "uning panjalari ostida"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "baxtsizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:43.465318132Z",
+  "model": "glm-5.3"
+}

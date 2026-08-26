@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Yurganingda qadaming tor boʻlmaydi, va yugursang, ⟨sen⟩ qoʻqmaysan.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "yurganingda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "tor boʻlmaydi"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "qadaming"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "yugursang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "qoʻqmaysan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:17.799237096Z",
+  "model": "glm-5.3"
+}

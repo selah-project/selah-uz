@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Kambagʻalning maslahatini uyaltirdingiz, chunki Yahve uning panohidir.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "maslahatini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kambagʻalning"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "uyaltirdingiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "uning panohidir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:11.176958814Z",
+  "model": "glm-5.3"
+}

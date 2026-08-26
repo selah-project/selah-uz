@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va odam Moshe — yumshoq taqli juda, yer yuzidagi butun odamlardan ⟨koʻra⟩.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "va ⟨the⟩ odam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "yumshoq taqli"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "butun ...dan ⟨koʻra⟩"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨the⟩ odamlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "⟨the⟩ yerning"
+    }
+  ],
+  "timestamp": "2026-08-26T01:32:21.781740710Z",
+  "model": "glm-5.3"
+}

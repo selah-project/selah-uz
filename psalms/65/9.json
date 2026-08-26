@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 65,
+  "translation": "Yer chekkalarida yashovchilar Sening belgilaringdan qoʻrqdilar; tong va oqshom chiqishlarini Sen kuylatursan.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "qoʻrqdilar"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "yashovchilari"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "chekkalarning"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "Sening belgilaringdan"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "chiqishlarini"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongning"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "va oqshomning"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "kuylatursan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:12.648977882Z",
+  "model": "glm-5.3"
+}

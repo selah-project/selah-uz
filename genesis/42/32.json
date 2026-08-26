@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Oʻn ikki­miz biz, aka-ukalar, bir otaning oʻgʻillari; ⟨the⟩ bittasi yoʻq, va ⟨the⟩ kichigi bugun ⟨את⟩ otamiz bilan Kenaan yerida.“",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "aka-ukalar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "otamizning"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨the⟩ bittasi"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "va ⟨the⟩ kichigi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otamiz"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "otamiz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:18.504159663Z",
+  "model": "glm-5.3"
+}

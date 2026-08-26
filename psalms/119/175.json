@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Jonim yashasin, va Seni maqtasin, va hukmlaring menga yordam bersin.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "yashasin"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "va Seni maqtasin"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "va hukmlaring"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "menga yordam bersin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:39.463488962Z",
+  "model": "glm-5.3"
+}

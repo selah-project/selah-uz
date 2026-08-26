@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Qayt, Yahve — qancha vaqtgacha? — va bandalaring ustidan pushmay ⟨⟨tavba qil⟩⟩.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Qayt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—gacha"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "qancha vaqt"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "va pushmay tavba qil"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bandalaring"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:33.479982492Z",
+  "model": "glm-5.3"
+}

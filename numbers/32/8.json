@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Otaglaringiz shunday qildilar — Qadesh-Barneadan ularni yerni koʻrish uchun yuborgan paytimda.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Shunday"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qildilar"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "otaglaringiz"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "yuborgan paytimda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Qadeshdan"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "koʻrish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T01:43:51.901631640Z",
+  "model": "glm-5.3"
+}

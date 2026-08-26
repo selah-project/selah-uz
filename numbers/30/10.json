@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Beva va tashlab yuborilgan ayolning nazri — joniga bogʻlagan barcha narsasi — unga qarab oʻz kuchida qoladi.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "Va nazri"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "bevaning"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "va tashlab yuborilgan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "bogʻlagan"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "jonini"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "oʻz kuchida qoladi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "unga qarab"
+    }
+  ],
+  "timestamp": "2026-08-26T01:44:23.528347239Z",
+  "model": "glm-5.3"
+}

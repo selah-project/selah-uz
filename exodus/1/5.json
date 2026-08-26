@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yaakov yonboshidan chiqqan barcha jon — yetmish jon boʻldi; va Yusuf Misrda edi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jon"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "chiqqan"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yonboshidan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmish"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jon"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "va Yusuf"
+    },
+    {
+      "surface": "היה",
+      "gloss": "edi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misrda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:16.306060745Z",
+  "model": "glm-5.3"
+}

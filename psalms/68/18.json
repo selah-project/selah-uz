@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Elohimning jangovar arabalari minglab, ming-minglab ⟨of⟩ gʻalaba qatorlari; Adonay ulardan ⟨orqasidan⟩ Sinaida, muqaddaslikda.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "jangovar arabalari"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "minglab"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ming-minglab"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "⟨of⟩ gʻalaba qatorlari"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaida"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "muqaddaslikda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:44.814969541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va menga bir soʻz oʻgʻirlanib yetkazildi va qulogʻim undan bir shivirini qabul qildi.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "va menga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "oʻgʻirlanib yetkazildi"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "va … qabul qildi"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "qulogʻim"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "bir shivirini"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:54:38.618930760Z",
+  "model": "glm-5.3"
+}

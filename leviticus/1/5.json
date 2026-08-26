@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va ⟨את⟩ molning boshini Yahve oldida soʻyadi, va Aharonning oʻgʻillari — kohinlar — ⟨את⟩ qonni yaqinlashtiradilar, va ⟨את⟩ qonni uchrash chodirining eshigi oldidagi mizbax atrofiga sepadilar.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "va soʻyadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molning boshini"
+    },
+    {
+      "surface": "בן",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "molning"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "va yaqinlashtiradilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonning"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qonni"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qonni"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "va sepadilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qonni"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qonni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbaxning"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofiga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eshigi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodirining"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrash"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:34.239424727Z",
+  "model": "glm-5.3"
+}

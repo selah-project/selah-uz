@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va ⟨את⟩ oʻz gunohlarini va ⟨את⟩ otalarining gunohini eʼtirof qiladilar — Menga qilgan xiyonatlarida, chunki ular Mengan xiyonat qildilar; va ham shuni⟨ki⟩ ular Mengan qarama-qarshi yurdilar.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "va eʼtirof qiladilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz gunohlarini"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "oʻz gunohlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "otalarining gunohini"
+    },
+    {
+      "surface": "עון",
+      "gloss": "gunoh"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "otalarining"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "xiyonatlarida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chunki ... lar"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "xiyonat qildilar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "va ham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "shuni ... ki"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "yurdilar"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Mengan"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "qarama-qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:24:28.383698704Z",
+  "model": "glm-5.3"
+}

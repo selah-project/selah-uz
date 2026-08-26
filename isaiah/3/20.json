@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "bosh kiyimlar, oyoq zanjirlari, belbogʻlar, parfyum qutilari va tumorlarni.",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "bosh kiyimlar"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "va oyoq zanjirlari"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "va belbogʻlar"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "…-ning uylari (qutilari)"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "jon (parfyum)"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "va tumorlar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:07:39.378800396Z",
+  "model": "glm-5.3"
+}

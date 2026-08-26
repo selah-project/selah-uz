@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va agar Menga toshdan mizbax qilsang, uni kesilgan toshlardan ⟨את⟩ qurmaysan, chunki ustiga qilichingni koʻtarsang, uni muqaddaslikdan mahrum qilgansan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Va agar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbax"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "toshdan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qilsang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "qurmaysan"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "kesilgan toshlardan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "qilichingni"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "koʻtarsang"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "uni muqaddaslikdan mahrum qilgansan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:22.836435951Z",
+  "model": "glm-5.3"
+}

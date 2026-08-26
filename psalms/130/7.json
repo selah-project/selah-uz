@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 130,
+  "translation": "Kutsin Isroil Yahvega, chunki Yahve bilan ⟨ahdning sodiq muhabbati⟩ xesed bor va U bilan koʻp fidyo ⟨bor⟩.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "kutsin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "xesed ⟨ahdning sodiq muhabbati⟩"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "va koʻp"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "U bilan"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "fidyo"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:44.420076450Z",
+  "model": "glm-5.3"
+}

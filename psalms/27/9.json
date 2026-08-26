@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Yuzingni mendan yashirma, xizmatkoringni gʻazab bilan chetga burma; yordamim Sen boʻlgansan; meni tashlab yuborma va meni tark etma, Elohim — qutqaruvim Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yashirma (−ma)"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "yashirma"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ma"
+    },
+    {
+      "surface": "תט",
+      "gloss": "chetga burma"
+    },
+    {
+      "surface": "באף",
+      "gloss": "gʻazab bilan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xizmatkoringni"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "yordamim"
+    },
+    {
+      "surface": "היית",
+      "gloss": "boʻlgansan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−ma"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "tashlab yuborma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va −ma"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tark etma"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "qutqaruvim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:43.607149938Z",
+  "model": "glm-5.3"
+}

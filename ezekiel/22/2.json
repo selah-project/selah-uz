@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Sen esa, odam oʻgʻli, qon shahriga hukm chiqarmoqchimisan, hukm chiqarmoqchimisan? Unda unga barcha yigʻirliklarini bildir.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Sen esa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "hukm chiqarmoqchimisan"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "hukm chiqarmoqchimisan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qon shahri"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahri"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "qon"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "bildir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha yigʻirliklari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "yigʻirliklarini"
+    }
+  ],
+  "timestamp": "2026-08-26T05:18:45.571162136Z",
+  "model": "glm-5.3"
+}

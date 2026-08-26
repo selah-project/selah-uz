@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va uni Yahve ruhi bilan toʻldirdi — hikmatda, aql-idrokda, bilimda va har qanday ishni bajarishda.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "va toʻldirdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (Betsalelni)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "hikmatda"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "aql-idrokda"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "va bilimda"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va har qanday"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ish"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:44.217596275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va sen ularga ⟨את⟩ barcha bu soʻzlarni gapirasan — ular senga eshitmaydilar; va sen ularga chaqirasan — ular senga javob bermaydilar.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "gapirasan"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha bu soʻzlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "eshitmaydilar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "chaqirasan"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "javob bermaydilar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:43:10.684041875Z",
+  "model": "glm-5.3"
+}

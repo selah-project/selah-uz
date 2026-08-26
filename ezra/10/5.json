@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Ezra turdi va kohinlarning sarkardalarini, levililarni va butun Isroilni ⟨את⟩ ushbu soʻzga koʻra qilishga qasam ichirdilar — va ular qasam ichdilar.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Va ... turdi"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "va qasam ichirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarkardalarni"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sarkardalarini"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohinlarning"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levililarni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "qilishga"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "soʻzga koʻra"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ushbu"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "va ular qasam ichdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T07:41:42.454371971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 57:19",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 57,
+  "translation": "Lablar mahsulini yaratayotgan ⟨men⟩: Tinchlik, tinchlik uzoq uchun va yaqin uchun, deydi Yahve, va uni davolayman.",
+  "tokens": [
+    {
+      "surface": "בורא",
+      "gloss": "yaratayotgan"
+    },
+    {
+      "surface": "נוב",
+      "gloss": "mahsulini"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lablarning"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Tinchlik"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "לרחוק",
+      "gloss": "uzoq uchun"
+    },
+    {
+      "surface": "ולקרוב",
+      "gloss": "va yaqin uchun"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ורפאתיו",
+      "gloss": "va uni davolayman"
+    }
+  ],
+  "timestamp": "2026-08-26T04:33:30.519518884Z",
+  "model": "glm-5.3"
+}

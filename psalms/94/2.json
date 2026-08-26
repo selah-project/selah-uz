@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Koʻtarilgin, ⟨⟨the⟩⟩ yer hukmdori; magʻrurlarga mukofotni qaytar!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "koʻtarilgin"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hukmdori"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "השב",
+      "gloss": "qaytar"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "mukofotni"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "magʻrurlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:03.216661111Z",
+  "model": "glm-5.3"
+}

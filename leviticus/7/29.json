@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 7:29",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Isroil o‘g‘illariga gapirib ayting: kim Yahvega o‘z tinchlik qurbonligini ⟨את⟩ keltirsa, o‘z qurbonligini Yahvega o‘z tinchlik qurbonligidan keltirsin.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "gapirib"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o‘g‘illari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ayting"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "kim … keltirsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tinchlik qurbonligini"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbonlik"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "o‘z tinchlik (qurbonligi)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "keltirsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o‘z qurbonligini"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "o‘z qurbonligini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "…dan qurbonlik"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "o‘z tinchlik (qurbonligi)"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:00.497082841Z",
+  "model": "glm-5.3"
+}

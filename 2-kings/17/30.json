@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Babel odamlari ⟨את⟩ Sukkot-Benotni yasadi, va Kut odamlari ⟨את⟩ Nergalni yasadi, va Xamat odamlari ⟨את⟩ Ashimani yasadi.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "va ... odamlari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benotni"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "va ... odamlari"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kut"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergalni"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "va ... odamlari"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Xamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashimani"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Ashima"
+    }
+  ],
+  "timestamp": "2026-08-26T09:02:33.113044131Z",
+  "model": "glm-5.3"
+}

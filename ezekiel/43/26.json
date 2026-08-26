@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Yetti kun ular ⟨את⟩ mehrobni kapporlaydilar va ⟨את⟩ uni poklaydilar va uning qoʻlini toʻldiradilar.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "kapporlaydilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehrobni"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mehrobni"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "va poklaydilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "mehrobni (kohinlar)"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "va toʻldiradilar"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "uning qoʻlini"
+    }
+  ],
+  "timestamp": "2026-08-26T05:30:49.151460816Z",
+  "model": "glm-5.3"
+}

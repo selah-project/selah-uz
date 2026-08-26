@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Avlod — oʻz koʻzida pok, ketidan yuvmagan ⟨is⟩ iflosligidan.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pok"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "oʻz koʻzida"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "iflosligidan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "yuvmagan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:51:59.502666588Z",
+  "model": "glm-5.3"
+}

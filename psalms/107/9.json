@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Chunki U intilayotgan nefeshni toʻyintirdi va och nefeshni yaxshilik bilan toʻldirdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "toʻyintirdi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "intilayotgan"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "va nefesh"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "och"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "toʻldirdi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshilik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:37.432194731Z",
+  "model": "glm-5.3"
+}

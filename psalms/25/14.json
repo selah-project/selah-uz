@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Yahveʼning sodi — Ungidan qoʻrqganlar uchun, va Uning ahdini ularga bildiradi.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "sodi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveʼning"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "Ungidan qoʻrqganlar uchun"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "va Uning ahdini"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ularga bildiradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:30.903517264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 4:5",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Ester podshohning saroylaridan biri bo'lgan Hataxni — podshoh uning oldiga qo'ygan — chaqirdi, va unga Mordechay haqida buyruq berdi: bilish uchun nima bu va nega bu.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "chaqirdi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Hataxni"
+    },
+    {
+      "surface": "מסריסי",
+      "gloss": "saroylaridan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshohning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "qo'ygan"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "uning oldiga"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "va unga buyruq berdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "…haqida"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechay"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilish uchun"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va nega"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T07:25:39.454408223Z",
+  "model": "glm-5.3"
+}

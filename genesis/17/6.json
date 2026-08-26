@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va men seni ⟨את⟩ juda ham koʻpaytiraman, va seni xalqlarga aylantiraman, va sendan podshohlar chiqadi.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "va koʻpaytiraman"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seni",
+      "marks": "seni"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "va qilaman seni"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "xalqlarga"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "va podshohlar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sendan"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "chiqadi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:25.323674216Z",
+  "model": "glm-5.3"
+}

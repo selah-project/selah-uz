@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 25:17",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va men Yahve qoʻlidan ⟨את⟩ kosani oldim va Yahvening meni ularga yuborgan barcha xalqlarga ichirdim.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "va men oldim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kosani"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kosani"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואשקה",
+      "gloss": "va ichirdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha xalqlarga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlarga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "meni yuborgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:51:57.251564483Z",
+  "model": "glm-5.3"
+}

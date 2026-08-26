@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Avrahimga aytdi: quv bu chol kanizakni va ⟨את⟩ uning oʻgʻlini, chunki bu kanizakning oʻgʻli merosxoʻr boʻlmaydi mening oʻgʻlim bilan — Yitsxak bilan.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahimga"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "quv"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "bu kanizak"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning oʻgʻlini"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "uning oʻgʻli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "merosxoʻr boʻlmaydi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "kanizakning"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻlim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:02.639718873Z",
+  "model": "glm-5.3"
+}

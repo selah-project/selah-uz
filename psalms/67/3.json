@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 67,
+  "translation": "Yer yuzida sening yoʻling, barcha xalqlar orasida sening najoting maʼlum boʻlishi uchun.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "maʼlum boʻlishi uchun"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer yuzida"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "sening yoʻling"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar orasida"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "sening najoting"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:03.900310425Z",
+  "model": "glm-5.3"
+}

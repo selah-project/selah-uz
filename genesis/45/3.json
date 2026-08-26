@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Va Yosef aka-ukalariga dedi: «Men Yosefman; hali otam tirimimi?» Va uning aka-ukalari ⟨את⟩ uni javob bera olmadilar, chunki uning yuzidan dahshatga tushdilar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "aka-ukalari"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "hali …mimi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otam"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tiri"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "olmadilar"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "aka-ukalari"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "javob bera"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "dahshatga tushdilar"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "uning yuzidan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:16.579993546Z",
+  "model": "glm-5.3"
+}

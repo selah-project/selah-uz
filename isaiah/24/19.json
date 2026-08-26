@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 24:19",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Sinib-parchalanadi, butunlay parchalanadi yer; yoriladi, butunlay yoriladi yer; qaltirlaydi, butunlay qaltirlaydi yer.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "Sinib-parchalanadi"
+    },
+    {
+      "surface": "התרעעה",
+      "gloss": "butunlay parchalanadi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "פור",
+      "gloss": "yoriladi"
+    },
+    {
+      "surface": "התפוררה",
+      "gloss": "butunlay yoriladi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "מוט",
+      "gloss": "qaltirlaydi"
+    },
+    {
+      "surface": "התמוטטה",
+      "gloss": "butunlay qaltirlaydi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T04:17:04.743902913Z",
+  "model": "glm-5.3"
+}

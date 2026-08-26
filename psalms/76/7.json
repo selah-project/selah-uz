@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 76,
+  "translation": "Sening qattiq qargingdan, ey Yaakovning Elohim, ⟨yor El⟩, kar boʻlib uxlab qolgan ⟨ular⟩ — ham aravalar, ham otlar.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Sening qattiq qargingdan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨yor El⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovning"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "kar boʻlib uxlab qolgan"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ham aravalar"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ham otlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:45.696553878Z",
+  "model": "glm-5.3"
+}

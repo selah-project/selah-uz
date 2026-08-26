@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va endi, oʻgʻlim, ovozimni eshit — menga qarab, men seni ⟨את⟩ buyurgan narsaga.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Va endi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻlim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshit"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ovozimni"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "seni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:14.851566119Z",
+  "model": "glm-5.3"
+}

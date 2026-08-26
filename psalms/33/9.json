@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Chunki U aytdi — va boʻldi; U buyruq berdi — va turdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyruq berdi"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "va turdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:08.478102961Z",
+  "model": "glm-5.3"
+}

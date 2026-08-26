@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va u unga aytdi: agar Sening yuzing bormasa, bizni bu yerdan olib chiqma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u aytdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "boʻlmasa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Sening yuzing"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "bormasa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olib chiqma"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "bizni olib chiqma"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "bu yerdan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:01.240570616Z",
+  "model": "glm-5.3"
+}

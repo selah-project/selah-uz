@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va sen va qullaring — men bilamanki, siz hali Yahve Elohim yuzidan qoʻrqmaysizlar.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Va sen"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "va qullaring"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "men bilaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "hali"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "qoʻrqmaysizlar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:17.949976901Z",
+  "model": "glm-5.3"
+}

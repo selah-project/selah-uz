@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 113,
+  "translation": "Boʻlsin Yahve nomi barakotali, hozirdan va abadiygacha!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "barakotali"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "hozirdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va...gacha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:27.346836029Z",
+  "model": "glm-5.3"
+}

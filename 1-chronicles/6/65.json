@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Gad qabilasidan — Gileaddagi Ramot ⟨את⟩ uning atrof-maydonlari bilan, ⟨את⟩ Maxanaim ⟨את⟩ uning atrof-maydonlari bilan.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "va … qabilasidan"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "Gileaddagi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning atrof-maydonlari"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uning atrof-maydonlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Maxanaim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Maxanaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning atrof-maydonlari"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uning atrof-maydonlari"
+    }
+  ],
+  "timestamp": "2026-08-26T07:55:31.246428761Z",
+  "model": "glm-5.3"
+}

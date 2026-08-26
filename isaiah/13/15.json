@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Topilgan har biri sanchib oʻldiriladi, va qoʻlga tushgan har biri qilich yiqitadi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "topilgan"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "sanchiladi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va har biri"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "qoʻshilgan"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "yiqitadi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qilich bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:11:44.118389569Z",
+  "model": "glm-5.3"
+}

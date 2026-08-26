@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "U menga pistondagi ayiq, yashirin joylardagi sher ⟨u⟩.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ayiq"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "pistondagi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨U⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "sher"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "yashirin joylarda"
+    }
+  ],
+  "timestamp": "2026-08-26T07:15:33.158966824Z",
+  "model": "glm-5.3"
+}

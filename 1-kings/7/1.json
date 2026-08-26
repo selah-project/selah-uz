@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va ⟨את⟩ oʻz uyini qurdi Shelomoh — oʻn uch yilda, va ⟨את⟩ butun uyini tugatdi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz uyini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "oʻz uyini"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "qurdi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uch"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yilda"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "va tugatdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun uyini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uyini"
+    }
+  ],
+  "timestamp": "2026-08-26T03:30:41.253009782Z",
+  "model": "glm-5.3"
+}

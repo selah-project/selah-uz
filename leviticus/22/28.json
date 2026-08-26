@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va mol yoki qoʻy — uni ⟨את⟩ va uning bolasini ⟨את⟩ bir kunda soʻyman­gilar.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "va mol"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "שה",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning bolasini"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "uning bolasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "soʻyman­gilar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "bir kunda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:50.468138242Z",
+  "model": "glm-5.3"
+}

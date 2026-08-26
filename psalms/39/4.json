@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Ichkimda yuragim qizdi, xayolga berilganimda oʻt yonib ketdi — tilim bilan soʻzladim.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "qizdi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ichkimda"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "xayolga berilganimda"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "yonib ketdi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "soʻzladim"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "tilim bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:56.842837051Z",
+  "model": "glm-5.3"
+}

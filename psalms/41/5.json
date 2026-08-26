@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Men dedim: Yahve, menga marhamat qil, nefeshimni shifo ber, chunki Senga qarshi gunoh qildim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "menga marhamat qil"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "shifo ber"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshimni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "gunoh qildim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Senga qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:33.877871497Z",
+  "model": "glm-5.3"
+}

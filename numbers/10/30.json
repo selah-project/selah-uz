@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va u unga dedi: Bormayman, faqat oʻz yurtimga va oʻz tugʻilgan joyimga boraman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "bormayman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "–"
+    },
+    {
+      "surface": "אם",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "oʻz yurtimga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va tomon"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "oʻz tugʻilgan joyimga"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "boraman"
+    }
+  ],
+  "timestamp": "2026-08-26T01:30:29.898745291Z",
+  "model": "glm-5.3"
+}

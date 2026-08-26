@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Ulutni xavfsiz boshlab bordi, va ular qoʻrqmadilar; dengiz esa ⟨את⟩ ularning dushmanlarini qopladi.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "boshlab bordi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "xavfsiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "qoʻrqmadilar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning dushmanlarini"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "ularning dushmanlarini"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "qopladi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:05.669376290Z",
+  "model": "glm-5.3"
+}

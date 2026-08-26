@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Yovuz solihga poylab turadi va uni oʻldirishni qidiradi.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "poylab turadi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovuz"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "solihga"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "va qidiradi"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "uni oʻldirishni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:27.453450651Z",
+  "model": "glm-5.3"
+}

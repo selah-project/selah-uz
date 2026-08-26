@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Ularning qoʻllarida yomon makr ⟨bor⟩, va oʻng qoʻllari pora bilan toʻlgan.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ularki"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "qoʻllarida"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "yomon makr"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "va oʻng qoʻllari"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "toʻlgan"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "pora"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:05.051080002Z",
+  "model": "glm-5.3"
+}

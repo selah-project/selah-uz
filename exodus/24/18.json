@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Moshe bulut ichiga kirdi va togʻga koʻtarildi; va Moshe togʻda boʻldi qirq kun va qirq kecha.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Va ... kirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ichiga"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulut"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "va ... koʻtarildi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va ... boʻldi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻda"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qirq"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "va qirq"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "kecha"
+    }
+  ],
+  "timestamp": "2026-08-26T00:59:25.149402102Z",
+  "model": "glm-5.3"
+}

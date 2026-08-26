@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va menga ishonchli guvohlarni guvoh qildiraman: ⟨את⟩ Uríya kohenni va ⟨את⟩ Zekarjáhuni, Yevarekyáhuning oʻgʻlini.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "va guvoh qildiraman"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "guvohlarni"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ishonchli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uríya kohenni"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uríya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Zekarjáhuni"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjáhu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yevarekyáhu"
+    }
+  ],
+  "timestamp": "2026-08-26T04:08:08.107042432Z",
+  "model": "glm-5.3"
+}

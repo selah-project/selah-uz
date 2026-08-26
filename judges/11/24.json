@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 11:24",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Kemos, sening elohing, seni merosga oʻtqazgan narsani ⟨את⟩ sen meros qilib olmaysanmi? Va Yahve, bizning Elohimimiz, bizning yuzimizdan haydab chiqargan hamma narsani ⟨את⟩ biz meros qilib olmaysizmi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "... emasmi?"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narsani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki ... narsani"
+    },
+    {
+      "surface": "יורישך",
+      "gloss": "seni merosga oʻtqazgan"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "Kemos"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sening elohing"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "uni ⟨את⟩",
+      "marks": "meros qilib olmaysanmi"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "meros qilib olmaysanmi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hamma narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki ... narsani"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "haydab chiqargan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "bizning Elohimimiz"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "bizning yuzimizdan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "uni ⟨את⟩",
+      "marks": "meros qilib olmaysizmi"
+    },
+    {
+      "surface": "נירש",
+      "gloss": "meros qilib olmaysizmi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:32:26.483496426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Maslahating bilan menga yoʻl koʻrsatasan, va soʻngra meni shon-sharafga olasan.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "maslahating bilan"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "menga yoʻl koʻrsatasan"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "va soʻngra"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "shon-sharafga"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "meni olasan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:11.071386488Z",
+  "model": "glm-5.3"
+}

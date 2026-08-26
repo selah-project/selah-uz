@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Azazel uchun ⟨את⟩ takani qoʻyib yuborgan kishi kiyimlarini yuvadi va tanasini suvda yuvadi ⟨את⟩, va undan keyin lagerga kiradi.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "Va ... qoʻyib yuborgan kishi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taka"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "taka"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "Azazel uchun"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "yuvadi"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kiyimlarini"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "va yuvadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanasini"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tanasini"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvda"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "va ... keyin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "undan"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kiradi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lager"
+    }
+  ],
+  "timestamp": "2026-08-26T01:18:36.618065564Z",
+  "model": "glm-5.3"
+}

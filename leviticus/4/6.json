@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va kohin barmogʻini qonga botiradi va qondan Yahve huzurida, muqaddas parda yuziga yetti marta sepadi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וְטָבַל",
+      "gloss": "va botiradi"
+    },
+    {
+      "surface": "הַכֹּהֵן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "barmogʻini"
+    },
+    {
+      "surface": "אֶצְבָּעוֹ",
+      "gloss": "barmogʻini"
+    },
+    {
+      "surface": "בַּדָּם",
+      "gloss": "qonga"
+    },
+    {
+      "surface": "וְהִזָּה",
+      "gloss": "va sepadi"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "הַדָּם",
+      "gloss": "qon"
+    },
+    {
+      "surface": "שֶׁבַע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "פְּעָמִים",
+      "gloss": "marta"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "parda yuziga"
+    },
+    {
+      "surface": "פְּנֵי",
+      "gloss": "yuziga"
+    },
+    {
+      "surface": "פֹּרֶכֶת",
+      "gloss": "parda"
+    },
+    {
+      "surface": "הַקֹּדֶשׁ",
+      "gloss": "muqaddas"
+    }
+  ],
+  "timestamp": "2026-08-26T08:57:49.070567363Z",
+  "model": "glm-5.3"
+}

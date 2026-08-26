@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Men barcha suyaklarimni sanayman — ular ⟨meni⟩ tik qaraydilar, menga qarab koʻradilar.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "sanayman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "suyaklarimni"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "tik qaraydilar"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "koʻradilar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:36.756360188Z",
+  "model": "glm-5.3"
+}

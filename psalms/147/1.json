@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "Yahni maqlang, chunki yaxshidir — Elohimimizga madh qilib qoʻshiq aytmoq; chunki yoqimlidir, madh esa munosibdir.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "maqlang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshidir"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "madh qilib qoʻshiq aytmoq"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "yoqimlidir"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "munosibdir"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "madh"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:32.851169843Z",
+  "model": "glm-5.3"
+}

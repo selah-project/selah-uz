@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 146,
+  "translation": "⟨U⟩ osmonlarni va yerni, ⟨את⟩ dengizni va ⟨את⟩ ulardagi hamma narsani yasovchi, haqiqatni abadiy saqlovchi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yasovchi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "va yerni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengizni"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengizni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hamma narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma narsani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ulardagi"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "saqlovchi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "haqiqatni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:45.656509975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve Elohim aytdi: odamning yolgʻiz boʻlishi yaxshi emas, unga unga qarshi yordam qilaman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "היות",
+      "gloss": "boʻlishi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yolgʻiz"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "qilaman"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yordam"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "unga qarshi (roʻparasiga)"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:51.003860193Z",
+  "model": "glm-5.3"
+}

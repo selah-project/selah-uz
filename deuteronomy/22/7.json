@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Onani joʻnatib yubor — rostan joʻnatib yubor ⟨את⟩ onani, va ⟨את⟩ bolalarni oʻzingga olasan — shunda senga yaxshi boʻlur va kunlarni uzoq qilgaysan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "joʻnatib"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "yubor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ona"
+    },
+    {
+      "surface": "האם",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bolalar"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "bolalarni"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "olasan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzingga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "shunda"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "yaxshi boʻlur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "va uzoq qilgaysan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:00:13.389464474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Shuning uchun reshaʼim ⟨the⟩ hukmda turmaydilar, va xato qiluvchilar solihlar jamoasida ⟨turmaydilar⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "uning uchun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "turmaydilar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "reshaʼim"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hukmda"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "va xato qiluvchilar"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "jamoasida"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "solihlar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:56:51.712173220Z",
+  "model": "glm-5.3"
+}

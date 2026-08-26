@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Yetim va ezilganni sud qilish uchun — endi yer odami qoʻrqitmasligi uchun ⟨bundan buyon⟩ ⟨yer⟩ yuzidan.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "sud qilish uchun"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yetim"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "va ezilganni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "endi ... emas"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "qoʻshmasin \/ yana"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "qoʻrqitmasligi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:18.805557481Z",
+  "model": "glm-5.3"
+}

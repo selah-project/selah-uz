@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Ular bilan qarindoshlik boʻyicha uylanmaysan: qizingni uning oʻgʻliga bermaysan va uning qizini oʻgʻlingga olmaysan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va uylanmaysan"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "qarindoshlik boʻyicha"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ular bilan"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "qizingni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bermaysan"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "uning oʻgʻliga"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "va uning qizini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "olmaysan"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "oʻgʻlingga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:24:15.056834131Z",
+  "model": "glm-5.3"
+}

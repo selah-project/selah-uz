@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va mana bunlar Terahning nasabnomasi: Terah ⟨את⟩ Avramni, ⟨את⟩ Naxorni va ⟨את⟩ Haranni dunyoga keltirdi, va Haran ⟨את⟩ Lotni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "va mana bunlar"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nasabnomasi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terahning"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramni"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxorni"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxorni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haranni"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haranni"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "va Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotni"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lotni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:23.535119730Z",
+  "model": "glm-5.3"
+}

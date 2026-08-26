@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Unga yangi qoʻshiq kuylanglar, goʻzal chalingilar baraban sadolari ostida.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "kuylanglar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yangi"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "goʻzal"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "chalingilar"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "baraban sadolari ostida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:52.685701775Z",
+  "model": "glm-5.3"
+}

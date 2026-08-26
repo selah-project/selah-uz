@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va kafforat qiladi kohin — ⟨את⟩uni moylaydigan va qoʻlini ⟨את⟩ toʻldiradigan, otasi oʻrniga kohin boʻlish uchun; va chigit kiyimlarini ⟨את⟩ kiyadi — muqaddas kiyimlarni.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "Va kafforat qiladi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "moylaydigan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩uni",
+      "marks": "uni"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "va ki"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "toʻldiradigan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻlini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohin boʻlish uchun"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "oʻrniga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "va kiyadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyimlarini"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kiyimlarini"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "chigit"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kiyimlarni"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muqaddas"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:00.959402659Z",
+  "model": "glm-5.3"
+}

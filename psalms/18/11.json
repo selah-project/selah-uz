@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va u keruv ustida minib uchdi, sham qanotlari ustida suzdi.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "va mindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "keruv"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "va uchdi"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "suzdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "qanotlari"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "sham"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:26.066299331Z",
+  "model": "glm-5.3"
+}

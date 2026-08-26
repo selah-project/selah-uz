@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Kuchim sopol siniqidek qurib ketdi, va tili jagʻlarimga yopishdi, va mening oʻlim changiga meni qoʻyding.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "qurib ketdi"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "sopol siniqidek"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kuchim"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "va tilim"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "yopishdi"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "jagʻlarimga"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "va changiga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "meni qoʻyding"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:47.198796443Z",
+  "model": "glm-5.3"
+}

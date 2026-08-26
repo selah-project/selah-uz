@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 98,
+  "translation": "Trubkalar bilan va shofar ovozi bilan gʻalayon koʻtaringlar — podshoh Yahve yuzidan oldin.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "trubkalar bilan"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "va ovozi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "gʻalayon koʻtaringlar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yuzidan oldin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:46.132521349Z",
+  "model": "glm-5.3"
+}

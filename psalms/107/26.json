@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Osmonlarga koʻtariladilar, chuqurliklarga tushadilar, jonlari dardda erib ketadi.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "koʻtariladilar"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "tushadilar"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "chuqurliklar"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ularning jonlari"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "dardda"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "erib ketadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:05.821972497Z",
+  "model": "glm-5.3"
+}

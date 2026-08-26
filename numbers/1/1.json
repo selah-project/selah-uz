@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yahve Moshe bilan Sayn choʻlida, uchrashuv chodirida gaplashdi — ular Misr yeridan chiqqanlarining ikkinchi yilida, ikkinchi oyning birinchisi ⟨kunida⟩ — deb aytib:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Va ... gaplashdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlida"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "chodirida"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "birinchisida"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "oyning"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "yilida"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "ularning chiqqanlarining"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb aytib"
+    }
+  ],
+  "timestamp": "2026-08-26T01:25:02.937552143Z",
+  "model": "glm-5.3"
+}

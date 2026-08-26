@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Va Elohim — qadim-zamondan marhamatim boʻlgan Shohim, yer yuzasida najotlarni amalga keltiradi.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Va Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Shohim"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "qadim-zamondan"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "amalga keltiradi"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "najotlarni"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "yuzasida"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:48.278833936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Agar tushsa, biri doʻstini ⟨את⟩ koʻtaradi; ammo yolgʻiz kishi tushsa, uni koʻtaradigan ikkinchisi yoʻq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "tushsa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "koʻtaradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doʻstini"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "doʻstini"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "yolgʻiz kishi"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "tushsa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikkinchisi"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "uni koʻtaradigan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:40.450413432Z",
+  "model": "glm-5.3"
+}

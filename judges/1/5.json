@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va ⟨את⟩ Adoni-Bezekni Bezekda topdilar, va unga qarshi jang qildilar, va ⟨את⟩ kanaaniyni va ⟨את⟩ perizziyni yogʻdirdilar.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "va topdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezekni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekda"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "va jang qildilar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unga qarshi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "va yogʻdirdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaaniyni"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaaniy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "perizziyni"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "perizziy"
+    }
+  ],
+  "timestamp": "2026-08-26T08:26:50.880798893Z",
+  "model": "glm-5.3"
+}

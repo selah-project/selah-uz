@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va unga bu soʻz haqida buyruq bergan edi — boshqa elohimlar ortidan yurmaslikka; ammo u Yahvening buyurgani ⟨את⟩ narsasini saqlamadi.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "buyruq bergan edi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "על",
+      "gloss": "haqida"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bu soʻzni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "–maslikka"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "yurmaslik"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohimlar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo ... emas"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saqlamadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvening buyurgan narsasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–ni"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T03:36:19.848626309Z",
+  "model": "glm-5.3"
+}

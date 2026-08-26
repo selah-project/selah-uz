@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 57,
+  "translation": "U osmondan yuboradi va meni qutqaradi, meni yutmoqchi boʻlganni kamsitadi. Sela. Elohim ⟨oʻz⟩ xesedini va ⟨oʻz⟩ haqiqatini yuboradi.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "U yuboradi"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "osmondan"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "va meni qutqaradi"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "kamsitadi"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "meni yutmoqchi boʻlganni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "yuboradi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨oʻz⟩ xesedini"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "va ⟨oʻz⟩ haqiqatini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:23.748045443Z",
+  "model": "glm-5.3"
+}

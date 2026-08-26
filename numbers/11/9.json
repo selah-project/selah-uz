@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va ⟨the⟩ shud kechasi lager ustiga tushganda, man uning ustiga tushadi.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "va tushganda"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "shud"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lager"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "kechasi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tushadi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "man"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:33:03.965045105Z",
+  "model": "glm-5.3"
+}

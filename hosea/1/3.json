@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "U bordi va ⟨את⟩ Gomerni, Diblayim qizini oldi; u homila boʻldi va unga oʻgʻil tugʻdi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "u bordi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomerni"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblayim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "va homila boʻldi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "va tugʻdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻil"
+    }
+  ],
+  "timestamp": "2026-08-26T05:34:35.318553018Z",
+  "model": "glm-5.3"
+}

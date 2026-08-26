@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Chunki uning savdosi kumush savdosidan yaxshiroq, va uning daromadi toza oltindan ⟨yaxshiroq⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshiroq"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "uning savdosi"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "savdosidan"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "va toza oltindan"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "uning daromadi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:30.771476490Z",
+  "model": "glm-5.3"
+}

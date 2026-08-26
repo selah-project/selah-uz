@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va Misr qiroliga xabar berildiki, ⟨the⟩ halkim qochdi; va Paroh va uning xizmatkorlarining qalbi halkim tomon oʻzgardi, va ular dedilar: «Nima bu — qildik, chunki ⟨את⟩ Isroilni xizmatimizdan yubordik?»",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "xabar berildi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "qiroli…ga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "qochdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkim"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "oʻzgardi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ning"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "uning xizmatkorlari"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "qildik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "yubordik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨את⟩ Isroil"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "xizmatimizdan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "halkim…ga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:35.444352622Z",
+  "model": "glm-5.3"
+}

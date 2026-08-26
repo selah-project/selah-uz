@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va men Yerushalayimga keldim va uch kun u yerda boʻldim.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "va men keldim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "va boʻldim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uch"
+    }
+  ],
+  "timestamp": "2026-08-26T07:43:23.228678666Z",
+  "model": "glm-5.3"
+}

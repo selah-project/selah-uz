@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 58,
+  "translation": "Rostdanmi, sukutda ⟨⟨siz⟩⟩ adolat haqida gapiryapsizlar? Toʻgʻri hukm chiqaryapsizlarlar, odam bolalari?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "rostdanmi"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "sukutda"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "gapiryapsizlar"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "toʻgʻri (hukm)"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "hukm chiqaryapsizlar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bolalari"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:06.353108162Z",
+  "model": "glm-5.3"
+}

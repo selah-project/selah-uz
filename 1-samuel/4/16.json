@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 4:16",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va odam Eliga aytdi: „Men — safdan kelganman, va men bugun safdan qochdim.“ Va u aytdi: „Nima boʻldi, oʻgʻlim?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "kelganman"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...dan"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "saf"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "va men"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...dan"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "saf"
+    },
+    {
+      "surface": "נסתי",
+      "gloss": "qochdim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gap\/is"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻlim"
+    }
+  ],
+  "timestamp": "2026-08-26T02:43:04.955341840Z",
+  "model": "glm-5.3"
+}

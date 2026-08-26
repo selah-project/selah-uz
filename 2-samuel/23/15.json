@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Dovud orzu qildi va aytdi: Kim menga suv ichirar — darvoza yonidagi Beyt-Lexem qudugʻidan?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "va orzu qildi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "menga ichirar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "qudugʻidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lexem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "darvoza yonida"
+    }
+  ],
+  "timestamp": "2026-08-26T03:22:16.775980160Z",
+  "model": "glm-5.3"
+}

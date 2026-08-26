@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va u uning qoʻshoq toʻqimasini ⟨את⟩ mazisi bilan olib tashlasin va ⟨את⟩ uni qurbongoh yoniga, sharqqa, kul joyiga tashlab yuborsin.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "Va ... olib tashlasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻshoq toʻqimasini"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "uning qoʻshoq toʻqimasini"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "uning mazisi bilan"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "va tashlab yuborsin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ uni"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "yoniga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sharqqa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomonga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "joyi"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kul"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:16.865618366Z",
+  "model": "glm-5.3"
+}

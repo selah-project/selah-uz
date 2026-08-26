@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Elohim bizga ⟨⟨panoh⟩⟩ va quvvat, qiyin vaziyatlarda juda ham topiladigan yordam.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "panoh"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "va quvvat"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "yordam"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "qiyin vaziyatlarda"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "topiladigan"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:30.609736094Z",
+  "model": "glm-5.3"
+}

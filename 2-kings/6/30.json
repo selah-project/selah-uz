@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va boʻldi: podshoh ⟨את⟩ ayolning soʻzlarini eshitganda, u ⟨את⟩ kiyimlarini yirtdi; u devor ustidan oʻtayotgan edi, va xalq qaradi — va mana, tanasida, ichkarida tol matosi ⟨bor⟩ edi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "eshitganda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayolning soʻzlarini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlari"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "yirtdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyimlarini"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kiyimlari"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oʻtayotgan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "devor"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "qaradi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "השק",
+      "gloss": "tol matosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tanasida"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ichkarida"
+    }
+  ],
+  "timestamp": "2026-08-26T03:48:57.854461126Z",
+  "model": "glm-5.3"
+}

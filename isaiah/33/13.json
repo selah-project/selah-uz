@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Eshtinglar, uzoqlar, nima qildimni; va bilinglar, yaqinlar, qudratimni.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Eshtinglar"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "uzoqlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nima"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "qildimni"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "va bilinglar"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "yaqinlar"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "qudratimni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:19:41.879273200Z",
+  "model": "glm-5.3"
+}

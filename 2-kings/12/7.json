@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yehoash podshohning yigirma uchinchi yilida boʻldi — kohinlar uyniñ ⟨את⟩ yoriqlarini mustahkamlamadilar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "yilida"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirma"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "va uchinchi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "mustahkamlamadilar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoriqlarini"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "yoriqlarini"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uyniñ"
+    }
+  ],
+  "timestamp": "2026-08-26T03:55:43.452702422Z",
+  "model": "glm-5.3"
+}

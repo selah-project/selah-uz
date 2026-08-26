@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va ⟨u⟩ oʻz oʻqlarini yubordi va ularni sochdi, va momeldilar — koʻp, va ularni larzaga soldi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "va yubordi"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "oʻqlarini"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "va ularni sochdi"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "va momeldilar"
+    },
+    {
+      "surface": "רב",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "va ularni larzaga soldi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:02.020382939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 70,
+  "translation": "Va men — bechora va ehtyojman; ey Elohim, menga shosh; menning yordamchim va qutqaruvchim — Sen ⟨isan⟩, ey Yahve, kechiktirma.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "va men"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bechora"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "va ehtyoj"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "shosh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "menning yordamchim"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "va qutqaruvchim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kechiktirma (inkor)"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "kechiktirma"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:40.876364116Z",
+  "model": "glm-5.3"
+}

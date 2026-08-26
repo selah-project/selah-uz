@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Elohim ⟨את⟩ barcha bu soʻzlarni aytib turib dediki:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha bu soʻzlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aitib turib dediki"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:22.259771471Z",
+  "model": "glm-5.3"
+}

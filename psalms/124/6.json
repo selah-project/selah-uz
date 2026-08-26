@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 124,
+  "translation": "Barakolki Yahve, ⟨ki⟩ bizni oʻlja qilib ularning tishlariga bermadi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barakolki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "⟨ki⟩ ... bermadi"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "bizni bermadi"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "oʻlja qilib"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "ularning tishlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:12.963217709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 111,
+  "translation": "Madh etinglar Yahni! Butun qalbim bilan Yahveni madh etaman, toʻgʻrilar majlisida va jamoatda.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "madh etinglar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "madh etaman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbim bilan"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "majlisida"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "toʻgʻrilarning"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "va jamoatda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:48.408003528Z",
+  "model": "glm-5.3"
+}

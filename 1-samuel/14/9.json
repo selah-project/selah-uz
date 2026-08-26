@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 14:9",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Agar bizga shunday desalar: «Biz sizlarga yetib borguncha joyingizda turaveringlar», biz oʻz joyimizda turamiz va ularga koʻtarilmaymiz.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "desalar"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "«turaveringlar»"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-guncha"
+    },
+    {
+      "surface": "הגיענו",
+      "gloss": "yetib borguncha"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "ועמדנו",
+      "gloss": "va turamiz"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "oʻz joyimizda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "koʻtarilmaymiz"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T09:00:56.501225191Z",
+  "model": "glm-5.3"
+}

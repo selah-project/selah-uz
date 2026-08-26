@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va yer ifloslandi, va Men uning gunohini uning ustiga keltirdim, va yer ⟨את⟩ oʻz aholisini qusdi.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "ifloslandi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "keltirdim"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "gunohini"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "qusdi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz aholisini"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "oʻz aholisini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:53.758452073Z",
+  "model": "glm-5.3"
+}

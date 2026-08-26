@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Kohinlar va Leviylar poklandilar, va ⟨את⟩ xalqni, ⟨את⟩ darvozalarni va ⟨את⟩ devorni pokladilar.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "poklandilar"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Kohinlar"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "va Leviylar"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "pokladilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalq"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "darvozalarni"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "darvozalarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "devorni"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "devorni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:49:04.690733051Z",
+  "model": "glm-5.3"
+}

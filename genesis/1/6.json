@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Elohim aytdi: \"Rakiya boʻlsin suvlarning oʻrtasida, va u ajratuvchi boʻlsin suvlar bilan suvlarning orasida.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "rakiya"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨the⟩ suvlarning"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va u boʻlsin"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "ajratuvchi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "orasida"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "למים",
+      "gloss": "suvlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:52.236989694Z",
+  "model": "glm-5.3"
+}

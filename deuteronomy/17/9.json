@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va kelasan kohinlarga, ⟨the⟩ levilarga, va oʻsha kunlarda boʻladigan sudya huzuriga, va soʻrab koʻrasan, va senga ⟨את⟩ hukm soʻzini aytib beradilar.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Va kelasan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohinlar"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levilar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va huzuriga"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "sudya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladigan"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "kunlarda"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "va soʻrab koʻrasan"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "va aytib beradilar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukm soʻzini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzini"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukm"
+    }
+  ],
+  "timestamp": "2026-08-26T01:58:15.593633156Z",
+  "model": "glm-5.3"
+}

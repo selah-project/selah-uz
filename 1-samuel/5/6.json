@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Yahvening qoʻli Ashdod aholisi ustidan ogʻir boʻldi va ⟨u⟩ vayron qildi ⟨את⟩ ularni — oʻsmalar bilan urdi ⟨את⟩ Ashdodni va ⟨את⟩ uning chegaralarini.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "ogʻir boʻldi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "Ashdod aholisi"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "vayron qildi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "oʻsmalar bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdodni"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdodni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "chegaralarini"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "chegaralarini"
+    }
+  ],
+  "timestamp": "2026-08-26T02:44:19.821706662Z",
+  "model": "glm-5.3"
+}

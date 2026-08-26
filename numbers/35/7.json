@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Barcha shaharlar, qaysilarni Leviylarga berasizlar, qirq sakkiz shahar — ⟨את⟩ ⟨ulardir⟩ va ⟨את⟩ ularning mavzelari ⟨birga⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "shaharlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysilarni"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "berasizlar"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Leviylarga"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qirq"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "va sakkiz"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ ⟨ulardir⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning mavzelari"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "ularning mavzelari"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:26.327949281Z",
+  "model": "glm-5.3"
+}

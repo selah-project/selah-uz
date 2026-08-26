@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Yahve sizlarga, sizlarga va oʻgʻullaringizga qoʻshgʻay.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "qoʻshgʻay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "oʻgʻullaringizga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:53.915179114Z",
+  "model": "glm-5.3"
+}

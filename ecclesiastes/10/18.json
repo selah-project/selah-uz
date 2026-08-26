@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Dangasalik bilan tom choʻkadi, va qoʻllarning dangasaligi bilan uy tomizadi.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "dangasalik bilan"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "choʻkadi"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "tom"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "va ... dangasaligi bilan"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "qoʻllarning"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "tomizadi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uy"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:28.072059885Z",
+  "model": "glm-5.3"
+}

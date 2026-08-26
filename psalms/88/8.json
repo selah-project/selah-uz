@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 88,
+  "translation": "Gʻazabing ustimga yuklandi, va barcha toʻlqinlaring bilan meni qiynading — Selah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "yuklandi"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "gʻazabing"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "toʻlqinlaring"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "qiynading"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:56.536405719Z",
+  "model": "glm-5.3"
+}

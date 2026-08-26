@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va aytdi: Ey, Yahve, esla, iltijo qilaman, ⟨את⟩ --ning ustidan: sening oldingda halollik bilan va butun qalb bilan yurdim va ko'zlaringda yaxshi bo'lganni qildim. Va Xizqiyo katta yig'lagan holda yig'ladi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Ey, iltijo qilaman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "esla"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltijo qilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isen o'tgan yo'lim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "--ning"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "yurdim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sening oldingda"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "halollik bilan"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "va qalb bilan"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "butun"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "va yaxshi bo'lganni"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ko'zlaringda"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "qildim"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "va yig'ladi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Xizqiyo"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "yig'lagan holda"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "katta"
+    }
+  ],
+  "timestamp": "2026-08-26T04:22:05.648310843Z",
+  "model": "glm-5.3"
+}

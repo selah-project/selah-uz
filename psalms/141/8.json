@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 141,
+  "translation": "Chunki Senga, Yahve, Adonay, — ⟨dir⟩ koʻzlarim; Senda panoh topdim men; jonimni yalang qilma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarim"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "Senda"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "panoh topdim men"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תער",
+      "gloss": "yalang qilma"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:25.617790758Z",
+  "model": "glm-5.3"
+}

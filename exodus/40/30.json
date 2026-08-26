@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va qoʻydi ⟨את⟩ yuvinish havzasini — Uchrashuv chodiri bilan xizmat oʻrtasida; va berdi u yerga yuvish uchun suv.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuvinish havzasi"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "yuvinish havzasi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "—"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Uchrashuv chodiri"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Uchrashuv"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "bilan oʻrtasida"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "xizmat"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "yuvish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:57.322248454Z",
+  "model": "glm-5.3"
+}

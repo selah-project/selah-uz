@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 124,
+  "translation": "Agar Yahve biz uchun boʻlmaganda, odam bizga qarshi turganda:",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "agar ... boʻlmaganda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "boʻlganda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biz uchun"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "turganda"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizga qarshi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:59.552118335Z",
+  "model": "glm-5.3"
+}

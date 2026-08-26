@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va Men Yaakov bilan ⟨את⟩ ahdimni eslayman, va Yitsxak bilan ⟨את⟩ ahdimni ham, va Avraham bilan ⟨את⟩ ahdimni ham eslayman, va yerni eslayman.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "Va eslayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdim"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "va ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdim"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "va ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "eslayman"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "va yerni"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "eslayman"
+    }
+  ],
+  "timestamp": "2026-08-26T01:24:20.420122421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "⟨Va⟩ ⟨את⟩ oʻt qutilarini va ⟨את⟩ kosalarni — oltindan boʻlganini ⟨butunlay⟩ oltin, kumushdan boʻlganini ⟨butunlay⟩ kumush — qasoskorlar sardori oldi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oʻt qutilarini"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "oʻt qutilarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kosalarni"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "kosalarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sardori"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "qasoskorlar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:05:40.809754455Z",
+  "model": "glm-5.3"
+}

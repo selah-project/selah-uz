@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Sen — qoʻling ⟨ bilan ⟩ xalqlarni egallab olding va ularni oʻtqazding; qabilalarni sindirding va ularni haydab yubording.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻling"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "egallab olding"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "va ularni oʻtqazding"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "sindirding"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "qabilalarni"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "va ularni haydab yubording"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:11.767776785Z",
+  "model": "glm-5.3"
+}

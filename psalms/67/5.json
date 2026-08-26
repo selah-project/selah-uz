@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 67,
+  "translation": "Xursand boʻlsinlar va iqror aylasinlar xalqlar, chunki Sen xalqlarni toʻgʻrilik bilan sud qilasan va yerdagi xalqlarni boshqarasan. Sela.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "xursand boʻlsinlar"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "va iqror aylasinlar"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "sud qilasan"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "toʻgʻrilik bilan"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "va xalqlarni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdagi"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "boshqarasan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:15.717650645Z",
+  "model": "glm-5.3"
+}

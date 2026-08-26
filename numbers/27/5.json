@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va Moshe ularning ishlarini Yahve huzuriga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "keltirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning ishlarini"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ularning ishlari"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:42:27.574481786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va agar falokat boʻlsa, nefesh evaziga nefesh berasan.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "falokat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlsa"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "berasan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "evaziga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:49.758301123Z",
+  "model": "glm-5.3"
+}

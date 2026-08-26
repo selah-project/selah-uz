@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va men oʻsha paytda sizga dedim: „Yolgʻiz oʻzim ⟨את⟩ sizni koʻtira olmayman.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Va men dedim"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "oʻsha paytda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "olmayman"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "yolgʻiz oʻzim"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "koʻtira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:50.358465225Z",
+  "model": "glm-5.3"
+}

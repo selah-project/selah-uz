@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Qoʻllanma kuchli qoʻl bilan va choʻzilgan bilagbilan, chunki abadiygacha ⟨uning⟩ xesedi.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "qoʻl bilan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kuchli"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "va bilagbi bilan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "choʻzilgan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiygacha"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨uning⟩ xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:29.831951152Z",
+  "model": "glm-5.3"
+}

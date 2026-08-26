@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Noach qildi — barchasiga, buyrugʻicha Yahve ⟨את⟩ unga buyurgan.<\/translation>",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "barchasiga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "buyrugʻicha"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:03.698986633Z",
+  "model": "glm-5.3"
+}

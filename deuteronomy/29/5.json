@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Non yemadingiz, vino va kuchli ichimlik ichmadingiz — Men Yahve, sizning Elohimingiz ekanimni bilishingiz uchun.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "yemadingiz"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "va vino"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "va kuchli ichimlik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "ichmadingiz"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "bilishingiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ekanini"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizning Elohimingiz"
+    }
+  ],
+  "timestamp": "2026-08-26T02:04:55.000137227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 10:27",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Belial oʻgʻillari dedilar: „Bu bizni qanday qutqaradi?“ Va uni mensimadilar, va unga tuhfa keltirmadilar; va u jim turdi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "va oʻgʻillari"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dedilar"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qanday"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "bizni qutqaradi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "va uni mensimadilar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "keltirmadilar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "tuhfa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "כמחריש",
+      "gloss": "jim turdi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:45:16.187656256Z",
+  "model": "glm-5.3"
+}

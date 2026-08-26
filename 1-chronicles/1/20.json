@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yoktan ⟨את⟩ Almodadni, va ⟨את⟩ Shalefni, va ⟨את⟩ Xatsarmavetni, va ⟨את⟩ Yeraxni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "va Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodadni"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shalefni"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shalef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Xatsarmavetni"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Xatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yeraxni"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yerax"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:25.823999595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 4:21",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Quvongan bil va xursand boʻl, Edom qizi, Uts yerida yashovchi — ham sen ustidan oʻtadi kosa; mast boʻlasan va yalangʻoch boʻlasan.",
+  "tokens": [
+    {
+      "surface": "שישי",
+      "gloss": "Quvongan bil"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "va xursand boʻl"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "יושבתי",
+      "gloss": "yashovchi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uts"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sen ustidan"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "oʻtadi"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kosa"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "mast boʻlasan"
+    },
+    {
+      "surface": "ותתערי",
+      "gloss": "va yalangʻoch boʻlasan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:47.307350539Z",
+  "model": "glm-5.3"
+}

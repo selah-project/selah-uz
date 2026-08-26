@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Chunki ⟨u⟩ dengizlar ustida uni asos solgan, va daryolar ustida uni mustahkam qilgan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨u⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dengizlar"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "asos solgan uni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustida"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "daryolar"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "mustahkam qilgan uni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:35.647784502Z",
+  "model": "glm-5.3"
+}

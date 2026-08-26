@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Elohim, magʻrurlar qoʻzgʻoldilar men ustimga, va zoʻravonlar jamoasi qidirdi jonimni, va Seni qoʻymadilar oʻzlarining oldida.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "magʻrurlar"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "qoʻzgʻoldilar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "men ustimga"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "va jamoasi"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "zoʻravonlar"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "qidirdi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "qoʻymadilar Seni"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "oldingizga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:28.383885887Z",
+  "model": "glm-5.3"
+}

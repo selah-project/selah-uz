@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Bat-Sheva taʼzim qildi va qirolga sajda qildi; qirol esa: „Senga nima boʻldi?“ — dedi.",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "va taʼzim qildi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "va sajda qildi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "qirolga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:23:09.668888982Z",
+  "model": "glm-5.3"
+}

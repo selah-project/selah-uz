@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Va ⟨ular⟩ aytadi: „Yoʻq, koʻrmaydi Yah, va Yoqubning Elohimi tushunmaydi.“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "va aytadilar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "koʻrmaydi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "tushunmaydi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim…ning"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yoqub"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:29.079708439Z",
+  "model": "glm-5.3"
+}

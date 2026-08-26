@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Oʻgʻlim, ularning yoʻlida yurma, oyogʻingni ularning tor yoʻlidan tiy:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻlim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yurma"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlida"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularning",
+      "marks": "ularning"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "tiy"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "oyogʻingni"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "ularning tor yoʻlidan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:37.373313970Z",
+  "model": "glm-5.3"
+}

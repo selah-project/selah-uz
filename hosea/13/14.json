@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 13:14",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Sheol qoʻlidan ularni qutqarman, oʻlimdan ularni ozod qilaman. Qayerda sening vabong, ey oʻlim? Qayerda sening mahving, ey Sheol? Pushaymon koʻzlarimdan yashirilgan.",
+  "tokens": [
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "ularni qutqarman"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "oʻlimdan"
+    },
+    {
+      "surface": "אגאלם",
+      "gloss": "ularni ozod qilaman"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "qayerda"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "sening vabong"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "qayerda"
+    },
+    {
+      "surface": "קטבך",
+      "gloss": "sening mahving"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "pushaymon"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "yashirilgan"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "koʻzlarimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:38:07.942150223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 130,
+  "translation": "Adonay, ovozimga quloq sol; quloqlaring tinib tinglasin iltijo ovoziga.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "quloq sol"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "ovozimga"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "⟨boʻlsinlar⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "quloqlaring"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "tinib tinglaydigan"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ovoziga"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "iltijolarim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:06.937060245Z",
+  "model": "glm-5.3"
+}

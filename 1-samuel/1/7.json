@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va shunday qilardi yildan-yilga: u Yahvening uyiga koʻtarilganda har safar, shunday uni gʻazablantirardi; u yigʻlar edi va yemay qoʻyardi.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "va shunday"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qilardi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "yildan-yilga"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "har safar"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "koʻtarilganda"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "uni gʻazablantirardi"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "va u yigʻlar edi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yemay qoʻyardi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:39:54.783250891Z",
+  "model": "glm-5.3"
+}

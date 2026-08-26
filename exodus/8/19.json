@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va xalqim bilan xalqing oʻrtasiga qutqaruv farqini qoʻyaman — ertaga bu belgi boʻladi.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "qoʻyaman"
+    },
+    {
+      "surface": "פדת",
+      "gloss": "qutqaruv"
+    },
+    {
+      "surface": "בין",
+      "gloss": "oʻrtasiga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqing"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "ertaga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "האת",
+      "gloss": "belgi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:52.590761329Z",
+  "model": "glm-5.3"
+}

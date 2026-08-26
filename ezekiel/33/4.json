@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "eshitguvchi shofar tovushini eshitsa-yu ogohlantirilmasa, qilich kelsa va uni olib qoʻysa, uning qoni uning boshida boʻladi.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "va eshitsa"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "eshitguvchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tovushini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tovushini"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ogohlantirilmasa"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "va kelsa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "va uni olib qoʻysa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "uning qoni"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "uning boshida"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:24:00.495521737Z",
+  "model": "glm-5.3"
+}

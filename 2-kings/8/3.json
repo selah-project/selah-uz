@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 8:3",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Yetti yilning oxirida esa ayol Falastimlar yeridan qaytdi va uyi va dalisi uchun qirolga faryod qilish uchun chiqdi.",
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Falastimlar"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "chiqdi"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "faryod qilish uchun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirolga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "uyi uchun"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "dalisi uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T03:52:19.766219560Z",
+  "model": "glm-5.3"
+}

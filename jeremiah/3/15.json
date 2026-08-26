@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va sizga yuragimga mos choʻponlar beraman, va ular sizni bilim va tushuncha bilan boqadilar.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "va beraman"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "choʻponlar"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "yuragimga mos"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "va boqadilar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizni"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "bilim"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "va tushuncha"
+    }
+  ],
+  "timestamp": "2026-08-26T04:39:29.259565619Z",
+  "model": "glm-5.3"
+}

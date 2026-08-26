@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Adonay aytdi: «Bashandan qaytaraman, qaytaraman — dengiz chuqurliklaridan».",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Bashandan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "qaytaraman"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "qaytaraman"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "chuqurliklaridan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:45.595178494Z",
+  "model": "glm-5.3"
+}

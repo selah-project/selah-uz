@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va uning xizmatkorlari turdi va fitna uyushtirdilar va ⟨את⟩ Yoashni Bet-Milloxda — Sillaga tushadigan ⟨joyda⟩ — urdilar.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "Va … turdi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "uning xizmatkorlari"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "va fitna uyushtirdilar"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "fitna"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "va urdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoashni"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "-Millox"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "tushadigan"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Silla"
+    }
+  ],
+  "timestamp": "2026-08-26T03:56:59.782141887Z",
+  "model": "glm-5.3"
+}

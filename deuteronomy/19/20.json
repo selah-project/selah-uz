@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va qolganlar eshitadilar va qo'rqadilar, va bunday yomon ishni o'ringizda boshqa qaytib qilmaydilar.",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "va qolganlar"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "eshitadilar"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "va qo'rqadilar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "qaytib qilmaydilar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "qilishga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "bunday ... ishni"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "o'ringizda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:58:59.315884760Z",
+  "model": "glm-5.3"
+}

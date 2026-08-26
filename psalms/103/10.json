@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "Gʻunohlarimizdek bizga qilmadi va jinoyatlarimizdek bizga qarshi munosabat koʻrsatmadi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "gʻunohlarimizdek"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "jinoyatlarimizdek"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "munosabat koʻrsatdi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizga qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:28.964431993Z",
+  "model": "glm-5.3"
+}

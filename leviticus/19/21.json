@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "U ⟨את⟩ ayb qurbonligini Yahvegа, uchrashuv chodirining eshigi oldiga keltirsin — qoʻchqor, ayb qurbonligi.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "keltirsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayb qurbonligini"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ayb qurbonligini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eshigi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodiri"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "איל",
+      "gloss": "qoʻchqor"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ayb qurbonligi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:26.118878019Z",
+  "model": "glm-5.3"
+}

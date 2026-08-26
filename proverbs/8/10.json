@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Oling mening tarbiyamni, kumush ⟨emas⟩, va bilim tanlangan oltindan.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "oling"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "tarbiyamni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "va bilim"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "tanlangan oltindan"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "tanlangan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:41:45.692056607Z",
+  "model": "glm-5.3"
+}

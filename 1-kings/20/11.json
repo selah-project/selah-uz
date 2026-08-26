@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Isroil maliki javob berib aytdi: „Aytingiz: kamar bogʻlovchi yechuvchidek maqtanmasin.“",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maliki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "aytingiz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-masin"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "maqtanmasin"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "kamar bogʻlovchi"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "yechuvchidek"
+    }
+  ],
+  "timestamp": "2026-08-26T08:32:04.415021596Z",
+  "model": "glm-5.3"
+}

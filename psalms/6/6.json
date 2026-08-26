@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Chunki oʻlimda ⟨sening⟩ esging yoʻq, Sheolda senga kim shukur qilur?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "במות",
+      "gloss": "oʻlimda"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "esging"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Sheolda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "shukur qilur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:35.829397994Z",
+  "model": "glm-5.3"
+}

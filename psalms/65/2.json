@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 65,
+  "translation": "Senga — sukutdagʻi maqtov, ey Elohim, Tsiyonda, va sanga bajariladi ⟨⟨najod⟩⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "sukutdagʻi"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "maqtov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyonda"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "va sanga"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bajariladi"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "najod"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:35.247999218Z",
+  "model": "glm-5.3"
+}

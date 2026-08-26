@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va idishlar toʻlganda boʻldi: u oʻgʻliga aytdi: „Yana bir idish menga yaqinlashtir“. Va u unga aytdi: „Yana idish yoʻq“. Va moy ⟨toʻxtadi⟩ turdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "toʻlganda"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "idishlar"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "yaqinlashtir"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "idish"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "idish"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "moy"
+    }
+  ],
+  "timestamp": "2026-08-26T03:50:48.288885481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 62,
+  "translation": "Faqat Elohimga qarab jimdur nefeshim; Undandir najotim.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Faqat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohimga qarab"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "jimdur"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshim"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Undandir"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "najotim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:09.793391519Z",
+  "model": "glm-5.3"
+}

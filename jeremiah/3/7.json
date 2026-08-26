@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va men dedim: bularning barchasini ⟨את⟩ qilib boʻlgach — menga qayt; lekin u qaytmadi, va uning xoin opasi Yehuda koʻrdi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Va men dedim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "qilib boʻlgach"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bularning barchasini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bularning"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "qayt"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin ... yoʻq"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "qaytmadi"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "va ... koʻrdi"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "xoin"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "uning opasi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-08-26T04:37:48.625179826Z",
+  "model": "glm-5.3"
+}

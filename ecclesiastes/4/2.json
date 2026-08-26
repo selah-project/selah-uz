@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va men ⟨את⟩ oʻliklarni maqtadim, allaqachon oʻlganlarni, — hozirgacha tirik boʻlgan tiriklardan ⟨koʻra⟩.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "va maqtadim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻliklarni"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "oʻliklarni"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "allaqachon"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "oʻlgan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tiriklardan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tirik"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "hozirgacha"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:08.060146487Z",
+  "model": "glm-5.3"
+}

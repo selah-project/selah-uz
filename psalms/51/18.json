@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Chunki sen qurbonlikni xohlamaysan, ⟨aks holda⟩ men bergan boʻlardim; butparastlik yoʻq — olov qurbonligidan mamnun boʻlmaysan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maysan"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "xohlamaysan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbonlikni"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "⟨aks holda⟩ men bergan boʻlardim"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "olov qurbonligidan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maysan"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "mamnun boʻlmaysan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:52.511479697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Shuning uchun buyruqlaringni — oltindan va sofl oltindan ortiq sevdim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "shuning"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sevdim"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "buyruqlaringni"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "oltindan"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "va sofl oltindan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:52.920289945Z",
+  "model": "glm-5.3"
+}

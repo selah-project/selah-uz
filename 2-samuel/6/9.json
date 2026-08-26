@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Dovud Yahve ⟨את⟩ oʻsha kuni qoʻrqdi va dedi: Qanday kelsin menga Yahvening aroni?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "qoʻrqdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "איך",
+      "gloss": "qanday"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kelsin"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T03:07:02.368325138Z",
+  "model": "glm-5.3"
+}

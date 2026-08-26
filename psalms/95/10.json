@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 95,
+  "translation": "Qirq yil davomida Men shu avloddan jirkanardim va dedim: qalbi adashgan xalqdir ular, va ular Mening yoʻllarimni bilmadilar.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "qirq"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil davomida"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "jirkanardim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "shu avlod"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "va dedim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "adashgan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "והם",
+      "gloss": "va ular"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilmadilar"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmasdilar"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "Mening yoʻllarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:33.841602591Z",
+  "model": "glm-5.3"
+}

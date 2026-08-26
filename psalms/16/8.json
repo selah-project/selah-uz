@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Yahveni doimo oʻzim qarshimda tengladim, chunki U oʻng qoʻlimda — men silkinmayman.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "tengladim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "oʻzim qarshimda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doimo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "oʻng qoʻlimda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "silkinmayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:47.560081515Z",
+  "model": "glm-5.3"
+}

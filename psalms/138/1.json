@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 138,
+  "translation": "Dovudga. Butun yuragim bilan Seni olqilayman, elohimlar oldida Senga chertib kuylayman.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Seni olqilayman"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun ... bilan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohimlar"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "Senga chertib kuylayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:25.877574299Z",
+  "model": "glm-5.3"
+}

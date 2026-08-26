@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 11:2",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va togʻlarda shimoldan va Arabada, Kinerot janubida va tekislikda va Dor hududlarida gʻarbda ⟨boʻlgan⟩ podshohlarga.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "va ... ga"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "podshohlarga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨boʻlgan⟩"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "shimoldan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻlarda"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "va Arabada"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "janubida"
+    },
+    {
+      "surface": "כנרות",
+      "gloss": "Kinerot"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "va tekislikda"
+    },
+    {
+      "surface": "ובנפות",
+      "gloss": "va hududlarida"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "gʻarbda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:16:47.921061210Z",
+  "model": "glm-5.3"
+}

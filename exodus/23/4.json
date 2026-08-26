@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Agar dushmaningning hoʻkizi yoki uning eshagi adashgan boʻlsa, uchrasan — qaytarib qaytarasan ⟨uni⟩ unga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "uchrasan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "hoʻkiz"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "dushmaningning"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "uning eshagi"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "adashgan"
+    },
+    {
+      "surface": "השב",
+      "gloss": "qaytarib"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "qaytarasan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:46.771318558Z",
+  "model": "glm-5.3"
+}

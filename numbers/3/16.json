@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Moshe ularni — ⟨את⟩ — Yahve ogʻzi boʻyicha, buyruq berilganidek, sanadi.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Va ... sanadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻyicha"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻizi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "idek"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyruq berilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:26:30.270087020Z",
+  "model": "glm-5.3"
+}

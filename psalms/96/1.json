@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 96,
+  "translation": "Yahvega yangi qoʻshiq kuylang, kuylang Yahvega, butun yer!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "kuylang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yangi"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "kuylang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:51.962128702Z",
+  "model": "glm-5.3"
+}

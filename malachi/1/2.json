@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 1:2",
+  "book": "malachi",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Sizlarni ⟨את⟩ sevdimgina, degan Yahve, siz esa: „Narda siz bizlarni sevdingiz?“ deysizlar. Esav Yaakovning ukasi emasmidi, degan Yahve; va ⟨את⟩ Yaakovni sevdim.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "sevdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "degan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "siz esa deysizlar"
+    },
+    {
+      "surface": "במה",
+      "gloss": "narda"
+    },
+    {
+      "surface": "אהבתנו",
+      "gloss": "bizlarni sevdingiz"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "…emasmidi"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ukasi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakovga"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "degan (oracle)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "va sevdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:03.540805712Z",
+  "model": "glm-5.3"
+}

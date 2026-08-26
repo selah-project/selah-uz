@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Shaul aytdi: Yahve sizni barakalaydiganlardan ⟨boʻlinglar⟩, chunki siz meni ayadingiz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "barakalangan(lar)"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "ayadingiz"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:55:46.650858875Z",
+  "model": "glm-5.3"
+}

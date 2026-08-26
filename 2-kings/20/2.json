@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "U ⟨את⟩ yuzini devorga burdi va Yahvega duo qildi, deb:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "va burdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzini"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "devorga"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "va duo qildi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    }
+  ],
+  "timestamp": "2026-08-26T04:01:43.461863500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Bu — Adam nasl-nasabining kitobi. Elohim odamni yaratgan kunda, uni Elohim oʻxshatiligida yaratdi ⟨את⟩ uni.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Bu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitobi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "nasl-nasabi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yaratgan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "oʻxshatiligida"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaratdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:37.291377710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Chuqurlikni kiyim kabi yopingan edi — togʻlar ustida suvlar turardi.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Chuqurlikni"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "kiyim kabi"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "yopingan edi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "turardi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:41.624696558Z",
+  "model": "glm-5.3"
+}

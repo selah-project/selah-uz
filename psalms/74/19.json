@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Yovvoyi hayvonga bermagin Sening kabigingning jonini; Sening qashshoqlaringning jamoasini abadiy unutmagin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "...magin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "berma-"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "hayvonga"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jonini"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "Sening kabigingning"
+    },
+    {
+      "surface": "חית",
+      "gloss": "jamoasini"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "Sening qashshoqlaringning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...magin"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutma-"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:58.727343552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Halokat ⟨ bor ⟩ uning ichida va uning maydonidan ketmaydi zulm va firibgarlik.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "halokat"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "uning ichida"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ketmaydi"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "uning maydonidan"
+    },
+    {
+      "surface": "תך",
+      "gloss": "zulm"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "va firibgarlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:27.411483333Z",
+  "model": "glm-5.3"
+}

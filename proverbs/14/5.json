@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Sadoqatli guvoh yolgʻon demaydi, ammo yolgʻonchi guvoh yolgʻon puflaydi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "guvoh"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "sadoqatli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "yolgʻon demaydi"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "va puflaydi"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guvoh"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻonchi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:44:06.720849408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Tundan qoʻrqinchdan qoʻrqmaysan, kunduzi uchib yuruvchi oʻqdan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "qoʻrqmaysan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qoʻrqmaysan"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "qoʻrqinchdan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tun"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "oʻqdan"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "uchib yuruvchi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "kunduzi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:33.858729647Z",
+  "model": "glm-5.3"
+}

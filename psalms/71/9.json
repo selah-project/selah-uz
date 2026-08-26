@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Qarilik vaqtida mendan tashlab yuborma, kuchi­m tugaganda meni tark qilma.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "­ma"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "tashlab yuborma"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "vaqtida"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "qarilik"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "tugaganda"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kuchim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "­ma"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tark qilma"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:37.133272691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "va ⟨את⟩ oltin — ogʻirlik — tartibga solinadigan stollar uchun, stol uchun va stol uchun; va kumush — kumush stollar uchun",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oltin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ogʻirlik"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "stollar uchun"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "tartibga solinadigan"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "stol uchun"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "va stol uchun"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "va kumush"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "stollar uchun"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumushning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:04:02.298868639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va men oʻzimda soʻzlayotgan malikka dedim: Qaerga ular ⟨את⟩ epani olib bormoqdalar?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Va men dedim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malik"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻzlayotgan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menda"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "qaerga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "olib bormoqdalar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "epa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "epani"
+    }
+  ],
+  "timestamp": "2026-08-26T05:52:48.894212827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Yer ochildi va Datanni yutib yubordi, va Aviram jamoasi ustini yopdi.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "ochildi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "va yutib yubordi"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datanni"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "va yopdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustin"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamoasi"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Aviram"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:49.030832013Z",
+  "model": "glm-5.3"
+}

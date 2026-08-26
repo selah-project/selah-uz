@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Solihlarning orzusi — faqat yaxshilik; yovlar esa umidi — gʻazab.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "orzusi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "solihlarning"
+    },
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshilik"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "umidi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlar"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "gʻazab"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:48.599768474Z",
+  "model": "glm-5.3"
+}

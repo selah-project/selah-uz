@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Men esa butunligimda yuraman; meni qutqar va menga marhamat qil.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men esa"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "butunligimda"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "yuraman"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "meni qutqar"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "va menga marhamat qil"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:05.051225436Z",
+  "model": "glm-5.3"
+}

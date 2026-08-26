@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va yeganingda va toʻyganningda — Yahve, Elohimingni ⟨את⟩ olgan yaxshi eri uchun barakot aytasan ⟨u bergani uchun⟩.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "va yeganingda"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "va toʻyganningda"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "barakot aytasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve, Elohimingni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimingni"
+    },
+    {
+      "surface": "על",
+      "gloss": "uchi uchun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erni"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "bergan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:51:59.155953980Z",
+  "model": "glm-5.3"
+}

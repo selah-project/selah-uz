@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 44:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Va mening kosamni — kumush kosani — eng kichigning xaltasining ogʻziga qoʻy, uning don kumushi bilan birga. U Yusuf aytgan soʻz boʻyicha qildi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩ — kosamni",
+      "marks": "mening kosamni"
+    },
+    {
+      "surface": "גביעי",
+      "gloss": "mening kosam"
+    },
+    {
+      "surface": "גביע",
+      "gloss": "kosa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ogʻziga"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "xaltasining"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "eng kichigning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning kumushi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "uning doni"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "u qildi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "soʻz boʻyicha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...gan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aytgan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:58.182172680Z",
+  "model": "glm-5.3"
+}

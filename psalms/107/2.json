@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Yahve qutqarganlari aytsinlar, ⟨ularni⟩ dushman qoʻlidan qutqargan ⟨Zot⟩.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "aytsinlar"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "qutqarganlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨Zot⟩"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "qutqargan"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dushman"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:40.764121871Z",
+  "model": "glm-5.3"
+}

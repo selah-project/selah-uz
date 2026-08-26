@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Choʻlda qoyalarni yorib tashladi va uni ulkan chuqurliklar kabi suv bilan toʻyintirdi.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "yorib tashladi"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "qoyalarni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "va uni toʻyintirdi"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "chuqurliklar kabi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ulkan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:48.995020603Z",
+  "model": "glm-5.3"
+}

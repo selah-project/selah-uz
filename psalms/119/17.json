@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Odatga sol, bandoymingga — yashayin va Tushingni saqlayin.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "odatga sol (yaxshilik qil)"
+    },
+    {
+      "surface": "על",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bandoyming"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "yashayin"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "va saqlayin"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Tushingni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:46.019008650Z",
+  "model": "glm-5.3"
+}

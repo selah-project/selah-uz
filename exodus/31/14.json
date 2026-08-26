@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 31:14",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va ⟨את⟩ shabbatni saqlangiz, chunki u sizlar uchun muqaddasdir; uni buzbilagan albatta oʻldiriladi, chunki unda har qanday ish qilgan oʻsha nefesh oʻz xalqi ortidan kesib tashlanadi.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Va saqlangiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shabbatni"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbatni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    },
+    {
+      "surface": "מחלליה",
+      "gloss": "uni buzbilagan"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldiriladi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "kesib tashlanadi"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "oʻsha nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "עמיה",
+      "gloss": "oʻz xalqi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:02:10.692751737Z",
+  "model": "glm-5.3"
+}

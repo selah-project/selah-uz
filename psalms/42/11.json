@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Suyaklarimning boʻlgʻonishida dushmanlarim meni haqorat qiladi, menga butun kun aytib: „Qaerda sening Elohing?“",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "boʻlgʻonishida"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "suyaklarimning"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "meni haqorat qiladi"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "aytib"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Qaerda"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohing"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:44.775722291Z",
+  "model": "glm-5.3"
+}

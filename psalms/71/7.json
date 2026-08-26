@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Koʻpchilik uchun moʻjiza kabi boʻldim, ammo Sen ⟨ésan⟩ panohim, kuch-qudratim.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "moʻjiza kabi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "boʻldim"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "koʻpchilik uchun"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ammo Sen"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "panohim"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kuch-qudratim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:42.791662473Z",
+  "model": "glm-5.3"
+}

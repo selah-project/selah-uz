@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Tur, bizga yordam bo'l va xeseding tufayli bizni ozod qutqar!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tur"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "yordam"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "va bizni ozod qutqar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tufayli"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:19.908902437Z",
+  "model": "glm-5.3"
+}

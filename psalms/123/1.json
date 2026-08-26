@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 123,
+  "translation": "Maqol qoʻshigʻi. Senga koʻztardim, osmonlarda oʻtirgan ⟨senga⟩.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "koʻtarilishlarning"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "koʻztardim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʻzlarimni"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarimni"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "oʻtirgan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "osmonlarda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:16.256651282Z",
+  "model": "glm-5.3"
+}

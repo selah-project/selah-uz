@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Dovudga. Senga, ey Yahve, nafsimni koʻtaraman.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsimni"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "koʻtaraman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:01.460668160Z",
+  "model": "glm-5.3"
+}

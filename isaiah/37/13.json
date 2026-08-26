@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Qayerda Chamat qiroli, Arpad qiroli va Sefarvayim shahri qiroli, Hena va Ivva?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Qayerda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Chamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "va qiroli"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "va qiroli"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "shahri"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvayim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "va Ivva"
+    }
+  ],
+  "timestamp": "2026-08-26T04:23:55.734950175Z",
+  "model": "glm-5.3"
+}

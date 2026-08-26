@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Balak Bilʼomga dedi: Na qargʻa, uni qargʻamaysan, na barakol ayt, uni barakolamaysan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilʼom"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "קב",
+      "gloss": "qargʻa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maysan"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "uni qargʻamaysan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barakol ayt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maysan"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "uni barakolamaysan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:39:44.882153137Z",
+  "model": "glm-5.3"
+}

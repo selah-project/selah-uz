@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "„Qonunga koʻra nima qilish kerak malika Vashti bilan, chunki u saroy jonalar qoʻli orqali podshoh Axashveroshning buyrugʻini ⟨את⟩ bajarmadi?“",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "Qonunga koʻra"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "qilish kerak"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "malika bilan"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "bajarmadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyrugʻini"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "buyrugʻi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashveroshning"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻli orqali"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "saroy jonalar"
+    }
+  ],
+  "timestamp": "2026-08-26T07:23:44.728176872Z",
+  "model": "glm-5.3"
+}

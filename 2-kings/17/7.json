@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va shunday boʻldiki, Isroil oʻgʻillari Yahve — oʻzlarining Elohimiga, ularni Misr yeridan, Paro — Misr podshohining qoʻl ostidan olib chiqqanga qarshi gunoh qildilar va boshqa elohimlardan qoʻrqdilar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "gunoh qildilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega qarshi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "oʻzlarining Elohimiga"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "olib chiqqan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ostidan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohining"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "qoʻrqdilar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohimlardan"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    }
+  ],
+  "timestamp": "2026-08-26T03:58:39.799204624Z",
+  "model": "glm-5.3"
+}

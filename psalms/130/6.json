@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 130,
+  "translation": "Jonim — Adonay uchun, tongni kutuvchi qorovullardan ⟨koʻproq⟩, tongni kutuvchi ⟨qorovullardan koʻproq⟩.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "Adonay uchun"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "qorovullardan"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "tongni kutuvchi"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "tongni kutuvchi"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "qorovullardan ⟨koʻproq⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:44.419903401Z",
+  "model": "glm-5.3"
+}

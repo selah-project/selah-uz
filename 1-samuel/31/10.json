@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Ular ⟨את⟩ uning qurollarini Ashtarotlar baytiga qoʻydilar va ⟨את⟩ uning jasadini Bet-Shan devoriga mixlab ilib qoʻydilar.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "qoʻydilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning qurollarini"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uning qurollarini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytiga"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "Ashtarotlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "uning jasadini"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "mixlab ilib qoʻydilar"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "devoriga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    }
+  ],
+  "timestamp": "2026-08-26T09:01:11.650362529Z",
+  "model": "glm-5.3"
+}

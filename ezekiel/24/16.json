@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 24:16",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Ey inson o'g'li! Mana, Men ko'zlaringning sevganini sendan mag'lubat bilan olib qo'yaman; va sen motam tutmaysan, yig'lamaysan va ko'zyoshlaring oqmaydi.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "o'g'li"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Ey inson ... !"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "olib qo'yaman"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sendan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ko'zlaringning sevganini"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "sevganini"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ko'zlaringning"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "mag'lubat bilan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va --maysan"
+    },
+    {
+      "surface": "תספד",
+      "gloss": "motam tutmaysan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va --maysan"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "yig'lamaysan"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "va --"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "oqmaydi"
+    },
+    {
+      "surface": "דמעתך",
+      "gloss": "ko'zyoshlaring"
+    }
+  ],
+  "timestamp": "2026-08-26T05:20:31.171234834Z",
+  "model": "glm-5.3"
+}

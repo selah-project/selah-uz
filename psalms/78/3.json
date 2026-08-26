@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Nimalarni eshitdik va bildik, va otalarimiz bizga aytib berdilar.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Nimalarni"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "eshitdik"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "va bildik"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "va otalarimiz"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "aytib berdilar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:25.806973036Z",
+  "model": "glm-5.3"
+}

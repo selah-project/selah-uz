@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 5:1",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Eshtingizlar buni, ey kohinlar, va quloq solingiz, ey Yisroil uyi, va ⟨you⟩ tinglangiz, ey qirol uyi, chunki hukm sizlarga — chunki tuzoq boʻldingizlar Mitspa ustida va Tavor ustiga yoyilgan toʻr.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Eshtingizlar"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "buni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ey kohinlar"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "va quloq solingiz"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroil"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "va ... uyi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "tinglangiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tuzoq"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "boʻldingizlar"
+    },
+    {
+      "surface": "למצפה",
+      "gloss": "Mitspa ustida"
+    },
+    {
+      "surface": "ורשת",
+      "gloss": "va toʻr"
+    },
+    {
+      "surface": "פרושה",
+      "gloss": "yoyilgan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tavor"
+    }
+  ],
+  "timestamp": "2026-08-26T05:35:42.113265814Z",
+  "model": "glm-5.3"
+}

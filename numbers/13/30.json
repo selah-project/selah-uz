@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Kalev xalqni Mośehga ⟨qarshi⟩ tinchladi va dedi: chiqaylik, koʻtarilaylik va uni meros qilib olaylik, chunki biz ⟨buning⟩ uchun qodirmiz.",
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "va tinchladi"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨qarshi⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mośeh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "chiqaylik"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "koʻtarilaylik"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "va meros qilib olaylik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "qodir"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "biz"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨buning⟩ uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:33:02.446182016Z",
+  "model": "glm-5.3"
+}

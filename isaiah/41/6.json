@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Har bir odam oʻz yaqiniga ⟨את⟩ yordam beradi va oʻz ukasiga aytadi: „Mustahkam boʻl!“",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "har bir odam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz yaqiniga"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oʻz yaqini"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "yordam beradi"
+    },
+    {
+      "surface": "ו לאחיו",
+      "gloss": "va oʻz ukasiga"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "aytadi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "mustahkam boʻl"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:15.281905768Z",
+  "model": "glm-5.3"
+}

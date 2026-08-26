@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 79,
+  "translation": "Qonlarini suv kabi toʻkdilar Yerushalaim atrofiga, va dafn etuvchi yoʻq.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "toʻkdilar"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "qonlarini"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "suv kabi"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "atrofiga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "dafn etuvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:10.403445627Z",
+  "model": "glm-5.3"
+}

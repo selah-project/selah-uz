@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 143,
+  "translation": "Isming uchun, ey Yahve, meni jonlantir; sedding bilan chiqar muammrodan nefushimni.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "isming"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "meni jonlantir"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "sedding bilan"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "chiqar"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "muammrodan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefushimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:31.306262653Z",
+  "model": "glm-5.3"
+}

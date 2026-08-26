@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Oʻldirma ularni, yoki xalqim ⟨buni⟩ unutadi; kuching bilan ularni larzaga sol va quyila ularni, qalqonimiz — Adonay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "oʻl"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "dirma ularni"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "unutadi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqim"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "ularni larzaga sol"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "kuching bilan"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "va quyila ularni"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "qalqonimiz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:52.820959585Z",
+  "model": "glm-5.3"
+}

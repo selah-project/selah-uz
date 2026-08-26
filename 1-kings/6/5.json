@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va binoning devori ustiga atrofda yon-qurilish qurdi — ⟨את⟩ binoning devorlarini atrofda — heykalga ham, Devirga ham; va u yon-xonalarni atrofda qildi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "qurdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "devori"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "binoning"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "yon-qurilish"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "devorlarni"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "devorlarni"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "binoning"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofda"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "heykalga"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "Devirga"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "yon-xonalarni"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofda"
+    }
+  ],
+  "timestamp": "2026-08-26T03:29:59.520076126Z",
+  "model": "glm-5.3"
+}

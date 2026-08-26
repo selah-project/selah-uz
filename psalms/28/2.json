@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Yolvorishlarimning ovozini eshit — Senga faryod qilganimda, qoʻllarimni muqaddas ichki zotqutga koʻtarganimda.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "eshit"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "yolvorishlarimning"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "faryod qilganimda"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "koʻtarganimda"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻllarimni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ichki zotqutga"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "muqaddas"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:19.754649238Z",
+  "model": "glm-5.3"
+}

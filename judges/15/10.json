@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 15:10",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va Yahuda erkaklari soʻradilar: „Nima uchun bizning ustimizga chiqdingizlar?“ Va ular: „Shimshonni bogʻlash uchun chiqdiklar — bizga qilgani kabi unga qilish uchun“, dedilar.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "va soʻradilar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "erkaklari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "chiqdingizlar"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizning ustimizga"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "לאסור",
+      "gloss": "bogʻlash uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimshonni"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshon"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizning ustimizga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "qilish uchun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgani"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:34:00.066393414Z",
+  "model": "glm-5.3"
+}

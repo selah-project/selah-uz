@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 35:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "⟨את⟩ yoqiladigan qurbongohini va ⟨את⟩ mis panjarasini — unga tegishli — ⟨את⟩ tayoqlarini va ⟨את⟩ barcha asboblarini; ⟨את⟩ yuvinish havzasini va ⟨את⟩ tag kursisini",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbongoh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yoqiladigan qurbonlik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "panjara"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "panjara"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "mis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga tegishli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayoqlar"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tayoqlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "asboblar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "havza"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "yuvinish havzasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tag kursisi"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tag kursisi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:46.137539380Z",
+  "model": "glm-5.3"
+}

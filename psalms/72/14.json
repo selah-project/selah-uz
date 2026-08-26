@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Zolimlik va zoʻravonlikdan ularning jonini ozod qiladi, va ularning qoni uning koʻzida qadrli boʻladir.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "va zoʻravonlikdan"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ozod qiladi"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ularning jonini"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "va qadrli"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "ularning qoni"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "uning koʻzida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:13.894015291Z",
+  "model": "glm-5.3"
+}

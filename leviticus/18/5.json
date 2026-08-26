@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va saqlang ⟨את⟩ farzlarimni va ⟨את⟩ hukmlarimni, ki odam ularni qilsa va ular orqasida yashasin; Men Yahve ⟨man⟩.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "va saqlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farzlarimni"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "farzlarimni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hukmlarimni"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmlarimni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qilsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "odam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "va yashasin"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ular orqasida"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:52.499820730Z",
+  "model": "glm-5.3"
+}

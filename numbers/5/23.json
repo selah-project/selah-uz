@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va kohin ⟨את⟩ bu laʻnatlarni kitobga yozadi va ularni achchiq suvlarga oʻchirib yuboradi.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "yozadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laʻnatlarni"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "laʻnatlar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kitobga"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "oʻchirib yuboradi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "suvlarga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "suv"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "achchiq"
+    }
+  ],
+  "timestamp": "2026-08-26T01:27:59.519634922Z",
+  "model": "glm-5.3"
+}

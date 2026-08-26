@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va Paroh Yosufga dedi: Tush koʻrdim, va uni ochuvchi yoʻq; va men sen haqida eshitdim, deb: tushni eshitib, uni ochib berasan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosuf"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "tush"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "va uni ochuvchi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (tushni)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "va men"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eshitdim"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sen haqida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "eshhitsan"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "tushni"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "ochib berishga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (tushni)"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:20.635505337Z",
+  "model": "glm-5.3"
+}

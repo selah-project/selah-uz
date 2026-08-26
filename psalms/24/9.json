@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Koʻtaring, ey darvozalar, boshlaringizni, va koʻtarilib turinglar, ey abadiy eshiklar, va shon-sharaf shohi kirsin.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "koʻtaring"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "darvozalar"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "boshlaringizni"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "va koʻtarilib turinglar"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "eshiklar"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va kirsin"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "shon-sharaf"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:45.523952744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Yahve Moshega gapirdi, degan:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:39:50.335132588Z",
+  "model": "glm-5.3"
+}

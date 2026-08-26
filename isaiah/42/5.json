@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 42:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Shunday deydi El Yahve, osmonlarni yaratgan va ularni yoygan, yerni va uning mahsulotlarini yoyib chiqqan, uning ustidagi xalqqa nafas, unda yurganlarga ruax beradigan.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "yaratgan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "ונוטיהם",
+      "gloss": "va ularni yoygan"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "yoyib chiqqan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "וצאצאיה",
+      "gloss": "va uning mahsulotlarini"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "beradigan"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "nafas"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalqqa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "uning ustidagi"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "va ruax"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "yurganlarga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:09.866814877Z",
+  "model": "glm-5.3"
+}

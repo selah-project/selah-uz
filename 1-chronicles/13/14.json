@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Elohim sandigʻi Oved-Edomning xonadoni bilan, uning uyida uch oy qoldi; va Yahve ⟨את⟩ Oved-Edomning uyini va ⟨את⟩ uning hamma narsasini barakaladi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "va … qoldi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandiq"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…bilan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xonadon"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "uning uyida"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uch"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "oy"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "va … barakaladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved-Edomning uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hamma narsasini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsa(ki)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:57:46.240308023Z",
+  "model": "glm-5.3"
+}

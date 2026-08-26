@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va u ⟨את⟩ ⟨the⟩ mudofaa inshootlarini mustahkamladi va ularga hokimlar qoʻydi hamda oziq-ovqat, moy va sharob omborlari",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "mustahkamladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mudofaa inshootlarini"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "mudofaa inshootlari"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "hokimlar"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "omborlar"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "oziq-ovqat"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "sharob"
+    }
+  ],
+  "timestamp": "2026-08-26T08:07:51.806103739Z",
+  "model": "glm-5.3"
+}

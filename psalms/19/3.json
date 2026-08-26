@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Kun kunga soʻz oqizmoqda, va kecha kechaga bilim ochib bermoqda.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Kun"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kunga"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "oqizmoqda"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "va kecha"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "kechaga"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "ochib bermoqda"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:38.824630455Z",
+  "model": "glm-5.3"
+}

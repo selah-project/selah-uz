@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Menga tuproqdan mehrob qil, uning ustida ⟨את⟩ butqurbonliklaringni va ⟨את⟩ tinchlik qurbonliklaringni soʻy — ⟨את⟩ qoʻylaringni va ⟨את⟩ mol-qoringni. Mening ismimni eslatgan har bir joyda Men senga kelaman va seni barakalayman.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "mehrob"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "tuproqdan"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qil"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "va soʻy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butqurbonliklaringni"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "butqurbonliklaringni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tinchlik qurbonliklaringni"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "tinchlik qurbonliklaringni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻylaringni"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "qoʻylaringni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "mol-qoringni"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "mol-qoringni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "joyda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "eslatgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ismimni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ismimni"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kelaman"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "va barakalayman"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:10.934390406Z",
+  "model": "glm-5.3"
+}

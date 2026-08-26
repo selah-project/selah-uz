@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Tur, Yahve! Odam kuchga toʻlmasin, goylar Sening yuzing oldida hukm topsin!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…masin"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "kuchga toʻladi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "hukm topsin"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "goylar"
+    },
+    {
+      "surface": "על",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Sening yuzing"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:53.544946850Z",
+  "model": "glm-5.3"
+}

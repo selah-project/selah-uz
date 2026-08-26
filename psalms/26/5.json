@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Yomonlarning majmuasidan nafratlandim va tavellalar bilan birga oʻtirmayman.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "nafratlandim"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "majmuasi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "yomonlarning"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "va ⟨…⟩ bilan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tavellalar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…may"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "oʻtirmayman"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:05.119221446Z",
+  "model": "glm-5.3"
+}

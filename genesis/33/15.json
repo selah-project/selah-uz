@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Esav dedi: Qoʻygin endi, sening yoningda men ⟨את⟩ bilan boʻlgan xalqdan. U esa dedi: Nega shu? Jonobimning koʻzlarida inoyat topay.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Dedi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "qoʻyay"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yoningda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "men bilan boʻlgan xalq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Dedi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "זה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "topay"
+    },
+    {
+      "surface": "חן",
+      "gloss": "inoyat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzlarida"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "janobim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:58.557940396Z",
+  "model": "glm-5.3"
+}

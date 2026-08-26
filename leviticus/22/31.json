@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va buyruqlarimni saqlanglar va ularni bajaringlar — Men Yahveman.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "saqlanglar"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "buyruqlarimni"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "bajaringlar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:35.343132792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Sen ularni sel kabi oqizib yubording — ular uxlab qolganlar timsoli boʻldilar; tongda xuddi oʻtdek oʻtib ketadigan boʻladilar.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "sel kabi oqizib yubording"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "uxlab qolganlar timsoli"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "boʻldilar"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tongda"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "xuddi oʻtdek"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "oʻtib ketadigan boʻladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:33.944088287Z",
+  "model": "glm-5.3"
+}

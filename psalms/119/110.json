@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Yovdirlar manga tuzoq qoʻydilar, ammo Sening buyruqlaringdan adashmadim.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "qoʻydilar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovdirlar"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tuzoq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "manga"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "ammo Sening buyruqlaringdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…emas"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "adashmadim"
+    }
+  ],
+  "timestamp": "2026-08-26T09:09:30.302125509Z",
+  "model": "glm-5.3"
+}

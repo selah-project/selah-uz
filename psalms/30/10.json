@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Qonimda qanday foyda bor, chuqurga tushganimda? Chang seni ulugʻlaydimi? U sening sadoqatingni eʼlon qiladimi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "qanday"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "foydasi"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "qonimda"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "tushganimda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "chuqurga"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "chuqur"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "seni ulugʻlaydimi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "changa"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "eʼlon qiladimi"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "sening sadoqating"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:01.742094398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "va uning lashkari, va ularning sanalganlari — qirq besh ming olti yuz ellik.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "va uning lashkari"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "va ularning sanalganlari"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "besh"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "qirq"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "olti"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ellik"
+    }
+  ],
+  "timestamp": "2026-08-26T01:25:58.550189572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Senga ⟨tegishli⟩ — kuch bilan birga yelqa; kuchlidir qo'ling, ko'tarilgandir o'ng qo'ling.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "yelqa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "kuch"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "kuchlidir"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qo'ling"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ko'tarilgandir"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "o'ng qo'ling"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:24.286687718Z",
+  "model": "glm-5.3"
+}

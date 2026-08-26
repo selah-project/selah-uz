@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Yahve kuni qorongʻulik emasmi — yorugʻlik emas, zulmat — unda yorqinlik yoʻqmi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "emasmi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qorongʻulik"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yorugʻlik"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "zulmat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "yorqinlik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:41:03.532575768Z",
+  "model": "glm-5.3"
+}

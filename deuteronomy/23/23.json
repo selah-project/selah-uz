@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Lekin nazr aytmay toʻxtasan boʻlsa, senda gunoh boʻlmaydi.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "lekin... boʻlsa"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "toʻxtasan"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "nazr aytmay"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlmaydi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senda"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "gunoh"
+    }
+  ],
+  "timestamp": "2026-08-26T02:00:41.612546219Z",
+  "model": "glm-5.3"
+}

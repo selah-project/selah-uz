@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "Sharq g'arbdan uzoq boʻlgani kabi, U bizdan ⟨את⟩ isyonlarimizni uzoqlashtirdi.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "uzoq boʻlgani kabi"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "sharq"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "g'arbdan"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "uzoqlashtirdi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bizdan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isyonlarimizni"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "isyonlarimiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:28.964714957Z",
+  "model": "glm-5.3"
+}

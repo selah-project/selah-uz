@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Hatak kirdi va Esterga Mordoxayning ⟨את⟩ soʻzlarini aytdi.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "va kirdi"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatak"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlarini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlari"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordoxayning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:24:53.816544816Z",
+  "model": "glm-5.3"
+}

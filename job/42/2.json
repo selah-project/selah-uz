@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Bilaman ki Sen hamma narsaga qodirsan va Sendan hech bir maqsad toʻsib qoʻyila olmaydi.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "bilaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma narsaga"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "qodirsan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... olmaydi"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "toʻsib qoʻyila olmaydi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Sendan"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "maqsad"
+    }
+  ],
+  "timestamp": "2026-08-26T07:11:56.945729152Z",
+  "model": "glm-5.3"
+}

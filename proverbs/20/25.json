@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Odamlar uchun tuzoqdir — muqaddas deb oshkor qilib yuborish, keyin esa nazrlarni tekshirish.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "tuzoqdir"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "oshkor qilib yuborish"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "keyin esa"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "nazrlarni"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "tekshirish"
+    }
+  ],
+  "timestamp": "2026-08-26T08:46:09.414055018Z",
+  "model": "glm-5.3"
+}

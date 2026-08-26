@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Agar temir oʻtkir boʻlmasa va u poyali qilingan boʻlsa — qoʻl kuchi koʻproq talab qilinadi; muvaffaqiyatga tayyorlov esa — hikmatdir.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "oʻtkir boʻlmasa"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "temir"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "va u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "poya"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "qilingan boʻlsa"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "qoʻl kuchi"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "koʻproq talab qilinadi"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "muvaffaqiyat"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "tayyorlov"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:57.511389463Z",
+  "model": "glm-5.3"
+}

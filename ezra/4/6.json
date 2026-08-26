@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "va Axashveroshning podshohligida, uning podshohligining boshida ular Yehuda va Yerushalaim aholisiga qarshi tuhmat yozdilar.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "va ... podshohligida"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Axashverosh"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "boshida"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "uning podshohligi"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "yozdilar"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "tuhmat"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "aholisi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "va Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T07:37:39.852525191Z",
+  "model": "glm-5.3"
+}

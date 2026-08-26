@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 35:12",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va shaharlar sizlar uchun qon o‘chidan qochgan boshpana bo‘lsinlar; va qotil o‘lim topmas — jamoat oldida, hukm uchun turmaguncha.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "va bo‘lsinlar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "shaharlar"
+    },
+    {
+      "surface": "למקלט",
+      "gloss": "boshpana sifatida"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "qon o‘chisidan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... mas"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o‘lim topmas"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "qotil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-guncha"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "turmagi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamoat"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "hukm uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:20.667027887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Va orzu qiladi podshoh go'zalligingni, chunki u — senning hukmdoring; va sajda qil unga.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "va orzu qiladi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "go'zalligingni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "hukmdoring"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "va sajda qil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:12.753599138Z",
+  "model": "glm-5.3"
+}

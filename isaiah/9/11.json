@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Aram sharqdan, va Pelishtlar orqadan; va ular ⟨את⟩ Isroilni butun ogʻiz bilan yedilar. Barcha bunga qaramay uning gʻazabi qaytmadi va baribir uning qoʻli choʻzilgan.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "sharqdan"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "va Pelishtlar"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "orqadan"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "va yedilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ogʻiz bilan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "buna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-madi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytmadi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "uning gʻazabi"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "va baribir"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "uning qoʻli"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "choʻzilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:10:39.729500581Z",
+  "model": "glm-5.3"
+}

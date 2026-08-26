@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va elchi ketdi, va keldi, va Dovudga xabar qildi ⟨את⟩ barcha narsani ki Yoav uni yuborgan edi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Va ketdi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "elchi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "va xabar qildi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsani ki"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "uni yuborgan edi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    }
+  ],
+  "timestamp": "2026-08-26T03:09:45.553094555Z",
+  "model": "glm-5.3"
+}

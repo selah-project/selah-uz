@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Yahve, kuchi bilan yuksalgin — kuylaylik va qudratingni madh etaylik.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "yuksalgin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "kuchi bilan"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "kuylaylik"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "va madh etaylik"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "qudratingni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:11.627099785Z",
+  "model": "glm-5.3"
+}

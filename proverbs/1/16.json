@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "chunki ularning oyoqlari yomonga yuguradi va qon toʻkishga shoshiladi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ularning oyoqlari"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "yomonga"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "yuguradi"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "va shoshiladi"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "toʻkishga"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qon"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:37.373473783Z",
+  "model": "glm-5.3"
+}

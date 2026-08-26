@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 2:10",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va butun oʻsha avlod otalariga yigʻildi, va ulardan keyin boshqa avlod turdi, — Yahveni bilmas, hatto Isroil uchun qilgan ishni ham ⟨את⟩ bilmas — ⟨את⟩ Yahveni ham, ⟨את⟩ oʻsha ishni ham.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Va"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "yigʻildi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "otalariga"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ulardan keyin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilmas"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻsha ishni"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ishni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isroil uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T02:24:01.272318510Z",
+  "model": "glm-5.3"
+}

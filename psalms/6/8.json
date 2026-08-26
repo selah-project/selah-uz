@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Gʻazabdan koʻzim xira boʻldi, butun dushmanlarimdan qaridim.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "xira boʻldi"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "gʻazabdan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzim"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "qaridim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dushmanlarimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:35.829806704Z",
+  "model": "glm-5.3"
+}

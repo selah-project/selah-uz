@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 112,
+  "translation": "Maqtanglar Yahni! Baxtli ⟨–⟩ odamki, Yahve ⟨את⟩ dan qoʻrqadi, Uning buyruqlarini juda xohlaydi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Maqtanglar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qoʻrqadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "Uning buyruqlarini"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xohlaydi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:05.523272885Z",
+  "model": "glm-5.3"
+}

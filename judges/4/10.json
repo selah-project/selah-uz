@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Barak Zevulunni ⟨את⟩ va Naftalini ⟨את⟩ Kedeshga chaqirdi; va oʻn ming kishi bilan piyoda koʻtarildi; va Devora u bilan koʻtarildi.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "Va ... chaqirdi"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zevulunni"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Naftalini"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "Kedeshga"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "va ... koʻtarildi"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "piyoda (uning oyoqlarida)"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "ming"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "va ... koʻtarildi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    }
+  ],
+  "timestamp": "2026-08-26T02:27:09.213559203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Shamda ⟨את⟩ Avrahamni va ⟨את⟩ Sara uning xotinini dafn etishgan; shamda ⟨את⟩ Yitsxakni va ⟨את⟩ Rivqani uning xotinini dafn etishgan; va shamda men ⟨את⟩ Leani dafn etdim.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "shamda"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "dafn etishgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "uning xotinini"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "shamda"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "dafn etishgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsxakni"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Rivqa"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivqa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "uning xotinini"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "va shamda"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "men dafn etdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Leani"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:31.989536521Z",
+  "model": "glm-5.3"
+}

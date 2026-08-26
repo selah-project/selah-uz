@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Isroil oʻgʻillarining butun jamoasining boshini ⟨את⟩ koʻtarlang — urugʻlaricha, otalar uyicha — ismlar sonicha, har bir erkak, boshma-bosh:",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "koʻtarlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "bosh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamoasining"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "urugʻlaricha"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uyicha"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "otalar"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "sonicha"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ismlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "boshma-bosh"
+    }
+  ],
+  "timestamp": "2026-08-26T01:25:02.937995967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va ⟨את⟩ Sidkiyaxning oʻgʻillarini soʻydilar koʻz oldida, va ⟨את⟩ Sidkiyaxning koʻzlarini koʻr qildilar, va uni mis kishanlar bilan bogʻladilar va olib borishdi uni Bobilga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Sidkiyaxning oʻgʻillarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkiyaxning"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "soʻydilar"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "koʻz oldida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Sidkiyaxning koʻzlarini"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarini"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Sidkiyaxning"
+    },
+    {
+      "surface": "עור",
+      "gloss": "koʻr qildilar"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "bogʻladilar uni"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "mis kishanlar bilan"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "olib borishdi uni"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bobilga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:06:12.536345882Z",
+  "model": "glm-5.3"
+}

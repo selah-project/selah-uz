@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Marhamatli va mehribon Yahve, gʻazabga sekin, va buyuk xesed ⟨egasi⟩.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Marhamatli"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "va mehribon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "sekin"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "gʻazabga (lit. burunlarga)"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "va buyuk"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:21.442721250Z",
+  "model": "glm-5.3"
+}

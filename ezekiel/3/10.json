@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va u menga aytdi: Odam oʻgʻli, soʻzlarimning ⟨barchasini⟩ — ⟨את⟩ senga gapiradigan barcha soʻzlarimni — yuragingda ol va quloqlaring bilan eshit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Odam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha soʻzlarimni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "gapiraman"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ol"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "yuragingda"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "va quloqlaring bilan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshit"
+    }
+  ],
+  "timestamp": "2026-08-26T05:10:00.854702594Z",
+  "model": "glm-5.3"
+}

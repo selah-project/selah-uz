@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Azarja ⟨את⟩ Serayani dunyoga keltirdi, Seraya esa ⟨את⟩ Yehotsadokni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Azarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayani"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayani"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "Seraya esa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehotsadokni"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadokni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:54:41.363155409Z",
+  "model": "glm-5.3"
+}

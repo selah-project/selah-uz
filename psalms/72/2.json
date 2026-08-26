@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "U sening xalqingni sedaqat bilan, va sening beygoralaringni mishpat bilan hukm qilsin.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "hukm qilsin"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sening xalqingni"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "sedaqat bilan"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "va sening beygoralaringni"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "mishpat bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:07.830498760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Uning Elohimining Tavroti uning yuragida ⟨bor⟩; uning qadamlari oʻgʻsamaydi.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tavroti"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "uning Elohimining"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "uning yuragida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "oʻgʻsamaydi"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "uning qadamlari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:27.453327350Z",
+  "model": "glm-5.3"
+}

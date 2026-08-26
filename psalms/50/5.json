@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Yigʻinglar menga mening sodiq dilbandlarimni, ahdimni qirqib ⟨the⟩ qonuniylarimga — qurbonlik ustidan.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "yigʻinglar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "sodiq dilbandlarimni"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "qirqib"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbonlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:21.494554744Z",
+  "model": "glm-5.3"
+}

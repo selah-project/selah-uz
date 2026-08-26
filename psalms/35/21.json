@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Ogʻizlarini menga qarshi keng ochdilar, dedilar: He-ax, he-ax, koʻzimiz koʻrdi.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "keng ochdilar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga qarshi"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ogʻizlarini"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "dedilar"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-ax"
+    },
+    {
+      "surface": "האח",
+      "gloss": "he-ax"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "koʻzimiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:56.299602492Z",
+  "model": "glm-5.3"
+}

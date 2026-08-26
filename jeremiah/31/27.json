@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Mana, kunlar kelmoqda, — Yahve ning nutqi — va Yisroel uyini va Yahuda uyini odam urugʻi va chorva urugʻi bilan ekaman.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlar"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kelmoqda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nutqi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "va ekaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisroel uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urugʻi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "va urugʻi"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "chorva"
+    }
+  ],
+  "timestamp": "2026-08-26T04:53:16.962099209Z",
+  "model": "glm-5.3"
+}

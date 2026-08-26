@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va Akish aytdi: „Bugun qayerga chopdingiz?“ Va Dovud aytdi: „Yehudaning janubiga, va Yarxameellilarning janubiga, va Keyniylarning janubiga.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "— (soʻroq belgisi sifatida)"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "chopdingizlar"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga qarshi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "janubiga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va…ga qarshi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "janubiga"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Yarxameelli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va…ga"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "janubiga"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Keyniy"
+    }
+  ],
+  "timestamp": "2026-08-26T02:58:56.642170393Z",
+  "model": "glm-5.3"
+}

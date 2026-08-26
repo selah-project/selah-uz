@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va plishti tikiladi va ⟨את⟩ Dovudni ko'radi, va uni mensimaydi, chunki u yosh edi — qizil yuzli va chiroyli ko'rinishli.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "tikiladi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "plishti"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "va ko'radi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dovudni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "va uni mensimaydi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "edi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yosh"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "qizil yuzli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "va"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "chiroyli"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ko'rinishli"
+    }
+  ],
+  "timestamp": "2026-08-26T02:52:22.720830733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Choʻridingizni Belial qizi deb hisoblamang, chunki koʻp shikoyatim va gʻazabimdan shu vaqtgacha gapirdim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "...ma-ng"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "hisoblama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "choʻridingizni"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "choʻridingizni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "koʻpligidan"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "shikoyatimning"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "va gʻazabimning"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "gapirdim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "shu vaqtga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:40:15.084922732Z",
+  "model": "glm-5.3"
+}

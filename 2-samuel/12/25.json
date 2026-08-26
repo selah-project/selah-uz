@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yahve yubordi qoʻli orqali Natan paygʻambarni, va u ⟨את⟩ uning ismini Yedidyax deb atadi, Yahve tufayli.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Va yubordi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻli orqali"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "paygʻambar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va u atadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning ismini"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning ismi"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Yedidyax"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "tufayli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T03:09:55.548142122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Seni pok yurak bilan maqtayman, sening solih hukmlaringni oʻrganganimda.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Seni maqtayman"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "pok"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "yurak"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "oʻrganganimda"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmlaringni"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sening solih"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:15.640156418Z",
+  "model": "glm-5.3"
+}

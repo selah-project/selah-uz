@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Mitsrajimni behozir oʻgʻillari bilan urgan ⟨ Zotiga⟩, chunki abadiygacha ⟨uning⟩ xesedi.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "urgan ⟨Zotiga⟩"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajimni"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "behozir oʻgʻillari bilan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiygacha"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨uning⟩ xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:29.831710140Z",
+  "model": "glm-5.3"
+}

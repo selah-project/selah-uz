@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "va uni Yaakov uchun qonun, Isroil uchun abadiy ahd qilib turdi",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "va uni turdi"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov uchun"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "qonun"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isroil uchun"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:17.598515888Z",
+  "model": "glm-5.3"
+}

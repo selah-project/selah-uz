@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va xalq Moshega qichqirdi, va Moshe Yahvega ibodat qildi, va oʻt choʻkdi.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "Va qichqirdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomonga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshening"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "va ibodat qildi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "va choʻkdi"
+    },
+    {
+      "surface": "האש",
+      "gloss": "oʻt"
+    }
+  ],
+  "timestamp": "2026-08-26T01:31:06.610183811Z",
+  "model": "glm-5.3"
+}

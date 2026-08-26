@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Endi bor, uni lavhaga yoz ⟨את⟩ va kitobga oʻyib yoz, ki u oxirgi kun uchun, abadan, abadiyozgacha boʻlsin.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Endi"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "bor"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "yoz"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "lavha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustiga"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitob"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "oʻyib yoz"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "va boʻlsin"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kun uchun"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "oxirgi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "abadan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ozgacha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T04:19:28.276858752Z",
+  "model": "glm-5.3"
+}

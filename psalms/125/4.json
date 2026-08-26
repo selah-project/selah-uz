@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 125,
+  "translation": "Yaxshilik qil, ey Yahve, yaxshilarga va qalblarida toʻgʻrilarga.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "yaxshilik qil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "yaxshilarga"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "va toʻgʻrilarga"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "qalblarida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:08.896456154Z",
+  "model": "glm-5.3"
+}

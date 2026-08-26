@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 9:39",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Ner esa ⟨את⟩ Kishni dunyoga keltirdi, Kish esa ⟨את⟩ Shaʼulni dunyoga keltirdi, Shaʼul esa ⟨את⟩ Yehonatanni, ⟨את⟩ Malki-Shuani, ⟨את⟩ Avinadavni va ⟨את⟩ Eshbaalni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "Ner esa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishni"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Kishni"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "Kish esa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaʼulni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaʼulni"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "Shaʼul esa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehonatanni"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatanni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Malki-Shuani"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shuani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Avinadavni"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadavni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Eshbaalni"
+    },
+    {
+      "surface": "אשבעל",
+      "gloss": "Eshbaalni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:56:57.214638186Z",
+  "model": "glm-5.3"
+}

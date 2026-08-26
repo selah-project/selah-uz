@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Chunki Yahve adolatni sevadi va sodiqlarini tashlab ketmaydi — ular abadiy saqlanadi, yomonlarning zurriyoti esa kesib tashlanadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevadi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "adolatni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va tashlab ketmaydi"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "tashlab ketmaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sodiqlarini"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sodiqlarini"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "saqlanadi"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "va zurriyoti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yomonlarning"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "kesib tashlanadi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:40.950406991Z",
+  "model": "glm-5.3"
+}

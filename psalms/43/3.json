@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Nuringni va sadoqatingni yubor; ular meni boshqaradi, ular meni muqaddas togʻingga va maskanlaringa olib kiradi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "yubor"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "nuringni"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "va sadoqatingni"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "meni boshqaradi"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "meni olib kiradi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "הר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "muqaddas (sening)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va -ga"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "maskanlaringa"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:50.464752525Z",
+  "model": "glm-5.3"
+}

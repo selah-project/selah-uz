@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "yorugʻlik uchun moy, moy surtish moyi uchun va xushboʻy tutatqi uchun atirlar",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "yorugʻlik uchun"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "atirlar"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "moyi uchun"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "moy surtish"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "va tutatqi uchun"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "xushboʻy"
+    }
+  ],
+  "timestamp": "2026-08-26T00:59:26.855006761Z",
+  "model": "glm-5.3"
+}

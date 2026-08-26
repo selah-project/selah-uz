@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 7:45",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va ⟨את⟩ qozonlarni, va ⟨את⟩ belkuraklarni, va ⟨את⟩ choʻquv idishlarni, va ⟨את⟩ barcha asboblarni — ⟨the⟩ uyda ki Xiram yasadi Shlomo shohga, Yahve uyida — misdan, silliq ⟨letilgan⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qozonlarni"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "qozonlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "belkuraklarni"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "belkuraklarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "choʻquv idishlarni"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "choʻquv idishlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "asboblarni"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "uyda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Xiram"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "shohga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "misdan"
+    },
+    {
+      "surface": "ממרט",
+      "gloss": "silliq"
+    }
+  ],
+  "timestamp": "2026-08-26T03:30:05.462807419Z",
+  "model": "glm-5.3"
+}

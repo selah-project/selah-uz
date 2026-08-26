@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 113,
+  "translation": "Quyosh chiqishidan botishigacha maqtulgandir Yahve nomi.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "chiqishidan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "botishigacha"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "maqtulgandir"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:35.044436020Z",
+  "model": "glm-5.3"
+}

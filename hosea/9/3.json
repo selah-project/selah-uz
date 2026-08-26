@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Ular Yahve yurtida yashamaydilar; Efrayim Misrga qaytadi va Osshurda nopok narsani yeydilar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "yashamaydilar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yurtida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "va qaytadi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrga"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "va Osshurda"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nopok"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "yeydilar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:36:56.262163995Z",
+  "model": "glm-5.3"
+}

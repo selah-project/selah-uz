@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve Elohim odamni oladi va uni Edon bogʻida ⟨את⟩ — uni ishlashi va uni saqlashi uchun — joylashtiradi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "va oladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "va uni joylashtiradi"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "bogʻida"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edon"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "uni ishlashi uchun"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "va uni saqlashi uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:46.982603138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "⟨Ular⟩ qoʻrqinchli ishlaringning qudratini aytadilar, va ⟨men⟩ ulugʻligingni hikoya qilaman",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "qudratini"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "qoʻrqinchli ishlaring"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "aytadilar"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "ulugʻligingni"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "hikoya qilaman"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:30.339400049Z",
+  "model": "glm-5.3"
+}

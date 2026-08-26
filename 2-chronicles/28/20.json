@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 28:20",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va uning ustiga keldi Tiglat-Pilneser, Ashur qiroli, va uni qiynadi, lekin uni kuchlantirmadi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Va keldi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "Tiglat"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "Pilneser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "va qiynadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin — emas"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "kuchlanti"
+    }
+  ],
+  "timestamp": "2026-08-26T08:13:53.587312936Z",
+  "model": "glm-5.3"
+}

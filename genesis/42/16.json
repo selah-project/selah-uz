@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Yuboringlar sizlardan bittani, va olsin u ⟨את⟩ birodaringizni; sizlar esa qamalgan boʻlinglar, va sinalsin soʻzlaringiz — rostlik ⟨את⟩ sizlar bilanmi; va agar yoʻq — Paroh tirik, zero josuslarsiz siz.“",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Yuboringlar"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizlardan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bittani"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "va olsin u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birodaringizni"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "birodaringiz"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "sizlar esa"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "qamalgan boʻlinglar"
+    },
+    {
+      "surface": "ויבחנu",
+      "gloss": "va sinalsin"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "soʻzlaringiz"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "rostlik"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlar bilan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tirik"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zero"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "josuslar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:19.843296565Z",
+  "model": "glm-5.3"
+}

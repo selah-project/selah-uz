@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va siz ⟨את⟩ matsalarni saqlangiz, chunki aynan shu kunda Men ⟨את⟩ qoʻshinlaringizni Misr yeridan chiqardim; va siz ⟨את⟩ bu kunni avlodlaringiz uchun abadiy farizat qilib saqlangiz.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "va siz saqlangiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsalarni"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "matsalarni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "aynan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Men chiqardim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻshinlaringizni"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "qoʻshinlaringizni"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "va siz saqlangiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu kunni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "avlodlaringiz uchun"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "farizat"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:40.584116175Z",
+  "model": "glm-5.3"
+}

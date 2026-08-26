@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Chunki togʻlar unga ⟨the⟩ hosilni keltiradi, va dalaning barcha hayvonlari u yerda oʻynashadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בול",
+      "gloss": "⟨the⟩ hosil"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "keltiradi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "חית",
+      "gloss": "hayvonlari"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dalaning"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "oʻynashadi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T07:09:44.094065245Z",
+  "model": "glm-5.3"
+}

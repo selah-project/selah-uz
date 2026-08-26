@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 148,
+  "translation": "Yigitlar, ham qizlar, moʻysafidlar va yoshlar",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "yigitlar"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "qizlar"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "moʻysafidlar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "va"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "yoshlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:18.374986857Z",
+  "model": "glm-5.3"
+}

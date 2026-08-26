@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va xalq javob berdi va aytdi: Aslo boʻlmasin bizga ⟨את⟩ Yahveni tashlab boshqa xudolarga xizmat qilish.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Va javob berdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "aslo boʻlmasin"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "tashlab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "xizmat qilish"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xudolarga"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    }
+  ],
+  "timestamp": "2026-08-26T02:24:54.179693070Z",
+  "model": "glm-5.3"
+}

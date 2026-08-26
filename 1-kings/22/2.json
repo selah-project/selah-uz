@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va uchinchi yilda Yehoshafat, Yehuda podshosi, Yisroil podshosi huzuriga tushdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "yilda"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "uchinchi"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroil"
+    }
+  ],
+  "timestamp": "2026-08-26T03:46:33.203710199Z",
+  "model": "glm-5.3"
+}

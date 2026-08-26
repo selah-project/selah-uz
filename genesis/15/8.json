@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va u dedi: Adonay Yahve, nima orqali bilayinki uni meros qilib olaman?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va u dedi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "במה",
+      "gloss": "nima orqali"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "bilayin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "uni meros qilib olaman"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:00.568533727Z",
+  "model": "glm-5.3"
+}

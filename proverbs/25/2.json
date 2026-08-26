@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Elohimning shon-sharafi — ⟨soʻzni⟩ yashirishdir, podshohlarning shon-sharafi esa — ishni tekshirishdir.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "shon-sharafi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "yashirish"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzni"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "shon-sharafi esa"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "podshohlarning"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "tekshirish"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ishni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:49:37.731013562Z",
+  "model": "glm-5.3"
+}

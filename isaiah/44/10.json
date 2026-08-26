@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Kim yasadi El va quyilgan haykalni — foyda bermasligi uchun?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "va haykal"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "quyilgan"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "masligi uchun"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "foydа bermasligi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:27:53.808663553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Ibtsan oʻldi, va Baytlaxemda dafn etildi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Va oʻldi"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsan"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "va dafn etildi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Bayt-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-laxemda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:32:05.385568441Z",
+  "model": "glm-5.3"
+}

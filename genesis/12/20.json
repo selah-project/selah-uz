@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Paroh uning haqida odamlarga buyruq berdi, va ular uni ⟨את⟩ va ⟨את⟩ uning xotinini va ⟨את⟩ uning hamma narsasini joʻnatib yubordilar.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "buyruq berdi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning haqida"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "odamlarga"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "va joʻnatib yubordilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning xotinini"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "uning xotini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hamma narsasini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsasini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:41.143675629Z",
+  "model": "glm-5.3"
+}

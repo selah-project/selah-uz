@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 21:18",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Agar bir kishining oʻgʻli qaram va isyonkor boʻlsa — otasining ovoziga va onasining ovoziga eshitmas — va ular uni tarbiyalasa ham ularga eshitmasa:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlsa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kishining"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "qaram"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "va isyonkor"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "u emas"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshtuvchi"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovoziga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasining"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "va ovoziga"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "onasining"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "va tarbiyalasa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eshitadi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:59:21.915404667Z",
+  "model": "glm-5.3"
+}

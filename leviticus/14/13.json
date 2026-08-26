@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 14:13",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va qoʻyni ⟨את⟩ soʻyish joyida — gunoh qurbonligi va olov qurbonligi soʻyiladigan muqaddas joyda — soʻyadi, chunki gunoh qurbonligi kabi ayb qurbonligi ham kohunga tegishlidir: muqaddas-muqaddaslardir u.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "va soʻyadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻyni"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "joyida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "soʻyadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunoh qurbonligini"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "gunoh qurbonligi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "olov qurbonligini"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olov qurbonligi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "joyida"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "gunoh qurbonligi kabi"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ayb qurbonligi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohunga"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "muqaddaslar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T01:15:56.508743881Z",
+  "model": "glm-5.3"
+}

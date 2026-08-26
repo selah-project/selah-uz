@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yehoshua xalqga dedi: Oʻzlaringizni muqaddas qilinglar, chunki ertaga Yahve sizlarning orangizda moʻjizakor ishlar qiladi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "oʻzlaringizni muqaddas qilinglar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ertaga"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qiladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "sizlarning orangizda"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "moʻjizakor ishlar"
+    }
+  ],
+  "timestamp": "2026-08-26T02:10:47.977723729Z",
+  "model": "glm-5.3"
+}

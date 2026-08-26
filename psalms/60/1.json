@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "Dirigaʼntga, „Shushan Edut“ ustidan, Dovudning miktami, oʻrgatish uchun.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirigaʼntga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edut"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "oʻrgatish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:08.159555648Z",
+  "model": "glm-5.3"
+}

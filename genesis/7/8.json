@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Hayvonlardan — toza ⟨את⟩ tozasidan, va hayvonlardan ki toza emas, va qushlardan, va barchasidan ki sudraladi yer ustida.<\/translation>",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvonlardan"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "tozasidan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "va —"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvonlardan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "toza"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "va —"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "qushlardan"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barchasidan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sudraladi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:03.699485711Z",
+  "model": "glm-5.3"
+}

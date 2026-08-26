@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Edomlikni yoqimsiz koʻrma, chunki u sening birodaring; Misrlikni yoqimsiz koʻrma, chunki uning yerida muhojir boʻlgansan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "yoqimsiz koʻrma"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edomlikni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sening birodaring"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "yoqimsiz koʻrma"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Misrlikni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גר",
+      "gloss": "muhojir"
+    },
+    {
+      "surface": "היית",
+      "gloss": "boʻlgansan"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "uning yerida"
+    }
+  ],
+  "timestamp": "2026-08-26T02:00:58.241133265Z",
+  "model": "glm-5.3"
+}

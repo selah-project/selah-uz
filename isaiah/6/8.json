@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Adonayning ovozini eshitdim: „⟨את⟩ kimga yuboray, va kim biz uchun boradi?“ Va men aytdim: mana men, meni yubor.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "va eshitdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozni"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytayotgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kimga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "yuboray"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "va kim"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "boradi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biz uchun"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "va aytdim"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mana men"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "meni yubor"
+    }
+  ],
+  "timestamp": "2026-08-26T04:09:26.431822150Z",
+  "model": "glm-5.3"
+}

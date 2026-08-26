@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Adonay, butun istagim oldingda turibdi, va nolam Sendan yashirilmagan.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "oldingda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "istagim"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "va nolam"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Sendan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "yashirilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:10.217230480Z",
+  "model": "glm-5.3"
+}

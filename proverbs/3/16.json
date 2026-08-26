@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Umr uzunligi uning oʻng qoʻlida, chap qoʻlida esa boylik va kavod ⟨bor⟩.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "uzunligi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlar (umr)"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "uning oʻng qoʻlida"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "uning chap qoʻlida"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "boylik"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "va kavod (ulugʻvorlik)"
+    }
+  ],
+  "timestamp": "2026-08-26T09:09:48.403100242Z",
+  "model": "glm-5.3"
+}

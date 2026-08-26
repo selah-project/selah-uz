@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Yolgʻon odamlar bilan oʻtirmadim va yashirin qiliqliklar bilan kirmayman.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "oʻtirmadim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "odamlar"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "va bilan"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "yashirin qiliqliklar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kirmayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:18.099347181Z",
+  "model": "glm-5.3"
+}

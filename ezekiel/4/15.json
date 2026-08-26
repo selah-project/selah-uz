@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 4:15",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va menga dedi: Qara, senṁga berdim ⟨את⟩ mol goʻngini odam goʻngi oʻrniga, va unda tayyorlaysan ⟨את⟩ noningni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Qara"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "berdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mol goʻngini"
+    },
+    {
+      "surface": "צפועי",
+      "gloss": "goʻngini"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "mol"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "oʻrniga"
+    },
+    {
+      "surface": "גללי",
+      "gloss": "goʻngi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "va tayyorlaysan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noningni"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "noningni"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "unda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:09:47.967411767Z",
+  "model": "glm-5.3"
+}

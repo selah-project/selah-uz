@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va derazalar — uch qator, va koʻrinish koʻrinishga qarshi, uch marta.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "Va derazalar"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uch"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "qator"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "va koʻrinish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "koʻrinishga"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uch"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "marta"
+    }
+  ],
+  "timestamp": "2026-08-26T03:30:41.253543297Z",
+  "model": "glm-5.3"
+}

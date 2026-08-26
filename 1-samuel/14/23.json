@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va Yahve o'sha kunda ⟨את⟩ Isroilni qutqardi, va jang ⟨את⟩ Beyt-Avenni o'tdi.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "Va qutqardi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "o'sha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "va jang"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "o'tdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Avenni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "און",
+      "gloss": "-Aven"
+    }
+  ],
+  "timestamp": "2026-08-26T02:50:02.844387681Z",
+  "model": "glm-5.3"
+}

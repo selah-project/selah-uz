@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 40:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va uchinchi kuni — Parohning tugʻilgan kuni — boʻldi, va u barcha qullariga ziyofat qildi, va qullari orasida ichimliklar sardori ⟨את⟩ boshini va nonvoylar sardori ⟨את⟩ boshini koʻtardi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "uchinchi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "tugʻilgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parohning"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohning"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "va u qildi"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ziyofat"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullariga"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "va koʻtardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boshini"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshini"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sardori"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ichimliklar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "boshini"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshini"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sardori"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "nonvoylar"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "orasida"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullari"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:26.029757764Z",
+  "model": "glm-5.3"
+}

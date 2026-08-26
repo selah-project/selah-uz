@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 110,
+  "translation": "Qawming — ixtiyoriy tuhmalar qudrat kunningida, muqaddas ziynatlarda; tong qornidan, bolaliging shudring senga.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "qawming"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "ixtiyoriy tuhmalari"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunningida"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "qudrat"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "ziynatlarda"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "qornidan"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "טל",
+      "gloss": "shudring"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "bolaliging"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:00.733267426Z",
+  "model": "glm-5.3"
+}

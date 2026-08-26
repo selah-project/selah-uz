@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va Yahve Moab tekisligida, Yordan boʻyida, Yerixo qarshisida Moshega gapirdi, degan maʼnoda:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "tekisligida"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻyida"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yordan"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerixo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan maʼnoda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:01.864391520Z",
+  "model": "glm-5.3"
+}

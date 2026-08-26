@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Ey, Yahve, zero men sening xizmatkoringman — men sening xizmatkoringman, choʻringning oʻgʻli; sen ochding bogʻlovlarimni.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ey"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zero"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xizmatkoringman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xizmatkoringman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "choʻringning"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "ochding"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "bogʻlovlarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:54.364382131Z",
+  "model": "glm-5.3"
+}

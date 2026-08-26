@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Paroh siñga quloq solmaydi, va qoʻyaman ⟨את⟩ qoʻlımnı Mitsrayım üstına, va chıqaraman ⟨את⟩ qoʻshınlarımnı ⟨את⟩ xalqımnı Yisroel oʻǵıllarını Mitsrayım yurtıdan katta hukmlar bilán.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Va ... yoʻq"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "quloq solmaydi"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "siñga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "va qoʻyaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻlımnı"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻlımnı"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayım ustına"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "va chıqaraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻshınlarımnı"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "qoʻshınlarımnı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqımnı"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqımnı"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻǵıllarını"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yurtıdan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayım"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "hukmlar bilán"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "katta"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:00.985506393Z",
+  "model": "glm-5.3"
+}

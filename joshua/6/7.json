@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va xalqga aytdilar: oʻtingiz va shaharni aylanib chiqingiz, va qurollan-ganlar Yahve sandigʻi oldidan oʻtadi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "aytdilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "oʻtingiz"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "va aylanib chiqingiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaharni"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharni"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "va qurollanganlar"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "oʻtadi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldidan"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandigʻi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T02:11:24.139008152Z",
+  "model": "glm-5.3"
+}

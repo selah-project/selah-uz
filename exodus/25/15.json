@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Sandiqning halqalarida yoʻyalar boʻladi — ulardan uzoqlashtirilmasin.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "halqalarida"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandiqning"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "yoʻyalar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "uzoqlashtirilmasin"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:02.557731702Z",
+  "model": "glm-5.3"
+}

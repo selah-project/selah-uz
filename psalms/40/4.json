@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va U ogʻzimga yanggi qoʻshiq qoʻydi, Elohimimizga maqtovni — koʻradilar koʻplar va qoʻrqadilar, va Yahvega ishonadilar.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Va U qoʻydi"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ogʻzimga"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yanggi"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "maqtovni"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimimizga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "koʻradilar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻplar"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "va qoʻrqadilar"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "va ishonadilar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:33.313794502Z",
+  "model": "glm-5.3"
+}

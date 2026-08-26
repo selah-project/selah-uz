@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 144,
+  "translation": "Yahve, osmonlaringni egib tushib kel, togʻlarga teginki, tutun chiqarsinlar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הט",
+      "gloss": "egib"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "osmonlaringni"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "va tushib kel"
+    },
+    {
+      "surface": "גע",
+      "gloss": "teg"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "togʻlarga"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "va ular tutun chiqarsinlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:25.265941291Z",
+  "model": "glm-5.3"
+}

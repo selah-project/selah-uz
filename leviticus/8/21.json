@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 8:21",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va ⟨את⟩ ichki aʼzolarni va ⟨את⟩ oyoqlarni suvda yuvidi, va Moshe butun qoʻchqorni ⟨את⟩ mehborda tutatdi — olovli qurbonlik ⟨u⟩, yoqimli hid uchun, olov qurbonligi ⟨u⟩ Yahve uchun, Xuddi shunday Yahve Mohega buyurganidek ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ichki aʼzolar"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ichki aʼzolar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oyoqlar"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "oyoqlar"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "yuvoʻdi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvda"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "tutatdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun qoʻchqor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qoʻchqor"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mehborda"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olovli qurbonlik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨u⟩"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "hid uchun"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "yoqimli"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "olov qurbonligi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨u⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xuddi shunday"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurganidek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T01:14:20.916945138Z",
+  "model": "glm-5.3"
+}

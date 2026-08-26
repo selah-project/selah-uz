@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 35:16",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va agar temir asbob bilan urgansa uni va oʻlsa — qotildir u; oʻlgudek oʻldiriladi qotil.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "asbob bilan"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "temir"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "urgan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "va oʻlsa"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "qotil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlgudek"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldiriladi"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "qotil"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:23.180371889Z",
+  "model": "glm-5.3"
+}

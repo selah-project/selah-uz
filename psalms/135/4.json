@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Chunki Yah Yoqubni oʻzi uchun tanladi, Isroilni oʻz mulk-treasuryasi uchun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yoqub"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "tanladi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "oʻzi uchun"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "oʻz mulk-treasuryasi uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:54.682918348Z",
+  "model": "glm-5.3"
+}

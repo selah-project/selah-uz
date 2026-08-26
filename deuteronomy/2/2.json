@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve menga shunday dedi:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "shunday (deb)"
+    }
+  ],
+  "timestamp": "2026-08-26T01:47:36.866201170Z",
+  "model": "glm-5.3"
+}

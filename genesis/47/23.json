@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 47,
+  "translation": "Yosef xalqga dedi: mana, men bugun sizlarni va ⟨את⟩ sizlarning yeringizni Paroh uchun sotib oldim; hoy, sizlarga urugʻ — va dalhani ⟨את⟩ ekasizlar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "sotib oldim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yeringizni"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "sizlarning yeringiz"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Paroh uchun"
+    },
+    {
+      "surface": "הא",
+      "gloss": "hoy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urugʻ"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "va ekasizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalhani"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "dala"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:26.564665282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Yuzingni yashirsang — ular dahshatga tushadilar, ruhlarni olsang — ular jon beradilar va changiga qaytadilar.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "yashirsang"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "dahshatga tushadilar"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "olsang"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "ruhlarni"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "jon beradilar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "changiga"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "qaytadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:27.034004068Z",
+  "model": "glm-5.3"
+}

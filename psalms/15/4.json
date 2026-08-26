@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Koʻzida mensiz oʻzgalar rad etilgan, Yahveʼdan qoʻrqqanlarni esa ulugʻlaydi; zarariga qasam ichgan va uni buzmaydi.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "mensiz"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "koʻzida"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "rad etilgan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveʼdan qoʻrqqanlarni"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "qoʻrqqanlarni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ulugʻlaydi"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "qasam ichgan"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "zarariga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "buzmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:29.460783578Z",
+  "model": "glm-5.3"
+}

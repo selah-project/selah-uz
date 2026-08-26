@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Yer laraga tushdi, osmonlar ham tomchi-tomchi yogʻdi Elohim yuzidan — bu Sinay ⟨⟨shu⟩⟩ Sinay ⟨edilar⟩ Elohim yuzidan, Isroilning Elohimining yuzidan.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Yer"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "laraga tushdi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ham"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "tomchi-tomchi yogʻdi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:31.965975740Z",
+  "model": "glm-5.3"
+}

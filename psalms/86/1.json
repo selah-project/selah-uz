@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Iltijo. Dovudga. Yahve, qulogʻingni ⟨unga⟩ egn, menjavob ber, chunki men qashshoq va muhtojman.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "iltijo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "egn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "qulogʻingni"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "menjavob ber"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "qashshoq"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "va muhtoj"
+    },
+    {
+      "surface": "אני",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:38.141763118Z",
+  "model": "glm-5.3"
+}

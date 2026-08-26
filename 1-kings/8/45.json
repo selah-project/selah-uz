@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "u sen osmonda ⟨את⟩ ularning duolarini va ⟨את⟩ ularning yolvorishlarini eshitib, ularning hukmini qilursan.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "u eshitib"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning duolarini"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "duolari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ularning yolvorishlarini"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "yolvorishlari"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "va qilursan"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "hukmlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T03:33:44.353406319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 58,
+  "translation": "Yovlar ona qornidan begonalashdilar; kindik ichidan adashdilar, yolgʻon gapiruvchilar.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "begonalashdilar"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlar"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ona qornidan"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "adashdilar"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kindik ichidan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gapiruvchilar"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yolgʻon"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:06.353352200Z",
+  "model": "glm-5.3"
+}

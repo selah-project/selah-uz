@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Olti yil dalangizni ekasan, va olti yil uzumzoringizni budaysan, va ⟨את⟩ unini yigʻib olasan.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "olti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ekasan"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "dalangizni"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "va olti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "budaysan"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "uzumzoringizni"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "va yigʻib olasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unini (uning mahsulotini)"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "unini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:42.431992805Z",
+  "model": "glm-5.3"
+}

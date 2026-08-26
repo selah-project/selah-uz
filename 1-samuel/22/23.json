@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Mening yonimda tur, qoʻrqma; chunki mening jonimni qidirayotgan kishi sening joningni ham qidiradi; chunki sen mening yonimda saqlanuvdasan.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "tur"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ yonimda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qoʻrqma"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qoʻrqma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "qidirayotgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jonimni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "qidiradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "joningni"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "joningni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "saqlanuvdasan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yonimda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:54:49.164140916Z",
+  "model": "glm-5.3"
+}

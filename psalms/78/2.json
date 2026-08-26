@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Ogʻzimni masal bilan ochaman, qadimgi tongʻlar toʻgʻrisidagi topishmoqlarni oqizaman.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "ochaman"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "masal bilan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Ogʻzimni"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "oqizaman"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "topishmoqlarni"
+    },
+    {
+      "surface": "מני",
+      "gloss": "toʻgʻrisidagi"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "qadimgi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:25.806829815Z",
+  "model": "glm-5.3"
+}

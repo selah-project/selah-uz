@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Yoʻq, qilmaslar kal boshlarida — kallik, va soqollari peshtoqini yoʻq, qirmaslar, va tanalarida yoʻq, kesmaslar — kesma.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "qilmaslar"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kal"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "boshlarida"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "va peshtoqi"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "soqollari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "qirmaslar"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "va tanalarida"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "kesmaslar"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "kesma"
+    }
+  ],
+  "timestamp": "2026-08-26T08:22:19.944614282Z",
+  "model": "glm-5.3"
+}

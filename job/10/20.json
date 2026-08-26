@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Kunlarim oz emasmi? Toʻxtat, ⟨meni⟩ ⟨qoʻyib⟩ yubor, biroz yorugʻlanay.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "emasmi"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "oz"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlarim"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "toʻxtat"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "qoʻyib yubor"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "meni"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "va yorugʻlanay"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "biroz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:56:53.010474515Z",
+  "model": "glm-5.3"
+}

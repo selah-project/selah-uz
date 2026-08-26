@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 42:25",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "U uning ustiga gʻazabini, burun-angini va urush qudratini toʻkdi; va u uni atrofdan yondirdi — u bilmadi; va u uning ichida yonmoqda — u buni yuragiga qoʻymadi.",
+  "tokens": [
+    {
+      "surface": "וישפך",
+      "gloss": "toʻkdi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "gʻazab"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "burun-angi"
+    },
+    {
+      "surface": "ועזוז",
+      "gloss": "va qudrat"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "urush"
+    },
+    {
+      "surface": "ותלהטהו",
+      "gloss": "va yondirdi uni"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "atrofdan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmadi"
+    },
+    {
+      "surface": "ותבער",
+      "gloss": "va yonmoqda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "qoʻymadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurak"
+    }
+  ],
+  "timestamp": "2026-08-26T04:24:59.508011072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va bugun oʻzingizning oldingizga qoʻyayotgan barcha farzlar va hukmlarni bajarishga eʼtiborli boʻlasizlar.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "eʼtiborli boʻlasizlar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bajarishga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha farzlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "farzlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hukmlarni"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukmlarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoʻyayotgan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "oldingizga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:52:49.660164634Z",
+  "model": "glm-5.3"
+}

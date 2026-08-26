@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 5:21",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Vay oʻz koʻzlari-da donishmandlarga, va oʻz yuzlari oldida aqllilarga!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "vay"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "donishmandlarga"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "oʻz koʻzlari-da"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "va … oldida"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "oʻz yuzlari"
+    },
+    {
+      "surface": "נבנים",
+      "gloss": "aqllilarga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:08:44.015461568Z",
+  "model": "glm-5.3"
+}

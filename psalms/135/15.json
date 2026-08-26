@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Xalqlarning butlari — kumush va oltin, odam qoʻllarining ishi.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "butlari"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlarning"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "va oltin"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ishi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻllarining"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:01.417029124Z",
+  "model": "glm-5.3"
+}

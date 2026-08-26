@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 22:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Meni koʻp buqalar oʻrab oldilar, Bashanning kuchli buqalari meni qurshab olilar.",
+  "tokens": [
+    {
+      "surface": "סבבוני",
+      "gloss": "oʻrab oldilar"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "buqalar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "kuchli"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashanning"
+    },
+    {
+      "surface": "כתרוני",
+      "gloss": "qurshab oldilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:47.198181569Z",
+  "model": "glm-5.3"
+}

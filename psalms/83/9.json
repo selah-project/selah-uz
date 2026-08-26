@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Ashshur ham ularga qoʻshildi, Lut oʻgʻillariga qoʻl boʻldilar. Sela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "qoʻshildi"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "היו",
+      "gloss": "boʻldilar"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:09.392738263Z",
+  "model": "glm-5.3"
+}

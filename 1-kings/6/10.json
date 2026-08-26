@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va u butun uy ustiga yon qavatli inshootni qurdi — balandligi besh tirsak; va u ⟨את⟩ uyni sadr yogʻochlari bilan ushlab turdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Va u qurdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yon qavatli inshootni"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "yon qavatli inshootni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "besh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "balandligi"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "va ushlab turdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyni"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uyni"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "yogʻochlari bilan"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sadr"
+    }
+  ],
+  "timestamp": "2026-08-26T03:28:32.837934231Z",
+  "model": "glm-5.3"
+}

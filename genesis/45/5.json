@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 45:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Va endi qaygʻurmangiz va koʻzlaringizda gʻazablanmangiz, chunki meni ⟨את⟩ shu yerga sotdingiz, chunki tirik qolish uchun Elohim meni sizlardan oldin yubordi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Va endi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…mangiz"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "qaygʻuringiz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …mangiz"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "gʻazablansin"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "koʻzlaringizda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "sotdingiz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "shu yerga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "למחיה",
+      "gloss": "tirik qolish uchun"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "meni yubordi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sizlardan oldin"
+    }
+  ],
+  "timestamp": "2026-08-26T00:47:21.110985590Z",
+  "model": "glm-5.3"
+}

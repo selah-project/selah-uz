@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Yahve ovozi dishorni tugʻruqturadi va oʻrmonlarni yalangochlaydi; va Uning ibodatxonasida hammasi: „Shon-sharaf!“ deydi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ovozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "tugʻruqturadi"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "dishor"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "va yalangochlaydi"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "oʻrmonlar"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "va Uning ibodatxonasida"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Shon-sharaf"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:32.504108581Z",
+  "model": "glm-5.3"
+}

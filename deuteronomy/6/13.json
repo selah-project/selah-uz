@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Yahve, Elohimingdan qoʻrqishing kerak va ⟨את⟩ Unga xizmat qilishing, va Uning Ismi bilan qasam ichishing.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve, Elohimingdan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimingdan"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qoʻrqishing kerak"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "va ⟨את⟩ Unga",
+      "marks": "Unga (xizmat qilishing)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "xizmat qilishing"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "va Uning Ismi bilan"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "qasam ichishing"
+    }
+  ],
+  "timestamp": "2026-08-26T01:49:19.929425458Z",
+  "model": "glm-5.3"
+}

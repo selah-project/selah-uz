@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Ehtiyot boʻl, oʻgʻlim, otangning buyrugʻiga, va onangning Tavrotini tashlama.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Ehtiyot boʻl"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻlim"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyrugʻiga"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otangning"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va … -ma"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "tashla"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tavrotini"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "onangning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:41:16.505054715Z",
+  "model": "glm-5.3"
+}

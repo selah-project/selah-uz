@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Oʻsha paytda Bobil shohi Nevuxadnessarning xizmatkorlari Yerushalaimga koʻtarilib kelishdi, va shahar qamalga kirdi.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "oʻsha paytda"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "koʻtarilib kelishdi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmatkorlari"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevuxadnessar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bobil"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "va kirdi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "qamalga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:05:33.719305230Z",
+  "model": "glm-5.3"
+}

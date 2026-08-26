@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Ular Yahve haqida yolg'on so'yladilar va dedilar: «U emas; yomonlik bizning ustimizga kelmaydi; qilich va ochlikni ko'rmaymiz».",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "yolg'on so'yladilar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve haqida"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... maydi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kelmaydi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizning ustimizga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlik"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "va ochlikni"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "...maymiz"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ko'rmay"
+    }
+  ],
+  "timestamp": "2026-08-26T04:39:38.367863845Z",
+  "model": "glm-5.3"
+}

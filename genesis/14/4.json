@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Oʻn ikki yil Kedorlaomerga xizmat qildilar ⟨את⟩, oʻn uchinchi yilda esa qoʻzgʻolondilar.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xizmat qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedorlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomerga"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "va uchinchi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yilda"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "qoʻzgʻolondilar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:47.570573222Z",
+  "model": "glm-5.3"
+}

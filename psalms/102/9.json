@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Kun boʻyi dushmanlarim meni haqorat qildilar, meni ila telbalik qilganim qasam ichdilar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "haqorat qildilar meni"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "telbalik qilganim"
+    },
+    {
+      "surface": "בי",
+      "gloss": "meni ila"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "qasam ichdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:23.193543679Z",
+  "model": "glm-5.3"
+}

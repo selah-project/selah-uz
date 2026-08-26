@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va Bilam ertalab turdi va ⟨את⟩ eshagini egarladi va Moab sardorlari bilan yurdi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ertalab"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "egarladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eshagini"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "eshagini"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yurdi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sardorlari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-08-26T01:37:39.708271678Z",
+  "model": "glm-5.3"
+}

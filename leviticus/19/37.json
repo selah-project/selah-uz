@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va ⟨את⟩ barcha farmonlarimga va ⟨את⟩ barcha hukmlarimga rioya qilasizlar va ⟨את⟩ ularni bajarasizlar; Men Yahveman.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "rioya qilasizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha farmonlarimga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "farmonlarimga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha hukmlarimga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmlarimga"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "bajarasizlar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:05.835306319Z",
+  "model": "glm-5.3"
+}

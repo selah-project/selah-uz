@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Hoʻkiz egasini biladi, va eshak xoʻjayinining oxurini; Isroil bilmas, xalqim tushunmas.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "hoʻkiz"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "egasini"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "va eshak"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "oxurini"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "xoʻjayinining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "tushunadi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:05:31.953752488Z",
+  "model": "glm-5.3"
+}

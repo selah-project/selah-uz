@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va ayol ⟨את⟩ Shemuʼelni koʻrdi va baland ovoz bilan qichqirdi; va ayol Shaʼulga aytab dedi: Nega meni aldading — va sen ⟨emasmisan⟩ Shaʼul?",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Va koʻrdi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuʼelni"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuʼelni"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "va qichqirdi"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovoz bilan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "baland"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaʼul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aytab"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "meni aldading"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "va sen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaʼul"
+    }
+  ],
+  "timestamp": "2026-08-26T02:59:56.409243578Z",
+  "model": "glm-5.3"
+}

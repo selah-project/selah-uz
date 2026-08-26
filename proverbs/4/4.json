@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 4:4",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va u menga oʻrgatdi va menga aytdi: ushlab tur soʻzlarimni yuraging — saqla buyruqlarimni va yasha.",
+  "tokens": [
+    {
+      "surface": "וירני",
+      "gloss": "Va u menga oʻrgatdi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "ushlab tur"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarimni"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "yuraging"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saqla"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "buyruqlarimni"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "va yasha"
+    }
+  ],
+  "timestamp": "2026-08-26T06:39:52.067383672Z",
+  "model": "glm-5.3"
+}

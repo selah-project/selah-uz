@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va u ularga ⟨את⟩ shahar kirish yoʻlini koʻrsatdi; ular shaharni qilich ogʻzi bilan urdilar, ⟨את⟩ odamni va ⟨את⟩ butun oilasini esa joʻnatib yubordilar.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "koʻrsatdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shahar kirish yoʻli"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "kirish yoʻli"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "urdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shahar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharni"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ogʻzi bilan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "odam"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun oilasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "oilasini"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "joʻnatib yubordilar"
+    }
+  ],
+  "timestamp": "2026-08-26T02:24:45.077429468Z",
+  "model": "glm-5.3"
+}

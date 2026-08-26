@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 143,
+  "translation": "Tez javob ber menga, Yahve! Ruhim tugamokda, yuzingni mendan yashirma, boʻlmasam chuqurga tushuvchilarga oʻxshab ketaman.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "tez"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "javob ber menga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "tugamokda"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "yashirma"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "menda(n)"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "oʻxshab ketaman"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…bilan"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "tushuvchilarga"
+    },
+    {
+      "surface": "בור",
+      "gloss": "chuqur(ega)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:40.992485383Z",
+  "model": "glm-5.3"
+}

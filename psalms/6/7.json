@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Nolishimdan tolmishman, butun tun bilan toʻshagimni suviturman, koʻz yoshlarim bilan toʻshagini eritaman.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "tolmishman"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "nolishimdan"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "suviturman"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tun"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "toʻshagimni"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "koʻz yoshlarim bilan"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "toʻshagini"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "eritaman"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:35.829650789Z",
+  "model": "glm-5.3"
+}

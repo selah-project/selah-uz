@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Yokshon ⟨את⟩ Sheva va ⟨את⟩ Dedonni dunyoga keltirdi; va Dedonning o‘g‘illari ⟨edo⟩ Ashurim, Letushim va Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Va Yokshon"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dedon"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedon"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "va ... o‘g‘illari"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedonning"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨edo⟩"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "Leummim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:36.488205803Z",
+  "model": "glm-5.3"
+}

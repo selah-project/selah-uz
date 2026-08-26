@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Baning xizmatkori Yaakov va tanlangan Yisroel tufayli — sen senga isming bilan chaqirdim, senga nom berdim, garchi sen Meni bilmasding.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "tufayli"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmatkori"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "va Yisroel"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "tanlangan"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "chaqirdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "isming bilan"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "senga nom berdim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garchi yoʻq"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "sen Meni bilmasding"
+    }
+  ],
+  "timestamp": "2026-08-26T04:29:25.369638408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va yoshlar charchaydi va toliqadi, va yigitlar butunlay qaqshab yiqiladi.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "va charchaydi"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "yoshlar"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "va toliqadi"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "va yigitlar"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "butunlay"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "qaqshab yiqiladi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:35:57.152073988Z",
+  "model": "glm-5.3"
+}

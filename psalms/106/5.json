@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Tanlanganlaringning yaxshiligini koʻrish, xalqingning quvonchida xursand boʻlish, merosing bilan birga maqtanish ⟨uchun⟩.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "koʻrish"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "yaxshiligini"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "tanlanganlaringning"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "xursand boʻlish"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "quvonchida"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "xalqingning"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "maqtanish"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan birga"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "merosing"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:55.728868087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 64,
+  "translation": "Eshit, Elohim, ovozimni shikoyatimda; dushman qoʻrqinchidan hayotimni saqla",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Eshit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ovozimni"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "shikoyatimda"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "qoʻrqinchidan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dushman"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "saqla"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hayotimni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:19.999006816Z",
+  "model": "glm-5.3"
+}

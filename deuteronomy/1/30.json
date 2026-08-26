@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Yahve, Elohimlaringiz — sizning oldingizda yuruvchi U — siz uchun jang qiladi, sizning koʻzlaringiz oldida Mitzrayimda siz ⟨את⟩ bilan qilgan hamma narsasidek.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimlaringiz"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yuruvchi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sizning oldingizda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "jang qiladi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "siz uchun"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hamma ...dek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bilan siz",
+      "marks": "siz"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitzrayimda"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "sizning koʻzlaringiz oldida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:47:12.553989845Z",
+  "model": "glm-5.3"
+}

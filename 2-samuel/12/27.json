@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yoav elchilar yubordi Dovud huzuriga va dedi: men jang qildim Rabbada, ham egalladim men ⟨את⟩ suvlar shahrini.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Va yubordi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elchilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "men jang qildim"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "Rabbada"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "egalladim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suvlar shahrini"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:09:55.548599778Z",
+  "model": "glm-5.3"
+}

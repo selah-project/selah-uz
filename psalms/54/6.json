@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 54,
+  "translation": "Mana, Elohim menga yordam beruvchidir; Adonay jonimni suvlovchilarning ⟨tomasidadir⟩.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yordam beruvchidir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "suvlovchilarning ⟨tomasidadir⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:53.430646606Z",
+  "model": "glm-5.3"
+}

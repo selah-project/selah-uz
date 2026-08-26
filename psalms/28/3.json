@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Menga yomonlar bilan birga tortma, avon qiluvchilar bilan birga — oʻz yaqinlari bilan tinchlik gapiruvchilar, yoki ularning yuragida yomonlik bor.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "tortma"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yomonlar"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "va bilan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "qiluvchilar"
+    },
+    {
+      "surface": "און",
+      "gloss": "avon"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "gapiruvchilar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "oʻz yaqinlari"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "yoki yomonlik"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ularning yuragida"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:08.570545031Z",
+  "model": "glm-5.3"
+}

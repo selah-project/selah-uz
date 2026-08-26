@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Chunki olov bilan Yahve hukm chiqaradi va oʻz qilichi bilan ⟨את⟩ barcha goʻshtni, va Yahvening oʻldirilganlari koʻpayajak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olov bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "hukm chiqaradi"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "va oʻz qilichi bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha goʻshtni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goʻshtni"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "va koʻpayajak"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "oʻldirilganlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    }
+  ],
+  "timestamp": "2026-08-26T04:37:12.786768089Z",
+  "model": "glm-5.3"
+}

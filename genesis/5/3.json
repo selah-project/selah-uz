@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Adam oʻttiz va yuz yil yashadi va oʻz oʻxshatiligida, oʻz suratidek farzand koʻrdi va uning nomini — Shet — deb chaqirdi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "va yashadi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "oʻttiz"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "va yuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "va farzand koʻrdi"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "oʻz oʻxshatiligida"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "oʻz suratidek"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning nomini"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning nomini"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:37.291752544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 79,
+  "translation": "Qoʻshnilrimizga badaliga — ularning koʻkragiga yetti barobar — ularning haqoratini qaytar, ularda senga haqorat qilganlari uchun, ey Adonay.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "qaytar"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "qoʻshnilrimizga"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "yetti barobar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "ularning koʻkragiga"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "ulaning haqoratini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "senga haqorat qilganlari"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:10.088224534Z",
+  "model": "glm-5.3"
+}

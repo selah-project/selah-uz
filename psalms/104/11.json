@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Ular dalaning barcha jonivorlariga suv beradi, yoviy qoyoqlar chanqogʻini bosadilar.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "suv beradi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "jonivorlari"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "dala"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "bosadilar"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "yoviy qoyoqlar"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "chanqogʻini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:47.709504675Z",
+  "model": "glm-5.3"
+}

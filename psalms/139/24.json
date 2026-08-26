@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Va koʻr — agar ogʻriqli yoʻl bordir menda, va meni yoʻqolmas yoʻlda boshla.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "va koʻr"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ogʻriqli (buutga oid)"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menda"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "va meni boshla"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yoʻqolmas (abadiy)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:53.960755912Z",
+  "model": "glm-5.3"
+}

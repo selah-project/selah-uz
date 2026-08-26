@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Bugun siz chiqmoqdasiz, Abiv oyida.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Bugun"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "chiqmoqdasiz"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "oyida"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abiv"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:23.426375845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 1:3",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Agar uning qurbonligi yoqilgan qurbonlik boʻlsa molnasldan — erkak, nosozsiz — uni yaqinlashtirsin; uchrashuv chodiri ochilgohiga uni yaqinlashtirsin, maqbul boʻlishi uchun Yahve huzurida:",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yoqilgan qurbonlik"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "uning qurbonligi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—dan"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "molnasl"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nosozsiz"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "uni yaqinlashtirsin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ochilgoh"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "yaqinlashtirsin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "לרצנו",
+      "gloss": "maqbul boʻlishi uchun"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:29.027557300Z",
+  "model": "glm-5.3"
+}

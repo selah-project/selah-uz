@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Eslab qol, Yahve, bizga nima boʻldi; qarab koʻr ⟨את⟩ bizning xorligimizni.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Eslab qol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "qarab"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "va koʻr"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bizning xorligimizni"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "xorligimiz"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:36.646992065Z",
+  "model": "glm-5.3"
+}

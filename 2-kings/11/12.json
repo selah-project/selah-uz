@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va ⟨u⟩ shohning oʻgʻlini olib chiqdi va uning ustiga ⟨את⟩ toj va ⟨את⟩ guvohlikni qoʻydi, va uni shoh qildilar va uni moyladilar, va kaft urdilar va aytdilar: „Yashasin shoh!“",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "va olib chiqdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shohning oʻgʻlini"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shohning"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toj"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "toj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "guvohlikni"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "guvohlikni"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "va shoh qildilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "va moyladilar uni"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "va urdilar"
+    },
+    {
+      "surface": "כף",
+      "gloss": "kaft"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va aytdilar"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "yashasin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    }
+  ],
+  "timestamp": "2026-08-26T03:55:47.233030951Z",
+  "model": "glm-5.3"
+}

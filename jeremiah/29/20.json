@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va sizlar, eshiting Yahve soʻzini, ey butun surgun, kiki Men yuborganman ⟨sizlarni⟩ Yerushalaimdan Bobilga.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Va sizlar"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshiting"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "surgun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kiki"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "yuborganman"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "Yerushalaimdan"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "Bobilga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:55:03.338391391Z",
+  "model": "glm-5.3"
+}

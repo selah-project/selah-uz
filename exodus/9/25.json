@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va doʻl butun Mitsrajim yerida ⟨את⟩ dalada boʻlgan hamma narsani — oddan hayvongacha — urdi; va doʻl ⟨את⟩ dalaning barcha oʻtlarini urdi va ⟨את⟩ dalaning barcha daraxtlarini sindirdi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "doʻl"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamma narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsani"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dalada"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "oddan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hayvongacha"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayvon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "dalaning barcha oʻtlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "oʻtlarini"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dalaning"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "doʻl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "dalaning barcha daraxtlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "daraxtlarini"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dalaning"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sindirdi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:16.410062724Z",
+  "model": "glm-5.3"
+}

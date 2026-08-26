@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 31:16",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Shunday deydi Yahve: Ovozingni yigʻidan tiy, koʻzlaringni esa yoshdan, chunki amalingning mukofoti bor, — Yahve bayonoti; va ular dushman yeridan qaytib keladi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מנעי",
+      "gloss": "tiy"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ovozingni"
+    },
+    {
+      "surface": "מבכי",
+      "gloss": "yigʻidan"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "va koʻzlaringni"
+    },
+    {
+      "surface": "מדמעה",
+      "gloss": "yoshdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mukofoti"
+    },
+    {
+      "surface": "לפעלתך",
+      "gloss": "amalingning"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "bayonoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "va ular qaytib keladi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dushman"
+    }
+  ],
+  "timestamp": "2026-08-26T04:54:41.451147922Z",
+  "model": "glm-5.3"
+}

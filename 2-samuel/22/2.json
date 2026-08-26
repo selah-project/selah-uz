@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va u aytdi: Yahve — mening qoyam, va mening qalʼam, va mening qutqaruvchim ⟨meniki⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "mening qoyam"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "va mening qalʼam"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "va mening qutqaruvchim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨meniki⟩ menga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:18:52.490185064Z",
+  "model": "glm-5.3"
+}

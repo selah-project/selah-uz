@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 133,
+  "translation": "Marosim qoʻshigʻi, Dovudnikidir. Qarang, qanchalik yaxshi va qanchalik yoqimli — aka-ukalarning birga yashashi!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshigʻi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "marosim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudnikidir"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qarang"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qanchalik"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "va qanchalik"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "yoqimli"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "yashashi"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "aka-ukalarning"
+    },
+    {
+      "surface": "גם",
+      "gloss": "birga"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:56.117055700Z",
+  "model": "glm-5.3"
+}

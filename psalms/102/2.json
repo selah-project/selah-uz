@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "U aytdi: ⟨את⟩ tuynukdagi ovozni eshitdim, va ⟨את⟩ sen bogʻdagi daraxtlar orasida yalangʻoch ekaningni koʻrdim, va qoʻrqdim, shuning uchun yashirindim.",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֛אמֶר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אֶת־",
+      "gloss": "⟨את⟩",
+      "marks": "tuynukdagi ovozni"
+    },
+    {
+      "surface": "קֹלְךָ֥",
+      "gloss": "ovozingni"
+    },
+    {
+      "surface": "בַּגָּ֖ן",
+      "gloss": "bogʻda"
+    },
+    {
+      "surface": "שָׁמַ֑עְתִּי",
+      "gloss": "eshitdim"
+    },
+    {
+      "surface": "וָאִירָ֗א",
+      "gloss": "va qoʻrqdim"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עֵירֹ֥ם",
+      "gloss": "yalangʻoch"
+    },
+    {
+      "surface": "אָנֹ֑כִי",
+      "gloss": "men"
+    },
+    {
+      "surface": "וָֽאֵחָבֵֽה",
+      "gloss": "va yashirindim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:44.154436367Z",
+  "model": "glm-5.3"
+}

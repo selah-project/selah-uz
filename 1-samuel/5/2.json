@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Pelishtiyliklar Elohim sandigʻini ⟨את⟩ oldilar va uni Dagonning uyiga ⟨את⟩ keltirib, uni Dagonning yoniga ⟨את⟩ qoʻyishdi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "oldilar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyliklar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim sandigʻini"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandigʻini"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "va … keltirib"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (Dagonning uyiga)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagonning"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "va … qoʻyishdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (Dagonning yoniga)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "yoniga"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagonning"
+    }
+  ],
+  "timestamp": "2026-08-26T02:43:00.649112655Z",
+  "model": "glm-5.3"
+}

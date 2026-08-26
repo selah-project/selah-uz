@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Meni yoʻq qilmoqchi boʻlib yovlar kutilishdi, Sening guvohliklaringni esa mulohaza qilaman.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "kutilishdi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlar"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "yoʻq qilmoqchi boʻlib"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Sening guvohliklaringni"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "mulohaza qilaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:32.910175201Z",
+  "model": "glm-5.3"
+}

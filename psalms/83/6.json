@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Chunki ular yurakda birgalikda maslahat qurishdi, Senga qarshi ahd kesishdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "maslahat qurishdi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurakda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birgalikda"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Senga qarshi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "kesishdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:58.427834228Z",
+  "model": "glm-5.3"
+}

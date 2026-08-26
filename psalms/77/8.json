@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Adonay ⟨mi⟩ abadiy tashlab yuboradi, va yana mamnun boʻlishni qoʻshmaydi?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "⟨mi⟩ abadiy"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "tashlab yuboradi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "qoʻshmaydi"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "mamnun boʻlishni"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:47.544612285Z",
+  "model": "glm-5.3"
+}

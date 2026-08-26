@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Elpaalning oʻgʻillari: Ever va Misham va Shamed — u qurdi ⟨את⟩ Ononi va ⟨את⟩ Lodni va uning qishloqlarini.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "va ... oʻgʻillari"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "va Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "va Shamed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "qurdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "va uning qishloqlari"
+    }
+  ],
+  "timestamp": "2026-08-26T07:56:12.085750499Z",
+  "model": "glm-5.3"
+}

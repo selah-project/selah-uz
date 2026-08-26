@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Isroilning magʻrurligi uning yuziga javob berdi, va ular Yahve, oʻzlarining Elohimlari oldiga qaytmadilar va uni barcha shunda ham izlamadilar.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "magʻrurligi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "uning yuziga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "qaytmadilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "oʻzlarining Elohimlari"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "uni izlamadilar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "shunda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:36:29.146853490Z",
+  "model": "glm-5.3"
+}

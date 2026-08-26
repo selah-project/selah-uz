@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va oʻzing qoʻyginasan ⟨את⟩ butun-yoniq qurbongohni uchrashuv chemasining — chodirining kirish oldiga.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "va qoʻyginasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun-yoniq qurbongohni"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "butun-yoniq"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kirish"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "chema"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:04.683091434Z",
+  "model": "glm-5.3"
+}

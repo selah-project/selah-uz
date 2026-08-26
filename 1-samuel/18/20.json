@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Mikal, Shaulning qizi, Dovudni ⟨את⟩ sevdigan; va Shaulga xabar berishdi, va soʻz uning koʻzlarida toʻgʻri koʻrindi.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "sevdigan"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dovud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "xabar berishdi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaulga"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "toʻgʻri koʻrindi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "uning koʻzlarida"
+    }
+  ],
+  "timestamp": "2026-08-26T08:28:50.763342555Z",
+  "model": "glm-5.3"
+}

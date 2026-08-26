@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Qidirish vaqti, va yoʻqotish vaqti; saqlash vaqti, va tashlab yuborish vaqti.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaqti"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "qidirish"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va — vaqti"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "yoʻqotish"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqti"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "saqlash"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va — vaqti"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "tashlab yuborish"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:14.469537549Z",
+  "model": "glm-5.3"
+}

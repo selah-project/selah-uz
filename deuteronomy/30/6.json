@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va Yahve, Eloheingiz, ⟨את⟩ qalbingizni va ⟨את⟩ urugʻingizning qalbini sunnat qiladi — Yahve, Eloheingizni butun qalbingiz bilan va butun nefeshingiz bilan sevishingiz uchun, — hayotingiz uchun.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "va sunnat qiladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloheingiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbingizni"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbingizni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "urugʻingizning qalbini"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbini"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "urugʻingizning"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "sevishingiz uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve, Eloheingizni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloheingiz"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun ... bilan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbingiz"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va butun ... bilan"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshingiz"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "hayotingiz"
+    }
+  ],
+  "timestamp": "2026-08-26T02:05:02.417174673Z",
+  "model": "glm-5.3"
+}

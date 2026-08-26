@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 131,
+  "translation": "Umid qilsin Isroil Yahvega — hozirdan va abadigacha.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "umid qilsin"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "hozirdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ...gacha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadigacha"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:31.794837657Z",
+  "model": "glm-5.3"
+}

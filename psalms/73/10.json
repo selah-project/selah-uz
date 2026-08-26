@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Shuning uchun ⟨uning⟩ xalqi bu tomonga qaytadi va toʻla kosa suvlari ulardan siqib chiqariladi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "qaytadi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uning xalqi"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "bu tomonga"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "va suvlari"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "toʻla"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "siqib chiqariladi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ulardan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:40.481174101Z",
+  "model": "glm-5.3"
+}

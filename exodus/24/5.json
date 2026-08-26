@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va u ⟨את⟩ Isroil oʻgʻillarining yigitlarini yubordi, va ular butun yoqilgan qurbonliklarni koʻtarib keltirdilar, va Yahve uchun tinchlik qurbonliklarini — buzoqlarni soʻydilar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "va u yubordi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil oʻgʻillarining yigitlarini"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "yigitlarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "va ular koʻtarib keltirdilar"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "butun yoqilgan qurbonliklarni"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "va soʻydilar"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "qurbonliklarini"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "buzoqlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:13.819264931Z",
+  "model": "glm-5.3"
+}

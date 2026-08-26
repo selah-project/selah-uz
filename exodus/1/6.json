@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yusuf oʻldi, va barcha aka-ukalari, va oʻsha butun avlod.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Va oʻldi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "aka-ukalari"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:16.306293050Z",
+  "model": "glm-5.3"
+}

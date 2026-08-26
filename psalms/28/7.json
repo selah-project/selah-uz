@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Yahve — quvvatim va qalqonim; Unga qalbim suyanadi va men yordamlandim, shuning uchun qalbim quvonadi va qoʻshigʻim bilan Unga shukrona aytaman.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "quvvatim"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "va qalqonim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "suyanadi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbim"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "va men yordamlandim"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "quvonadi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbim"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "va qoʻshigʻim bilan"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "Unga shukrona aytaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:03.280753338Z",
+  "model": "glm-5.3"
+}

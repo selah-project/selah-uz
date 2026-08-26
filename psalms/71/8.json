@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Ogʻzim toʻladi Sening maqtoving bilan, butun kun davomida ulugʻvorliging bilan.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "toʻladi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Ogʻzim"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "maqtoving"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun davomida"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "ulugʻvorliging"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:42.791772829Z",
+  "model": "glm-5.3"
+}

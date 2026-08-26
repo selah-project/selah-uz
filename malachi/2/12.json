@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 2:12",
+  "book": "malachi",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Kesib tashlasin Yahve odamni — qilganini — uygʻoq va javob beruvchini Yaakov chodirlaridan, va minxata keltiruvchini Yahve Tsevaotga.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Kesib tashlasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "qilganini"
+    },
+    {
+      "surface": "ער",
+      "gloss": "uygʻoq"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "va javob beruvchini"
+    },
+    {
+      "surface": "מאהלי",
+      "gloss": "chodirlaridan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ומגיש",
+      "gloss": "va keltiruvchini"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minxa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:25.263422347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va qurbonlikka Yishayni chaqirasan, va men senga ⟨את⟩ nima qilishingni bildiraman, va senga aytgan kishimga moy surtasan ⟨את⟩ — menga.»",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "Va chaqirasan"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "Yishayni"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "qurbonlikka"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "va men"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "senga bildiraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nima qilishingni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nima"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qilishingni"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "va moy surtasan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "senga aytgan kishini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytgan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:51:10.218544548Z",
+  "model": "glm-5.3"
+}

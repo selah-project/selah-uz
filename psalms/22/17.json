@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Chunki itlar meni oʻrab oldi, yovonaqlar majmuasi meni qurshab oldi — sher kabi ⟨mening⟩ qoʻllarim va oyoqlarim ⟨ustida⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "oʻrab oldi"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "itlar"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "majmuasi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "yovonaqlar"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "qurshab oldi"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "sher kabi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻllarim"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "va oyoqlarim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:36.755988360Z",
+  "model": "glm-5.3"
+}

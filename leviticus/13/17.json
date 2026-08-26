@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va kohên uni koʻradi, va mana, negʻa oqqa aylandi, va kohên ⟨את⟩ negʻani pok deb eʼlon qiladi — u pokdir.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "va uni koʻradi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohên"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "aylandi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "negʻa"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "oqqa"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "va pok deb eʼlon qiladi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohên"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "negʻani"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "negʻani"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "pok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u …dir"
+    }
+  ],
+  "timestamp": "2026-08-26T01:15:50.030984058Z",
+  "model": "glm-5.3"
+}

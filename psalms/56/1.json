@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 56,
+  "translation": "Boshqaruvchiga — karishqov kabir, uzoqlarda — muhimida; Davidning miktami; filistliklar ⟨את⟩ uni Gatda ushlaganlarida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Boshqaruvchiga"
+    },
+    {
+      "surface": "על",
+      "gloss": "muhimida"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "kabir"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "karishqov"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "uzoqlarda"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidning"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "ushlaganlarida"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩uni",
+      "marks": "uni — Davidning oʻzi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistliklar"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "Gatda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:55.590198408Z",
+  "model": "glm-5.3"
+}

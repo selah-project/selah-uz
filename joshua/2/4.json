@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Ayol ⟨את⟩ ikki kishini oldi va ularni yashirdi, va shunday dedi: «Ha, odamlar menga kelgan edilar, lekin qayerdan ekanlarini bilmasman».",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikki kishini"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kishini"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "va ularni yashirdi"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Ha"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kelgan edilar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "odamlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilmasman"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "qayerdan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    }
+  ],
+  "timestamp": "2026-08-26T02:10:42.865270107Z",
+  "model": "glm-5.3"
+}

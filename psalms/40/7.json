@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Qurbonlik va taqdim sovgʻasini xohlamading; quloqlarni ⟨men uchun⟩ oʻyding; yoqilgan qurbonlik va gunoh qurbonligini soʻramading.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "qurbonlik"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "va taqdim sovgʻasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "xohlamading"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "quloqlar"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "oʻyding"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨men uchun⟩"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "yoqilgan qurbonlik"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "va gunoh qurbonligi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "soʻramading"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:54.327988250Z",
+  "model": "glm-5.3"
+}

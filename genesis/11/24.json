@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Naxor yashadi toʻqqiz va yigirma yil, va ⟨את⟩ Teraxni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "toʻqqiz"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "va yigirma"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "va dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terax"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terax"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:18.584561524Z",
+  "model": "glm-5.3"
+}

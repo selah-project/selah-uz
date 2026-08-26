@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va ellik yoshdan oshgach ⟨u⟩ xizmat lashkaridan qaytadi va endi xizmat qilmaydi.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "va … yoshdan"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ellik"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yosh"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qaytadi"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "lashkaridan"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "xizmat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "xizmat qilmaydi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:29:23.506157175Z",
+  "model": "glm-5.3"
+}

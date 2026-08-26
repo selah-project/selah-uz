@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 87,
+  "translation": "Men Rahavni va Bobilni eslataman — Meni bilganlar orasida; qarang, Falastim va Sur, Kush bilan birga: mana shu ⟨u yerda⟩ tugʻilgan.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "eslataman"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahav"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "va Bobil"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "bilganlarga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qarang"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Falastim"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "va Sur"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mana shu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "tugʻilgan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:52.042742823Z",
+  "model": "glm-5.3"
+}

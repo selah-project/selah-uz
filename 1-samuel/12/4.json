@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va ular aytdilar: Siz bizga zulm qilmadingiz va bizni ezmadingiz, va hech kimsaning qoʻlidan hech narsa olmadingiz.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Va ular aytdilar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "bizga zulm qilmadingiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "bizni ezmadingiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "olmadingiz"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hech kimsaning"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "hech narsa"
+    }
+  ],
+  "timestamp": "2026-08-26T02:48:14.357723151Z",
+  "model": "glm-5.3"
+}

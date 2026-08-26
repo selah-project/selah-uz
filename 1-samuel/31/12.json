@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 31:12",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va barcha jasur erkaklar turdi va butun tun boʻyi yurdi va ⟨את⟩ Shoulning jasadini va ⟨את⟩ oʻgʻillarining jasadlarini Bet-Shan devoridan oldi va Yaveshga keldi va ⟨את⟩ ularni u yerda yoqdi.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "erkaklar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jasur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "va yurdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tun boʻyi"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shoulning jasadini"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "jasadini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoulning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻgʻillarining jasadlarini"
+    },
+    {
+      "surface": "גוית",
+      "gloss": "jasadlarini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "מחומת",
+      "gloss": "devoridan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "Yaveshga"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "va yoqdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:30:07.850395987Z",
+  "model": "glm-5.3"
+}

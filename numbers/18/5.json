@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va saqlaysizlar ⟨את⟩ muqaddasning qarovulini va ⟨את⟩ mehrochning qarovulini, va Isroil oʻgʻillariga qarshi endi gʻazab boʻlmaydi.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "va saqlaysizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muqaddasning qarovuli"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "qarovuli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muqaddas(ning)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "mehrochning qarovuli"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "qarovuli"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mehroch(ning)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "gʻazab"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga \/ qarshi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T01:36:37.069254551Z",
+  "model": "glm-5.3"
+}

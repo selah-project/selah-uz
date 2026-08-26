@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va teri idishdagi suv tugadi, va u ⟨את⟩ bolani butalardan birining ostiga tashladi.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "tugadi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "teri idish"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "tashladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolani"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bola"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostiga"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "butalar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:12.688419823Z",
+  "model": "glm-5.3"
+}

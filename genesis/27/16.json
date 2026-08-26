@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va echki uloqlarining terilarini uning qoʻllariga va boʻynining silliq qismiga kiydirdi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "terilarini"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "terilarini"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "uloqlarining"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "echki"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "kiydirdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "uning qoʻllariga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustiga"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "silliq qismiga"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "boʻynining"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:31.100047890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Chunki men bilaman: buyukdir Yahve, va Adonayimiz barcha elohlardan ⟨ ustundir ⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "va-Adonayimiz"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha …dan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:00.058385528Z",
+  "model": "glm-5.3"
+}

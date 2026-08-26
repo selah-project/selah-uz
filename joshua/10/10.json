@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 10:10",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yahve ularni Isroil oldida sarosima soldi va ularni Givonda katta zarba bilan urdi va ularni Bet-Xoron koʻtarilishi yoʻli orqali quvladi va ularni Azekagacha va Makkedagacha urdi.",
+  "tokens": [
+    {
+      "surface": "ויהמם",
+      "gloss": "sarosima soldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "zarba"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "katta"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Givonda"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "quvladi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻli"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "koʻtarilishi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Xoron"
+    },
+    {
+      "surface": "ויכם",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va -gacha"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Makkeda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:14:49.190827467Z",
+  "model": "glm-5.3"
+}

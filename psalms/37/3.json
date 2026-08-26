@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Yahvega ishon, yaxshilik qil, yerda yashagin va sadoqatni oʻzlashtirgin.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ishon"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "va ... qil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshilik"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "yashagin"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "va ... oʻzlashtirgin"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "sadoqatni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:34.719075984Z",
+  "model": "glm-5.3"
+}

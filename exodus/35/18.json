@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "⟨את⟩ Mishqonning qoʻzgʻoqlarini va ⟨את⟩ hovlining qoʻzgʻoqlarini hamda ⟨את⟩ ularning arqonlarini",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishqonning qoʻzgʻoqlarini"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "qoʻzgʻoqlarini"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishqonning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hovlining qoʻzgʻoqlarini"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "qoʻzgʻoqlarini"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hovlining"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hamda ⟨את⟩",
+      "marks": "ularning arqonlarini"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "ularning arqonlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T01:03:40.011622311Z",
+  "model": "glm-5.3"
+}

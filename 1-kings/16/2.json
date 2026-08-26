@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Chunki Men seni changdan koʻtardim va seni xalqim Isroil ustidan hukmdor qildim, sen esa Yarovam yoʻlida yurding va xalqim Isroilni ⟨את⟩ gunohga solding — gunohlari bilan Meni gʻazablantirish uchun.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "seni koʻtardim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "chang"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "va qildim"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "hukmdor"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "sen yurding"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlida"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "va gunohga solding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqim Isroilni"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "Meni gʻazablantirish uchun"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "gunohlari bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:41:08.167303225Z",
+  "model": "glm-5.3"
+}

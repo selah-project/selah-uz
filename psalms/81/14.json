@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Kashki qavmim Menga quloq solganda, Yisroel yoʻllarimda yurganda!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "kashki"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "qavmim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "quloq solganda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "yoʻllarimda"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "yurganda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:50.692519798Z",
+  "model": "glm-5.3"
+}

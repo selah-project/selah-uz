@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Miryam paygʻambar ayol, Aharonning singlisi, qoʻlida ⟨את⟩ doirani oldi, va barcha ayollar uning ortidan doiralar va raqslar bilan chiqdilar.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "paygʻambar ayol"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "singlisi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doirani"
+    },
+    {
+      "surface": "התף",
+      "gloss": "doirani"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "qoʻlida"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "va chiqdilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ayollar"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "uning ortidan"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "doiralar"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "va raqslar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:56:52.208965357Z",
+  "model": "glm-5.3"
+}

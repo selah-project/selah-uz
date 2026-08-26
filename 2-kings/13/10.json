@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 13:10",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Yehuda podshohi Yoashning o‘ttiz yettinchi yilida Yehoaxazning o‘g‘li Yehoash Yisroel ustida Shomronda podshoh bo‘ldi — o‘n olti yil.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "yilida"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "o‘ttiz"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "va yetti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "Yoashning"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshoh bo‘ldi"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "o‘g‘li"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoaxazning"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomronda"
+    },
+    {
+      "surface": "שש",
+      "gloss": "o‘n"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "olti"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    }
+  ],
+  "timestamp": "2026-08-26T03:55:30.517608974Z",
+  "model": "glm-5.3"
+}

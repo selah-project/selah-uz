@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va men ⟨את⟩ Axabning uyini Navat oʻgʻli Yaravamning uyidek va Axiyo oʻgʻli Baʼshaning uyidek qildim.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "va men qildim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axabning uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyini"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axabning"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "uyidek"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravamning"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Navat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "va uyidek"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baʼshaning"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Axiyo"
+    }
+  ],
+  "timestamp": "2026-08-26T03:52:40.273083883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Yerushalaimning atrofdagi devorlarini ⟨את⟩ butun Kasdim qo'shini buzdi — rab-tabachimlar ⟨sardori⟩ bilan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "devorlarini"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "devorlarini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaimning"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofdagi"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "buzdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qo'shini"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Kasdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rab"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "tabachimlar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:04:36.658445082Z",
+  "model": "glm-5.3"
+}

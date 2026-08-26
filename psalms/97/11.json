@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 97,
+  "translation": "Solih odam uchun nur ekilgan, toza yuraklilar uchun esa quvonch.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "nur"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ekilgan"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "solih odam uchun"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "toza ... uchun"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuraklilar"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "quvonch"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:43.847365933Z",
+  "model": "glm-5.3"
+}

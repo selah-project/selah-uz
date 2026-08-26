@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va kohin ⟨את⟩ oʻmerni Yahve oldida silkitadi — sizlar uchun qabul qilinishi uchun; shabbat ertasi kuni kohin uni silkitadi.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "va silkitadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o'merni"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "o'merni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "sizlar uchun qabul qilinishi uchun"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertasi kuni"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "uni silkitadi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:24.947870537Z",
+  "model": "glm-5.3"
+}

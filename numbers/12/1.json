@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 12:1",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Miryam va Aharon Moshe haqida — u olgan kushitik ayol sababli gapirdi, chunki kushitik ayol olgan edi.",
+  "tokens": [
+    {
+      "surface": "ותדבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "va Aharon"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "Moshe haqida"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababli"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "— sababli"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨the⟩ ayol"
+    },
+    {
+      "surface": "הכשית",
+      "gloss": "kushitik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "olgan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "כשית",
+      "gloss": "kushitik"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "olgan edi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:32:21.781312403Z",
+  "model": "glm-5.3"
+}

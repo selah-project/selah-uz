@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va ⟨את⟩ turarni uning qonuniga koʻra tikasan — togʻda seni koʻrsatilganidek.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "va tikasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "turarni"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "turarni"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "uning qonuniga koʻra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "senga koʻrsatilgan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:36.386972180Z",
+  "model": "glm-5.3"
+}

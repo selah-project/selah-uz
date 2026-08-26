@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 11:18",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va xalqga ayting: ertaga uchun muqaddaslaning va goʻsht yeysizlar, chunki Yahvening qulogʻida „Kim bizga goʻsht yediradi? chunki Misrda bizga yaxshi edi“ deb yigʻlagansizlar, va Yahve sizga goʻsht beradi va yeysizlar.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Va ... ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ayting"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "muqaddaslaning"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "ertaga uchun"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "va yeysizlar"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goʻsht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בכיתם",
+      "gloss": "yigʻlagansizlar"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "qulogʻida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "bizga yediradi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goʻsht"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misrda"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "va beradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goʻsht"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "va yeysizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:33:43.147006108Z",
+  "model": "glm-5.3"
+}

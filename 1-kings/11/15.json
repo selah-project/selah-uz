@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va boʻldi: Dovid ⟨את⟩ Edom bilan boʻlganida, Yoav, ⟨the⟩ qoʻshin sardori, oʻlganlarni ⟨את⟩ dafn qilish uchun koʻtarilganda — u Edomda har bir erkakni urdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "boʻlganida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom bilan"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "koʻtarilganda"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sardori"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "qoʻshinning"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "dafn qilish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻlganlarni"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "oʻlganlar"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:32:01.485601626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 20:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va shotarlar xalqga yana gapirishga qo'shsinlar va ayturlar: kim ⟨the⟩ odam — qo'rquvchi va yumshoq qalbli? borsin va uyiga qaytsin; va aka-ukalarning qalbini ⟨את⟩ uning qalbidek eritmasin.",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "va qo'shsinlar"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "shotarlar"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "gapirishga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "va ayturlar"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "הירא",
+      "gloss": "qo'rquvchi"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "va yumshoq"
+    },
+    {
+      "surface": "הלבב",
+      "gloss": "qalbli"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "borsin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va qaytsin"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …masin"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "eritin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalbini"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "aka-ukalarning"
+    },
+    {
+      "surface": "כלבבו",
+      "gloss": "uning qalbidek"
+    }
+  ],
+  "timestamp": "2026-08-26T02:00:05.985407588Z",
+  "model": "glm-5.3"
+}

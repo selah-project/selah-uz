@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Katta tinchlik — Tavratni sevganlarga, va ularga toʻsiq yoʻq.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "רב",
+      "gloss": "katta"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "sevganlarga"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tavratni"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "toʻsiq"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:17.632741102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 43:9",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Endi ular ⟨את⟩ zoinalarini va ⟨את⟩ oʻz shohlarining jasadlarini Menden uzoqlashtirsinlar, va Men ularning oʻrtasida abadiy yashayman.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Endi"
+    },
+    {
+      "surface": "ירחקו",
+      "gloss": "uzoqlashtirsinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zoinalarini"
+    },
+    {
+      "surface": "זנותם",
+      "gloss": "zoinalarini"
+    },
+    {
+      "surface": "ופגרי",
+      "gloss": "va jasadlarini"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "oʻz shohlari"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "Menden"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "va yashayman"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ularning oʻrtasida"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T05:30:50.424569495Z",
+  "model": "glm-5.3"
+}

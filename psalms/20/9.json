@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Ular — tizzalanib yiqildilar, va biz turdik va toʻgʻrilanib tururmiz.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "tizzalanib yiqildilar"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "va yiqildilar"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "va biz"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "turdik"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "va toʻgʻrilanib tururmiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:11.733043547Z",
+  "model": "glm-5.3"
+}

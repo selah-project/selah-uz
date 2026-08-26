@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 15:32",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va Shmuel dedi: Menga ⟨את⟩ Agagni, Amalek malikini, yaqin keltirilar. Va Agag unga yoqimlarcha keldi, va Agag dedi: Rostdan ham oʻlimning achchiqligi yoʻqoldi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "הגישו",
+      "gloss": "yaqin keltirilar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agagni"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agagni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maliki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Va keldi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מעדנת",
+      "gloss": "yoqimlarcha (zanjirband, deb ham oʻqiladi)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "Rostdan ham"
+    },
+    {
+      "surface": "סר",
+      "gloss": "yoʻqoldi"
+    },
+    {
+      "surface": "מר",
+      "gloss": "achchiqligi"
+    },
+    {
+      "surface": "המות",
+      "gloss": "oʻlimning"
+    }
+  ],
+  "timestamp": "2026-08-26T02:49:53.820515869Z",
+  "model": "glm-5.3"
+}

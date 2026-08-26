@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "U laqani sevgan edi va u unga keldi, barokatni esa xohlamadi va u undan uzoqlashdi.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "sevgan edi"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "laqani"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "u unga keldi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "esa ... --"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xohlamadi"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "barokatni"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "u uzoqlashdi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:05.494469184Z",
+  "model": "glm-5.3"
+}

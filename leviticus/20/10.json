@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va bir erkak ki, boshqa erkakning xotini bilan zino qilsa — oʻz yaqinining xotini bilan zino qilsa — ⟨את⟩ zinokor erkak va ⟨את⟩ zinokor ayol albatta oʻldirilsin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Va bir erkak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "zino qilsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xotini"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "xotini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "erkakning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "zino qilsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xotini"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "xotini"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oʻz yaqinining"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldirilsin"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "zinokor erkak"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "va zinokor ayol"
+    }
+  ],
+  "timestamp": "2026-08-26T08:58:18.823743288Z",
+  "model": "glm-5.3"
+}

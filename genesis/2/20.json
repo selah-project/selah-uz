@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va odam chorva mollariga, osmon qushlariga va dalaning barcha hayvonlariga nomlar berdi; ammo odam uchun unga qarshi yordam topilmadi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "nomlar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha … -ga"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "chorva mollasi"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "va qushga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "חית",
+      "gloss": "hayvon"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dala"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "va odamga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "topildi"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yordam"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "unga qarshi (roʻparasiga)"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:51.004216923Z",
+  "model": "glm-5.3"
+}

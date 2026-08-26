@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Unga yovni tayinla, va satan uning oʻng tomonida tursin.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "tayinla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovni"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "va satan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tursin"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ning ustida"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "uning oʻng tomonida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:08.321324350Z",
+  "model": "glm-5.3"
+}

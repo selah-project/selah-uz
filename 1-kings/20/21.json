@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Yisroel maliki chiqdi, va ⟨את⟩ otlarni va ⟨את⟩ aravachilarni urdi, va Aramni katta zarba bilan urdi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "chiqdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maliki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otlarni"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "otlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "aravachilarni"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "aravachilarni"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aramga"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "zarba"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "katta"
+    }
+  ],
+  "timestamp": "2026-08-26T03:42:56.749837684Z",
+  "model": "glm-5.3"
+}

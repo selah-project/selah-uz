@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 85,
+  "translation": "Haqiqat yerdan unib chiqadi, va odillik osmonlardan qarab turadi.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Haqiqat"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdan"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "unib chiqadi"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "va odillik"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "osmonlardan"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "qarab turadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:01.805158469Z",
+  "model": "glm-5.3"
+}

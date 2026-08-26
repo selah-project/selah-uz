@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 144,
+  "translation": "Don-xonalarimiz toʻla, turdan-turga mahsulot ⟨chiqarib⟩ beradi; podalarimiz minglab, oʻn minglab tugʻadi koʻchalarimizda",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "don-xonalarimiz"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "toʻla"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "⟨chiqarib⟩ beradi"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "turdan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "זן",
+      "gloss": "turga"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "podalarimiz"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "minglab"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "oʻn minglab"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "koʻchalarimizda"
+    }
+  ],
+  "timestamp": "2026-08-26T09:09:41.099647102Z",
+  "model": "glm-5.3"
+}

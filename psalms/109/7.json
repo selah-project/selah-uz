@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "U sudlanganida aybdor chiqsin, va uning duosi gunohga aylansin.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "u sudlanganida"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqsin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "aybdor"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "va uning duosi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "aylansin"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "gunohga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:08.321482721Z",
+  "model": "glm-5.3"
+}

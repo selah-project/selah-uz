@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Hatto Sening guvohliklaring — meni suyultirganlarim, mening maslahatchilarim ⟨bor⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Sening guvohliklaring"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "meni suyultirganlarim"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "odamlari —"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "mening maslahatimning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:05.806534891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Yolgʻon guvohlar jazosiz qolmaydi, va yolgʻonni puflagan qutulib qolmaydi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "guvoh"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maydi"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "jazosiz qolmaydi"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "va puflagan"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "yolgʻonni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maydi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "qutulib qolmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:47:02.430867741Z",
+  "model": "glm-5.3"
+}

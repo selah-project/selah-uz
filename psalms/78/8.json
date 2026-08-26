@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va oʻtalari kabi boʻlmasinlar — itoatsiz va qarshi kelgan avlod, yuragini tayyorlamagan avlod, uning ruhi Elga ⟨את⟩ sodiq boʻlmagan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "boʻlmasinlar"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "otalari kabi"
+    },
+    {
+      "surface": "דור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "itoatsiz"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "va qarshi kelgan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "... emas"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "tayyorlamagan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yuragini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "sodiq boʻlmagan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "uning ruhi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:15.815441415Z",
+  "model": "glm-5.3"
+}

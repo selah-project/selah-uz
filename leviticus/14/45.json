@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va u ⟨את⟩ uyni buzadi — ⟨את⟩ uning toshlarini, ⟨את⟩ uning yogʻochlarini va ⟨את⟩ uyning barcha changini — va shahar tashqarisiga, nopok joyga olib chiqadi.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "buzadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uy"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning toshlari"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "uning toshlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning yogʻochlari"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "uning yogʻochlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha chang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "chang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uyning"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "olib chiqadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqarisiga"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nopok"
+    }
+  ],
+  "timestamp": "2026-08-26T01:16:48.310700810Z",
+  "model": "glm-5.3"
+}

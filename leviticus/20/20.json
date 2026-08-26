@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va agar bir kishi ammasi bilan yotsa — amakisining yalangligʻini ochgan — ular oʻz gunohlarini koʻtaradilar, farzandsiz oʻladilar.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Va agar bir kishi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "agar"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ammasi bilan"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "ammasi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "yalangligʻini"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "amakisining"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ochgan"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "oʻz gunohlarini"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "koʻtaradilar"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "farzandsiz"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "oʻladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:21:08.575028012Z",
+  "model": "glm-5.3"
+}

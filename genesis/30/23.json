@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "U homila boʻldi va oʻgʻil tugʻdi va dedi: Elohim mening uyatsizligimni olib tashladi.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "homila boʻldi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "va tugʻdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "olib tashladi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mening uyatsizligimni"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mening uyatsizligimni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:18.544240568Z",
+  "model": "glm-5.3"
+}

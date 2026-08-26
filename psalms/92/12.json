@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 92,
+  "translation": "Va koʻzim menga qarshi turuvchilarni, yovuzlarni koʻradi, quloqlarim eshitadi.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "koʻradi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzim"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "men intilgan narsamni ⟨ב⟩"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "turuvchilarni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga qarshi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "yovuzlarni"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "eshitadi"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "quloqlarim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:45.228551765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 24:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Moshe keldi va xalqga Yahvening barcha so'zlarini ⟨את⟩ va barcha hukmlarni ⟨את⟩ aytib berdi; butun xalq bir ovoz bilan javob berdi va aytdi: Yahve so'lagan barcha so'zlarni qilamiz.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויספר",
+      "gloss": "va aytib berdi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalqga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha so'zlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "so'zlarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha hukmlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "hukmlarni"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "so'zlarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "so'lagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "qilamiz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:15.356654708Z",
+  "model": "glm-5.3"
+}

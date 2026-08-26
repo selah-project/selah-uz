@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Elohim ⟨את⟩ ularni barakaladi, deyib: „Koʻpayingiz va koʻpayib, suvlarni dengizlarda toʻldiringiz, va qushlar yerda koʻpaysin.“",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "barakaladi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyib"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "mehringiz (koʻp avlod beringiz)"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "va koʻpayingiz"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "va toʻldiringiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suvlarni"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlarni"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dengizlarda"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "va qushlar"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "koʻpaysin"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:27.196805380Z",
+  "model": "glm-5.3"
+}

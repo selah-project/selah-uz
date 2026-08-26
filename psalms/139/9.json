@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Tong qanotlarini koʻtarsam, dengizning eng chekkasida yashasam —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "koʻtarsam"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "qanotlarini"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "yashasam"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "eng chekkasida"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengizning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:11.571821070Z",
+  "model": "glm-5.3"
+}

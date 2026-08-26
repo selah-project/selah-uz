@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Ular Elohimning ahdini saqlamadilar va Uning Tavrotida yurishdan bosh tortdilar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "-madilar"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "saqladilar"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "va Uning Tavrotida"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "bosh tortdilar"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yurishdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:59.376517656Z",
+  "model": "glm-5.3"
+}

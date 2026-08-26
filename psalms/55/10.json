@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Yutsin, Adonay; ajratsin tililarini, chunki men koʻrdim zoʻravonlik va nizoni shaharda.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "yutsin"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ajratsin"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "tililarini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zoʻravonlik"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "va nizo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shaharda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:27.411223584Z",
+  "model": "glm-5.3"
+}

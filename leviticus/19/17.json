@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Akangni yuragingda yomon koʻrma; oʻrtogʻingni ochiq ogohlantir, va uning ustiga gunoh koʻtarma.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "yomon koʻrma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akangni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "akang"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "yuragingda"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ochiq ogohlantir"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "ogohlantirgil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻrtogʻingni"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "oʻrtogʻing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "koʻtarma"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "gunoh"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:03.399439970Z",
+  "model": "glm-5.3"
+}

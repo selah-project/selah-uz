@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va ⟨u⟩ dedi: Meni qoʻyib yubor, chunki tong otdi; va ⟨u⟩ dedi: Sen meni barakalamaguningcha qoʻyib yubormayman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "qoʻyib yubor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "otdi"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "qoʻyib yubormayman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-maguningcha"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "barakalamagun"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:33.559174118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Va shukrona qurbonliklarini kesib qoʻysinlar, va Uning ishlarini nola bilan ⟨emas⟩ — ridoyilichi ovozi bilan hikoya qilsinlar.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "va kesib qoʻysinlar"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qurbonliklarini"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "shukrona"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "va hikoya qilsinlar"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "Uning ishlarini"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ridoyilichi ovozi bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:27.683014397Z",
+  "model": "glm-5.3"
+}

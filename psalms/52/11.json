@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 52,
+  "translation": "Senga abadiy shukur aytaman, chunki sen buni qilding; sening ismingni kutaman, chunki u sening sodiq bandalaring oldida yaxshidir.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "senga shukur aytaman"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "sen qilding"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "kutaman"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sening ismingni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshidir"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "sening sodiq bandalaring"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:27.788775363Z",
+  "model": "glm-5.3"
+}

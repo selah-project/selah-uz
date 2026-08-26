@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 140,
+  "translation": "Yahve, yovning istaklarini bermagin, uning makrini roʻyob qilmagin — koʻtarilmasinlar. Sela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "bermagin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bermaslik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "istaklarini"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovning"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "uning makrini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qilmagin"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "roʻyob qilmaslik"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "koʻtarilmasinlar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:07.320864799Z",
+  "model": "glm-5.3"
+}

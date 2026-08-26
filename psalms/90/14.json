@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 90:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Tongda bizni xeseding bilan toʻydir, va barcha kunlarimizda qoʻshiq aytib xursand boʻlamiz.",
+  "tokens": [
+    {
+      "surface": "שבענו",
+      "gloss": "bizni toʻydir"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tongda"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding bilan"
+    },
+    {
+      "surface": "ונרננה",
+      "gloss": "va qoʻshiq aytamiz"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "va xursand boʻlamiz"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "kunlarimizda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:33.480217261Z",
+  "model": "glm-5.3"
+}

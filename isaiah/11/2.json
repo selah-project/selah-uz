@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va uning ustiga Yahve ruhi — donishmandlik va aql ruhi, maslahat va qudrat ruhi, bilim va Yahve qoʻrquvi ruhi — qoʻnadi.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "qoʻnadi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "donishmandlik"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "va aql"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhi"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "maslahat"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "va qudrat"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilim"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "va qoʻrquvi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T04:12:44.025418707Z",
+  "model": "glm-5.3"
+}

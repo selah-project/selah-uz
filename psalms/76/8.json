@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 76,
+  "translation": "Sen, ey haybatli Sen, va kim tura oladi Sening yuzing oldida, oʻshandan berki — gʻazabingdan?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "haybatli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "va kim"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tura oladi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Sening yuzing oldida"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "oʻshandan berki"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "gʻazabingdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:45.696791343Z",
+  "model": "glm-5.3"
+}

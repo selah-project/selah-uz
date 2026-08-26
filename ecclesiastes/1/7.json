@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Barcha soy oqimlari dengizga oqadi, lekin dengiz toʻlmaydi — soy oqimlari oqadigan joyga, u yerga ⟨ular⟩ qaytib, yana oqish uchun.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Barcha"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "soy oqimlari"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "oqadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "והים",
+      "gloss": "lekin dengiz"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "toʻlmaydi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "toʻl-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "soy oqimlari oqadigan"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "oqadigan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ular⟩"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "qaytib"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yana oqish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:49:34.314745752Z",
+  "model": "glm-5.3"
+}

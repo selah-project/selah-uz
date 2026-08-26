@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Zotan menga koʻp tangliklarni va yomonliklarni koʻrsatding; yana jonlantirasan — yerning chuqurliklaridan yana chiqarasan meni.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Zotan"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "koʻrsatding"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "tangliklarni"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "va yomonliklarni"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "yana (qaytasan)"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "jonlantirasan"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "va chuqurliklaridan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "yana (qaytasan)"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "chiqarasan meni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:59.134002032Z",
+  "model": "glm-5.3"
+}

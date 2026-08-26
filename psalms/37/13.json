@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Adonay unga kuladi, chunki U koʻrdi, chunki uning kuni keladi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "kuladi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "keladi"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "uning kuni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:30.144178876Z",
+  "model": "glm-5.3"
+}

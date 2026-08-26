@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va David Elohim buyurganidek qildi, va ular ⟨את⟩ Pelishtliklar lagerini Givʻondan Gezergacha urdilar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "deganidek"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "urdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lager"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lager"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtliklar"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "Givʻondan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-26T07:59:11.233927812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va butun yer til bitta ⟨edi⟩ va soʻzlar bir ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "til"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "va soʻzlar"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:47.487391055Z",
+  "model": "glm-5.3"
+}

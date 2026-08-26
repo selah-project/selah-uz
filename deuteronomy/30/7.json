@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va Yahve, Eloheingiz, ⟨את⟩ barcha shu laʼnatlarni dushmanlaringiz ustiga va sizga nafrat qilib, sizni taʼqib qilganlaringiz ustiga soladi.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "va soladi (beradi)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Eloheingiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha shu laʼnatlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "laʼnatlar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dushmanlaringiz"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... ustiga"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "sizga nafrat qilganlaringiz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimki"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "sizni taʼqib qilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:05:02.417318203Z",
+  "model": "glm-5.3"
+}

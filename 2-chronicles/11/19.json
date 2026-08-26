@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va u unga oʻgʻillar tugʻdi: ⟨את⟩ Yeushni, va ⟨את⟩ ShemarYAhuni, va ⟨את⟩ Zaxamni.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Va tugʻdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oʻgʻillar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeushni"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ShemarYAhuni"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ShemarYAh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zaxamni"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Zaxam"
+    }
+  ],
+  "timestamp": "2026-08-26T08:08:06.231801468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 5:18",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Voy ularga — gunohni soxta arqonlar bilan tortadiganlarga, va arava arqonlari kabi jinoyatni tortadiganlarga!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "voy"
+    },
+    {
+      "surface": "משכי",
+      "gloss": "tortadiganlarga"
+    },
+    {
+      "surface": "העון",
+      "gloss": "gunoh"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "arqonlar bilan"
+    },
+    {
+      "surface": "השוא",
+      "gloss": "soxta"
+    },
+    {
+      "surface": "וכעבות",
+      "gloss": "va ... kabi arqonlar"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "arava"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "jinoyat"
+    }
+  ],
+  "timestamp": "2026-08-26T04:07:32.072318540Z",
+  "model": "glm-5.3"
+}

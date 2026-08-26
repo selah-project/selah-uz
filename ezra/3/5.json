@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 3:5",
+  "book": "ezra",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va shundan keyin — doimiy yoqilgan qurbonlik, va yangi oylar uchun, va Yahvening muqaddaslashtirilgan barcha belgilangan bayramlari uchun, va Yahvega erkin hadya tuhfa qilgan har bir kishi uchun.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shundan"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yoqilgan qurbonlik"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doimiy"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "va yangi oylar uchun"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "va barcha … uchun"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "belgilangan bayramlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "המקדשים",
+      "gloss": "muqaddaslashtirilgan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "va har bir … uchun"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "erkin tuhfa qilgan"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "hadya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    }
+  ],
+  "timestamp": "2026-08-26T07:38:48.732426645Z",
+  "model": "glm-5.3"
+}

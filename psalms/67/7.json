@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 67,
+  "translation": "Yer oʻz mahsulotini bergan, bizni barakalaydi Elohim, Elohimimiz.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Yer"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "bergan"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "oʻz mahsulotini"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "bizni barakalaydi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:15.717991693Z",
+  "model": "glm-5.3"
+}

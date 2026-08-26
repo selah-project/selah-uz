@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Ahmoqlarning mehnati ulardan charchagan — shaharga qanday borishni bilmasdan.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "mehnati"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "ahmoqlarning"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "ularni charchatadi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "zero"
+    },
+    {
+      "surface": "לא",
+      "gloss": "... emas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "borishni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahar"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:47.138417888Z",
+  "model": "glm-5.3"
+}

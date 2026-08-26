@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Men esa uzluksiz umid qilaman va barcha madhim ustiga yana qoʻshaman.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "men esa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "uzluksiz"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "umid qilaman"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "va qoʻshaman"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "madhim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:55.650879852Z",
+  "model": "glm-5.3"
+}

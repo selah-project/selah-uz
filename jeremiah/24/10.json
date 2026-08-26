@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va ular ustiga qilichni ⟨את⟩, ochlikni ⟨את⟩ va oʻlatni ⟨את⟩ yuboraman — ular tugaguniga qadar ularga va otalariga bergan tuproqdan ⟨יו⟩ baland.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "yuboraman"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ular ustiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qilichni"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ochlikni"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ochlik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻlatni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "oʻlat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—gunigacha"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "tugaguniga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uzoq"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproqdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysiki"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "bergan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "va otalariga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:50:16.728636104Z",
+  "model": "glm-5.3"
+}

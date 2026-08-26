@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va u dedi: Seni rahm bilan sevaman, ey Yahve, quvvatim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "Seni rahm bilan sevaman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "quvvatim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:24.016376334Z",
+  "model": "glm-5.3"
+}

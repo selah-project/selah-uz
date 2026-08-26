@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Suyagim Senga yashirin emas edi, garchi yashirin joyda yasalganman, yer tublarida toʻqib chiqilganman.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "yashirin"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "suyagim"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "garchi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yasalganman"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "yashirin joyda"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "toʻqib chiqilganman"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "tublarida"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:13.977155383Z",
+  "model": "glm-5.3"
+}

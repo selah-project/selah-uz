@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Agar osmonlarga koʻtarilsam — Sen u yerdasan; va toʻshak yozsam Sheolda — mana Sen.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "koʻtarilsam"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlarga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen ... san"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "va toʻshak yozsam"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheolda"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "mana Sen"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:03.078230993Z",
+  "model": "glm-5.3"
+}

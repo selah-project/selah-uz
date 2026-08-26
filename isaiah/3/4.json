@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Men ularning sardorlari yosh bolalar qilib qoʻyaman, va capkanlar ular ustidan hukm suradi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "va Men qilib qoʻyaman"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "yosh bolalar"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "ularning sardorlari"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "va capkanlar"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "hukm suradi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ular ustidan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:05:26.570504324Z",
+  "model": "glm-5.3"
+}

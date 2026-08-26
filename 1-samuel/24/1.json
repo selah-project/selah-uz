@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Dovud u yerdan koʻtarilib, Ein-Gedi qoyalarida yashadi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "koʻtarildi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "qoyalarda"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:56:35.996607954Z",
+  "model": "glm-5.3"
+}

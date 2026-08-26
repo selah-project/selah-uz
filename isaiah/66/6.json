@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Shovqin ovozi ⟨shahardan⟩, ovoz ⟨maʼbaddan⟩, Yahve ovozi — dushmanlariga mukofotni qaytaruvchi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ovozi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "shovqin"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "⟨shahardan⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "⟨maʼbaddan⟩"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "qaytaruvchi"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "mukofotni"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "dushmanlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:35:45.164805175Z",
+  "model": "glm-5.3"
+}

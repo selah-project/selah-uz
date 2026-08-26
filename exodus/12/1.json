@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yahve Moshega va Ahronga Misr yerida gapirdi, deb:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:31.854040012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va kichik birodaringizni ⟨את⟩ menga keltiringiz, soʻzlaringiz tasdiqlanadi va oʻlmaysizlar. Va ular shunday qildilar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "birodaringizni"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "birodaringiz"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kichik"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "keltiringiz"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "va tasdiqlanadi"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "soʻzlaringiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "oʻlmaysizlar"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "va qildilar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    }
+  ],
+  "timestamp": "2026-08-26T00:45:56.351299467Z",
+  "model": "glm-5.3"
+}

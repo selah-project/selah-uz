@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Qaytadi yovuzlar Sheolga — Elohimni unutgan barcha goylar.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "qaytadi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovuzlar"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "Sheolga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "goylar"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "unutgan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:53.544681822Z",
+  "model": "glm-5.3"
+}

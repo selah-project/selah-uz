@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 61,
+  "translation": "Yer chekkasidan Senga nido qilaman, yuragim tolib ketganda — mendan baland qoyaga meni yetakla.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "chekkasidan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nido qilaman"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "tolib ketganda"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "qoyaga"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "baland"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "meni yetakla"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:04.849839190Z",
+  "model": "glm-5.3"
+}

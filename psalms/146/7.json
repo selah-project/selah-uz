@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 146,
+  "translation": "⟨U⟩ ezilganlar uchun adolat qiluvchi, ochlarga non beruvchi; Yahve bandlarni yechuvchi.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "ezilganlar uchun"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "beruvchi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "ochlarga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "yechuvchi"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "bandlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:45.656705027Z",
+  "model": "glm-5.3"
+}

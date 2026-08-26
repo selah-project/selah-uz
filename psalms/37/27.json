@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Yomondan chekin va yaxshini qil va abadiy yashab qol.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "chekin"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "yomondan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "va qil"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshini"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "va yashab qol"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:40.950147223Z",
+  "model": "glm-5.3"
+}

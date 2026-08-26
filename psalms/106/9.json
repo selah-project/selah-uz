@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va Qamish dengizini qargʻadi, va u quridi, va ularni chuqurliklar orqali choʻldek olib bordi.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "va qargʻadi"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dengizini"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamish"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "va u quridi"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "va ularni olib bordi"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "chuqurliklar orqali"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "choʻldek"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:58.893551753Z",
+  "model": "glm-5.3"
+}

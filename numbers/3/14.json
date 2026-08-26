@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yahve Sinay choʻlida Moshega gapirdi, degan:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Va ... gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlida"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan:"
+    }
+  ],
+  "timestamp": "2026-08-26T01:26:30.269844156Z",
+  "model": "glm-5.3"
+}

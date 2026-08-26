@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 64,
+  "translation": "Meni yovlarning maxfiy kengashidan yashir ⟨meni⟩, yovlik ishlari qiluvchilarning gʻalayonidan.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "yashir"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "maxfiy kengashidan"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "yovlarning"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "gʻalayonidan"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "qiluvchilarning"
+    },
+    {
+      "surface": "און",
+      "gloss": "yovlik ishlari"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:23.063875843Z",
+  "model": "glm-5.3"
+}

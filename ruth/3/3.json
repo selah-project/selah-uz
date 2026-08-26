@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Yuvingin va moylan va kiyimingni ustingga kiygin va gʻandonga tushgin; odamga bilinmagin, u yeyish-va-ichishni tamom qilmaguncha.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "yuvingin"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "moylan"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "kiygin"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "kiyimingni"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ustingga"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "tushgin"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "gʻandonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "bilinmagin"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "odamga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-guncha"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "tamom qilmaguncha"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yeyish"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "va ichish"
+    }
+  ],
+  "timestamp": "2026-08-26T07:14:55.258944847Z",
+  "model": "glm-5.3"
+}

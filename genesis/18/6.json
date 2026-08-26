@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 18:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Avraham chodirga Saraning oldiga shoshildi va dedi: Tez uch seah mayda un xamir qilib, nonlar pishiring.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "shoshildi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "chodirga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Saraning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "tez qiling"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uch"
+    },
+    {
+      "surface": "סאים",
+      "gloss": "seah"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "un"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "mayda"
+    },
+    {
+      "surface": "לושי",
+      "gloss": "xamir qilib"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "va pishiring"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "nonlar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:10.853527135Z",
+  "model": "glm-5.3"
+}

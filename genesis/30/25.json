@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va boʻldi, Rachil ⟨את⟩ Yosefni tugʻganda, Yaakov LAvonga aytdi: Meni yubor, va men oʻz joyimga va oʻz yurtaga boray.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "qachonki"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tugʻganda"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefni"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "LAvonga"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "meni yubor"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "va men boray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "oʻz joyimga"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "va oʻz yurtaga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:09.581768325Z",
+  "model": "glm-5.3"
+}

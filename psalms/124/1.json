@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 124,
+  "translation": "Zinama-zina qoʻshigʻi, Dovudnikidan. Agar Yahve biz uchun boʻlmaganda — endi Isroil aytsin:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshigʻi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "zinama-zina"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudnikidan"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "agar ... boʻlmaganda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "boʻlganda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biz uchun"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "aytsin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:59.551820753Z",
+  "model": "glm-5.3"
+}

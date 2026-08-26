@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va odam oʻgʻirlagan va uni sotgan, yoki u uning qoʻlida topilgan boʻlsa — oʻlim bilan oʻldirilsin.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Va oʻgʻirlagan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "va uni sotgan"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "va topilgan boʻlsa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "uning qoʻlida"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldirilsin"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:09.949673960Z",
+  "model": "glm-5.3"
+}

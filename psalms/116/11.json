@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Men oʻtkinchi qoʻrquvimda aytdim: har odam yolgʻonchi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aytdim"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "oʻtkinchi qoʻrquvimda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yolgʻonchi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:22.952475807Z",
+  "model": "glm-5.3"
+}

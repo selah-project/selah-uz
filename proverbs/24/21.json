@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Yahve ⟨את⟩ dan qoʻrq, oʻgʻlim, va shohdan; oʻzgaruvchilar bilan aralashma.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "qoʻrq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻlim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "va shoh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "oʻzgaruvchilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ol"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "aralashma"
+    }
+  ],
+  "timestamp": "2026-08-26T06:49:21.148571095Z",
+  "model": "glm-5.3"
+}

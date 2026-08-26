@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Chunki isyonlarimiz Sening oldingizda koʻpaydi va gunohlarimiz bizga guvohlik berdi; chunki isyonlarimiz ⟨את⟩ — biz bilan, va jinoyatlarimizni bilamiz.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "koʻpaydi"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "isyonlarimiz"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "Sening oldingizda"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "va gunohlarimiz"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "guvohlik berdi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "isyonlarimiz"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "biz bilan (isyonlarimiz bilan)"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "va jinoyatlarimizni"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "bilamiz"
+    }
+  ],
+  "timestamp": "2026-08-26T04:33:01.959972798Z",
+  "model": "glm-5.3"
+}

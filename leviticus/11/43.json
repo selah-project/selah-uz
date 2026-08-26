@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Oʻz nefeshlaringizni sudralib yuruvchi — sudralib yuradigan hamma narsa bilan jirkanch qilmanglar va ular bilan pokis boʻlmanglar, ulardan ifloslanmanglar.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "jirkanch qilmanglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz nefeshlaringizni"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "oʻz nefeshlaringizni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hamma … bilan"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "sudralib yuruvchi"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "sudralib yuradigan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … yoʻq"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "pokis boʻlmanglar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ular bilan"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "ifloslanmanglar"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ulardan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:14:07.736526809Z",
+  "model": "glm-5.3"
+}

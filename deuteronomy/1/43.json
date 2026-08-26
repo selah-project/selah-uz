@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va men sizga gapirdim, ammo eshitmadingiz; Yahve ning ogʻziga ⟨את⟩ qarshi chiqdingiz va magʻrurlik qilib togʻga chiqdingiz.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "va men gapirdim"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo yoʻq"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "eshitmadingiz"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "qarshi chiqdingiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve ning ogʻzi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "magʻrurlik qildingiz"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "va chiqdingiz"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "togʻga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:47:32.431093157Z",
+  "model": "glm-5.3"
+}

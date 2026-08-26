@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 84,
+  "translation": "Necha goʻzal ⟨sening⟩ maskanlaring, Yahve Tsevaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "necha"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "goʻzal ⟨sening⟩"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "maskanlaring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:48.187964018Z",
+  "model": "glm-5.3"
+}

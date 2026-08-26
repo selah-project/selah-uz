@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Orqamda va oldimda Sen meni qursading, va ustimga kaftingni qoʻyding.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "orqamda"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "va oldimda"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "Sen meni qursading"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "va qoʻyding"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "kaftingni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:03.077730223Z",
+  "model": "glm-5.3"
+}

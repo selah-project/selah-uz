@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Qo'rquv va titroq ichimga kiradi, va dahshat meni qoplaydi.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Qo'rquv"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "va titroq"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kiradi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ichimga"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "va ... qoplaydi"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "dahshat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:24.419788742Z",
+  "model": "glm-5.3"
+}

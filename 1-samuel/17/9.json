@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 17:9",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Agar u ⟨את⟩ men bilan janglasha olsa va meni ursa, biz sizlar uchun qullar boʻlamiz; agar esa men udan kuchli boʻlsam va uni ursam, sizlar bizlar uchun qullar boʻlasizlar va bizga qullik qilasizlar.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "qodir boʻlsa"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "janglashmoq"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ men bilan",
+      "marks": "u"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "va meniursa"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "va boʻlamiz"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "qullar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "qodir boʻlsam"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga qarshi"
+    },
+    {
+      "surface": "והכיתיו",
+      "gloss": "va uni uraman"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "va boʻlasizlar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizlar uchun"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "qullar"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "va qullik qilasizlar"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bizni",
+      "marks": "bizni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:51:03.834346847Z",
+  "model": "glm-5.3"
+}

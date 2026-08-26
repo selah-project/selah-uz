@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "„Soʻzladi ⟨the⟩ odam, ⟨the⟩ yurt egasi, biz bilan ⟨את⟩ qattiq-qoʻpol, va qildi bizni ⟨את⟩ josuslardek ⟨את⟩ yerni koʻzlaganlarga:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "soʻzladi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨the⟩ odam"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "egasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ yurt"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "biz bilan ⟨את⟩"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "qattiq-qoʻpol"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "bizni ⟨את⟩",
+      "marks": "josuslardek"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "josuslardek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:18.503459792Z",
+  "model": "glm-5.3"
+}

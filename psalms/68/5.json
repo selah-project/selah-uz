@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Elohimga kuylang, uning Ismiga chertib madh ayt; choʻllarda suvuruvchiga yoʻl koʻtaring — Yah ⟨bu⟩ uning Ismi, va uning yuzida quvonib seving.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "kuylang"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimga"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chertib madh ayt"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning Ismiga"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "yoʻl koʻtaring"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "suvuruvchiga"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "choʻllarda"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Yah ⟨bu⟩"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning Ismi"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "va quvonib seving"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "uning yuzida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:43.735614627Z",
+  "model": "glm-5.3"
+}

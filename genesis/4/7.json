@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 4:7",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Agar yaxshi qilsang — koʻtarilish bormi? va agar yaxshi qilmasang, eshik oldida xato yotibdi; va uning istagi senga qaratilgan, va sen unga hukm surasiz.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "bormi?"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "yaxshi qilsang"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "koʻtarilish"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "qilmasang"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "eshik oldida"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "xato"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "yotibdi (ychib yotibdi)"
+    },
+    {
+      "surface": "ואליך",
+      "gloss": "va senga"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "uning istagi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "va sen"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "hukm surasiz"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:28.402274628Z",
+  "model": "glm-5.3"
+}

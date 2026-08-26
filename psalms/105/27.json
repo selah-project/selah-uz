@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Ular uning belgilarining soʻzlarini ular orasida qoʻydilar va moʻjizalarni Xom yerida.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "qoʻydilar"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ular orasida"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarini"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "uning belgilarining"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "va moʻjizalarni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Xom"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:45.618662163Z",
+  "model": "glm-5.3"
+}

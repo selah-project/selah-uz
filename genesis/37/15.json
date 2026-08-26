@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va bir odam uni topdi — mana, u dalada adashib yurgan edi; va odam undan so'radi, deyishicha: nimani qidiryapsan",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "va uni topdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "adashib yurgan edi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dalada"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "va undan so'radi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyishicha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "qidiryapsan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:59.047660100Z",
+  "model": "glm-5.3"
+}

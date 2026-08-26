@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 9:1",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Kim menga choʻlda yoʻlovchilar uchun manzil berardi, va men ⟨את⟩ xalqimni tashlab ketardim, ulardan ketardim? Chunki ularning hammasi zino qiluvchilar, xiyonatkorlar majmuasi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יִתְּנֵ֣נִי",
+      "gloss": "berardi-menga"
+    },
+    {
+      "surface": "בַּמִּדְבָּ֗ר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "מְלוֹן֙",
+      "gloss": "manzil"
+    },
+    {
+      "surface": "אֹֽרְחִ֔ים",
+      "gloss": "yoʻlovchilar"
+    },
+    {
+      "surface": "וְאֶֽעֶזְבָ֗ה",
+      "gloss": "va-tashlab-ketardim"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "xalqimni"
+    },
+    {
+      "surface": "עַמִּ֔י",
+      "gloss": "xalqimni"
+    },
+    {
+      "surface": "וְאֵלְכָ֖ה",
+      "gloss": "va-ketardim"
+    },
+    {
+      "surface": "מֵאִתָּ֑ם",
+      "gloss": "⟨את⟩-dan ular"
+    },
+    {
+      "surface": "כִּּ֤י",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כֻּלָּם֙",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "מְנָאֲפִ֔ים",
+      "gloss": "zino-qiluvchilar"
+    },
+    {
+      "surface": "עֲצֶ֖רֶת",
+      "gloss": "majmuasi"
+    },
+    {
+      "surface": "בֹּגְדִֽים",
+      "gloss": "xiyonatkorlar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:42:21.933877820Z",
+  "model": "glm-5.3"
+}

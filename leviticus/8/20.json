@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va ⟨את⟩ qoʻchqorni boʻlaklarga boʻldi, va Moşe ⟨את⟩ boshni, ⟨את⟩ boʻlaklarni va ⟨את⟩ yogʻni tutatdi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "qoʻchqorni"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qoʻchqorni"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "boʻlaklarga boʻldi"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "oʻz boʻlaklariga"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "tutatdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boshni"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "boshni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "boʻlaklarni"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "boʻlaklarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yogʻni"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "yogʻni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:48.728093782Z",
+  "model": "glm-5.3"
+}

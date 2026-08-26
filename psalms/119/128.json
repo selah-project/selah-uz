@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Shuning uchun barcha buyrugʻingni — hammasiga nisbatan toʻgʻri deb bilaman, har yolgʻon yoʻlni yomon koʻraman.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "shuning"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "buyrugʻingni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasiga"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "toʻgʻri deb bilaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yoʻlni"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "yomon koʻraman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:52.920411764Z",
+  "model": "glm-5.3"
+}

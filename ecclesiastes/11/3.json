@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Agar bulutlar toʻlsa, ular erning ustiga yomgʻir quygizadilar; agar daraxt janubda yiqilsa yoki shimolda — daraxt yiqilgan joyda u boʻladi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "toʻlsa"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "bulutlar"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "yomgʻir"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erning"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "quygizadilar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "yiqilsa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "janubda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "yoki agar"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "shimolda"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "joyda"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "yiqilgan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "boʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:29.941935626Z",
+  "model": "glm-5.3"
+}

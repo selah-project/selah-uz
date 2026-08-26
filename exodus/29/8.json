@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va ⟨את⟩ uning oʻgʻillarini yaqinlashtirasan, va ularni kuttunlar bilan kiyintirasan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning oʻgʻillarini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uning oʻgʻillarini"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "yaqinlashtirasan"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "kiyintirasan"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kuttunlar bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:27.080041429Z",
+  "model": "glm-5.3"
+}

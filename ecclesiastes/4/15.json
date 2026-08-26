@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Koʻrdim ⟨את⟩ barcha tiriklarni, qufta ostida yuruvchilarni, ⟨the⟩ ikkinchi yosh bilan, ki u uning oʻrnida turadi.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha tiriklarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "tiriklarni"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "yuruvchilarni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quftaning"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yosh"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "turadi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "uning oʻrnida"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:09.051242810Z",
+  "model": "glm-5.3"
+}

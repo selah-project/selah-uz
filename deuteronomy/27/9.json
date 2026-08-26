@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 27:9",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va Moshe va levilar kohinlari butun Isroilga gapirdilar, deyishicha: Jim tur va eshit, ey Isroil; bugun kunda sen Yahve, Elohiminga xalq boʻlding.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "va kohinlar"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "levilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyishicha"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "jim tur"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "va eshit"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ey Isroil"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "boʻlding"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiminga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:25:36.024406514Z",
+  "model": "glm-5.3"
+}

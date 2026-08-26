@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yoktan ⟨את⟩ Almododni, va ⟨את⟩ Shelefni, va ⟨את⟩ Xatsarmavetni, va ⟨את⟩ Yeraxni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Va Yoktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almododni"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almododni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Shelefni"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelefni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Xatsarmavetni"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Xatsarmavetni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yeraxni"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yeraxni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:06.482623895Z",
+  "model": "glm-5.3"
+}

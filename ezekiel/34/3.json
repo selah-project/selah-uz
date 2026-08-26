@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "⟨את⟩ yogʻni yeyursiz va ⟨את⟩ junni kiyursiz, semiz⟨ni⟩ soʻyursiz, ⟨the⟩ podani esa boqmaysiz.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yogʻni"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yogʻni"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyursiz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "junni"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "junni"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "kiyursiz"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "semiz(ni)"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "soʻyursiz"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "poda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "boqmaysiz"
+    }
+  ],
+  "timestamp": "2026-08-26T05:25:22.127744657Z",
+  "model": "glm-5.3"
+}

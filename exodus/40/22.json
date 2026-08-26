@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va ⟨u⟩ stolni uchrashuv chodirida, maskanning shimoliy yon tomonida, pardaning tashqarisida qoʻydi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stolni"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stolni"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "chodirida"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "על",
+      "gloss": "tomonida"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yon tomonida"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "maskanning"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "shimoliy"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqarisida"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "pardaning"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:03.651809928Z",
+  "model": "glm-5.3"
+}

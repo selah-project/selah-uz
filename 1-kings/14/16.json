@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va Isroilni ⟨את⟩ taslim qiladi Yarovamning gunohlari sababli — ugunoh qilgan va Isroilni ⟨את⟩ gunohga solgan.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "va taslim qiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "sababli"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "gunohlari"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovamning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki u"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "gunoh qilgan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "va ki"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "gunohga solgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    }
+  ],
+  "timestamp": "2026-08-26T03:39:57.235742147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Qasam va yolg‘on va qotillik va o‘g‘irlik va zino — ⟨ular⟩ oshib-toshdi, va qonlar qonlarga tegdi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "qasam"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "va yolg‘on"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "va qotillik"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "va o‘g‘irlik"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "va zino"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "oshib-toshdi"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "va qonlar"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "qonlarga"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "tegdi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:35:39.616897149Z",
+  "model": "glm-5.3"
+}

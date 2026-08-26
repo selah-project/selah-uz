@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Yahve Shlomoga gʻazablandi, chunki yuragi Yahve, Isroilning Elohimidan, unga ikki marta koʻringan Zotdan oʻgdi.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "gʻazablandi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "Shlomoga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "oʻgdi"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "uning yuragi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "–dan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "koʻringan Zot"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ikki marta"
+    }
+  ],
+  "timestamp": "2026-08-26T03:36:19.848351871Z",
+  "model": "glm-5.3"
+}

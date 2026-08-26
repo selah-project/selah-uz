@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Ular sarkardalarini Orev kabi, Zeev kabi qilgin, Zevax kabi, Salmunna kabi — barcha hokimlarini.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "qilgin"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "ular sarkardalarini"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "Orev kabi"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "va Zeev kabi"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "va Zevax kabi"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "va Salmunna kabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "hokimlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:09.393394058Z",
+  "model": "glm-5.3"
+}

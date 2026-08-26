@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 146,
+  "translation": "Yahve koʻzlarni ochadi — koʻrlarni; Yahve bukilganlarni roʻvay qiladi; Yahve solihlarni sevadi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "ochadi"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "koʻrlarni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "roʻvay qiladi"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "bukilganlarni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevadi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "solihlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:45.656846915Z",
+  "model": "glm-5.3"
+}

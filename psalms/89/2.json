@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Yahvening xesedini abadiy kuylayman, avloddan avlodga ogʻzim bilan sadoqatingni eʼlon qilaman.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "xesedini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "kuylayman"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "avloddan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "avlodga"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "eʼlon qilaman"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "sadoqatingni"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ogʻzim bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:01.580341219Z",
+  "model": "glm-5.3"
+}

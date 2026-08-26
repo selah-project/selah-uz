@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 8:14",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "U Elishaning huzuridan ⟨את⟩ ketdi va xoʻjayinining oldiga keldi; u esa unga dedi: Elisha senga nima dedi? U aytdi: Menga shunday dedi: Albatta tirilasan.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ketdi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "huzuridan"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elishaning"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "xoʻjayinining"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "tirilasan"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "albatta tirilasan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:32:52.582568475Z",
+  "model": "glm-5.3"
+}

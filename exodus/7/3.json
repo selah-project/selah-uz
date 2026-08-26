@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Men qattıy qilaman ⟨את⟩ Paroh qalbını, va koʻpaytiraman ⟨את⟩ belgilirimni va ⟨את⟩ moʻjizalarımını Mitsrayim yurtında.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Va Men"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "qattıy qilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh qalbını"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbını"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "va koʻpaytiraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "belgilirimni"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "belgilirimni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "moʻjizalarımını"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "moʻjizalarımını"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yurtında"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:00.985308425Z",
+  "model": "glm-5.3"
+}

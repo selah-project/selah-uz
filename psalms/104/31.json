@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Yahve ning ulugʻvorligi abadiy boʻlsin, Yahve oʻz amallarida quvonchsiz boʻladi!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ulugʻvorligi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "quvonadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "oʻz amallarida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:27.034326269Z",
+  "model": "glm-5.3"
+}

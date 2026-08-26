@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va Lea aytdi: Baxt keldi! Va uning ismini Gad deb chaqirdi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Baxt keldi"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning ismini"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning ismini"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:14.158502063Z",
+  "model": "glm-5.3"
+}

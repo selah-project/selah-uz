@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "va ⟨את⟩ tutatqi qurbongohini va ⟨את⟩ tayoqlarini va ⟨את⟩ moyish moyini va ⟨את⟩ xushboʻy tutatqini va ⟨את⟩ eshik pardasini — Mishkan eshigining ogʻzida —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "qurbongoh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "tutatqi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tayoqlar"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "tayoqlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "moy"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "moyish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tutatqi"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tutatqi"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "xushboʻy ziralar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "parda"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "parda"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "eshik ogʻzi"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "eshigining ogʻzida"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:46.137388495Z",
+  "model": "glm-5.3"
+}

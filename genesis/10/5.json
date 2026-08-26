@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Shulardan xalqlarning orollari oʻz yerlarida boʻlinib ketdi, har biri oʻz tilicha, oʻz urugʻlaricha, oʻz xalqlari ichida.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "shulardan"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "boʻlinib ketdi"
+    },
+    {
+      "surface": "איי",
+      "gloss": "orollari"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlarning"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "oʻz yerlarida"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "oʻz tilicha"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "oʻz urugʻlaricha"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "oʻz xalqlari ichida"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:21.342813490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Sen esa, ey Yahve, uzoqlashma — kuch-qudratim, yordamimga shoshgil.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Sen esa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzoqlash"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "kuch-qudratim"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "yordamimga"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "shoshgil"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:36.756688090Z",
+  "model": "glm-5.3"
+}

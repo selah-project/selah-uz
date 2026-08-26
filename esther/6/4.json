@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va podshoh dedi: Kim hovlida? Va Homon, podshohga Mordechayni u oʻzi tayyorlagan daraxtga osishni aytish uchun, podshoh uyining tashqi hovlisiga kirdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "hovlida"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "va Homon"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kirdi"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "hovlisiga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyining"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "tashqi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aytish uchun"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "podshohga"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "osishni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordechayni"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechayni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "tayyorlagan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T07:25:48.616122603Z",
+  "model": "glm-5.3"
+}

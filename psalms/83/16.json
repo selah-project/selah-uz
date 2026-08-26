@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Shunday qilib, boʻrongʻing bilan ularni quvgin, boʻron shamoling bilan ularni vahshaga sol!",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Shunday qilib"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "ularni quvgin"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "boʻrongʻing bilan"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "boʻron shamoling bilan"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "ularni vahshaga sol"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:34.134806650Z",
+  "model": "glm-5.3"
+}

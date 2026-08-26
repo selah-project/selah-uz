@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 53,
+  "translation": "Va u ⟨את⟩ yovuzlar bilan qabrini berdi, va ⟨את⟩ boy bilan oʻlimlarida; chunki zoʻravonlik qilmadi va ogʻzida firibgarlik yoʻq ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yovuzlar bilan qabrini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovuzlar bilan"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "qabrini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "boy bilan oʻlimlarida"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "boy bilan"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "oʻlimlarida"
+    },
+    {
+      "surface": "על",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zoʻravonlik"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "firibgarlik"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ogʻzida"
+    }
+  ],
+  "timestamp": "2026-08-26T04:32:26.876511964Z",
+  "model": "glm-5.3"
+}

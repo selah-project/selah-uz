@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "⟨Sen⟩ ⟨את⟩ qoʻlingni ochasan va barcha tirik jonning xohishini toʻydirasan.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "ochasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻlingni"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻlingni"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "va toʻydirasan"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tirik jonning"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "xohishini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:44.855283325Z",
+  "model": "glm-5.3"
+}

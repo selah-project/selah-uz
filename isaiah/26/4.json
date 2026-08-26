@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Yahvega ishoninglar abadiy-abadga, chunki Yahga — Yahve — bosqichlar Qoyi ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "ishoninglar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "עד",
+      "gloss": "abadga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Yahga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Qoyi"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "bosqichlar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:17:31.381392374Z",
+  "model": "glm-5.3"
+}

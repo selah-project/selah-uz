@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Qadim kunlarni, olamlar yillarini oʻylab chiqdim.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "oʻylab chiqdim"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlarni"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "qadim"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "yillarini"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "olamlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:47.544310314Z",
+  "model": "glm-5.3"
+}

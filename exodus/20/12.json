@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Otangni hurmat qil va onangni hurmat qil, shunda Elohiming Yahve senga berayotgan tuproq ustida kunlaring uzoq boʻlur.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "hurmat qil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otangni"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otangni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "onangni"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "onangni"
+    },
+    {
+      "surface": "למען",
+      "gloss": "shunda"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "uzoq boʻlur"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "kunlaring"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berayotgan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:21.724320458Z",
+  "model": "glm-5.3"
+}

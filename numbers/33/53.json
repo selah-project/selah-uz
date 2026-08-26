@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 33:53",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va siz ⟨את⟩ erni meros qilib egallaysizlar va unda yashaysizlar, chunki sizlarga men ⟨את⟩ erni berdim — uni egallash uchun.",
+  "tokens": [
+    {
+      "surface": "והורשתם",
+      "gloss": "meros qilib egallaysizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erni"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "va yashaysizlar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "berdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erni"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "egallash uchun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni (erni)"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:07.146160035Z",
+  "model": "glm-5.3"
+}

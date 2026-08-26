@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "(Solihlar) faryod qildilar va Yahve eshitdi, barcha dardlaridan ularga najot berdi.",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "faryod qildilar"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "va Yahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "barcha … dan"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "dardlaridan"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "ularga najot berdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:32.136888332Z",
+  "model": "glm-5.3"
+}

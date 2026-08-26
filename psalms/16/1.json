@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Dovudga atab yozilgan miktam. Saqla meni, El, chunki men Senga panoh topdim.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga atab"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Saqla meni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "panoh topdim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Senda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:40.819964397Z",
+  "model": "glm-5.3"
+}

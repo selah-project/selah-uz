@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Va ular xalqdan xalqqa, mamlakatdan boshqa elga yurib yurdilar.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "yurib yurdilar"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "xalqdan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "xalqqa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "xalqqa"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "mamlakatdan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elga"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boshqa"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:45.257726844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va bilging qalbing bilan ⟨את⟩ shuni: kishining oʻz oʻgʻlini tarbiyalagani kabi, Yahve, Elohiming, seni tarbiyalayapti.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "va bilging"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "shuni ⟨ki⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "tarbiyalagani"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishining"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz oʻgʻlini"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻz oʻgʻli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "seni tarbiyalayapti"
+    }
+  ],
+  "timestamp": "2026-08-26T08:24:40.691255183Z",
+  "model": "glm-5.3"
+}

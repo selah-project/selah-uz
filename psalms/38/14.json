@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va men kar kabi eshitmayman, va soqqsiz ogʻzini ochmaydi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Va men"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "kar kabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eshitmayman ⟨emas⟩"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "eshitmayman"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "va soqqsiz kabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨emas⟩"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ochmaydi"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ogʻzini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:08.903154367Z",
+  "model": "glm-5.3"
+}

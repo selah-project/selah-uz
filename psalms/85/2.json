@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 85,
+  "translation": "Sen mamnun boʻlding, Yahve, oʻz yering bilan; sen qaytording Yoqubning surgunini.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "mamnun boʻlding"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "yering"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "qaytording"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "surgunini"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yoqub"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:18.943073249Z",
+  "model": "glm-5.3"
+}

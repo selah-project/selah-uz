@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "va ⟨את⟩ yevusiylikni va ⟨את⟩ emoriylikni va ⟨את⟩ girgashiylikni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yevusiylikni"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "yevusiylikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "emoriylikni"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriylikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "girgashiylikni"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "girgashiylikni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:07.370481633Z",
+  "model": "glm-5.3"
+}

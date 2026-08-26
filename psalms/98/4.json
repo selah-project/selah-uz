@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 98,
+  "translation": "Yer yuzining barchasi Yahvega nola-sado bilan baqiring, ovoz chiqarib xursand boʻling va kuylang!",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "baqiring"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer yuzining"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "ovoz chiqarib"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "va xursand boʻling"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "va kuylang"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:56.789048292Z",
+  "model": "glm-5.3"
+}

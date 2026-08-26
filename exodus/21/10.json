@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Agar boshqasini oʻziga olsa, uning oziq-ovqati, kiyimi va yaqinlik huquqi kamaytirilmasin.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "boshqasini"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "olsa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "oʻziga"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "uning oziq-ovqati"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "kiyimi"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "va yaqinlik huquqi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "kamaytirilmasin"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:30.668516336Z",
+  "model": "glm-5.3"
+}

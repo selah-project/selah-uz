@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 2:23",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va odam dedi: Mana bu safat suyagimdan suyak va goʻhtimdan goʻht; bunga ayol deyiladi, chunki bu odamdan olingan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "safat (bu safar)"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "suyak"
+    },
+    {
+      "surface": "מעצמי",
+      "gloss": "suyagimdan"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "va goʻht"
+    },
+    {
+      "surface": "מבשרי",
+      "gloss": "goʻhtimdan"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "buni"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "deyiladi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "odamdan (eishdan)"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "olingan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:43.186356513Z",
+  "model": "glm-5.3"
+}

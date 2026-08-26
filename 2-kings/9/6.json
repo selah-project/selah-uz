@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 9:6",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va u turdi va uyga kirdi; va moyni uning boshiga toʻkdi va unga aytdi: «Shunday deydi Yahve, Isroilning Elohimi: Men seni Yahve xalqi ustiga, Isroil ustiga qirolicha moyladim.»",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Va u turdi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va kirdi"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "uyga"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "va toʻkdi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ega"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "uning boshi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "משחתיך",
+      "gloss": "seni moyladim"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "qirolicha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T03:53:09.814865740Z",
+  "model": "glm-5.3"
+}

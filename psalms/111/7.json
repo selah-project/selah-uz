@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 111,
+  "translation": "Qoʻllarining ishlari — haqiqat va adolat; ishonchli ⟨⟨barcha⟩⟩ Uning buyruqlari.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "ishlari"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "qoʻllarining"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "haqiqat"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "va adolat"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ishonchli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "Uning buyruqlari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:59.185122922Z",
+  "model": "glm-5.3"
+}

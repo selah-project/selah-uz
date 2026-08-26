@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 134,
+  "translation": "Siondan seni barakalasin Yahve — osmonlarni va yerni Yasovchi!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "seni barakalasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siondan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Yasovchi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "va yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:31.665145382Z",
+  "model": "glm-5.3"
+}

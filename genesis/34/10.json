@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "⟨את⟩ biz bilan yashang, va yer sizning oldingizda bo'lsin; yashang, unda savdo-sotiq qiling va uni egallab oling.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "⟨את⟩ biz bilan",
+      "marks": "biz"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "yashang"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "va yer"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bo'lsin"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sizning oldingizda"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "yashang"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "unda savdo-sotiq qiling"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "egallab oling"
+    },
+    {
+      "surface": "בה",
+      "gloss": "uni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:17.640264164Z",
+  "model": "glm-5.3"
+}

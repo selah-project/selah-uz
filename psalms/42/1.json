@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Dirijorga, oʻrgatuvchi sheʼr, Korax oʻgʻillariga.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijorga"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "oʻrgatuvchi sheʼr"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korax"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:46.392468874Z",
+  "model": "glm-5.3"
+}

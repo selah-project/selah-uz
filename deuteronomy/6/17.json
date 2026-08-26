@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Saqlashgina saqlang Yahve, Elohimlaringizning ⟨את⟩ buyruqlarini va uning guvohliklarini va uning farmonlarini, sizlarga buyrug‘ini",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "saqlashgina"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "saqlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyruqlarini"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyruqlarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimlaringizning"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "va uning guvohliklarini"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "va uning farmonlarini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "buyrug‘ini"
+    }
+  ],
+  "timestamp": "2026-08-26T01:49:20.022068436Z",
+  "model": "glm-5.3"
+}

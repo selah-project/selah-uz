@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va Sen — muqaddassan, Isroil madhlari ⟨the⟩ Oʻtiruvchisi",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "va Sen"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "muqaddassan"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Oʻtiruvchisi"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "madhlari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:27.389993700Z",
+  "model": "glm-5.3"
+}

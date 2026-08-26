@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Yahve Kayinga dedi: Nega senga gʻazab yonadi va nega yuzing tushdi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "gʻazab yonadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "va nega"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzing"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:28.402102060Z",
+  "model": "glm-5.3"
+}

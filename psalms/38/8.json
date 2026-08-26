@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Chunki belimlarim yonish bilan toʻldi, va badanimda sogʻliq yoʻq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "belimlarim"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "toʻldi"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "yonish"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "sogʻliq"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "badanimda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:41.443261945Z",
+  "model": "glm-5.3"
+}

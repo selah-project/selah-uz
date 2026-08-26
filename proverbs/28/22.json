@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Boylikka shoshilgan — yomon koʻzli odam, va yetishmovchilik uning ustiga kelishini bilmaydi.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "shoshilgan"
+    },
+    {
+      "surface": "להון",
+      "gloss": "boylikka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "עין",
+      "gloss": "koʻzli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…nishini"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "yetishmovchilik"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "uning ustiga keladi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:51:28.297127986Z",
+  "model": "glm-5.3"
+}

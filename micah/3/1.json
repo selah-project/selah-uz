@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va men aytdim: eshiting, endi, Yaakov boshlari va Isroil uyining hukmdorlari — halok, sizlarga ⟨את⟩ mishpatni bilish taalluqli emasmi?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Va men aytdim"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshiting"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "boshlari"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "va hukmdorlari"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "halok"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mishpatni"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "mishpatni (adolat)"
+    }
+  ],
+  "timestamp": "2026-08-26T05:45:07.525608849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va vazir ularning taomini va ichimlik sharobini olib tashlab, ularga sabzavotlar berardi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va ... edi"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "vazir"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "olib tashlab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning taomini"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "ularning taomini"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "va sharob"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "ularning ichimligini"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "va berardi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "sabzavotlar"
+    }
+  ],
+  "timestamp": "2026-08-26T07:27:22.557098056Z",
+  "model": "glm-5.3"
+}

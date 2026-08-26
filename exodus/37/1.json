@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va Betsalel sandiqni ⟨את⟩ akatsiya yogʻochidan yasadi: uning uzunligi ikki tirsak va yarim, eni bir tirsak va yarim, balandligi bir tirsak va yarim.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandiqni"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandiqni"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsiya"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ikki tirsak"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "va yarim"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uning uzunligi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bir tirsak"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "va yarim"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "uning eni"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bir tirsak"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "va yarim"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "uning balandligi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:36.218441964Z",
+  "model": "glm-5.3"
+}

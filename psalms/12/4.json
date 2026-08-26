@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Kesib tashlasin Yahve barcha silliq lablarni, katta gapirayotgan tilni.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Kesib tashlasin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lablarni"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "silliq"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tilni"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "gapirayotgan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "katta"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:49.138193177Z",
+  "model": "glm-5.3"
+}

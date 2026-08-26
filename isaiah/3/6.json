@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 3:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Zero odam otasining uyida akasidan ushlab oladi va der: sening kiyiming bor — kel, bizga qozih boʻl, bu vayronalik qoʻling ostida boʻlsin.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "zero"
+    },
+    {
+      "surface": "יתפש",
+      "gloss": "ushlab oladi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "akasidan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasining"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "kiyim"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kel"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "qozih"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻl"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "והמכשלה",
+      "gloss": "va bu vayronalik"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻling"
+    }
+  ],
+  "timestamp": "2026-08-26T09:02:54.991750324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va suvlar ularning dushmanlarini yopdi, ularning birortasi qoldi ⟨yoʻq⟩.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "va yopdi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "ularning dushmanlarini"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "birortasi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ularning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨yoʻq⟩"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "qoldi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:58.894028166Z",
+  "model": "glm-5.3"
+}

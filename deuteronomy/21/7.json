@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va javob berib aytadilar: Qoʻllarimiz ⟨את⟩ bu qonni toʻkmadi va koʻzlarimiz koʻrmadi.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "va javob berib"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "aytadilar"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "qoʻllarimiz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-madi"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "toʻkmadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu qonni"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qonni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "va koʻzlarimiz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-madi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "koʻrmadi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:57:58.239862222Z",
+  "model": "glm-5.3"
+}

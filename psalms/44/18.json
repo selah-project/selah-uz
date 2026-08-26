@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Barchasi bu bizning ustimizga keldi, va biz Seni unutmadik, va Sening ahdingga xiyonat qilmadik.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Barchasi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "bizning ustimizga keldi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "Seni unutmadik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "xiyonat qilmadik"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "Sening ahdingga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:08.712865328Z",
+  "model": "glm-5.3"
+}

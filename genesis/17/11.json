@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va ⟨את⟩ tanangizning sunnat terisini kesasizlar, va u bo‘ladi belgi — ahdning, men bilan o‘rtangizda.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "va kesasizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanangizning sunnat terisini"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tanangizning"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "sunnat terisini"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va u bo‘ladi"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "belgi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahdning"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "men bilan"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "o‘rtangizda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:23.527998328Z",
+  "model": "glm-5.3"
+}

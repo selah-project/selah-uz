@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 65,
+  "translation": "Saodatli ⟨⟨dir⟩⟩ sen tanlagan va yaqinlashtirgan kishi — sening hovlilaringda yashaydi; sening uyingning yaxshiligi, muqaddas saroying ⟨bilan⟩ toʻyamiz.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Saodatli"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "tanlagan"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "va yaqinlashtirgan"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "yashaydi"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "sening hovlilaringda"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "toʻyamiz"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "yaxshiligi ⟨bilan⟩"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sening uyingning"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "saroying"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:50.297827485Z",
+  "model": "glm-5.3"
+}

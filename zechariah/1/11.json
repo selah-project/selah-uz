@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 1:11",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va ular javob berdilar Yahve elchisiga ⟨את⟩, ⟨u⟩ hadaslar orasida turganga, va aytdilar: „Biz yerni aylanib yurdik, va mana, butun ⟨the⟩ yer oʻtirgan va jimjit.“",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Va ular javob berdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve elchisi"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "elchisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "turgan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "orasida"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "hadaslar"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va aytdilar"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "biz yurdik"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ yer"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "oʻtirgan"
+    },
+    {
+      "surface": "ושקטת",
+      "gloss": "va jimjit"
+    }
+  ],
+  "timestamp": "2026-08-26T05:51:33.579612568Z",
+  "model": "glm-5.3"
+}

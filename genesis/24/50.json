@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 24:50",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Lavan va Betuel javob berib aytdilar: „Yahvedan chiqdi bu soʻz; biz sizga yomon yoki yaxshi gapira olmaymiz.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Va javob berdi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "ובתואל",
+      "gloss": "va Betuel"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va aytdilar"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahvedan"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqdi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "bu soʻz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maymiz"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "…olmaymiz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapira"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:11.306931202Z",
+  "model": "glm-5.3"
+}

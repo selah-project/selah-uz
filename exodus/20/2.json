@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Men — Yahve, sening Elohiming, seni Misr eridan, qullik uyidan chiqargan.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sening Elohiming"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "chiqargan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "…erdan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…uyidan"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullik"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:22.259990239Z",
+  "model": "glm-5.3"
+}

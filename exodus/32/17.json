@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va Yehoshua ⟨את⟩ ovozini xalqning javob berayotgan paytida eshitdi, va Moshega aytdi: urush ovozi ⟨⟨lagerda⟩⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "javob berayotgan paytida"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "urush"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "lagerda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:30.356138508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 76,
+  "translation": "Chunki odam gʻazabi Senga madh aytkusi, gʻazab qoldigʻini esa Sen bogʻlab olasan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "gʻazabi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "Senga madh aytkusi"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "qoldigʻini"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "gʻazab"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "bogʻlab olasan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:17.719305654Z",
+  "model": "glm-5.3"
+}

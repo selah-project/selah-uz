@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Xor boshligʻiga, torli cholgʻular bilan; taʼlimiy sheʼr, Dovudga.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xor boshligʻiga"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "torli cholgʻular bilan"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "taʼlimiy sheʼr"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:45.261061371Z",
+  "model": "glm-5.3"
+}

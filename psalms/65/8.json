@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 65,
+  "translation": "Dengizlarning shovqinini, toʻlqinlarining shovqinini va xalqlarning gʻalayonini tinchlantiradi.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "tinchlantiradi"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "shovqinini"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dengizlarning"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "shovqinini"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "toʻlqinlarining"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "va gʻalayonini"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "xalqlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:50.298294009Z",
+  "model": "glm-5.3"
+}

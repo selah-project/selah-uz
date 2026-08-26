@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va boʻldi oʻsha kunning aynan oʻzida: Yahve Yisroel oʻgʻillarini ⟨את⟩ Misr yeridan oʻz safarlari boʻyicha chiqardi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "aynan oʻzida"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunning"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "chiqardi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisroel oʻgʻillarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻyicha"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "oʻz safarlari"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:36.039509973Z",
+  "model": "glm-5.3"
+}

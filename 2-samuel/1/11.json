@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Dovud kiyimlaridan mahkam ushladi va ularni yirtdi, va u ⟨את⟩ bilan boʻlgan barcha odamlar ham.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Va…mahkam ushladi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "kiyimlaridan"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "va ularni yirtdi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "va…ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "odamlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "u (Dovud) bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:03:44.560916542Z",
+  "model": "glm-5.3"
+}

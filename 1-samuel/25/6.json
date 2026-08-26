@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va unga shunday deysizlar: ⟨u⟩ umrga! Va sen — salom, va uying — salom, va sening hamma narsang — salom.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "va deysizlar"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "umrga"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "va sen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salom"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "va uying"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sening"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "salom"
+    }
+  ],
+  "timestamp": "2026-08-26T02:57:28.428303411Z",
+  "model": "glm-5.3"
+}

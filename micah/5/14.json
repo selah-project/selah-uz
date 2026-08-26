@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 5:14",
+  "book": "micah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va gʻazab va qahr ila qasos olaman ⟨את⟩ ⟨the⟩ xalqlardan, ki ular eshitmadilar.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Va qilaman"
+    },
+    {
+      "surface": "באף",
+      "gloss": "gʻazab ila"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "va qahr ila"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "qasos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqlardan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlardan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshitmadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:44:01.635679766Z",
+  "model": "glm-5.3"
+}

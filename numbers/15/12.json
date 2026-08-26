@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Qancha qilgan boʻlsangizlar, har biriga ularning soniga koʻra shunday qilingizlar.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "soniga koʻra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "qilgan boʻlsangizlar"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "qilingizlar"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "har biriga"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "ularning soniga koʻra"
+    }
+  ],
+  "timestamp": "2026-08-26T01:34:16.754042403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 121,
+  "translation": "Yordam bermasin oyogʻingning sirpanishiga — uyquga ketmasin seni saqlovchi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…masin"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bermasin"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "sirpanishiga"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "oyogʻing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…masin"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "uyquga ketmasin"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "seni saqlovchi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:09.723941369Z",
+  "model": "glm-5.3"
+}

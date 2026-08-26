@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Ogʻzim donishmandlik soʻzlar soʻzlar, yuragimning muhosabasi aql-idrok ⟨soʻzlari⟩.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ogʻzim"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "soʻzlar"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "donishmandlik soʻzlari"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "va muhosabasi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragimning"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "aql-idrok"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:40.409434876Z",
+  "model": "glm-5.3"
+}

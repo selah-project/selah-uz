@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 4:3",
+  "book": "joel",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "va xalqimga qarshi qurʼa tashladilar, va oʻgʻil bolani fohishaga berdilar, va qiz bolani sharobga sotdilar va ichdilar.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "va …ga qarshi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqimga"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "tashladilar"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "qurʼa"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "va berdilar"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "oʻgʻil bolani"
+    },
+    {
+      "surface": "בזונה",
+      "gloss": "fohishaga"
+    },
+    {
+      "surface": "והילדה",
+      "gloss": "va qiz bolani"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "sotdilar"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "sharobga"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "va ichdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:39:33.029654429Z",
+  "model": "glm-5.3"
+}

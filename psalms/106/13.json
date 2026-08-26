@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Shoshildilar — uning amallarini unutdilar, uning maslahatini kutmadilar.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "shoshildilar"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "unutdilar"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "uning amallarini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-ni"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "kutmadilar"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "uning maslahatini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:45.576232416Z",
+  "model": "glm-5.3"
+}

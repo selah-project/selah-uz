@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Qalqonni va katta qalqonni mahkam ushlangin, va yordamimga koʻtarilgin.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "mahkam ushlangin"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "qalqonni"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "va katta qalqonni"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "va koʻtarilgin"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "yordamimga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:18.211097789Z",
+  "model": "glm-5.3"
+}

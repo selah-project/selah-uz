@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Yahve Moshega aytdi: Parohning yuragi ogʻir, u xalqni qoʻyib yuborishdan bosh tortadi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ogʻir"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuragi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "bosh tortadi"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "qoʻyib yuborishdan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:26.590081804Z",
+  "model": "glm-5.3"
+}

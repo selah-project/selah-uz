@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Emasmi, shu vaqtdan beri Menga: „Otam, yoshligimning doʻsti Sensan“ deb chaqiryapsan?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "emasmi"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "shu vaqtdan"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "chaqiryapsan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Otam"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "doʻsti"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "yoshligimning"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sensan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:38:11.588615367Z",
+  "model": "glm-5.3"
+}

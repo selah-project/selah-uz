@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 16:10",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va seni kashta kiyim bilan kiyintirdim, va seni taxash terisidan oyoq kiyim kiydirdim, va senni ipak bilan belladim, va senni mulmul bilan yopdim.",
+  "tokens": [
+    {
+      "surface": "ואלבישך",
+      "gloss": "va seni kiyintirdim"
+    },
+    {
+      "surface": "רקמה",
+      "gloss": "kashta kiyim"
+    },
+    {
+      "surface": "ואנעלך",
+      "gloss": "va seni oyoq kiyim kiydirdim"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "taxash terisi"
+    },
+    {
+      "surface": "ואחבשך",
+      "gloss": "va seni belladim"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "nozik ipak bilan"
+    },
+    {
+      "surface": "ואכסך",
+      "gloss": "va seni yopdim"
+    },
+    {
+      "surface": "משי",
+      "gloss": "mulmul bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:14:05.994676535Z",
+  "model": "glm-5.3"
+}

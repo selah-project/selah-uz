@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va boʻlsinki, Yahve hakam boʻlib dudiq qilsin meni va seni oʻrtamda, va koʻrsin, va ⟨את⟩ daʼvomi uchun kurashsin, va mendan xalos qilsin qoʻlidan.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "va boʻlsinki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "hakam boʻlib"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "va dudiq qilsin"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "meni"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "va seni oʻrtamda"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrsin"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "va kurashsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daʼvom"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "daʼvom"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "va xalos qilsin"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "qoʻlidan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:54:34.309828942Z",
+  "model": "glm-5.3"
+}

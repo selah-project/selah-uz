@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Yaqiningga ⟨את⟩ zulm qilma va uni talon-taroj qilma; yollanmanning mehnati sening ⟨את⟩ bilan tongga qadar tunda qolmasin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "qilma"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "zulm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaqining (yaqingga)"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "yaqining"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va qilma"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "talon-taroj qil"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qolmasin"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "tunda qol"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mehnati"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "yollanmanning"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bilan (sening)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qadar"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tong"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:53.985783730Z",
+  "model": "glm-5.3"
+}

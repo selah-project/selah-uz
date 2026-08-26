@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Yahveʼga shukur aytingki, chunki ⟨u⟩ yaxshidir, chunki abadiygacha ⟨dir⟩ uning xesedi.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "shukur ayting"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveʼga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshidir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiygacha"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "uning xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:40.763911660Z",
+  "model": "glm-5.3"
+}

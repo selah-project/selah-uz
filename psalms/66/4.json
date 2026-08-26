@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Butun yer sizga sajda qiladi va sizga chaladi, ular Ismingizni chaladilar. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "sajda qiladi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "va chaladi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "chaladilar"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Ismingizni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:04.664715304Z",
+  "model": "glm-5.3"
+}

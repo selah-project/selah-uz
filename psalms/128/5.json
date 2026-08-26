@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 128,
+  "translation": "Yahve seni Siondan barokla-sin, va Yerushalaimning yaxshiligini koʻr, hayotning barcha kunlaringda.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "seni barokla-sin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Siondan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "va koʻr"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "yaxshiligini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaimning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlaringda"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "hayotining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:38.266782077Z",
+  "model": "glm-5.3"
+}

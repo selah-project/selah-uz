@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Toʻrtburchak boʻladi ⟨u⟩, ikki qatlamli: bir qoʻl choʻzimi uning uzunligi va bir qoʻl choʻzimi uning kengligi.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "toʻrtburchak"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "ikki qatlamli"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "bir qoʻl choʻzimi"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uning uzunligi"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "va bir qoʻl choʻzimi"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "uning kengligi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:44.693274849Z",
+  "model": "glm-5.3"
+}

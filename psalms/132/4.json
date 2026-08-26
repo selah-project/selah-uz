@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 132,
+  "translation": "agar koʻzlarimga uyqu, qovoqlarimga mastalik bermasam —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "bermasam"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "uyqu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "koʻzlarimga"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "qovoqlarimga"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "mastalik (mushuk uyqusi)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:39.035566185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Eslang Uning moʻjizalarini ki qildi, belgililarini va ogʻizining hukmlarini.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Eslang"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "moʻjizalarini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "belgililarini"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "va hukmlarini"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ogʻizining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:16.812607257Z",
+  "model": "glm-5.3"
+}

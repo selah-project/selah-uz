@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va yarim kechada boʻldi: odam qoʻrqdi va oʻgirildi — va mana, bir ayol uning oyoqlari buyida yotardi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "yarim…da"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "kecha"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "qoʻrqdi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "oʻgirildi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "bir ayol"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "yotardi"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "uning oyoqlari buyida"
+    }
+  ],
+  "timestamp": "2026-08-26T07:14:06.857650749Z",
+  "model": "glm-5.3"
+}

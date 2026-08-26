@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Tuproqni ishlatsang, u oʻz kuchini endi senga bermaydi; gʻarib va qochgʻin boʻlasan yerda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…ganda"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ishlatsang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuproqni"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproqni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "endi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "bermaydi"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "oʻz kuchini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "נע",
+      "gloss": "gʻarib"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "va qochgʻin"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻlasan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:07.314437403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va shundan keyin boʻldiki, Dovud Filistiylarni urdi va ularni boʻysundirdi; va Dovud ⟨את⟩ asosiy-shahar jilovini Filistiylar qoʻlidan oldi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shundan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistiylarni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiylarni"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "boʻysundirdi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asosiy-shahar jilovini"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "jilovini"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "asosiy-shahar"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistiylar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:08:45.157903971Z",
+  "model": "glm-5.3"
+}

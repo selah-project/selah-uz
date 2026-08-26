@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Sende dushmanlarimizni suyib tashlaymiz, Sening Ismingda bizga qarshi koʻtarilganlarni yanchib yuboramiz.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Sende"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "dushmanlarimizni"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "suyib tashlaymiz"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Sening Ismingda"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "yanchib yuboramiz"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "bizga qarshi koʻtarilganlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:33.471711493Z",
+  "model": "glm-5.3"
+}

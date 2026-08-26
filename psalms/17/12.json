@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Uning koʻrinishi yirtib olishga intilgan sherdek, yashirin joylarda oʻtirgan sher bolisidek.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "uning koʻrinishi"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sherdek"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "intiladi"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "yirtib olishga"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "sher bolisidek"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oʻtirgan"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "yashirin joylarda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:45.136082183Z",
+  "model": "glm-5.3"
+}

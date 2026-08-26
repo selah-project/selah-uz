@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Chunki ular tinchlik soʻzlamaydilar, yer tinch aholisiga qarshi aldov soʻzlarni oʻylab topadilar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—maydilar"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "soʻzlamaydilar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "tinch"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "aldov"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "oʻylab topadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:59.332168797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va Yahve Moshe bilan gaplashdi: Bor, pastga tush, chunki buzdi sening xalqing, seni Misr yeridan koʻtarib chiqargan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gaplashdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bor"
+    },
+    {
+      "surface": "רד",
+      "gloss": "pastga tush"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "buzdi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sening xalqing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seni"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "koʻtarib chiqargan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T01:03:23.225815446Z",
+  "model": "glm-5.3"
+}

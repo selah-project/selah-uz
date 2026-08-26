@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Hatto barcha soʻzlarga — ular gapirgan — qalbingni bermagin, ⟨shundaki⟩ ⟨את⟩ qulingni eshitmaging uchun: seni soʻkayotganini.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha…ga"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "gapirilgan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bermagin (inkor)"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bermagin"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "qalbingni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "shundaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "eshitmaging"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulingni"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulingni"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "seni soʻkayotganini"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:21.495576337Z",
+  "model": "glm-5.3"
+}

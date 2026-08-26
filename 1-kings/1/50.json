@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-kings 1:50",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Adoniyaxu qoʻrqdi Shlomodan, va turdi, va bordi, va qarndi mizbax shohlaridan mahkam ushlab.",
+  "tokens": [
+    {
+      "surface": "ואדניהו",
+      "gloss": "Va Adoniyaxu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qoʻrqdi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-dan yuz oʻgirib"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va bordi"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "va mahkam ushladi"
+    },
+    {
+      "surface": "בקרנות",
+      "gloss": "qarndi mizbax shohlaridan"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbaxning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:24:09.725519962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Yahve sen ustinga ⟨את⟩ laʼnatni, ⟨את⟩ tartibsizlikni va ⟨את⟩ qattiq tanbehni yuboradi — qoʻlingni uzatgan har bir ishingda ki qilasan — sen tugul yoʻq qilinmaguningcha va tez halok boʻlmaguningcha, yomon qilmishlaring yuzasidan, ki Meni tashlab ketding.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "yuboradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "sen ustinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "laʼnatni"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "laʼnatni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tartibsizlikni"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "tartibsizlikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "qattiq tanbehni"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "qattiq tanbehni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "uzatgan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻlingni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qilasan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "yoʻq qilinmaguningcha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va …guningcha"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "halok boʻlmaguningcha"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "tez"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzasidan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "qilmishlaring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "Meni tashlab ketding"
+    }
+  ],
+  "timestamp": "2026-08-26T02:05:30.591715016Z",
+  "model": "glm-5.3"
+}

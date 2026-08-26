@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Yahveni butun yuragim bilan olqishlayman, barcha mo'jizalaringni hikoya qilaman.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "olqishlayman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim bilan"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "hikoya qilaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "mo'jizalaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:24.613873661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Agar xalqimga, yonimdagi kambagʻalga kumush qarz bersang, unga qarz beruvchi boʻlmagin, unga foiz qoʻymanglar.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "qarz bersang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqimga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqimga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kambagʻalga"
+    },
+    {
+      "surface": "העני",
+      "gloss": "⟨the⟩ kambagʻal"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yoningdagi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻlmagin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "qarz beruvchi kabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "qoʻymanglar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "foiz (nus — soʻzma-soʻz „tishlash“)"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:28.139201013Z",
+  "model": "glm-5.3"
+}

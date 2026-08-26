@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 75,
+  "translation": "Shoxlaringizni balandlikka ko'tarmanglar, qattiq bo'yin bilan gapirmanglar.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ko'tarmanglar"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "balandlikka"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "shoxlaringizni"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "gapirmanglar"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "bo'yin bilan"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "qattiq"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:25.224068798Z",
+  "model": "glm-5.3"
+}

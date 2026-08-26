@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Yehoʻshua ertalab erta turdi va ⟨את⟩ xalqni sanab chiqdi, va u va Isroil qariyalari xalqning oldida Ay tomon koʻtarildilar.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "va erta turdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoʻshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ertalab"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "va sanadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalq"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "va koʻtarildi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "va qariyalari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ay"
+    }
+  ],
+  "timestamp": "2026-08-26T02:13:33.862066086Z",
+  "model": "glm-5.3"
+}

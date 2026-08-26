@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Va u ⟨את⟩ ularni efodining yelkalariga qoʻydi — Yisroel oʻgʻillari uchun esdalik toshlari — Yahve ⟨את⟩ Mo'hega buyurganidek.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni (toshlarni)"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "yelkalariga"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efodining"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "toshlari"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "esdalik"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillari uchun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…dek"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mo'she"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mo'she"
+    }
+  ],
+  "timestamp": "2026-08-26T01:07:09.528953255Z",
+  "model": "glm-5.3"
+}

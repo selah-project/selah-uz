@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Sulandim oʻtdek, va qurib qoldi yuragim, chunki nonimni yeyishni unutdim.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "Sulandim"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "oʻtdek"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "va qurib qoldi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutdim"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "yeyishni"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "nonimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:19.546923216Z",
+  "model": "glm-5.3"
+}

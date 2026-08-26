@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 16:18",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va sen ⟨את⟩ naqshli kiyimlaringni olding va ularni ularga yopding, va menig moyimni va menig uddongni ularning oldiga qoʻyding.",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "va sen olding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naqshli kiyimlaringni"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kiyimlaringni"
+    },
+    {
+      "surface": "רקמתך",
+      "gloss": "naqshli"
+    },
+    {
+      "surface": "ותכסים",
+      "gloss": "va sen yopding"
+    },
+    {
+      "surface": "ושמני",
+      "gloss": "va menig moyimni"
+    },
+    {
+      "surface": "וקטרתי",
+      "gloss": "va menig uddongni"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "men qoʻydim"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ularning oldiga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:14:22.766048809Z",
+  "model": "glm-5.3"
+}

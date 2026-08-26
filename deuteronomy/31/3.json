@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Yahve, Elohiming — U oʻtadi oldingdan, U yoʻq qiladi ⟨את⟩ xalqlarni shu ⟨xalqlarni⟩ yuzingdan, va sen meros olasan ularni; Yehoshua — u oʻtadi oldingdan, Xuddi gapirgandek Yahvening",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oʻtadi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "oldingdan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "yoʻq qiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqlarni"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "yuzingdan"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "va meros olasan ularni"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oʻtadi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "oldingdan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xuddi ...gandek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    }
+  ],
+  "timestamp": "2026-08-26T02:06:16.539711897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 6:12",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va u Yahve qurbongohi oldida, butun Isroil jamoasi roʻparasida turdi va kaftlarini yoydi.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "roʻparasida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamoati"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "va yoydi"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "kaftlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:05:42.434197695Z",
+  "model": "glm-5.3"
+}

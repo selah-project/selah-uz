@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 138,
+  "translation": "Yahve meni uchun bajaradi; Yahve, Sening xeseding abadiydir — qoʻllaringning ishlarini tashlab yuborma.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "bajaradi"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "meni uchun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ishlarini"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "qoʻllaringning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tashlab yuborma — negatsiya"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "tashlab yuborma"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:37.523431590Z",
+  "model": "glm-5.3"
+}

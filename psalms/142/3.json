@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 142,
+  "translation": "Oldiga murojaatimni toʻkib yuboraman, oldiga tangligimni aytaman.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "toʻkib yuboraman"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Oldiga"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "murojaatimni"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "tangligimni"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "aytaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:09.402176836Z",
+  "model": "glm-5.3"
+}

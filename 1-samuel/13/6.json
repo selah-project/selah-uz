@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Isroil erkaklari koʻrdilar — oʻzlari uchun siqiqlik bor, chunki xalq ezilgan edi; va xalq gʻorlarda, butazorlarda, qoyalarda, qoʻrgʻonlarda va chuqurlarda yashirindi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Va erkaklari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "koʻrdilar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "צר",
+      "gloss": "siqiqlik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "oʻzi uchun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "ezilgan edi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "va yashirindi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "gʻorlarda"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "butazorlarda"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "qoyalarda"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "qoʻrgʻonlarda"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "chuqurlarda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:46:53.138871331Z",
+  "model": "glm-5.3"
+}

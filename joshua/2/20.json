@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va agar sen ⟨את⟩ bu so‘zimizni oshkor qilsang, sen bizni qasam ichga majbur qilgan qasamingdan gunohsiz boʻlamiz.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "oshkor qilsang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu soʻzimizni"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "soʻzimizni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "boʻlamiz"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "gunohsiz"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "qasamingdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sen"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "bizni qasam ichga majbur qilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:10:42.238137326Z",
+  "model": "glm-5.3"
+}

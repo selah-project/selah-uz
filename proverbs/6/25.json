@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Goʻzalligini yuragingda orzu qilma, va koʻz qovoqlari seni olmasin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "...ma"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "orzu qilma"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "goʻzalligini"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "yuragingda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ...masin"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "seni olmasin"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "koʻz qovoqlari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:40:48.646157191Z",
+  "model": "glm-5.3"
+}

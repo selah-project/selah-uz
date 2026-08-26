@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Xandaq qazgan uning ichiga tushadi, devni buzganni esa ilon chaqadi.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "qazgan"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "xandaq"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uning ichiga"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "tushadi"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "buzgan"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "dev"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "chaqadi"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ilon"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:17.773813547Z",
+  "model": "glm-5.3"
+}

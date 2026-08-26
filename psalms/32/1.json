@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Dovudga. Mashkil. Ne baxtli ⟨is⟩ — isyoni koʻtarilgan ⟨is⟩, gunyohi yopilgan ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mashkil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ne baxtli"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "koʻtarilgan"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "isyon"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "yopilgan"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "gunyoh"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:50.059395970Z",
+  "model": "glm-5.3"
+}

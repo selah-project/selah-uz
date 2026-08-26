@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Sening oʻqlaring oʻtkir — xalqlar oyogʻing ostida yiqiladi — ⟨sanchilib⟩ shohning dushmanlari yuragiga.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "oʻqlaring"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "oʻtkir"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "oyogʻing ostida"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "yiqiladi"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "yuragiga"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dushmanlari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shohning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:57.935083135Z",
+  "model": "glm-5.3"
+}

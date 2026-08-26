@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Dirijentga, torli cholgʻular bilan, David mizmori.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijentga"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "torli cholgʻular bilan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Davidga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:27.585215153Z",
+  "model": "glm-5.3"
+}

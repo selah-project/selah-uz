@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va u muqaddas fohishalarni yerdan olib tashladi va otalari qilgan barcha butlarni yoʻq qildi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Va ... olib tashladi"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "muqaddas fohishalarni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "va ... yoʻq qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha butlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "butlarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otalari"
+    }
+  ],
+  "timestamp": "2026-08-26T03:39:29.390374995Z",
+  "model": "glm-5.3"
+}

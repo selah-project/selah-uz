@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Men — Yahve, sening Elohiming, Misr yeridan; yana seni chodirlarda qoʻnatib qoʻyaman, belgilangan bayram kunlaridagidek.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Va Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sening Elohiming"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "seni qoʻnatib qoʻyaman"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "chodirlarda"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kunlaridagidek"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "belgilangan muddat (bayram)"
+    }
+  ],
+  "timestamp": "2026-08-26T05:37:50.501896616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va ⟨u⟩ shamdonni uchrashuv chodirida, stolning roʻparasida, maskanning janubiy yon tomonida qoʻydi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shamdonni"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "shamdonni"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "chodirida"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "roʻparasida"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stolning"
+    },
+    {
+      "surface": "על",
+      "gloss": "tomonida"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yon tomonida"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "maskanning"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "janubiy"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:03.652043385Z",
+  "model": "glm-5.3"
+}

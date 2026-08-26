@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va ularga aytasan: shunday deydi Yahve: yiqilganmi va turmaydimi? qaytganimi va qaytmaydimi?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Va ularga aytasan"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "yiqilganmi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "turmaydimi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qaytganimi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qaytmaydimi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:43:51.084470845Z",
+  "model": "glm-5.3"
+}

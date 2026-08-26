@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 48:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 48,
+  "translation": "Va menga aytdi: mana, Men seni mevador qilaman va seni koʻpaytiraman va senni xalqlar jamosiga aylantiraman va ⟨את⟩ bu yerni sening urugʻinga sening orqangdan abadiy mulk qilib beraman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מפרך",
+      "gloss": "seni mevador qilaman"
+    },
+    {
+      "surface": "והרביתך",
+      "gloss": "va seni koʻpaytiraman"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "va senni qilaman"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "jamo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "va beraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "sening urugʻingga"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sening orqangdan"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "mulk"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:20.525899814Z",
+  "model": "glm-5.3"
+}

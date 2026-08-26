@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 126,
+  "translation": "Qaytar, ey Yahve, ⟨את⟩ asoratimizni — Janubdagi soyabandlar kabi!",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "qaytar (qaytgin)"
+    },
+    {
+      "surface": "יהה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asoratimizni"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "asoratimiz"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "soyalar kabi"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "Janubda (Negʼev)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:06.982433838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "ki ⟨u⟩ koʻp xalqlarni urdi va kuchli shohlarni oʻldirdi.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "ki ⟨u⟩ urdi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "va oʻldirdi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "shohlarni"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "kuchli"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:02.571615871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va sizlar ⟨את⟩ farmonlarimni va ⟨את⟩ hukmlarimni saqlang, va bu jirkanchliklarning hech birini qilmang — mahalliy ham, ichingizda yashovchi musofir ham.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "saqlang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farmonlarimni"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "farmonlarimni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hukmlarimni"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmlarimni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "qilmang"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hech birini"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "jirkanchliklarning"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "mahalliy"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "va musofir"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "yashovchi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ichingizda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:53.758779132Z",
+  "model": "glm-5.3"
+}

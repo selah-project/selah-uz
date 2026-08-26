@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Va men nodon edim va bilmasdim; Sen bilan hayvon boʻldim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "va men"
+    },
+    {
+      "surface": "בער",
+      "gloss": "nodon"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va bilmasdim"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "⟨bilardim⟩"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "hayvon"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "boʻldim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Sen bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:11.071152800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 9:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va sizning qoʻrquvingiz va vahimingiz yer yuzidagi barcha jonli hayvonlar ustida va osmonlardagi barcha qushlar ustida boʻladi; tuproqda sudralib yuruvchi hamma narsada va dengizdagi barcha baliqlarda — qoʻlingizga topshirildilar.",
+  "tokens": [
+    {
+      "surface": "ומוראכם",
+      "gloss": "va sizning qoʻrquvingiz"
+    },
+    {
+      "surface": "וחתכם",
+      "gloss": "va sizning vahimingiz"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "חית",
+      "gloss": "jonli hayvonlari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... ustida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "qushlari"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlarning"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hamma narsada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "sudralib yuradi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproq"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va ... barcha"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "baliqlari"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengizning"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "qoʻlingizga"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "topshirildilar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:44.142038854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 92,
+  "translation": "Mizmor, qoʻshiq — shanba kuni uchun.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kuni uchun"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shanba"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:37.462458462Z",
+  "model": "glm-5.3"
+}

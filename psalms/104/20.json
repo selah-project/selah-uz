@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Sen qorongʻilikni qoʻyasanki, va tun boʻladi; unda oʻrmonning barcha hayvonlari sudralib yuradi.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "qoʻyasanki"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "qorongʻilikni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va ... boʻladi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tun"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unda"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "sudralib yuradi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "hayvonlari"
+    },
+    {
+      "surface": "יער",
+      "gloss": "oʻrmonning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:59.450483986Z",
+  "model": "glm-5.3"
+}

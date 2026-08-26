@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Buning bilan bilamanki, Sendan marhamat topsanmanimda — chunki dushmanim ustimga baqirmaydi.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "buning bilan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilamanki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "marhamat topsanmanimda"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Sendan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "baqirmaydi"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "baqir"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dushmanim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:43.912872369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 47,
+  "translation": "Va Yosef otasini ⟨את⟩, aka-ukalarini ⟨את⟩ va otasining butun uy xoʻjaligini ⟨את⟩ goʻdaklar ogʻziga qarab non bilan taʼminladi.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "va taʼminladi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otasini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "aka-ukalarini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "aka-ukalarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun uy xoʻjaligini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasining"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "... ga qarab"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "goʻdaklar ogʻzi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:47:54.301716998Z",
+  "model": "glm-5.3"
+}

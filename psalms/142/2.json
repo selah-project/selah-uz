@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 142,
+  "translation": "Ovozim bilan Yahvega nidoyi qilaman, ovozim bilan Yahvedan iltijo qilaman.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Ovozim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "nidoyi qilaman"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ovozim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvedan"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "iltijo qilaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:09.401999087Z",
+  "model": "glm-5.3"
+}

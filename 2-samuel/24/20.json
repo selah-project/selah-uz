@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Aravna qarab chiqdi va ⟨את⟩ podshohni va ⟨את⟩ uning qullarini oʻzi tomon oʻtayotganini koʻrdi; Aravna chiqdi va podshoh oldida yuzi yer bilan sajda qildi.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "qarab chiqdi"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podshohni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning qullarini"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "uning qullari"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "oʻtayotganini"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oʻzi tomon"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "va chiqdi"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "va sajda qildi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "podshoh oldida"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "yuzi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yer bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:23:18.586932065Z",
+  "model": "glm-5.3"
+}

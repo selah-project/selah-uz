@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va agar u ayol boʻlsa, baholang oʻttiz shakel boʻlsin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Va agar"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻlsin"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "baholang"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "oʻttiz"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shakel"
+    }
+  ],
+  "timestamp": "2026-08-26T01:24:50.918241562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "⟨את⟩ kichik boyoʻgʻli, va ⟨את⟩ katta boyoʻgʻli, va oq boyoʻgʻlni.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kichik boyoʻgʻli"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kichik boyoʻgʻli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "katta boyoʻgʻli"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "katta boyoʻgʻli"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "va oq boyoʻgʻlni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:54:28.033577329Z",
+  "model": "glm-5.3"
+}

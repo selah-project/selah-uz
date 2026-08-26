@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 63,
+  "translation": "Shunday qilib, tirikligimcha Seni barakalayman, ismingda kaftlarimni koʻtaraman.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "shunday qilib"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "Seni barakalayman"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "tirikligimcha"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ismingda"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "koʻtaraman"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "kaftlarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:24.694839908Z",
+  "model": "glm-5.3"
+}

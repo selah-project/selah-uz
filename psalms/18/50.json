@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Shuning uchun men Seni xalqlar orasida ulugʻlayman, ey Yahve, va Sening Ismingga kuylab madh aytaman.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "shunga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "koʻra (sabab bilan)"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "men Seni ulugʻlayman"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar orasida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "va Sening Ismingga"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "kuylab madh aytaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:26.418145177Z",
+  "model": "glm-5.3"
+}

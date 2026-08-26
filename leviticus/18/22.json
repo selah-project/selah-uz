@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va ⟨את⟩ erkak bilan ayol yonishidek yotmaysan — yiringli nafras ⟨bu⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "erkak bilan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "yotmaysan"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "yonishidek"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "yiringli nafras"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨bu⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:47.971146984Z",
+  "model": "glm-5.3"
+}

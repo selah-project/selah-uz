@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 2:19",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve Elohim tuproqdan dalaning barcha hayvonlarini va osmonning barcha qushlarini shakllantirdi va odamga olib keldi — ularga nom berishini koʻrish uchun; va odam jonli jonni nima deb atasa — bu uning nomi boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "va shakllantirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "חית",
+      "gloss": "hayvon"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha osmon qushlari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "qush"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va olib keldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "koʻrish uchun"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ataydi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha narsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ni"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "atasa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jon"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "jonli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning nomi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:51.004044414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 85,
+  "translation": "Eshiturman — nima gapirur El Yahve, chunki U gapirur tinchlikni xalqiga va sodiqlariga; va qaytmasinlar ahmoqlikka.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "Eshiturman"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "gapirur"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "gapirur"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlikni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqiga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …ga"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sodiqlariga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …masin"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "qaytmasinlar"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "ahmoqlikka"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:01.804634814Z",
+  "model": "glm-5.3"
+}

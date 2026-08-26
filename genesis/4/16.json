@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Kayin Yahve yuzidan chiqdi va Nod yerida, Edenning sharqida yashadi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Va chiqdi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va yashadi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "sharqida"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:16.353474901Z",
+  "model": "glm-5.3"
+}

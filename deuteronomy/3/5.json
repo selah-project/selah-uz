@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Shu shaharlarning barchasi mustahkam ⟨edi⟩ — baland devor, eshiklar va zatvorlar — ochiq ⟨dala⟩ shaharlaridan tashqari, juda koʻp.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "shaharlarning"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "mustahkam"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "devor"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "baland"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "eshiklar"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "va zatvorlar"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "tashqari"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "shaharlaridan"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ochiq ⟨dala⟩"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:48:01.506489212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Senga tashlandim homilalikdan; onamning qornidan — Elim Sensan.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "tashlandim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "homilalikdan"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "qornidan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "onamning"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sensan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:24.471649845Z",
+  "model": "glm-5.3"
+}

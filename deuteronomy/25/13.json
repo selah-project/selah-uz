@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Sening ichki chambaringda ⟨boʻlmasin⟩ tosh va tosh — katta va kichik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlmasin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sening"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "ichki chambaringda"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "tosh"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "va tosh"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "katta"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "va kichik"
+    }
+  ],
+  "timestamp": "2026-08-26T08:59:46.169232906Z",
+  "model": "glm-5.3"
+}

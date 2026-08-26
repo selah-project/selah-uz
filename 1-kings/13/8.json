@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Elohit odami podshohga dedi: Agar menga uyingning yarimini ⟨את⟩ bersang ham, sen bilan kirmayman va non yemayman va suv ichmayman bu joyda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odami"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bersang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yarimini"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "yarimini"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "uyingning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "kirmayman"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sen bilan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yemayman"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ichmayman"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "joyda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T03:35:31.084410392Z",
+  "model": "glm-5.3"
+}

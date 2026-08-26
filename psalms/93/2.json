@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 93,
+  "translation": "Mustahkamdir taxting ⟨qadim zamondan⟩, abaddan Sen ⟨bor⟩san.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "mustahkamdir"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "taxting"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "⟨qadim zamondan⟩"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "abaddan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:19.749087713Z",
+  "model": "glm-5.3"
+}

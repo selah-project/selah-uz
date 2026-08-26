@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va ular ustiga qoʻlini koʻtardi — ⟨את⟩ ularni choʻlda yiqitish uchun ⟨uchun qasam ichdi⟩.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "va koʻtardi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ular ustiga"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "yiqitish uchun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:08.714122240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 36:13",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Va Mikayahu ularga ⟨את⟩ barcha soʻzlarni xabar berdi, Barux kitobni xalqning qulogʻiga oʻqiganida eshitgan soʻzlarni.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "xabar berdi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha soʻzlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ni"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitgan"
+    },
+    {
+      "surface": "בקרא",
+      "gloss": "oʻqiganida"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Barux"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kitobni"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "qulogʻiga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    }
+  ],
+  "timestamp": "2026-08-26T04:57:55.572674223Z",
+  "model": "glm-5.3"
+}

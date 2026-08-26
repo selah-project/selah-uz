@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Xannaga esa bir marta ikki ulush berardi, chunki ⟨את⟩ Xannani sevar edi va Yahve uning bachadonini berkib qoʻygandi.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "Xannaga esa"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "berardi"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "ulush"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ikki (burun-uchi — ikki karra ulush)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xannani"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Xanna"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevar edi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "va Yahve"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "berkib qoʻygandi"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "uning bachadonini"
+    }
+  ],
+  "timestamp": "2026-08-26T02:39:54.782849993Z",
+  "model": "glm-5.3"
+}

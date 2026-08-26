@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 80,
+  "translation": "Nima uchun sen uning toʻsiqlarini yiqding, va yoʻl oʻtuvchilarining barchasi ⟨uni⟩ terib ketadi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "yiqding"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "uning toʻsiqlarini"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "va ⟨uni⟩ terib ketadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "oʻtuvchilari"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻl"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:48.642241285Z",
+  "model": "glm-5.3"
+}

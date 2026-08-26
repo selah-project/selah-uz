@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Osmonlarni qoraytirman va ularning yopinchiqlari sifatida jun xalta qo'yaman.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "kiyintiraman"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "qoraytirman"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "va jun xalta"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "qo'yaman"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "ularning yopinchiqlari sifatida"
+    }
+  ],
+  "timestamp": "2026-08-26T04:32:02.264533556Z",
+  "model": "glm-5.3"
+}

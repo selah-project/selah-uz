@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Dovud ⟨את⟩ Hadadezerni — Rexov oʻgʻli, Soboh podshohini — urdi, u oʻz qoʻlini daryo boʻyida qaytarish uchun ketayotgan edi.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezerni"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezerni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rexov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Soboh"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "ketayotganida"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "qaytarish uchun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "oʻz qoʻlini"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "daryo boʻyida"
+    }
+  ],
+  "timestamp": "2026-08-26T03:08:45.158343762Z",
+  "model": "glm-5.3"
+}

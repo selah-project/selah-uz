@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Koʻzning koʻrishi nefeshning yurishidan yaxshiroq; bu ham hebel va ruaxning yomonligi ⟨dir⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxshiroq"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "koʻrishi"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "koʻzning"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "yurishi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshning"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "va yomonligi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruaxning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:42.261724890Z",
+  "model": "glm-5.3"
+}

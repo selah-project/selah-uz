@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va u ularni Bezekda sanadi; va Isroil oʻgʻillari uch yuz ming ⟨edi⟩, va Yehuda odami oʻttiz ming.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "va sanadi ularni"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "Bezekda"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "va edilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uch"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "va odami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "oʻttiz"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    }
+  ],
+  "timestamp": "2026-08-26T02:48:37.769468341Z",
+  "model": "glm-5.3"
+}

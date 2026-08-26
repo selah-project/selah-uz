@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Men senga soʻzlarni qaytaraman va ⟨את⟩ doʻstlaringni birga bilan senga.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "senga qaytaraman"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "doʻstlaringni"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "doʻstlaringni"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "birga bilan senga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:06:14.930978167Z",
+  "model": "glm-5.3"
+}

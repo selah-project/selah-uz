@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Paroh Moshe va Aharonga chaqirdi va dedi: boring, Elohimlaringizga ⟨bu⟩ yurt ichida qurbon kesib beringlar.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "va Aharonga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "boring"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "qurbon kesib beringlar"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "Elohimlaringizga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yurt ichida"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:37.917789598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Bekorlikdan kelgan boylik kamayadi, qoʻl bilan yigʻuvchi esa koʻpaytiradi.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "boylik"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "bekorlikdan"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "kamayadi"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "esa yigʻuvchi"
+    },
+    {
+      "surface": "על",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "koʻpaytiradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:44:08.435394937Z",
+  "model": "glm-5.3"
+}

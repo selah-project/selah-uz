@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Nima bo'lgan bo'lsa — allaqachon o'sha; va bo'ladigan narsa — allaqachon bo'lgan; va Elohim ⟨את⟩ ta'qib qilinganni qidiradi.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nima"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "bo'lgan"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "allaqachon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o'sha"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": ""
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bo'ladigan"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "allaqachon"
+    },
+    {
+      "surface": "היה",
+      "gloss": "bo'lgan"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "va Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "qidiradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ta'qib qilinganni"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "ta'qib qilinganni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:47.776575803Z",
+  "model": "glm-5.3"
+}

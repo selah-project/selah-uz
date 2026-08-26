@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "U ⟨את⟩ Aram Naharayim va ⟨את⟩ Aram Tsova bilan kurashgan chogʻida, Yoav qaytdi va ⟨את⟩ Edomni tuz vodiysida urdi — oʻn ikki ming.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "kurashgan chogʻida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram Naharayim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Aram Tsova"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsova"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomni"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "vodiysida"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "tuz"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "oʻn ikki („ikki“)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn („oʻn“)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:08.159812911Z",
+  "model": "glm-5.3"
+}

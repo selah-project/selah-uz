@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Elohim ⟨את⟩ rakiyani yasadi, va ajratdi suvlarning orasida — ⟨the⟩ suvlarki rakiya ostidadirlar va ⟨the⟩ suvlarki rakiya ustidadirlar; va shunday boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va yasadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rakiyani"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "rakiyani"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "va ajratdi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "orasida"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlarning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kki"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiyadan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va orasida"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlarning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kki"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "rakiyadan"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:52.237316645Z",
+  "model": "glm-5.3"
+}

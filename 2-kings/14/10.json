@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Albatta urib yengding ⟨את⟩ Edomni, va yuraging seni koʻtardi — ulugʻlanib, uyingda oʻtirgin; va nega yomonlikda tortashibsan, seni yiqilish uchun — sen va Yahudo sen bilan birga?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "albatta urib"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "yengding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomni"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomni"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "va seni koʻtardi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "yuraging"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ulugʻlanib"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "va oʻtirgin"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "uyingda"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "va nega"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "tortashibsan"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "yomonlikda"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "yiqilish uchun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "va Yahudo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sen bilan birga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:55:14.099673945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "va Sen osmonlardan eshitib qilasan va qullaringni hukm qilasan — ⟨את⟩ gunohkorni gunohkor deb, uning yo'lini boshiga qo'yish uchun, va solihni solih deb, unga uning solihligicha berish uchun.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "va Sen"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "eshitasan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlardan"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "va qilasan"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "va hukm qilasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullaringni"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "qullaringni"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "gunohkor deb"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "gunohkor"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "berish uchun"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "uning yo'lini"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "uning boshiga"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "va solih deb"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "berish uchun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "uning solihligicha"
+    }
+  ],
+  "timestamp": "2026-08-26T03:33:22.019728798Z",
+  "model": "glm-5.3"
+}

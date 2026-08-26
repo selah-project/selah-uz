@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Va u ⟨את⟩ ovozini yigʻlab chiqardi, va Misrliklar eshitdi, va Parohning uyi eshitdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "berdi (chiqardi)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozini"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "yigʻida"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "va eshitdilar"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrliklar"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:16.579856367Z",
+  "model": "glm-5.3"
+}

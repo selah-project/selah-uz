@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Chunki Yahve Elohiming ⟨nazdida⟩ yigʻirlikdir buni qiluvchi har bir, adolatsizlik qiluvchi har bir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "yigʻirlik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "buni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "עול",
+      "gloss": "adolatsizlik"
+    }
+  ],
+  "timestamp": "2026-08-26T08:25:29.837943197Z",
+  "model": "glm-5.3"
+}

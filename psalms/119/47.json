@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Va Sening amrlaringda zavqlanaman, ularga muhabbat qildim.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "zavqlanaman"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "Sening amrlaringda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "muhabbat qildim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:41.932811844Z",
+  "model": "glm-5.3"
+}

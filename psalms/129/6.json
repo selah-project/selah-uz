@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 129,
+  "translation": "Boʻlsinlar xuddi tomlar oʻti kabi — undan oldin soʻlib qolganki, oʻruvchi tortib olgan emas.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "boʻlsinlar"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "xuddi oʻt kabi"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "tomlar"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "undan oldin"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "tortib olingan"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "soʻlib qolgan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:11.749002681Z",
+  "model": "glm-5.3"
+}

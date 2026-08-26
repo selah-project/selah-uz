@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Shoul urush uchun butun ⟨את⟩ xalqni chaqirdi — Keilaga tushish uchun, Dovud va uning odamlarini qamash uchun.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun xalqni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "urush uchun"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "tushish uchun"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "qamash uchun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …ga"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "uning odamlari"
+    }
+  ],
+  "timestamp": "2026-08-26T02:56:02.897903624Z",
+  "model": "glm-5.3"
+}

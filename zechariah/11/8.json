@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va bir oy ichida ⟨את⟩ uchta choʻponni yoʻq qildim, va nefeshim ularga toʻydi, ularning nefeshi ham meni jirkadi.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "yoʻq qildim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uchta choʻponni"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uchta"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "choʻponni"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "oy ichida"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "toʻydi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefeshi"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "jirkadi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "meni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:55:01.012806587Z",
+  "model": "glm-5.3"
+}

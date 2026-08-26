@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Barcha bunga qaramay yana gunoh qildilar va Uning moʻjizalariga ishonmadilar.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Barcha"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bunga qaramay"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "gunoh qildilar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ishonmadilar"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "Uning moʻjizalariga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:38.896252656Z",
+  "model": "glm-5.3"
+}

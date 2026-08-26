@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 17:4",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va u ⟨את⟩ kumushni onasiga qaytardi; va onasi ikki yuz kumush oldi va uni quyuvchiga berdi, va u undan oʻyib yasalgan haykal va quyma haykal yasadi; va u Mixayhu uyida boʻldi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Va u qaytardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumushni"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "onasiga"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "onasi"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ikki yuz"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "ותתנהו",
+      "gloss": "va berdi uni"
+    },
+    {
+      "surface": "לצורף",
+      "gloss": "quyuvchiga"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "va u yasadi"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "oʻyib yasalgan haykal"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "va quyma haykal"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mixayhu"
+    }
+  ],
+  "timestamp": "2026-08-26T02:36:54.735859732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Dedi yuragida: „El ⟨unutmagan⟩ — unutdi; yuzini yashirdi, abadiy koʻrmaydi.“",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "yuragida"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "unutdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "yuzini yashirdi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "בל",
+      "gloss": "aslo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "koʻrmaydi"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:43.465436274Z",
+  "model": "glm-5.3"
+}

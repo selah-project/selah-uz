@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Moshe Yahvega nodir deb qichqirdi: Ey El, iltimos, shifobaxsh boʻl, iltimos, unga!",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "qichqirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "shifobaxsh boʻl"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:32:07.520770260Z",
+  "model": "glm-5.3"
+}

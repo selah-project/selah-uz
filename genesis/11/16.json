@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Ever toʻrt va oʻttiz yil yashadi va ⟨את⟩ Pelegni tugʻdi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "va yashadi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "toʻrt"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "va oʻttiz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "va tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelegni"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:24.210192211Z",
+  "model": "glm-5.3"
+}

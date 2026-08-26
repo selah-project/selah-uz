@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 148,
+  "translation": "Maqtanglar Uni, quyosh va oy, maqtanglar Uni, barcha nurning yulduzlari.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Maqtanglar Uni"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "va oy"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "maqtanglar Uni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "yulduzlari"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nurning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:10.584526055Z",
+  "model": "glm-5.3"
+}

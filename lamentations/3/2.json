@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "⟨את⟩ meni u haydab yuritdi va zulmatga olib kirdi, yorugʻlikka esa emas.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ meni",
+      "marks": "meni"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "haydab yuritdi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "olib kirdi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "zulmatga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "esa emas"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yorugʻlikka"
+    }
+  ],
+  "timestamp": "2026-08-26T07:15:29.827921023Z",
+  "model": "glm-5.3"
+}

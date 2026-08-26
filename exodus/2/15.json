@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Paroh esa ⟨bu⟩ soʻzni eshitdi va Mosheni oʻldirmoqchi boʻldi; Moshe esa Paroh yuzidan qochdi va Midyon yerida yashab qoldi va quduq yonida oʻtirdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨bu⟩"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "qidirdi"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "oʻldirmoqchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosheni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "qochdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yashab qoldi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyon"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "oʻtirdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "yonida"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "quduq"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:30.363084664Z",
+  "model": "glm-5.3"
+}

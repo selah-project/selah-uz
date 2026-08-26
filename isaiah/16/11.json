@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 16:11",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Shuning uchun ichaklarim Moab uchun arfa kabi gʻuvillaydi, va bagʻir koʻrgazmam Qir-Xeresh uchun.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "ichaklarim"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "Moab uchun"
+    },
+    {
+      "surface": "ככנור",
+      "gloss": "arfa kabi"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "gʻuvillaydi"
+    },
+    {
+      "surface": "וקרבי",
+      "gloss": "va bagʻir koʻrgazmam"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "Qir uchun"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Xeresh"
+    }
+  ],
+  "timestamp": "2026-08-26T04:13:31.893394506Z",
+  "model": "glm-5.3"
+}

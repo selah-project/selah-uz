@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va ular dedilar: bir misrlik odam bizni choʻponlar qoʻlidan qutqardi, va hatto biz uchun suv chiqarib ham ⟨את⟩ podani sugʻordi.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "misrlik"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "bizni qutqardi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "choʻponlar"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "va hatto"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "chiqarib"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "suv chiqardi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biz uchun"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "va sugʻordi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podani"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "poda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:28.553100288Z",
+  "model": "glm-5.3"
+}

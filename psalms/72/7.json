@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Gullasin uning kunlarida solih ⟨kishi⟩, va tinchlikning koʻpligi — oy boʻlmas ekan.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "gullasin"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "uning kunlarida"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih ⟨kishi⟩"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "va koʻpligi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlikning"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨—guncha⟩"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "boʻlmas"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "oy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:15.286825857Z",
+  "model": "glm-5.3"
+}

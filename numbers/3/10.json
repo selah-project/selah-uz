@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ⟨את⟩ Aharon va ⟨את⟩ uning oʻgʻillarini tayinlaysan, va ular oʻz kohinliklarini soqalaydilar; yaqinlashgan yopiq odam oʻldiriladi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning oʻgʻillarini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uning oʻgʻillarini"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "tayinlaysan"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "va ular soqalaydilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz kohinliklarini"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "oʻz kohinliklarini"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "va yopiq"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yaqinlashgan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldiriladi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:26:02.244203355Z",
+  "model": "glm-5.3"
+}

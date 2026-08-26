@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "U aytdi: „Sizlarning soʻzlaringizcha — shundandir.“ Va u ularni yubordi, va ketdilar; va u ⟨את⟩ qizil ipni derazaga bogʻladi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "u aytdi"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "sizlarning soʻzlaringizcha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shundandir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "u ularni yubordi"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "va ketdilar"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "va u bogʻladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qizil ipni"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ip"
+    },
+    {
+      "surface": "השני",
+      "gloss": "qizil"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "derazaga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:10:19.842993547Z",
+  "model": "glm-5.3"
+}

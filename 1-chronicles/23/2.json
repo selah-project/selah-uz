@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va u Isroilning barcha sardorlarini, kohinlarni va leviylarni yigʻdi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "yigʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha sardorlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sardorlarini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "va kohinlarni"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "va leviylarni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:00:59.827910041Z",
+  "model": "glm-5.3"
+}

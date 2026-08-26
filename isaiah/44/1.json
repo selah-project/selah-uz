@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Va endi eshit, Yaakov, mening xizmatkorum, va Yisroel — uni men tanladim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmatkorum"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "va Yisroel"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "men tanladim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:27:08.657015700Z",
+  "model": "glm-5.3"
+}

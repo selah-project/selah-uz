@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Atalya ⟨את⟩ xalqning — yugurayotganlar va ⟨את⟩ podshohni ulugʻlayotganlarning — ovozini eshitdi va xalqning oldiga, Yahve uyiga kirdi.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "yugurayotganlarning"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "va ulugʻlayotganlarning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podshohni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshohni"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "kirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T08:11:54.765061623Z",
+  "model": "glm-5.3"
+}

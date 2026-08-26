@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 13:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Moshe xalqga dedi: Esda ⟨את⟩ ushbu kunni — Misrdan, qullar uyidan chiqqaningizni — chunki qoʻl kuch bilan chiqardi Yahve sizni ⟨shu joydan⟩, va xamirturushli ⟨non⟩ yeyilmaydi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "esda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ushbu kunni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ushbu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ni"
+    },
+    {
+      "surface": "יצאתם",
+      "gloss": "chiqqaningiz"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uyidan"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "kuch bilan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "chiqardi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizni",
+      "marks": "sizni (shu joydan)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "shu joydan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyilmaydi"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "xamirturushli (non)"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:31.113018130Z",
+  "model": "glm-5.3"
+}

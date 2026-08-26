@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Yahve, men sening uyinging maskanini suydim va sanoming ulugʻvorligi turar joyini.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "suydim"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "maskanini"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "uginging"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "va joyini"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "turar joyini"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ulugʻvorligining"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:09.763695041Z",
+  "model": "glm-5.3"
+}

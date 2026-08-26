@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Oʻldirishga vaqt, va davolashga vaqt; buzishga vaqt, va qurishga vaqt.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "oʻldirishga"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va vaqt"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "davolashga"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "buzishga"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va vaqt"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "qurishga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:03.438956704Z",
+  "model": "glm-5.3"
+}

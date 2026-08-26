@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Shlomoga tegishli. Elohim, ⟨את⟩ sening hukmlaringni shohga ber, va sening sedaqatingni shoh oʻgʻliga.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Shlomoga tegishli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "sening hukmlaringni"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "shohga"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ber"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "va sening sedaqatingni"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "oʻgʻliga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:07.830232528Z",
+  "model": "glm-5.3"
+}

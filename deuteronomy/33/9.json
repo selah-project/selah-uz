@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "U otasiga va onasiga: „Unga koʻz solmadim“ degan, va ⟨את⟩ aka-ukalarini tanimadi, va ⟨את⟩ oʻgʻillarini bilmadi; chunki ular sening soʻzingni saqladilar va sening ahdngni muhofaza qiladilar.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "degan"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "otasiga"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "va onasiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "koʻz solmadim unga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "aka-ukalarini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "aka-ukalarini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "tanimadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oʻgʻillarini"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "saqladilar"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sening soʻzingni"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "va sening ahdngni"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "muhofaza qiladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T02:06:55.093705834Z",
+  "model": "glm-5.3"
+}

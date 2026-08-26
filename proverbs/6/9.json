@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Qancha vaqtgacha, ey dangasa, yotasan? Qachon uyquyngdan turasan?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "qancha vaqt"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "dangasa"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "yotasan"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "turasan"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "uyquyngdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:38.805397482Z",
+  "model": "glm-5.3"
+}

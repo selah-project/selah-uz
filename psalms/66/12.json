@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Sen odamlarni boshimiz ustida yurgizding; olov va suvga kirdik; va sen bizni toʻqlikka chiqarding.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "sen yurgizding"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "odamlarni"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "boshimiz ustida"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "kirdik"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "va suvga"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "va sen bizni chiqarding"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "toʻqlikka"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:58.367674425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 8:1",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va butun xalq bir kishi kabi yigʻildi — Suv darvozasi oldidagi maydonga; va Ezro kotibga aytdilar, keltirsin ⟨את⟩ Moʻshening Tavrot kitobini, ki Yahve ⟨את⟩ Isroilga buyurgan.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "va yigʻildi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "bir kishi kabi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yagona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "הרחוב",
+      "gloss": "maydon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "שער",
+      "gloss": "darvozasi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Suv"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va aytdilar"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "Ezroga"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "kotib"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "keltirsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitobni"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitob"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tavrot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moʻshening"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T07:47:09.554258089Z",
+  "model": "glm-5.3"
+}

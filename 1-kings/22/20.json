@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va Yahve dedi: Kim Ahabni aldashi mumkin — ⟨את⟩ — va u chiqib Ramot-Giladda yiqilsin? Va biri shunday dedi, boshqasi: shunday.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "aldashi mumkin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahabni"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "chiqib"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "yiqilsin"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "Ramotda"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "biri"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "va boshqasi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "shunday"
+    }
+  ],
+  "timestamp": "2026-08-26T03:46:55.942151221Z",
+  "model": "glm-5.3"
+}

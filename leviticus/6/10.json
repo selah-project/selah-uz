@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Xamirturush bilan pishirilmasin — ularning ulushi sifatida men ⟨את⟩ uni olovli qurbonlarimdan berdim; muqaddaslar muqaddasi ⟨u⟩ — xato qurboni kabi va ayb qurboni kabi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "pishirilmasin"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "xamirturush bilan"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ularning ulushi"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "men berdim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "olovli qurbonlarimdan"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddaslar"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "muqaddasi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨u⟩"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "xato qurboni kabi"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "va ayb qurboni kabi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:25.804641287Z",
+  "model": "glm-5.3"
+}

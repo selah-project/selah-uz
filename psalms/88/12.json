@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 88,
+  "translation": "Qabirda xeseding hikoya qilinadimi? Sadoqating Abaddonda ⟨aytiladimi⟩?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "hikoya qilinadimi"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "qabirda"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "sadoqating"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "Abaddonda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:30.419447973Z",
+  "model": "glm-5.3"
+}

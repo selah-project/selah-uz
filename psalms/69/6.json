@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Elohim, Sen bilasan mening ahmoqligimni, va mening gunohlarim Sndan yashirin boʻlmagan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilasan"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "ahmoqligimni"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "va gunohlarim"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "Sendan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "yashirin boʻlmagan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:58.488161395Z",
+  "model": "glm-5.3"
+}

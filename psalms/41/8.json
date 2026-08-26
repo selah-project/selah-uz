@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Yolgʻiz birgalikda menga qarshi pichirlashadi — meni yomon koʻrganlarning barchasi; menga qarshi yomonlik oʻylaydilar.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "birgalikda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga qarshi"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "pichirlashadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "meni yomon koʻrganlarning"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga qarshi"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "oʻylaydilar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:33.878458186Z",
+  "model": "glm-5.3"
+}

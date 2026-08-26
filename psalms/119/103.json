@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Ogʻizma-ingizga qanchalik yoqimli Sening soʻzing — asaldan ham shirin!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "qanchalik"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "yoqimli"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "ogʻizma-ingizga"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Sening soʻzing"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "asaldan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "shirin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:21.667920280Z",
+  "model": "glm-5.3"
+}

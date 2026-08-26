@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "deb: «Senga ⟨את⟩ Kenaan erni beraman — oʻlchov chizigʻi sifatida merosingizni»",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "beraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaan erni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erni"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "oʻlchov chizigʻi"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "merosingizni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:17.598670441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Elohim Avrahomga dedi: Saray, xotining — uning ismini Sarai deb chaqirmaysan, chunki Sara ⟨uning ismidir⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahom"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "xotining"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "chaqirmaysan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning ismini"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "uning ismini"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "uning ismi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:16.134535427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Chunki qilichlar ⟨yuzasidan⟩ qochdilar — sudrab olingan qilich ⟨yuzasidan⟩, tortilgan kamon ⟨yuzasidan⟩ va urush ogʻirligi ⟨yuzasidan⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzasidan"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "qilichlar"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "qochdilar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzasidan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "sudrab olingan"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "va yuzasidan"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kamon"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "tortilgan"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "va yuzasidan"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ogʻirligi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "urush"
+    }
+  ],
+  "timestamp": "2026-08-26T08:34:57.428971572Z",
+  "model": "glm-5.3"
+}

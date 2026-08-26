@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Oʻn bir kunlik yoʻl Xorevdan Seir togʻi orqali Qadesh-Barneagacha ⟨yetadi⟩.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Oʻn bir"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kunlik"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Xorevdan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "orqali"
+    },
+    {
+      "surface": "הר",
+      "gloss": "togʻi"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-26T01:48:13.931567023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Ularni ham Podshoh Dovud Yahvegʻa muqaddas qildi — u barcha xalqlardan — Edomdan, Moʻavdan, Ammon oʻgʻillaridan, pelishtiyliklardan va Amalekdan koʻtargan kumush va oltin bilan birga.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "muqaddas qildi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Podshoh"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegʻa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan birga"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "va oltin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niki"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "koʻtargan"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha … dan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "Edomdan"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "va Moʻavdan"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "va … oʻgʻillaridan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "va pelishtiyliklardan"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "va Amalekdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:00:23.622143531Z",
+  "model": "glm-5.3"
+}

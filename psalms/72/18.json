@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Barakolodir Yahve, Elohim, Isroilning Elohimi — yolgʻiz oʻzi mo''jizalar qiladi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "barakolodir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiladi"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "mo''jizalar"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yolgʻiz oʻzi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:11.205652623Z",
+  "model": "glm-5.3"
+}

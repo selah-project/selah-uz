@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Dovudga tegishli. Senga, Yahve, murojaat qilaman; Toshim, mendan jim boʻlib qolmagin — agar mendan jim boʻlsang, chuqurga tushayotganlar qatoriga solinib qolaman.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga tegishli"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "murojaat qilaman"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Toshim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…magin"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "jim boʻlib qol"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "agar… qolaman"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "jim boʻlsang"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "solinib qolaman"
+    },
+    {
+      "surface": "עם",
+      "gloss": "qatoriga"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "tushayotganlar"
+    },
+    {
+      "surface": "בור",
+      "gloss": "chuqurga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:19.754327358Z",
+  "model": "glm-5.3"
+}

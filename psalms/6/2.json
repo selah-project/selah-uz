@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Yahve, gʻazabingda meni qoralama va qahringda meni tarbiyalama.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "gʻazabingda"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "meni qorala"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va olma"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "qahringda"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "meni tarbiyala"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:08.905205116Z",
+  "model": "glm-5.3"
+}

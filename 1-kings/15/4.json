@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Chunki Dovud sababli Yahve, uning Elohim unga Yerushalaimda chiroq berdi — ⟨את⟩ oʻgʻlini oʻzidan keyin tiklash uchun va Yerushalaimni ⟨את⟩ barqaror qilish uchun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sababli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "uning Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "chiroq"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaimda"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "tiklash uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻgʻlini"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "uning orasidan \/ oʻzidan keyin"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "va ... barqaror qilish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaimni"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T03:40:37.292464377Z",
+  "model": "glm-5.3"
+}

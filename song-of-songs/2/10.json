@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Dodi (suyganim) javob berdi va menga dedi: Tur-gin, doʻstim, goʻzalim, va yur-gin.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "javob berdi"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "Dodi (suyganim)"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "Tur-gin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-gin (oʻzing)"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "doʻstim"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "goʻzalim"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "va yur"
+    },
+    {
+      "surface": "לך",
+      "gloss": "-gin (oʻzing)"
+    }
+  ],
+  "timestamp": "2026-08-26T07:12:11.306925970Z",
+  "model": "glm-5.3"
+}

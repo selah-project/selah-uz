@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Qirol Yehoram oʻsha kuni Shomrongdan chiqdi va butun Isroilni sanab chiqdi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "chiqdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Qirol"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "oʻsha kuni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "Shomrongdan"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "va sanab chiqdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun Isroil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T03:47:15.281816953Z",
+  "model": "glm-5.3"
+}

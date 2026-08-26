@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va u bilan ⟨את⟩ yerga yetti kun va yetti kecha oʻtirdilar, va unga bir soʻz aytuvchi yoʻq ⟨edi⟩, chunki koʻrdilar, chunki ogʻriq juda katta ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "oʻtirdilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "u bilan — Iyov bilan (H854 — birgalikda boʻlish predlogi)"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "va yetti"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "kecha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz aytuvchi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "koʻrdilar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "katta"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "ogʻriq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:52:44.796355956Z",
+  "model": "glm-5.3"
+}

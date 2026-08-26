@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va ⟨את⟩ Aharonni va ⟨את⟩ uning oʻgʻillarini moylaysan, va ularni muqaddas qilasan — menga kohin boʻlishlari uchun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharonni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning oʻgʻillarini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uning oʻgʻillarini"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "moylaysan"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "va muqaddas qilasan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ular"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohin boʻlishlari uchun"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:13.518226790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Gazam qoldirganini arbe yedi, va arbe qoldirganini yelek yedi, va yelek qoldirganini xasil yedi.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "qoldirganini"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbe"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "va qoldirganini"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yelek"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "va qoldirganini"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yelek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "xasil"
+    }
+  ],
+  "timestamp": "2026-08-26T05:38:07.944688949Z",
+  "model": "glm-5.3"
+}

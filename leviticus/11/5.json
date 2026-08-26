@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va ⟨את⟩ toshquyonni — chunki u oshqozonidagini qaytaradi, lepan tuyoqni boʻlmaydi — u sizlar uchun nopokdir.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Va ⟨את⟩",
+      "marks": "toshquyon"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "toshquyon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "qaytaradi"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "oshqozonidagini (oʻtini)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "lepan tuyoqni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "boʻlmaydi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nopok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:56.808419582Z",
+  "model": "glm-5.3"
+}

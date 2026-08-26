@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Paro Moshe va Ahoronni chaqirdi va aytdi: Yahvega iltijo qiling, va baqalarni mendan va xalqimdan olib tashlasin, va men xalqni yuboraman va ular Yahvega qurbonlik qilsinlar.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheni"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "va Ahoronni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "iltijo qiling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "va olib tashlasin"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "baqalarni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "va xalqimdan"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "va yuboraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "va qurbonlik qilsinlar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:38.611568558Z",
+  "model": "glm-5.3"
+}

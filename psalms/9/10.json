@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Yahve ezilgan uchun qoyа-boshpana boʻladi, tanglik zamonlarida boshpana boʻladi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "qoyа-boshpana"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ezilgan uchun"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "boshpana"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "zamonlarida"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "tanglikda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:34.284468137Z",
+  "model": "glm-5.3"
+}

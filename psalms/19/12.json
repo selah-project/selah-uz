@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Shuningdek, bandangiz ular bilan ogohlantiriladi; ularni saqlashda buyuk mukofot bor.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "shuningdek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bandangiz"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "ogohlantiriladi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ular bilan"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "ularni saqlashda"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "mukofot ⟨sifatida⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "buyuk"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:05.428989018Z",
+  "model": "glm-5.3"
+}

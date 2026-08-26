@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "⟨את⟩ farmonlaringni saqlayman — meni butunlay tashlab ketma!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farmonlaringni"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "farmonlaringni"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "saqlayman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tashlab ketma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "butunlay"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:15.640262857Z",
+  "model": "glm-5.3"
+}

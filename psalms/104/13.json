@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Togʻlarni oʻz uyalaridan sugʻoradi — Sening amallaringning mevasidan ⟨the⟩ yer toʻyadi.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "sugʻoradi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlarni"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "oʻz uyalaridan"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "mevasidan"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "Sening amallaringning"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "toʻyadi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:56.526800930Z",
+  "model": "glm-5.3"
+}

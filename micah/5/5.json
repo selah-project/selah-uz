@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va ular ⟨את⟩ Ashshur yerni qilich bilan va ⟨את⟩ Nimrod yerni uning ochiq joylarida vayron qiladi, va u Ashshurdan qutqaradi, chunki u bizning yurtimizga kirganda va bizning chegaramizda bosib oʻtganda.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "vayron qiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashshur yerni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qilich bilan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Nimrod yerni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "uning ochiq joylarida"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "va qutqaradi"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "Ashshurdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kirganda"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "bizning yurtimizga"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "va chunki"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "bosib oʻtganda"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "bizning chegaramizda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:45:42.077434779Z",
+  "model": "glm-5.3"
+}

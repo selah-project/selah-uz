@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Qanday qilib yolgʻiz oʻzim koʻtaraman sizning ogʻir mehnatingizni, yukingizni va nizolaringizni?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Qanday qilib"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "koʻtaraman"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "yolgʻiz oʻzim"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ogʻir mehnatingizni"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "va yukingizni"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "va nizolaringizni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:50.359087351Z",
+  "model": "glm-5.3"
+}

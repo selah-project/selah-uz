@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 34:20",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va ⟨את⟩ ularni dushmanlarining qoʻliga va jonlarini qidirayotganlarning qoʻliga beraman; va ularning jasadlari osmon qushlariga va yer hayvonlariga yem boʻladi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "va beraman"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni (qoʻlga berilgan obyekt)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻliga"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "dushmanlarining"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "va qoʻliga"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "qidirayotganlarning"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jonlarini"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "va boʻladi"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "jasadlari"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "yemga"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "qushlariga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "va hayvonlariga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T04:58:08.475444991Z",
+  "model": "glm-5.3"
+}

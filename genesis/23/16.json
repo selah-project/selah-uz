@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 23:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Avrahom Efronga quloq soldi, va Avrahom Efronga — Xet oʻgʻillarining qulogʻi ostida aytgan — ⟨את⟩ kumushni tortdi: toʻrt yuz shkel kumush, savdogar bilan muomalada oʻtadigan.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "va quloq soldi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "וישקל",
+      "gloss": "va tortdi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahom"
+    },
+    {
+      "surface": "לעפרן",
+      "gloss": "Efronga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumush"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumushni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aytgan"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "qulogʻi ostida"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Xet"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "toʻrt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shkel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oʻtadigan"
+    },
+    {
+      "surface": "לסחר",
+      "gloss": "savdogar bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:52.772164564Z",
+  "model": "glm-5.3"
+}

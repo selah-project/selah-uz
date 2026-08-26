@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 98,
+  "translation": "Yahve oʻz najotini maʼlum qildi, xalqlar koʻz oʻngida oʻz solihligini ochdi.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "maʼlum qildi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "oʻz najotini"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "koʻz oʻngida"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ochdi"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "oʻz solihligini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:56.788787461Z",
+  "model": "glm-5.3"
+}

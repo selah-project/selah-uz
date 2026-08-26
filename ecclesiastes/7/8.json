@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Gapning oxiri uning boshlanishidan yaxshi; uzun ruax baland ruaxdan yaxshi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "oxiri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapning"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "uning boshlanishidan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzun"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruax"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "baland"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruax"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:10.377908049Z",
+  "model": "glm-5.3"
+}

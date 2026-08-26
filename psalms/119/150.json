@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Yovlik quvlovchilar yaqinlashdi; Toringdan ⟨ular⟩ uzoqda.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "yaqinlashdi"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "quvlovchilar"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "yovlik"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "Toringdan"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "uzoqda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:07.557579552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Shifo beruvchi yurik — tananing hayoti, va suyaklarning chirishi — hasad.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "hayoti"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "tananing"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurik"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "shifo beruvchi"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "va chirish"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "suyaklarning"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "hasad"
+    }
+  ],
+  "timestamp": "2026-08-26T06:44:47.646394679Z",
+  "model": "glm-5.3"
+}

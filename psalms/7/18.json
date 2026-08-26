@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Yahveni Uning solihligi boʻyicha olqishlayman va Elyon Yahvening ismini madh etib kuylayman.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "olqishlayman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "Uning solihligi boʻyicha"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "va madh etib kuylayman"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ismini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:26.049191810Z",
+  "model": "glm-5.3"
+}

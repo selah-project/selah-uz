@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 11:10",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Dovudga xabar berib: «Uriya oʻz uyiga tushmadi», — dedilar. Va Dovud Uriyaga dedi: «Sen safardan kelmagansanmi? Nega oʻz uyingga tushmading?»",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "va … xabar berdilar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedilar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "… emas"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga (tomon)"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "oʻz uyiga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va … dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga (tomon)"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "… mi?"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "safardan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kelding"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "… emas"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "tushding"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga (tomon)"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "oʻz uyingga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:11:45.253314163Z",
+  "model": "glm-5.3"
+}

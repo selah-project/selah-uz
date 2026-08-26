@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "Singan yuraklarni davolaydi, ularning yaranlarini bogʻlaydi.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "davolaydi"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "singan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurak"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "bogʻlaydi"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "ularning yaranlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:32.851520851Z",
+  "model": "glm-5.3"
+}

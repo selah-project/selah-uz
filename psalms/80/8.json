@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, bizni qaytar va yuzingni porlat, va biz qutqarilamiz.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bizni qaytar"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "va porlat"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "va qutqarilamiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:14.029089494Z",
+  "model": "glm-5.3"
+}

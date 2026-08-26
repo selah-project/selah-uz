@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Va bgʻunga Elohim dedi: ⟨Senda⟩ nima bor — hukmlarimni soʻzlash uchun, va ahdimni ogʻzing ⟨bilgan⟩ holda koʻtarish uchun?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "va bgʻunga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "soʻzlash uchun"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "hukmlarimni"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "va koʻtarding"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ogʻzing"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:14.217102183Z",
+  "model": "glm-5.3"
+}

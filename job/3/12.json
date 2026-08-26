@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Nega tizzalar meni qarshi oldi, nega koʻkraklar — men soʻrayotganim uchunmi?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "meni qarshi oldi"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "tizzalar"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "va nega"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "koʻkraklar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "men soʻrayotganim uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:54:08.823903486Z",
+  "model": "glm-5.3"
+}

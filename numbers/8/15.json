@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va bundan keyin Leviylar kiradilar — ⟨את⟩ uchrashuv chodiriga xizmat qilish uchun — va sen ularni poklaysan va ularni sallash takdimoti sifatida sallaysan.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "va ... keyin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bundan"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kiradilar"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Leviylar"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "xizmat qilish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uchrashuv chodirini"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodiri"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "va poklaysan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni (Leviylarni)"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "va sallaysan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni (Leviylarni)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "sallash takdimoti sifatida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:31:00.953522351Z",
+  "model": "glm-5.3"
+}

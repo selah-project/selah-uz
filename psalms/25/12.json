@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Kim ⟨bu⟩ — Yahvedan qoʻrqadigan odam? Uni tanlagan yoʻlida yoʻnaltiradi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨bu⟩"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qoʻrqadigan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvedan"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "uni yoʻnaltiradi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlida"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "tanlagan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:13.537452482Z",
+  "model": "glm-5.3"
+}

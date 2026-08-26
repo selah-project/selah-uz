@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "va ⟨את⟩ butun jamoani yigʻ uchrashuv chodirining ogʻziga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun jamoani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamoani"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "yigʻ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ogʻiz\/eshik"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    }
+  ],
+  "timestamp": "2026-08-26T01:11:53.382972678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 11:15",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Yahve Misr dengizining tilini ⟨את⟩ butunlay yoʻq qiladi, va daryo ustiga qoʻlini koʻtaradi, oʻz shamili bilan uni bosadi, va uni yetti soylarga uradi, va odamlarni poyabzal bilan oʻtqazadi.",
+  "tokens": [
+    {
+      "surface": "והחרים",
+      "gloss": "butunlay yoʻq qiladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "til"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "til"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengizi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "koʻtaradi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "daryo"
+    },
+    {
+      "surface": "בעים",
+      "gloss": "bosadi"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "oʻz shamili bilan"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "uradi"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "soylarga"
+    },
+    {
+      "surface": "והדריך",
+      "gloss": "oʻtqazadi"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "poyabzal bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:12:32.852527658Z",
+  "model": "glm-5.3"
+}

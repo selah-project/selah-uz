@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Kim bu — bilimsiz holda maslahatni yashirgan? Shuning uchun men tushunmaganimni aytganim, men uchun juda ajoyib boʻlgan narsalarni — va men bilmas edim.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "yashirgan"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "maslahatni"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bilimsiz holda"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilimsiz"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "aytganim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "... magan"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "tushunmaganimni"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ajoyib narsalarni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "men uchun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... edim"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "bilmas edim"
+    }
+  ],
+  "timestamp": "2026-08-26T07:11:56.945922118Z",
+  "model": "glm-5.3"
+}

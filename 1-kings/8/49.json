@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va eshitasan osmonlarda — turar joying — ⟨את⟩ ularning duosini va ⟨את⟩ ularning iltijosini, va ularning huquqini ado qilasan.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Va eshitasan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlarda"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "turar joy"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "sening yashash joying"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning duosini"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ularning duosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning iltijosini"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "ularning iltijosi"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "va ado qilasan"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "ularning huquqi (hukmi)"
+    }
+  ],
+  "timestamp": "2026-08-26T03:32:11.658598526Z",
+  "model": "glm-5.3"
+}

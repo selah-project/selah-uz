@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Ulkan qurbaqalar bilan toʻldirdi ularning yerni, ularning shohlarining ichki xonalarida.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "toʻldirdi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ularning yerni"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "qurbaqalar"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "ichki xonalarida"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ularning shohlarining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:00.499216556Z",
+  "model": "glm-5.3"
+}

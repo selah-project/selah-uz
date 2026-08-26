@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 92,
+  "translation": "Tongda sening xesedni ⟨va⟩ tunda sening imonliligini eʼlon qilish uchun.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "eʼlon qilish uchun"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tongda"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sening xesedni"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "va sening imonliligini"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "tunda (koʻplik: tunlar)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:37.462838877Z",
+  "model": "glm-5.3"
+}

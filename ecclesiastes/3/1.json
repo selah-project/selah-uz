@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Har bir narsaga ⟨oʻz⟩ vaqti, va osmonlar ostidagi har bir xohishga ⟨oʻz⟩ vaqti bor.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "har bir narsaga"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "vaqt"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va vaqt"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xohishga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlar"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:03.438456057Z",
+  "model": "glm-5.3"
+}

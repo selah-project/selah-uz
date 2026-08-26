@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va u oʻz xalqiga dedi: Mana, Isroil oʻgʻillarining xalqi koʻp va bizdan kuchli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u ... dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻz xalqiga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "רב",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "va kuchli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bizdan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:10.822722386Z",
+  "model": "glm-5.3"
+}

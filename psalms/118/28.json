@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 118,
+  "translation": "Sen mening Elimsan, va men Seni olqilayman; Elohimim — men Seni yuksaltiraman.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "mening Elim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "va men Seni olqilayman"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "men Seni yuksaltiraman"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:49.882949601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Arfaxshad ⟨את⟩ Shelaxni dunyoga keltirdi, va Shelax ⟨את⟩ Everni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "va Arfaxshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelaxni"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelax"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "va Shelax"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Everni"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:25.823434136Z",
+  "model": "glm-5.3"
+}

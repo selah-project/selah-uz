@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Chunki ⟨את⟩ butun erni, qaysiki sen ko‘ryapsan, sen⟨ga⟩ beraman uni, va zurriyotingga — abadiygacha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun erni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysiki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ko‘ryapsan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sen⟨ga⟩"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "beraman uni"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "va zurriyotingga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:41.768419491Z",
+  "model": "glm-5.3"
+}

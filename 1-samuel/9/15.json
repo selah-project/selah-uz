@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Yahve Shemuelning qulogʻini ⟨את⟩ ochgan edi — ShaUL kelishidan bir kun oldin — deb aytib:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Va Yahve"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ochgan edi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulogʻini"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "quloq"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuelning"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldin"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kelishi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ShaUL"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb aytib"
+    }
+  ],
+  "timestamp": "2026-08-26T02:48:09.983460528Z",
+  "model": "glm-5.3"
+}

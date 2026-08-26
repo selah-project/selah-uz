@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Yosh sherlar muhtoj boʻladilar va och qoladilar, Yahveni izlaganlar esa hech qanday yaxshi narsadan mahrum boʻlmaydilar.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "yosh sherlar"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "muhtoj boʻladilar"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "va och qoladilar"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "izlaganlar esa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hech"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "mahrum boʻlmaydilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hech qanday"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi narsadan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:01.996992709Z",
+  "model": "glm-5.3"
+}

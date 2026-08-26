@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Ular uchun bir ish boʻlganda, menga keladi, va men odam bilan uning yaqini oʻrtasida hukm chiqaraman, va Elohimning farzlarini va Uning Toralarini bilib qilaman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "qachonki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlganda"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ular uchun"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir ish"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keladi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "va hukm chiqaraman"
+    },
+    {
+      "surface": "בין",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va bilan"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "uning yaqini"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "va bilib qilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farzlarini"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "farzlarini"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Toralarini"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "Uning Toralarini"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:36.405874873Z",
+  "model": "glm-5.3"
+}

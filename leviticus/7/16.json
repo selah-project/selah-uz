@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va agar qasddir yoki ixtiyoriy hadya — uning qurboni: qurbonini ⟨את⟩ keltirgan kunida yeyilsin, va ertasiga undan qolgani ham yeyilsin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "qasddir"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "ixtiyoriy hadya"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurboni"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "uning qurboni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "keltirgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbonini"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "qurbonini"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyilsin"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "va ertasiga"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "va qolgani"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyilsin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:11:10.112325096Z",
+  "model": "glm-5.3"
+}

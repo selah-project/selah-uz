@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "U yuzini yuvidi va chiqdi va oʻzini tiydi va dedi: Non qoʻyingiz.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "yuvidi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "va chiqdi"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "oʻzini tiydi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "qoʻyingiz"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    }
+  ],
+  "timestamp": "2026-08-26T00:45:42.538300625Z",
+  "model": "glm-5.3"
+}

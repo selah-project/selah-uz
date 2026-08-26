@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 41:3",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va u ichkari kirdi va eshik ustunini oʻlchadi — ikki tirsak, va eshik — olti tirsak, va eshikning kengligi — yetti tirsak.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "va u kirdi"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ichkari"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "va oʻlchadi"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ustunini"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "eshik"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "והפתח",
+      "gloss": "va eshik"
+    },
+    {
+      "surface": "שש",
+      "gloss": "olti"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "va kengligi"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "eshikning"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    }
+  ],
+  "timestamp": "2026-08-26T05:30:31.297883867Z",
+  "model": "glm-5.3"
+}

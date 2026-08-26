@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 92,
+  "translation": "Eʼlon qilish uchun: Yahve toʻgʻridir, Toshim, va Unda adolatsizlik yoʻqdir.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "eʼlon qilish uchun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "toʻgʻridir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Toshim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … yoʻq"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "adolatsizlik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Unda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:03.295654907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 54:14",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 54,
+  "translation": "Adolatda ⟨sen⟩ mustahkam boʻlasan; zoʻravonlikdan uzoq boʻl, chunki qoʻrqmaysan; va vayronagarchilikdan, chunki ⟨u⟩ senga yaqinlashmaydi.",
+  "tokens": [
+    {
+      "surface": "בצדקה",
+      "gloss": "adolatda"
+    },
+    {
+      "surface": "תכונני",
+      "gloss": "mustahkam boʻlasan"
+    },
+    {
+      "surface": "רחקי",
+      "gloss": "uzoq boʻl"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "zoʻravonlikdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "qoʻrqasan"
+    },
+    {
+      "surface": "וממחתה",
+      "gloss": "va vayronagarchilikdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "yaqinlashmaydi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:31:06.832735570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Lablarim bilan ⟨את⟩ ogʻzinging barcha hukmlarini soʻylab berdim.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "lablarim bilan"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "soʻylab berdim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmlarini"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ogʻzinging"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:22.286307278Z",
+  "model": "glm-5.3"
+}

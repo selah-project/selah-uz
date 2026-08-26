@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Boʻlsinlar doimo Yahve roʻparasida, va Kesin ularning xotirasi yerdan.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Boʻlsinlar"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "roʻparasida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doimo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "va Kesin"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdan"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ularning xotirasi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:20.191545207Z",
+  "model": "glm-5.3"
+}

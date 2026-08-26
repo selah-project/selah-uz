@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Yolgʻon ⟨⟨the⟩⟩ ot — najot uchun, va koʻp kuchiga koʻra u qutqarmaydi.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ot"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "najot uchun"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "va koʻpligiga"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "uning kuchi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "qutqaradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:46.933978099Z",
+  "model": "glm-5.3"
+}

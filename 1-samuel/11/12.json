@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va xalq Shmuelga aytdi: «Kim aytdi: Shaul bizning ustimizdan podshohlik qiladi? ⟨U⟩ kishilarni beringlar, biz ularni oʻldiramiz».",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "podshohlik qiladi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizning ustimizdan"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "beringlar"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "kishilarni"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "oʻldiramiz"
+    }
+  ],
+  "timestamp": "2026-08-26T02:47:24.635266422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Qudratlilar nonini yedi odam, ozuqani yubordi ularga toʻyguncha.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "qudratlilar(ining)"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "ozuqa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "toʻyguncha"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:27.985163909Z",
+  "model": "glm-5.3"
+}

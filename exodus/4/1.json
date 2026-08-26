@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 4:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Moshe javob berdi va dedi: agar ular menga ishonmasalar va mening ovozimni eshitmasalar — zero ular derlar ki: „Yahve senga koʻrinmagan“.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "javob berdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "והן",
+      "gloss": "agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "ishonmasalar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "eshitmasalar"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ovozimni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zero"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "derlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "koʻrinmagan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:49.928008958Z",
+  "model": "glm-5.3"
+}

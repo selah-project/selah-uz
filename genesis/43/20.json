@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Va dedilar: Iltijo, hojibim, biz dastlab ovqat sotib olish uchun tushgan edik.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iltijo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "hojibim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tushgan"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "edik"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "dastlab"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "sotib olish uchun"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ovqat"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:30.655269150Z",
+  "model": "glm-5.3"
+}

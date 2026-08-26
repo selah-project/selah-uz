@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 20:11",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Moshe qoʻlini koʻtardi va tayoği bilan ⟨את⟩ qoyani ikki marta urdi, va koʻp suvlar chiqdi, va jamoat ichdi va ularning mol-qarami ham.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "koʻtardi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoyani"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoyani"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "qoyani"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "tayoği bilan"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ikki marta"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "va chiqdi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "va ichdi"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamoat"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "va ularning mol-qarami"
+    }
+  ],
+  "timestamp": "2026-08-26T01:37:26.271564125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Uyining qariyalari turdi, uni yerdan koʻtarish uchun uning ustiga — ammo u rozi boʻlmadi va ular bilan ⟨את⟩ non yemadi.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "qariyalari"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uyining"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "uni koʻtarish uchun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo ... emas"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "rosi boʻlmadi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yemadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ular bilan (non)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    }
+  ],
+  "timestamp": "2026-08-26T08:30:30.157219980Z",
+  "model": "glm-5.3"
+}

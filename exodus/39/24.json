@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 39:24",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Va ustki kiyimning etaklarida moviy, argʻuvon va qizil qurt shnuridan — oʻrilgan — anorlar yasadi.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "etaklar"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ustki kiyimning"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "anorlar"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "moviy"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "va argʻuvon"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "va qizil qurt"
+    },
+    {
+      "surface": "שני",
+      "gloss": "qizil"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "oʻrilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:07:59.479343915Z",
+  "model": "glm-5.3"
+}

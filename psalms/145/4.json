@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Avlod avlodga Sening amallaringni maqtaydi, va Sening qudratlaringni eʼlon qiladi.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Avlod"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "avlodga"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "maqtaydi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "Sening amallaringni"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "va Sening qudratlaringni"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "eʼlon qiladi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:58.175496843Z",
+  "model": "glm-5.3"
+}

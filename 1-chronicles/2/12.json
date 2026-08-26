@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Boaz ⟨את⟩ Obedni dunyoga keltirdi, va Obed ⟨את⟩ Yishayni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Va Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedni"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedni"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "va Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishayni"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:40.148010761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 143,
+  "translation": "O'rgat meni irodangni qilishga, chunki sen Eloahsan; ruving yaxshidir, boshqar meni to'g'ri yerda.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "o'rgat meni"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "qilishga"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "irodangni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloahsan"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruving"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yaxshidir"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "boshqar meni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "to'g'ri (tekis)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:31.306145123Z",
+  "model": "glm-5.3"
+}

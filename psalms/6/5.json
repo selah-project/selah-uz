@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Qayt, ey Yahve, nefeshimni qutqar, meni xalos qil — xeseding tufayli.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Qayt"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "qutqar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefishimni"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "meni xalos qil"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tufayli"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:35.829180308Z",
+  "model": "glm-5.3"
+}

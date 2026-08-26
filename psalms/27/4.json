@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Yahvedan bitta narsa soʻradim — ⟨את⟩ oʻshani izlayman: Yahvening uyida, hayotimning barcha kunlarida yashashim, Yahvening yoqimliligini tamoshо qilish va uning saroyida saboq olishim uchun.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "soʻradim"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "Yahvedan ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ oʻshani",
+      "marks": "izlayman"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "izlayman"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "yashashim"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlarida"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "hayotimning"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "tamoshо qilish"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "yoqimliligini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "va saboq olishim"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "uning saroyida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:44.186863559Z",
+  "model": "glm-5.3"
+}

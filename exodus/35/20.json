@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va Isroil oʻgʻillarining butun jamoasi Moshe huzuridan chiqib ketdi",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Va ... chiqdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamoasi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "huzuridan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T01:03:40.011932408Z",
+  "model": "glm-5.3"
+}

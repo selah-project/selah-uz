@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 15:5",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va Yahve ⟨את⟩ shohni urdi, va u moʻjaz boʻlib qoldi — oʻlgan kuniga qadar, va ozod uyda yashadi; shohning oʻgʻli Yotam esa uy ustidan ⟨the⟩ xalq — erning xalqiga hukm chiqarardi.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shohni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "moʻjaz"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—igacha"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "oʻlimi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va yashadi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyda"
+    },
+    {
+      "surface": "החפשית",
+      "gloss": "ozod"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hukm chiqarardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalq"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:56:46.110202823Z",
+  "model": "glm-5.3"
+}

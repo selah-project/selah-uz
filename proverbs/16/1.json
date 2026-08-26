@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Odimga tegishli ⟨the⟩ qalb tartibotlari, va Yahvedan — tilning javobi.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "odamga"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "tartibotlari"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "va Yahvedan"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "javobi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tilning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:44:43.165752669Z",
+  "model": "glm-5.3"
+}

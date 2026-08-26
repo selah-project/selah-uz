@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Chiroq — oyoqlarimga ⟨⟨⟩⟩ Sening soʻzing, va yorugʻlik — yoʻllarimga.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "chiroq"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "oyoqlarimga"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Sening soʻzing"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "va yorugʻlik"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "yoʻllarimga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:36.185907627Z",
+  "model": "glm-5.3"
+}

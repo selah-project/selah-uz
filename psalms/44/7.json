@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Chunki kamonimga ishonmayman, va qilichim meni qutqarmaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "kamonimga"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ishonmayman"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "va qilichim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "meni qutqarmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:33.471840716Z",
+  "model": "glm-5.3"
+}

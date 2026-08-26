@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 2:12",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va men hikmatga, telbalikka va ahmoqlikka qarash uchun yuzlandim; chunki odam nima — podshohdan keyin keladigan, allaqachon qilingan ⟨את⟩ narsadan boshqasini qila oladimi?",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "yuzlandim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "qarash uchun"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmatga"
+    },
+    {
+      "surface": "והוללות",
+      "gloss": "va telbalikka"
+    },
+    {
+      "surface": "וסכלות",
+      "gloss": "va ahmoqlikka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "שיבוא",
+      "gloss": "keladigan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "…dan keyin"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "…ni (אשר — qilingan narsani)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "allaqachon"
+    },
+    {
+      "surface": "עשוהו",
+      "gloss": "qilingan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:32.268813228Z",
+  "model": "glm-5.3"
+}

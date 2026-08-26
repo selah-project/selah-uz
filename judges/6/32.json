@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 6:32",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va unga oʻsha kuni Yerubbaal deb nom qoʻydi, degan maʼnoda: „Baal undan tortishsin, chunki u ⟨את⟩ uning mehrobini buzdi.“",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va nom qoʻydi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubbaal"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan maʼnoda"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "tortishsin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "buzdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning mehrobini"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "uning mehrobini"
+    }
+  ],
+  "timestamp": "2026-08-26T02:26:37.923862413Z",
+  "model": "glm-5.3"
+}

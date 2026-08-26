@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Yahve goylar maslahatini bekor qildi, xalqlarning rejalarini yoʻqqa chiqardi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "bekor qildi"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "maslahatini"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "goylar"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "yoʻqqa chiqardi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "rejalarini"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:08.478291350Z",
+  "model": "glm-5.3"
+}

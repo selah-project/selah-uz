@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Men esa Senga ishondim, Yahve; dedim: Elohimim Sen ⟨⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men esa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ishondim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:34.346423692Z",
+  "model": "glm-5.3"
+}

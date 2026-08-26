@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Chunki yomonlar kesib tashlanadi, va Yahveni kutganlar — ana ular ⟨the⟩ yerni meros qilib oladi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "yomonlar"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "kesib tashlanadi"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "va kutganlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ana ular"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "meros qilib oladi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:28.138765754Z",
+  "model": "glm-5.3"
+}

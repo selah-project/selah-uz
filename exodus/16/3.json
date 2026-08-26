@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 16:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Isroil oʻgʻillari ularga aytdilar: kim bergan bizning oʻlimimizni Yahve qoʻlida, Misr yerida, goʻsht qozoni yonida oʻtganimizda, nonni toʻyib yeganimizda? Chunki sizlar chiqardingiz bizni ⟨את⟩ bu choʻlgʻa, butun bu jamoani ochlikdan oʻldirmoq uchun.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "va aytdilar"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bergan"
+    },
+    {
+      "surface": "מותנו",
+      "gloss": "bizning oʻlimimizni"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻlida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "בשבתנו",
+      "gloss": "oʻtganimizda"
+    },
+    {
+      "surface": "על",
+      "gloss": "yonida"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "qozoni"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "goʻsht"
+    },
+    {
+      "surface": "באכלנו",
+      "gloss": "yeganimizda"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nonni"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "toʻyib"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הוצאתם",
+      "gloss": "chiqardingiz"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "bizni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…gʻa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "bu choʻl"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "oʻldirmoq uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun bu jamoa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jamoani"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "ochlikdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:46.346407382Z",
+  "model": "glm-5.3"
+}

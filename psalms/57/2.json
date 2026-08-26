@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 57,
+  "translation": "Menga marhamat qil, Elohim, menga marhamat qil, chunki nefeshim Senga panoh topadi, kanotlaring soyasida panoh topaman, halokatlar oʻtib ketguncha.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "menga marhamat qil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "menga marhamat qil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "panoh topadi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshim"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "soyasida"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kanotlaring"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "panoh topaman"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guncha"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "oʻtib ketguncha"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "halokatlar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:06.730442336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Toki men kelib sizlarni oʻz yurtiga oʻxshash yurtga — ⟨את⟩ don va yangi vino yurtiga, non va tokzorlar yurtiga olib borgunimcha.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "toki … gunimcha"
+    },
+    {
+      "surface": "באי",
+      "gloss": "men kelib"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "olib boraman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "אתכם"
+    },
+    {
+      "surface": "אל",
+      "gloss": "— yurtiga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yurt"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "sizning yurtiga oʻxshash"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yurt"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "don"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "va yangi vino"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yurt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "va tokzorlar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:23:39.999093872Z",
+  "model": "glm-5.3"
+}

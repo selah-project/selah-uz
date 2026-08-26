@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Va sodiqligim va xesedim u bilan, va Ismimda uning shoxi koʻtariladi.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "Va sodiqligim"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "va xesedim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "va Ismimda"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "koʻtariladi"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "uning shoxi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:04.507947091Z",
+  "model": "glm-5.3"
+}

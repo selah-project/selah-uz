@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Va Uni xaloyiq majlisida ulugʻlashsin va oqsoqollar majlisida Uni maqtashsin.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Uni ulugʻlashsin"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "majlisida"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xaloyiq"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "va majlisida"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "oqsoqollar"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "Uni maqtashsin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:37.308752208Z",
+  "model": "glm-5.3"
+}

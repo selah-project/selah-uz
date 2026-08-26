@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Ki pastligimizda eslab, bizga ⟨eʼtibor berdi⟩, chunki abadiydir Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "pastligimizda"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "eslab"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Uning xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:27.742598732Z",
+  "model": "glm-5.3"
+}

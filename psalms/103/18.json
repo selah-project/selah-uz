@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "ahdini saqlovchilarga, va buyruqlarini eslab, ularni qiluvchilarga.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "saqlovchilarga"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ahdini"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "va eslab ...larga"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "buyruqlarini"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ularni qiluvchilarga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:38.917980315Z",
+  "model": "glm-5.3"
+}

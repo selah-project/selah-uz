@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va ikkalasi — odam va uning xotini — yalangʻoch edilar va uyalmadilar.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "va edi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikkalasi"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "yalangʻoch"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "va uning xotini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "uyaldilar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:12.860098593Z",
+  "model": "glm-5.3"
+}

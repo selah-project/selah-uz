@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Moshe va Aharon bordi va Isroil oʻgʻillarining barcha oqsoqollarini yigʻdi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "va bordi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "va Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "va yigʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha oqsoqollar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oqsoqollar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:46.149745795Z",
+  "model": "glm-5.3"
+}

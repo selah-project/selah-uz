@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va pokalanuvchi ⟨את⟩ kiyimlarini yuvadi va ⟨את⟩ barcha sochini qiradi va suvda yuvinadi va pokdir; va soʻngra lagerga kiradi va chodiridan tashqarida yetti kun yashaydi.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "va yuvadi"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "pokalanuvchi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyimlarini"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kiyimlarini"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "va qiradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha sochini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "sochini"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "va yuvinadi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvda"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "va pokdir"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "va soʻngra"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kiradi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lager"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va yashaydi"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqarida"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "chodiridan"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:16:06.362305542Z",
+  "model": "glm-5.3"
+}

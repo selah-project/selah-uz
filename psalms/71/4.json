@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Ey Elohimim, meni qochirib chiqar yovuz qoʻlidan, buzuq va zoʻravon kaftidan.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "meni qochirib chiqar"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovuz"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "kaftidan"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "buzuq"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "va zoʻravon"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:51.918526932Z",
+  "model": "glm-5.3"
+}

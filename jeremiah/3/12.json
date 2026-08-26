@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 3:12",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Bor va ⟨את⟩ bu soʻzlarni shimol tomonga eʼlon qil va ayting: Qayt, orqaga qaytgan Isroil — Yahve natiqi — yuzimni sizga tushirmayman, chunki men saxiyman — Yahve natiqi; abadiy gʻazab saqlamayman.",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "Bor"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "va eʼlon qil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu soʻzlarni"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "shimol tomonga"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "va ayting"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "Qayt"
+    },
+    {
+      "surface": "משבה",
+      "gloss": "orqaga qaytgan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "natiqi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "...mayman"
+    },
+    {
+      "surface": "אפיל",
+      "gloss": "tushir"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzimni"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "saxiy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "natiqi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...mayman"
+    },
+    {
+      "surface": "אטור",
+      "gloss": "saqlamayman"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T04:36:49.916200320Z",
+  "model": "glm-5.3"
+}

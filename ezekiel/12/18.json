@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 12:18",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Ey odam-oʻgʻli, noningni dahshat ichida yeyasan va suvingni qoʻrquv va tashvish ichida ichasan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "noningni"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "dahshat ichida"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyasan"
+    },
+    {
+      "surface": "ומימיך",
+      "gloss": "va suvingni"
+    },
+    {
+      "surface": "ברגזה",
+      "gloss": "qoʻrquv ichida"
+    },
+    {
+      "surface": "ובדאגה",
+      "gloss": "va tashvish ichida"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ichasan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:12:58.309981691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 96,
+  "translation": "Sajda qiling Yahve oldida muqaddas ziynat ichida; titrang uning yuzi oldida, butun yer.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "sajda qiling"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve oldida"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "ziynat ichida"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "titrang"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "uning yuzi oldida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:18.698438920Z",
+  "model": "glm-5.3"
+}

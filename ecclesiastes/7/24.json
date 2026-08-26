@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Uzoqdur, boʻlgan narsa; va chuqur, chuqur — kim topib olur uni?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "uzoqdur"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "va chuqur"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "chuqur"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "topib olur uni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:21.496028561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Uriya podshoh uyining eshik oldida yotdi, ⟨את⟩ xoʻjayinining barcha xizmatkorlari bilan, va oʻz uyiga tushmadi.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "va … yotdi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eshik oldida"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyining"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xoʻjayinining barcha xizmatkorlari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmatkorlari"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "xoʻjayinining"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga (tomon)"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "oʻz uyiga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:11:45.253028513Z",
+  "model": "glm-5.3"
+}

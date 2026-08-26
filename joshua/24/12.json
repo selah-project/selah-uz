@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va men sizlarning oldingizga shahargʻunani ⟨את⟩ yubordim va u ulardan ikki haemoriy shohini ⟨את⟩ sizlarning yuzingizdan quvib chiqardi — sizning qilichingiz bilan emas va sizning yogʻoysiz emas.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "va yubordim"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sizlarning oldingizga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shahargʻunani"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "shahargʻuna"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "va u quvib chiqardi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ikki shohni"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "sizlarning yuzingizdan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "haemoriy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "sizning qilichingiz bilan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "sizning yogʻoyingiz bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:23:57.912508591Z",
+  "model": "glm-5.3"
+}

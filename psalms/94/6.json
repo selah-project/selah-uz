@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Beva va musofirni oʻldiradilar, va yetimlarni qasddan oʻldiradilar.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "beva"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "va musofirni"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "oʻldiradilar"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "va yetimlarni"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "qasddan oʻldiradilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:29.079503989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Yana qaytdilar va Elni sinadilar, va Isroilning Muqaddasi uchun chegara belgiladilar.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "yana qaytdilar"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "va sinadilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "va Muqaddasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "uchun chegara belgiladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:38.484389886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Oʻlim bogʻlari oʻrab oldi meni, va Belialning oʻzanlari qoʻrqitdi meni.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "oʻrab oldi meni"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "bogʻlari"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "va oʻzanlari"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belialning"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "qoʻrqitdi meni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:29.713109312Z",
+  "model": "glm-5.3"
+}

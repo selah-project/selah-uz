@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 3:14",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va agar Mening yoʻllarimda yursang, buyruqlarim va amrlarimni saqlash uchun, otang Dovud yurganidek, Men ⟨את⟩ kunlaringni uzaytiraman.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Va agar"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yursang"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "yoʻllarimda"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saqlash uchun"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "buyruqlarimni"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "va amrlarimni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yurganidek"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yurdi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otang"
+    },
+    {
+      "surface": "והארכתי",
+      "gloss": "uzaytiraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kunlaringni"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "kunlaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:31:10.101800185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va biz Elohimimizga ibodat qildik va ularga qarshi kunduzi va tunda qorovon turgʻizdik, ular yuzidan.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "va ibodat qildik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "va turǵʻizdik"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "qorovon"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ularga qarshi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "kunduzi"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "va tunda"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ular yuzidan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:44:14.670561167Z",
+  "model": "glm-5.3"
+}

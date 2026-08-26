@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 3:22",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yahve Elohim dedi: Mana, odam bizdan biriga oʻxshab boʻldi, yaxshini va yomonni bilishga; va endi qoʻlini choʻzib, hayot daraxtidan ham olib, yeb abadiy yashamasligi uchun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va ... dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "biriga oʻxshab"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bizdan"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilishga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshini"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "va yomonni"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "...masligi uchun"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "choʻzib"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "va olib"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "daraxtidan"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "hayot"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "va yeb"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "va yashab"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:18.365874038Z",
+  "model": "glm-5.3"
+}

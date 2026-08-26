@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 52,
+  "translation": "Doʻg Edomlik kelib, Shoulga xabar berdi va unga aytdi: Dovud Aximelexning uyiga keldi.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "kelib"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doʻg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "Edomlik"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "xabar berdi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shoulga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Aximelexning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:34.645281961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va noiblar bilan janjaldim va aytdim: nima uchun tashlab qo’yilgan Elohimning uyi? Va ularni yig’dim va o’z o’rinlariga qo’ydimg ⟨את⟩ noiblar bilan janjaldim...",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "janjaldim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noiblar bilan"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "noiblar"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "aytdim"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "tashlab qo’yilgan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "yig’dim"
+    },
+    {
+      "surface": "ואעמדם",
+      "gloss": "qo’ydim"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "o’z o’rinlari"
+    }
+  ],
+  "timestamp": "2026-08-26T07:49:43.609304529Z",
+  "model": "glm-5.3"
+}

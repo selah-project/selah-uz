@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Bersin senga yuraging xohishicha, va butun maslahatingni bajarsin.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "bersin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "yuraging xohishicha"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "maslahatingni"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "bajarsin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:13.837992121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Ularni olov tandiridek qoʻyasen, sening yuzing paytida, ey Yahve; gʻazabi ila ularni yutib yuboradi, va olov ularni yeydi.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "ularni qoʻyasen"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "tandiridek"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "paytida"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sening yuzing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "gʻazabi ila"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "ularni yutib yuboradi"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "va ularni yeydi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:31.171666988Z",
+  "model": "glm-5.3"
+}

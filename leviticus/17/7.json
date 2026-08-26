@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va ular boshqa ⟨את⟩ qurbonliklarini tokalarga soʻymasinlar — ulardan keyin fohishalik qiladiganlar — bu ular uchun abadiy farmon boʻladi, avlodlariga.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... masinlar"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "soʻymasinlar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbonliklarini"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "qurbonliklarini"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "tokalarga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "fohishalik qiladiganlar"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ulardan keyin"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "farmon"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ular uchun"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "avlodlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:18.349933Z",
+  "model": "glm-5.3"
+}

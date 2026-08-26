@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Kutdim, Yahveni kutdim, va U menga egridi va dod-faryodimni eshitdi.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Kutdim"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "kutdim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "va U egridi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "dod-faryodimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:33.313426751Z",
+  "model": "glm-5.3"
+}

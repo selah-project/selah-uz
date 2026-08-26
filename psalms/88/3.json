@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 88,
+  "translation": "Duom Sening huzuringa kelsin; qulogʻingni meng zaʼmimga egchorla.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "kelsin"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Sening huzuringa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duom"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "egchorla"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "qulogʻingni"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "meng zaʼmimga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:34.888339898Z",
+  "model": "glm-5.3"
+}

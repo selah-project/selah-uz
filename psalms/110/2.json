@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 110,
+  "translation": "Qudratingning tayoqchasini Yahve Tsiyondan yuboradi: dushmanlaring oʻrtasida hukmronlik qilgin.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "tayoqcha"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "qudratingning"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "yuboradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Tsiyondan"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "hukmronlik qilgin"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dushmanlaring"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:00.733094768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Otasini va onasini talaydigan va „jinoyat yoʻq“ deydi — halok qiluvchi odamning hamrohidir u.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "talaydigan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasini"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "va onasini"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "va deydi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "jinoyat"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "hamroh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "odamning"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "halok qiluvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:51:28.297442011Z",
+  "model": "glm-5.3"
+}

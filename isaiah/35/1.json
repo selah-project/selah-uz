@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Quvonadi choʻl va qurgʻoqchilik, va Araba xursand boʻladi va gullaydi xabanchoydek.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "quvonadi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "choʻl"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "va qurgʻoqchilik"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "va xursand boʻladi"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "Araba"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "va gullaydi"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "xabanchoydek"
+    }
+  ],
+  "timestamp": "2026-08-26T04:22:18.843108923Z",
+  "model": "glm-5.3"
+}

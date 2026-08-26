@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Yaxshi ⟨the⟩ tinchlik bilan toʻlgan bir kaft, ikki musht toʻla mehnat va ruax intilishidan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "toʻlgan"
+    },
+    {
+      "surface": "כף",
+      "gloss": "kaft"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "toʻlganidan"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "ikki musht"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mehnat"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "va intilish"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruax"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:47.354704954Z",
+  "model": "glm-5.3"
+}

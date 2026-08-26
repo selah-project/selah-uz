@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Senni yovuz niyat bilan aytadilar, Sening dushmanlaring ⟨Ismingni⟩ boʻshga koʻtaradilar.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kimlar"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "Senni aytadilar"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "yovuz niyat bilan"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "koʻtaradilar"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "boʻshga"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "dushmanlaring"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:56.432615645Z",
+  "model": "glm-5.3"
+}

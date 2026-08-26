@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Sheba ⟨bostirib keldi⟩ va ularni olib ketdi, va ⟨את⟩ xizmatkorlarni qilich ogʻzi bilan oʻldirdi; va men qochib qutuldim — faqat men, yolgʻiz oʻzim, senga xabar berish uchun.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "va bostirib keldi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "va ularni olib ketdi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xizmatkorlarni"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "xizmatkorlar"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "oʻldirdi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ogʻzi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "va qochib qutuldum"
+    },
+    {
+      "surface": "רק",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "yolgʻiz oʻzim"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "xabar berish uchun"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:53:57.028652008Z",
+  "model": "glm-5.3"
+}

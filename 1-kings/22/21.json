@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 22:21",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va ruax chiqdi va Yahve huzurida turdi va dedi: Men uni aldab olaman. Va Yahve unga dedi: Nima bilan?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "va chiqdi"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ruax"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "uni aldab olaman"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "במה",
+      "gloss": "nima bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:46:11.479036367Z",
+  "model": "glm-5.3"
+}

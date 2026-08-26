@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va ayol dedi: ⟨את⟩ kimni chiqaray senga? Va u dedi: ⟨את⟩ Shemuʼelni — chiqar menga.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kimni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimni"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "chiqaray"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuʼelni"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuʼelni"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "chiqar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:59:56.409114735Z",
+  "model": "glm-5.3"
+}

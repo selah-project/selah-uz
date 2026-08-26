@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va u turdi va butun Isroil jamoatini ⟨את⟩ barakaladi — katta ovoz bilan aytib:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "va barakaladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun Isroil jamoatini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamoatini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "katta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aytib"
+    }
+  ],
+  "timestamp": "2026-08-26T03:33:05.602319160Z",
+  "model": "glm-5.3"
+}

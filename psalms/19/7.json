@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Osmonlarning chekkasidan ⟨uning⟩ chiqishi va uning aylanishi ularning chekkalarigacha ⟨yetadi⟩; va uning issiqligidan yashiringan ⟨hech narsa⟩ yoʻq.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "chekkasidan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlarning"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "uning chiqishi"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "va uning aylanishi"
+    },
+    {
+      "surface": "על",
+      "gloss": "...gacha (ustiga)"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "ularning chekkalari"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "yashiringan"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "uning issiqligidan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:39.969511226Z",
+  "model": "glm-5.3"
+}

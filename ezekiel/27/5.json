@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 27:5",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Senir sarvlaridan ⟨את⟩ barcha taxtalaringni qurdilar sana; Livanon sadrini olib sana ustiga ustun yasash uchun.",
+  "tokens": [
+    {
+      "surface": "ברושים",
+      "gloss": "senir sarvlaridan"
+    },
+    {
+      "surface": "משניר",
+      "gloss": "Senirdan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "qurdilar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha taxtalaringni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "לחתים",
+      "gloss": "taxtalaringni"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sadrini"
+    },
+    {
+      "surface": "מלבנון",
+      "gloss": "Livanondan"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "olib"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yasash uchun"
+    },
+    {
+      "surface": "תרן",
+      "gloss": "ustun"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sana ustiga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:21:43.372601973Z",
+  "model": "glm-5.3"
+}

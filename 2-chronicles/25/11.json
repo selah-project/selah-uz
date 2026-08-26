@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 25:11",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Amatsyahu oʻzini kuchlantirdi va xalqini ⟨את⟩ olib bordi va Tuz vodiysiga bordi va Seir oʻgʻillaridan ⟨את⟩ oʻn ming kishini urdi.",
+  "tokens": [
+    {
+      "surface": "ואמציהו",
+      "gloss": "Va Amatsyahu"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "oʻzini kuchlantirdi"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "va olib bordi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqini"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va bordi"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "vodiysi"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Tuz"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seir oʻgʻillaridan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillaridan"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ming"
+    }
+  ],
+  "timestamp": "2026-08-26T08:12:44.803163688Z",
+  "model": "glm-5.3"
+}

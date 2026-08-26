@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Yahve ⟨is⟩ ulushimning oʻlchov-ulushi va piyolam; Sen lotimni ushlab turuvchisan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "oʻlchov-ulush"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ulushimning"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "va piyolam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "ushlab turuvchisan"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "lotimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:47.559471481Z",
+  "model": "glm-5.3"
+}

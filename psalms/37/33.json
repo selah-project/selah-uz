@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Yahve uni uning qoʻlida tashlamaydi, va hukm qilinayotganda uni aybdor deb eʼlon qilmaydi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "tashlamaydi emas — yoʻq"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "uni tashlamaydi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "uning qoʻlida"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "uni aybdor deb eʼlon qilmaydi"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "hukm qilinayotganda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:05.318025289Z",
+  "model": "glm-5.3"
+}

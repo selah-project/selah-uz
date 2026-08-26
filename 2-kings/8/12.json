@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 8:12",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Hazael dedi: Nega janobim yigʻlayapti? U esa dedi: Chunki men bilaman ⟨את⟩ nimalar qilasizingiz — Isroil oʻgʻillariga yomonlikni: ularning mustahkam shaharlarini olovhga yuborasiz, ularning yigitlarini qilich bilan oʻldirasiz, ularning chaqaloqlarini yerga urib yoʻq qilasiz va ularning homiladorlarini yorib tashlaysiz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Nega"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "janobim"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "yigʻlayapti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "men bilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimalar qilasizingiz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nimalar"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qilasiz"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "מבצריהם",
+      "gloss": "ularning mustahkam shaharlari"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "yuborasiz"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovga"
+    },
+    {
+      "surface": "ובחריהם",
+      "gloss": "va ularning yigitlari"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qilich bilan"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "oʻldirasiz"
+    },
+    {
+      "surface": "ועלליהם",
+      "gloss": "va ularning chaqaloqlari"
+    },
+    {
+      "surface": "תרטש",
+      "gloss": "yerga urib yoʻq qilasiz"
+    },
+    {
+      "surface": "והרתיהם",
+      "gloss": "va ularning homiladorlari"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "yorib tashlaysiz"
+    }
+  ],
+  "timestamp": "2026-08-26T03:51:49.732826546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va ⟨את⟩ Beyt-Xoron yuqorigisini va ⟨את⟩ Beyt-Xoron pastkisini qurdi — mustahkam shaharlar, devorlar, darvozalar va bilanqlar ⟨bilan⟩.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "va qurdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Xoron yuqorigisi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Xoron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "yuqorigi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Xoron pastkisi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Xoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "pastki"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "shaharlar"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "mustahkam"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "devorlar"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "darvozalar"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "va bilanqlar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:07:14.519411230Z",
+  "model": "glm-5.3"
+}

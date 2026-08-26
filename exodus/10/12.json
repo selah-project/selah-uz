@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yahve Moshega dedi: Qoʻlingni Misr yeri ustiga choʻz, chigirtkalar ⟨uchun⟩, va ⟨ular⟩ Misr yeri ustiga chiqsinlar va yerning barcha oʻtini yesinlar, ⟨את⟩ hammasini, ⟨את⟩ doʻl qoldirgan hamma narsani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "choʻz"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻlingni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "chigirtkalar ⟨uchun⟩"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "va chiqsinlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ואאכל→ואכל",
+      "gloss": "",
+      "notes": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hammasini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasini"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamma narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ni"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "qoldirgan"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "doʻl"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:37.456509424Z",
+  "model": "glm-5.3"
+}

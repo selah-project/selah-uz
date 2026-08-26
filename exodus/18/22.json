@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 18:22",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va ular ⟨את⟩ xalqni har vaqt hukm qilsinlar, va boʻladiki, har katta ishni senga keltirsinlar, har kichik ishni esa ular oʻzlari hukm qilsinlar, va sening uzingdan yengillashtirsinlar, va ular sen ⟨את⟩ bilan koʻtarsinlar.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "va hukm qilsinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "har"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻladiki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ishni"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "katta"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "keltirsinlar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va har"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ishni"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kichik"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "hukm qilsinlar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular oʻzlari"
+    },
+    {
+      "surface": "והקל",
+      "gloss": "va yengillashtirsinlar"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "sening uzingdan"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "va koʻtarsinlar"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "sen bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:50.736552659Z",
+  "model": "glm-5.3"
+}

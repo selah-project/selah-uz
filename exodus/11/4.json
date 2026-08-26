@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Moshe aytdi: Yahve shunday deydi: yarim tunda Men chiqaman Mitsrayimning ichiga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "yarimidasida"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "chiqaman"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ichiga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:33.140267851Z",
+  "model": "glm-5.3"
+}

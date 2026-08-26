@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Va Sen, Yahve Adonay, ⟨את⟩ menga qil — Isming uchun, chunki xeseding yaxshi, meni qutqar.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Va Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qil"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "menga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Isming"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "xeseding"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "qutqar meni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:41.749449021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va osmonlar hamda yer tamom boʻldi, va ularning butun saflari ⟨tugallandi⟩.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "tamom boʻldi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "va yer"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ularning saflari"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:45.398164266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 52,
+  "translation": "Yomonni yaxshidan koʻra sevding, yolgʻonni — sodiq gapirishdan. Sela.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "sevding"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomonni"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "yaxshidan koʻra"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻonni"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "gapirishdan koʻra"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sodiq"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:41.556930270Z",
+  "model": "glm-5.3"
+}

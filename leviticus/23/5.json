@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Birinchi oyda, oyning oʻn toʻrtinchisida, oqshomlar orasida, Pesax — Yahvegа.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "birinchi oyda oyda"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "birinchi"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "oʻn toʻrtinchi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-toʻrt)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "oyning"
+    },
+    {
+      "surface": "בין",
+      "gloss": "orasida"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "oqshomlarning"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesax"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegа"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:49.850006589Z",
+  "model": "glm-5.3"
+}

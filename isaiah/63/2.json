@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 63,
+  "translation": "Nega kiyiming qizil, va kiyimlaring tok zulfini bosuvchinikiga oʻxshaydi?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Nega"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "qizil"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "kiyiming"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "va kiyimlaring"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "bosuvchinikiga oʻxshaydi"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "tok zulfini"
+    }
+  ],
+  "timestamp": "2026-08-26T04:33:34.063536214Z",
+  "model": "glm-5.3"
+}

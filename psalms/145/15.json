@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Barchaning koʻzlari Senga intiladi, va Sen ularga ⟨את⟩ oziqlarini berursan oʻz vaqtida.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchaning"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "intiladi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "va Sen"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "berursan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oziqlarini"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "oziqlarini"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "oʻz vaqtida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:44.855090037Z",
+  "model": "glm-5.3"
+}

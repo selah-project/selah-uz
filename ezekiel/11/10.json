@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Qilich bilan yiqilasizlar; Isroil chegarasida ⟨את⟩ sizlarni hukm qilaman va bilursizlarki Men Yahve ⟨man⟩.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "qilich bilan"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "yiqilasizlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "chegarasida"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "hukm qilaman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni (hukm qilinadiganlar)"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "va bilursizlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T05:11:56.524413740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 13:7",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Yolgʻiz boy koʻrinadigan bor — ⟨uning⟩ hech narsasi yoʻq, va kambagʻal koʻrinadigan bor — uning boyligi koʻp.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "מתעשר",
+      "gloss": "boy koʻrinadigan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ammo yoʻq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hech narsasi"
+    },
+    {
+      "surface": "מתרושש",
+      "gloss": "kambagʻal koʻrinadigan"
+    },
+    {
+      "surface": "והון",
+      "gloss": "va boyligi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "koʻp"
+    }
+  ],
+  "timestamp": "2026-08-26T06:43:35.680830969Z",
+  "model": "glm-5.3"
+}

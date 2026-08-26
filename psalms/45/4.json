@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Qilchingni soningga bogʻla, bahodir — ulugʻvoring va ulugʻvorishing bilan.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "bogʻla"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "qilchingni"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "soni"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "bahodir"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ulugʻvoring"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "va ulugʻvorishing"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:35.047042572Z",
+  "model": "glm-5.3"
+}

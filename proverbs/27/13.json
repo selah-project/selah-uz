@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 27:13",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Kiyimini ol, chunki u begona uchun kafolat boʻldi, va tanish boʻlmagan ayol uchun undan garov olib qol.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ol"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "kiyimini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kafolat boʻldi"
+    },
+    {
+      "surface": "זר",
+      "gloss": "begona"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "va ... uchun"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "tanish boʻlmagan (ayol)"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "undan garov olib qol"
+    }
+  ],
+  "timestamp": "2026-08-26T06:50:49.400574405Z",
+  "model": "glm-5.3"
+}

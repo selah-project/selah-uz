@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va u akalarining oldiga qaytdi va dedi: Bolа yoʻq, va men — qayga boryapman?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oliga"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "akalarining"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "⟨the⟩ bola"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "va men"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "qayga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "בא",
+      "gloss": "boryapman"
+    }
+  ],
+  "timestamp": "2026-08-26T00:43:46.095684658Z",
+  "model": "glm-5.3"
+}

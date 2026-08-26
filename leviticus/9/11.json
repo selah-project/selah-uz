@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "⟨את⟩ Goʻshtni va ⟨את⟩ terini esa lagerdan tashqarida olovda yoqdi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "goʻshtni"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "goʻshtni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "terini"
+    },
+    {
+      "surface": "העור",
+      "gloss": "terini"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "yoqdi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovda"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqarida"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lagerdan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:26.317075416Z",
+  "model": "glm-5.3"
+}

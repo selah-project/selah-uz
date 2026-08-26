@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "va ular uchrashuv chodirining ⟨את⟩ navbatini, ⟨את⟩ muqaddas (joy)ning navbatini va Aharon oʻgʻillarining — oʻz aka-ukalarining — navbatini Yahve uyining xizmatida saqlasunlar",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "va saqlasunlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "navbatini"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "navbat"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "navbatini"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "navbat"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "va navbat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "oʻz aka-ukalari"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "xizmatida"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T08:01:27.345028589Z",
+  "model": "glm-5.3"
+}

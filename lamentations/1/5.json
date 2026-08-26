@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 1:5",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Tangliklari bosh boʻldi, dushmanlari xotirda boʻldi, chunki Yahve uni qaygʻuga soldi — uning koʻp qoʻzgʻolonlari sababli; uning goʻdaklari asir ketdilar dushman yuzi oldida.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "tangliklari"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "bosh ⟨uchun⟩"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "dushmanlari"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "xotirda boʻldi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "uni qaygʻuga soldi"
+    },
+    {
+      "surface": "על",
+      "gloss": "— sababli"
+    },
+    {
+      "surface": "רב",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "פשעיה",
+      "gloss": "qoʻzgʻolonlari"
+    },
+    {
+      "surface": "עולליה",
+      "gloss": "goʻdaklari"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ketdilar"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "asir"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yuzi oldida"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dushman"
+    }
+  ],
+  "timestamp": "2026-08-26T07:16:16.972213513Z",
+  "model": "glm-5.3"
+}

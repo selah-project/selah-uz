@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Dirigentga, Yahvening xizmatkorisiga, Dovudga.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirigentga"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "xizmatkorisiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:22.632317137Z",
+  "model": "glm-5.3"
+}

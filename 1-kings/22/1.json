@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va uch yil oʻtirdilar — Aram va Yisroil oʻrtasida urush yoʻq edi.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "oʻtirdilar"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uch"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "urush"
+    },
+    {
+      "surface": "בין",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va oʻrtasida"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroil"
+    }
+  ],
+  "timestamp": "2026-08-26T03:46:33.203508626Z",
+  "model": "glm-5.3"
+}

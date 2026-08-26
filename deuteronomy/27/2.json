@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 27:2",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va bo'ladi: Yahve Elohimingiz sizga berayotgan yerga Iyordan ⟨את⟩ dan o'tganingiz kuni, o'zingizga katta toshlarni tikib, ularni ⟨את⟩ oh bilan suvalang.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Va bo'ladi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qachonki"
+    },
+    {
+      "surface": "תעברו",
+      "gloss": "o'tasizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iyordan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimingiz"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berayotgan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "והקמת",
+      "gloss": "va tikasiz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o'zingizga"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "toshlarni"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "katta"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "va suvalang"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "oh bilan suvalang"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "oh bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:00:32.981237465Z",
+  "model": "glm-5.3"
+}

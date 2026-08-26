@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va u qizlariga dedi: u qayerda? Nima uchun ⟨את⟩ bu odamni tashlab qoʻydilar? Uni chaqiringlar, va u non yesin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "qizlariga"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "va u qayerda"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "tashlab qoʻydilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu odamni"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "chaqiringlar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "va yesin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:28.553261063Z",
+  "model": "glm-5.3"
+}

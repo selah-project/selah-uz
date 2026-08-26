@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "chunki Kayn uchun yetti barobar qasos olinadi, Lemek uchun esa yetmish yetti barobar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "yetti barobar"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "qasos olinadi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayn uchun"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "va Lemek uchun"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmish"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "va yetti"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:13.598165483Z",
+  "model": "glm-5.3"
+}

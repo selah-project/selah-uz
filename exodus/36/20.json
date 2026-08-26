@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Va u ⟨את⟩ tabernakl taxtalarini yasadi — akatsiya yogʻochidan, tik turuvchi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va u yasadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tabernakl taxtalarini"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "taxtalarni"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "tabernakl uchun"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsiya"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "tik turuvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:06:42.062423567Z",
+  "model": "glm-5.3"
+}

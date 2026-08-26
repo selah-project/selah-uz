@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Nima uchun, Yahve, uzoqda turasan, bemaʼlumlikka yashirinasan tongussizlik paytlarida?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "turasan"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "uzoqda"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "yashirinasan"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "paytlarida"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "tongussizlik"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:43.816573125Z",
+  "model": "glm-5.3"
+}

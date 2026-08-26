@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Paro bu safar ham ⟨את⟩ yuragini qattiqlashtirdi va xalqni yubormadi.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "Va qattiqlashtirdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuragini"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yuragini"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "safar"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yubormadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:38.238697369Z",
+  "model": "glm-5.3"
+}

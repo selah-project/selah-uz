@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va sen ⟨את⟩ Mishkan hovlisini yasaysan: janub tomonda, tevarak janubda — hovli uchun pardalar: oq tolali chiziqlangan mato, yuz qadam uzunlikda bir tomon uchun.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "yasaysan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan hovlisi"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "hovli"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "janub"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "tevarak janubda"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "pardalar"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "hovli uchun"
+    },
+    {
+      "surface": "שש",
+      "gloss": "oq mato"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "chiziqlangan"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "qadam"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzunlik"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "tomon uchun"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-08-26T00:59:33.982623471Z",
+  "model": "glm-5.3"
+}

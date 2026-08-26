@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va u qaynonasining oldiga keldi, va u aytdi: sen kimsan, qizim? Va u unga ⟨את⟩ odamning unga qilgan barcha ishlarini aytib berdi.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "va u keldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "qaynonasining"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qizim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "qizim"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "va u aytib berdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha ishlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T07:15:04.217834417Z",
+  "model": "glm-5.3"
+}

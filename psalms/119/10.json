@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Butun qalbim bilan Seni izladim; menga Sening buyruqlaringdan adashtirmay koʻr.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "butun … bilan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "qalbim"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "Seni izladim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma(-gina)"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "adashtirmay koʻr"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "Sening buyruqlaringdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:18.875756009Z",
+  "model": "glm-5.3"
+}

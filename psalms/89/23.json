@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Dushman unga qarz yuklamaydi va zulm oʻgʻli uni kamsitmaydi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…maydi"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "qarz yuklaydi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dushman"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "va …oʻgʻli"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "zulm"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maydi"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "uni kamsitadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:02.354859753Z",
+  "model": "glm-5.3"
+}

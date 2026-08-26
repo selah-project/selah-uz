@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Va menga dedi: Sen mening bandamsan, Isroil, men senda ulugʻlanaman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mening bandam"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimda"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senda"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ulugʻlanaman"
+    }
+  ],
+  "timestamp": "2026-08-26T04:30:13.598928374Z",
+  "model": "glm-5.3"
+}

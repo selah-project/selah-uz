@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yahve unga dedi: Ismini Yizreel deb chaqir, chunki yana oz vaqtdan keyin men ⟨את⟩ Yizreel qonini Yehu uyiga yuklayman va Isroil uyining podsholigini toʻxtataman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chaqir"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ismini"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "oz vaqtdan keyin"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "va yuklayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel qonini"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "qoni"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "va toʻxtataman"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "podsholigini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T05:34:35.318729514Z",
+  "model": "glm-5.3"
+}

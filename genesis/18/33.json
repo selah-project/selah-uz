@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 18:33",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Yahve ketdi, Avraham bilan gaplashishni tugatgach, va Avraham oʻz oʻrniga qaytdi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ketdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-gach"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "tugatib"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "gaplashishni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "va Avraham"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "oʻz oʻrniga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:07.484875714Z",
+  "model": "glm-5.3"
+}

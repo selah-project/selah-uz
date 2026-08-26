@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Yahvening ovozi suvlarning ustidadir; kavod Eli gʻuldirladi — Yahve koʻp suvlarning ustidadir.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ovozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlarning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "gʻuldirladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlarning"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:02.720811273Z",
+  "model": "glm-5.3"
+}

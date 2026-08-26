@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va kohin buyruq bersin, va ⟨את⟩ nuqsa boʻlgan narsani yuvsinlar, va uni yetti kun ikkinchi marta qamab qoʻysinlar.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "buyruq bersin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "yuvsinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nuqsa boʻlgan narsani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unda"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nuqsa"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "qamab qoʻysinlar"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikkinchi marta"
+    }
+  ],
+  "timestamp": "2026-08-26T01:16:46.383866319Z",
+  "model": "glm-5.3"
+}

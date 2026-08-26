@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va ularga qotilga ⟨the⟩ panoh shahri boʻlgan ⟨את⟩ Shekemni va ⟨uning⟩ atrof-maydonini Efrayim togʻida, va ⟨את⟩ Gezerni va ⟨uning⟩ atrof-maydonini berdilar.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "berdilar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekemni"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahri"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "panoh"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "qotilga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekemni"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "atrof-maydonini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "uning atrof-maydoni"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻida"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "va ⟨את⟩",
+      "marks": "Gezerni"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "atrof-maydonini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "uning atrof-maydoni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:20:55.815795142Z",
+  "model": "glm-5.3"
+}

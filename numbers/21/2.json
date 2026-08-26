@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 21:2",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Isroil Yahvega nazr nazr qildi va dedi: agar berib bersang bu xalqni ⟨את⟩ qoʻlimga, men ularning shaharlarini ⟨את⟩ cherimga bagʻishlayman.",
+  "tokens": [
+    {
+      "surface": "וידר",
+      "gloss": "va nazr qildi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "nazr"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berib"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bersang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "qoʻlimga"
+    },
+    {
+      "surface": "והחרמתי",
+      "gloss": "va cherimga bagʻishlayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning shaharlarini"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ularning shaharlari"
+    }
+  ],
+  "timestamp": "2026-08-26T01:37:46.091768867Z",
+  "model": "glm-5.3"
+}

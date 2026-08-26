@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Boʻsh gapiradi har bir kishi ⟨את⟩ oʻz yaqini bilan; silliq lablar, ikki yurak bilan va yurak bilan gapiradilar.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Boʻsh"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "gapiradi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har bir kishi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz yaqini"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oʻz yaqini"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lablar"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "silliq"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "yurak bilan"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "va yurak"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "gapiradilar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:49.138054215Z",
+  "model": "glm-5.3"
+}

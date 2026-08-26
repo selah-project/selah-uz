@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 118,
+  "translation": "Yaxshi — Yahvega panoh topish, odamga ishonch qoʻyishdan.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "panoh topish"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ishonch qoʻyishdan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "odamga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:44.907072583Z",
+  "model": "glm-5.3"
+}

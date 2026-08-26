@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 32:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va Yaakov oʻzidan oldin elchilarni ukasi Esavga yubordi, Seir yurtiga, Edom dalasiga.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "va yubordi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elchilarni"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "oʻzidan oldin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ukasi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yurtiga"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "dalasi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:58.950533996Z",
+  "model": "glm-5.3"
+}

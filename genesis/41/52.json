@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 41:52",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va ikkinchining ismini — ⟨את⟩ — Efroyim qoʻydi, chunki Elohim meni mashaqatim yerida mevali qildi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ism"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ism"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efroyim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הפרני",
+      "gloss": "meni mevali qildi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mashaqatim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:45:38.064243047Z",
+  "model": "glm-5.3"
+}

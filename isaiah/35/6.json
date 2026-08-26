@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Oʻsha paytda choʻloq kabi bukil sakraydi va soqovning tili qoʻshiq aytadi, chunki choʻlda suvlar yorilib chiqadi va vodiylarda — choʻl tekisligida — oqarlar.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "oʻsha paytda"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "sakraydi"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "bukil kabi"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "choʻloq"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "va qoʻshiq aytadi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "til"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "soqovning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "yorilib chiqadi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "va oqarlar"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "choʻl tekisligida"
+    }
+  ],
+  "timestamp": "2026-08-26T08:35:43.060366705Z",
+  "model": "glm-5.3"
+}

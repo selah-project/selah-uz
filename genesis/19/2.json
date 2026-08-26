@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 19:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va u aytdi: Mana, endi, janoblarim, iltimos, xizmatkoringizning uyiga yoping, tunningiz oʻtkazing va oyoqlaringizni yuving, va erta turib yoʻlingizga ketinglar. Va ular aytishdi: Yoʻq, biz maydonda tunaymiz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "janoblarim"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "yoping"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "עבדכם",
+      "gloss": "xizmatkoringizning"
+    },
+    {
+      "surface": "ולינו",
+      "gloss": "va tunangiz"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "va yuving"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "oyoqlaringizni"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "va erta turib"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "va ketinglar"
+    },
+    {
+      "surface": "לדרככם",
+      "gloss": "yoʻlingizga"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va ular aytishdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "maydonda"
+    },
+    {
+      "surface": "נלין",
+      "gloss": "tunaymiz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:09.191664911Z",
+  "model": "glm-5.3"
+}

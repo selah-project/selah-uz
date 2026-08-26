@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Yahve menga soliqdamligimga qarab munosib munosabat ko'rsatdi; qo'llarimning pokligiga qarab menga qaytardi.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "munosib munosabat ko'rsatdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "soliqdamligimga qarab"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "pokligiga qarab"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qo'llarimning"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "qaytardi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:41:54.945007633Z",
+  "model": "glm-5.3"
+}

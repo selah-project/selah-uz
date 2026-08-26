@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Uni boʻlaklarga boʻlsin, ⟨את⟩ uning boshini va ⟨את⟩ uning yogʻini; va kohen ularni oʻtinlar ustiga joylashtirsin — olov ustidagi, Mizbax ustidagi oʻtinlarga.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "boʻlaklarga boʻlsin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩uni"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "uning boʻlaklariga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning boshini"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "uning boshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning yogʻi"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "uning dumaloq yogʻi"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "va joylashtirsin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ularni"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ga"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "oʻtinlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–ki u"
+    },
+    {
+      "surface": "על",
+      "gloss": "–da"
+    },
+    {
+      "surface": "האש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "–ki u"
+    },
+    {
+      "surface": "על",
+      "gloss": "–da"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "Mizbax"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:37.754045374Z",
+  "model": "glm-5.3"
+}

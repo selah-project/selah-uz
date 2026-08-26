@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va yoʻlda, machitda boʻlganida, Yahve uni uchratdi va uni oʻldirishni istadi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "machitda"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "uni uchratdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "va istadi"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "uni oʻldirishni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:30.867289700Z",
+  "model": "glm-5.3"
+}

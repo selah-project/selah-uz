@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "va minglab avlodlarga — Meni sevganlarimga va Mening buyruqlarimni saqlovchilarga xesed qiluvchi —",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "va … qiluvchi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "minglab avlodlarga"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "Meni sevganlarimga"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "va … saqlovchilarga"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "Mening buyruqlarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:59:07.466883703Z",
+  "model": "glm-5.3"
+}

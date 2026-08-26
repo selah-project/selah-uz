@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va ular dedilar: qizni chaqiramiz va uning ⟨את⟩ ogʻzidan soʻraymiz.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "va ular dedilar"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "chaqiramiz"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "qizni"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "va soʻraymiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning ogʻzi"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "uning ogʻzi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:37:59.077317209Z",
+  "model": "glm-5.3"
+}

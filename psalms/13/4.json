@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Qarab javob ber, ey Yahve, Elohimim; koʻzlarimga nur ber, nechuki oʻlum uyqusini uxlamayin.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "qarab"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "javob ber (menga)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "nur ber"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarimga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "nechuki"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "uxlamayin"
+    },
+    {
+      "surface": "המות",
+      "gloss": "oʻlum uyqusini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:31.684013441Z",
+  "model": "glm-5.3"
+}

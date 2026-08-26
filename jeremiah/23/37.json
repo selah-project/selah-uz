@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Shunday deysiz ⟨u⟩ nabiyyga: «Nimani javob berdi sana Yahve, va nimani aytdi Yahve?»",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "deysiz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨u⟩ … ga"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "nabiyy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nimani"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "javob berdi sana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "va nimani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T04:51:32.798937771Z",
+  "model": "glm-5.3"
+}

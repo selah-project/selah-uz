@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "U zaif va muhtojga rahm qiladi, va muhtojlar jonini qutqaradi.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "rahm qiladi"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "דל",
+      "gloss": "zaif"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "va muhtoj"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "jonini"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "muhtojlar"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "qutqaradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:13.893763057Z",
+  "model": "glm-5.3"
+}

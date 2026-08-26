@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 14:10",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Kim dono — bilib olsin ⟨bularni⟩; tushunukli — tanib olsin ⟨ularni⟩; chunki Yahvening yoʻllari toʻgʻridir va solihlar ularda yuradi, ammo isyonkorlar ularda qoqiladi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "dono"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "bilib olsin"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨bularni⟩"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "tushunukli"
+    },
+    {
+      "surface": "והידעם",
+      "gloss": "tanib olsin ⟨ularni⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "toʻgʻridir"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yoʻllari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "va solihlar"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yuradi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ularda"
+    },
+    {
+      "surface": "ופשעים",
+      "gloss": "ammo isyonkorlar"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "qoqiladi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ularda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:40:37.228547736Z",
+  "model": "glm-5.3"
+}

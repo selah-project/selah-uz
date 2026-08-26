@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Solih kishi kambagʻallar huquqini biladi, yomon esa bilimni tushunmaydi.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih kishi"
+    },
+    {
+      "surface": "דין",
+      "gloss": "huquqini"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "kambagʻallar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-maydi"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "tushunmaydi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:51:41.491192582Z",
+  "model": "glm-5.3"
+}

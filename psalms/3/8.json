@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Tur, Yahve! Meni qutqar, Elohimim! Chunki sen barcha dushmanlarimning yonoqlariga urgansan, yovlarning tishlarini sindirgansan.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "tur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "meni qutqar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "urgansan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha dushmanlarimning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "yonoqlariga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tishlarini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlarning"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "sindirgansan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:52.462913437Z",
+  "model": "glm-5.3"
+}

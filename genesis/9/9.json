@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Men — mana, Men ⟨את⟩ ahdimni tikmoqdaman — ⟨את⟩ bilan sizlar bilan, va ⟨את⟩ sizlarning urugʻingiz bilan — sizlardan keyin.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Va Men"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "tikmoqdamanning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bilan sizlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "urugʻingiz"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "sizlardan keyin"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:48.536853411Z",
+  "model": "glm-5.3"
+}

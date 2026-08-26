@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Ular tinchlangani uchun quvondilar va U ularni xohlagan bandargohiga olib keldi.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "quvondilar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "tinchlangani"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "olib keldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iga"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "bandargoh"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "xohlagan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:37.308383456Z",
+  "model": "glm-5.3"
+}

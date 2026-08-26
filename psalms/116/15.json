@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Qimmatli ⟨bu⟩ Yahve koʻzlarida — ⟨uning⟩ sodiqlarining oʻlimi.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "qimmatli"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzlarida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "oʻlimi"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "sodiqlarining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:54.364215885Z",
+  "model": "glm-5.3"
+}

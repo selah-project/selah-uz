@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Sharqdan yirtqich qushni, uzoq mamlakatdan maslahatim odamini chaqiraman; ha, aytdim — ha, keltiraman; rejalashtirdim — ha, bajaraman.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "chaqiraman"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "Sharqdan"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "yirtqich qushni"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "mamlakatdan"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzoq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odamini"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "maslahatim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ha"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "aytdim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "keltiraman"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "rejalashtirdim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ha"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "bajaraman"
+    }
+  ],
+  "timestamp": "2026-08-26T04:28:14.890382785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 8:14",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va u menga aydi: «Kechgacha-tonggacha — ikki ming uch yuz; va muqaddaslik oqlanadi.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u aydi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kech"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ikki ming"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "va uch"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "ונצדק",
+      "gloss": "va oqlanadi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddaslik"
+    }
+  ],
+  "timestamp": "2026-08-26T07:33:49.025122216Z",
+  "model": "glm-5.3"
+}

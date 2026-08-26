@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 3:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Ayol daraxtning ovqatga yaxshi ekanini, ko'zlarga maqtovlik ekanini va daraxt aql berishga orzu qilinadigan ekanini ko'rdi; u uning mevasidan oldi va yedi, yonidagi eriga ham berdi, va u ham yedi.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ko'rdi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "−ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "ovqatga"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "va −ki"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "maqtovlik\/iroqa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ko'zlarga"
+    },
+    {
+      "surface": "ונחמד",
+      "gloss": "orzu qilinadigan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "aql berishga"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "מפריו",
+      "gloss": "uning mevasidan"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "yedi"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "eriga"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "yonida"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "u ham yedi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:13.869719189Z",
+  "model": "glm-5.3"
+}

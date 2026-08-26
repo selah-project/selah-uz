@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Barcha hukmdorlaring birga qochdi — kamon yonidan bogʻlandilar; barcha topilganlaring birga bogʻlandilar — uzoqdan qochdilar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "hukmdorlaring"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "qochdi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birga"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "kamon yonidan"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "bogʻlandilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "topilganlaring"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "bogʻlandilar"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birga"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "uzoqdan"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "qochdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:15:53.284300671Z",
+  "model": "glm-5.3"
+}

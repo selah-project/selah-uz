@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Va Tsiyon dedi: Yahve meni tashlab ketdi, va Adonay meni unutdi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "meni tashlab ketdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "va Adonay"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "meni unutdi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:29:29.463661054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va boʻldi jang kuni: Shaʼul bilan ⟨את⟩ va ⟨את⟩ Yonatan bilan boʻlgan barcha xalq qoʻlida qilich va nayza topilmadi; faqat Shaʼul va uning oʻgʻli Yonatan uchun topildi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "jang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "topilmadi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "va nayza"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻlida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaʼul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaʼul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "va topildi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaʼul uchun"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "va Yonatan uchun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "uning oʻgʻli"
+    }
+  ],
+  "timestamp": "2026-08-26T02:45:52.010816341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Agar topilsa — topilsa oʻgʻirlik uning qoʻlida tirik holda, hoʻkizdan eshakka qadar, qoʻyga qadar — ikki barobar toʻlaydi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "topilsa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "topilsa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "uning qoʻlida"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "oʻgʻirlik"
+    },
+    {
+      "surface": "משור",
+      "gloss": "hoʻkizdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qadar"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "eshakka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qadar"
+    },
+    {
+      "surface": "שה",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tirik"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ikki barobar"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "toʻlaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:30.432068832Z",
+  "model": "glm-5.3"
+}

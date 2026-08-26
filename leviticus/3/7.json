@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Agar qoʻy — ⟨he⟩ o — yaqin keltirayotgan boʻlsa oʻz qurbonligini ⟨את⟩, yaqin keltirsin uni ⟨את⟩ Yahve oldida.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩ u"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "yaqin keltirayotgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz qurbonligini"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "uning qurbonligi"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "va yaqin keltirsin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩uni",
+      "marks": "uni (qoʻyni)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:38.652693879Z",
+  "model": "glm-5.3"
+}

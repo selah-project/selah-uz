@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Yahve Parʻoning yuragini qattiqlashtirdi, va u ularga quloq solmadi, Yahve Moshega gapirgandek.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "va qattiqlashtirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuragini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʻo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "quloq solmadi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…gandek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:00.968932948Z",
+  "model": "glm-5.3"
+}

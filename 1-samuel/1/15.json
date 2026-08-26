@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 1:15",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Xanna javob berib aytdi: Yoʻq, mening xonim, men qattiq qaygʻuli ruhdagi ayolman; ham vino, ham kuchli ichimlik ichmadim, balki ⟨את⟩ nefushimni Yahve oldiga toʻkdim.",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "Va ... javob berdi"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Xanna"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va ... aytdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mening xonim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "qattiq qaygʻuli"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "man"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ham vino"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ham kuchli ichimlik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...maydi"
+    },
+    {
+      "surface": "שתיתי",
+      "gloss": "ichdim"
+    },
+    {
+      "surface": "ואשפך",
+      "gloss": "balki ... toʻkdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefushimni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefushimni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T02:40:15.084773249Z",
+  "model": "glm-5.3"
+}

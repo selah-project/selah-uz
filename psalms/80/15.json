@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 80,
+  "translation": "Elohim Tsevaot, qayt, iltijos! Osmondan qaragin va koʻr, va bu tokni yodlab koʻrgin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "qayt"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltijos"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "qaragin"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "osmondan"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "va koʻr"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "va yodlab koʻrgin"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "tokni"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:48.642569868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va sening chorva molingga va yeringda yashaydigan hayvonga — uning barcha hosili ⟨ozuqa⟩ sifatida boʻladi.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "va sening chorva molingga"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "va hayvonga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "yeringda"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "uning hosili"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemoq uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:22:09.635868938Z",
+  "model": "glm-5.3"
+}

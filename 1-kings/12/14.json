@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va ularga yoshlar maslahati boʻyicha gapirdi, deb: Otam sizning boʻyingizni ogʻir qildi, men esa sizning boʻyingizga qoʻshaman; otam sizni ⟨את⟩ qamchilar bilan tarbiyaladi, men esa sizni ⟨את⟩ chayonlar bilan jazolayman.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "maslahati boʻyicha"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "yoshlar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otam"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ogʻir qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boʻyingizni"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "boʻyingiz"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men esa"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "qoʻshaman"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "boʻyingiz"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otam"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "tarbiyaladi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizni",
+      "marks": "siz"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "qamchilar bilan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men esa"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "jazolayman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizni",
+      "marks": "siz"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "chayonlar bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:37:20.901383575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va Yehuda Yahve koʻzida yomonlikni qildi, va Ular uni hasadga solishdi ⟨את⟩—U barcha narsadan, otalari qilganidan, gunohlari bilan, ular qilgan gunohlari bilan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Va qildi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "va hasadga solishdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (Yahveni)"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barchasidan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "otalari"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "gunohlari bilan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "gunoh qilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:40:04.873135386Z",
+  "model": "glm-5.3"
+}

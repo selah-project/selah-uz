@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 11:22",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Chunki agar bu butun buyruqni — men ⟨את⟩ sizlarga unga amal qilishni buyurayotgan — saqlasangiz, Yahve Elohimingizni sevgan boʻlish, barcha yoʻllarida yurish va Unga yopishish uchun ⟨את⟩ ⟨butun buyruqni⟩ saqlab;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saqlash"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "saqlasangiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu butun buyruqni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "buyruq"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "buyurayotgan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarga"
+    },
+    {
+      "surface": "לעשתה",
+      "gloss": "unga amal qilishni"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "sevgan boʻlish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Elohimingizni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimingizni"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yurish"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "yoʻllarida"
+    },
+    {
+      "surface": "ולדבקה",
+      "gloss": "va yopishish"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Unga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:53:54.554177697Z",
+  "model": "glm-5.3"
+}

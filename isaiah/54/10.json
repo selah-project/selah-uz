@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 54,
+  "translation": "Ki togʻlar siljiydi va tepaliklar qaltiraydi, lekin xesedim ⟨את⟩ sendan siljimaydi va tinchligim ahdining iplari uzilmaydi, — deydi seni rahm qiluvchi Yahve.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ki"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "siljiydi"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "va tepaliklar"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "qaltiraydi"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "lekin xesedim"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ sendan",
+      "marks": "xesedim — sendan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maydi"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "silji"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "va …ahdi"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "tinchligimning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maydi"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "uzilmaydi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "seni rahm qiluvchi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T04:30:50.002527981Z",
+  "model": "glm-5.3"
+}

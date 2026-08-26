@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va Yahve ularni sizlarning oldingizga beradi, va sizlar ularga butun buyruq singari — ki Men ⟨את⟩ sizlarga buyurdim — qilasizlar.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "va beradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "oldingizga"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "va qilasizlar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "butun...singari"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "buyruq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "buyurdim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:09:07.574569950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Kir, Misr qirohi Fir’avn bilan gapirki, u Isroil o‘g‘illarini ⟨את⟩ o‘z yurtidan chiqarsin.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "kir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fir’avn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qirohi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "va chiqarsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil o‘g‘illarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o‘g‘illari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "o‘z yurtidan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:28.018078120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Chunki ular uning ruvini ⟨את⟩ achitdilar, va u lablari bilan shoshilinch gapirdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "achitdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning ruvini"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "uning ruvi"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "va shoshilinch gapirdi"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "lablari bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:06.890515794Z",
+  "model": "glm-5.3"
+}

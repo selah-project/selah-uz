@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 63,
+  "translation": "Elohim, Sen mening Elohimisan, tong otishida Seni izlayman; Sendan jonim chanqadi, Sendan tanam orzu bilan yonadi — qurgʻoq va toliqqan, suvsiz yerda.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mening Elohimim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "tong otishida Seni izlayman"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "chanqadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sendan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "orzu bilan yonadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sendan"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "tanam"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "qurgʻoq"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "va toliqqan"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "siz"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:17.179223790Z",
+  "model": "glm-5.3"
+}

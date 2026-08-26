@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Kunlarning uzunligi bilan uni toʻydirurman va uni Mening najotimda koʻrsaturman.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "uzunligi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlarning"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "uni toʻydirurman"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "va uni koʻrsaturman"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "Mening najotimda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:01.882265056Z",
+  "model": "glm-5.3"
+}

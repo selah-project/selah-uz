@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va ularga ⟨את⟩ nizomlarni va ⟨את⟩ toralarni eslatib ber, ularga ⟨את⟩ yoʻlni tanishtir — unda yursinlar — va ⟨את⟩ amalni kki qilsinlar.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "va eslatib ber"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ ularni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nizomlarni"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "nizomlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "toralarni"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "toralar"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "va tanishtir"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoʻlni"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yursinlar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "amalni"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "amal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kki"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "qilsinlar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:53.351185280Z",
+  "model": "glm-5.3"
+}

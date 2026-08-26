@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va qirol Dovud keldi va Yahve oldida oʻtirdi va dedi: Men kimman, ey Yahve Elohim, va uyim nima, chunki sen meni mana shu yerga yetkazding?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va oʻtirdi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "...oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "va nima"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "uyim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "sen meni yetkazding"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...gacha"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "mana shu yerga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:59:31.291268429Z",
+  "model": "glm-5.3"
+}

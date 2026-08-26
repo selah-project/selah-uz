@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Dirijorga, Yedutunga — Dovud mazmuri.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijorga"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "Yedutunga"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmuri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovud"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:56.842270732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 45:7",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Yorugʻlikni shakllantiruvchi va zulmatni yaratuvchi, tinchlikni qiluvchi va yomonlikni yaratuvchi — Men Yahveman, barcha bunyod qiluvchisi.",
+  "tokens": [
+    {
+      "surface": "יוצר",
+      "gloss": "shakllantiruvchi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yorugʻlikni"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "va yaratuvchi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "zulmatni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlikni"
+    },
+    {
+      "surface": "ובורא",
+      "gloss": "va yaratuvchi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bunyod"
+    }
+  ],
+  "timestamp": "2026-08-26T04:28:38.145338541Z",
+  "model": "glm-5.3"
+}

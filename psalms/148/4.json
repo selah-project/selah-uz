@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 148,
+  "translation": "Maqtanglar Uni, osmonlar-osmonlari va suvlarki, ⟨ular⟩ osmonlarning ustidadir.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Maqtanglar Uni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "osmonlarining"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "va suvlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ustin"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:10.584651080Z",
+  "model": "glm-5.3"
+}

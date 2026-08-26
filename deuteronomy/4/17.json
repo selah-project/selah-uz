@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "yer yuzidagi ⟨the⟩ har qanday hayvonning shakli, osmonlarda uchadigan ⟨the⟩ har qanday qanotli qushning shakli",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "shakli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayvonning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer yuzidagi"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "shakli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "qushning"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "qanotli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "uchadigan"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "osmonlarda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:50:59.344866184Z",
+  "model": "glm-5.3"
+}

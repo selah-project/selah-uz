@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va ajratish uchun — muqaddas bilan ⟨oddiy⟩ oʻrtasida, va nopok bilan pok oʻrtasida.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "va ajratish uchun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va oʻrtasida"
+    },
+    {
+      "surface": "החל",
+      "gloss": "oddiy (muqaddas boʻlmagan)"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va oʻrtasida"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nopok"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va oʻrtasida"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "pok"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:43.987835968Z",
+  "model": "glm-5.3"
+}

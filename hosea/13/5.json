@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Men seni choʻlda, qurgʻoqchilik yerida bilib oldim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "seni bilib oldim"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "qurgʻoqchilik"
+    }
+  ],
+  "timestamp": "2026-08-26T05:37:17.706053789Z",
+  "model": "glm-5.3"
+}

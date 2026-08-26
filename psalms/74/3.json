@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Qadam koʻtar abadiy xarobalarga — dushman muqaddas maskanda butun yomonlikni qilganga.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "koʻtar"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "qadam — senning"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "xarobalarga"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dushman"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "muqaddas maskanda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:58.926511463Z",
+  "model": "glm-5.3"
+}

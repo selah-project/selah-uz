@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Shem ⟨את⟩ Arpakshadni dunyoga keltirgandan keyin besh yuz yil yashadi va oʻgʻillar va qizlarni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "va yashadi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "uni dunyoga keltirgandan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshadni"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "besh"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "va dunyoga keltirdi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oʻgʻillar"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "va qizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:22.329247116Z",
+  "model": "glm-5.3"
+}

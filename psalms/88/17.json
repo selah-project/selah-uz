@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 88,
+  "translation": "Ustimga gʻazablanganlaring oʻtdi, dahshatlaring meni yoʻq qilib yubordi.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "oʻtdi"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "gʻazablanganlaring"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "dahshatlaring"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "meni yoʻq qilib yubordi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:47.566824641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 18:10",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Kenananing oʻgʻli Tsidkiyahu unga temur shoxlarni yasadi va aytdi: Xudo shunday deydi — shular bilan Aramni shoxlab ular tugaguncha sur.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Va yasadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenana"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "shoxlar"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "temur"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "shular bilan"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "shoxlab surasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-guncha"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ular tugashini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:10:13.748601375Z",
+  "model": "glm-5.3"
+}

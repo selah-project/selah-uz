@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yexu ⟨את⟩ butun xalqni yigʻdi va ularga aytdi: Ahab ⟨את⟩ Baalga oz xizmat qildi, Yexu unga koʻp xizmat qiladi.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "va yigʻdi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yexu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun xalqni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "xizmat qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalga"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "oz"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yexu"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "unga xizmat qiladi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "koʻp"
+    }
+  ],
+  "timestamp": "2026-08-26T03:53:19.881251287Z",
+  "model": "glm-5.3"
+}

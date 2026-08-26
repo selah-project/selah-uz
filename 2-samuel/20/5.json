@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Amasa ketdi Yehudani ⟨את⟩ chaqirish uchun, lekin u belgilangan muddatdan kechikdi, uni belgilagan ⟨muddatdan⟩.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ketdi"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "chaqirish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "lekin kechikdi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "belgilangan muddat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "uni belgilagan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:19:41.562322755Z",
+  "model": "glm-5.3"
+}

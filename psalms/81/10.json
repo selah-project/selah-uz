@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Boʻlmasin senda begona El, va begona Elga taʼzim qilmagin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Boʻlmasin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlmasin"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "begona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... -magin"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "taʼzim qilmagin"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elga"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "begona"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:47.463534302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va ⟨ular⟩ eshitmadi va quloqlarini ⟨את⟩ egmadi, va boʻyinlarini qattiqlashtirdi ⟨את⟩ eshitmaslik uchun va tarbiyani qabul qilmaslik uchun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va … –ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshitmadi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … –ma"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "egmadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quloqlarini"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "quloqlarini"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "va qattiqlashtirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boʻyinlarini"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "boʻyinlarini"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "uchun … –maslik"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "eshitmaslik"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "va uchun … –maslik"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "qabul qilmaslik"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tarbiya"
+    }
+  ],
+  "timestamp": "2026-08-26T04:47:26.213117522Z",
+  "model": "glm-5.3"
+}

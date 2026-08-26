@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Yahve Moshega aytdi: Farogʻ sizlarga quloq solmaydi — mojizolarim Misr yerida koʻpayishi uchun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "quloq soladi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farogʻ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "koʻpayishi"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "mojizolarim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:50.544300581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Elohim ularning boʻgʻz tortib nolashini eshitdi, va Elohim ⟨את⟩ oʻz ahdini — ⟨את⟩ Avraham bilan, ⟨את⟩ Yitsxok bilan va ⟨את⟩ Yoqub bilan ⟨qilingan⟩ — eslab qoldi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning nolasi"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "ularning nolasi"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "eslab qoldi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz ahdi"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "oʻz ahdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitsxok"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yoqub"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yoqub"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:56.906645148Z",
+  "model": "glm-5.3"
+}

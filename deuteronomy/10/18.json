@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Yetim va bevaning haqini ado qiladi, musofirni sevikli deb yaxshi koʻradi — unga non va kiyim berish uchun.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "qiladi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "haqini ado"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yetim"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "va beva"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "va yaxshi koʻradi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "musofirni"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "berish uchun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "va kiyim"
+    }
+  ],
+  "timestamp": "2026-08-26T01:53:29.051269891Z",
+  "model": "glm-5.3"
+}

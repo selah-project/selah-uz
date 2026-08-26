@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Turdimgu — men, doddimga ochmoq uchun; qoʻllarimdan murr tomizdi, barmoqlarimdan esa qulf dastalariga oʻtayotgan murr (tomizdi).",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "turdimgu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ochmoq uchun"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "doddimga"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "qoʻllarimdan"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "tomizdi"
+    },
+    {
+      "surface": "מור",
+      "gloss": "murr"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "barmoqlarimdan"
+    },
+    {
+      "surface": "מור",
+      "gloss": "murr"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oʻtayotgan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "dastalariga"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "qulfning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:11:24.467841167Z",
+  "model": "glm-5.3"
+}

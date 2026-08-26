@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va agar qalbingda desang: Qanday bilamiz ⟨את⟩ soʻzni ki uni Yahve gapirmagan?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Va agar"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "desang"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "qalbingda"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "qanday"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "bilamiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻzni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "gapirmagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:57:39.995320951Z",
+  "model": "glm-5.3"
+}

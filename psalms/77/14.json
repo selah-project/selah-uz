@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Elohim, muqaddaslikda ⟨bor⟩ Yoʻling; kim ⟨bor⟩ El — Elohim kabi buyuk?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "muqaddaslikda"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "Yoʻling"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "Elohim kabi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:22.147043988Z",
+  "model": "glm-5.3"
+}

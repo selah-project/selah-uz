@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Yuragim yaxshi soʻz koʻpirdi: men ishlarimni malikka aytaman, tilim — tez yozuvchining qalamisi.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "koʻpirdi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytaman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ishlarimni"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "malikka"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "tilim"
+    },
+    {
+      "surface": "עט",
+      "gloss": "qalami"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "yozuvchining"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "tez"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:35.046793184Z",
+  "model": "glm-5.3"
+}

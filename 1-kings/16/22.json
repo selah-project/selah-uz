@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va qudratliroq boʻldi xalq, ki Omri ortidan edi, ⟨את⟩ xalqdan, ki Tibni, Ginat oʻgʻli ortidan edi; va oʻldi Tibni, va podshoh boʻldi Omri.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "va qudratliroq boʻldi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalq (Omri tarafdorlari ustidan gʻalaba qilingan xalq)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "Ginat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "va oʻldi"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "va podshoh boʻldi"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-08-26T03:41:56.218609189Z",
+  "model": "glm-5.3"
+}

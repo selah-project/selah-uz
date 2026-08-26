@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Mo‘she Elohimga dedi: “Men kimmanki, Par’oga boray va Isroil o‘g‘illarini Misrdan chiqaray?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mo‘she"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohimga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "manki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "boray"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Par’oga"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "va —"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "chiqaray"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "o‘g‘illarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o‘g‘illarini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:35.359128697Z",
+  "model": "glm-5.3"
+}

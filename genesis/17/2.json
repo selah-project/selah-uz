@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va beraman ahdimni oʻrtamda va oʻrtangda, va koʻpaytiraman ⟨את⟩ seni juda-juda.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "va beraman"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimni"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "oʻrtamda"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "va oʻrtangda"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "va koʻpaytiraman"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ seni",
+      "marks": "seni (koʻpaytirilayotgan obyekt)"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "juda-"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:41.633078744Z",
+  "model": "glm-5.3"
+}

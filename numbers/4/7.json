@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 4:7",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va yuzlar dasturxoni ustiga moviy mato yoyadilar, va uning ustiga ⟨את⟩ kosalarni, ⟨את⟩ piyolalarni, ⟨את⟩ kosalarni va ⟨את⟩ libatsiya qadahlarini qoʻyadilar, va doimiy non uning ustida boʻladi.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "va ustiga"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "dasturxon"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "yuzlar"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "yoyadilar"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "mato"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "moviy"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "va qoʻyadilar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kosalar"
+    },
+    {
+      "surface": "הקערת",
+      "gloss": "kosalar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "piyolalar"
+    },
+    {
+      "surface": "הכפת",
+      "gloss": "piyolalar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "s idishlar"
+    },
+    {
+      "surface": "המנקית",
+      "gloss": "s idishlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "qadahlar"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "qadahlar"
+    },
+    {
+      "surface": "הנסך",
+      "gloss": "libatsiya"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "va non"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "doimiy"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustida"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:26:12.070944041Z",
+  "model": "glm-5.3"
+}

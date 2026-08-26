@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Meni og'iz bo'sag'laridan bo'sadi — chunki sevishing sharobdan yoqimliroq!",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "meni bo'sadi"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "bo'sag'alaridan (bo'salar)"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "og'iz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "yoqimliroq (yaxshiroq)"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "sevishing"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "sharobdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:48:16.220296168Z",
+  "model": "glm-5.3"
+}

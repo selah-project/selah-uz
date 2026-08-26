@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "Sen qoʻrqqonlaringga bayroq berding, haqiqat yuzidan yoyilishi uchun. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "berding"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "qoʻrqqonlaringga"
+    },
+    {
+      "surface": "נס",
+      "gloss": "bayroq"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "yoyilishi uchun"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "haqiqat"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:53.768421407Z",
+  "model": "glm-5.3"
+}

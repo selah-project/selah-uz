@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Chizqiya Yahve uyida va shoh uyining xazinalarida topilgan ⟨את⟩ butun kumushni berdi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Va ... berdi"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizqiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun kumushni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "topilgan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "va xazinalarida"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    }
+  ],
+  "timestamp": "2026-08-26T03:58:37.238091703Z",
+  "model": "glm-5.3"
+}

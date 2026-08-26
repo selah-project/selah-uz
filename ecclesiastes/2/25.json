@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Chunki kim yer, va kim ⟨mendon boshqa⟩ shoshib zavqlanur?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "va kim"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "shoshib zavqlanur"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "tashqarida"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendon"
+    }
+  ],
+  "timestamp": "2026-08-26T07:18:47.767443755Z",
+  "model": "glm-5.3"
+}

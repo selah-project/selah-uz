@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Ular qalbini birga shakllantiradi, barcha amallarini tushunadi.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "shakllantiradi"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birga"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "qalbini"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "tushunadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "amallarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:48.299084096Z",
+  "model": "glm-5.3"
+}

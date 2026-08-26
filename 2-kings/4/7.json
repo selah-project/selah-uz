@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "U keldi va Elohim odamiga xabar berdi; va u aytdi: „Bor, ⟨את⟩ moyni sot va ⟨את⟩ qarzlaringni toʻla; sen va oʻgʻillaring qolgani bilan yashanglar“.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "xabar berdi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "odamiga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "bor"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "sot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moy"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "toʻla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qarzlaring"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "qarzlaring"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va sen"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "oʻgʻillaring"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "yashanglar"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "qolgani bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:50:48.289059550Z",
+  "model": "glm-5.3"
+}

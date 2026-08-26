@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Uning ulugʻvorligi ⟨את⟩ sizlarni qoʻrqitmasmi? Va uning dahshati sizlarga tushmasmi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "masmi"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "uning ulugʻvorligi"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "qoʻrqitmasmi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "va uning dahshati"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "tushmasmi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:58:10.041597519Z",
+  "model": "glm-5.3"
+}

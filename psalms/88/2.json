@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 88,
+  "translation": "Yahve, Elohim — mening qutqarilishim: kunduzi qichqirdim, tunda Sening huzuringda.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "mening qutqarilishim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kunduzi"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "qichqirdim"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "Sening huzuringda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:34.888178612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Qahramonlarning kamoni sindirildi, va qoqilganlar quvvatni kamarlab oldilar.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "kamoni"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "qahramonlarning"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "sindirildi"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "va qoqilganlar"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "kamarlab oldilar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "quvvatni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:41:09.987554001Z",
+  "model": "glm-5.3"
+}

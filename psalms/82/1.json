@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 82,
+  "translation": "Asaf mizmori. Elohim El jamoatida turadi, xudolar orasida hukm chiqaradi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmori"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "turadi"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "jamoatida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "orasida"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xudolar"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hukm chiqaradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:12.278843269Z",
+  "model": "glm-5.3"
+}

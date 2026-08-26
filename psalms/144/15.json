@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 144,
+  "translation": "Baxtlidir ⟨the⟩ xalqki, unga shunday ⟨boʻlgan⟩; baxtlidir ⟨the⟩ xalqki, uning Elohimi — Yahve.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtlidir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "shunday ⟨boʻlgan⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtlidir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "uning Elohimidir"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:53.730510004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 7:18",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va men shofarni suraman — men va ⟨את⟩ bilan boʻlgan barcha ki men bilan; va sizlar ham shofarlarni surab, butun lager atrofidan: „Yahve uchun va Gidʻon uchun!“ deysizlar.",
+  "tokens": [
+    {
+      "surface": "ותקעתי",
+      "gloss": "Va men surnaman"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shofarni"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "men bilan boʻlgan odamlar"
+    },
+    {
+      "surface": "ותקעתם",
+      "gloss": "va sizlar suringlar"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "shofarlarni"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "atrofidan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lager"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "va deysizlar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "ולגדעון",
+      "gloss": "va Gidʻon uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:27:09.779346974Z",
+  "model": "glm-5.3"
+}

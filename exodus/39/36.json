@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "⟨את⟩ dasturxonni, ⟨את⟩ uning barcha asboblarini va ⟨את⟩ yuz nonini.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dasturxonni"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "dasturxonni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning barcha asboblari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uning asboblari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yuz nonini"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "nonini"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "yuz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:07:59.875761921Z",
+  "model": "glm-5.3"
+}

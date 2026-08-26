@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Menga rahm qil, Yahve, chunki butunlay zaifman; menga shifo ber, Yahve, chunki suyaklarim larzaga keldi.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "menga rahm qil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "butunlay zaif"
+    },
+    {
+      "surface": "אני",
+      "gloss": "man"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "menga shifo ber"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "larzaga keldi"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "suyaklarim"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:08.905391020Z",
+  "model": "glm-5.3"
+}

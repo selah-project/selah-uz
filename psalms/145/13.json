@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Shohliging — barcha olamlarning shohligi ⟨dir⟩, va hukmronliging barcha avlod-u-avlod ⟨suradi⟩.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "Shohliging"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "shohligi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "olamlarning"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "va hukmronliging"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "u-avlod"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:44.854575619Z",
+  "model": "glm-5.3"
+}

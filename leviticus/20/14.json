@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va bir erkak, agar ⟨את⟩ ayolni va ⟨את⟩ uning onasini olsa — yomon niyyatdir u; olovida yoqsunlar uni va ularni; va yomon niyyat boʻlmasin ichingizda.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Va bir erkak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "olsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayolni"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayolni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning onasini"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "uning onasini"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "yomon niyyat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovda"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "yoqsunlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "erkakni"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "va ⟨את⟩ ularni",
+      "marks": "ayolni va onasini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻlmasin"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "yomon niyyat"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "ichingizda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:52.590043110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 80,
+  "translation": "Elohim, bizni qaytargin, va yuzingni yoritgin, va qutqarilamiz.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bizni qaytargin"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "va yoritgin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "va qutqarilamiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:37.734037601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Koʻzlarimning qovoqlarini ushlab olding; larzaga tushdim va gapirmadim.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "ushlab olding"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "qovoqlarini"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarimning"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "larzaga tushdim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "gapiraman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:47.544108439Z",
+  "model": "glm-5.3"
+}

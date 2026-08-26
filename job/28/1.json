@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 28:1",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Chunki kumush uchun chiqish joyi bor, va oltin eritiladigan ⟨the⟩ joy mavjud.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "kumush uchun"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "chiqish joyi (manba)"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "va joy"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "oltin uchun"
+    },
+    {
+      "surface": "יזקקו",
+      "gloss": "eritiladi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:48:13.787212081Z",
+  "model": "glm-5.3"
+}

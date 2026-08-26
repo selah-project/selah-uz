@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va Lavon unga ⟨את⟩ Zilpani — oʻz choʻrisini — xizmatkor sifatida berdi, Leaga, oʻz qiziga, choʻri sifatida.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavon"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpani"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpani"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "oʻz choʻrisini"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "Leaga"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "oʻz qizi"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "choʻri sifatida"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:16.036837028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va men bu soʻzni ⟨את⟩ eshitganimda, kiyimimni ⟨את⟩ va miltigʻimni yirtib, bosh sochlarimdan va soqolimdan yulib tashladim, va lol boʻlib oʻtirdim.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "va eshitganimda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu soʻzni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "yirtib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyimimni"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kiyimimni"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "va miltigʻimni"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "va yulib tashladim"
+    },
+    {
+      "surface": "משער",
+      "gloss": "...dan sochlar"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bosh"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "va soqolim"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "va oʻtirdim"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "lol boʻlib"
+    }
+  ],
+  "timestamp": "2026-08-26T07:40:57.985254571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va bu ⟨⟩ ular ⟨את⟩ dan olinadigan terumadir: oltin, va kumush, va mis.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Va bu"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimki"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "olasizlar"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ dan ular",
+      "marks": "ular"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "va kumush"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "va mis"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:15.637643927Z",
+  "model": "glm-5.3"
+}

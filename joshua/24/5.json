@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va men yubordim ⟨את⟩ Moshe va ⟨את⟩ Aharonni, va jazoladim ⟨את⟩ Misrni — uning ichida qilganimdek; va soʻng sizlarni chiqarib oldim.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "va yubordim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "va jazoladim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misr"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…dek"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "qilganim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "uning ichida"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "va soʻng"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "chiqarib oldim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:24:55.166924138Z",
+  "model": "glm-5.3"
+}

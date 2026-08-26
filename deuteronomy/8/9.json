@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 8:9",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Er — unda tanglik ichida non yemaysan, unda hech narsaga yetishmaymaysan; er — toshlari temir, togʻlaridan esa mis qazib olursan.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "er"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "unda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—emas"
+    },
+    {
+      "surface": "במסכנת",
+      "gloss": "tanglik ichida"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yemaysan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—emas"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "yetishmaymaysan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hech narsa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "er"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ki"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "toshlari"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "temir"
+    },
+    {
+      "surface": "ומהרריה",
+      "gloss": "va togʻlaridan"
+    },
+    {
+      "surface": "תחצב",
+      "gloss": "qazib olursan"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mis"
+    }
+  ],
+  "timestamp": "2026-08-26T01:51:59.155712387Z",
+  "model": "glm-5.3"
+}

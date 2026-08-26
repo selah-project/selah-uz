@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va Xizqiyo hukmdor erta turdi va ⟨את⟩ shahar sardorlarini yigʻdi va Yahvening uyiga koʻtarildi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "erta turdi"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Xizqiyo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "hukmdor"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "va yigʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sardorlar"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sardorlar"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "va koʻtarildi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    }
+  ],
+  "timestamp": "2026-08-26T08:14:12.605522314Z",
+  "model": "glm-5.3"
+}

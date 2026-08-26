@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Odam oʻgʻli, unga ayt: sen tozalanmagan yersan — gʻazab kunida yomgʻir yogʻilmagan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayt"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "את",
+      "gloss": "sen",
+      "marks": "yer — sen"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "tozalanmagan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "yomgʻir yogʻilmagan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "gʻazab"
+    }
+  ],
+  "timestamp": "2026-08-26T05:20:17.855180658Z",
+  "model": "glm-5.3"
+}

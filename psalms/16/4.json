@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Ularning sogʻinchlari koʻpayadi — boshqa ⟨ilohlarga⟩ oshiqdagani uchon; ularning qonlik qadahlarin toʻkmayman va ularning nomlarini lablarimga olmayman.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "koʻpayadi"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "ularning sogʻinchlari"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "oshirdilar"
+    },
+    {
+      "surface": "בל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "toʻkmayman"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "ularning qadahlari"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "qondan"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "va —"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "olmayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning nomlarini"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ularning nomlari"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lablarim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:40.820508592Z",
+  "model": "glm-5.3"
+}

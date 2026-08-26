@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 14:17",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va Men — mana, Men misrliklarning ⟨את⟩ yuragini mustahkamlaman, va ular ularning orqasidan kiradi, va Men Paro ustida va butun qoʻshini ustida, uning jang aravalari va uning suvoriylari ustida ulugʻlanaman.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Va Men"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mana"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "mustahkamlaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yurak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuragini"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "misrliklarning"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "va ular kiradi"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ularning orqasidan"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "va Men ulugʻlanaman"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Paro ustida"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "qoʻshini ustida"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "uning jang aravalari"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "va uning suvoriylari"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:02.573491491Z",
+  "model": "glm-5.3"
+}

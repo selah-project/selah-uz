@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Dillarida dedilar: «Ularni birga zulm qilaylik» — yer yuzida Elning barcha majlis joylarini yoqib yubordilar.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "dedilar"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "dillarida"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "Ularni zulm qilaylik"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birga"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "yoqib yubordilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "majlis joylarini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer yuzida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:13.912165979Z",
+  "model": "glm-5.3"
+}

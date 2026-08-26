@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 120,
+  "translation": "Voy menga, chunki Meshekda musofir boʻlib yashadim, Qedar chodirlari bilan yashadim.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Voy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "musofir boʻlib yashadim"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Meshekda"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "yashadim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "chodirlari"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Qedar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:14.802555633Z",
+  "model": "glm-5.3"
+}

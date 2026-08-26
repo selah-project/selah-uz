@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Yahve, sizlarning Elohimlaringizga bunday qilmaysizlar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "...may"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "qilasizlar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bunday"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve...ga"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimlaringiz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:55:54.114944519Z",
+  "model": "glm-5.3"
+}

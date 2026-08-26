@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va yettinchi kun — Yahve, Elohiming uchun shabbatdir; hech qanday mehnat qilmaysan: na sen, na oʻgʻling, na qizing, na quling, na choliligʻing ⟨⟩, na hayvoning, va darvozalaringdagi musofiring.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "va kun"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yettinchi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qilmaysan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hech qanday"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mehnat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "na oʻgʻling"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "na qizing"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "na quling"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "na choliligʻing"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "na hayvoning"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "va musofiring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "darvozalaringga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:21.723987826Z",
+  "model": "glm-5.3"
+}

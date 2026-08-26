@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Iyov turdi va ⟨את⟩ ustki kiyimini yirtdi va ⟨את⟩ boshini qirdi va yerga yiqildi va sajda qildi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "va yirtdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ustki kiyimini"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "ustki kiyimini"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "va qirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boshini"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "boshini"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "va yiqildi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "va sajda qildi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:53:24.439602589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Yahve odamning yoʻllaridan mamnun boʻlganda, hatto uning dushmanlarini ham u bilan tinch qiladi.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "...dan mamnun boʻlganda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yoʻllaridan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odamning"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "uning dushmanlarini"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "tinch qiladi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "u bilan ⟨את⟩",
+      "marks": "uning dushmanlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:45:20.480381835Z",
+  "model": "glm-5.3"
+}

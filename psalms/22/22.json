@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Qutqar meni sher ogʻzidan — va buyvollarning shoxlaridan menga javob berding.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "qutqar meni"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ogʻzidan"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "sher"
+    },
+    {
+      "surface": "ו מקרני",
+      "gloss": "va shoxlaridan"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "buyvollar"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "menga javob berding"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:39.531967825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Avraham Elohim oldida ibodat qildi, va Elohim ⟨את⟩ Avimelexni va ⟨את⟩ uning xotinini va uning choʻrilarini shifo berdi, va ular farzand koʻrdilar.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ibodat qildi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "va shifo berdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelexni"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning xotinini"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "uning xotini"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "va uning choʻrilari"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "va ular farzand koʻrdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:53.514233847Z",
+  "model": "glm-5.3"
+}

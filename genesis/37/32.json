@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va ular ⟨את⟩ rang-barang kunini otalariga yuborishdi va olib kelishdi va aytdilar: Buni topdikmu, iltimos, tanigil — sening oʻgʻlingniki bumidir yoʻqmi?",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "yuborishdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rang-barang kunini"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kunini"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "rang-barang"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "olib kelishdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oliga"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "otalariga"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "aytdilar"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "buni"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "topdik"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "tanigil"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kunini"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "sening oʻgʻlingniki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bumidir"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qmi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:43:46.096129229Z",
+  "model": "glm-5.3"
+}

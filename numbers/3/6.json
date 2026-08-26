@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Levi qabilasini yaqinlashtir va uni Aharon kohin oldida tur绝化 turgʻiz, va ular unga xizmat qilsinlar.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "yaqinlashtir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi qabilasini"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "qabilasini"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "va turgʻiz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩uni",
+      "marks": "oldida"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "va xizmat qilsinlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩unga",
+      "marks": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-26T08:22:52.096321697Z",
+  "model": "glm-5.3"
+}

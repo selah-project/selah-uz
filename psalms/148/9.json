@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 148,
+  "translation": "Togʻlar va barcha tepaliklar, mevali daraxtlar va barcha sadrlar",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "tepaliklar"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "daraxtlar"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mevali"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sadrlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:18.374508961Z",
+  "model": "glm-5.3"
+}

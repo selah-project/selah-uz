@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va u xalqqa dedi: „Uch kunga tayyor boʻlinglar; ayolga yaqinlashmanglar.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "היו",
+      "gloss": "boʻlinglar"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "tayyor"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "uch"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "yaqinlashmanglar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:33.330450039Z",
+  "model": "glm-5.3"
+}

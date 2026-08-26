@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Esingiz, ey osmonlar, va quloq sol, ey yer, chunki Yahve gapirdi: oʻgʻillarni voyaga yetkazdim va ulugʻladim, ulardan esa MenGA qarshi isyon qildilar.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "esingiz"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "va quloq sol"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oʻgʻillarni"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "voyaga yetkazdim"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "va ulugʻladim"
+    },
+    {
+      "surface": "והם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "ison qildilar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Menga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:05:31.953559411Z",
+  "model": "glm-5.3"
+}

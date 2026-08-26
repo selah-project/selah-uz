@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Chunki ular senga qarshi yomonlikka qoʻl choʻzdilar, makr oʻyladilar — muvaffaq boʻlolmaydilar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "qoʻl choʻzdilar"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "senga qarshi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlikka"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "oʻyladilar"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "makr"
+    },
+    {
+      "surface": "בל",
+      "gloss": "—"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "muvaffaq boʻlolmaydilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:31.171972897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Qirol koʻp qoʻshin bilan qutqarilmaydi, bahodir koʻp kuch bilan xalos qilinmaydi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "qutqarilmaydi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qoʻshin"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "bahodir"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "xalos qilinmaydi"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kuch"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:48.299218248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Egasiga sotib ol hikmatni, egasiga sotib ol aql-idrokni; unutma va ogʻzimning soʻzlaridan ogʻishma.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "egasiga sotib ol"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmatni"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "egasiga sotib ol"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "aql-idrokni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …ma"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ogʻishma"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "…ning soʻzlaridan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻzimning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:37.017519701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Koʻzlarim doim Yahve tomonda, chunki U tuzoqdan oyoqlarimni chiqaradi.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "chiqaradi"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "tuzoqdan"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "oyoqlarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:30.903750451Z",
+  "model": "glm-5.3"
+}

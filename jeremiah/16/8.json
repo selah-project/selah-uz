@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va ziyofat uyiga ham kirmang — ⟨את⟩ ular bilan oʻtirish uchun, yemoq va ichmoq uchun.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "va … uy"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ziyofat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "–ma"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kirmang"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "oʻtirish uchun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ular bilan"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yemoq"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "va ichmoq"
+    }
+  ],
+  "timestamp": "2026-08-26T04:46:59.767373994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Oʻgʻlim, soʻzlarimni saqla va buyruqlarimni ⟨את⟩ oʻzingda yashir.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻlim"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saqla"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "soʻzlarimni"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "va buyruqlarimni"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "yashir"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "oʻzingda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:41:09.824139798Z",
+  "model": "glm-5.3"
+}

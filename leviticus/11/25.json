@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va ulardan oʻlikdan koʻtarib turgan har kim kiyimlarini yuvsin va oqshomgacha pok boʻlmaydi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "va har"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "koʻtarib turgan"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ulardan oʻlikdan"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "yuvsin"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kiyimlarini"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "va nopok"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "oqshom"
+    }
+  ],
+  "timestamp": "2026-08-26T01:14:11.996273491Z",
+  "model": "glm-5.3"
+}

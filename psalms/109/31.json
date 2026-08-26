@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Chunki u yetimning oʻng tomonida turadi, uning jonini sud qiluvchilardan qutqarish uchun.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "turadi"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "oʻng tomonida"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "yetim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "qutqarish uchun"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "sud qiluvchilardan"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "uning jonini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:25.716242596Z",
+  "model": "glm-5.3"
+}

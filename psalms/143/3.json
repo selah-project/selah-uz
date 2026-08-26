@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 143,
+  "translation": "Chunki dushman nefeshimga taʼqib qildi, hayotimni yerga bosib tashladi, meni qorongʻiliklarda, qadimiy oʻliklar kabi yashatdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "taʼqib qildi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dushman"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshimga"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "bosib tashladi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "hayotimni"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "meni yashatdi"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "qorongʻiliklarda"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "oʻliklar kabi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "qadimiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:23.984184158Z",
+  "model": "glm-5.3"
+}

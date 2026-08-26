@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 4:5",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va uning qalinligi bir qoʻl kengligi edi, va uning labi kosaning labi ishi kabi, nilufar guli — u uch ming bat oʻlchovini sigʻdiradi.",
+  "tokens": [
+    {
+      "surface": "ועביו",
+      "gloss": "va uning qalinligi"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "bir qoʻl kengligi"
+    },
+    {
+      "surface": "ושפתו",
+      "gloss": "va uning labi"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "…ning ishi kabi"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "labi"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kosa"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "guli"
+    },
+    {
+      "surface": "שושנה",
+      "gloss": "nilufar"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "sigʻdiruvchi"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "bat oʻlchovi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uch"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ming"
+    },
+    {
+      "surface": "יכיל",
+      "gloss": "sigʻdiradi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:05:09.936000853Z",
+  "model": "glm-5.3"
+}

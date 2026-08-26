@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Gʻazab egasi bilan ⟨את⟩ doʻst boʻlmagin va gʻazablangan odamning yoniga bormagin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "doʻst boʻlmagin"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "doʻst boʻlmagin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gʻazab egasi"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "egasi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gʻazab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "gʻazablangan odam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "gʻazablangan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bormagin"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "yoniga bormagin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:48:59.087051061Z",
+  "model": "glm-5.3"
+}

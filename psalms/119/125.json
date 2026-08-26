@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Ban — Sening xizmatkoring, menga tushuncha ber, va Sening guvohliklaringni bilaman.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "Sening xizmatkoring"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ban"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "menga tushuncha ber"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "va bilaman"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Sening guvohliklaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:52.919946092Z",
+  "model": "glm-5.3"
+}

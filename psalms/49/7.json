@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Boyliklariga tayanuvchilari va oʻz boyligi koʻpligida maqtanuvchilari ⟨ular⟩ —",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "tayanuvchilari"
+    },
+    {
+      "surface": "על",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "boyliklariga"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "va koʻpligida"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "boyligi"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "maqtanuvchilari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:54.499236823Z",
+  "model": "glm-5.3"
+}

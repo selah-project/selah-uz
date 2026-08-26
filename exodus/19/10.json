@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Yahve Moshega dedi: Xalqning oldiga bor va ularni bugun va ertaga muqaddas qilgʻil, va kiyimlarini yuvsinlar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ning oldiga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "va muqaddas qilgʻil"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "va ertaga"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "va yuvsinlar"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "kiyimlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:34.586308276Z",
+  "model": "glm-5.3"
+}

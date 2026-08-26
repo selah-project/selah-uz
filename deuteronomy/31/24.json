@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va boʻldiki, Moshe ⟨את⟩ bu Tavrot soʻzlarini kitob ustiga — ular tamom boʻlgunicha — yozib bitirganda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldiki"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "…ni bitirganda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "yozmoq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu Tavrot soʻzlari"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarini"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tavrot"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitob"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…gunicha"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "tamom boʻlguncha"
+    }
+  ],
+  "timestamp": "2026-08-26T02:08:55.116771986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va uni Elazar kohonga beringlar, va u ⟨את⟩ uni lagerdan tashqariga olib chiqsin, va ⟨את⟩ uning oldida soʻysin.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "va beringlar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohon"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "va olib chiqsin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqari"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lagerdan"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "va soʻysin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "uning oldida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:37:38.025992628Z",
+  "model": "glm-5.3"
+}

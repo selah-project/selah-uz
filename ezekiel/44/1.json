@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Va u meni ⟨את⟩ tashqi muqaddas uy darvozasining yoʻli bilan — shimolga qaragan tomonga qaytardi; u esa yopiq edi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaytardi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "yoʻl"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻli bilan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "darvoza"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "muqaddas uy"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "tashqi"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "qaragan"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "sharqqa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "u esa"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "yopiq edi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:31:31.693257245Z",
+  "model": "glm-5.3"
+}

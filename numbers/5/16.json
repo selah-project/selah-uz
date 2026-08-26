@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va kohen ⟨את⟩ uni yaqinlashtirsin va uni Yahve yuzida turgʻizsin.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Va yaqinlashtirsin"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "va turgʻizsin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yuzida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:28:15.224262435Z",
+  "model": "glm-5.3"
+}

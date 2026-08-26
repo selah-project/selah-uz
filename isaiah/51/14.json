@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Tez orada bukilgan ozod qilinadi va chuqurga tushib oʻlmaydi va noni ham yetishmaydi ⟨yoʻq⟩.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "tez"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "bukilgan"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "ozod qilinmoqqa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "oʻlmaydi"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "chuqurga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "yetishmaydi"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "noni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:36:20.234147286Z",
+  "model": "glm-5.3"
+}

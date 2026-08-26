@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Nima boʻlgan — oʻsha boʻladi, va nima qilingan — oʻsha qilinadi; va hech qanday yangi narsa yoʻq quyosh ostida.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "va nima"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "qilingan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "qilinadi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hech qanday"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yangi narsa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:06.780081969Z",
+  "model": "glm-5.3"
+}

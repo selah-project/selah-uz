@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "va erlardan yigʻdi ularni — sharqdan va gʻarbdan, shimoldan va dengiz tomondan.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "va erlardan"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "yigʻdi ularni"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "sharqdan"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "va gʻarbdan"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "shimoldan"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "va dengiz tomondan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:29.481885605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "⟨את⟩ oʻz-oʻzidan unib chiqqan hosilingizni oʻrmaysiz va ⟨את⟩ nazirlikning uzumlarini termaysiz — yer uchun shabbat yili ⟨boʻladi⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz-oʻzidan unib chiqqan hosil"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "oʻz-oʻzidan unib chiqqan"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "hosilingiz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "oʻrmaysiz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "nazirlikning uzumlarini"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "uzumlarini"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "nazirlik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "termaysiz"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "yili"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabbat-dam olish"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yer uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:59.562944189Z",
+  "model": "glm-5.3"
+}

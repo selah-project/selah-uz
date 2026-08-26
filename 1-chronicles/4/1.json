@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Yehudaning o‘g‘illari: Perets, Xetsron, Karmi, Xur va Shoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "o‘g‘illari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Xetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "va Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "va Xur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "va Shoval"
+    }
+  ],
+  "timestamp": "2026-08-26T07:54:28.469169475Z",
+  "model": "glm-5.3"
+}

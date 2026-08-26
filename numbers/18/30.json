@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 18:30",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va ularga aytasiz: uning eng moyli qismini undan ⟨את⟩ koʻtarib olganingizda, u levilar uchun gʻalla maydoni hosilidek va tok zavodi hosilidek hisoblanadi.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "va aytasiz"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "koʻtarib olganingizda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning eng moyli qismini"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "uning eng moyli qismi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "ונחשב",
+      "gloss": "va hisoblanadi"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "levilar uchun"
+    },
+    {
+      "surface": "כתבואת",
+      "gloss": "hosilidek"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "gʻalla maydoni"
+    },
+    {
+      "surface": "וכתבואת",
+      "gloss": "va hosilidek"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "tok zavodi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:36:35.974083455Z",
+  "model": "glm-5.3"
+}

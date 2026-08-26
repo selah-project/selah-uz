@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va yettinchi yilda yer shanba — toʻliq dam olish boʻladi, Yahvegacha shanba: dalangizni ekmaysan va uzumzoringizni budamaysan.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "va yilda"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "yettinchi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shanba"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "toʻliq dam olish"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yer uchun"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shanba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegacha"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "dalangizni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ekmaysan"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "va uzumzoringizni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "budamaysan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:42.432245819Z",
+  "model": "glm-5.3"
+}

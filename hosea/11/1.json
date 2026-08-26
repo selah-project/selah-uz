@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Ki Isroil goʻdak edi va Men uni sevdim, va Misrdan oʻgʻlimni chaqirdim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נער",
+      "gloss": "goʻdak"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "va Men uni sevdim"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "va Misrdan"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "chaqirdim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻlimni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:37:01.960855732Z",
+  "model": "glm-5.3"
+}

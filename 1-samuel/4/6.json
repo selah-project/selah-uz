@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Filistlar ⟨את⟩ shovqin tovushini eshitdilar va dedilar: „Ivriylar lagerida bu katta shovqin nima?“ Va Yahve sandigʻi lagerga kelganini bilib oldilar.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "va eshitdilar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shovqin tovushini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tovushini"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "shovqin"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "קול",
+      "gloss": "tovushi"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "shovqin"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "katta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "lagerida"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Ivriylar"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "va bilib oldilar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandigʻi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kelgan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lager"
+    }
+  ],
+  "timestamp": "2026-08-26T08:28:22.326332639Z",
+  "model": "glm-5.3"
+}

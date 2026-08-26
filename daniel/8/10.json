@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va u osmon jangovar otryadigacha katta boʻldi va otryaddan va yulduzlardan baʼzilarini yerga yiqitdi va ularni bosib tashladi.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "va katta boʻldi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "jangovar otryad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "va yiqitdi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "otryad"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "va dan"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "yulduzlar"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "va ularni bosib tashladi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:33:12.234164676Z",
+  "model": "glm-5.3"
+}

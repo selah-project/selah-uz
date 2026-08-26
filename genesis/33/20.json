@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va u yerda mehrob qoʻydi va uni El-Elohe-Yisrael deb atadi.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "Va qoʻydi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mehrob"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va atadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:43.412361087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "va otamni ⟨את⟩, onamni ⟨את⟩, aka-ukalarimni ⟨את⟩ va opa-singillarimni ⟨את⟩ va ularga tegishli boʻlgan hamma narsani ⟨את⟩ tirik saqlang, va jonlarimizni ⟨את⟩ oʻlimdan qutqarib qoling.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "tirik saqlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otam"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "onam"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "onam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "aka-ukalarim"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "aka-ukalarim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "opa-singillarim"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "opa-singillarim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hamma narsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga tegishli"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "va qutqarib qoling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jonlarimiz"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "jonlarimiz"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "oʻlimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:10:59.559793761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Koʻp narsalarni koʻrding, ammo saqlamading; ochiq quloqlar bilan eshityu, ammo eshitmaydi.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "koʻrding"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "koʻp narsalarni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo yoʻq"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "saqlamading"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "ochiq"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "quloqlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo yoʻq"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eshitmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:26:30.075352618Z",
+  "model": "glm-5.3"
+}

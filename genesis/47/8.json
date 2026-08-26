@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 47,
+  "translation": "Va Paroh Yaakovka dedi: hayoting yillarining kunlari qancha?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "qancha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlari"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yillarining"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "hayoting"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:13.187567385Z",
+  "model": "glm-5.3"
+}

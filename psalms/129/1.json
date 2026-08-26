@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 129,
+  "translation": "Marosim qoʻshigʻi. Koʻp marta siquvchi boʻldilar mendan — yoshligimdan beri; endi aybersin, iltimos, Yisroel.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshigʻi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "marosimlarning"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "siquvchi boʻldilar mendan"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "yoshligimdan beri"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "aybersin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:34.960159002Z",
+  "model": "glm-5.3"
+}

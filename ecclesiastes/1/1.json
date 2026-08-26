@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Soʻzlari Koheletning, Dovud oʻgʻlining, shohning Yerushalaimda.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlari"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaimda"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:48.009701510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 121,
+  "translation": "Yordamim — Yahvedan, osmonlarni va yerni Yaratuvchisidan.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Yordamim"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "—dan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Yaratuvchisidan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "va yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:11.469799030Z",
+  "model": "glm-5.3"
+}

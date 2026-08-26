@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Misrning ruhi ichida boʻshaydi va uning maslahatini yutib yuboraman va soʻraydilar butlardan, va sehrgarlardan, va arvohla bilan gaplashuvchilardan, va folbinlardan.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "va boʻshaydi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrning"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ichida"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "va uning maslahatini"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "yutib yuboraman"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "va soʻraydilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "butlardan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va tomon"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "sehrgarlardan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va tomon"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "arvohla bilan gaplashuvchilardan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va tomon"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "folbinlardan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:15:17.719847015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "U «ertagacha» dedi. Va u dedi: «Soʻzingizga koʻra — bilishingiz uchunki, Yahve kabisi yoʻq, bizning Elohimimiz.»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "ertagacha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "soʻzingizga koʻra"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bilishingiz uchun"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "bilib"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Yahve kabisi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "bizning Elohimimiz"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:41.536287800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 124,
+  "translation": "Nafsimiz qush singari qochdi — qushovarlarning panjasidan; panja sindi va biz qutuldik.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "nafsimiz"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "qush singari"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "qochdi"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "— panjasidan"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "qushovarlarning"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "panja"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "sindi"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "va biz"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "qutuldik"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:25.809131935Z",
+  "model": "glm-5.3"
+}

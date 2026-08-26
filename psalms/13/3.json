@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Qachongacha nefeshimga maslahatlar qoʻyaman, kun boʻyi yuragimda qaygʻu? Qachongacha dushmanim mendan baland koʻtariladi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "qachongacha"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "qoʻyaman"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "maslahatlar"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "nefeshimga"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "qaygʻu"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "yuragimda"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "kun boʻyi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qachongacha"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "baland koʻtariladi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dushmanim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mendan (ustimdan)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:31.683866353Z",
+  "model": "glm-5.3"
+}

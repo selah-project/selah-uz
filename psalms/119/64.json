@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Xesedingiz, ey Yahve, yerni toʻldirgan; farmonlaringizni menga oʻrgating.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "xesedingiz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "toʻldirgan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "farmonlaringiz"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "menga oʻrgat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:55.107946558Z",
+  "model": "glm-5.3"
+}

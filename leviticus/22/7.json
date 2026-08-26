@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va quyosh botganda u pok boʻladi va keyin muqaddas narsalardan yeydi, chunki bu — uning noni.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "va kirsa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "va pok boʻladi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "va keyin"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeydi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "muqaddas narsalar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "uning noni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:04.588057011Z",
+  "model": "glm-5.3"
+}

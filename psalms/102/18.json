@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "U yolgʻiz qolganning duosiga yuz burdi va ularning duosini ⟨את⟩ mensimadi.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "yuz burdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "duosiga"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "yolgʻiz qolganning"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "mensimadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning duosini"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ularning duosini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:04.557901225Z",
+  "model": "glm-5.3"
+}

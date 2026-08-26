@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Oʻgʻlingning qizining yoki qizingning qizining yalangʻochligini ochmaysan — ularning yalangʻochligini ⟨emas⟩, chunki ⟨bu⟩ sening yalangʻochligingdir.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "yalangʻochligini"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizining"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oʻgʻlingning"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizining"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "qizingning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨emas⟩"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ochmaysan"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ularning yalangʻochligini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "sening yalangʻochliging"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨bu⟩ ...dir"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:38.410036466Z",
+  "model": "glm-5.3"
+}

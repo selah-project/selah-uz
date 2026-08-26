@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va u Yahve koʻzida yomonlikni qildi, faqat otasi va onasi kabi emas; u otasi yasagan Baal ustunini olib tashladi.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "Va u ... qildi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "רק",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "otasi kabi"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "va onasi kabi"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "va u olib tashladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal ustunini"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ustunini"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yasagan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:47:42.534074850Z",
+  "model": "glm-5.3"
+}

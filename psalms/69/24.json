@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Koʻzlari koʻrmasin — qorongʻi tushsin, va bel lariga doim tebranish.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "qorongʻi tushsin"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "koʻzlari"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "koʻrmagan"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "va bel lari"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "tebranish"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:05.615907548Z",
+  "model": "glm-5.3"
+}

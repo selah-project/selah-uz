@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Nazrlarimni Yahvega toʻlarman — endi, butun xalqining oldida.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "nazrlarimni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "toʻlarman"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:54.364052636Z",
+  "model": "glm-5.3"
+}

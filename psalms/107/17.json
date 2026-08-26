@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Ahmoqlar — oʻz isyonlari yoʻli sababli, va oʻz gunohlari tufayli azoblanadilar.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "ahmoqlar"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "yoʻli sababli"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "oʻz isyonlari"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "va oʻz gunohlari tufayli"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "azoblanadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:41.391030735Z",
+  "model": "glm-5.3"
+}

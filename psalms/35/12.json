@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Menga yomonlikni toʻladilar yaxshilik oʻrniga — nefesimga farzand-yoʻqotish.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Menga ... toʻladilar"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "oʻrniga"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yaxshilik"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "farzand-yoʻqotish"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefesimga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:50.519021489Z",
+  "model": "glm-5.3"
+}

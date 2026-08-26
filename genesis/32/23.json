@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va u oʻsha kechada turdi va oʻzining ikki xotinini va oʻzining ikki choʻrisini va oʻzining oʻn bir bolalarini oldi va ⟨את⟩ Yabboq dovonidan oʻtdi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "va u turdi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "kechada"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻzining ikki xotinini"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "xotinlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻzining ikki choʻrisini"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "choʻrilari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻzining oʻn bir bolalarini"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "bolalari"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "va oʻtdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabboq dovoni"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "dovoni"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabboq"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:44.916765955Z",
+  "model": "glm-5.3"
+}

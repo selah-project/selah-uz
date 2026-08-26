@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Maslahatni eshit va tarbiyani qabul qil, taki oxiratingda dono bo'lasan.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "eshit"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "maslahatni"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "va qabul qil"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tarbiyani"
+    },
+    {
+      "surface": "למען",
+      "gloss": "taki"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "dono bo'lasan"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "oxiratingda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:47:09.049944662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Barakatli ⟨is⟩ Elohim, ki u duomni ham, oʻz xesedini ham mendan ⟨את⟩ chekbarmadi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barakatli ⟨is⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "chekbarmadi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duomni"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "oʻz xesedini ham"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "mendon ⟨את⟩",
+      "marks": "mendon"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:19.430471781Z",
+  "model": "glm-5.3"
+}

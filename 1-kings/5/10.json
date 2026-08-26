@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Shelomoning hikmati Qedem oʻgʻillarining butun hikmatidan va butun Mitsrayim hikmatidan ortiq koʻpaydi.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "koʻpaydi"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmati"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoning"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "hikmatidan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Qedem"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "hikmatidan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:29:19.380494375Z",
+  "model": "glm-5.3"
+}

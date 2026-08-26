@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Chunki U meni kulbada yashiradi — yomonlik kunida meni chodirining maxfiy joyida yashiradi, tosh ustida meni baland koʻtaradi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "U yashiradi meni"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "kulbada"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlikning"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "U yashiradi meni"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "maxfiy joyida"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "chodirining"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "tosh ustida"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "U baland koʻtaradi meni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:31.429825273Z",
+  "model": "glm-5.3"
+}

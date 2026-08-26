@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Yaxshi va toʻgʻri ⟨dir⟩ Yahve; shuning uchun u yoʻlda gunohkorlarni oʻrgatadi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Yaxshi"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "va toʻgʻri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "shuning uchun — ⟨uning uchun⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "oʻrgatadi"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "gunohkorlarni"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:34.407603455Z",
+  "model": "glm-5.3"
+}

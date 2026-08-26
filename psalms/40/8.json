@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "U paytda aytdim: mana, keldim — oʻram-kitobda ⟨bu⟩ menga yozilgan.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "u paytda"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aytdim"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "keldim"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "oʻram-kitobda"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitob"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "yozilgan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:54.328221817Z",
+  "model": "glm-5.3"
+}

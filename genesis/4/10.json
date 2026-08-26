@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va ⟨u⟩ dedi: Nima qilding? Ukangning qonlarining ovozi Menga tuproqdan baqirib turadi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nima"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "qilding"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovozi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "qonlarining"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ukangning"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "baqirib turadi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproq"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:07.314082337Z",
+  "model": "glm-5.3"
+}

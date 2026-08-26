@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "oʻzingni saqla, boʻlmasin sen Yahveni ⟨את⟩ — seni Mitsrayim zamidan, qullar uyidan chiqarganni — unutib qoʻysan.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "oʻzingni saqla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzingni"
+    },
+    {
+      "surface": "פן",
+      "gloss": "boʻlmasin"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutib qoʻysan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kim"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "chiqardi seni"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "zamidan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uyidan"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:49:59.705172566Z",
+  "model": "glm-5.3"
+}

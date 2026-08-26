@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 8:21",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va u yerga sandiqqa joy qoʻydim — unda Yahve bilan otalarimiz oʻrtasida kesilgan ahd bor, u Misr yeridan ⟨את⟩ ularni chiqarganida.",
+  "tokens": [
+    {
+      "surface": "ואשם",
+      "gloss": "va qoʻydim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sandiqqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "unda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kesilgan (qilingan)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "otalarimiz"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "chiqarganida"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni (Misr yeridan)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T03:32:08.567390150Z",
+  "model": "glm-5.3"
+}

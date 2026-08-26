@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Egri qilingan narsani toʻgʻrilab boʻlmaydi, va yetishmovchilikni sanab boʻlmaydi.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "egri qilingan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...emas"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "boʻlmaydi"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "toʻgʻrilash"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "va yetishmovchilikni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...emas"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "boʻlmaydi"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "sanash"
+    }
+  ],
+  "timestamp": "2026-08-26T07:18:54.008627490Z",
+  "model": "glm-5.3"
+}

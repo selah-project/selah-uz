@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 11:7",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va uning ildizlaridan bir novda uning oʻrnida turadi, va qoʻshin keladi, va shimol qirolining qalʼasiga kiradi, va ularga qarshi ish qiladi va ustun keladi.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "turadi"
+    },
+    {
+      "surface": "מנצר",
+      "gloss": "novda"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "uning ildizlaridan"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "uning oʻrnida"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "keladi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "qoʻshin"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kiradi"
+    },
+    {
+      "surface": "במעוז",
+      "gloss": "qalʼasiga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "shimol"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ish qiladi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularga qarshi"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "ustun keladi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:35:28.378594599Z",
+  "model": "glm-5.3"
+}

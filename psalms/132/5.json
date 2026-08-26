@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 132,
+  "translation": "Toki Yahve uchun joy topib, Yoqubning Qudratlisi uchun maskanlar topib olgunimcha.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "toki"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "topib olgunimcha"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "maskanlar"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Quddatlisi uchun"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yoqubning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:36.386243402Z",
+  "model": "glm-5.3"
+}

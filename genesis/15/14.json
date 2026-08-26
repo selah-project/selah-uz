@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va ⟨את⟩ ul xalqni ham, ularga xizmat qiladigan — Men adoq qilaman, va shundan keyin katta boylik bilan chiqadilar.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Va ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ul xalqni"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ul xalq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ularga xizmat qiladigan"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "xizmat qiladilar"
+    },
+    {
+      "surface": "דן",
+      "gloss": "adoq qilaman"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "va keyin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shundan"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "chiqadilar"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "boylik bilan"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "katta"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:23.406749365Z",
+  "model": "glm-5.3"
+}

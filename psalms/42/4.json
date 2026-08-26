@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Koʻz yoshim menga non boʻldi kunduzu kecha, ular menga butun kun: „Qayerda Elohiming?“ — deyishganda.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "koʻz yoshim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "kunduz"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "va kecha"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "deyishganda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "איה",
+      "gloss": "qayerda"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:46.393111672Z",
+  "model": "glm-5.3"
+}

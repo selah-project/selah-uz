@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Kim qildi va bajardi, avlodlarni boshidan chaqirgan? Men — Yahve, Birinchisi, va ⟨את⟩ oxirgilarni bilan — Men oʻshaman.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "va bajardi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chaqirgan"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "avlodlarni"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "boshidan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "Birinchisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oxirgilarni"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "oxirgilarni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "oʻshaman"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:53.896410742Z",
+  "model": "glm-5.3"
+}

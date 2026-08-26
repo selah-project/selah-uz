@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va yana ozgina va yoʻq yomon; va sen uning oʻrniga yaxshilab qaraysan — va u yoʻq.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Va yana"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ozgina"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "va yaxshilab qaraysan"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "uning oʻrni"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "va u yoʻq"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:28.138980865Z",
+  "model": "glm-5.3"
+}

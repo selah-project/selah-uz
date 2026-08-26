@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Va otangizni ⟨את⟩ va uylaringizni ⟨את⟩ olib keling, menga keling, va men sizlarga Mitsrayim erining moʻl-koʻlligini ⟨את⟩ beraman, va ering moʻl-niybatini ⟨את⟩ yeng.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "olib keling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otangizni"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "otangizni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uylaringizni"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "uylaringizni"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "va keling"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "men beraman"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moʻl-koʻlligini"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "moʻl-koʻlligi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "erining"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "va yeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moʻl-niybatini"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "moʻl-niybatini (yogʻi)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ering"
+    }
+  ],
+  "timestamp": "2026-08-26T00:47:57.603609113Z",
+  "model": "glm-5.3"
+}

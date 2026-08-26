@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va Moshe ⟨את⟩ xalqni koʻrdi — chunki u yalang qilingan edi, chunki Aharon uni dushmanlari koʻzida masxara boʻlguncha yalang qilgan edi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalq"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "yalang qilingan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "yalang qilgan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "masxara boʻlguncha"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "qarshiliklarida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:00.767092331Z",
+  "model": "glm-5.3"
+}

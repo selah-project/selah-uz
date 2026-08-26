@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va yuz oʻgirdim va togʻdan tushdim va ⟨את⟩ ⟨the⟩ lavhalarni sandiqqa qoʻydim — oʻshani men yasagan edim — va ular u yerda boʻldilar, Yahve menga buyurganidek.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "yuz oʻgirdim"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "tushdim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "qoʻydimgiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lavhalarni"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "lavhalar"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "sandiqqa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "yasagan edim"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "boʻldilar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-dek"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "menga buyurdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:53:02.326948114Z",
+  "model": "glm-5.3"
+}

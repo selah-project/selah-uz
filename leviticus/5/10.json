@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va ⟨את⟩ ikkinchisini qonun boʻyicha olà qurboni qilib qiladi, va kohun uni uning gunohidan — uni sodir etgan gunohidan — poklaydi, va unga kechiriladi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikkinchisini"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikkinchisini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qiladi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "olà qurboni"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "qonun boʻyicha"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "va poklaydi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohun"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "uning gunohidan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sodir etgan"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "va kechiriladi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:11:25.412610491Z",
+  "model": "glm-5.3"
+}

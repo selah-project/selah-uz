@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Chunki Yahvening sizlarni sevgani va otalaringizga ichgan qasamini saqlagani tufayli, Yahve sizlarni qo'l kuchli bilan chiqardi va sizni qullar uyidan, Paro qo'lidan — Misr shohidan — xalos qildi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "sevgani tufayli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "va saqlagani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qasamini"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "qasamini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ichgan"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "otalaringizga"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "chiqardi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qo'l bilan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kuchli"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "va xalos qildi sizni"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uyidan"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullar"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qo'lidan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrning"
+    }
+  ],
+  "timestamp": "2026-08-26T01:51:21.540082999Z",
+  "model": "glm-5.3"
+}

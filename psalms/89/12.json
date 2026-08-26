@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Osmonlar Senikidir — yer ham Senikidir; olam va uning toʻliqligini Sen asos solgansan.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Senikidir"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Osmonlar"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Senikidir"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "olam"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "va uning toʻliqligini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "asos solgansan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:41.026392804Z",
+  "model": "glm-5.3"
+}

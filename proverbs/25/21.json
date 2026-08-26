@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Agar seni yomon koʻruvchi och qolsa, uni non bilan boq, va agar tashna boʻlsa, uni suv bilan ichir.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "och qolsa"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "seni yomon koʻruvchi"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "uni boq"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "tashna"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "uni ichir"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    }
+  ],
+  "timestamp": "2026-08-26T06:50:10.259985139Z",
+  "model": "glm-5.3"
+}

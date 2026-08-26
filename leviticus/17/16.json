@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Agar yuvmasa va tanasini yuvmasa, u o‘z gunohini ko‘taradi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yo‘q"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "yuvmasa"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "va uning tanasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yo‘q"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "yuvmasa"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "va ko‘taradi"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "o‘z gunohini"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:20.199290545Z",
+  "model": "glm-5.3"
+}

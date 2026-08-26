@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Senga suyanib turdim onadan tugʻilganimdan, onamning bachadonidan Sen ⟨ésan⟩ ajratib chiqqaning; Senga boʻlgan maqtovim ⟨boʻladi⟩ doim.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Senga suyanib"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "turdim"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "onadan tugʻilganimdan"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "bachadonidan"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "onamning"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "ajratib chiqqaning"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "maqtovim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:42.791478813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Menga telbalar yetishmaydimiki, ⟨את⟩ shuni mening oldimda telbalasin deb keltirdingizlar? Shu mening uyimga kirmişi?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "yetishmaydi"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "telbalar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "menga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "miki"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "keltirdingizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shuni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "shuni"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "telbalasin deb"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "mening oldimda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "Shu"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kirmişi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "mening uyim"
+    }
+  ],
+  "timestamp": "2026-08-26T02:55:58.063365061Z",
+  "model": "glm-5.3"
+}

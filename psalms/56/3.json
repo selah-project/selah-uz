@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 56,
+  "translation": "Dushmanlarim butun kun meni yutib yubormoqda, chunki koʻplar — Oliy — menga qarshi urushmoqda.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "yutib yubormoqda"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻplar"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "urushayotganlar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "Oliy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:55.590578953Z",
+  "model": "glm-5.3"
+}

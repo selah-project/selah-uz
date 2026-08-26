@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Har bir sudralib yuruvchi uchuvchi ⟨the⟩ toʻrt oyoqda yuradigan — u sizlar uchun jirkanchli narsa",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "sudralib yuruvchi"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "uchuvchi"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yuradigan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "toʻrt"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "jirkanchli narsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:58.939831240Z",
+  "model": "glm-5.3"
+}

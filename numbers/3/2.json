@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va mana bunlar — Aharon oʻgʻillarining ismlari: toʻngʻich Nadav, va Avihua, va Elazar, va Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Va mana bunlar"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ismlari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "toʻngʻich"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "va Avihua"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "va Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "va Itamar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:26:38.429107793Z",
+  "model": "glm-5.3"
+}

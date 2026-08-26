@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Chunki Yahve ⟨את⟩ Yoqubni qutqazdi va uni undan kuchliroq qoʻldan xalos qildi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "qutqazdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoqubni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yoqubni"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "va xalos qildi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻldan"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuchliroq"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:53:22.140173466Z",
+  "model": "glm-5.3"
+}

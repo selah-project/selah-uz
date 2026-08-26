@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Mordechay unga aytib berdi ⟨את⟩ hamma narsani — unga yetganini — va ⟨את⟩ kumush oydatini, ki Haman podshoh xazinalaridan yahudiylar hisobidan tortib olishni aytgan edi, ularni yo'q qilish uchun.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "va aytib berdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamma narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "unga yetganini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "kumush oydatini"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "oydatini"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytgan"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "tortib olishni"
+    },
+    {
+      "surface": "על",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "xazinalaridan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "yahudiylar hisobidan"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "ularni yo'q qilish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T07:25:39.454813625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Atrofda yovvul qadamlab yuradi, beni-odamlar orasida maqtanarli boʻlgan pastlik — ⟨hissa⟩",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "atrofda"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovvul qadamlab yuradi"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "⟨yuradi⟩"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "maqtanarli boʻlgan"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "pastlik"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "beni-odamlar orasida"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odamlar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:31.517223136Z",
+  "model": "glm-5.3"
+}

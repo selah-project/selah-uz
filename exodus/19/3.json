@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Moshe Elohim huzuriga koʻtarildi, va Yahve uni togʻdan chaqirib dedi: „Sen Yaakov uyiga shunday aytgin, va Isroil oʻgʻillariga yetkazgin:",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "va Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "koʻtarildi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "aytgin"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "va yetkazgin"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:33.248393450Z",
+  "model": "glm-5.3"
+}

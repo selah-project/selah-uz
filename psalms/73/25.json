@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Osmonlarda menga kim bor? Va Sen bilan birga — yerda hech kimga mayl qilmadim.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "osmonlarda"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "Va Sen bilan birga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hech"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "mayl qilmadim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:09.818694511Z",
+  "model": "glm-5.3"
+}

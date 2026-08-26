@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Mana, ichki joylarda haqiqatni xohlaysan, va yashirin joyda hikmatni menga bildirasan.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "haqiqatni"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "xohlaysan"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "ichki joylarda"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "va yashirin joyda"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmatni"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "menga bildirasan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:43.205920705Z",
+  "model": "glm-5.3"
+}

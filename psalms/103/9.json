@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "Abadiy tortishmaydi va gʻazabini abadan saqlamaydi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "tortishadi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abedan"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "saqlaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:28.964246319Z",
+  "model": "glm-5.3"
+}

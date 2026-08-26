@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Aram podshohi Isroil bilan urushardi; u xizmatkorlari bilan maslahatlashdi, deyishicha: „Falonchi-istonchi joyda lagerim ⟨boʻladi⟩.“",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "edi"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "urushardi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isroil bilan"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "maslahatlashdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "xizmatkorlari"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyib"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…da"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "falonchi"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "istonchi"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "lagerim"
+    }
+  ],
+  "timestamp": "2026-08-26T03:48:52.123169356Z",
+  "model": "glm-5.3"
+}

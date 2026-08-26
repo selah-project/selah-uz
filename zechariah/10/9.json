@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va men ularni xalqlar orasiga ekaman, va uzoqlarda ular meni eslab qoladi, va farzandlari bilan ⟨את⟩ birga yashaydi va qaytib keladi.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "va men ularni ekaman"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "xalqlar orasida"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "va uzoqlarda"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "ular meni eslaydi"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "va yashaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "farzandlari bilan"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ularning farzandlari"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "va qaytib keladi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:54:29.187307502Z",
+  "model": "glm-5.3"
+}

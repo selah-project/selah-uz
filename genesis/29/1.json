@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va Yaakov oyoqlarini ko'tardi va sharq o'g'illari yeriga yurdi.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "va ko'tardi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "oyoqlarini"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va yurdi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yeriga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o'g'illari"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "sharq"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:37.251000165Z",
+  "model": "glm-5.3"
+}

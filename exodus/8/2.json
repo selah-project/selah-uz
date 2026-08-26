@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Ahoron ⟨את⟩ qoʻlini Misr suvlari ustiga choʻzdi, va baqalar koʻtarildi va Misr yerini qoplaydi.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "va choʻzdi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahoron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻlini"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "suvlari"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "va koʻtarildi"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "baqalar"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "va qoplaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:38.611251948Z",
+  "model": "glm-5.3"
+}

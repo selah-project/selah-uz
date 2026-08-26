@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Barcha ustozlarimdan koʻra donliroqman, chunki guvohliklaring — mening mulohazam.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Barcha … dan koʻra"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "ustozlarim"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "donliroqman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "guvohliklaring"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "mulohaza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga … tegishli"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:09.393676735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Adolat va hukm — taxtingning o'rni; xesed va haqiqat yuzing oldidan yuradi.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "va hukm"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "o'rni"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "taxtingning"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "va haqiqat"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "oldidan yuradi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzing"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:24.286842822Z",
+  "model": "glm-5.3"
+}

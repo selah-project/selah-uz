@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "aynan u yerda ham qoʻling menga yoʻl koʻrsatadi, va oʻng qoʻling meni ushlab turadi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "שם",
+      "gloss": "aynan u yerda"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻling"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "menga yoʻl koʻrsatadi"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "va meni ushlab turadi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "oʻng qoʻling"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:11.572001263Z",
+  "model": "glm-5.3"
+}

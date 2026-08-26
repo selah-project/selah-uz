@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Buyruqni saqlaydigan yovuzlikni bilmaydi, va vaqtni hamda hukmni bilad donishmandning qalbi.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "saqlaydigan"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "buyruqni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...mas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmaydi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "narsani"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yovuzlik"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va vaqtni"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "hamda hukmni"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilad"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "donishmandning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:35.551112994Z",
+  "model": "glm-5.3"
+}

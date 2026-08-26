@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Dangasaning nefeshi orzu qiladi, ⟨lekin⟩ yoʻq; gʻayratlilarning nefeshi esa semiradi.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "orzu qiladi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshi"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "dangasaning"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "nefeshi esa"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "gʻayratlilarning"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "semiradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:43:38.309277327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Elohimim, ularni aylanuvchi galtaktekkanidek, shamol oldidagi pichandek qilib qoʻy!",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "ularni qilib qoʻy"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "aylanuvchi galtaktekkanidek"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "pichandek"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "shamol"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:34.134498416Z",
+  "model": "glm-5.3"
+}

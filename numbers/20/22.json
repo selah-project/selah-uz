@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 20:22",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va ular Qadeshdan yoʻlga chiqdilar, va Yisroel oʻgʻillari, butun jamoa, Hor togʻiga — oʻsha togʻga — keldilar.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "va yoʻlga chiqdilar"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Qadeshdan"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "va keldilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamoa"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor togʻiga"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "oʻsha togʻ"
+    }
+  ],
+  "timestamp": "2026-08-26T01:37:01.219500554Z",
+  "model": "glm-5.3"
+}

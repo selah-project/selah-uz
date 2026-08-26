@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 84,
+  "translation": "Qalqonimizga qara, Elohim, va Moylanganing yuziga boq.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "qalqonimiz"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "qara"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "va boq"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuziga"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Moylanganing"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:32.042918662Z",
+  "model": "glm-5.3"
+}

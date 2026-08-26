@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va dedik: qilaylik endi bizga oʻzimizga ⟨את⟩ mehrobni qurish uchun — yoʻq, yoqilgan qurbonlik uchun emas va yoʻq, soʻyib qurbonlik uchun emas.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "va dedik"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "qilaylik"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "qurish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehrobni"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mehrobni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "yoqilgan qurbonlik uchun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "soʻyib qurbonlik uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T02:22:07.756466375Z",
+  "model": "glm-5.3"
+}

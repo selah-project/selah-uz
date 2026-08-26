@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Oʻtkan davrlar kunlarini esla, avlod-avlod yillarini anglagin; otangdan soʻra, u senga bayon qilur; qariyalaringdan — ular senga ayturlar.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "esla"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "kunlarini"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "oʻtkan davrlarning"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "anglagin"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "yillarini"
+    },
+    {
+      "surface": "דור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "va avlod"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "soʻra"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otangdan"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "u bayon qilur senga"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "qariyalaringdan"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va ular ayturlar"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:06:18.450349584Z",
+  "model": "glm-5.3"
+}

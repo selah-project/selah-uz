@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Sevdim, chunki Yahve eshitadi ⟨את⟩ ovozimni — iltijolarimni.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Sevdim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eshitadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozimni"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ovozimni"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "iltijolarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:37.562459598Z",
+  "model": "glm-5.3"
+}

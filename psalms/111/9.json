@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 111,
+  "translation": "Fidyo u Yoʻlladi xalqiga, buyurdi abadiy ahdini; muqaddas va dahshatli ⟨⟨u⟩⟩ning nomi.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "Fidyo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "u Yoʻlladi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "xalqiga"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ahdini"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "va dahshatli"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning nomi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:44.671907181Z",
+  "model": "glm-5.3"
+}

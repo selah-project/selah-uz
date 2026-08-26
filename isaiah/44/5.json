@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 44:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Bu aytadi: «Yahve — meniki, men», bu esa Yaakov nomi bilan ataydi, bu qoʻlini Yahve uchun yozadi va Yisroel nomi bilan taxallus oladi.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "aytadi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "va bu"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ataydi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nomi bilan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "va bu"
+    },
+    {
+      "surface": "יכתב",
+      "gloss": "yozadi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "va nomi bilan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "יכנה",
+      "gloss": "taxallus oladi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:27:10.806213379Z",
+  "model": "glm-5.3"
+}

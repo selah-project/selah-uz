@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 108,
+  "translation": "Bizga darddan yordam ber, chunki odam najoti mavoiydir.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ber"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "yordam"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "darddan"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "chunki mavoiydir"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "najoti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:28.270916649Z",
+  "model": "glm-5.3"
+}

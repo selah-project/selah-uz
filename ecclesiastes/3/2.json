@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Tugʻilishga vaqt, va oʻlishga vaqt; ekishga vaqt, va ekilganini yulib tashlashga vaqt.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "tugʻilishga"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va vaqt"
+    },
+    {
+      "surface": "למות",
+      "gloss": "oʻlishga"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "ekishga"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va vaqt"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "yulib tashlashga"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "ekilganini"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:03.438797243Z",
+  "model": "glm-5.3"
+}

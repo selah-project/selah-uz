@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Tuzoqqa tushirsin qarz-undiruvchi ⟨hamma narsani⟩ — nimaiki unga — va oʻlasinlar begonalar uning mehnatini.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "tuzoqqa tushirsin"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "qarz-undiruvchi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hamma narsaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nimaiki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "va oʻlasinlar"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "begonalar"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "uning mehnatini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:12.952166624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ularning qizlarini oʻzlariga xotin qilib oldilar, va oʻz qizlarini ularning oʻgʻillariga berdilar, va ularning xudolariga xizmat qildilar.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Va ... oldilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning qizlarini"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ularning qizlarini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "oʻzlariga"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "xotin qilib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻz qizlarini"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "oʻz qizlarini"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "berdilar"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "ularning oʻgʻillariga"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "va ... xizmat qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning xudolariga"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ularning xudolariga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:25:09.844209758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va u oladi ⟨את⟩ ikki takani, va ⟨את⟩ ularni Yahve huzurida, uchrashuv chodirining eshigida turgʻizadi.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "va u oladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikkita taka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikkita"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "takani"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "va turgʻizadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eshigida"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodirining"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    }
+  ],
+  "timestamp": "2026-08-26T01:18:18.116371200Z",
+  "model": "glm-5.3"
+}

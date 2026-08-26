@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 120,
+  "translation": "Uzoq vaqt yashadi mening jonim — tinchlikni yigʻuvchi bilan birga.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Uzoq vaqt"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨uning⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan birga"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "yigʻuvchi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlikni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:14.802970435Z",
+  "model": "glm-5.3"
+}

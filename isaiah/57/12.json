@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 57,
+  "translation": "Men solihligingni eʼlon qilaman va ⟨את⟩ ishlaringni — va ular senga foyda bermaydi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "eʼlon qilaman"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "solihligingni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ishlaringni"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ishlaringni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "senga foyda bermaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:32:30.795211785Z",
+  "model": "glm-5.3"
+}

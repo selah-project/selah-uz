@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 20:5",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Giv'a egalari menga qarshi ko'tarildilar va tunda menga qarshi ⟨את⟩ uyni qurshab oldilar — ⟨את⟩ meni o'ldirishni mo'yladilar, va ⟨את⟩ kanizagimni kamsitdilar va u o'ldi.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "va ... ko'tarildilar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga qarshi"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "egalar"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Giv'a"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "va qurshab oldilar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga qarshi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyni"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ meni"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "mo'yladilar"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "o'ldirishni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "kanizagimni"
+    },
+    {
+      "surface": "פילגשי",
+      "gloss": "kanizagim"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "kamsitdilar"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "va u o'ldi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:38:28.479967828Z",
+  "model": "glm-5.3"
+}

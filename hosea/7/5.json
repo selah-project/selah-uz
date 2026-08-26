@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Bizning shohimizning kuni — sarkardalar vino qiziganidan xastalandilar; u masxarchilar bilan ⟨את⟩ qoʻlini choʻzdi.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "bizning shohimizning"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "xastalandilar"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "sarkardalar"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "qiziganidan"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "משך",
+      "gloss": "choʻzdi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masxarchilar"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "masxarchilar bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:36:20.245840593Z",
+  "model": "glm-5.3"
+}

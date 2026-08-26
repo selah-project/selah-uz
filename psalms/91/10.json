@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Senga yovliq yetmaydi va zarar chodringa yaqinlashmaydi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yetmaydi"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "yovliq yetmaydi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yovliq"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "va zarar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yaqinlashmaydi"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "yaqinlashmaydi"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "chodringa"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:39.376554214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va u ularni bugʻochdek raqslatadi — Livanon va Siryonni yovvoyi buqalarning bolisidek.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "raqslatadi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dek"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "bugʻoch"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Livanon"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "va Siryonni"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "dek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "bolisi"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "yovvoyi buqalarning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:52.926354982Z",
+  "model": "glm-5.3"
+}

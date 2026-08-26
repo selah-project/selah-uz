@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Baxtlidir shu goy — Yahve uning Elohimi; baxtlidir elki, meros oʻlaroq U Oʻzi tanlagan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "baxtlidir"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "shu goy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "uning Elohimi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "el"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "tanlagan"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "meros oʻlaroq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "U Oʻzi uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:08.478533394Z",
+  "model": "glm-5.3"
+}

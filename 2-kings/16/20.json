@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Achaz otalari bilan yotdi va otalari bilan Dovud shahrida dafn etildi; va oʻgʻli Xizqiya uning oʻrnida podshohlik qildi.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "Va yotdi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Achaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otalari"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "va dafn etildi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otalari"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shahrida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "va podshohlik qildi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Xizqiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "uning oʻrnida"
+    }
+  ],
+  "timestamp": "2026-08-26T03:58:49.901034949Z",
+  "model": "glm-5.3"
+}

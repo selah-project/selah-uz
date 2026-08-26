@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 53:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 53,
+  "translation": "Men qadr-qimmatidan mahrum, odamlar tark etgan, ogʻriqlar odami va kasallikni bilgan; yuzlar undan yashirilgandek ⟨u⟩ mensizlangan va biz uni hisobga olmaganmiz.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "mensizlangan"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "tark etgan"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "odamlar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odami"
+    },
+    {
+      "surface": "מכאבות",
+      "gloss": "ogʻriqlar"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "va bilgan"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "kasallikni"
+    },
+    {
+      "surface": "וכמסתר",
+      "gloss": "va yashirilgandek"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yuzlar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "mensizlangan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "חשבנהו",
+      "gloss": "uni hisobga olganmiz"
+    }
+  ],
+  "timestamp": "2026-08-26T08:37:42.732977059Z",
+  "model": "glm-5.3"
+}

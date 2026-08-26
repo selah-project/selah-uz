@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yahve, Elohimlarini unutdilar, va ularni Sisera qoʻlida sotdi — Xatsor qoʻshinining sardori — va filistliklar qoʻlida va Moab shohi qoʻlida, va ular ularga qarshi jang qildilar.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "unutdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimlarini"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "sotdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻlida"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sardori"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "qoʻshinining"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Xatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "va qoʻlida"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "filistliklar"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "va qoʻlida"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "jang qildilar"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ularga qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:47:24.933069101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Keynanning barcha kunlari oʻn yil va toʻqqiz yuz yil boʻldi, va u ⟨vafot etdi⟩ oʻldi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlari"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Keynanning"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "va toʻqqiz"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "va oʻldi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:59.291763136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va Yaakov Lavan Aramning ⟨את⟩ yuragini oʻgʻirladi — unga qochayotganini xabar bermasdan.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "Va oʻgʻirladi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuragini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuragini"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "bilmasdan"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "xabar berib"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "qochayotgan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:31.716791901Z",
+  "model": "glm-5.3"
+}

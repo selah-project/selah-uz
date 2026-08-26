@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yoav jang qildi Ammon oʻgʻillarining Rabbasida, va u ⟨את⟩ podshohlik shahrini egalladi.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "jang qildi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "Rabbada"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "va egalladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podshohlik shahrini"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "podshohlikning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:09:55.548428763Z",
+  "model": "glm-5.3"
+}

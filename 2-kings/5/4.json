@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "U kirib, xoʻjayiniga xabar berib aytdi: „Isroil yeridan boʻlgan qiz shunday va shunday dedi.“",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "u kirib"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "xabar berdi"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "xoʻjayiniga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aytib"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "va shunday"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "qiz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T03:50:54.219218466Z",
+  "model": "glm-5.3"
+}

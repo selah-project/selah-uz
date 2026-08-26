@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 127,
+  "translation": "Mana, farzandlar — Yahve ⟨merosi⟩; qorin mevasi — mukofot.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "merosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "farzandlar"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mukofot"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mevasi"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "qorin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:33.352667643Z",
+  "model": "glm-5.3"
+}

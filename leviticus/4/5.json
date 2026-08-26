@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va moylangan kohin buqoning qonidan olib, uni ⟨את⟩ uchrashuv chodiriga olib kiradi.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "oladi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "moylangan"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "qonidan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "buqoning"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "olib kiradi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni (qon) — uchrashuv chodiriga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    }
+  ],
+  "timestamp": "2026-08-26T08:57:45.605423527Z",
+  "model": "glm-5.3"
+}

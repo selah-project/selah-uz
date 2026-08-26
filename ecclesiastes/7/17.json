@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Juda koʻp gunohkor boʻlma va ahmoq boʻlma — nima uchun oʻz vaqtingdan burun oʻlasan?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "–ma"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "gunohkor boʻl"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "juda koʻp"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va –ma"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "boʻl"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ahmoq"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "oʻlasan"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "…siz"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "oʻz vaqtingdan burun"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:30.201266442Z",
+  "model": "glm-5.3"
+}

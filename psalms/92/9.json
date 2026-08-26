@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 92,
+  "translation": "Va Sen — bino balandligida abadiy, ey Yahve.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Va Sen"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "balandlik"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:45.228020635Z",
+  "model": "glm-5.3"
+}

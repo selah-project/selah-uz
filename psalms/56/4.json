@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 56,
+  "translation": "Qoʻrqqanim kunida — men Senga suyanaman.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "qoʻrqqanim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "suyanaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:55.590695943Z",
+  "model": "glm-5.3"
+}

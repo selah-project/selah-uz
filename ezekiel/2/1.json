@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va U menga aytdi: Odam oʻgʻli, oyoqlaring ustida tur, va Men sen ⟨את⟩ bilan gaplashaman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tur"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "oyoqlaring"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "va gaplashaman"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "sen bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:08:32.222495168Z",
+  "model": "glm-5.3"
+}

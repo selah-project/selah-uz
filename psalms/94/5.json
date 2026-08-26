@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Sening xalqingni, ey Yahve, ⟨ular⟩ maydalaydi va sening merosingni ⟨ular⟩ ezadi.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "sening xalqingni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "maydalaydi"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "va sening merosingni"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ezadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:29.079290892Z",
+  "model": "glm-5.3"
+}

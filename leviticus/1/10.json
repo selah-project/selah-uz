@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Agar uning qurbonligi mol — yaʼni qoʻylardan yoki echkilardan — olov qurbonligi uchun boʻlsa, nuqsonsiz erkagini keltirsin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–dan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "qoʻy-moldan"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "uning qurbonligi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–dan"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "qoʻylardan"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–dan"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "echkilardan"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "olov qurbonligi uchun"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "nuqsonsiz"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "uni keltirsin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:37.753739425Z",
+  "model": "glm-5.3"
+}

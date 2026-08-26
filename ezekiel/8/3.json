@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 8:3",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va qoʻl shaklini choʻzdi va oldi meni boshimning soch tolasidan, va ruox koʻtardi ⟨את⟩ meni yer bilan osmon oʻrtasida, va olib kirdi ⟨את⟩ meni Yerushalaimga, Elohim koʻrishlarida, shimolga qaragan ichki darvoza ogʻziga — u yerda joylashgan hasad tasvirining oʻrni, hasad qildiruvchi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Va choʻzdi"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "shaklini"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "ויקחני",
+      "gloss": "va oldi meni"
+    },
+    {
+      "surface": "בציצת",
+      "gloss": "soch tolasidan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "boshimning"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "va koʻtardi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruox"
+    },
+    {
+      "surface": "בין",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "va olib kirdi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "Yerushalaimga"
+    },
+    {
+      "surface": "במראות",
+      "gloss": "koʻrishlarida"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ogʻziga"
+    },
+    {
+      "surface": "שער",
+      "gloss": "darvoza"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ichki"
+    },
+    {
+      "surface": "הפונה",
+      "gloss": "qaragan"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "shimolga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "oʻrni"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "tasvirining"
+    },
+    {
+      "surface": "הקנאה",
+      "gloss": "hasad"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "hasad qildiruvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:11:38.838135521Z",
+  "model": "glm-5.3"
+}

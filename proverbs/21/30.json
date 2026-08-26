@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Yahvegа qarshi ⟨hech qanday⟩ hikmat yoʻq, ⟨hech qanday⟩ tushuncha va ⟨hech qanday⟩ maslahat yoʻq.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "tushuncha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "maslahat"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T08:46:07.982639621Z",
+  "model": "glm-5.3"
+}

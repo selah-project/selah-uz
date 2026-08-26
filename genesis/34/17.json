@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va agar bizga quloq solmaysizlar — sunnat boʻlishga, ⟨את⟩ qizimizni olamiz va ketamiz.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Va agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-mas"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "quloq solmaysizlar"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "sunnat boʻlishga"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "olamiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qizimizni"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "qizimizni"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "va ketamiz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:21.308351891Z",
+  "model": "glm-5.3"
+}

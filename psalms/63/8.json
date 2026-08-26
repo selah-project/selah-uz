@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 63,
+  "translation": "Chunki Sen menga yordam boʻlgansan, qanotlaring soyasida kuylayman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "היית",
+      "gloss": "boʻlgansan"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "yordam"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "soyasida"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "qanotlaring"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "kuylayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:24.695304699Z",
+  "model": "glm-5.3"
+}

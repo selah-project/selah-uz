@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Va u urdi ularning yerlaridagi barcha toʻngʻichlarni, ularning barcha kuch-qudratining boshlangʻichini.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "toʻngʻich"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "ularning yerlarida"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "boshlangʻich"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barchasining"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ularning kuch-qudrati"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:19.914680757Z",
+  "model": "glm-5.3"
+}

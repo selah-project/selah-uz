@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "U gʻorga tushdi va qaynonasi buyurgan hamma narsani qildi.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "gʻor"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hamma narsani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "qaynonasi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:14:06.857278072Z",
+  "model": "glm-5.3"
+}

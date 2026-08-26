@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Yahushua butun bu yerni oldi — togʻlar diyori va ⟨את⟩ butun Janubiy dioyni va ⟨את⟩ butun Goshen yerini va ⟨את⟩ Pasttekislikni va ⟨את⟩ Arabani va ⟨את⟩ Isroil togʻini va uning pasttekisligini.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Va … oldi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yahushua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun bu yerni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "togʻlar diyori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun Janubiy dioyni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Janubiy dioyni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun Goshen yerini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerini"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Pasttekislikni"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "Pasttekislikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Arabani"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arabani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Isroil togʻini"
+    },
+    {
+      "surface": "הר",
+      "gloss": "togʻini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "va uning pasttekisligini"
+    }
+  ],
+  "timestamp": "2026-08-26T02:17:04.706333546Z",
+  "model": "glm-5.3"
+}

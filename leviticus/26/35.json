@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Vayronalikning barcha kunlarida dam oladi — ⟨את⟩ shuni, sizning shabbatlaringizda dam olmaganini, sizlar u ustida yashaganingizda.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlari"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "vayronalikning"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "dam oladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "shuni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "dam olmagan"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "sizning shabbatlaringizda"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "sizlar yashaganingizda"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "u ustida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:24:05.107332841Z",
+  "model": "glm-5.3"
+}

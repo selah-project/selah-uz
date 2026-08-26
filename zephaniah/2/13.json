@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 2:13",
+  "book": "zephaniah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va qoʻlini shimolga choʻzadi va Ashshurni yoʻq qiladi, va Ninevani xarobaga, qurgʻoqchilikka, choʻlga oʻxshatib qoʻyadi.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "va choʻzadi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "shimolga"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "va yoʻq qiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashshurni"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "va qoʻyadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ninevani"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineva"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "xarobaga"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "qurgʻoqchilikka"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "choʻlga oʻxshab"
+    }
+  ],
+  "timestamp": "2026-08-26T05:48:36.550572164Z",
+  "model": "glm-5.3"
+}

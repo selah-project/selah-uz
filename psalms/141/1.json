@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 141,
+  "translation": "Mazmur Dovudga. Yahve, Seni chaqirdim, menga shosh, ovozimga quloq sol, Senga nido qilganimda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mazmur"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "Seni chaqirdim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "shosh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "quloq sol"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ovozimga"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "nido qilganimda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Senga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:28.521602903Z",
+  "model": "glm-5.3"
+}

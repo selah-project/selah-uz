@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va ⟨את⟩ ularning yerini oldik va uni meros qilib Ruvinliklarga va Gadliklarga va Menashe qabilasining yarmiga berdik.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "va oldik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning yerini"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ularning yerini"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "va berdik"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "meros qilib"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "Ruvinliklarga"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "va Gadliklarga"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "va ... yarmiga"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "qabilasining"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-08-26T02:04:55.000512991Z",
+  "model": "glm-5.3"
+}

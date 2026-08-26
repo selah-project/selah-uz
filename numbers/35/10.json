@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Isroil o‘g‘illariga gapir va ularga ayt: Sizlar Iordan daryosini ⟨את⟩ kesib o‘tganingizda Kanaan yurtiga;",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "gapir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o‘g‘illari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "va ayt"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ganda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "kesib o‘tgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iordan daryosi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordan daryosi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yurtga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:20.666674095Z",
+  "model": "glm-5.3"
+}

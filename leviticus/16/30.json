@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Chunki shu kunda sizlar uchun kafforat qiladi — sizlarni ⟨את⟩ barcha gunohlaringizdan poklash uchun; Yahve oldida pok boʻlasizlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "kafforat qiladi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizlar uchun"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "poklash uchun"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha … dan"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "gunohlaringizdan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "pok boʻlasizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:00.958902539Z",
+  "model": "glm-5.3"
+}

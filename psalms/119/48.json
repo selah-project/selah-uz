@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Va qoʻllarimni amrlarga koʻtaraman — ularga muhabbat qildim — va Sening farmonlaring ustida mulohaza yuritaman.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "koʻtaraman"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "qoʻllarimni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ga"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "amrlarga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "muhabbat qildim"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "mulohaza yuritaman"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "Sening farmonlaring ustida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:41.932949093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Sening guvohliklaringni abadiy meros qilib oldim, chunki ular — yuragimning quvonchidir ⟨ular⟩.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "meros qilib oldim"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "guvohliklaringni"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "quvonch"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragimning"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:06.890043276Z",
+  "model": "glm-5.3"
+}

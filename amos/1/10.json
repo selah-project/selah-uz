@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Men Sor devoriga oʻt yuboraman, va ⟨u⟩ uning qasrlarini yeydi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Va Men yuboraman"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "devoriga"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Sor"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "va yeydi"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "uning qasrlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T05:39:51.657230770Z",
+  "model": "glm-5.3"
+}

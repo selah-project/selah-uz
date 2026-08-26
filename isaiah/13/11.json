@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 13:11",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Men olamga yomonlik, gunohkorlarga esa jinoyatlarini faro band qilaman; magʻrurlarning takabburini toʻxtataman, zoʻravonlarning kibrini pastlataman.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Va Men ... faro band qilaman"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "olam"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlik"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "esa ... ga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "gunohkorlarga"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "jinoyatlarini"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "toʻxtataman"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "takabburini"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "magʻrurlarning"
+    },
+    {
+      "surface": "וגאות",
+      "gloss": "kibrini"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "zoʻravonlarning"
+    },
+    {
+      "surface": "אשפיל",
+      "gloss": "pastlataman"
+    }
+  ],
+  "timestamp": "2026-08-26T04:11:18.885562210Z",
+  "model": "glm-5.3"
+}

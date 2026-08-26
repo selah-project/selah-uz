@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Oʻn tirsak — ⟨the⟩ taxtaning uzunligi, va tirsak va yarim tirsak — bitta taxtaning kengligi.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Oʻn"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzunligi"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "⟨the⟩ taxtaning"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "va tirsak"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "va yarim"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "kengligi"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "taxtaning"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bitta"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:06.664357495Z",
+  "model": "glm-5.3"
+}

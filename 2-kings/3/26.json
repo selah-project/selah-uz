@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 3:26",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Moab qiroli urushning undan kuchli ekanini koʻrdi, va ⟨את⟩ yetti yuz qilich sugurgan kishini oldi — Edom qiroli tomon yoʻl oʻchib oʻtish uchun, ammo ilojini topa olmadilar.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ni"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuchli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "urush"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "yetti yuz kishi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "sugurgan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "להבקיע",
+      "gloss": "yoʻl oʻchib oʻtish uchun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo… emas"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ilojini topa olmadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:48:11.391277808Z",
+  "model": "glm-5.3"
+}

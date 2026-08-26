@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Sen, odam oʻgʻli, Yisroil baytiga ⟨את⟩ uyni koʻrsat va ⟨את⟩ uyning oʻzi, va ular oʻz gunohlaridan xijolat tortsinlar, va ⟨את⟩ uning oʻlchov-naqshini oʻlchasinlar.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "koʻrsat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uy"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "va xijolat tortsinlar"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "oʻz gunohlaridan"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "va oʻlchasinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻlchov-naqshini"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "oʻlchov-naqshi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:30:50.424840036Z",
+  "model": "glm-5.3"
+}

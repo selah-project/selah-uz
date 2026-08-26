@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Va ularning yerini meros qilib berdi, chunki abadiydir Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Va berdi"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ularning yerini"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "meros qilib"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Uning xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:27.742248486Z",
+  "model": "glm-5.3"
+}

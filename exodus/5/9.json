@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Ogʻir boʻlsin ish odamlar ustida va ular uni qilsinlar va yolgʻon soʻzlarga qaramasinlar.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "ogʻir boʻlsin"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "odamlar"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "va qilsinlar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "uni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "qaramasinlar"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "soʻzlarga"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:21.555257943Z",
+  "model": "glm-5.3"
+}

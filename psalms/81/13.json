@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Va men ularni qalblarining qattiqligiga tashlab yubordim, oʻz maslahatlarida yurar edilar.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "tashlab yubordim"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "qattiqligiga"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "qalblarining"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "yurar edilar"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "oʻz maslahatlarida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:50.692329846Z",
+  "model": "glm-5.3"
+}

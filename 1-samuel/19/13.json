@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Mikal terafimlarni oldi va toʻshakka qoʻydi va ⟨את⟩ echki junlaridan toʻqilgan gʻilamni uning bosh tomoniga qoʻydi va kiyim bilan yopdi.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terafimlarni"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafimlarni"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "toʻshakka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "gʻilamni"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "gʻilamni"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "echki(junidan)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "uning bosh tomoniga"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "va yopdi"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "kiyim bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:52:36.584547215Z",
+  "model": "glm-5.3"
+}

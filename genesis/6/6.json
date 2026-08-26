@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Yahve pushaymon boʻldi, chunki u yerda ⟨את⟩ odamni yaratgan edi, va Uning qalbiga ⟨qarshi⟩ qaygʻu keldi.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Va pushaymon boʻldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaratgan edi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odamni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "va qaygʻuga toʻldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨qarshi⟩\/tomon"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "uning qalbiga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:16.990391345Z",
+  "model": "glm-5.3"
+}

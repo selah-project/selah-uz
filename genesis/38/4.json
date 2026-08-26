@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va yana homila boʻldi va oʻgʻil tugʻdi, va uning nomiga ⟨את⟩ Onan deb chaqirdi.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "homila boʻldi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "oʻgʻil tugʻdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "chaqirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning nomini"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning nomini"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:10.315904178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "deyarroq yerda tugatdilar meni, men esa tark etmadim farmonlaringni.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "deyarroq"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "tugatdilar meni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men esa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "tark etmadim"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "farmonlaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:03.043330758Z",
+  "model": "glm-5.3"
+}

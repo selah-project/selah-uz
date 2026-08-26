@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va sakkizinchi kuni boʻldi — Moshe Aharonni va uning oʻgʻillarini va Yisroel qarilarini chaqirdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "sakkizinchi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chaqirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonni"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "va uning oʻgʻillarini"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "va qarilarini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:58.755023203Z",
+  "model": "glm-5.3"
+}

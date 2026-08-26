@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Har qanday yovul yoʻldan oyoqlarimni tiydim — Sening soʻzingni saqlashim uchun.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yoʻldan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yovul"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "tiydim"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "oyoqlarimni"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "saqlashim"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Sening soʻzingni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:21.667495598Z",
+  "model": "glm-5.3"
+}

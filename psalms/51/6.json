@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Senga, faqat senga qarshi gunoh qildim, va Sening koʻzlaring oldida yomonni qildim — ta ki Sening soʻzingda odil boʻlasan, Sening hukmingda pok chiqasiz.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "faqat senga"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "gunoh qildim"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "va yomonni"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "Sening koʻzlaring oldida"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "qildim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ta ki"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "odil boʻlasan"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "Sening soʻzingda"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "pok chiqasiz"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "Sening hukmingda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:43.205607241Z",
+  "model": "glm-5.3"
+}

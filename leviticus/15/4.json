@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Har qanday toʻshak — oqmadagi kishi uni ustida yotsa — nopok boʻladi, va har qanday buyum — u ustida oʻtirsa — nopok boʻladi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "toʻshak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yotsa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uni ustida"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "oqmadagi kishi"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nopok boʻladi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va har qanday"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "buyum"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oʻtirsa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "u ustida"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nopok boʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:16:43.819019764Z",
+  "model": "glm-5.3"
+}

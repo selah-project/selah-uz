@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 19:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Yeshayahu, Amotsning oʻgʻli, Xizkiyahuга yubordi, degan: Shunday deydi Yahve, Isroilning Elohimi: Sen Sancheribga, Ashur podshohiga qaratib Menga ibodat qilding — Men eshitdim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Va yubordi"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amotsning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Xizkiyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim-i"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ni"
+    },
+    {
+      "surface": "התפללת",
+      "gloss": "ibodat qilding"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga qarshi"
+    },
+    {
+      "surface": "סנחרב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Men eshitdim"
+    }
+  ],
+  "timestamp": "2026-08-26T04:01:38.236555176Z",
+  "model": "glm-5.3"
+}

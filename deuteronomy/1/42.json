@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yahve menga dedi: ularga ayt: chiqmangiz va jang qilmangiz, chunki Men sizning ichingizda yoʻqman — dushmanlaringiz oldida yiqilmangiz deb.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayt"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "chiqmangiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "jang qilmangiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "Men yoʻqman"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "sizning ichingizda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "—ki yoʻq"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "yiqilmangiz"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dushmanlaringiz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:47:32.430957832Z",
+  "model": "glm-5.3"
+}

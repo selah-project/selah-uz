@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 10:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Parohning qullari unga aytdilar: «Bu bizga qachongacha tuzoq boʻlib qoladi? Odamlarni yubor, Yahve ilohlari — ularning Elohimiga xizmat qilsinlar. Misr halok boʻlganini hali bilmaysanmi?»",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "va ular aytdilar"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qullari"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohning"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlib qoladi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tuzoq"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yubor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odamlarni"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "odamlarni"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "va ular xizmat qilsinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ularning Elohimiga"
+    },
+    {
+      "surface": "הטרם",
+      "gloss": "hali ... -mi"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "bilmaysanmi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "halok boʻlgan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:39.730732048Z",
+  "model": "glm-5.3"
+}

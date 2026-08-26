@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Va bandangdan yuzingni yashirma, chunki menga tor; shoshilib menga javob ber.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Va ... yashirma"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "yashirma"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "bandangdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "צר",
+      "gloss": "tor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "shoshilib"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "menga javob ber"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:11.989311500Z",
+  "model": "glm-5.3"
+}

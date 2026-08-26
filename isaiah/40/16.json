@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": " va Livanon yoqishga yetarli emas, va uning hayvonlari butun yoqilgan qurbonlikka yetarli emas.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "va Livanon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "די",
+      "gloss": "yetarli"
+    },
+    {
+      "surface": "בער",
+      "gloss": "yoqishga"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "va uning hayvonlari"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "די",
+      "gloss": "yetarli"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "butun yoqilgan qurbonlikka"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:48.623051241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 137,
+  "translation": "Baxtli ⟨u⟩kim ushlaydi va ⟨את⟩ chaqaloqlaringni qoyaga urib parchalaydi.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtli"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "ushlaydi"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "va urib parchalaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chaqaloqlaringni"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "chaqaloqlaringni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qoyaga"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "qoyaga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:04.743221235Z",
+  "model": "glm-5.3"
+}

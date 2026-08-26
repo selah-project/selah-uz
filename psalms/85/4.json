@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 85,
+  "translation": "Sen yigʻib olding barcha gʻazabingni, sen qaytarding burunninging qaynashidan.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "yigʻib olding"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "gʻazabingni"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "qaytarding"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "qaynashidan"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "burunninging"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:18.943364499Z",
+  "model": "glm-5.3"
+}

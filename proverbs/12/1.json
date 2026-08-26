@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Taʼlimni sevgan bilimni sevadi, lekin tanbehga nafrat qilgan ahmoqdir.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "sevgan"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "taʼlimni"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevadi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilimni"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "lekin nafrat qilgan"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tanbehga"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ahmoqdir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:42:57.721517516Z",
+  "model": "glm-5.3"
+}

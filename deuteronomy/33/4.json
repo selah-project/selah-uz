@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Tora bizga buyruq berdi — Moshe ⟨bizga⟩; meros ⟨u⟩ Yaakov jamoasining.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyruq berdi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "meros"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "jamoasi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T08:25:57.936021871Z",
+  "model": "glm-5.3"
+}

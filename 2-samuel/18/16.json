@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Yoav shofarni chaldi, va xalq Isroil ortidan quvlashdan qaytdi, chunki Yoav ⟨את⟩ xalqni tiygan edi.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "Va chaldi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "shofarni"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va qaytdi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "quvlashdan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "tiygan edi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalq"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    }
+  ],
+  "timestamp": "2026-08-26T03:18:23.178005394Z",
+  "model": "glm-5.3"
+}

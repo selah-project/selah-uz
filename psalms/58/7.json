@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 58,
+  "translation": "Elohim, ogʻizlaridagi tishlarini sindir; Yahve, yosh sherlarning ogʻriq tishlarini buzib tashla.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "sindir"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "tishlarini"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "ogʻizlarida"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "ogʻriq tishlarini"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "yosh sherlarning"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "buzib tashla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:14.920398209Z",
+  "model": "glm-5.3"
+}

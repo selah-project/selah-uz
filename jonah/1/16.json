@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va odamlar buyuk qoʻrquv bilan ⟨את⟩ Yahve⟨dan⟩ qoʻrqdilar, va Yahvega qurbonlik kesib, nadurlar berdilar.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "va qoʻrqdilar"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "odamlar"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qoʻrquv"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "va qurbonlik kesib"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbonlik"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve⟨ga⟩"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "va nadur berib"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "nadurlar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:41.745841236Z",
+  "model": "glm-5.3"
+}

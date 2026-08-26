@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 17:15",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va o‘z-o‘zidan o‘lgan yoki yirtqich hayvon talgan go‘shtni yegan har qanday nefesh — mahalliy yoki muhojir — kiyimlarini yuvsin, suvda yuvsin va kechgacha pok bo‘lmaguncha nopok bo‘lur, so‘ngra pok bo‘lur.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "va har qanday"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yegan"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "o‘z-o‘zidan o‘lgan"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "yoki yirtqich talgan"
+    },
+    {
+      "surface": "באזרח",
+      "gloss": "mahalliy"
+    },
+    {
+      "surface": "ובגר",
+      "gloss": "yoki muhojir"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "va yuvsin"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kiyimlarini"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "va yuvsin"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvda"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "va nopok bo‘lur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kechgacha"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kech"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "va pok bo‘lur"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:20.199170940Z",
+  "model": "glm-5.3"
+}

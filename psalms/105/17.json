@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "U ularning oldin bir odam yubordi — qul boʻlib sotilgan Yusuf.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ularning oldin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir odam"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "qul boʻlib"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "sotilgan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusuf"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:31.509465154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 127,
+  "translation": "Baxtlidir odam, whose quvosini ular bilan toʻldirgan: ular uyalmaydilar, chunki ular ⟨the⟩ dushmanlar bilan ⟨the⟩ darvozada soʻzlashadilar.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtlidir"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimki"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "toʻldirgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quvosini"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "quvosini"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "uyalmaydilar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "soʻzlashadilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dushmanlar bilan"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "dushmanlar"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "darvozada"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:36.351502385Z",
+  "model": "glm-5.3"
+}

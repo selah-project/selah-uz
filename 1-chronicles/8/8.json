@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Shaharayim Moov dalasida farzand koʻrdi — ularni yuborganidan keyin — ⟨את⟩ Xushimni va ⟨את⟩ Baarani, xotinlarini.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "va Shaharayim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "farzand koʻrdi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dalasida"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moov"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ularni yuborgan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ular",
+      "marks": "ular — Xushim va Baara"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Xushim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baarani"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "xotinlari"
+    }
+  ],
+  "timestamp": "2026-08-26T07:56:11.973121057Z",
+  "model": "glm-5.3"
+}

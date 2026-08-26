@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 22:1",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "U paytda Yehoshua rubenliklarni, gadliklarni va Menashshe qabilasining yarmini chaqirdi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "u paytda"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "chaqirdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "rubenliklarni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "va gadliklarni"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "va ... yarmini"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "qabilasining"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    }
+  ],
+  "timestamp": "2026-08-26T02:22:18.441773042Z",
+  "model": "glm-5.3"
+}

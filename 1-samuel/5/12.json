@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va oʻlmagan odamlar oʻsmalar bilan urildilar, va shaharning faryodi osmonga koʻtarildi.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Va odamlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "oʻlmagan"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "(oʻlib)"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "urildilar"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "oʻsmalar bilan"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "va koʻtarildi"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "faryodi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharning"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:43:57.728677750Z",
+  "model": "glm-5.3"
+}

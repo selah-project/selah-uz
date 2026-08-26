@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 15:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Faqat agar Yahve, Elohimingning ovozini chin eshitsan — ⟨את⟩ butun bu buyruqni saqlashga va bajarishga, ki Men bugun senga buyuraman.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Faqat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "chin"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "eshitsan"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovoziga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saqlashga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "bajarishga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun bu buyruqni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "buyruqni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "buyuraman"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:57:13.456806874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va endi ⟨את⟩ uyatsizligini oshiqlarining koʻz oʻngida fosh qilaman, va hech bir odam uni qoʻlimdan qutqarib ololmaydi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "fosh qilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyatsizligini"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "uyatsizligini"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "koʻz oʻngida"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "oshiqlarining"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "hech bir odam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ololmaydi"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "qutqarib"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "qoʻlimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:33:58.714310945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Mening maslahatimga rozi boʻlmadilar, barcha tanbehlarimni mensimadilar.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "...—ni"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "rozi boʻlmadilar"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "maslahatimga"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "mensimadilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "tanbehlarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:39:18.256979919Z",
+  "model": "glm-5.3"
+}

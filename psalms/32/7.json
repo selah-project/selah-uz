@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Sen yashirin joyimsan; Sen meni tundan saqlaysan, qutqarilish ryuku bilan oʻrab olasan. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "yashirin joy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "men uchun"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "tundan"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "Sen meni saqlaysan"
+    },
+    {
+      "surface": "רני",
+      "gloss": "ryuku"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "qutqarilishning"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "oʻrab olasan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:29.498303097Z",
+  "model": "glm-5.3"
+}

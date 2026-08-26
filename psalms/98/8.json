@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 98,
+  "translation": "Daryolar qarsak chalsin qoʻl, birgalikda togʻlar shodlik bilan nola qilsinlar.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "daryolar"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "qarsak chalsin"
+    },
+    {
+      "surface": "כף",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birgalikda"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "shodlik bilan nola qilsinlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:46.132775266Z",
+  "model": "glm-5.3"
+}

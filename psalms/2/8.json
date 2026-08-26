@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Mendan soʻra, Men xalqlarni meros sifatida beraman va mulkinga yerning chekkalarini.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "soʻra"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "Mendan"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "va beraman"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "meros sifatida"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "va mulkingga"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "chekkarini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerning"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:16.382446035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Tashqarida qilich farzandsiz qoldiradi, ichki xonalarda esa dahshat — ham yosh yigit, ham bokira qiz, emizikli bola bilan birga sochi oqargan odam ⟨ham⟩.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqarida"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "farzandsiz qoldiradi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "va ichki xonalarda"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "dahshat"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "yosh yigit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "bokira qiz"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "emizikli bola"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan birga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "sochi oqargan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:07:32.987912957Z",
+  "model": "glm-5.3"
+}

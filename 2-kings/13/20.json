@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Elisha vafot etdi va ⟨uni⟩ dafn etdilar. Va Moab guruhlari yil kirib kelganida mamlakatga kirar edilar.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "va vafot etdi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "va uni dafn etdilar"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "va guruhlari"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kirar edilar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mamlakatga"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kirganida"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    }
+  ],
+  "timestamp": "2026-08-26T03:57:06.020059343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Eshit, ey qiz, va ko'r, va qulogʻingni qadaytir; va unut xalqingni va otang uyini.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "eshit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ey qiz"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "va ko'r"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "va qadaytir"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "qulogʻingni"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "va unut"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqingni"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "va uyini"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otang"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:12.753455797Z",
+  "model": "glm-5.3"
+}

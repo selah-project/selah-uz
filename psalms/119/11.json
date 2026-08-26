@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Qalbimda Sening soʻzingni yashirdim, Senga qarshi gunoh qilmasligim uchun.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "qalbimda"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "yashirdim"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Sening soʻzingni"
+    },
+    {
+      "surface": "למען",
+      "gloss": "…uchi­n uchun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "gunoh qilmasligim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Senga qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:18.875897757Z",
+  "model": "glm-5.3"
+}

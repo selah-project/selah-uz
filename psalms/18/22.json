@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Chunki men Yahve yo'llarini saqladim va Elohimimdan <p> Achmoq<\/p> qilmadim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "saqladim"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yo'llarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va qilmadim"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "Achmoq"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "Elohimimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:41:54.945437915Z",
+  "model": "glm-5.3"
+}

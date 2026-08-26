@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Eshitinglar ⟨את⟩ soʻzni ki gapirdi Yahve sizlarga, ey Yisroel xonadoni.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Eshitinglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻzni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "xonadoni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    }
+  ],
+  "timestamp": "2026-08-26T04:43:20.554079970Z",
+  "model": "glm-5.3"
+}

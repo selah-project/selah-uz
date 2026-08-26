@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Shunda Elohim va odam koʻzlarida xeshmat va yaxshi tushuncha topasan.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "va topasan"
+    },
+    {
+      "surface": "חן",
+      "gloss": "xeshmat (marhamat)"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "va tushuncha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzlarida"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "va odam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:39:24.603323150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va butun xalq Iordanni ⟨את⟩ kesib oʻtdi, va shoh oʻtdi; va shoh Barzillayni oʻpdi va uni barakaladi, va u oʻz joyiga qaytdi.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "va oʻtdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordan"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "va shoh"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oʻtdi"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "va oʻpdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barzillayni"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "va uni barakaladi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va qaytdi"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "oʻz joyiga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:18:42.795939578Z",
+  "model": "glm-5.3"
+}

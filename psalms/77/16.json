@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Qoʻling bilan xalqingni qimlab ozod qilding — Yaakov va Yusuf oʻgʻillarini. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "qimlab ozod qilding"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "qoʻling bilan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqingni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "va Yusuf"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:22.147316562Z",
+  "model": "glm-5.3"
+}

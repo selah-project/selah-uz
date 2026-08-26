@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Elohim Danyelni xesed va rahm-shafqatga ⟨berdi⟩ — sarislar sari oldida.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "va ⟨berdi⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Danyelni"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Danyelni"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "xesedga"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "va rahm-shafqatga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sari"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "sarislar"
+    }
+  ],
+  "timestamp": "2026-08-26T07:27:09.379970856Z",
+  "model": "glm-5.3"
+}

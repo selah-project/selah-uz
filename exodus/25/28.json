@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va tayoqlarni ⟨את⟩ akatsiya yogʻochidan yasaysan, va ularni ⟨אתם⟩ oltin bilan qoplaysan, va ular bilan stol ⟨את⟩ koʻtariladi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "va yasaysan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayoqlarni"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tayoqlarni"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsiya"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "va qoplaysan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "va koʻtariladi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ular bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stol"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stol"
+    }
+  ],
+  "timestamp": "2026-08-26T00:59:40.441602395Z",
+  "model": "glm-5.3"
+}

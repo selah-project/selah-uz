@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "va ⟨את⟩ Tsorʼa, va ⟨את⟩ Ayalon va ⟨את⟩ Xevron — ki ⟩Yehudada⟨ va Binyaminda — mustahkam shaharlar",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Tsorʼa"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorʼa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Xevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Xevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yehudada"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "va Binyaminda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "shaharlar"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "mustahkam"
+    }
+  ],
+  "timestamp": "2026-08-26T08:07:51.805950819Z",
+  "model": "glm-5.3"
+}

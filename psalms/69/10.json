@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Chunki uyingga hasad yeb qoʻydi meni, va Seni haqoratlaganlarning haqoratlari tushdi ustimga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "hasad"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "uyingga"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "yeb qoʻydi meni"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "haqoratlar"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "Seni haqoratlaganlarning"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:07.807509165Z",
+  "model": "glm-5.3"
+}

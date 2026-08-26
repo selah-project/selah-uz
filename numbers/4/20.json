@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va kirmasinlar ko'rish uchun — bir yutilgandek ⟨את⟩ muqaddasni, — va o'lsinlar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va yo'q"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kirmasinlar"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ko'rish uchun"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "bir yutilgandek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muqaddasni"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "va o'lsinlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:26:32.111140461Z",
+  "model": "glm-5.3"
+}

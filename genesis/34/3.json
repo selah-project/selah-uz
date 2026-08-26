@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va uning nefeshi Dinaga — Yaakovning qiziga — yopishdi, va u ⟨את⟩ qizani sevdı va qizaning yuragiga gapirdi.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "yopishdi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "uning nefeshi"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "Dinaga"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovning"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "va u sevdı"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qizani"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "qiza"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuragiga"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "qiza"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:00.157345528Z",
+  "model": "glm-5.3"
+}

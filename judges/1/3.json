@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 1:3",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Yehuda akasi Shimonga aytdi: «Mening nasibamda ⟨את⟩ men bilan birga koʻtaril, va kengaanga qarshi urushaylik; men ham oʻzim sening nasibangda ⟨את⟩ sen bilan boraman». Va Shimon ⟨את⟩ uning bilan ketdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לשמעון",
+      "gloss": "Shimonga"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "akasi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "koʻtaril"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ men bilan",
+      "marks": "men bilan"
+    },
+    {
+      "surface": "בגורלי",
+      "gloss": "nasibamda"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "va urushaylik"
+    },
+    {
+      "surface": "בכנעני",
+      "gloss": "kengaanga qarshi"
+    },
+    {
+      "surface": "ו הלכתי",
+      "gloss": "va boraman"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אני",
+      "gloss": "oʻzim"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sen bilan",
+      "marks": "sen bilan"
+    },
+    {
+      "surface": "בגורלך",
+      "gloss": "nasibangda"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ketdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uning bilan",
+      "marks": "uning bilan"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    }
+  ],
+  "timestamp": "2026-08-26T02:24:29.767914080Z",
+  "model": "glm-5.3"
+}

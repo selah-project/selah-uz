@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va Gad oʻgʻillari qurdilar ⟨את⟩ Dibonni va ⟨את⟩ Atarotni va ⟨את⟩ Aroerni.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "va qurdilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibonni"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibonni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Atarotni"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarotni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Aroerni"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroerni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:44:15.534198589Z",
+  "model": "glm-5.3"
+}

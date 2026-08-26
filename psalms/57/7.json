@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 57,
+  "translation": "Qadamnomaga toʻr qurdilar; nafsim egildi; oldimga chuqur qazdilar — uning oʻrtasiga oʻzlari yiqildilar. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "toʻr"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "qurdilar"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "qadamnoma"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "egildi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsim"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "qazdilar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldimga"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "chuqur"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "yiqildilar"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "uning oʻrtasiga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:53.222501347Z",
+  "model": "glm-5.3"
+}

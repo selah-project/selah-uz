@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 29:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Yahvegа uning ismiga yarasha kavod bering; Yahvegа muqaddas ziynat ichida sajda qiling.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "bering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegа"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning ismi"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "sajda qiling"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegа"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "ziynat ichida"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:02.720628075Z",
+  "model": "glm-5.3"
+}

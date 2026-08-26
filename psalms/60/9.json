@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "Menga tegishli Gilad, menga Menashshe, Efrayim esa boshimning qalʼasi, Yehuda esa qonun chiqaruvchimdir.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "menga tegishli"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "va menga"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "va Efrayim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "qalʼa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "boshimning"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "qonun chiqaruvchim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:54.101065601Z",
+  "model": "glm-5.3"
+}

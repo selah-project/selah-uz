@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Solihlar koʻpayganda xalq xursand boʻladi, va yovuz hukm surganda xalq ⟨oh⟩ tortadi.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "koʻpayganda"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "solihlar"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "xursand boʻladi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "va hukm surganda"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovuz"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "oh tortadi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    }
+  ],
+  "timestamp": "2026-08-26T06:51:27.110132548Z",
+  "model": "glm-5.3"
+}

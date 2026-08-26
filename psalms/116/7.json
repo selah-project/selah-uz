@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Qayt, nefeshim, orovinga, chunki Yahve sanga yaxshilik qildi.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Qayt"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshim"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "orovinga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "yaxshilik qildi"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "sanga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:55.050975515Z",
+  "model": "glm-5.3"
+}

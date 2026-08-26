@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va Yosef tush koʻrdi — ⟨את⟩ tushni — va uni aka-ukalariga aytdi, va ular yana koʻproq ⟨את⟩ uni yomon koʻrishdi.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "tush koʻrdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "tush"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "aka-ukalariga"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "qoʻshdilar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana koʻproq"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "yomon koʻrishdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:37.742046501Z",
+  "model": "glm-5.3"
+}

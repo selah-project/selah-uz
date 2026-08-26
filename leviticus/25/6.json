@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Yerning shabbat-hosili sizlarga ovqat boʻladi — sizga, xizmatkoringizga va kanizagingizga, yollanganingizga va yonida muhojir boʻlib turgan doimiy mehmongaizga.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "va boʻladi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "shabbat-hosili"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ovqat sifatida"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "va xizmatkoringizga"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "va kanizagingizga"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "va yollanganingizga"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "va doimiy mehmongingizga"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "muhojir boʻlib turgan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yonida"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:59.563205289Z",
+  "model": "glm-5.3"
+}

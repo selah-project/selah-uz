@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Sadoqat yoʻlini tanladim, mishpatlaringni ⟨oldinga⟩ qoʻydim.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yoʻlini"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "sadoqat"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "tanladim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "mishpatlaringni"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "qoʻydim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:43.633090634Z",
+  "model": "glm-5.3"
+}

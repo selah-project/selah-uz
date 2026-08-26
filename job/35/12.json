@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "U yerda ular faryod qiladi, lekin ⟨U⟩ javob bermaydi — yovuzlarning kibridan.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "U yerda"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "ular faryod qiladi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin ... emas"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "javob bermaydi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "— dan"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "kibri"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "yovuzlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:07:03.675693182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jonah 1:12",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va u ularga aytdi: meni koʻtarib, dengizga tashlang, va dengiz sizdan tinch boʻlsin, chunki bilaman men, chunki bu buyuk dovul mening sababim bilan sizning ustingizdadir.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "שאוני",
+      "gloss": "koʻtarib"
+    },
+    {
+      "surface": "והטילני",
+      "gloss": "tashlang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengizga"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "tinch boʻlsin"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "sizdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "bilaman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בשלי",
+      "gloss": "mening sababim bilan"
+    },
+    {
+      "surface": "הסער",
+      "gloss": "dovul"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizning ustingizda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:36.813530884Z",
+  "model": "glm-5.3"
+}

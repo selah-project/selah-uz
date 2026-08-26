@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va ⟨את⟩ barcha shu shohlarni va ⟨את⟩ ularning yerlarini Yehoshua bir marta bosib oldi, chunki Yahve, Isroilning Elohi, Isroil uchun jang qildi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha shu shohlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "shohlar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ularning yerlari"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "ularning yerlari"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "bosib oldi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "marta"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "jang qildi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isroil uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T02:16:02.121627827Z",
+  "model": "glm-5.3"
+}

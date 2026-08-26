@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Aharonning o‘g‘illari uchun bo‘limlari: Aharonning o‘g‘illari — Nadav va Avihu, Elazar va Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "va … o‘g‘illari uchun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonning"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "bo‘limlari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o‘g‘illari"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonning"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "va Avihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "va Itamar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:01:36.208455050Z",
+  "model": "glm-5.3"
+}

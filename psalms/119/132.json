@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Yuzingni menga bur va menga marhamat qil, sening ismingni sevganlarga ⟨qilgani kabi⟩.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "yuzingni bur"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "va menga marhamat qil"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "⟨qilgani kabi⟩"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "sevganlarga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sening ismingni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:23.084944282Z",
+  "model": "glm-5.3"
+}

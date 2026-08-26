@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va Moshe qildi — Yahve unga buyurgan ⟨את⟩ hamma narsaga koʻra; shunday qildi u.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hamma narsaga koʻra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "Mosheni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:58.391519095Z",
+  "model": "glm-5.3"
+}

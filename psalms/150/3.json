@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 150,
+  "translation": "Maqtanglar Uni shofar sadosida, maqtanglar Uni nеbel va kinorda!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "maqtanglar Uni"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "sadosida"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "maqtanglar Uni"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nebelda"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "va kinorda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:26.878355294Z",
+  "model": "glm-5.3"
+}

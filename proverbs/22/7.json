@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Boy kambagʻallar ustidan hukm suradi, va qarz olgan qarz bergan odamga qul boʻladi.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Boy"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "kambagʻallar ustidan"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "hukm suradi"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "va qul"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "qarz olgan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "odamga"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "qarz bergan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:47:55.822761470Z",
+  "model": "glm-5.3"
+}

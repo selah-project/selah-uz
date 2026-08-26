@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Isroil ⟨את⟩ barcha shu shaharlarni oldi, va Isroil emoriylarning barcha shaharlarida — Chesvonda va uning barcha qishloqlarida yashadi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha shu shaharlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "shaharlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va yashadi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barchasida"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "shaharlarida"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriylarning"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Chesvonda"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va barchasida"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "uning qishloqlarida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:36:36.153738412Z",
+  "model": "glm-5.3"
+}

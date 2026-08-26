@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Shabbat kunini ⟨את⟩ muhofaza qilish uchun uni muqaddaslashga saqlab qol, sen Elohim Yahve buyurganidek.",
+  "tokens": [
+    {
+      "surface": "שָׁמ֛וֹר",
+      "gloss": "saqlab qol \/ muhofaza qil"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Shabbat kuni"
+    },
+    {
+      "surface": "י֥וֹם",
+      "gloss": "kunini"
+    },
+    {
+      "surface": "הַשַׁבָּ֖ת",
+      "gloss": "Shabbat"
+    },
+    {
+      "surface": "לְקַדְּשׁ֑וֹ",
+      "gloss": "uni muqaddaslashga"
+    },
+    {
+      "surface": "כַּאֲשֶׁ֥ר",
+      "gloss": "...idek"
+    },
+    {
+      "surface": "צִוְּךָ֖",
+      "gloss": "senga buyurgan"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אֱלֹהֶֽיךָ",
+      "gloss": "sen Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T09:23:49.811364040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va koʻtardim ⟨את⟩ koʻzlarimni va qaradim — va mana toʻrt shox.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Va koʻtardim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koʻzlarimni"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarimni"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "va qaradim"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "toʻrt"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "shoxlar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:52:59.994013986Z",
+  "model": "glm-5.3"
+}

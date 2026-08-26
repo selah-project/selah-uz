@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Sevasi — vaqt, va yomon koʻrish — vaqt; urush vaqti, va tinchlik vaqti.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaqti"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "sevasi — vaqt"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va — vaqti"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "yomon koʻrish — vaqt"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqti"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "urush"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va — vaqti"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:14.469868485Z",
+  "model": "glm-5.3"
+}

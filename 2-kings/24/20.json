@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Chunki Yahvening gʻazabi Yerushalaim va Yehuda ustida boʻldi — ⟨את⟩ ularni oʻz yuzidan tashlab yuborguniga qadar; va Tsidkiyahu Babel shohiga qarshi isyon koʻtardi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gʻazab (burun)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "va Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…guniga qadar"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "tashlab yuborgan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "uning yuzi"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "va isyon koʻtardi"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "shoh…ga qarshi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-08-26T04:05:53.652995042Z",
+  "model": "glm-5.3"
+}

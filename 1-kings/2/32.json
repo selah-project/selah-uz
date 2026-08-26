@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 2:32",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve ⟨את⟩ uning qonini uning boshiga qaytaradi — u undan solihroq va yaxshiroq boʻlgan ikki kishiga zarba bergani va ulardan qilich bilan oʻldirgani uchun; va otam Dovud bilmadi — Isroil qoʻshini sarkardasi Ner oʻgʻli ⟨את⟩ Avnerni va Yahudo qoʻshini sarkardasi Yeter oʻgʻli ⟨את⟩ Amasani.",
+  "tokens": [
+    {
+      "surface": "והשיב",
+      "gloss": "qaytaradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning qoni"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "uning qoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "uning boshiga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "פגע",
+      "gloss": "zarba bergani"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kishiga"
+    },
+    {
+      "surface": "צדקים",
+      "gloss": "solihroq"
+    },
+    {
+      "surface": "וטבים",
+      "gloss": "va yaxshiroq"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "ulardan oʻldirdi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qilich bilan"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "va otam"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sarkardasi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "qoʻshini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sarkardasi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "qoʻshini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    }
+  ],
+  "timestamp": "2026-08-26T03:27:54.743380062Z",
+  "model": "glm-5.3"
+}

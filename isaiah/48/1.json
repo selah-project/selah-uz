@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 48:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 48,
+  "translation": "Eshitinglar bu(ni), ey Yaakov bayti, Yisroel nomi bilan chaqirilganlar va Yahuda suvlaridan chiqqanlar, Yahve nomi bilan qasam ichganlar va Isroel Elohimini eslatadilar — haqiqatda emas va adolatda emas.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "eshitinglar"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu(ni)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bayti"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "הנקראים",
+      "gloss": "chaqirilganlar"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nomi bilan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "וממי",
+      "gloss": "va …suvlaridan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "chiqdilar"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "qasam ichganlar"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nomi bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "va Elohim…(ining)"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "יזכירו",
+      "gloss": "eslatadilar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "haqiqatda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "adolatda"
+    }
+  ],
+  "timestamp": "2026-08-26T04:29:40.164459973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va sen uning shoxlarini toʻrt burchagida yasaysan; uning oʻzidan boʻlishadi shoxlari, va sen uni ⟨את⟩ mis bilan qoplaysan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "va sen yasaysan"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "uning shoxlarini"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "toʻrt"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "uning burchaklarida"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "boʻlishadi"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "uning shoxlari"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "va sen qoplaysan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (mis bilan qoplanadigan narsa)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mis"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:06.194956259Z",
+  "model": "glm-5.3"
+}

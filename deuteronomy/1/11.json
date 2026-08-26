@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Yahve, otalaringizning Elohimi sizlarni hozirgichang ming barobar koʻpaytirsin va sizni barakalasin, sizga gapirganidek!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "otalaringizning"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "qoʻshsin"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "hozirgichang"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "barobar"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "va barakalasin"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizni"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…dek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:50.358925335Z",
+  "model": "glm-5.3"
+}

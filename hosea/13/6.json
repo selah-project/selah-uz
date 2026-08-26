@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Oʻtloqlarida boqilganda toʻydingilar, toʻydilar va yuragi koʻtarildi; shuning uchun Meni unutdilar.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "oʻtloqlarida boqilganda"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "toʻydingilar"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "toʻydilar"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "va koʻtarildi"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "yuragi"
+    },
+    {
+      "surface": "על",
+      "gloss": "shuning uchun — ustiga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "Meni unutdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:37:17.706287918Z",
+  "model": "glm-5.3"
+}

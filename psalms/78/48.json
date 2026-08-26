@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va u doʻlga ularning mol-jonini topshirdi va ularning podalarini olov chaqnuvlarga.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "va topshirdi"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "doʻlga"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "ularning mol-joni"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "ularning podalari"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "olov chaqnuvlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:41.877422818Z",
+  "model": "glm-5.3"
+}

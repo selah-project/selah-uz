@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 64,
+  "translation": "Solih kishi Yahve ichra xursand boʻladi va Unga panoh topadi, va toʻgʻri yuraklilarning hammasi maqtanadi.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "xursand boʻladi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih kishi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve ichra"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "va panoh topadi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "va maqtanadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "toʻgʻri yuraklilarning"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurak"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:23.494235914Z",
+  "model": "glm-5.3"
+}

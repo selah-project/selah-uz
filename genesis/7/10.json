@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va yetti kun oʻtgach, toʻfon suvlari yer ustida boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va ... boʻldi"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "yetti ... oʻtgach"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "va ... suvlari"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "toʻfon"
+    },
+    {
+      "surface": "היו",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:59.632182167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Koʻz evaziga koʻz, tish evaziga tish, qoʻl evaziga qoʻl, oyoq evaziga oyoq.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "koʻz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "evaziga"
+    },
+    {
+      "surface": "עין",
+      "gloss": "koʻz"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tish"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "evaziga"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tish"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "evaziga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "oyoq"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "evaziga"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "oyoq"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:49.758429114Z",
+  "model": "glm-5.3"
+}

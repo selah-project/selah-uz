@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Va boʻldi, ular Misrdan olib kelgan ⟨את⟩ donni yeb tugatgandilar, otalari ularga aytdi: qayting, bizga ozgina oziq sotib oling.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "...ganda"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "tugatgandilar"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yeb"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "don"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "don"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olib kelgan"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "olib kelgan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "otalari"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "qayting"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "sotib oling"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ozgina"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oziq"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:38.668974066Z",
+  "model": "glm-5.3"
+}

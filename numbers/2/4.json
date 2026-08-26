@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va uning askarligi va ularning sanogʻi — yetmish toʻrt ming va olti yuz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "va uning askarligi"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "va ularning sanogʻi"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "toʻrt"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "va yetmish"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "va olti"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:25:12.997663678Z",
+  "model": "glm-5.3"
+}

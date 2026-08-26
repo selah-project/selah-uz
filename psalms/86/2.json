@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 86:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Nafsimni saqla, chunki men sodiqman; sening xizmatkoringni qutqar — sen, Elohimim, senga ishonib turgan ⟨xizmatkor⟩.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "saqla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nafsimni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "sodiq"
+    },
+    {
+      "surface": "אני",
+      "gloss": "man"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "qutqar"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xizmatkoringni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "הבוטח",
+      "gloss": "ishonib turgan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:38.142041263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va dedilar: chunki ⟨ular⟩ tark etdilar ⟨את⟩ Yahve ularning Elohimining ahdini, va sajda qildilar boshqa elohlarga, va ularga xizmat qildilar.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "על",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "tark etdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve ularning Elohimining ahdini"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahdini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ularning Elohimining"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "va sajda qildilar"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "elohlarga"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "va ularga xizmat qildilar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:49:09.112660113Z",
+  "model": "glm-5.3"
+}

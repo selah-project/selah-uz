@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Moshe keldi va xalqning oqsoqollarini chaqirdi va ularga Yahvening uni buyragan barcha shu soʻzlarini oldiga qoʻydi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "chaqirdi"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "oqsoqollarini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ularning oldiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha shu soʻzlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niki"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "uni buyragan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:44.285782501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Qurbonligingiz kunida yeyilsin va ertasi kunida; qolgan esa uchinchi kunga qadar — olovda kuydirilsin.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "qurbonligingiz"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyilsin"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "va ertasi kunida"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "qolgan esa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "qadar"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "uchinchi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovda"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "kuydirilsin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:42.557489176Z",
+  "model": "glm-5.3"
+}

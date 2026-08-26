@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 80,
+  "translation": "Uning oldini tozaladingiz, u ildizlarini chuqur tashladi va yerni toʻldirdi.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "tozaladingiz"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "uning oldini"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "u ildiz otirdi"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "ildizlarini"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "va toʻldirdi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:38.911505155Z",
+  "model": "glm-5.3"
+}

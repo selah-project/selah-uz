@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "va Obed ⟨את⟩ Yishayni dunyoga keltirdi, va Yishay ⟨את⟩ Dovudni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "va Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishayni"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayni"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "va Yishay"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dovudni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovudni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:13:44.008348437Z",
+  "model": "glm-5.3"
+}

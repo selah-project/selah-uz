@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Yoʻl belgilaysan — qilich kelishi uchun, ⟨את⟩ Rabba tomon — Ammon farzandlarining, va ⟨את⟩ Yahudo tomon — Yerushalaimda, mustahkam shaharga.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "belgilaysan"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kelishi uchun"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabba"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "farzandlarining"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahudo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaimda"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "mustahkam"
+    }
+  ],
+  "timestamp": "2026-08-26T05:18:48.581996921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 97,
+  "translation": "Togʻlar mum kabi erdi Yahve huzuridan, butun yer Adonayining huzuridan.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Togʻlar"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "mum kabi"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "erdi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "huzuridan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "huzuridan"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonayining"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:00.437487262Z",
+  "model": "glm-5.3"
+}

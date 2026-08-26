@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "U chegaramizga tinchlik qo'ydi, senni bug'doyning moyi bilan to'ydiradi.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "qo'ydi"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "chegaramizga"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "moyi"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "bug'doyning"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "senni to'ydiradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:46.666892309Z",
+  "model": "glm-5.3"
+}

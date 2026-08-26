@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 57,
+  "translation": "Chunki osmonlargacha buyukdir Sening xeseding, va bulutlargacha Sening sadoqating.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "buyukdir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "osmonlargacha"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Sening xeseding"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va bulutlargacha"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "bulutlar"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "Sening sadoqating"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:42.909663621Z",
+  "model": "glm-5.3"
+}

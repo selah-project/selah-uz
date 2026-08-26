@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 19:12",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Shunday qilaman bu joyga — Yahve neʼmi — va uning istiqomatchilariga, va bu shaharni ⟨את⟩ Tofetga aylantirishga.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "qilaman"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "joyga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "neʼmi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וליושביו",
+      "gloss": "va istiqomatchilariga"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "va aylantirishga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu shaharni"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "Tofetga oʻxshatib"
+    }
+  ],
+  "timestamp": "2026-08-26T04:48:43.378153947Z",
+  "model": "glm-5.3"
+}

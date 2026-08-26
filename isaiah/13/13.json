@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 13:13",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Shuning uchun osmonlarni larzaga keltiraman va yer oʻz joyidan qaltiraydi — Sebotot Yahvening gʻazabi bilan va uning gʻazabi qaynagan kunida.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "ארגיז",
+      "gloss": "larzaga keltiraman"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "va qaltiraydi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "oʻz joyidan"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "gʻazabi bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebotot"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "va kunda"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "qaynagan"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "uning gʻazabi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:11:44.117936433Z",
+  "model": "glm-5.3"
+}

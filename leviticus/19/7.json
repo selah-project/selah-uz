@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Agar uchinchi kunda haqiqiy yeyilsa — bu yiringli narsa, qabul qilinmaydi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "haqiqiy yeyilsa"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeyilsa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "uchinchi"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "yiringli narsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "qabul qilinadi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:42.557636755Z",
+  "model": "glm-5.3"
+}

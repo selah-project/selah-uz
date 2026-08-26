@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Va solihlar xursand boʻlar, Elohim yuzida quvonnar, va shodlik bilan sevinur ⟨ular⟩.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "va solihlar"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "xursand boʻlar"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "quvonnar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yuzida"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "va sevinur"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "shodlik bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:19.544058243Z",
+  "model": "glm-5.3"
+}

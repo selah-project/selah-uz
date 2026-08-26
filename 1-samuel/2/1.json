@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 2:1",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Xanna ibodat qildi va aytdi: Yahve ichida yuragim quvonchdan sakradi, Yahve ichida shoxim koʻtarildi, dushmanlarim ustida ogʻzim kengaydi, chunki Senning najotingda quvondim.",
+  "tokens": [
+    {
+      "surface": "ותתפלל",
+      "gloss": "ibodat qildi"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Xanna"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "עלץ",
+      "gloss": "quvonchdan sakradi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve ichida"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "koʻtarildi"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "shoxim"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve ichida"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "kengaydi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻzim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "quvondim"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "Senning najotingda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:41:09.987069198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Chunki isyonlarimni men bilaman, va gunohim doimo yonimda turadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "isyonlarimni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "bilaman"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "va gunohim"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "yonimda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doimo"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:43.205298136Z",
+  "model": "glm-5.3"
+}

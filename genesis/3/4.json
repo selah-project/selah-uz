@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ilon ayolga dedi: Oʻlmagan holda oʻlmaysizlar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u dedi"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ilon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlib"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "oʻlmaysizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:17.898482037Z",
+  "model": "glm-5.3"
+}

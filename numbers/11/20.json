@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 11:20",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "oy kunlari — sizning buringizdan chiqquncha, va sizga yomon boʻlguncha; chunki ichingizda turgan ⟨את⟩ Yahveni rad etdingizlar va Uning oldida „Nega bu — biz Misrdan chiqdik?“ deb yigʻlagansizlar.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "—guncha"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "oy"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlari"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—guncha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqqan"
+    },
+    {
+      "surface": "מאפכם",
+      "gloss": "sizning buringizdan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻladi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "לזרא",
+      "gloss": "yomon (jirkanchli)"
+    },
+    {
+      "surface": "יען",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "rad etdingizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "ichingizda"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "va yigʻlagansizlar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Uning oldida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Nega"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "יצאנו",
+      "gloss": "chiqdik"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:33:43.147366162Z",
+  "model": "glm-5.3"
+}

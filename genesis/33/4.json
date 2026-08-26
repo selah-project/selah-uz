@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va Esav uni kutib yugurdi va uni quchoqladi va uning bo'yniga yiqildi va uni o'pdi — va yig'ladilar.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "yugurdi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "uni kutib"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "va uni quchoqladi"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "va yiqildi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "uning bo'yniga"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "va uni o'pdi"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "va yig'ladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:42.397925211Z",
+  "model": "glm-5.3"
+}

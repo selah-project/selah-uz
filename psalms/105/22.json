@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Sarlarini oʻz xohishiga koʻra bogʻlash uchun, va qariylarini dono qilmoq uchun.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "bogʻlash uchun"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "sarlarini"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "oʻz xohishiga koʻra"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "va qariylarini"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "dono qilmoq uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:00.905961685Z",
+  "model": "glm-5.3"
+}

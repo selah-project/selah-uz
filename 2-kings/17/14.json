@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va eshitmadilar, va qattiqlashtirdilar ⟨את⟩ boʻyinlarini — otalarining boʻyni kabi, ki ishonmadilar Yahvega, Elohimlariga.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... -ma"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshitmadilar"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "va qattiqlashtirdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boʻyinlarini"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "boʻyinlarini"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "boʻyni kabi"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "otalarining"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ishonmadilar"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:00:37.602861309Z",
+  "model": "glm-5.3"
+}

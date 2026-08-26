@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va bir ayol, kim har qanday hayvonga yaqin kelsa — uni juftlash uchun — ⟨את⟩ ⟨the⟩ ayolni oʻldirgan boʻlasan va ⟨את⟩ hayvonni; oʻlimdan oʻldirilsinlar; qonlari oʻz ustlarida.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Va bir ayol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kim"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "yaqin kelsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayvonga"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "uni juftlash uchun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ uni",
+      "marks": "ayolni (olmosh bilan)"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "va oʻldirgan boʻlasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayolni"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayolni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hayvonni"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "hayvonni"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlimdan"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "oʻldirilsinlar"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "qonlari"
+    },
+    {
+      "surface": "בם",
+      "gloss": "oʻz ustlarida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:52.590323971Z",
+  "model": "glm-5.3"
+}

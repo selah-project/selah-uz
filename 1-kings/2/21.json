@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va u aytdi: ⟨את⟩ Avishag shunamlik Adoniyaga, akangga, xotin qilib berilsin.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Va u aytdi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "berilsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "shunamlik"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "Adoniyaga"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "akangga"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "xotin qilib"
+    }
+  ],
+  "timestamp": "2026-08-26T03:25:13.627737734Z",
+  "model": "glm-5.3"
+}

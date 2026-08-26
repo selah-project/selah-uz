@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Yahve, Elohim Tsevaot, Senга oʻxshagan kim bor — qodir Yah? Va Sening sadoqating atrofingni oʻraydi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "Senга oʻxshagan"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "qodir"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "va Sening sadoqating"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "atrofingni oʻraydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:41.025876153Z",
+  "model": "glm-5.3"
+}

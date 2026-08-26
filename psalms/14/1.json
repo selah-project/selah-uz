@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Dirijentga, Dovudga. Ahmoq dedi oʻz yuragida: „Elohim yoʻq“. Buzdilar, yomon ishlar qildilar — yaxshilik qiluvchi yoʻq.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijentga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ahmoq"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "oʻz yuragida"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "buzdilar"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "yomon qildilar"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ishlar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshilik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:43.307640755Z",
+  "model": "glm-5.3"
+}

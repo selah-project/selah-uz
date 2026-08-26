@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Yovlarning uyi vayron boʻladi, toʻgʻrilarning chodiri esa gullaydi.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "uyi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlarning"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "vayron boʻladi"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "va ... chodiri"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "toʻgʻrilarning"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "gullaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:44:20.318719225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Nimani laʻnlayin? El laʻnlamagan. Va nimani qargʻayin? Yahve qargʻamagan.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nimani"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "laʻnlayin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "laʻnlamagan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "va nimani"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "qargʻayin"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "qargʻamagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:40:14.064500647Z",
+  "model": "glm-5.3"
+}

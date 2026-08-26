@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va qassoblar boshligʻi oldi ⟨את⟩ Serayahuni, bosh kohenni, va ⟨את⟩ Tsefanyahuni, ikkinchi kohenni, va ⟨את⟩ eshik qoʻriqchilaridan uchtasini.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Va oldi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "boshligʻi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "qassoblar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serayahuni"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serayahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "bosh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Tsefanyahuni"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanyahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uchtasini"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uch"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "qoʻriqchilari"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "eshik"
+    }
+  ],
+  "timestamp": "2026-08-26T04:06:56.674129444Z",
+  "model": "glm-5.3"
+}

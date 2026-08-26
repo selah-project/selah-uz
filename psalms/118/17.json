@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 118,
+  "translation": "Oʻlmayman, balki yashayman va Yahning ishlarini hikoya qilaman.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "oʻlmayman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "balki"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "yashayman"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "va hikoya qilaman"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ishlarini"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:35.141866523Z",
+  "model": "glm-5.3"
+}

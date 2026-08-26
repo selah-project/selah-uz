@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va ⟨u⟩ Yossefning chodirini rad etdi va Efrayim qabilasini tanlamadi.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "va rad etdi"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "chodirini"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yossef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "va qabilasini"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "tanlamadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:00.652339643Z",
+  "model": "glm-5.3"
+}

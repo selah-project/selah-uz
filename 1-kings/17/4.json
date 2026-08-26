@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va boʻladiki, vodiydan ichasan, va ⟨את⟩ qargʻalarni buyurganman seni oziqlantirishga u yerda.»",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "va boʻladiki"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "vodiydan"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ichasan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qargʻalarni"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "qargʻalarni"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "buyurganman"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "seni oziqlantirishga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T03:39:15.790090872Z",
+  "model": "glm-5.3"
+}

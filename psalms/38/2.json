@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Yahve, gʻazabingda meni qoralama, va qahringda meni jazolama.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ma"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "gʻazabingda"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "meni qorala"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "va qahringda"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "meni jazola"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:31.996963016Z",
+  "model": "glm-5.3"
+}

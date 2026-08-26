@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Pelishtiyaliklar Shaul va uning oʻgʻillarining ortidan yopishib oldilar, va Pelishtiyaliklar ⟨את⟩ Yonatanni va ⟨את⟩ Avinadabni va ⟨את⟩ Malki-Shuani — Shaulning oʻgʻillarini — urib oʻldirdilar.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "yopishib oldilar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyaliklar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "va ortidan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uning oʻgʻillari"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "va urib oʻldirdilar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtiyaliklar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Avinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-08-26T07:57:09.457621519Z",
+  "model": "glm-5.3"
+}

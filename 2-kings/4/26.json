@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Endi, iltimos, uning qarshisiga yugur va unga aytgil: Salomatmisan? ering salomatmi? bola salomatmi? Va u aytdi: Salomat.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "endi"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "yugur"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "uning qarshisiga"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "va aytgil"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "salomatmisan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "salomatmi"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "eringa"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "salomatmi"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "bolaga"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Salomat"
+    }
+  ],
+  "timestamp": "2026-08-26T03:50:21.454704430Z",
+  "model": "glm-5.3"
+}

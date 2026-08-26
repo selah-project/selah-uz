@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Tomchi sifatida yogʻilsin yomgʻirdek taʼlimotim, shudgor boʻlsin soʻzim shuddek, mayin yomgʻirdek yangi oʻtlar ustiga va seldek oʻt ustiga.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "Tomchi sifatida yogʻilsin"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "yomgʻirdek"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "taʼlimotim"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "shudgor boʻlsin"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "shuddek"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "soʻzim"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "mayin yomgʻirdek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "yangi oʻtlar"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "va seldek"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "oʻt"
+    }
+  ],
+  "timestamp": "2026-08-26T02:06:45.055615069Z",
+  "model": "glm-5.3"
+}

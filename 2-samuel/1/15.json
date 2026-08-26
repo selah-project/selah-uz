@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Dovud yoshlardan birini chaqirib aytdi: yaqinlash, unga qoʻl ur. U esa uni urdi va u oʻldi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "chaqirib"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "biriga"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "yoshlardan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "גש",
+      "gloss": "yaqinlash"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "qoʻl ur"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "uni urdi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "oʻldi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:03:48.517740725Z",
+  "model": "glm-5.3"
+}

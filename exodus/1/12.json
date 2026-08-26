@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Ammo ularni qiynagancha, shuncha koʻpaydi va shuncha yoyildi; va Isroil oʻgʻillari yuzidan xavfsiradilar.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Ammo ... gancha"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "qiynagancha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuncha"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "koʻpaydi"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "va shuncha"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "yoyildi"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "xavfsiradilar"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:10.823266242Z",
+  "model": "glm-5.3"
+}

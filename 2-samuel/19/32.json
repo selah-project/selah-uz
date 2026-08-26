@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Barzillay giladiyalik esa R og limdan tushdi va shohni ⟨את⟩ Irdon daryosidan oʻtkazdi — uni Irdon boʻyida ⟨את⟩ kuzatib qoʻyish uchun.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "va Barzillay"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "giladiyalik"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "R og limdan"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "va oʻtkazdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shohni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shohni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Irdon daryosidan"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "uni kuzatib qoʻyish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Irdon boʻyida"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Irdon boʻyida"
+    }
+  ],
+  "timestamp": "2026-08-26T03:17:43.095830048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 7:13",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Xamirturushli non nonlarini keltirsin qurboni sifatida, minnatdorchilik shalom-qurbonlari ustiga.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "nonlarini"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "xamirturushli"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "keltirsin"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "qurboni sifatida"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurbonligi"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "minnatdorchilik"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "shalom-qurbonlari"
+    }
+  ],
+  "timestamp": "2026-08-26T01:11:10.111785179Z",
+  "model": "glm-5.3"
+}

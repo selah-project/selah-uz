@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Va bilsinlar ki bu — ⟨qoʻling⟩ Sening, Sen — Yahve, Sen qilding ⟨uni⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Va bilsinlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻling"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "qilding"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:33.910262316Z",
+  "model": "glm-5.3"
+}

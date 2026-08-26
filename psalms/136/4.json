@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Yolgʻiz ⟨Oʻzi⟩ ulugʻ moʻjizalarni qilgan Zotga ⟨shukur aytingiz⟩, chunki abadga ⟨duradur⟩ Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "qilgan Zotga"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "moʻjizalarni"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ulugʻ"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yolgʻiz ⟨Oʻzi⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadga"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:23.295026945Z",
+  "model": "glm-5.3"
+}

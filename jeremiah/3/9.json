@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va boʻldi — uning zinosisning ovozidan ⟨u⟩ ⟨את⟩ yerni iflosladi va ⟨את⟩ tosh bilan va ⟨את⟩ daraxt bilan zino qildi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "ovozidan"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "uning zinosisning"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "iflosladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "zino qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tosh"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "tosh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "daraxt"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daraxt"
+    }
+  ],
+  "timestamp": "2026-08-26T04:36:49.915621427Z",
+  "model": "glm-5.3"
+}

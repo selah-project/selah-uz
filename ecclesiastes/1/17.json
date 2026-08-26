@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 1:17",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va yuragimga donolikni bilishni, hatto ahmoqlik va sarosimani bilishni berdim — bilgan edimkim, hatto bu ham ruхning ezilishidir.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Va berdim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragimga"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilishni"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "donolikni"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "va bilishni"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "ahmoqlik"
+    },
+    {
+      "surface": "ושכלות",
+      "gloss": "va sarosima"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilgan edim"
+    },
+    {
+      "surface": "שגם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ham"
+    },
+    {
+      "surface": "רעיון",
+      "gloss": "ezilish"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruх"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:12.516423282Z",
+  "model": "glm-5.3"
+}

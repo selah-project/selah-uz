@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Boʻlsin yuragim butun SASning farmoyishlaringda, soʻki xijolat chetmasin.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "butun"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "farmoyishlaringda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "soʻki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "chetmasin"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "xijolat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:50.681513201Z",
+  "model": "glm-5.3"
+}

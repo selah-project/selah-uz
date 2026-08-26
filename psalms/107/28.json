@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Ular tangliklarida Yahvega qichqirdilar va U ularni siqiqchiliklaridan chiqaradi.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "qichqirdilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "tangliklarida"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularning"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "siqiqchiliklaridan"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "chiqaradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:05.822300690Z",
+  "model": "glm-5.3"
+}

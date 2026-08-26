@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 108,
+  "translation": "Koʻtarilgin, ey Elohim, osmonlar ustiga, va butun yer ustiga sening ulugʻliging!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "koʻtarilgin"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va …ustiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "sening ulugʻliging"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:13.082041780Z",
+  "model": "glm-5.3"
+}

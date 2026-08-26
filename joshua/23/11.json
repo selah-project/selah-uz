@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va oʻz nefeshlaringizga nisbatan juda ehtiyot boʻlinglar — Yahve, sizning Elohimingizni ⟨את⟩ sevizh uchun.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "va ehtiyot boʻlinglar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "oʻz nefeshlaringizga"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "sevizh uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizning Elohimingiz"
+    }
+  ],
+  "timestamp": "2026-08-26T02:23:20.798823738Z",
+  "model": "glm-5.3"
+}

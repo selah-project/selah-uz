@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Surtilganim, gʻovimim farzandi — nimaiki Yahve Tsevaotdan, Isroil Elohimidan ⟨את⟩ eshitdim, sizga yetkazdim.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "Surtilganim"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "farzandi"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "gʻovimimning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nimaiki"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eshitdim"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Tsevaot, Isroil Elohimidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "yetkazdim"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:13:56.843066131Z",
+  "model": "glm-5.3"
+}

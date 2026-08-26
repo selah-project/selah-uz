@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Quyosh chiqadi — ular yigʻilib ketadi va oʻz uyalarida yotib olishadi.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "chiqadi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Quyosh"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "ular yigʻilib ketadi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ichra"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "oʻz uyalarida"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "yotib olishadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:50.513861696Z",
+  "model": "glm-5.3"
+}

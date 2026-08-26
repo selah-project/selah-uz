@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va sandiqning ichiga guvohlikni ⟨את⟩ qoʻyasanki, Men senga beradigan guvohlikni.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "qoʻyasanki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ichiga"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandiqning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guvohlikni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "guvohlikni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "beradigan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:02.557869642Z",
+  "model": "glm-5.3"
+}

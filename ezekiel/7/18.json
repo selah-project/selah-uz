@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 7:18",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va harom kamarlar bogʻlaydilar, va dahshat ⟨את⟩ ularni yopadi, va barcha yuzlarda uyalish, va barcha boshlarida kallok.",
+  "tokens": [
+    {
+      "surface": "וחגרו",
+      "gloss": "va bogʻlaydilar"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "harom"
+    },
+    {
+      "surface": "וכסתה",
+      "gloss": "va yopadi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni (dahshat)"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "dahshat"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ...da"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yuzlar"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "uyalish"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va barcha ...da"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ularning boshlari"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "kallok"
+    }
+  ],
+  "timestamp": "2026-08-26T05:11:39.235124672Z",
+  "model": "glm-5.3"
+}

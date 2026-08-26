@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 6:9",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va qurollanganlar kohonlarning oldida yurdi — shofarlar chalindi — va orqa qoʻshin ⟨את⟩ sandiqning ortidan yurdi, yurib va shofarlarni chalib.",
+  "tokens": [
+    {
+      "surface": "והחלוץ",
+      "gloss": "Va qurollanganlar"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yurdi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohonlarning"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "chalindi"
+    },
+    {
+      "surface": "השופרות",
+      "gloss": "shofarlar"
+    },
+    {
+      "surface": "והמאסף",
+      "gloss": "va orqa qoʻshin"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yurdi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "⟨את⟩ sandiqning"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "yurib"
+    },
+    {
+      "surface": "ותקוע",
+      "gloss": "va chalib"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "shofarlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:11:22.578049510Z",
+  "model": "glm-5.3"
+}

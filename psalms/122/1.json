@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 122,
+  "translation": "Zilol qoʻshiqlaridan, Dovudga. Menga: „Yahvening uyiga boramiz“ deganlarida xursand boʻldim.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "zilol qoʻshiqlari"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "xursand boʻldim"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "deganlarida"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "boramiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:10.195126293Z",
+  "model": "glm-5.3"
+}

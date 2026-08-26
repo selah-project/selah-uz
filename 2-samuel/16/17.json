@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Avshalom Xushayga dedi: mana bu sening xeseding ⟨את⟩ doisting bilan — nima uchun doisting bilan ⟨את⟩ yurmadingiz?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Xushay"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sening xeseding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doisting"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "doisting"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "yurmadingiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "doisting"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "doisting"
+    }
+  ],
+  "timestamp": "2026-08-26T03:13:13.011837165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yahvening gʻazabi ularga alangalandi, va ⟨u⟩ ketdi.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "alangalandi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gʻazab"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va ketdi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:32:07.052925016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 88,
+  "translation": "Meni eng pastki chuqurda, qorongʻiliklarda, chuqurliklarda qoʻyding.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "qoʻyding meni"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "chuqurda"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "eng pastki"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "qorongʻiliklarda"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "chuqurliklarda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:56.536258471Z",
+  "model": "glm-5.3"
+}

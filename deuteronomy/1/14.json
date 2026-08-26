@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va siz menga javob berdingiz va aytdingiz: sen qilmoq uchun aytgan soʻz yaxshidir.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "va siz javob berdingiz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "va aytdingiz"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "sen aytgan"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "qilmoq uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:48:19.999852257Z",
+  "model": "glm-5.3"
+}

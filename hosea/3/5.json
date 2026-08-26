@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Keyin Isroil oʻgʻillari qaytib kelib, Yahve — oʻz Elohimlarini va ⟨את⟩ Doud — oʻz podshohlarini izlaydilar, va Yahve huzuriga va Uning yaxshiligiga larzaga tushib keladilar — oxirgi kunlarda.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Keyin"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "qaytib kelib"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "va izlaydilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve — oʻz Elohimlarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "oʻz Elohimlarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Doud — oʻz podshohlarini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Doud"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "oʻz podshohlarini"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "va larzaga tushib keladilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... huzuriga"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "Uning yaxshiligiga"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "oxirida"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kunlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T05:34:11.698509959Z",
+  "model": "glm-5.3"
+}

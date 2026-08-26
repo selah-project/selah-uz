@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Chunki men miskin va muhtojman, va yuragim ichimda yaralangan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "עני",
+      "gloss": "miskin"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "va muhtoj"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "va yuragim"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "yaralangan"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ichimda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:41.749681206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Har vaqtda kiyimlaring oq boʻlsin, va boshingdan moy kam boʻlmasin.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "har"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqtda"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "kiyimlaring"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "oq"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "va moy"
+    },
+    {
+      "surface": "על",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "boshing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-masin"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "kam boʻl-"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:15.692771455Z",
+  "model": "glm-5.3"
+}

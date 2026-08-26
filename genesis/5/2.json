@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Erkak va ayol qilib yaratdi ularni, ularga baraka berdi va ularning nomini — Adam — deb chaqirdi, yaratilgan kunlarida.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Erkak"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "va ayol"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "yaratdi ularni"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "va baraka berdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning nomini"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ularning nomini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "yaratilganlarining"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:37.291608803Z",
+  "model": "glm-5.3"
+}

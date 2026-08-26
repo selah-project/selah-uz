@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Ishlarimni kattalashtirdim: oʻzimga uylar qurdim, oʻzimga tokzorlar ekdim.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "kattalashtirdim"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ishlarimni"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "qurdim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oʻzimga"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "uylar"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ekdim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oʻzimga"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "tokzorlar"
+    }
+  ],
+  "timestamp": "2026-08-26T07:18:54.113804288Z",
+  "model": "glm-5.3"
+}

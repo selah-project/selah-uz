@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va oʻsha boylik yomon mushkulda halok boʻldi, va u oʻgʻil tugʻdi, va uning qoʻlida hech narsa yoʻq.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "va halok boʻldi"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "oʻsha boylik"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "mushkulda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "va tugʻdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "uning qoʻlida"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "hech narsa"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:58.398029626Z",
+  "model": "glm-5.3"
+}

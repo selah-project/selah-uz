@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Va eshitmadilar va quloqlarini ⟨את⟩ yomonliklaridan qaytishga yoki boshqa elohlarga tutatqu yoqmaslikka egmadilar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va eshitmadilar"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshitmadi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … —madilar"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "egmadilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quloqlaringizni"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "quloqlarini"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "qaytishga"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "yomonliklaridan"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "yoqmaslikka"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "tutatqu yoqmak"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "elohlarga"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    }
+  ],
+  "timestamp": "2026-08-26T05:02:33.811301750Z",
+  "model": "glm-5.3"
+}

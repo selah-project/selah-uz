@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Chuqurlik chuqurlikka — Sening sharsharalaring ovozi bilan — nido qiladi; Sening barcha toʻlqinlaring va gʻaroyib dengiz toʻlqinlaring ustimdan oʻtdi.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Chuqurlik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "chuqurlik"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "nido qiladi"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ovozi bilan"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "Sening sharsharalaring"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "Sening toʻlqinlaring"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "va ... dengiz toʻlqinlaring"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimdan"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "oʻtdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:52.312239246Z",
+  "model": "glm-5.3"
+}

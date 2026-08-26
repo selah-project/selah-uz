@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 95,
+  "translation": "Chunki buyuk El ⟨⟨dir⟩> Yahve, va barcha elohlardan ustun buyuk shoh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "va shoh"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohlardan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:33.611761890Z",
+  "model": "glm-5.3"
+}

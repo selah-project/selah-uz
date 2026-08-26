@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Keling, eshiting, va hikoya qilaman, ey Elohimdan qoʻrqadiganlarning hammasi — u nima qilgani haqida nefashim uchun.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Keling"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshiting"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "va hikoya qilaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "qoʻrqadiganlarning"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgani"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefashim uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:05.118836832Z",
+  "model": "glm-5.3"
+}

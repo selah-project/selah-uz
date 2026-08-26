@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va u ⟨את⟩ uy uchun tozalash amali uchun ikki qush va sedar yogʻochi va qizil boʻyovchi tol va zufa oladi.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "oladi"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "tozalash amali uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uy"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikkita"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "qush"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "va yogʻoch"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedar"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "va qizil boʻyovchi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "qurt (tol)"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "va zufa"
+    }
+  ],
+  "timestamp": "2026-08-26T01:15:42.072133263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 16:3",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "va Isroil podshohlari yoʻlida yurdi, hatto oʻgʻlini ⟨את⟩ olovdan oʻtkazdi — millatlarning yiqindi odatlari boʻyicha, ulardan Yahve Isroil oʻgʻillarining yuzidan ⟨את⟩ haydagan edi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yurdi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlida"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "podshohlari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻgʻlini"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻgʻlini"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "oʻtkazdi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovdan"
+    },
+    {
+      "surface": "כתעבות",
+      "gloss": "yiqindi odatlari boʻyicha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "millatlarning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "haydagan edi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ulardan (millatlar)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T03:58:43.637339727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 76,
+  "translation": "Xorga, torli cholgʻular bilan, Asafga — mazmunli sheʼr, qoʻshiq.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xorga"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "torli cholgʻular bilan"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmunli sheʼr"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafga"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:46.223207051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va jamoatni yigʻishda ⟨את⟩ jamoatni — chalingiz, ammo signal-sado chiqarmaysiz.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "va yigʻishda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jamoatni"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "jamoatni"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "chalingiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo ... emas"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "signal-sado chiqarmaysiz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:30:12.135393382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Elohimga minnatdorchilik qurbonligi qur, Elyonga bergan nazrlaringni toʻla bajar.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "qurbon qil"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimga"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "minnatdorchilik"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "va toʻla bajar"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Elyonga"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "nazrlaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:14.216821894Z",
+  "model": "glm-5.3"
+}

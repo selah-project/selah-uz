@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 36:16",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Xizqiyoʼga quloq solmanglar, chunki Ashur shohi shunday dedi: Men ⟨את⟩ bilan baraka qiling va menga chiqinglar, va yenglar, har biri oʻz uzumzoridan, va har biri oʻz anjiridan, va ichinglar, har biri oʻz chuquridan ⟨the⟩ suvni.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "qil"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "quloq solmanglar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Xizqiyoʼ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qiling"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bilan men",
+      "marks": "baraka (men bilan tuziladigan sulh)"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "baraka"
+    },
+    {
+      "surface": "וצאו",
+      "gloss": "va chiqinglar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "va yenglar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har kishi"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "oʻz uzumzoridan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "va har kishi"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "oʻz anjiridan"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "va ichinglar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har kishi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "suvni"
+    },
+    {
+      "surface": "בורו",
+      "gloss": "oʻz chuquridan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:35:56.639470630Z",
+  "model": "glm-5.3"
+}

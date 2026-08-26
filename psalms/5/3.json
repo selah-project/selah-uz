@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Faryodim ovoziga quloq solgin, ey shohim va Elohimim, chunki Senga ibodat qilaman.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "quloq solgin"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ovoziga"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "faryodim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "shohim"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "va Elohimim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "ibodat qilaman"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:46.328301898Z",
+  "model": "glm-5.3"
+}

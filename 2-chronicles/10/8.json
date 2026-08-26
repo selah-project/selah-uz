@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 10:8",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va u ⟨את⟩ oqsoqollar maslahatini tark etdi, ulki uni maslahat bergan edilar, va ⟨את⟩ yoshlar bilan maslahatlashdi — ulki ⟨את⟩ bilan uning oʻsganlar, uning oldida turganlar.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "va tark etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oqsoqollar maslahati"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "maslahati"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "oqsoqollarning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ulki"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "uni maslahat bergan"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "va maslahatlashdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoshlar"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "yoshlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ulki"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "oʻsganlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bilan uning"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "turganlar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "uning oldida"
+    }
+  ],
+  "timestamp": "2026-08-26T08:51:27.101295342Z",
+  "model": "glm-5.3"
+}

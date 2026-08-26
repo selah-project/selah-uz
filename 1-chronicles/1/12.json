@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "va ⟨את⟩ Patrussiyliklarni va ⟨את⟩ Kasluxiyliklarni — ulardan Filistlar chiqdi — va ⟨את⟩ Kaftorliklarni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Patrussiyliklarni"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrussiyliklar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kasluxiyliklarni"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluxiyliklar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "chiqdi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kaftorliklarni"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorliklar"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:33.965939883Z",
+  "model": "glm-5.3"
+}

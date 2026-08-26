@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Yorugʻlikni chodir kabi yopinib olgan, osmonlarni parda kabi yoyib turgan.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "yopinib olgan"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yorugʻlikni"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "chodir kabi"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "yoyib turgan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "parda kabi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:42.596492069Z",
+  "model": "glm-5.3"
+}

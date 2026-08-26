@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 10:7",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va boʻladiki, bu belgilar senga kelganda, qoʻling narsa topsa, oʻzing uchun qil — chunki Elohim sen bilan ⟨bor⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻladiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ganda"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "kelganda"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "belgilar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzing uchun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "topsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻling"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sen bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:45:30.020835837Z",
+  "model": "glm-5.3"
+}

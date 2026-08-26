@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va kohen koʻrsin ⟨את⟩ zararni, va yopib qoʻysin ⟨את⟩ zararni yetti kun.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Va koʻrsin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarar"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zararni"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "va yopib qoʻysin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zarar"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "zararni"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:16:13.015119016Z",
+  "model": "glm-5.3"
+}

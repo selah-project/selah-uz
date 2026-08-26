@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va unga aytdi: mening ⟨את⟩ bilan uyga kel, va non yegin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kel"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "mening ⟨את⟩ bilan"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "uyga"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "va yegin"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    }
+  ],
+  "timestamp": "2026-08-26T03:36:16.676521549Z",
+  "model": "glm-5.3"
+}

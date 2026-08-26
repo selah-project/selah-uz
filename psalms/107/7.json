@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Va U ularni toʻgʻri yoʻlda yuritdi — yashash shahriga borishlari uchun.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "va U ularni yuritdi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "toʻgʻri"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "borishlari uchun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "yashash (maskan)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:36.965041107Z",
+  "model": "glm-5.3"
+}

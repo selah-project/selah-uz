@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Oʻliklar Yahni maqtamaydilar, va sukutga tushuvchilarning hammasi ⟨ham⟩ ⟨yoʻq⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "oʻliklar"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "maqtamaydilar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "tushuvchilari"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "sukut"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:19.316477466Z",
+  "model": "glm-5.3"
+}

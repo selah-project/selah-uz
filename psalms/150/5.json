@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 150,
+  "translation": "Uni sadobaranglar bilan madh etinglar, Uni shodaxonali sadobaranglar bilan madh etinglar.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Uni madh etinglar"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "sadobaranglar bilan"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "jiringʻlovchi"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Uni madh etinglar"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "sadobaranglar bilan"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "shodaxonali"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:02.374640437Z",
+  "model": "glm-5.3"
+}

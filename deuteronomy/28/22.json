@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Yahve seni sil bilan, va isitma bilan, va yalligʻlanish bilan, va qattiq olov-issiqlik bilan, va qurgʻoqchilik bilan, va qurituv bilan, va mogʻor bilan uradi; va ular seni taʼqib qiladi, halok boʻlguningcha.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "uradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "sil bilan"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "va isitma bilan"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "va yalligʻlanish bilan"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "va qattiq olov-issiqlik bilan"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "va qurgʻoqchilik bilan"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "va qurituv bilan"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "va mogʻor bilan"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "va ular seni taʼqib qiladi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "–guncha"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "halok boʻlguningcha"
+    }
+  ],
+  "timestamp": "2026-08-26T02:03:29.421124834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Yoʻq, Yahve kabi muqaddas, chunki Sendan boshqa yoʻq, va Qoya kabi yoʻq — Elohimimiz kabi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "Yahve kabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "Sendan boshqa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Qoya"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "Elohimimiz kabi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:41:09.987285433Z",
+  "model": "glm-5.3"
+}

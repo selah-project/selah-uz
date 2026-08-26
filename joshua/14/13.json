@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va Yehoshua uni barakaladi, va Xevronni Kalav ben Yefunehga meros qilib berdi.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "va uni barakaladi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xevronni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Xevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalavga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefuneh"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "meros qilib"
+    }
+  ],
+  "timestamp": "2026-08-26T02:16:15.705866651Z",
+  "model": "glm-5.3"
+}

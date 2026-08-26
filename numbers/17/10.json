@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Ko'tarilinglar bu jamoat ichidan, va men ⟨אתם⟩ bir zumda yutib yuboraman. Va ⟨ular⟩ yuzlarining ustiga yiqildilar.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Ko'tarilinglar"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ichidan"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamoat"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "yutib yuboraman"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ularni (jamoatni)"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "bir zumda"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "yiqildilar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "yuzlarining"
+    }
+  ],
+  "timestamp": "2026-08-26T01:36:36.534814161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 32:8",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Lekin odamdagi ruax — va Shadday nafasi ularga aql beradi.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "lekin"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruax"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨u⟩"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "odamdagi"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "va ... nafasi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "תבינם",
+      "gloss": "ularga aql beradi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:05:39.542523878Z",
+  "model": "glm-5.3"
+}

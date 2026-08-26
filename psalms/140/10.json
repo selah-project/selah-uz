@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 140,
+  "translation": "Atrofimni oʻraganlarning boshligʻini — lablarilarining mehnati oʻzlarini qoplasin.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "bosh(ligʻi)"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "atrofimni oʻraganlarning"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mehnati"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "lablarilarining"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "oʻzlarini qoplasin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:07.321076724Z",
+  "model": "glm-5.3"
+}

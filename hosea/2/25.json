@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va men uni oʻzimga yerda ekaman, va men Lo-Ruhamani ⟨את⟩ rahm qilaman, va Lo-Ammiga „Sen mening xalqimsan“ deyman, va u „Mening Elohimim“ deydi.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "va men uni ekaman"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oʻzimga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "va men rahm qilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Ruhamani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamani"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "va men deyman"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammiga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mening xalqim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "va u"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "mening Elohimim"
+    }
+  ],
+  "timestamp": "2026-08-26T05:33:10.242555747Z",
+  "model": "glm-5.3"
+}

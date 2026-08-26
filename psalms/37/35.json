@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Koʻrdim yomonni shafqatsiz, va yoyilib — mahalliy yashil bargli ⟨daraxt⟩dek.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yomonni"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "shafqatsiz"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "va yoyilib"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "mahalliy ⟨daraxt⟩dek"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yashil bargli"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:05.318406315Z",
+  "model": "glm-5.3"
+}

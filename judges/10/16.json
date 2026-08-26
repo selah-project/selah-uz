@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Ular begona elohlarni oʻz orasidan olib tashladilar va Yahvega xizmat qildilar — va Isroilning mehnatidan nefeshi siqildi.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "va olib tashladilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "begona elohlarni"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohlarini"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "begona"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "oʻz orasidan"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "va xizmat qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "va siqildi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefeshi"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "mehnatidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    }
+  ],
+  "timestamp": "2026-08-26T02:29:43.720021351Z",
+  "model": "glm-5.3"
+}

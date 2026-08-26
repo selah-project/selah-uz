@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Yahve, uning kuchi- muborak boʻlsin, va uning qoʻllarining amalini mamnun qilgin; unga qarshi koʻtarilganlarining belini sindirgin va uni yomon koʻruvchilari yana turmasin.",
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "muborak boʻlsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "uning kuchi"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "va amalini"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "uning qoʻllarining"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "mamnun qilgin"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "sindirgin"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "bel"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "unga qarshi koʻtarilganlarining"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "va uni yomon koʻruvchilari"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "yana turmasin"
+    }
+  ],
+  "timestamp": "2026-08-26T02:06:55.094140994Z",
+  "model": "glm-5.3"
+}

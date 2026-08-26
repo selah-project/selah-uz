@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 7:24",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va ularning podshohlarini qoʻlingga beradi, va sen ularning nomini osmonlar ostidan yoʻq qilasan; hech bir odam yuzingga qarab tur olmaydi, sen ularni yoʻq qilguncha ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "va beradi"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "ularning podshohlarini"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "qoʻlingga"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "va sen yoʻq qilasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning nomini"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ularning nomini"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ostidan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "tur olmaydi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hech bir odam"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "yuzingga qarab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guncha"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "sen yoʻq qilgan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ularni yoʻq qilish"
+    }
+  ],
+  "timestamp": "2026-08-26T01:51:47.682673054Z",
+  "model": "glm-5.3"
+}

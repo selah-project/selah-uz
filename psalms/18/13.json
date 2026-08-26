@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Yorugʻlik, qarshisida ⟨u⟩ning — qalin bulutlari oʻtdi, doʻl va olov choʻgʻlari.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "yorugʻlikdan"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "qarshisida"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "qalin bulutlari"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "oʻtdi"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "doʻl"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "va choʻgʻlari"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:02.020002855Z",
+  "model": "glm-5.3"
+}

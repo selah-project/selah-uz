@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 101,
+  "translation": "Dovudning mizmori. Xesed va mishpat haqida kuylayman, senga, Yahve, chertib kuylayman.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmori"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "va mishpat"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "kuylayman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "chertib kuylayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:32.583731846Z",
+  "model": "glm-5.3"
+}

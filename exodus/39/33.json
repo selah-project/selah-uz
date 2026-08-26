@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Va ular Maskanni Moshega olib kelishdi ⟨את⟩ ⟨the⟩ chodirni va ⟨את⟩ uning barcha asbob-uskunasini: ilgaklari, taxtalari, suyellari, ustunlari va poydevorlarini.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "olib kelishdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maskanni"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Maskanni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ chodirni"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "⟨the⟩ chodirni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning barcha asbob-uskunasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uning asbob-uskunasi"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "ilgaklari"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "taxtalari"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "suyelleri"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "va ustunlari"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "va poydevorlari"
+    }
+  ],
+  "timestamp": "2026-08-26T01:07:59.875206924Z",
+  "model": "glm-5.3"
+}

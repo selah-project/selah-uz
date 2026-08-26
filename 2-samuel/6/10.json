@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Dovud xohlamadi oʻzi uchun koʻchirishni Yahve aronini ⟨את⟩ Dovud shahriga, va Dovud uni yoʻnaldirdi Oved-Edom gitlikning uyiga.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va… emas"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "xohlamadi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "koʻchirish"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "oʻzi uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvening aroni"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "yoʻnaldirdi uni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gitlik"
+    }
+  ],
+  "timestamp": "2026-08-26T03:07:02.368692839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Qoʻshiq koʻtaringlar, doira chalinglar, yoqimli arfa basso bilan.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "koʻtaringlar"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "va chalinglar"
+    },
+    {
+      "surface": "תף",
+      "gloss": "doira"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "arfa"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "yoqimli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "basso"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:35.011277685Z",
+  "model": "glm-5.3"
+}

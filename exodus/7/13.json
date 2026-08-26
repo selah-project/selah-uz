@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Parohning yuragi qattiqlashdi va ularga quloq solmadi, Xuddi Yahve aytgandek.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "va qattiqlashdi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuragi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "quloq solmadi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xuddi ... gapiridek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aytgandek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:26.589805743Z",
+  "model": "glm-5.3"
+}

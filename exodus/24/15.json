@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Moshe togʻga koʻtarildi, va bulut togʻni ⟨את⟩ qopladi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "koʻtarildi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "qopladi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "togʻ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "togʻ"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:13.095190275Z",
+  "model": "glm-5.3"
+}

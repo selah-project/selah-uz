@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Avshalom unga qatʼiy turdi, va ⟨u⟩ uni ⟨את⟩ bilan yubordi — ⟨את⟩ Amnonni va ⟨את⟩ podshohning barcha oʻgʻillarini.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "qatʼiy turdi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "va yubordi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnonni"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ va",
+      "marks": "barcha oʻgʻillarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshohning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:12:20.650769973Z",
+  "model": "glm-5.3"
+}

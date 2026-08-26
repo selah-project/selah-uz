@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Mana, men sening buyruqlaringni istadim, oʻz solihligingda menga hayot ber.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "men ... istadim"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "sening buyruqlaringni"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "oʻz solihligingda"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "menga hayot ber"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:38.507870145Z",
+  "model": "glm-5.3"
+}

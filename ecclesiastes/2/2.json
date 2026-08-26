@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Kulgi haqida dedim: — aqldan ozgan; va xursandchilik haqida: — bu nima qilayotgan?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "kulgi haqida"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "aqldan ozgan"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "va xursandchilik haqida"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilayotgan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:18:54.113458243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va u ⟨את⟩ stolni shitim yogʻochidan qildi: uning uzunligi ikki ama, kengligi bir ama, balandligi bir yarim ama.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "stolni"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "stolni"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ikki ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uning uzunligi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bir ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "kengligi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "bir ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "yarim"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "balandligi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:06:01.223351540Z",
+  "model": "glm-5.3"
+}

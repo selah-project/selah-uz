@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va ⟨u⟩ turdi va ketdi; Yehonatan esa shaharga kirdi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ketdi"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Yehonatan esa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kirdi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:55:53.247572944Z",
+  "model": "glm-5.3"
+}

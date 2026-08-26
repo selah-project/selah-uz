@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va men sizga dedim: qoʻrqmang va ulardan ⟨еъ⟩ dahshatga tushmang.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Va men dedim"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-mang"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "dahshatga tushmang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ...-mang"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "qoʻrqmang"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ulardan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:47:12.553622697Z",
+  "model": "glm-5.3"
+}

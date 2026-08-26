@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Dirijorga — Korach oʻgʻillariga — mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dirijorga"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:40.408875641Z",
+  "model": "glm-5.3"
+}

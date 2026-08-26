@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va ⟨את⟩ soʻqni toʻrt barobar toʻlasin, ⟨chunki⟩ ⟨u⟩ ⟨את⟩ bu ishni qildi va ⟨u⟩ acinmagani uchun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "soʻqni"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "soʻq"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "toʻlasin"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "toʻrt barobar"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨chunki⟩ (evaziga)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu ishni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ishni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... uchun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "acindi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:11:44.696365435Z",
+  "model": "glm-5.3"
+}

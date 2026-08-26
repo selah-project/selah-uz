@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "va ⟨את⟩ bitta dengizni, va ⟨את⟩ uning ostidagi oʻn ikki buqani;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "dengizni"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengizni"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "buqalarni"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "buqalarni"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "oʻn ikki (ikki)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengizning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:30:36.750631743Z",
+  "model": "glm-5.3"
+}

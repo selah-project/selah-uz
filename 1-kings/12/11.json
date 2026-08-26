@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va endi otam sizlarga ogʻir boyundirik yukladi, men esa boyundirigʻingiz ustiga qoʻshaman; otam sizlarni ⟨את⟩ qamchilar bilan tarbiyaladi, men esa sizlarni ⟨את⟩ chayonlar bilan jazolayman.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otam"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "yukladi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "על",
+      "gloss": "boyundirik"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ogʻir"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men esa"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "qoʻshaman"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "boyundirigʻingiz"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otam"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "tarbiyaladi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "qamchilar bilan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men esa"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "jazolayman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "chayonlar bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:31:58.018848305Z",
+  "model": "glm-5.3"
+}

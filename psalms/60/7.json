@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "Sevgililaring qutqarilishi uchun — oʻng qoʻling bilan qutqar va bizga javob ber.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "qutqariladi"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "sevgililaring"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "qutqar"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "oʻng qoʻling bilan"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "va javob ber bizga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:53.768569167Z",
+  "model": "glm-5.3"
+}

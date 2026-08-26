@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 149,
+  "translation": "Hasidlar shon-sharafda quvonib sakraydilar, toʻshaklarida baralla kuylaydilar.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "quvonib sakraydilar"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "Hasidlar"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "shon-sharafda"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "baralla kuylaydilar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "toʻshaklarida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:24.986756119Z",
+  "model": "glm-5.3"
+}

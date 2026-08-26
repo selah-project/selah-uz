@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Sen gunohlarimizni oʻzingning oldinga qoʻyding, yashirin ishlarimizni yuzingning nuriga taqding.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "qoʻyding"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "gunohlarimizni"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "oʻzingning oldinga"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "yashirin ishlarimizni"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "nuriga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:33.944559791Z",
+  "model": "glm-5.3"
+}

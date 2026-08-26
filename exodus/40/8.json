@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va oʻzing qoʻyginasan ⟨את⟩ hovlini atrofga, va oʻzing qoʻyginasan ⟨את⟩ hovli darvozasi pardasini.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "va qoʻyginasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hovlini"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hovli"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofga"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "va qoʻyginasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pardasini"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "parda"
+    },
+    {
+      "surface": "שער",
+      "gloss": "darvoza"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hovli"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:04.683389749Z",
+  "model": "glm-5.3"
+}

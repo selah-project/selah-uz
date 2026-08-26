@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 23:5",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Ohola Meniki boʻlgan paytdaayoq zino qildi va oshiq boʻldi oshiqlariga — Ashshurga, qoʻshnilarga.",
+  "tokens": [
+    {
+      "surface": "ותזן",
+      "gloss": "zino qildi"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Ohola"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "Menikoʻlayoq (paytda)"
+    },
+    {
+      "surface": "ותעגב",
+      "gloss": "va oshiq boʻldi"
+    },
+    {
+      "surface": "על",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "oshiqlariga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "qoʻshnilar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:19:31.599650056Z",
+  "model": "glm-5.3"
+}

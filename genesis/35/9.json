@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va Elohim Yaakovga yana Paydán-Aramdan qaytganda koʻrinindi va uni ⟨את⟩ barakaladi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "koʻrinindi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "qaytganda"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "Paydándan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "va barakaladi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:43:02.994322965Z",
+  "model": "glm-5.3"
+}

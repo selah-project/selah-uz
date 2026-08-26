@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 101,
+  "translation": "Koʻzlarim er taʼminlanganlariga ⟨dir⟩ — men bilan yashashlari uchun; komil yoʻlda yuruvchi — u menga xizmat qiladi.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarim"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "taʼminlanganlariga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "er"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "yashash uchun"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "men bilan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yuruvchi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "komil"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "menga xizmat qiladi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:57.065772394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Yolgʻon yoʻlini mendan uzoqlashtir, va Tavroting bilan menga inoyat qil.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yoʻlini"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "uzoqlashtir"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "va Tavroting bilan"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "menga inoyat qil"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:43.632807510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Es hit, Yahve, ovozimni — chaqiraman; va menga rahm qil va menga javob ber.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "es hit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ovozimni"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "chaqiraman"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "va rahm qil menga"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "va javob ber menga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:31.430265505Z",
+  "model": "glm-5.3"
+}

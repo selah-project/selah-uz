@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Va buni bilishga oʻyladim — bu koʻzlarimga ogʻir mehnat boʻldi.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "va oʻyladim"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilishga"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "buni"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ogʻir mehnat"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzlarimga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:37.789136538Z",
+  "model": "glm-5.3"
+}

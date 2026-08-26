@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Sen bilasan mensizlanganligimni va uyalmimni va xorligimni; Senning oldingda barcha dushmanlarim ⟨turibdi⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilasan"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "mensizlanganligimni"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "va uyalmimni"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "va xorligimni"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "Senning oldingda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dushmanlarim"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:10.590606470Z",
+  "model": "glm-5.3"
+}

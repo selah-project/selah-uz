@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 65,
+  "translation": "Qoʻylar bilan yaylovlar kiyindilar, vodiylarni esa don qopladi, ular nola qilib kuylan, ha, kuylan!",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "kiyindilar"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "qoʻylar bilan"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": ""
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "vodiylarni esa"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "qopladi"
+    },
+    {
+      "surface": "בר",
+      "gloss": "don"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "nola qilib"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ha"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "kuylan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:05.761273668Z",
+  "model": "glm-5.3"
+}

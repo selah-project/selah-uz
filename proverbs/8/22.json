@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 8:22",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Yahve meni Yoʻlining boshlanishi qilib oldi, oʻz ishlaridan oldin, qadim zamonlardan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קנני",
+      "gloss": "meni ... qilib oldi"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "boshlanishi"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "Yoʻlining"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "oldin"
+    },
+    {
+      "surface": "מפעליו",
+      "gloss": "oʻz ishlaridan"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "qadim zamonlardan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:46.909211525Z",
+  "model": "glm-5.3"
+}

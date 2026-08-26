@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 57:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 57,
+  "translation": "Solih yoʻqoldi va yurakqa qoʻyadigan odam yoʻq, va xesed odamlari tushunmasdan yigʻilib olindi, chunki yovuzlik yuzidan solih yigʻilib olindi.",
+  "tokens": [
+    {
+      "surface": "הצדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yoʻqoldi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va … yoʻq"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "qoʻyadigan"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurak"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "va … odamlari"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "נאספים",
+      "gloss": "yigʻilib olindi"
+    },
+    {
+      "surface": "באין",
+      "gloss": "…masdan"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "tushun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yovuzlik"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "yigʻilib olindi"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "solih"
+    }
+  ],
+  "timestamp": "2026-08-26T04:32:34.105741419Z",
+  "model": "glm-5.3"
+}

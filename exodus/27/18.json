@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 27:18",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Hovlining uzunligi yuz amo, eni ellik-ellik, balandligi besh amo, teatrilgan toza ipdan, va ularning podval toshlari mis.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "uzunligi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hovlining"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amo"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "va eni"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ellik"
+    },
+    {
+      "surface": "בחמשים",
+      "gloss": "ellik-ellik"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "va balandligi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "besh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "toza ipdan"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "teatrilgan"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "va ularning podval toshlari"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mis"
+    }
+  ],
+  "timestamp": "2026-08-26T00:59:47.506939495Z",
+  "model": "glm-5.3"
+}

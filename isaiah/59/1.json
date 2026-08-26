@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Hanuz, Yahvening qoʻli qisqarmagan — qutqarolmas boʻlib qolmagan, va uning qulogʻi ogʻirlashmagan — eshitolmas boʻlib qolmagan.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "hanuz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "qisqarmagan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "qutqarishdan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "ogʻirlashmagan"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "uning qulogʻi"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "eshitishdan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:33:33.012959049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Dovudga — u Abimelex oldida oʻz xulqini oʻzgartirganda, va u ⟨uni⟩ quvlaganida, va u ketganida.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "oʻz xulqini oʻzgartirganda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz xulqini"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "oʻz xulqini"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelex"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "va ⟨uni⟩ quvladi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va u ketdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:06.561514404Z",
+  "model": "glm-5.3"
+}

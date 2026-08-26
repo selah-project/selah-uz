@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Agar yoʻq boʻlsa — Avimelexdan olov chiqib ⟨את⟩ Shekxem egalarini va ⟨את⟩ Beyt-Millo uyini yutsin; va Shekxem egalaridan va Beyt-Millo uyidan olov chiqib ⟨את⟩ Avimelexni yutsin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq boʻlsa"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "chiqsin"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "Avimelexdan"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "va yutsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekxem egalarini"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "egalari"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekxem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Beyt-Millo uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "va chiqsin"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "egalaridan"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekxem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "va uyidan"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "va yutsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelexni"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelexni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:31:21.081364530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va yer buzildi Elohim oldida, va yer zoʻravonlik bilan toʻldi.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "buzildi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "toʻldi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zoʻravonlik"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:35.253032578Z",
+  "model": "glm-5.3"
+}

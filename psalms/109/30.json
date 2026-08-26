@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Yahveni ogʻzim bilan jon katta olqishlayman va koʻpchilik ortida Uni madh etaman.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "olqishlayman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "jon katta"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ogʻzim bilan"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "va ... ortida"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻpchilik"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "Uni madh etaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:25.716082563Z",
+  "model": "glm-5.3"
+}

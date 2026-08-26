@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 61:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 61,
+  "translation": "U abadiy Elohim yuzida oʻltiradi; xesed va emet tayin etilsin — ular uni saqlasin.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "oʻltiradi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yuzida"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "va emet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "tayin etilsin"
+    },
+    {
+      "surface": "ינצרהו",
+      "gloss": "uni saqlasin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:26.707829806Z",
+  "model": "glm-5.3"
+}

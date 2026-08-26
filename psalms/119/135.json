@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Yuzingni ⟨את⟩ bandang ustida porlat, va menga ⟨את⟩ oʻz farzlaringni oʻrgat.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "האר",
+      "gloss": "porlat"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "bandang ustida"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "va menga oʻrgat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz farzlaringni"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "oʻz farzlaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:47.197907841Z",
+  "model": "glm-5.3"
+}

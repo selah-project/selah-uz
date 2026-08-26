@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Tarshish va orollar podshohlari tuhum qaytaradi, Sheba va Seba podshohlari sovgʻa-peshkash keltiradi.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "podshohlari"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "va orollar"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "tuhum"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "qaytaradi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "podshohlari"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "va Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "sovgʻa-peshkash"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "keltiradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:13.132738520Z",
+  "model": "glm-5.3"
+}

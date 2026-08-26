@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 17:4",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Uning nihol boshini uzib oldi ⟨את⟩ va uni savdogarlar shahri boʻlgan Knaan eriga olib bordi va uni qoʻydi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "bosh"
+    },
+    {
+      "surface": "יניקותיו",
+      "gloss": "nihol"
+    },
+    {
+      "surface": "קטף",
+      "gloss": "uzib oldi"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "va uni olib bordi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "eriga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Knaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shahri"
+    },
+    {
+      "surface": "רכלים",
+      "gloss": "savdogarlar"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uni qoʻydi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:15:40.019244157Z",
+  "model": "glm-5.3"
+}

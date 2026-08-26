@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Ular ularga chaqirdilar — shunday qilib ular ularning yuzidan ketdilar; Baallarga qurbonlik kesdilar va oʻyma haykallarga tutatdi qildilar.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "chaqirdilar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday qilib"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ketdilar"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ularning yuzidan"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "Baallarga"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "qurbonlik kesdilar"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "va oʻyma haykallarga"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "tutatdi qildilar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:37:01.961077106Z",
+  "model": "glm-5.3"
+}

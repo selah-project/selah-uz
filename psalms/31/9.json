@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va dushman qoʻlida meni berib yubormading, keng joyda oyoqlarimni turğun qilding.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va … yoʻq"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "meni berib yubormading"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻlida"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dushman"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "turğun qilding"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "keng joyda"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "oyoqlarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:33.137356226Z",
+  "model": "glm-5.3"
+}

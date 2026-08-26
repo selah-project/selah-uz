@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Efrayimning boshi Shomron, va Shomronning boshi ben-Remaljahudir. Agar ishonmasangiz, darhol ⟨u› mustahkam bo'lmaysiz.",
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "va ... boshi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimning"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "va ... boshi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomronning"
+    },
+    {
+      "surface": "בן",
+      "gloss": "o'g'li"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljahuning"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yo'q"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "ishonmasangiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "darhol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yo'q"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "mustahkam bo'lmaysiz"
+    }
+  ],
+  "timestamp": "2026-08-26T04:08:38.987501735Z",
+  "model": "glm-5.3"
+}

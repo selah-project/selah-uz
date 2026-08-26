@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va u ⟨את⟩ butun yoqiladigan qurbongohni akatsiya yogʻochidan yasadi — besh tirsak uning uzunligi, besh tirsak uning kengligi, toʻrtburchak, va uch tirsak uning balandligi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va u yasadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun yoqiladigan qurbongohni"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "butun yoqiladigan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsiya"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "besh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uning uzunligi"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "va besh"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "uning kengligi"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "toʻrtburchak"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "va uch"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "uning balandligi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:42.697786510Z",
+  "model": "glm-5.3"
+}

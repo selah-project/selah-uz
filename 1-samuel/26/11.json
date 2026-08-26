@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 26:11",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Yahve saqlasin, meni qoʻlimni Yahvening Moylanganiga choʻzishdan saqlasin — dabbat! endi, olti-chi, nayzani bosh tomonidan va suv idishini ⟨את⟩, va biz oʻz yoʻlimizga ketamiz.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "dabbat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahvedan"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "choʻzishdan"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻlimni"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "Moylanganiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ol"
+    },
+    {
+      "surface": "נא",
+      "gloss": "oʻtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nayzani"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "nayza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki u"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "bosh tomonidan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "suv idishini"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "suv idishi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvning"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "va ketamiz"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oʻz yoʻlimizga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:00:23.280442688Z",
+  "model": "glm-5.3"
+}

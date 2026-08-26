@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Minglab avlodlarga Mening sevganlarimga va Mening buyruqlarimni saqlagʻanlarga xesed qiluvchiman.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Va … qiluvchiman"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "Minglab avlodlarga"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "Mening sevganlarimga"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "va … saqlagʻanlarga"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "Mening buyruqlarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:03.666191170Z",
+  "model": "glm-5.3"
+}

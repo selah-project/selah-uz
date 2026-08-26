@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Agar ular: «Kel, biz bilan ⟨את⟩ qon uchun poya tursak, begunohlarni sababsiz yashirsak», — desa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ular desa"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kel"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "biz bilan ⟨את⟩",
+      "marks": "biz bilan"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "poya tursak"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "qon uchun"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "yashirsak"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "begunohlarni"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sababsiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:48.805381071Z",
+  "model": "glm-5.3"
+}

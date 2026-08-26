@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Agar ipdan va etik bogʻichigacha oladigan boʻlsam senga tegishli boʻlgan hamma narsadan, va sen demagin: „Men ⟨את⟩ Avramni boyitdim“.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "ipdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va … gacha"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "etik bogʻichi"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "etik"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "oladigan boʻlsam"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "hamma narsadan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga tegishli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "demagin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "boyitdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-08-26T08:18:34.466191113Z",
+  "model": "glm-5.3"
+}

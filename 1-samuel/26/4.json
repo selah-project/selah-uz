@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "David josuslar yubordi va Shaulning rostdan ham kelganini bildi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "josuslar"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "va bildi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kelganini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "rostdan ham"
+    }
+  ],
+  "timestamp": "2026-08-26T08:29:50.933164979Z",
+  "model": "glm-5.3"
+}

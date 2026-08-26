@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Koʻp narsalar qilding Sen, Yahve Elohimim — sening moʻjizalaring va bizga ⟨boʻlgan⟩ fikrlaring; Senga teng yoʻq ⟨;⟩ ularni eʼlon qilsam va soʻzlasam, ular sanalgandan koʻproq.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Koʻp narsalar"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "qilding"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "sening moʻjizalaring"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "va sening fikrlaring"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "teng"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "eʼlon qilsam"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "va soʻzlasam"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ular koʻproq"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "sanalgandan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:58.773300715Z",
+  "model": "glm-5.3"
+}

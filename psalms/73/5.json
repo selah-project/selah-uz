@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Odam ⟨oʻlimdagi⟩ qaltisda ular yoʻq, va odam bolalari qatorida ularga qaltis tegmaydi.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "qaltisda"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ular yoʻq"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "va ... bilan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam bolalari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "tegmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:39.990178977Z",
+  "model": "glm-5.3"
+}

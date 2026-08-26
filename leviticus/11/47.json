@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Nopok bilan toza oʻrtasida, yeyiladigan jonli mavluqot bilan yeyilmaydigan jonli mavluqot oʻrtasida farq qilish uchun.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "farq qilish uchun"
+    },
+    {
+      "surface": "בין",
+      "gloss": "o'rtasida"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "nopok"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va o'rtasida"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "toza"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va o'rtasida"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "jonli mavluqot"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "yeyiladigan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va o'rtasida"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "jonli mavluqot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yo'q"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeyiladi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:57.936184047Z",
+  "model": "glm-5.3"
+}

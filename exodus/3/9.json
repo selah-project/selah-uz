@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va endi, mana, Isroil o‘g‘illarining faryodi Menga yetib keldi, va men Misrliklarning ⟨את⟩ ularni siqib turgan zulmini ham ko‘rdim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "faryodi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o‘g‘illarining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "באה",
+      "gloss": "yetib keldi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "va ham"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ko‘rdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zulmni"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "zulmni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrliklar"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "siqib turgan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:35.358740938Z",
+  "model": "glm-5.3"
+}

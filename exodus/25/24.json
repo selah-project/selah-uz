@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va sen uni ⟨את⟩ toza oltin bilan qoplaysan, va unga atrofi aylana oltin zejer yasaysan.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Va sen qoplaysan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (shulxan)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "toza"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "va yasaysan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zejir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofi aylana"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:14.927049680Z",
+  "model": "glm-5.3"
+}

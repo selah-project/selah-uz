@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve Satanga dedi: Mana, u qoʻlingda — faqat ⟨את⟩ uning nefeshini saqla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "mana, u"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "qoʻlingda"
+    },
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning nefeshini"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "uning nefeshini"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saqla"
+    }
+  ],
+  "timestamp": "2026-08-26T06:53:34.245100264Z",
+  "model": "glm-5.3"
+}

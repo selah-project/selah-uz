@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Yuzma-yuz gapirdi Yahve siz bilan togʻda, oʻrtasidan ⟨the⟩ olovning.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "yuzma-yuz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "siz bilan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻda"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "oʻrtasidan"
+    },
+    {
+      "surface": "האש",
+      "gloss": "olovning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:23:51.774855575Z",
+  "model": "glm-5.3"
+}

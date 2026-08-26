@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Uyal, Sidon, chunki dengiz aytdi — dengiz qalʼasi — deya: 'Men tugʻruq qiymadim va tugʻmadim, yigitlarni katta qilmadim, qizlarni tarbiyalamadim.'",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "uyal"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Sidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "qalʼasi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengizning"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "tugʻruq qiymadim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "tugʻmadim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "katta qilmadim"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "yigitlarni"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "tarbiyalamadim"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "qizlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:18:03.677755253Z",
+  "model": "glm-5.3"
+}

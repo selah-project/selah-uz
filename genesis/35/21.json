@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va Isroel yoʻlga chiqdi va chodirini Migdal-Eder tomon yoydi.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "yoʻlga chiqdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroel"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "va yoydi"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "chodirini"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "uzoqdan"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Migdal tomon"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Eder"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:15.896302583Z",
+  "model": "glm-5.3"
+}

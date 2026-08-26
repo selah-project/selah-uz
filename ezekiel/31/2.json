@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 31:2",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Odam oʻgʻli, ayt Paroga, Misr podshohiga, va uning olomiga: oʻz ulugʻvorligʻingda kimga oʻxshatding ⟨oʻzini⟩?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Odam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …ga"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "uning olomiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kimga"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "oʻxshatding"
+    },
+    {
+      "surface": "בגדלך",
+      "gloss": "oʻz ulugʻvorligʻingda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:24:00.952475672Z",
+  "model": "glm-5.3"
+}

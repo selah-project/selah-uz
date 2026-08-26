@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 23:40",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va birinchi kunda oʻzingizga olasiz: hashamdor daraxt mevasi, xurmo shoxlari, sichqonli daraxt novdasi va soy boʻyidagi tolalar; va Yahve, Elohimlaringizning yuzi oldida yetti kun quvonursizlar.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "va olasiz"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "oʻzingizga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "birinchi"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mevasi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "hashamdor"
+    },
+    {
+      "surface": "כפת",
+      "gloss": "shoxlari"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "xurmo"
+    },
+    {
+      "surface": "וענף",
+      "gloss": "va novdasi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "sichqonli (zich shoxli)"
+    },
+    {
+      "surface": "וערבי",
+      "gloss": "va tolalar"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "soy boʻyidagi"
+    },
+    {
+      "surface": "ושמחתם",
+      "gloss": "va quvonursizlar"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yuzi oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimlaringizning"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:23:22.317682860Z",
+  "model": "glm-5.3"
+}

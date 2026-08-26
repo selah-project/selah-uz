@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va ularga aytdi: yoʻq, balki yerning yalangʻochligini koʻrishga kelgansizlar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "balki"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "yalangʻochligini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kelgansizlar"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "koʻrishga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:45:34.684415484Z",
+  "model": "glm-5.3"
+}

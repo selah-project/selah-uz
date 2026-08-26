@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 93,
+  "translation": "Koʻp suvlarning ovozlaridan, dengiz toʻlqinlarining ulugʻlaridan — ulugʻdir balandlikda Yahve.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "ovozlaridan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlarning"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "ulugʻlaridan"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "toʻlqinlarining"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ulugʻdir"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "balandlikda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:19.749399594Z",
+  "model": "glm-5.3"
+}

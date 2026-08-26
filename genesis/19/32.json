@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Keling, otamizga ⟨את⟩ vino ichiraylik va u bilan yonbosholik qilaylik va otamizdan nasl saqlab qolaylik.»",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Keling"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "ichiraylik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otamizga"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "otamizga"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "va yonbosholik qilaylik"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "va saqlab qolaylik"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "otamizdan"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nasl"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:40.513337928Z",
+  "model": "glm-5.3"
+}

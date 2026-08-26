@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Yoʻllar vayron boʻldi, yoʻldan oʻtuvchi toʻxtadi; ⟨u⟩ ahdni bekor qildi, shaharlarni mensimadi, odamni hisobga olmadi.",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "vayron boʻldi"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "Yoʻllar"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "toʻxtadi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oʻtuvchi"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yoʻldan"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bekor qildi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahdni"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "mensimadi"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "shaharlarni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "hisobga olmadi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "odamni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:19:42.664243292Z",
+  "model": "glm-5.3"
+}

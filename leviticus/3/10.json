@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "va ⟨את⟩ ikki buyragini va ⟨את⟩ ustidagi yogʻni — bel boylari ustida turganini, va ⟨את⟩ jigar ustidagi pardani buyraklar bilan birga olib tashlansin",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikkisini"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikkita"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buyrak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yogʻni"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yogʻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "bel boylari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "pardani"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "parda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidagi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jigar"
+    },
+    {
+      "surface": "על",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buyraklar"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "olib tashlansin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:30.363132217Z",
+  "model": "glm-5.3"
+}

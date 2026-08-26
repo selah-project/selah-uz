@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "U oʻz qoʻllarini tinchlikdagi ⟨dostlariga⟩ choʻzdi, oʻz ahdini buzdi.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "choʻzdi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "oʻz qoʻllarini"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "tinchlikdagi ⟨dostlariga⟩"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "buzdi"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "oʻz ahdini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:33.407913050Z",
+  "model": "glm-5.3"
+}

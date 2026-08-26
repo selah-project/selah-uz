@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Mahbus ostida choʻkishdan va oʻldirilganlar ostida yiqilishdan boshqa ⟨imkon yoʻq⟩. Bularning barchasida ham gʻazabi qaytmadi, va qoʻli hali ham choʻzilgan.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "boshqa ⟨imkon yoʻq⟩"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "choʻkishdan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "mahbus"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "va ostida"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "oʻldirilganlar"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "yiqilishdan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barchasida"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bularning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytmadi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "gʻazabi"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "va hali ham"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻli"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "choʻzilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:11:20.607226639Z",
+  "model": "glm-5.3"
+}

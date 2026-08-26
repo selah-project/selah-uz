@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Xorevda buzoq yasadi va quyiril haykalga sajda qildi.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "buzoq"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Xorevda"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "va sajda qildi"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "quyiril haykalga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:49.031148032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va El Shadday seni barakalasin, seni serhosil qilsin va seni koʻpaytirsin, va sen xalqlar jamosiga aylanasan.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "va El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barakalasin"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seni",
+      "marks": "seni"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "va seni serhosil qilsin"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "va seni koʻpaytirsin"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "va boʻlasan"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "jamosiga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:57.515297970Z",
+  "model": "glm-5.3"
+}

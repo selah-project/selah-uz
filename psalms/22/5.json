@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Senga ishondilar otalarimiz; ishondilar va Sen ularni qutqarding.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ishondilar"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "otalarimiz"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ishondilar"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "va qutqarding ularni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:22.358782323Z",
+  "model": "glm-5.3"
+}

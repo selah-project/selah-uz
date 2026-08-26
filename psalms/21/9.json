@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Qoʻling sening dushmanlaringning barchasini topib oladi, oʻng qoʻling seni yomon koʻruvchilarni topib oladi.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "topib oladi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻling"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barchasini"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dushmanlaringning"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "oʻng qoʻling"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "topib oladi"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "yomon koʻruvchilaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:31.171393012Z",
+  "model": "glm-5.3"
+}

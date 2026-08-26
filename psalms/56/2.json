@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 56,
+  "translation": "Menga rahm qil, Elohim, chunki odam meni yutib yubormoqda; butun kun urushib meni siqib bormoqda.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Menga rahm qil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "meni yutib yubormoqda"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "urushib"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "meni siqib bormoqda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:55.590452396Z",
+  "model": "glm-5.3"
+}

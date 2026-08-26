@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Va Yisroelni oʻrtalaridan chiqargan ⟨Zoti⟩, chunki abadiygacha ⟨uning⟩ xesedi.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "va chiqargan ⟨Zoti⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroelni"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "oʻrtalaridan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiygacha"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨uning⟩ xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:29.831827059Z",
+  "model": "glm-5.3"
+}

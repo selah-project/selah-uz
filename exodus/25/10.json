@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va qilsinlar akatsiya yogʻochidan sandiqni: ikki yarim gʻarich — uning boʻyi, bir yarim gʿarich — uning eni, bir yarim gʻarich — uning balandligi.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Va qilsinlar"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandiqni"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsiya"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ikkita gʻarich"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "va yarim"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "uning boʻyi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "va bir gʻarich"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "va yarim"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "uning eni"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "va bir gʻarich"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "va yarim"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "uning balandligi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:59:45.729288634Z",
+  "model": "glm-5.3"
+}

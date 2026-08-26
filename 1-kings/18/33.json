@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va ⟨את⟩ yogʻochlarni tartibga soldi, va ⟨את⟩ buqani boʻlaklarga kesdi, va uni yogʻochlar ustiga qoʻydi.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "va tartibga soldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yogʻochlarni"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "yogʻochlar"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "va boʻlaklarga kesdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buqani"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "buqa"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "yogʻochlar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:43:27.145158382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 132,
+  "translation": "„Agar uyimning chodiriga kirsam, agar toʻshagimning ustiga chiqsam —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "kirsam"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "chodiriga"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "uyimning"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "chiqsam"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "toʻshagimning"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "yotogʻim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:39.035456400Z",
+  "model": "glm-5.3"
+}

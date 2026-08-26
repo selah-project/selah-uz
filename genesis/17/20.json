@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 17:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Yishmoelga kelsa — Men seni eshitdim: mana, Men uni ⟨את⟩ barakaladim va uni ⟨את⟩ unumli qilaman va uni ⟨את⟩ juda-juda koʻpaytiraman; oʻn ikki hukmdorni dunyoga keltiradi, va Men uni katta elga aylantiraman.“",
+  "tokens": [
+    {
+      "surface": "ולישמעאל",
+      "gloss": "Va Yishmoelga kelsa"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "Men seni eshitdim"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "Men barakaladim"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni barakaladim"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "va unumli qilaman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni unumli qilaman"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "va koʻpaytiraman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni koʻpaytiraman"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "oʻn ikki"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn ikki"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "hukmdor"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "dunyoga keltiradi"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "va Men uni qilaman"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "elga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "katta"
+    }
+  ],
+  "timestamp": "2026-08-26T08:18:55.568056670Z",
+  "model": "glm-5.3"
+}

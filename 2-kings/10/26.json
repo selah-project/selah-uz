@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Baal uyidan ⟨את⟩ ustunlarni chiqardilar va uni yoqdilar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "va chiqardilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ustunlarni"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "ustunlarni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "va uni yoqdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:52:32.618117258Z",
+  "model": "glm-5.3"
+}

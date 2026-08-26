@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Elohim Noaxga gapirdi, deb:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Va gapirdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noax"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb:"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:26.709973042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va har qaysi ayol — qalbi dono — oʻz qoʻllari bilan jun toʻqidi, va ular toʻqilgan ipni keltirdilar: ⟨את⟩ moviyni va ⟨את⟩ binafshani, ⟨את⟩ qizil qoʻngʻiz ipini va ⟨את⟩ tolani.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "va har qaysi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "dona"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "oʻz qoʻllari bilan"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "toʻqidi"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "va ular keltirdilar"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "toʻqilgan ipni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moviy"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "moviy"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "binafsha"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "binafsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qizil qoʻngʻiz ipi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "qizil qoʻngʻiz"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ipi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tolа"
+    },
+    {
+      "surface": "השש",
+      "gloss": "tolа"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:09.596505814Z",
+  "model": "glm-5.3"
+}

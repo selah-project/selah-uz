@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Shemuël dedi: Yigʻingiz ⟨את⟩ butun Isroilni Mitzpaga, va men sizning uchungiz Yahvega ibodat qilaman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "yigʻingiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun Isroilni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "Mitzpaga"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "va men ibodat qilaman"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "sizning uchungiz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T02:44:21.282006867Z",
+  "model": "glm-5.3"
+}

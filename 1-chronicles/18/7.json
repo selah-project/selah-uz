@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Dovud oldi ⟨את⟩ oltin qalqonlarni, ki ⟨ular⟩ Hadadxezerning xizmatkorlari ustida edilar, va ularni Yerushalaimga olib keldi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Va oldi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltin qalqonlarni"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "qalqonlarni"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "edilar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmatkorlari"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadxezerning"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "va ularni olib keldi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaimga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:59:39.105458597Z",
+  "model": "glm-5.3"
+}

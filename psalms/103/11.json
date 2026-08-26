@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "Chunki osmonlar baland boʻlgani kabi, yer ustida, Uning xesedi Ulugʻlikka loyiq boʻlganlar ustida qudratlidir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "baland boʻlgani kabi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "qudratlidir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Uning xesedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Uni hurmat qiluvchilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:28.964565304Z",
+  "model": "glm-5.3"
+}

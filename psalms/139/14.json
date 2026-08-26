@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Seni ulugʻlayman, chunki dahshatli noyob yaratilganman; ajoyib ⟨sirlaringdir⟩ ishlarining, va jonim buni yaxshi biladi.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Seni ulugʻlayman"
+    },
+    {
+      "surface": "על",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "dahshatli"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "noyob yaratilganman"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "ajoyib"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ishlarining"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "va jonim"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "yaxshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:13.976991081Z",
+  "model": "glm-5.3"
+}

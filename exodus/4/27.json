@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 4:27",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Yahve Aharga dedi: bor, choʻlga Moshe bilan uchrashga. Va u bordi va Elohim togʻida uni kutib oldi va uni oʻpdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bor"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "uchrashga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "choʻlga"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "bordi"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "uchrashdi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻida"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "oʻpdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:02.586858462Z",
+  "model": "glm-5.3"
+}

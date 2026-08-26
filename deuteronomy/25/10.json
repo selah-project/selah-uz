@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va uning nomi Isroilda chaqiriladi: „Eti yechilgan odamning uyi.“",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "va chaqiriladi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning nomi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isroilda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "yechilgan"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "etining"
+    }
+  ],
+  "timestamp": "2026-08-26T02:01:50.734241518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Elohim Bilomga uchrashdi, va u Unga aytdi: ⟨את⟩ yettita mehrobni tartibga soldim va mehrobda buqa va qoʻchqorni olovga chiqardim.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "va uchrashdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yettita mehrobni"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yettita"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "mehroblarni"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "tartibga soldim"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "va olovga chiqardim"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buqa"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "va qoʻchqor"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "mehrobda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:39:43.713909189Z",
+  "model": "glm-5.3"
+}

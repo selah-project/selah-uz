@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Chunki seni Misr yeridan olib chiq⟨dim⟩, va qullar uyidan seni qutqar⟨dim⟩dim, va oldi⟨ngga⟩ yubor⟨dim⟩di ⟨את⟩ Moshe, Aharon va Miryamni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "seni olib chiq⟨dim⟩"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "va uyidan"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullar"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "seni qutqar⟨dim⟩dim"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "va yubor⟨dim⟩di"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "oldi⟨ngga⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe, Aharon va Miryamni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "va Miryamni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:46:10.146477622Z",
+  "model": "glm-5.3"
+}

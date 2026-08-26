@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Xalqlarni tarbiyalovchi ⟨u⟩ qoralamasmi? odamni bilim bilan oʻrgatuvchi ⟨bilmasmidi⟩?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "tarbiyalovchi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "masmi"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "qoralamas"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "oʻrgatuvchi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "bilim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:47.021381138Z",
+  "model": "glm-5.3"
+}

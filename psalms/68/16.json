@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Elohim togʻi — Bashon togʻi; choʻqqilar togʻi — Bashon togʻi.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "togʻi"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "choʻqqilar"
+    },
+    {
+      "surface": "הר",
+      "gloss": "togʻi"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashon"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:40.015285443Z",
+  "model": "glm-5.3"
+}

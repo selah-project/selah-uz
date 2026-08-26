@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Sen bizni xalqlar orasida masal, ummatlar orasida bosh silkitish qilib qo'yding.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "qilib qo'yding"
+    },
+    {
+      "surface": "משל",
+      "gloss": "masal"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar orasida"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "bosh silkitish"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "bosh"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ummatlar ichida"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ummatlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:29.811460003Z",
+  "model": "glm-5.3"
+}

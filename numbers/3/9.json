@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 3:9",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va sen Levilarni ⟨את⟩ Aharon va uning oʻgʻillariga berasan — ular unga berilgan, berilgandirlar Isroil oʻgʻillaridan ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Va sen berasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levilarni"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levilarni"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "va uning oʻgʻillariga"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "berilgan"
+    },
+    {
+      "surface": "נתונם",
+      "gloss": "berilgandirlar"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ dan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillaridan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T01:26:02.243997053Z",
+  "model": "glm-5.3"
+}

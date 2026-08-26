@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va ular Gezerda yashovchi kanaaniyni ⟨את⟩ siqib chiqarmadilar, va kanaaniy Efrayim ichida shu kungacha yashadi, va u majburiy mehnatkorga — xizmatkorga aylandi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Va ular ... emas"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "siqib chiqarmadilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaaniyni"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaaniy"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "yashovchi"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "Gezerda"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va yashadi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaaniy"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ichida"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "למס",
+      "gloss": "majburiy mehnatkorga"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "xizmatkor"
+    }
+  ],
+  "timestamp": "2026-08-26T02:19:04.892040585Z",
+  "model": "glm-5.3"
+}

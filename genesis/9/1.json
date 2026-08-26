@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Elohim Noaxni va uning oʻgʻillarini barakaladi va ularga aydi: „Koʻpayingiz va maʼningiz va yerni toʻldiringiz“.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Va ... barakaladi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noaxni"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noax"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning oʻgʻillarini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uning oʻgʻillari"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va ... aydi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "meva beringiz"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "va koʻpayingiz"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "va toʻldiringiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:44.141778964Z",
+  "model": "glm-5.3"
+}

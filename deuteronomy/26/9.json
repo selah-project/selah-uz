@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "va bizni bu joyga olib kirdi va bizga ⟨את⟩ bu yerni berdi — sut va asal oqib turadigan yerni.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "va bizni olib kirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "oqib turadigan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "sut"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "va asal"
+    }
+  ],
+  "timestamp": "2026-08-26T02:02:13.420074197Z",
+  "model": "glm-5.3"
+}

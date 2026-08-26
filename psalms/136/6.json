@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Yerni suvlar ustidan yoyganga, chunki abadiydir Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "yoyganga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiydir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Uning xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:15.928954314Z",
+  "model": "glm-5.3"
+}

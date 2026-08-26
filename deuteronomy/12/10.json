@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Siz Iordan ⟨את⟩ dan oʻtasiz va Yahve Elohimingiz sizga meros qilib beradigan erda yashaysiz; va ⟨u⟩ sizga atrofingizdagi barcha dushmanlaringizdan tinchlik beradi va siz xavfsiz yashaysiz.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "va oʻtasiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordan"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "va yashaysiz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "erda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki...ni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimingiz"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "meros qilib beradi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizni"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "va tinchlik beradi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha...dan"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dushmanlaringiz"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "atrofingizda"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "va yashaysiz"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "xavfsiz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:56:58.464431319Z",
+  "model": "glm-5.3"
+}

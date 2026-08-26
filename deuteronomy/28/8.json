@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Buyuradi Yahve ⟨את⟩ sening yoningda ⟨את⟩ ⟨the⟩ barakani omborlaringda va qoʻl uzatgan hamma narsangda, va barakalaydi seni ⟨the⟩ yerda, oʻshanda ki Yahve Elohiming beradi sanga.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "Buyuradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sening yoningda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barakani"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "barakani"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "omborlaringda"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va hamma"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "qoʻl uzatgan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻling"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "va barakalaydi seni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oʻshanda ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "beradi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sanga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:03:23.236770384Z",
+  "model": "glm-5.3"
+}

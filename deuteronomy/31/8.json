@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va Yahve — U sening oldingda yuradigan Zotdir; U sen bilan boʻladi; U seni qoʻyib yubormaydi va seni tashlab ketmaydi; qoʻrqma va yiqilmagin.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Va Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yuradigan Zot"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sening oldingda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sen bilan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-maydi"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "qoʻyib yubor-"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va -maydi"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "tashlab ket-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qoʻrq-"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va -gin"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yiqilmagin"
+    }
+  ],
+  "timestamp": "2026-08-26T02:09:07.575285458Z",
+  "model": "glm-5.3"
+}

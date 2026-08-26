@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 5:20",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va qachonki uning yuragi koʻtarilib, ruhi maqtanishga qattiqlashganda, u podshohlik taxtidan tushirildi va ulugʻvorligi undan olib tashlandi.",
+  "tokens": [
+    {
+      "surface": "וכדי",
+      "gloss": "Va qachonki"
+    },
+    {
+      "surface": "רם",
+      "gloss": "koʻtarilib"
+    },
+    {
+      "surface": "לבבה",
+      "gloss": "yuragi"
+    },
+    {
+      "surface": "ורוחה",
+      "gloss": "va ruhi"
+    },
+    {
+      "surface": "תקפת",
+      "gloss": "qattiqlashdi"
+    },
+    {
+      "surface": "להזדה",
+      "gloss": "maqtanishga"
+    },
+    {
+      "surface": "הנחת",
+      "gloss": "tushirildi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...dan"
+    },
+    {
+      "surface": "כרסא",
+      "gloss": "taxtidan"
+    },
+    {
+      "surface": "מלכותה",
+      "gloss": "podshohligining"
+    },
+    {
+      "surface": "ויקרה",
+      "gloss": "va ulugʻvorligi"
+    },
+    {
+      "surface": "העדיו",
+      "gloss": "olib tashlandi"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:31:39.608030826Z",
+  "model": "glm-5.3"
+}

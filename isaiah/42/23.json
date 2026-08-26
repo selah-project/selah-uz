@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Sizlardan kim bunga quloq tutadi? Kim diqqat bilan eshitadi — ⟨kelajak uchun⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizlardan"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "quloq tutadi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "buna"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "diqqat bilan"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitadi"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "⟨kelajak uchun⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T04:26:35.810816741Z",
+  "model": "glm-5.3"
+}

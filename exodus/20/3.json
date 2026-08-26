@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Senga boshqa elohimlar Mening yuzimga ⟨qarshi⟩ boʻlmasin.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "boʻlmasin… yoʻq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlmasin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohimlar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "…uzra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzimga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:22.260122468Z",
+  "model": "glm-5.3"
+}

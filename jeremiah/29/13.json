@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va ⟨את⟩ Meni izlaysiz va topasiz, chunki butun qalbingiz bilan ⟨את⟩ Meni soʻraysiz.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "va izlaysiz"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Meni",
+      "marks": "topasiz"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "va topasiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "Meni soʻraysiz"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qalbingiz bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:37:38.448104644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 85,
+  "translation": "Mangumi bizga gʻazablanasan, gʻazabingni avloddan avlodga choʻzasanmi?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Mangumi"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "gʻazablanasan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "choʻzasanmi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "gʻazabingni"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "avloddan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "avlodga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:13.580660160Z",
+  "model": "glm-5.3"
+}

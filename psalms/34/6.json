@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Unga qaradilar va nur sochdilar va ularning yuzlari uyalmaydi.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "qaradilar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "va nur sochdilar"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "va ularning yuzlari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "uyalmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:11.592500573Z",
+  "model": "glm-5.3"
+}

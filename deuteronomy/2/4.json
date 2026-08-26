@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va ⟨את⟩ xalqga buyruq ber: 'Sizlar akalaringiz — Esav oʻgʻillari, Seirda yashovchilarning chegarasidan oʻtayotganlaringizda, ular sizlardan qoʻrqadilar; sizlar esa juda ham ehtiyot boʻlingiz'.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Va ⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "צו",
+      "gloss": "buyruq ber"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "oʻtayotganlaringizda"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "chegarasidan"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "akalaringiz"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "yashovchilar"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "Seirda"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ular qoʻrqadilar"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizlardan"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "sizlar esa ehtiyot boʻlingiz"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    }
+  ],
+  "timestamp": "2026-08-26T01:47:36.866491808Z",
+  "model": "glm-5.3"
+}

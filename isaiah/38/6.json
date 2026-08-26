@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va seni Ashur qoʻlidigan qutqaraman, va ⟨את⟩ shu shaharni; va shu shaharni himoya qilaman.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "qoʻlidigan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "seni qutqaraman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "shu shaharni"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "shu"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "himoya qilaman"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "shu"
+    }
+  ],
+  "timestamp": "2026-08-26T04:24:02.504664550Z",
+  "model": "glm-5.3"
+}

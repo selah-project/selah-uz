@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va dushmanlari ularni ezdi va ularning qoʻli ostida boʻysundilar.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "ezdi"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "dushmanlari"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "boʻysundilar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ularning qoʻli"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:21.466088153Z",
+  "model": "glm-5.3"
+}

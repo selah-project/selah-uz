@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va Shaul ⟨את⟩ Amalekni urdi — Xaviladan, Shurga kirib boradigan joygacha, Misr yuzasidagi ⟨the⟩ yerdan.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Va urdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekni"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "Xaviladan"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "kirib boradigan joygacha"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "yuzasida"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzasidagi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T02:50:11.347548378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Avimelex aytdi: Men bilmasdim kim qilgan ⟨את⟩ bu ishni, va ham sen menga xabar bermading, va ham men eshitmadim, faqat bugun.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bildim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu ish"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ish"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "va ham"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "xabar berding"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "va ham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eshitdim"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:30.774884710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Chunki U seni qushchi toʻridan, halokatli vabodan qutqaradi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "qutqaradi seni"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "toʻridan"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "qushchi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "vabodan"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "halokatli"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:58.842148378Z",
+  "model": "glm-5.3"
+}

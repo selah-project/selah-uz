@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 17:18",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Yahve Isroilga juda qattiq gʻazablandi va ularni yuzidan surgʻin qildi; faqat Yehuda oʻzi urugʻigina qoldi, hech narsa qolmadi.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "gʻazablandi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda qattiq"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isroilga"
+    },
+    {
+      "surface": "ויסרם",
+      "gloss": "surgʻin qildi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uzoq"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qolmadi"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "qoldi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "urugʻi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "oʻzi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:57:50.691758670Z",
+  "model": "glm-5.3"
+}

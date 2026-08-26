@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Yovlar, tanamni yeb qoʻyish uchun ustimga yaqinlashganda — dushmanlarim va adovatimdagilar — ular oqib yiqildilar.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "yaqinlashganda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "yovlar"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yeb qoʻyish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanamni"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "tanamni"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "va adovatimdagilar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "כשלvu",
+      "gloss": "oqib",
+      "surface_alt": null
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "va yiqildilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:44.186411604Z",
+  "model": "glm-5.3"
+}

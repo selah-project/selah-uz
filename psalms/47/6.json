@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 47,
+  "translation": "Elohim baland koʻtarildi — javohir cheksangiz bilan, Yahve shofar ovozi bilan.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "koʻtarildi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "javohir cheksangiz bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovozi bilan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:28.538316099Z",
+  "model": "glm-5.3"
+}

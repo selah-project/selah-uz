@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Koʻzlarim sening najoting uchun va sening haqqoniylik soʻzing uchun toʻydi (tugadi).",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarim"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "toʻydi (tugadi)"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "sening najoting uchun"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "va … soʻzing uchun"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "sening haqqoniyliging"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:56.294424549Z",
+  "model": "glm-5.3"
+}

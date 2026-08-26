@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Tushdek — uygʻongandagi — Adonay, uygʻonganingda ularning suratini mensimaysan.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "tushdek"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "uygʻongandagi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "uygʻonganingda"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "ularning suratini"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "mensimaysan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:41.579113390Z",
+  "model": "glm-5.3"
+}

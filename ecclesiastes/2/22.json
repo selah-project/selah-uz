@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Chunki odamga nima ⟨tushadi⟩ barcha mehnatidan va yuragi orzusidan, qaysiki bilan u quyosh ostida mehnat qiladi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨tushadi⟩"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "odamga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "mehnatidan"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "va orzusidan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "uning yuragi"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mehnat qiladi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:09.519341285Z",
+  "model": "glm-5.3"
+}

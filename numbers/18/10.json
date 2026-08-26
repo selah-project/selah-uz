@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Muqaddaslar muqaddasi joyida yeyasan uni; har bir erkak uni yeydi ⟨את⟩; muqaddas boʻladi senga.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "muqaddaslik (joyida)"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "muqaddaslar (muqaddasi)"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "yeyasan uni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeydi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (yeyiladigan muqaddas narsa)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:35:56.723151293Z",
+  "model": "glm-5.3"
+}

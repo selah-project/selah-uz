@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 4:20",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Sizni esa Yahve ⟨את⟩ oldi va sizni Misrdagi — temir kuyoshdan — ⟨את⟩ olib chiqdi, Unga meros xalq bo‘lish uchun, shu kungidek",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ Sizni",
+      "marks": "sizni"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויוצא",
+      "gloss": "olib chiqdi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizni",
+      "marks": "sizni"
+    },
+    {
+      "surface": "מכור",
+      "gloss": "kuyoshdan"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "temir"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdagi"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "bo‘lish uchun"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "meros"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "shu kungidek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-26T01:50:59.345446940Z",
+  "model": "glm-5.3"
+}

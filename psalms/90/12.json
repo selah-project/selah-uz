@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Kunlarimizni toʻgʻri sanashni bizga oʻrgat, shunda qalbimizga donolik keltiramiz.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "sanashni"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "kunlarimizni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "toʻgʻri"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "oʻrgat"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "shunda keltiramiz"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbimizga"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "donolik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:14.726424365Z",
+  "model": "glm-5.3"
+}

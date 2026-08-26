@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va agar ming yil ikki marta yashasa ham va yaxshilikni koʻrmasa — hammasi bir joyga bormaydimi?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "va agar ... ham"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "yashasa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ikki marta"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "va yaxshilikni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "koʻrmasa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "koʻrmasa"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mi-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "bormaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:34.795126904Z",
+  "model": "glm-5.3"
+}

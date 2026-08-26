@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Yuqori xonalarining shastalarini suvlarda qoʻygan, bulutlarni aravasi qilgan, ruhot qanotlari ustida yuradi.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "shastalarini qoʻygan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvlarda"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "yuqori xonalarining"
+    },
+    {
+      "surface": "השם",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "bulutlarni"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "aravasi"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "yuradi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "qanotlari"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhot"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:42.596651732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va oʻn cub ⟨the⟩ ikkinchi keruv — bir oʻlchov va bir shakl ikki keruvga.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "va oʻn"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "arshin (cubit) bilan"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "keruv"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "oʻlchov"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "va shakl"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "ikkitasiga"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "keruvlar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:29:52.245818478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va Yahve koʻzlarida toʻgʻri boʻlganni qildi, va otasi Dovudning butun yoʻlida yurdi, va oʻngga ham, chapga ham ogʻmadi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "toʻgʻri boʻlganni"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzlarida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va yurdi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun …da"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻlida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …madi"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ogʻmadi"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oʻngga"
+    },
+    {
+      "surface": "ו שמאול",
+      "gloss": "chapga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:03:10.250036322Z",
+  "model": "glm-5.3"
+}

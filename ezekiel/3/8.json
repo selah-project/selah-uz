@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Mana, ⟨את⟩ yuzingni ularning yuzlariga qarshi qattiq qildim, va ⟨את⟩ peshonangni ularning peshonalariga qarshi qattiq.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "qildim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzingni"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "qattiq"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "ularning yuzlariga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "peshonangni"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "peshonangni"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "qattiq"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "ularning peshonalariga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:09:52.120725784Z",
+  "model": "glm-5.3"
+}

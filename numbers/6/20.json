@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 6:20",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va kohin ⟨את⟩ ularni koʻtarib silkitish qurboni sifatida Yahvening yuzi oldida koʻtaradi; muqaddasdir ⟨u⟩ kohin uchun — silkitilgan koʻkrak va koʻtarib berilgan son ustidan; va shundan keyin naziriy vino ichishi mumkin.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "va silkitadi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni (yelka, nonlar)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "silkitish qurboni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨u⟩"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohin uchun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "koʻkrak"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "silkitilgan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustidan"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "son"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "koʻtarib berilgan"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "va keyin"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ichadi"
+    },
+    {
+      "surface": "הנזיר",
+      "gloss": "naziriy"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    }
+  ],
+  "timestamp": "2026-08-26T01:28:13.029489657Z",
+  "model": "glm-5.3"
+}

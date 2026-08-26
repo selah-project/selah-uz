@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 1:44",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va u togʻda yashovchi Amoriylik ⟨sizlarga qarshi⟩ chiqdi, sizlarni ⟨את⟩ quvladi — arilar qilgani kabi — va Seirda ⟨sizlarni⟩ ⟨את⟩ bosib tashladi, Xormagacha.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "va chiqdi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Amoriylik"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "yashovchi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "sizlarga qarshi"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "quvladi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni (quvladi)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "— kabi"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "qilgani"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "arilar"
+    },
+    {
+      "surface": "ויכתו",
+      "gloss": "bosib tashladi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni (bosib tashladi)"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "Seirda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Xorma"
+    }
+  ],
+  "timestamp": "2026-08-26T01:47:32.431244913Z",
+  "model": "glm-5.3"
+}

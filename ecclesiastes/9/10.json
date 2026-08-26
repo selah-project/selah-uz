@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Barcha nimani qoʻling topsa qilishga, kuching bilan qil; chunki Sheolda — seni borayotgan joyda — amal yoʻq, va hisob yoʻq, va bilim yoʻq, va hikmat yoʻq.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nimani"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "topsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻling"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "qilishga"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "kuching bilan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "amal"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "va hisob"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "va bilim"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "va hikmat"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Sheolda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "seni"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "borayotgan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "joyda"
+    }
+  ],
+  "timestamp": "2026-08-26T07:23:10.891532002Z",
+  "model": "glm-5.3"
+}

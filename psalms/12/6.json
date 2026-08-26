@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Mazlumlar talon-taroj qilinishidan va muhtojlarning nolishidan — hozir turaman, deydi Yahve; uni xavfsizlikda qoʻyaman, unga nafaqatgan kishiga nisbatan.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "talon-taroj qilinishidan"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "mazlumlar"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "nolishidan"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "muhtojlar"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hozir"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "turaman"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "qoʻyaman"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "xavfsizlikda"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "nafaqatgan kishi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:20.121231283Z",
+  "model": "glm-5.3"
+}

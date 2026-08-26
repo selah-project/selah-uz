@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Bor yomonlikni koʻrdim quyosh ostida — xatodek, hukmdor yuzidan chiqadigan.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlik"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "xatodek"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "chiqadigan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "hukmdor"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:17.773267310Z",
+  "model": "glm-5.3"
+}

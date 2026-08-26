@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va kohinlar ham, levilar ham qirolning buyrugʻidan — har qanday ishda ham, xazinlar ustida ham — chetlanmadilar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "chetlanmadilar"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyrugʻidan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirolning"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻyicha"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohinlar"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "va levilar"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ishda"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "va xazinlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:07:15.288786652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Uzzi ⟨את⟩ Zeraxyani dunyoga keltirdi, va Zeraxya ⟨את⟩ Merayotni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "va Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zeraxyani"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zeraxya"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "va Zeraxya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merayotni"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    }
+  ],
+  "timestamp": "2026-08-26T07:55:15.219953848Z",
+  "model": "glm-5.3"
+}

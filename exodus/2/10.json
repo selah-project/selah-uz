@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Bola ulgʻaydi, va u uni Parohning qiziga olib keldi, va u unga oʻgʻil boʻldi, va u uning ismini Moshe deb atadi, va aytdi: „Chunki suvlardan uni tortib oldim.“",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "ulgʻaydi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bola"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "uni olib keldi"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "qiziga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohning"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "atadi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning ismini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlardan"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "uni tortib oldim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:01.664178726Z",
+  "model": "glm-5.3"
+}

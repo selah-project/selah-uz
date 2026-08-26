@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va ⟨את⟩ Gatni, ⟨את⟩ Mareshani va ⟨את⟩ Zifni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gatni"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mareshani"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Mareshani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zifni"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Zifni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:07:48.177740485Z",
+  "model": "glm-5.3"
+}

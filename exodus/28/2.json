@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va sen muqaddas kiyimlar qilasiz Aharon uchun, akang uchun, shon-sharaf uchun va goʻzallik uchun.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Va sen qilasiz"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "kiyimlar"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon uchun"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "akang"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "shon-sharaf uchun"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "va goʻzallik uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:49.355302232Z",
+  "model": "glm-5.3"
+}

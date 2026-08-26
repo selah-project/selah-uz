@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Saray esa bepusht ⟨edi⟩; uning farzandi yoʻq ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "וותהי",
+      "gloss": "edi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Saray"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "bepusht"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "לה",
+      "gloss": "uning"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "farzandi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:01.631363107Z",
+  "model": "glm-5.3"
+}

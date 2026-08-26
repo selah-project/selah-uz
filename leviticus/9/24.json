@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 9:24",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va olov Yahve huzuridan chiqib, munosatda ⟨את⟩ butun yoqilgan qurbonlikni va ⟨את⟩ yogʻlarni yeb tugatdi; va butun xalq ⟨buni⟩ koʻrdi va olqishlab nido qildi va yuztutib yiqildi.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "chiqib"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "huzuridan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "yeb tugatdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "munosatda"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "munasat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun yoqilgan qurbonlikni"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "butun yoqilgan qurbonlik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yogʻlarni"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "yogʻlar"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "וירנו",
+      "gloss": "olqishlab nido qildi"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "yiqildi"
+    },
+    {
+      "surface": "על",
+      "gloss": "yuztutib… ustiga"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "yuzlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:42.208552478Z",
+  "model": "glm-5.3"
+}

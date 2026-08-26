@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 80,
+  "translation": "Tokni Misrdan koʻchardingiz, xalqlarni quvib chiqardingiz va uni oʻtqazdingiz.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "Tokni"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "koʻchardingiz"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "quvib chiqardingiz"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "va uni oʻtqazdingiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:38.911261488Z",
+  "model": "glm-5.3"
+}

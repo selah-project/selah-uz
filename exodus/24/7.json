@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va u ahd kitobini oldi va xalqning qulogʻiga oʻqib berdi, va ular aytishdi: „Yahve gapirgan hamma narsani bajaramiz va tinglaymiz.“",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Va ... oldi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kitobini"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va oʻqib berdi"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "qulogʻiga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va ular aytishdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bajaramiz"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "va tinglaymiz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:13.819785260Z",
+  "model": "glm-5.3"
+}

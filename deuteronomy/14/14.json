@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "va ⟨את⟩ har qanday qargʻani — turiga koʻra.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "har qanday qargʻani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "qargʻani"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "turiga koʻra"
+    }
+  ],
+  "timestamp": "2026-08-26T01:54:28.033264497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Kohunlarning har bir erkagi uni yeydi; u muqaddaslar muqaddasi ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkagi"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "kohunlarning"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yeydi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "muqaddaslar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:10.490015974Z",
+  "model": "glm-5.3"
+}

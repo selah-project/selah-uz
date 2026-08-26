@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Endi hikmat va bilim menga ber, va men bu xalq oldida chiqib va kirib yuray, chunki sening bu buyuk xalqingni ⟨את⟩ kim hukm qila oladi?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Endi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "va bilim"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ber"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "va chiqay"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "va kiray"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hukm qiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sening bu buyuk xalqingni"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqingni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "buyuk"
+    }
+  ],
+  "timestamp": "2026-08-26T08:04:32.770765917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Shuning uchun mana, Men ⟨את⟩ yoʻlingni toʻnqalar bilan toʻsaman va ⟨את⟩ uning devorini quraman, va uning yoʻlchalari topilmaydi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mana Men"
+    },
+    {
+      "surface": "שך",
+      "gloss": "toʻsaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yoʻlingni"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yoʻlingni"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "toʻnqalar bilan"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "va quraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning devorini"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "uning devorini"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "va uning yoʻlchalari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "topadi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:34:05.413168840Z",
+  "model": "glm-5.3"
+}

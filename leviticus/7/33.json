@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Aharon oʻgʻillari ichidan tinchlik qurbonlarining qonini ⟨את⟩ va yogʻni ⟨את⟩ yaqinlashtirgan kishiga oʻng son ulush sifatida boʻladi.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "yaqinlashtirgan kishiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qonini"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qonini"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "tinchlik qurbonlarining"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yogʻni"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yogʻni"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "oʻgʻillari ichidan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "son"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "oʻng"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "ulush sifatida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:59.583883620Z",
+  "model": "glm-5.3"
+}

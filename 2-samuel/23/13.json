@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 23:13",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va tushdilar uch kishi ottilikdan — bosh — va kelish vaqtida, Dovud huzuriga, Adullom gʻoriga keldilar; va pelishtiylar otryadi Refaim vodiysida lager qurdi.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "va tushdilar"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "uch"
+    },
+    {
+      "surface": "מהשלשים",
+      "gloss": "ottilikdan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "bosh"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "va keldilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "kelish (vaqti)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "gʻor"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullom"
+    },
+    {
+      "surface": "וחית",
+      "gloss": "va otryadi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtiylarning"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "lager qurdi"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "vodiysida"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    }
+  ],
+  "timestamp": "2026-08-26T03:22:16.775489529Z",
+  "model": "glm-5.3"
+}

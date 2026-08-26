@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Zarar yetkazmaydilar va buzmaydilar butun muqaddas togʻimda, chunki yer bilimga toʻlgan — Yahveni bilishga ⟨את⟩, suvlar dengizni qoplaganidek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "...maydilar"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "zarar yetkazmaydilar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ...may"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "buzmaydilar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun ...da"
+    },
+    {
+      "surface": "הר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "muqaddas togʻimda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "toʻlgan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "bilim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "suvlar ...idek"
+    },
+    {
+      "surface": "לים",
+      "gloss": "dengizni"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "qoplaganidek"
+    }
+  ],
+  "timestamp": "2026-08-26T04:12:20.726423711Z",
+  "model": "glm-5.3"
+}

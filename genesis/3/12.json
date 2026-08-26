@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va odam aytdi: „Mening yonimda qilib bergan — Sen bergan ayol — u mengu daraxtdan berdi va men yedim.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "Sen bergan"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yonimda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "u berdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daraxtdan"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "va men yedim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:25.917763503Z",
+  "model": "glm-5.3"
+}

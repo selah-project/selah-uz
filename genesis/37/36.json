@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va midyonliklar uni ⟨את⟩ Misrga, Parʼoning saroy amaldori, qassoblar boshligʻi Potifarga sotdi.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "va midyonliklar"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "sotdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (sotilgan)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrga"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "Potifarga"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "saroy amaldori"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parʼoning"
+    },
+    {
+      "surface": "שר",
+      "gloss": "boshligʻi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "qassoblar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:17.305186028Z",
+  "model": "glm-5.3"
+}

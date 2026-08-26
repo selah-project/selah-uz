@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Qurollarini tashuvchi Sha'ul o'lganini ko'rdi, u ham o'z qilichiga yiqildi va u bilan birga o'ldi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ko'rdi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "qurollarini tashuvchi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "qurollari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "...ni"
+    },
+    {
+      "surface": "מת",
+      "gloss": "o'lgan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sha'ul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "yiqildi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "o'z qilichi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o'ldi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan birga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:04:46.528046910Z",
+  "model": "glm-5.3"
+}

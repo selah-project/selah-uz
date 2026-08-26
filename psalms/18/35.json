@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Qoʻllarimni urushga oʻrgatadi, va misrandi qoʻllarimga egdiradi.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "oʻrgatadi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻllarimni"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "urushga"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "va egdiradi"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "yonavi"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "mis"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "qoʻllarimga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:53.759966851Z",
+  "model": "glm-5.3"
+}

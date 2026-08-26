@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Ular aytishdi: „Keling, ularni xalq boʻlishidan yoʻq qilaylik va Isroilning nomi endi eslanmasin.“",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "aytishdi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "keling"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "ularni yoʻq qilaylik"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "xalq boʻlishidan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … masin"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "eslanmasin"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:58.427622293Z",
+  "model": "glm-5.3"
+}

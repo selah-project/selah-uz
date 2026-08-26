@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Nimaiki Yahve xohladi — barchasini qildi osmonlarda va yerda, dengizlarda va barcha chuqurliklarda.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "barchasini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nimaiki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xohladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "osmonlarda"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "va-yerda"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dengizlarda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va-barcha"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "chuqurliklarda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:00.058658152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Yaqiningga qarshi yolgʻon guvohlik qilmaysan.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "javob bermaysan \/ guvohlik qilmaysan"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "yaqiningga qarshi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guvohlik"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:05.741573482Z",
+  "model": "glm-5.3"
+}

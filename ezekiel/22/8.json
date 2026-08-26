@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Muqaddasliklarimni mensizading va ⟨את⟩ shanba-kunlarimni nomunosib qilding.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Muqaddasliklarimni"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "mensizading"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shanba-kunlarimni"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "shanba-kunlarimni"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "nomunosib qilding"
+    }
+  ],
+  "timestamp": "2026-08-26T08:39:21.865992888Z",
+  "model": "glm-5.3"
+}

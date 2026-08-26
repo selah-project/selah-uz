@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Parohning yuragi qotib qoldi va ⟨את⟩ Isroil oʻgʻillarini yubormadi — Yahve Mohe qoʻli orqali soʻlaganidek.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "va qotib qoldi"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yuragi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohning"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yubormadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil oʻgʻillari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "...ganidek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻlagan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻli orqali"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mohe"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:57.026303843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va agar bir odam har qanday inson nefeshini urganda — oʻlim bilan oʻldirilsin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "va agar bir odam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "urganda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inson"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldirilsin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:21:32.970460075Z",
+  "model": "glm-5.3"
+}

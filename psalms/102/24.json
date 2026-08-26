@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "U yo'lda kuchimni bo'g'di, kunlarimni qisqartirdi.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "bo'g'di"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yo'lda"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "kuchimni"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "qisqartirdi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:07.866302604Z",
+  "model": "glm-5.3"
+}

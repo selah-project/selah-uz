@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Sen mening oʻtirishimni va turishimni bilasan, uzoqdan mening fikrimni anglaysan",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilasan"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "mening oʻtirishimni"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "va turishimni"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "anglaysan"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "mening fikrimni"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "uzoqdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:30.055444177Z",
+  "model": "glm-5.3"
+}

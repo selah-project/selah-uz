@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 113,
+  "translation": "Yuksikdir barcha xalqlar ustida Yahve, osmonlar ustida ⟨uning⟩ ulugʻvorligi.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "yuksikdir"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ulugʻvorligi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:35.044619850Z",
+  "model": "glm-5.3"
+}

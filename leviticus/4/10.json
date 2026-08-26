@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Shelamim qurbonining hoʻkizidan olib tashlangandek; va kohun ularni ollov qurboni moz ustida tutatadi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "sifatidek"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "olib tashlangandek"
+    },
+    {
+      "surface": "משור",
+      "gloss": "hoʻkizidan"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "qurboni"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "va tutatadi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "moz"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olov qurboni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:01.688979525Z",
+  "model": "glm-5.3"
+}

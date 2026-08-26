@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Yahve, Elohimingizdan qoʻrqing, ⟨את⟩ Unga xizmat qiling va Ungа yopishing, va Uning Ismi bilan qasam iching.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve, Elohimingizdan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimingiz"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qoʻrqing"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Uni"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "xizmat qiling"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "va Unga"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "yopishing"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "va Uning Ismi bilan"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "qasam iching"
+    }
+  ],
+  "timestamp": "2026-08-26T01:53:29.051497897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Qadrli ayol erining toji, sharmanda qiluvchi esa uning suyaklaridagi chirish kabi.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qadrli"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "toji"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "erining"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "lekin chirish kabi"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "uning suyaklaridagi"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "sharmanda qiluvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:42:57.722032575Z",
+  "model": "glm-5.3"
+}

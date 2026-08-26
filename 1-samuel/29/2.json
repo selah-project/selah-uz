@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 29:2",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va Pelishtim sarkodalari yuzlab va minglab o'tib kelishardi, Dovud va uning odamlari esa Axish bilan orqada o'tib kelishardi.",
+  "tokens": [
+    {
+      "surface": "וסרני",
+      "gloss": "Va sarkodalari"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "o'tib kelishardi"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "yuzlab"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "va minglab"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "va uning odamlari"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "o'tib kelishardi"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "orqada"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Axish"
+    }
+  ],
+  "timestamp": "2026-08-26T03:00:43.108538240Z",
+  "model": "glm-5.3"
+}

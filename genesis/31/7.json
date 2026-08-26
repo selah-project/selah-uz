@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Otanglar esa meni aldadi va haqimni oʻn marta almashtirdi, lekin Elohim uni menga yomonlik qilishga qoʻymadi.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "va otanglar"
+    },
+    {
+      "surface": "התל",
+      "gloss": "aldadi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "va almashtirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haqimni"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "haqimni"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "marta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin ... yoʻq"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "qoʻymadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "yomonlik qilishga"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:40.743881060Z",
+  "model": "glm-5.3"
+}

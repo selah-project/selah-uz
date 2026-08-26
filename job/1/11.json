@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Lekin endi qoʻlingni yubor va unga tegishli boʻlgan hamma narsaga teg — agar u yuzingga qarab seni barakalamasa!",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "lekin"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yubor"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻlingni"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "va teg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hamma narsaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga tegishli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...masa"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarab"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingga"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "seni barakalasa"
+    }
+  ],
+  "timestamp": "2026-08-26T06:53:38.109541617Z",
+  "model": "glm-5.3"
+}

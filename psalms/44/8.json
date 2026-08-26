@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Chunki Sen bizni dushmanlarimizdan qutqarding, va bizdan nafratlanganlarni xijolat qilding.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "bizni qutqarding"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "dushmanlarimizdan"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "va bizdan nafratlanganlarni"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "xijolat qilding"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:33.471942495Z",
+  "model": "glm-5.3"
+}

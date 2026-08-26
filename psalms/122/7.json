@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 122,
+  "translation": "Boʻlsin tinchlik sening istehkomlaringda, osoyishtalik sening saroylaringda!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Boʻlsin"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "sening istehkomlaringda"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "osoyishtalik"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "sening saroylaringda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:04.950297262Z",
+  "model": "glm-5.3"
+}

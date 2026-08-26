@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 17:20",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Dovud ertalab erta turdi, ⟨את⟩ qo'yni qo'riqchiga qoldirdi, yukini olib yo'lga chiqdi, Yishoy unga buyurganidek; ⟨u⟩ sahna atrofiga keldi, va qo'shin jang qatoriga chiqayotganda urushda shuvoq soldi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "ertalab erta turdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ertalab"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "qoldirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qo'yni"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "qo'yni"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "qo'riqchi"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "yukini olib"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "yo'lga chiqdi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…idek"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "unga buyurgan"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishoy"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "המעגלה",
+      "gloss": "sahna atrofiga"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "qo'shin"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "chiqayotganda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "jang qatori"
+    },
+    {
+      "surface": "והרעו",
+      "gloss": "shuvoq soldi"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "urushda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:28:55.438733446Z",
+  "model": "glm-5.3"
+}

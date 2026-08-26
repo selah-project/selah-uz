@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "⟨את⟩ kimga u bilim oʻrgatadi va ⟨את⟩ kimga xabarni tushuntiradi? Sutdan ajratilganlarni, koʻkraklardan uzilganlarnimi?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kimga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "oʻrgatadi"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "bilim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kimga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "tushuntiradi"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "xabarni"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "sutdan ajratilganlarni"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "sutdan"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "uzilganlarni"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "koʻkraklardan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:35:31.402818342Z",
+  "model": "glm-5.3"
+}

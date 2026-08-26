@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va uni moviy ipga ⟨את⟩ qoʻyasiz, va u peshona toʻnining ustida boʻladi — toʻnining yuz tomoniga qarshi boʻladi.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "qoʻyasiz"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni (oltin plastinka)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ip"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "moviy"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻladi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "toʻnining"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מול",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuz tomoniga"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "toʻnining"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:14.899960058Z",
+  "model": "glm-5.3"
+}

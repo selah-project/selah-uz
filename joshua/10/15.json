@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yehoshua qaytdi va butun Isroil u bilan ⟨mahlagohga⟩ — Gilgolga.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "⟨mahlagohga⟩"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgolga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:25:55.471751695Z",
+  "model": "glm-5.3"
+}

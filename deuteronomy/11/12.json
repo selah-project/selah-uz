@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Yer, ki Yahve Elohiming ⟨את⟩ uni doim soʻraydi; Yahve Elohimingning koʻzlari undadir — yil boshidan va yil oxirigacha.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "soʻraydi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni (yerni) — doim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "בה",
+      "gloss": "undadir"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "boshidan"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ... gacha"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "oxirigacha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    }
+  ],
+  "timestamp": "2026-08-26T01:51:57.859673741Z",
+  "model": "glm-5.3"
+}

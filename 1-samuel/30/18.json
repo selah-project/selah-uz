@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va Dovud Amalek olgan hamma narsani ⟨את⟩ qaytarib oldi, va oʻz ikki xotinini ⟨את⟩ Dovud qutqazdi.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "va qutqazdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamma narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "olgan"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ikki xotinini"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "xotinlari"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "qutqazdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    }
+  ],
+  "timestamp": "2026-08-26T03:00:44.774310018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Yahve uyining hovlilarida, oʻrtangda, ey Yerushalaim. Hallo-Yah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "hovlilarida"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyining"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "oʻrtangda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Hallo („maqtanglar“)"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:25.722439387Z",
+  "model": "glm-5.3"
+}

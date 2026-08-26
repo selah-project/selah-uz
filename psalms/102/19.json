@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Bu yoziladi keladigan avlod uchun, va yaratiladigan xalq Yahni madh etadi.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "yoziladi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "avlod uchun"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "keladigan (soʻnggi)"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "va xalq"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "yaratiladigan"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "madh etadi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:04.558080446Z",
+  "model": "glm-5.3"
+}

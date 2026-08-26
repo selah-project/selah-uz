@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Yahve sizlarga barcha oʻz qullarini — paygʻambarlarni — ⟨את⟩ yubordi, erta turib yubordi, ammo siz eshitmadingiz va quloqlaringizni ⟨את⟩ eshitishga qilmadingiz.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Va yubordi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha oʻz qullarini — paygʻambarlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "oʻz qullarini"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "paygʻambarlarni"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "erta turib"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "eshitmadingiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "qilmadingiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quloqlaringizni"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "quloqlaringizni"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "eshitishga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:51:41.124864043Z",
+  "model": "glm-5.3"
+}

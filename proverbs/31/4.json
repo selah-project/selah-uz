@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Shohlar uchun emas, ey Lemuel, shohlar uchun emas — may ichmoq; va maslahatchilar uchun — mast qiluvchi ichimlikni ⟨orzu qilmoq⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "emas"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "shohlar uchun"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ey Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "emas"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "shohlar uchun"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ichmoq"
+    },
+    {
+      "surface": "יין",
+      "gloss": "may"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "va maslahatchilar uchun"
+    },
+    {
+      "surface": "או",
+      "gloss": "orzu qilmoq"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mast qiluvchi ichimlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:53:08.790982892Z",
+  "model": "glm-5.3"
+}

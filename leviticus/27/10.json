@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Uni almashtirmaydi va uni almashmaydi — yaxshini yomon bilan yoki yomonni yaxshi bilan; va agar chinlov bilan hayvonni hayvon bilan almashtirsa, u va uning almashinvi muqaddas boʻladi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "almashtirmaydi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "almashmaydi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yaxshi \/ uni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshini"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "yomon bilan"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomonni"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "yaxshi bilan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "המר",
+      "gloss": "chinlov bilan"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "almashtirsa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayvonni"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "hayvon bilan"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻladi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "va uning almashinvi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    }
+  ],
+  "timestamp": "2026-08-26T01:25:16.796368632Z",
+  "model": "glm-5.3"
+}

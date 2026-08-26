@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Keldi takabburlik — va keldi xorlik, va ⟨את⟩ kamtarlarga — donishmandlik.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "takabburlik"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "xorlik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kamtarlarga"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "kamtarlar"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "donishmandlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:42:45.995800112Z",
+  "model": "glm-5.3"
+}

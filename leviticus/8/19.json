@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va ⟨uni⟩ soʻydi, va Moşe ⟨את⟩ qonni mehrob atrofiga sepdī.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "soʻydi"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "sepdī"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moşe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qonni"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qonni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mehrob"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofiga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:48.727875385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Moshe va Aharon ⟨את⟩ barcha shu mojizolarni Farogʻ oldida qildilar, va Yahve Farogʻning yuragini qattiqlashtirdi va u Isroil oʻgʻillarini ⟨את⟩ oʻz yeridan haydab yubormadi.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Va Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "va Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha shu mojizolarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "mojizolar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farogʻ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "va qattiqlashtirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Farogʻning yuragini"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurak"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farogʻning"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil oʻgʻillarini"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "oʻz yeridan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:50.544670956Z",
+  "model": "glm-5.3"
+}

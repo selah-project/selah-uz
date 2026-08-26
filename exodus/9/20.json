@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Firʻavn qullaridan Yahve soʻzidan qoʻrqqanni ⟨את⟩ qullarini va ⟨את⟩ mol-qonini uylarga olib qochdi.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "qoʻrqqan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve soʻzini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "qullaridan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Firʻavn"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "olib qochdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarini"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "mol-qonini"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "mol-qoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "uylar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:29.629246174Z",
+  "model": "glm-5.3"
+}

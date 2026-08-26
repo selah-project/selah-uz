@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "⟨את⟩ oy va yulduzlarni tunda hukmronlik qilishlari uchun, chunki abadiygacha ⟨uning⟩ xesedi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oy"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "oy"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "va yulduzlarni"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "hukmronlik qilishlari uchun"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiygacha"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨uning⟩ xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:29.831457224Z",
+  "model": "glm-5.3"
+}

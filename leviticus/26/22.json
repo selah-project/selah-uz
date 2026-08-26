@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va sizlarga ⟨את⟩ dalaning yovvoyi hayvonini yuborurman, va u sizlarni ⟨את⟩ bola-bolasiz qoldiṛur, va ⟨את⟩ mol-qoningizni kesib tashlatur, va sizlarni ⟨את⟩ ozaytur — va yoʻllaringiz vurulib boʻsh qolgʻur.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "va yuborurman"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalaning yovvoyi hayvoni"
+    },
+    {
+      "surface": "חית",
+      "gloss": "hayvoni"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dalaning"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "va bola-bolasiz qoldiṛur"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "va kesib tashlatur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mol-qoningizni"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "mol-qoningizni"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "va ozaytur"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "va vurulib boʻsh qolgʻur"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "yoʻllaringiz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:24:07.543725268Z",
+  "model": "glm-5.3"
+}

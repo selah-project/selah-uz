@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Oʻtib ketsam-chi va ⟨את⟩ yaxshi erni koʻrsam — u Iordan narigi tomonida, bu yaxshi togʻni va Livanonni.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "oʻtib ketsam"
+    },
+    {
+      "surface": "נא",
+      "gloss": "chi"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "va koʻrsam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yaxshi erni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "er"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "narigi tomonida"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "va Livanon"
+    }
+  ],
+  "timestamp": "2026-08-26T01:48:40.718532553Z",
+  "model": "glm-5.3"
+}

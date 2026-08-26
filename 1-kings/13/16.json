@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va u aytdi: ⟨את⟩ bilan qaytishga va ⟨את⟩ bilan kirishga qodir emasman, va bu joyda non yemayman va ⟨את⟩ bilan suv ichmayman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "qodir emasman"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "qaytishga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "sen ⟨את⟩ bilan"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "va kirishga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "sen ⟨את⟩ bilan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yemayman"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ichmayman"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "sen ⟨את⟩ bilan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "joyda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T03:36:16.676667765Z",
+  "model": "glm-5.3"
+}

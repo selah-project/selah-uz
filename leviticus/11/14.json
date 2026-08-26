@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "va ⟨את⟩ da'a qushini va ⟨את⟩ lochinni — o'z turiga",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "da'a qushini"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "da'a qushini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "lochinni"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "lochinni"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "o'z turiga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:56.335969041Z",
+  "model": "glm-5.3"
+}

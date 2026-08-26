@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Yehoshafat esa Isroil malikasiga dedi: Iltimos, bugun Yahve soʻzini ⟨את⟩ soʻrab koʻr.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "esa dedi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "malikasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "soʻrab koʻr"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T03:47:03.527029206Z",
+  "model": "glm-5.3"
+}

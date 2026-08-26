@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va ⟨את⟩ dasturxonni keltirasan va ⟨את⟩ uning tartibini joylashtirasan, va ⟨את⟩ shamdonni keltirasan va ⟨את⟩ uning chiroqlarini yoqasan.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "va keltirasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dasturxon"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "dasturxon"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "va joylashtirasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning tartibi"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "uning tartibi"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "va keltirasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shamdon"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "shamdon"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "va yoqasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning chiroqlari"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "uning chiroqlari"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:06.453699806Z",
+  "model": "glm-5.3"
+}

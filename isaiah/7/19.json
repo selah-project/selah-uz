@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 7:19",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va ular kelur va barchasi choʻl vodiylarda, va qoyalar yoriqlarida, va butun toʻqay butalarda, va butun shohli joylarda qoʻnur.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "Va ular kelur"
+    },
+    {
+      "surface": "ונחו",
+      "gloss": "va qoʻnur"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "בנחלי",
+      "gloss": "vodiylarda"
+    },
+    {
+      "surface": "הבתות",
+      "gloss": "choʻl"
+    },
+    {
+      "surface": "ובנקיקי",
+      "gloss": "va yoriqlarida"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "qoyalar"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va butun … da"
+    },
+    {
+      "surface": "הנעצוצים",
+      "gloss": "toʻqay butalar"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va butun … da"
+    },
+    {
+      "surface": "הנהללים",
+      "gloss": "shohli joylar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:09:34.093764449Z",
+  "model": "glm-5.3"
+}

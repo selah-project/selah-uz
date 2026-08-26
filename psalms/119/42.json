@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Va men soʻz bilan javob beraman meni masxara qilganga, chunki men Sening soʻzingga ishondim.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "va men javob beraman"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "meni masxara qilganga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "men ishondim"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "Sening soʻzingga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:44.869922863Z",
+  "model": "glm-5.3"
+}

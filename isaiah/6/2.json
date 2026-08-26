@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Seraflar Uning ustida turar edilar: har birida oltita qanot, oltita qanot; ikkitasi bilan yuzini yopar, ikkitasi bilan oyoqlarini yopar va ikkitasi bilan uchar edi.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "Seraflar"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "turar edilar"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Uning"
+    },
+    {
+      "surface": "שש",
+      "gloss": "oltita"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "qanot"
+    },
+    {
+      "surface": "שש",
+      "gloss": "oltita"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "qanot"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "har birida"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "ikkitasi bilan"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "yopar"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "va ikkitasi bilan"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "yopar"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "oyoqlarini"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "va ikkitasi bilan"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "uchar edi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:09:55.750669356Z",
+  "model": "glm-5.3"
+}

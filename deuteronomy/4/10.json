@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 4:10",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Kunni — kinoyat: sen Yahve, Elohiming oldida Xorevda turgan kunning — yodda tut, Yahve menga aytib: Menga xalqni yigʻgin ⟨את⟩, va Men ularga ⟨את⟩ soʻzlarimni eshittiraman, ular — kinoyat: butun kunlar davomida — yer ustida tirik yashaganlaricha — Meni ulugʻlab qoʻrqishni oʻrganadilar, va ⟨את⟩ oʻgʻillarini oʻrgatadilar",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Kunni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kinoyat: — kunning"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "turgan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Xorevda"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "aytib"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "yigʻgin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "ואשמעם",
+      "gloss": "eshittiraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlarimni"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarimni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— (oʻrganadilar)"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "oʻrganadilar"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "qoʻrqishni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Meni",
+      "marks": "Meni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kunlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— (yashaganlaricha)"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular — bu erda: ular"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tirik"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻgʻillarini"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "oʻrgatadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:50:20.044957832Z",
+  "model": "glm-5.3"
+}

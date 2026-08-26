@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Men dalangizda oʻt beraman hayvonlaringga, va sen yeysan va toʻyasan.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Va Men beraman"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "dalangda"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "hayvonlaringga"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "va yeysan"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "va toʻyasan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:24:10.443074548Z",
+  "model": "glm-5.3"
+}

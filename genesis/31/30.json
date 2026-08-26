@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va endi — ketding, chunki otangizning uyiga chanqab chanqading; nega ⟨את⟩ xudolarimni oʻgʻirlading?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ketish"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ketding"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "chanqab"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "chanqading"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otangizning"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "oʻgʻirlading"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xudolarimni"
+    },
+    {
+      "surface": "אלהיך-null",
+      "gloss": "",
+      "notes": null
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:49.534612056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va u aytdi: uning ismini Lo-Ammi deb chaqir, chunki sizlar mening xalqim emassiz va men sizlar uchun boʻlmayman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u aytdi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chaqir"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning ismini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi („xalqim emas“)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "עמי",
+      "gloss": " mening xalqim"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "va men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mas"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "boʻlaman"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T05:33:09.733458574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va kim Yahve soʻziga qalbini qoʻymagan edi, u ⟨את⟩ qullarini va ⟨את⟩ mol-mulkini dalada qoldirdi.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "va kim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...magan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "qoʻymagan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "qoldirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarini"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "mol-mulkini"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "mol-mulkini"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dalada"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:46.729471193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 7:4",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va ⟨את⟩ ikki buyrakni, va ⟨את⟩ ustlaridagi yogʻni — bel ustida turganini, va ⟨את⟩ jigar ustidagi oʻsimtani — buyraklar bilan olib tashlaydi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ikki buyrakni"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buyrakni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yogʻni"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yogʻni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "ustlarida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "belning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻsimtani"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "oʻsimtani"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidagi"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "jigarning"
+    },
+    {
+      "surface": "על",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "buyraklar"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "olib tashlaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:11:13.598111017Z",
+  "model": "glm-5.3"
+}

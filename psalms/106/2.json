@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Kim gapirib beradi Yahvening qudrat amallarini? Kim eshittiradi Uning barcha madhini?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "gapirib beradi"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "qudrat amallarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "eshittiradi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "madhini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:10.347019697Z",
+  "model": "glm-5.3"
+}

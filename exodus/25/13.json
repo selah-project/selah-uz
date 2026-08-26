@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va sen shitim yogʻochidan yoʻyalar yasaysan va ularni ⟨את⟩ oltin bilan qoplaysan.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "yasaysan"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "yoʻyalar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "qoplaysan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni (oltin bilan qoplanadigan yoʻyalar)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:02.557132599Z",
+  "model": "glm-5.3"
+}

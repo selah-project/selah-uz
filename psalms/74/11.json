@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Nega qoʻlingni, hatto oʻng qoʻlingni bagʻring ichidan orqaga tortasan? ⟨Tugat⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nega"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "orqaga tortasan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻlingni"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "hatto oʻng qoʻlingni"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ichidan"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "bagʻring"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "⟨Tugat⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:48.278594057Z",
+  "model": "glm-5.3"
+}

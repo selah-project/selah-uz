@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 55:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Ki birga maslahatni shirin qilganmiz, Elohimning uyida olomon bilan yurganmiz.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birga"
+    },
+    {
+      "surface": "נמתיק",
+      "gloss": "shirin qilganmiz"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "maslahatni"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "yurganmiz"
+    },
+    {
+      "surface": "ברגש",
+      "gloss": "olomon bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:41.019657834Z",
+  "model": "glm-5.3"
+}

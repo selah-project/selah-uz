@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 150,
+  "translation": "Maqtanglar Uni doira va raqsWith, maqtanglar Uni torli cholgʻular va ugavda!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "maqtanglar Uni"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "doirada"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "va raqsWith"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "maqtanglar Uni"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "torli cholgʻularda"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "va ugavda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:26.878492072Z",
+  "model": "glm-5.3"
+}

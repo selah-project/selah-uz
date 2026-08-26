@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Iboaddan Dovudning duosi. Tingla, Yahve, adolatga; qulogʻ solriga shovqinimga, tashqari duosiga — aldamchi lablarsiz.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "duo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "tingla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolatga"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "qulogʻ sol"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "shovqinimga"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tashqari — eshit"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duosiga"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "—siz"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lablar"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "aldamchi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:56.647345885Z",
+  "model": "glm-5.3"
+}

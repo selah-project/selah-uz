@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va oʻziga yaqin, erga tegmagan bokiza opa-singlisi uchun — u uchun poklanmagan boʻlsin.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "va opa-singlisi uchun"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "bokiza"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "yaqin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "erga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "u uchun"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "poklanmagan boʻlsin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:18.473758852Z",
+  "model": "glm-5.3"
+}

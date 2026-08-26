@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "va ⟨את⟩ matoh liboslarni, va ⟨את⟩ Aharon kohenga muqaddas liboslarni, va ⟨את⟩ uning oʻgʻillarining liboslarini — muqaddas xizmat qilishlari uchun",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "matoh liboslar"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "liboslar"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "mato (toʻqilgan)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "muqaddas liboslar"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "liboslar"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon uchun"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning oʻgʻillarining liboslari"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "liboslar"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uning oʻgʻillari"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kohenlik qilish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:00.398176727Z",
+  "model": "glm-5.3"
+}

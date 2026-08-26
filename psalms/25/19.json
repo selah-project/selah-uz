@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Dushmanlarimni koʻr, chunki koʻpaydilar, va zoʻravonlik nafrati bilan yigʻindilar meni.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "koʻr"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dushmanlarimni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "koʻpaydilar"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "va nafrati"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zoʻravonlik"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "yigʻindilar meni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:25.811175225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Masalga qulogʻimni egaman, arfa ustida topishirimni ochaman.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "egaman"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "masalga"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "qulogʻimni"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ochaman"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "arfa ustida"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "topishirimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:54.498922477Z",
+  "model": "glm-5.3"
+}

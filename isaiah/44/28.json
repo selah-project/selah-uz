@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 44:28",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Kirushga: „Choʻponim, butun istagimni bajaradi“, Yerushalaimga: „Qurilursan“, va maʼbadga: „Asosin qoʻyaman“ degan Zot.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "degan Zot"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Kirushga"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "choʻponim"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "istagimni"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "bajaradi"
+    },
+    {
+      "surface": "ולאמר",
+      "gloss": "va ... aytib"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalaimga"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "qurilursan"
+    },
+    {
+      "surface": "והיכל",
+      "gloss": "va maʼbadga"
+    },
+    {
+      "surface": "תוסד",
+      "gloss": "asosin qoʻyaman"
+    }
+  ],
+  "timestamp": "2026-08-26T04:27:57.508596831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Shunday qilinadi bir hoʻkiz uchun, yoki bir qoʻchoq uchun, yoki qoʻzilardan bir qoʻzi uchun, yoki echkilardan",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qilinadi"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "hoʻkiz uchun"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "qoʻchoq uchun"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "qoʻzi uchun"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "qoʻzilardan"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "echkilardan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:34:16.753932238Z",
+  "model": "glm-5.3"
+}

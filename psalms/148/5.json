@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 148,
+  "translation": "Yahve nomini maqtasinlar, chunki ⟨u⟩ buyurdi va ular yaratildi.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "maqtasinlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve nomini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨u⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdi"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "va yaratildi (ular)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:21.021409840Z",
+  "model": "glm-5.3"
+}

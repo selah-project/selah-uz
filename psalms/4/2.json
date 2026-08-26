@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Chaqirganimda menga javob ber, meni solihligimning Elohi, torliqda Sen menga kenglik berding, menga marhamat qil va duomni eshit.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "chaqirganimda"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "menga javob ber"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohi"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "meni solihligimning"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "torliqda"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "kenglik berding"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "menga marhamat qil"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "va eshit"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duomni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:27.585431877Z",
+  "model": "glm-5.3"
+}

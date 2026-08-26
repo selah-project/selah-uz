@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Asshur shohi unga quloq soldi; Asshur shohi Damashqqa qarshi koʻtarildi, uni qoʻlga oldi, aholisini Kirga surgun qildi va Retsinni oʻldirdi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "va quloq soldi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asshur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "va koʻtarildi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asshur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damashqqa"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "uni qoʻlga oldi"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "va surgun qildi"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kirga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsinni"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsinni"
+    },
+    {
+      "surface": "המית",
+      "gloss": "oʻldirdi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:58:20.663778408Z",
+  "model": "glm-5.3"
+}

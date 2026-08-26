@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Shoulning xizmatkorlari unga aytishdi: «Mana, iltimos, Elohimning yovuz ruhi seni qo'rqitmoqda».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "va ... aytishdi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmatkorlari"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoulning"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yovuz"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "seni qo'rqitmoqda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:28:49.689120597Z",
+  "model": "glm-5.3"
+}

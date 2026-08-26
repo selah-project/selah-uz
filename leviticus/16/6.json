@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Aharon yaqinlashtiradi ⟨את⟩ oʻzining gunoh qurbonligi buqasini, va uning uchun va uning uy-i ahli uchun kafolat qiladi.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "va yaqinlashtiradi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunoh qurbonligi buqasi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "buqa"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "gunoh qurbonligi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uning uchun"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "va kafolat qiladi"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "uning uchun"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "va ... uchun"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uning uy-i ahli"
+    }
+  ],
+  "timestamp": "2026-08-26T01:18:18.116223250Z",
+  "model": "glm-5.3"
+}

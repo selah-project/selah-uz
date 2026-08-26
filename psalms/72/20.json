@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Tugadi Dovudning, Yishay oʻgʻlining duolari.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "tugadi"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "duolori"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishay"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:11.205985145Z",
+  "model": "glm-5.3"
+}

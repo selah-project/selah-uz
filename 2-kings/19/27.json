@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Oʻtirishingni, chiqishingni va kirishingni bilaman, va ⟨את⟩ Mening oldimga qarshi gʻazablanganingni.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "oʻtirishingni"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "chiqishingni"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "kirishingni"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mening oldimga qarshi gʻazablanganingni"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "gʻazablanganingni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Mening oldimga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:33:40.493735951Z",
+  "model": "glm-5.3"
+}

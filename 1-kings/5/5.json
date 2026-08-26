@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Yahudah va Yisroel xavfsiz yashadi, har bir odam oʻz tok butasi ostida va oʻz anjir daraxti ostida, Dandan Ber-Shevagacha, Shelomoning barcha kunlarida.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudah"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "va Yisroel"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "xavfsiz"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har bir odam"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "oʻz tok butasi"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "va ostida"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "oʻz anjir daraxti"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Dandan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Ber"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlarida"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:30:10.804716583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va ⟨את⟩ Bet-Tsur, ⟨את⟩ Sokoni va ⟨את⟩ Adullamni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Tsur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sokoni"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Sokoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Adullamni"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullamni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:07:48.177624898Z",
+  "model": "glm-5.3"
+}

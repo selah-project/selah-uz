@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va uning qizi Sheera — u ⟨את⟩ quyi Bayt-Xoronni va ⟨את⟩ yuqori ⟨ani⟩ni va ⟨את⟩ Uzzen-Sheerani qurdi.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "Va uning qizi"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "va u ... qurdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "quyi Bayt-Xoronni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bayt"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Xoron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "quyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yuqorini"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "yuqori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Uzzen-Sheerani"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Uzzen"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Sheera"
+    }
+  ],
+  "timestamp": "2026-08-26T07:56:34.506777005Z",
+  "model": "glm-5.3"
+}

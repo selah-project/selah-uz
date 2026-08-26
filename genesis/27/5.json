@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va Rivka eshitdi — Yitsxak oʻgʻli Esav bilan gapirayotgan ekan; va Esav dalaga ketdi ov ovlash uchun, ⟨uni⟩ olib kelish uchun.",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "Va Rivka"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "gapirayotgan"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va ketdi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dalaga"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "ovlash uchun"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "ov"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "olib kelish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:14.851086409Z",
+  "model": "glm-5.3"
+}

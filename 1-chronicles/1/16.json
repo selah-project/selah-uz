@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "va ⟨את⟩ arvadiylikni, va ⟨את⟩ semariylikni, va ⟨את⟩ xamatiylikni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "arvadiylikni"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "arvadiylikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "semariylikni"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "semariylikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "xamatiylikni"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "xamatiylikni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:05.821034992Z",
+  "model": "glm-5.3"
+}

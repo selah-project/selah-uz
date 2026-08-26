@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Kenaan ⟨את⟩ Tsidonni, oʻzining toʻngʻichini, va ⟨את⟩ Xitni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "va Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidonni"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidonni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "oʻzining toʻngʻichi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Xitni"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Xitni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:07.370340527Z",
+  "model": "glm-5.3"
+}

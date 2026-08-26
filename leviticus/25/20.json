@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va agar desangizlar: nima yeymiz yettinchi yilda? Mana, sepamaymiz va ⟨את⟩ mahsulotimizni yigʻmaymiz —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Va agar"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "desangizlar"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yeymiz"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "yilda"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "yettinchi"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "sepamaymiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "yigʻmaymiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahsulotimizni"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "mahsulotimizni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:21:37.998448997Z",
+  "model": "glm-5.3"
+}

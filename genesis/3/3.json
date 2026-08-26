@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Bogʻ oʻrtasidagi daraxt mevasidan esa Elohim: „Undan yemanglar va unga tegmanglar, balki oʻlasizlar“ degan.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "mevasidan esa"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bogʻ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "degan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yemanglar"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "tegmanglar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "balki"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "oʻlasizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:17.898258018Z",
+  "model": "glm-5.3"
+}

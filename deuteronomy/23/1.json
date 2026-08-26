@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "He shall not take a man ⟨את⟩ his father's wife, and he shall not uncover the skirt of his father.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "shall not"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "take"
+    },
+    {
+      "surface": "איש",
+      "gloss": "a man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "his father's wife"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "the wife"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "of his father"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and shall not"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "uncover"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "the skirt"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "of his father"
+    }
+  ],
+  "timestamp": "2026-08-26T02:01:36.091831010Z",
+  "model": "glm-5.3"
+}

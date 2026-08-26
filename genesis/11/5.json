@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Yahve turib pastga tushdi — ⟨את⟩ shaharni va ⟨את⟩ minorani koʻrish uchun, adam bolalari qurganlarni.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "koʻrish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaharni"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shaharni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "minorani"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "minorani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "qurgan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bolalari"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:28.523147706Z",
+  "model": "glm-5.3"
+}

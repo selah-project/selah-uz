@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va Elohim otangizning ⟨את⟩ mol-mulkini olib berdi va menga berdi.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "olib berdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mol-mulkini"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mol-mulkini"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "otangizning"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:16.669323585Z",
+  "model": "glm-5.3"
+}

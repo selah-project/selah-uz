@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 2:40",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Shimey turdi, eshagini ⟨את⟩ yugʻordi va Gath — Akish huzuriga, oʻz bandalarini ⟨את⟩ izlash uchun bordi. Shimey ketdi va bandalarini ⟨את⟩ Gatdan olib keldi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimey"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "yugʻordi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eshagini"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "eshagini"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va bordi"
+    },
+    {
+      "surface": "גתה",
+      "gloss": "Gath"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "izlash uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz bandalarini"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "oʻz bandalarini"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va ketdi"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimey"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "olib keldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandalarini"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bandalarini"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "Gatdan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:26:01.173396728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 30:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va Lea dedi: Elohim menga ⟨את⟩ yaxshi sovgʻa berdi; bu safar erim men bilan yashaydi, chunki men unga olti oʻgʻil tugʻdim; va u ⟨את⟩ uning ismini Zevulun deb chaqirdi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Va … dedi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "זבדני",
+      "gloss": "berdi menga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "menga"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "sovgʻa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "bu safar"
+    },
+    {
+      "surface": "יזבלני",
+      "gloss": "erim men bilan yashaydi"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "erim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "men tugʻdim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "olti"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "va … chaqirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning ismini"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning ismini"
+    },
+    {
+      "surface": "זבלון",
+      "gloss": "Zevulun"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:00.834044668Z",
+  "model": "glm-5.3"
+}

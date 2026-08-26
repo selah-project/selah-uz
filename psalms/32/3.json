@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Chunki jim turdim — suyaklarim eskirdi, butun kun boʻyi shiqillaganimda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "jim turdim"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "eskirdi"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "suyaklarim"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "shiqillaganimda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:50.059792607Z",
+  "model": "glm-5.3"
+}

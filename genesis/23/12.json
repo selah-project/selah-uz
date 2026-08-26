@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va tavozе qildi Avraham yurt xalqi oldida.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "va tavozе qildi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yurt"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:33.054942877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "«Gershon oʻgʻillarining ⟨את⟩ boshini sen ham koʻtar — ularni otalar uyicha, oilalaricha sanab chiq.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "koʻtar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosh"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "bosh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "otalar uyicha"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "otari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "oilalaricha"
+    }
+  ],
+  "timestamp": "2026-08-26T01:26:50.217365436Z",
+  "model": "glm-5.3"
+}

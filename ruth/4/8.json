@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va goel Boazga dedi: «Oʻzingiz uchun sotib olingiz.» Va u etigini yechdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "goel"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Boazga"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "sotib olingiz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzingiz uchun"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "va yechdi"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "etigini"
+    }
+  ],
+  "timestamp": "2026-08-26T07:14:33.415395205Z",
+  "model": "glm-5.3"
+}

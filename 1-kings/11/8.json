@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va barcha begona xotinlari uchun ham shunday qildi — ular oʻz xudolariga tutatqich tutatib va qurbontiliklar keltirib.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Va shunday"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hamma … uchun"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "oʻz xotinlari"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "begona"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "tutatqich tutatib"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "va qurbontiliklar keltirib"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "oʻz xudolariga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:36:17.234708826Z",
+  "model": "glm-5.3"
+}

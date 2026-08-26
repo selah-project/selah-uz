@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Toza bilan toza boʻlasan, va qiyshiq bilan qiyishib olasan.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "toza"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "toza boʻlasan"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "va bilan"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "qiyshiq"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "qiyishib olasan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:56.712984077Z",
+  "model": "glm-5.3"
+}

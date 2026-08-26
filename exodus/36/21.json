@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Oʻn tanna ⟨⟨the⟩⟩ uzunligi har bir taxtaning, bitta tanna va yarim tanna ⟨⟨the⟩⟩ kengligi har bir taxtaning.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "tanna"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uzunligi"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "taxtaning"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "va tanna"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "va yarim"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "tanna"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "kengligi"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "taxtaning"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "har bir"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:03.846761100Z",
+  "model": "glm-5.3"
+}

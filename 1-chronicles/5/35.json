@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Aximaas ⟨את⟩ Azarayani dunyoga keltirdi, Azaraya esa ⟨את⟩ Yoxanonni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Aximaas"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azaraya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azaraya"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "Azaraya esa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoxanon"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yoxanon"
+    }
+  ],
+  "timestamp": "2026-08-26T07:55:05.422702718Z",
+  "model": "glm-5.3"
+}

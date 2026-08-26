@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Men ⟨deyman⟩: ⟨את⟩ ogʻizni — qirolning ⟨ogʻizini⟩ saqla, va Elohim qasamining sababiga ⟨koʻra⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻizni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qirolning"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "saqla"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... sababiga"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "sababi"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "qasamining"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:50.306106091Z",
+  "model": "glm-5.3"
+}

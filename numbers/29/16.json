@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 29:16",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va bitta takadan — gunoh qurbonligi; doimiy yoqilgʻa qurbonligidan, uning un qurbonligidan va ichimlik qurbonligidan boshqa.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "va taka"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "echki"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "gunoh qurbonligi"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "yoqilgʻa qurbonligidan"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "doimiy"
+    },
+    {
+      "surface": "מנחתה",
+      "gloss": "uning un qurbonligidan"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "va ichimlik qurbonligidan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:42:41.388953133Z",
+  "model": "glm-5.3"
+}

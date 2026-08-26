@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Ular yasovchilari ularga oʻxshaydilar — ularga ishonganlarning barchasi.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "ularga oʻxshab"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "boʻladilar"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "ularning yasovchilari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimki"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ishonadi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:20.337546553Z",
+  "model": "glm-5.3"
+}

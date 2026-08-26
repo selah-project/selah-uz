@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 89:26",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Va qoʻlini dengizga qoʻyaman, va oʻng qoʻlini daryolarga.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Va qoʻyaman"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dengizga"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "va daryolarga"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "oʻng qoʻlini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:04.508128837Z",
+  "model": "glm-5.3"
+}

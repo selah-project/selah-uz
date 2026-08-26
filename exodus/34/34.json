@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 34:34",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va Moshe Yahve huzuriga gapirish uchun kirdi — ⟨את⟩ U bilan — ⟨את⟩ pardani chiqib ketguncha yechib tashlardi; va chiqdi va Isroil oʻgʻillari bilan gapirdi — ⟨את⟩ narsani, ki buyurilgan edi.",
+  "tokens": [
+    {
+      "surface": "ובבא",
+      "gloss": "va kirganda"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "gapirish uchun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ U bilan"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "yechib tashlardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pardani"
+    },
+    {
+      "surface": "המסוה",
+      "gloss": "pardani"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guncha"
+    },
+    {
+      "surface": "צאתו",
+      "gloss": "chiqishi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "va chiqdi"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narsani, ki buyurilgan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "buyurilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:04.631137998Z",
+  "model": "glm-5.3"
+}

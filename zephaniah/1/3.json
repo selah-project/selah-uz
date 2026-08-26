@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Qiraman ⟨את⟩ odamni va ⟨את⟩ hayvonni; qiraman osmon qushlarini va dengiz baliqlarini, va toʻsiqlarni ⟨את⟩ yovuzlar bilan; va kesib tashlayman ⟨את⟩ odamni yer yuzi ustidan — Yahvening orakli.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Qiraman"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "va hayvonni"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "qiraman"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "qushlarini"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonning"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "va baliqlarini"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengizning"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "va toʻsiqlarni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yovuzlar"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "yovuzlar"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "va kesib tashlayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odam"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yer"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "orakli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    }
+  ],
+  "timestamp": "2026-08-26T05:49:47.216076368Z",
+  "model": "glm-5.3"
+}

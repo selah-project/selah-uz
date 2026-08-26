@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Butun Isroil jamoati uni ⟨את⟩ bajaradi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamoati"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bajaradi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "uni ⟨את⟩",
+      "marks": "uni — Pesaxni bajarish"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:04.637833132Z",
+  "model": "glm-5.3"
+}

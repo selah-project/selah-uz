@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Soʻzlarimni eshitgin, ey Yahve, pichirlagimni anglagin.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "soʻzlarimni"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "eshitgin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "anglagin"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "pichirlagimni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:46.328142226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 2:3",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yerixo qiroli Raxavga yubordi, deb: «Senga kelgan va uyingga kirgan odamlarni chiqarib ber, chunki butun ⟨את⟩ yerni qazib tekshirish uchun kelibdilar».",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yerixo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Raxavga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "הוציאי",
+      "gloss": "chiqarib ber"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "odamlarni"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "kelgan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "va"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kirgan"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "uyingga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "qazib tekshirish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun yerni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kelibdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T02:10:42.865082901Z",
+  "model": "glm-5.3"
+}

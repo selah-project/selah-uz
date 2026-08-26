@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 21:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va u Yahve koʻzlarida yomonlikni qildi, otasi Menashshe qilgani kabi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzlarida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:01:51.040952142Z",
+  "model": "glm-5.3"
+}

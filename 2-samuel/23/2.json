@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Yahvening Ruhi men orqali gapirdi, va Uning soʻzi tilim ustida.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Ruhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "men orqali"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "va Uning soʻzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "tilimning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:22:40.683793230Z",
+  "model": "glm-5.3"
+}

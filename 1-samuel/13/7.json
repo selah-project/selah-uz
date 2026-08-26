@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va ibroniylar Iordanni kesib oʻtdilar — Gad va Gilead yeriga; Shaul esa hali Gilgalda edi, va butun xalq undan keyin qoʻrqib titrardi.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Va ibroniylar"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "kesib oʻtdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iordan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordanni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "va Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "va Shaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "hali"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Gilgalda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "qoʻrqib titrardi"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "undan keyin"
+    }
+  ],
+  "timestamp": "2026-08-26T02:46:53.139036946Z",
+  "model": "glm-5.3"
+}

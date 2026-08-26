@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Misr podshohi ibroniy chilla ayollarga aytdi — birining ismi Shifra, ikkinchisining ismi Puva.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va... aytdi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "chilla ayollarga"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "ibroniy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ismi"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "birining"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "va... ismi"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikkinchisining"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Puva"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:54.064128387Z",
+  "model": "glm-5.3"
+}

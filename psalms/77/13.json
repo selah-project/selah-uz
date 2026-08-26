@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Va Sening barcha amallaring haqida mulohaza yuritaman, va Sening gʻaroyib ishlaring haqida oʻylab gapiraman.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "Va mulohaza yuritaman"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha … haqida"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "amallaring"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "va gʻaroyib ishlaring haqida"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "oʻylab gapiraman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:22.146817355Z",
+  "model": "glm-5.3"
+}

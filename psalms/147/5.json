@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "Buyukdir bizning Adonayimiz va juda kuchli; uning tushunishiga ⟨chegara⟩ yoʻq.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "buyukdir"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "bizning Adonayimiz"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "va juda (kuchli)"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kuch"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "uning tushunishiga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨chegara⟩ (hisob)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:35.812579306Z",
+  "model": "glm-5.3"
+}

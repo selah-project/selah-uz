@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 4:9",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Dovud Rekov va Banoga — ukasi, Rimmon oʻgʻillari, berotliklarga javob berdi va ularga aytdi: Yahve tirikdir, kimki ⟨את⟩ nefeshimni barcha tanglikdan qutqardi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "javob berdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rekov"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Rekov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Bano"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Bano"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ukasi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "הבארתי",
+      "gloss": "berotlik"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tirikdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimki"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "qutqardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nefeshim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshimni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tanglikdan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:03:19.336240586Z",
+  "model": "glm-5.3"
+}

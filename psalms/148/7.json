@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 148,
+  "translation": "Yahveni ⟨את⟩ yerdan maqtingiz — tanninlar va barcha chuqurliklar.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "maqtingiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "tanninlar (dengiz ulkan-jonivarlari)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "chuqurliklar (tehom)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:21.021874180Z",
+  "model": "glm-5.3"
+}

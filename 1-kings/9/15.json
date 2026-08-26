@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 9:15",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va bu ⟨edir⟩ soliq ishining ⟨soʻzi⟩ — podshoh Shelomohning koʻtargani — Yahve uyi­ni, uning uyini, Millo­ni, Yerushalaim devorini, Xatsorni, Megiddoni va Gezerni qurish uchun.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "va bu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨soʻzi⟩"
+    },
+    {
+      "surface": "המס",
+      "gloss": "soliq ishi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "koʻtargani"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "qurish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning uyini"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uning uyi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Milloni"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yerushalaim devori"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "devor"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Xatsor"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Xatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Megiddo"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "Megiddo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-08-26T08:31:43.843358310Z",
+  "model": "glm-5.3"
+}

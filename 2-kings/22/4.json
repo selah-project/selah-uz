@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 22:4",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Xilkiyaxu — katta kohenga — chiq, va u Yahve uyiga keltirilgan kumushni ⟨את⟩ tekshirib toʻldirsin, uni eshik qoʻriqchilari xalqdan ⟨את⟩ yigʻishgan.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "chiq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Xilkiyaxu"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "katta"
+    },
+    {
+      "surface": "ויתם",
+      "gloss": "va u toʻldirsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumushni"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "keltirilgan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uni"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "yigʻishgan"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "qoʻriqchilari"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "eshik"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ …dan",
+      "marks": "xalqdan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    }
+  ],
+  "timestamp": "2026-08-26T04:03:10.250332241Z",
+  "model": "glm-5.3"
+}

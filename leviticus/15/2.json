@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 15:2",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Isroil oʻgʻillariga gapiring va ularga ayting: har bir erkak, agar tanasidan oqma oqsa — uning oqmasi tufayli u pokis.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "gapiring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "va ... ayting"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlsa"
+    },
+    {
+      "surface": "זב",
+      "gloss": "oqsa"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "tanasidan"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "uning oqmasi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nopok"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T01:16:43.818676281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "1-chronicles 6:61",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Naftali qabilasidan — ⟨את⟩ Galiladagi Qedeshni va ⟨את⟩ uning chorva maydonlarini, va ⟨את⟩ Hammonni va ⟨את⟩ uning chorva maydonlarini, va ⟨את⟩ Qiryatayimni va ⟨את⟩ uning chorva maydonlarini.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "va … qabilasidan"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Galiladagi Qedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Qedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "Galiladagi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning chorva maydonlari"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uning chorva maydonlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Hammon"
+    },
+    {
+      "surface": "חמון",
+      "gloss": "Hammon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning chorva maydonlari"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uning chorva maydonlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Qiryatayim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Qiryatayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning chorva maydonlari"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "uning chorva maydonlari"
+    }
+  ],
+  "timestamp": "2026-08-26T07:55:51.183405366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Chunki Sendan kelganim haqida haqorat koʻtardim; uyat yuzimni qopladi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Sendan kelgani uchun"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "koʻtardim"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "haqorat"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "qopladi"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "uyat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:58.488426845Z",
+  "model": "glm-5.3"
+}

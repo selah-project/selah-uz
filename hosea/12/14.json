@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va payigʻambar orqali Yahve Isroelni ⟨את⟩ Misrdan olib chiqdi, va payigʻambar orqali saqlandi.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "va payigʻambar orqali"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olib chiqdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroelni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "va payigʻambar orqali"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "saqlandi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:37:26.638763655Z",
+  "model": "glm-5.3"
+}

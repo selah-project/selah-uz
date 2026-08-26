@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va yomgʻir yer ustida qirq kun va qirq kecha yogʻdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va ... boʻldi"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "yomgʻir"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qirq"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "va qirq"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "kecha"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:59.632495752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Kun bo'yi xorlig'im ko'z oldimda va yuzimning uyati meni qoplaydi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "xorlig'im"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "ko'z oldimda"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "va uyat"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzimning"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "qoplaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:29.811566301Z",
+  "model": "glm-5.3"
+}

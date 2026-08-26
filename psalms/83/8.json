@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Geval va Amon va Amalek, Palishtim Tsur aholisi bilan birga —",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Geval"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "va Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "va Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Palishtim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan birga"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "aholisi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsur"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:58.428119517Z",
+  "model": "glm-5.3"
+}

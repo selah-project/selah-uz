@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Dovud yana Yahvedan so'riroq qildi va Yahve unga javob berib dedi: tur, Qeilaga tush, chunki Men ⟨את⟩ pelishtilarni qo'lingga berayotgirman.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "yana qildi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "so'riroq"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvedan"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "va javob berdi unga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "tur"
+    },
+    {
+      "surface": "רד",
+      "gloss": "tush"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Qeilaga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berayotgirman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelishtilar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "pelishtilarni"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "qo'lingga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:56:40.630876381Z",
+  "model": "glm-5.3"
+}

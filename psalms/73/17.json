@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Toki Elohim muqaddas makonlariga kelmagunimcha — u holda ularning oxiratini angladim.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "toki … gunimcha"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "kelmagunimcha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "muqaddas makonlariga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "angladim"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "ularning oxiratini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:41.578518104Z",
+  "model": "glm-5.3"
+}

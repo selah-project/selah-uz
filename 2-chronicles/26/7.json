@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 26:7",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va Elohim uni Plishtilar ustidan va Gur-Baalda yashovchi arablar ustidan va Meunimlar ustidan yordamladi.",
+  "tokens": [
+    {
+      "surface": "ויעזרהו",
+      "gloss": "yordamladi uni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishtilar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustidan"
+    },
+    {
+      "surface": "הערביים",
+      "gloss": "arablar"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "yashovchi"
+    },
+    {
+      "surface": "בגור",
+      "gloss": "Gur-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baalda"
+    },
+    {
+      "surface": "והמעונים",
+      "gloss": "va Meunimlar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:12:43.613331316Z",
+  "model": "glm-5.3"
+}

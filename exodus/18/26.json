@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va ular har vaqt ⟨את⟩ xalqni sudlaydilar; qiyin ishni Moshega keltirarlar, har kichik ishni esa oʻzlari sudlaydilar.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "Va ular ... sudlaydilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "har"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qiyin ishni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ishni"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "qiyin"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "keltirarlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va har"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ishni"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kichik"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "sudlaydilar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oʻzlari"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:55.634851392Z",
+  "model": "glm-5.3"
+}

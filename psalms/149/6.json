@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 149,
+  "translation": "Elga baland maqtovlar halqumlarida, va qoʻllarida ikki ogʻizli qilich.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "baland maqtovlar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elga"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "halqumlarida"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "va qilich"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ikki ogʻizli"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "qoʻllarida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:24.986959157Z",
+  "model": "glm-5.3"
+}

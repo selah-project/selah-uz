@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Kunlarim soyilgan soya kabi, va men oʻt kabi qurib ketdim.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "kunlarim"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "soya kabi"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "soyilgan"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "va men"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "oʻt kabi"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "qurib ketdim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:23.194125609Z",
+  "model": "glm-5.3"
+}

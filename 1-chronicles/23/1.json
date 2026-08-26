@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Dovud qarid va kunlarga toʻydi, oʻgʻli Shelomoni Isroil ustidan podshoh qildi.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qaridi"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "va toʻydi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlarga"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "podshoh qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomoni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T08:00:59.827648278Z",
+  "model": "glm-5.3"
+}

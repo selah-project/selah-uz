@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Chunki xuddi oʻt kabi tez kesiladilar va yashil oʻtlik kabi soʻlib qoladilar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "xuddi oʻt kabi"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "tez"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "kesiladilar"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "va ... kabi"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "yashil oʻtlik"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "soʻlib qoladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:34.718952493Z",
+  "model": "glm-5.3"
+}

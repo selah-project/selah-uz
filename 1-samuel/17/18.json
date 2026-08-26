@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va ⟨את⟩ mana shu oʻnta yangi pishloqni ming boshligʻiga olib bor, va ⟨את⟩ akalaringni tinchlik bilan tekshirib koʻr, va ⟨את⟩ ularning garovini (belgisini) ol.",
+  "tokens": [
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻnta yangi pishloqni"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "oʻnta"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "kesilgan boʻlaklarini (pishloq)"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "sutdan (yangi)"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "mana shu"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "olib bor"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "boshligʻiga"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "ming (boʻlinmasi) ning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "akalaringni"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "akalaringni"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "tekshirib koʻr"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "tinchlik (holati) bilan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ularning garovini"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "ularning garovi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ol"
+    }
+  ],
+  "timestamp": "2026-08-26T08:29:16.821363327Z",
+  "model": "glm-5.3"
+}

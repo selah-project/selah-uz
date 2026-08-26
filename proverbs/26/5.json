@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Ahmoqqa uning ahmoqligiga koʻra javob ber, tki u oʻz koʻzida donishmand boʻlib qolmasin.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "javob ber"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ahmoqqa"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "uning ahmoqligiga koʻra"
+    },
+    {
+      "surface": "פן",
+      "gloss": "tki — masin"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlib qoladi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "donishmand"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "oʻz koʻzida"
+    }
+  ],
+  "timestamp": "2026-08-26T08:46:26.147660239Z",
+  "model": "glm-5.3"
+}

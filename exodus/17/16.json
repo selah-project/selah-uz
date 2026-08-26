@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va dedi: „Chunki qoʻl Yahning taxtida ⟨turar⟩ — Yahvening Amalekka qarshi urushi avloddan avlodga ⟨davom etadi⟩.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "כס",
+      "gloss": "taxtida"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahning"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "urushi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "Amalekka qarshi"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "avloddan"
+    },
+    {
+      "surface": "דר",
+      "gloss": "avlodga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:36.413488447Z",
+  "model": "glm-5.3"
+}

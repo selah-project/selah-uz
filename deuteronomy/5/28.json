@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 5:28",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Yahve sizlar menga gapirganingizda ⟨את⟩ soʻzlaringizning ovozini eshitdi; va Yahve menga aytdi: Men bu xalqning senga gapirgan soʻzlari ⟨את⟩ ... ovozini eshitdim — ular gapirgan hamma narsani yaxshi gapirdilar.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Va eshitdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovoz"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "soʻzlaringizning"
+    },
+    {
+      "surface": "בדברכם",
+      "gloss": "gapirganingizda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eshitdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovoz"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlari"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "yaxshi qildilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsani"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "gapirgan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:50:43.786566996Z",
+  "model": "glm-5.3"
+}

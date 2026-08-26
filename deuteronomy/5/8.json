@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Oʻzingga oʻyma but — yuqorida osmonlarda boʻlgan har qanday suratdan, yer ostida boʻlgan narsadan va suvlarda, yer ostida boʻlgan narsadan ⟨yasamaysan⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "⟨yoʻq⟩"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yasamaysan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Oʻzingga"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "oʻyma but"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "suratdan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "osmonlarda"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yuqorida"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "va ⟨ki⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "va ⟨ki⟩"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvlarda"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:49:40.356612639Z",
+  "model": "glm-5.3"
+}

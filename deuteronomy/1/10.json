@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Yahve, sizning Elohimingiz ⟨את⟩ sizni koʻpaytirdi, va mana, bugun siz osmonlar yulduzlari kabi juda koʻpsiz.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizning Elohimingiz"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "koʻpaytirdi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizni"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "va mana siz"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "yulduzlari kabi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "juda koʻp"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:50.358734642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Tushsin yomgʻir kabi oʻrilgan oʻt ustiga, sizgʻichlar kabi — yerga yogʻilgan sel.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "tushsin"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "yomgʻir kabi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "גז",
+      "gloss": "oʻrilgan oʻt"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "sizgʻichlar kabi"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "sel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:15.286674881Z",
+  "model": "glm-5.3"
+}

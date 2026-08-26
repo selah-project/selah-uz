@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Orzularidan chekinmadilar, ovqatlari esa hali ogʻizlarida edi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "chekinmadilar"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "orzularidan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "hali"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ovqatlari"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ogʻizlarida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:38.895931416Z",
+  "model": "glm-5.3"
+}

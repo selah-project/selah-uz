@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Yaakov dedi: bugunoq sot ⟨את⟩ tunglik huquqingni menga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "sot"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tunglik huquqingni"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "tunglik huquqing"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:06.382319389Z",
+  "model": "glm-5.3"
+}

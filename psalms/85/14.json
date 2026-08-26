@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 85,
+  "translation": "Sadq Uning yuzidan oldin yuradi va oʻz qadamlarini yoʻl qilib qoʻyadi.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Sadq"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Uning yuzidan oldin"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "yuradi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "va qilib qoʻyadi"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "oʻz qadamlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:40.273393976Z",
+  "model": "glm-5.3"
+}

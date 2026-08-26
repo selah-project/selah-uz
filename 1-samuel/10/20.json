@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Shemuël Isroilning barcha triblarini ⟨את⟩ yaqinlashtirdi va Binjamin tribi tushdi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "yaqinlashtirdi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha triblarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "triblarini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "va tushdi"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tribi"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    }
+  ],
+  "timestamp": "2026-08-26T02:46:31.837970127Z",
+  "model": "glm-5.3"
+}

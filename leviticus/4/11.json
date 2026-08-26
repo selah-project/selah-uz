@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va ⟨את⟩ hoʻkizning terisini va ⟨את⟩ uning butun goʻshtini — boshi va oyoqlari bilan, ichak-ichagi va goʻngi bilan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "terisini"
+    },
+    {
+      "surface": "עור",
+      "gloss": "terisini"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "hoʻkizning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun goʻshtini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goʻshtini"
+    },
+    {
+      "surface": "על",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va bilan"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "oyoqlari"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "va ichak-ichagi"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "va goʻngi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:01.689131513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va butun Isroil eshitdi ⟨xabarni⟩: Shoul Filistlar istehkomiga ⟨את⟩ zarba berdi, va Isroil Filistlar ⟨koʻzida⟩ badboʻy boʻldi; va xalq Shoul ortidan Gilgalga chaqirildi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "zarba berdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistlar istehkomi"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "istehkom"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlar"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "va ham"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "badboʻy boʻldi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "Filistlar koʻzida"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "va chaqirildi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoul"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-08-26T02:48:36.491828550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va daraxtlar tokka dedilar: kelsen, ⟨את⟩ — podshohlik qilsen bizning ustimizda.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "daraxtlar"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "tokka"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "podshohlik qil"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizning ustimizda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:30:15.688456067Z",
+  "model": "glm-5.3"
+}

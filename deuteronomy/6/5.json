@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Yahveni, Elohimingni, butun qalbing bilan, butun nefeshing bilan va butun kuchi bilan sevasan.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "sevasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni, Elohimingni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimingni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "qalbing bilan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshing bilan"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "kuchi bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:49:05.767098458Z",
+  "model": "glm-5.3"
+}

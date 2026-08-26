@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 112,
+  "translation": "Chunki abadiy qimirlamaydi; solih kishi abadiy yodda qoladi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "qimirlamaydi"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "yodda qoladi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih kishi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:01.382268594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 74,
+  "translation": "Ahdinga qaragin, chunki toʻldi yer qorongʻi joylari — zoʻravonlik maskanlari ⟨bilan⟩.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "qaragin"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "Ahdinga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "toʻldi"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "qorongʻi joylari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "maskanlari"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zoʻravonlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:58.727465782Z",
+  "model": "glm-5.3"
+}

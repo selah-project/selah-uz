@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Butun boʻlganni kuzat va toʻgʻrini koʻr, chunki tinchlik odamining oxiri ⟨bor⟩.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "kuzat"
+    },
+    {
+      "surface": "תם",
+      "gloss": "butun boʻlganni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "va koʻr"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "toʻgʻrini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "oxiri"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "odamining"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:09.095187693Z",
+  "model": "glm-5.3"
+}

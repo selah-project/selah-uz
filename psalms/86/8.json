@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Yoʻq Senga oʻxshagan elohimlar ichida, Adonay, va yoʻq amallarga Sening amallaringa oʻxshagan.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "Senga oʻxshagan"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "elohimlar ichida"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "Sening amallaringa oʻxshagan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:25.153308268Z",
+  "model": "glm-5.3"
+}

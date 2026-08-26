@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va Yaakov Raxelni boʻsdi va ovozini koʻtardi va yigʻladi.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "va boʻsdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Raxelni"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "va koʻtardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozini"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "va yigʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:36.929749057Z",
+  "model": "glm-5.3"
+}

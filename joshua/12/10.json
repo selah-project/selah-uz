@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Yerushalaim podshohi — bitta; Xevron podshohi — bitta;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Xevron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    }
+  ],
+  "timestamp": "2026-08-26T02:15:51.365834049Z",
+  "model": "glm-5.3"
+}

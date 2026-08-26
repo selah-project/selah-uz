@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yona shaharga kirishni boshladi — bir kunlik yurish — va eʼlon qildi va dedi: Yana qirq kun va Nineva agdariladi.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "va boshladi"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kirishni"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shaharga"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "yurish"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kunlik"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va eʼlon qildi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "qirq"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "va Nineva"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "agdariladi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:44.320976615Z",
+  "model": "glm-5.3"
+}

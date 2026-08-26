@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va ularning butlariga ⟨את⟩ xizmat qildilar, va ular olarga tuzoq boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "va xizmat qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning butlariga"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "ularning butlariga"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "olarga"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tuzoq"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:06.891036955Z",
+  "model": "glm-5.3"
+}

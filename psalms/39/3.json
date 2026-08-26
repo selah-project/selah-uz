@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Jim boʻldim, mutmain sukutdagidek; indim-chiqim yopdim, hatto yaxshilikdan ham, va ogʻrigʻim qoʻzgʻaldi.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Jim boʻldim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "mutmain sukutdagidek"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "yopdim"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "yaxshilikdan ham"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "va ogʻrigʻim"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "qoʻzgʻaldi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:56.842724500Z",
+  "model": "glm-5.3"
+}

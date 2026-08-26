@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va yuzimi Adonay, ⟨the⟩ Elohim tomonga qaratdim — duO va iltijolar izlash uchun, roʻza, xumni kiyish va kul surtish bilan.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "qaratdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzim"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomonga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "izlash uchun"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "duo"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "va iltijolar"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "roʻza bilan"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "va xumni kiyish"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "va kul surtish"
+    }
+  ],
+  "timestamp": "2026-08-26T08:49:49.651505088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Rexavam Shexemga bordi, chunki Shexemga butun Isroil kelgan edi uni qilish uchun ⟨את⟩-uni podshoh.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "bor-di"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rexavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "Shexemga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shexemga"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kelgan edi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "podshoh qilish uchun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-uni",
+      "marks": "uni (Rexavam)"
+    }
+  ],
+  "timestamp": "2026-08-26T08:07:46.053929390Z",
+  "model": "glm-5.3"
+}

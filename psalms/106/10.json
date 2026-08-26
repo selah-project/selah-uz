@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va ularni yigʻlab, ularga nisbatan nafratlangan qoʻlidan qutqardi va ularni dushman qoʻlidan xalos qildi.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "va ularni qutqardi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ulgʻuchi"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "va ularni xalos qildi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dushman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:58.893855087Z",
+  "model": "glm-5.3"
+}

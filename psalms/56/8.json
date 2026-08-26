@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 56,
+  "translation": "Yovonlik tufayli qochib qutuladilarmi? Gʻazabda xalqlarni, ey Elohim, tushir.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "tufayli"
+    },
+    {
+      "surface": "און",
+      "gloss": "yovonlik"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "qochib qutuladilar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ular"
+    },
+    {
+      "surface": "באף",
+      "gloss": "gʻazabda"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "tushir"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:52.898139348Z",
+  "model": "glm-5.3"
+}

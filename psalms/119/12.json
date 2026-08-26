@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Barakatlisan Sen, Yahve; menga buyruqlaringni oʻrgat.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barakatlisan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "oʻrgat"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "buyruqlaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:18.876027171Z",
+  "model": "glm-5.3"
+}

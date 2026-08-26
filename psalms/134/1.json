@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 134,
+  "translation": "Maqomlar qoʻshigʻi. Mana, barakalang, ey Yahve xizmatkorlarining hammasi, ey Yahve uyida tunda turuvchilar — ⟨את⟩ Yahveni!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshigʻi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "maqomlar"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "barakalang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmatkorlarining"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "turuvchilar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "tunda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:31.664793322Z",
+  "model": "glm-5.3"
+}

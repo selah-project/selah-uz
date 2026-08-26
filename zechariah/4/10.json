@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 4:10",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Kim kichikliklar kunini mensimadi? Va quvonadilar, va Zerubbabel qoʻlida ⟨את⟩ qalay toshni koʻradilar — yettita; ular Yahvening koʻzlari, ular butun yer boʻylab aylanib yuruvchilardir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "בז",
+      "gloss": "mensimadi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kunini"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "kichikliklar"
+    },
+    {
+      "surface": "ושמחו",
+      "gloss": "va quvonadilar"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "va koʻradilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalay toshni"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "tosh"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "qalay"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻlida"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yettita"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bular"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "משוטטים",
+      "gloss": "aylanib yuruvchilar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T05:52:56.194032403Z",
+  "model": "glm-5.3"
+}

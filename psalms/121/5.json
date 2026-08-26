@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 121,
+  "translation": "Yahve seni saqlaydi, Yahve sening soyangdir — oʻng qoʻling ustida.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "seni saqlaydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "soyangdir"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻling"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "oʻng (qoʻling)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:50.899453720Z",
+  "model": "glm-5.3"
+}

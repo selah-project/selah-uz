@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va koʻruvchilarning koʻzlari xira boʻlmaydi, va eshituvchilarning quloqlari diqqat bilan tinglaydi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... boʻlmaydi"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "xira boʻlmaydi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlari"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "koʻruvchilarning"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "va quloqlari"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "eshituvchilarning"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "diqqat bilan tinglaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:19:55.305759913Z",
+  "model": "glm-5.3"
+}

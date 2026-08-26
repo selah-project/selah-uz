@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Chunki Isroil bay-Dovuddan yirtildi va ular Yarovam ben Navotni qildilar; va Yarovam Isroilni Yahve ortidan qochirdi va ularga buyuk gunoh gunoh qildirdi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "yirtildi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bay-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "va ular qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarovam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovamni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ben (oʻgʻli)"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "va qochirdi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "va ularga gunoh qildirdi"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "gunoh"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "buyuk"
+    }
+  ],
+  "timestamp": "2026-08-26T03:59:16.797796412Z",
+  "model": "glm-5.3"
+}

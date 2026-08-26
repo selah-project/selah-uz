@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 32:5",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Aharon koʻrdi va uning oldida qurbongoh qurdi, va Aharon eʼlon qildi va dedi: Yahve uchun bayram — ertaga.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "qurdi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "uning oldida"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "eʼlon qildi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "bayram"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ertaga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:03:23.225445952Z",
+  "model": "glm-5.3"
+}

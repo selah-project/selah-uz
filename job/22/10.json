@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Shuning uchun atrofingda to‘rlar ⟨bor⟩, va birdan qo‘rquv seni cho‘chitadi.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "shuning"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "atrofingda"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "to‘rlar"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "seni cho‘chitadi"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "qo‘rquv"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "birdan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:01:58.915270232Z",
+  "model": "glm-5.3"
+}

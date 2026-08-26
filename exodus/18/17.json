@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Moshe qaynotasi unga dedi: ⟨the⟩ ish yaxshi emas, kki sen qilmoqdasan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "qaynota"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ish"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilmoqda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:53.350514837Z",
+  "model": "glm-5.3"
+}

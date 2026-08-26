@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 1:14",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va boʻldi, u kelganda, u otasidan ⟨את⟩ dalani soʻrashga erini koʻndirdi; va u eshakdan tushdi; va Kalev unga aytdi: Senga nima?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "בבואה",
+      "gloss": "u kelganda"
+    },
+    {
+      "surface": "ותסיתהו",
+      "gloss": "u uni koʻndirdi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "soʻrashga"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ... dan",
+      "marks": "dala (otasidan)"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "otasidan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨the⟩ dalani"
+    },
+    {
+      "surface": "ותצנח",
+      "gloss": "va u tushdi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "eshak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nima"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:24:58.883356322Z",
+  "model": "glm-5.3"
+}

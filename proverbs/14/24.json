@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Donishmandlarning toji — ularning boyligidir; ahmoqlarning ahmoqligi esa ahmoqlikdir.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "toji"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "donishmandlarning"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "ularning boyligidir"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ahmoqligi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ahmoqlarning"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ahmoqlikdir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:45:25.188748205Z",
+  "model": "glm-5.3"
+}

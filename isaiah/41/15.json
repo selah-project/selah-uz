@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 41:15",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Qarang, Men seni oʻtkir, yangi, koʻp tishli tegirmon chanaga qoʻydim — togʻlarni yanchasan va maydalaysan, tepaliklarni somon kabi qilursan.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Qarang"
+    },
+    {
+      "surface": "שמתיך",
+      "gloss": "seni qoʻydim"
+    },
+    {
+      "surface": "למורג",
+      "gloss": "tegirmon chanaga"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "oʻtkir"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yangi"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ega"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "tishlari"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "yanchasan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlarni"
+    },
+    {
+      "surface": "ותדק",
+      "gloss": "va maydalaysan"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "va tepaliklarni"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "somon kabi"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "qilursan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:48.868178764Z",
+  "model": "glm-5.3"
+}

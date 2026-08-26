@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Yahve Mozhe soʻzi boʻyicha qildi va qurbaqalar uylardan, hovlilardan va dalalardan oʻldilar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "soʻzi boʻyicha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "va oʻldilar"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "qurbaqalar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–dan"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "uylar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "–dan"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "hovlilar"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "va –dan"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "dalalar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:25.087788082Z",
+  "model": "glm-5.3"
+}

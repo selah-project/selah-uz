@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Ey Aharon uyi, Yahvega ishonch bilan tyaningiz — U ⟨ulardan⟩ ularning yordami va qalqoni ⟨U Oʻzidir⟩.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "tayaningiz"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "ulardan yordam"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "va qalqonlari"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:52.714091683Z",
+  "model": "glm-5.3"
+}

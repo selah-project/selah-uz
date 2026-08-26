@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va uning soʻzlariga iymon keltirdilar, uning maqtosini kuyladilar.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "va iymon keltirdilar"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "uning soʻzlariga"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "kuyladilar"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "uning maqtosini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:58.894158121Z",
+  "model": "glm-5.3"
+}

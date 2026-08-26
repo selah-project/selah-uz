@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Efrayimning hasadi chekinadi, va Yehudaning dushmanlari kesib tashlanadi; Efrayim Yehudaga ⟨את⟩ hasad qilmaydi, va Yehuda Efrayimga ⟨את⟩ zulm qilmaydi.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "chekinadi"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "hasadi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimning"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "va dushmanlari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaning"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "kesib tashlanadi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "hasad qilmaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaga"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "va Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "zulm qilmaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:12:32.852061386Z",
+  "model": "glm-5.3"
+}

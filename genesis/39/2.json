@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Va Yahve Yossef bilan ⟨את⟩ edi, va u muvaffaqiyatli odam boʻldi, va u misrlik xoʻjayinining uyida edi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va ... edi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yossef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yossef"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va u boʻldi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "muvaffaqiyatli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va u edi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "xoʻjayinining"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "misrlik"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:41.585807751Z",
+  "model": "glm-5.3"
+}

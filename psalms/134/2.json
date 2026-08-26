@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 134,
+  "translation": "Qoʻllaringizni muqaddaslikka koʻtaringiz va ⟨את⟩ Yahveni barakalangiz.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "koʻtaringiz"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "qoʻllaringizni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddaslikka"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "va barakalangiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:31.665021279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Nima uchun xalqlar desin: „Qani, ularning xudolari?“",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nima uchun"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "desin"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Qani"
+    },
+    {
+      "surface": "נא",
+      "gloss": ""
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ularning xudolari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:28.643347107Z",
+  "model": "glm-5.3"
+}

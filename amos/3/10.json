@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ular toʻgʻri qilishni bilmaslar, — Yahve bayonoti, — zoʻravonlik va talon-tarojni qalʻalarida toʻplaydiganlar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmaslar"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "qilishni"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "toʻgʻri (ish)"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "bayonoti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "toʻplaydiganlar"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zoʻravonlik"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "va talon-taroj"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "qalʻalarida"
+    }
+  ],
+  "timestamp": "2026-08-26T05:40:56.302313814Z",
+  "model": "glm-5.3"
+}

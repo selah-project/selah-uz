@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Shuning uchun odam otasini ⟨את⟩ va onasini ⟨את⟩ tashlab ketadi va xotiniga yopishadi va ular bitta goʻht boʻladilar.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "u sababdan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "tashlab ketadi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otasini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ va",
+      "marks": "onasini"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "onasini"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "va yopishadi"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "xotiniga"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "va boʻladilar"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "bitta goʻht"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:43.186514884Z",
+  "model": "glm-5.3"
+}

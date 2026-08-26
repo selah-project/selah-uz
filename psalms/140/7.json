@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 140,
+  "translation": "Men Yahvega aytdim: „Sen ⟨⟨san⟩⟩ mening Elim“, quloq sol, Yahve, iltijolarimning ovoziga.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "aytdim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mening Elim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen ⟨san⟩"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "quloq sol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovoziga"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "iltijolarimning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:56.531368126Z",
+  "model": "glm-5.3"
+}

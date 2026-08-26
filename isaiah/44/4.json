@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Va ular oʻtlar orasida, suv oqimlari yonidagi tolalar kabi koʻkarib chiqadi.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "Va ular koʻkarib chiqadi"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "orasida"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "oʻtlar"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "tolalar kabi"
+    },
+    {
+      "surface": "על",
+      "gloss": "yonida"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "oqimlari"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    }
+  ],
+  "timestamp": "2026-08-26T04:27:08.657606087Z",
+  "model": "glm-5.3"
+}

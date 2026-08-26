@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Agar mening tinchligim - bilan yomonlik qildim va ⟨...⟩ behudа keltirdim - menim dushmanimni,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "qildim - bilan - munosabat"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "tinchligim"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomonlik"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "va keltirdim - sudrab"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dushmanimni"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "behuda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:13.316657624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "U holda uning shaharining oqsoqollari ⟨את⟩ uni yuborib olsinlar — u yerdan — va ⟨את⟩ uni qon goelining qoʻliga topshirsinlar, va u oʻlsin.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "va yuborsinlar"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oqsoqollari"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "uning shaharining"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "va olsinlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "va topshirsinlar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻliga"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "goelining"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qon"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "va u oʻlsin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:59:00.656133261Z",
+  "model": "glm-5.3"
+}

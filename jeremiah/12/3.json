@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Sen, ey Yahve, meni bilursan, meni koʻrursan va yuragimni sinalding ⟨את⟩ Sen bilan. Ularni soʻyiladigan qoʻy kabi uzib ol va ularni soʻyish kuni uchun ajrat.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Va Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "meni bilursan"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "meni koʻrursan"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "va sinalding"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragimni"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "Sen bilan"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "ularni uzib ol"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "qoʻy kabi"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "soʻyish uchun"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "va ularni ajrat"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kuni uchun"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "soʻyish"
+    }
+  ],
+  "timestamp": "2026-08-26T04:44:14.297645511Z",
+  "model": "glm-5.3"
+}

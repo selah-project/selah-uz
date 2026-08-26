@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Menga faryod qiladilar: „Elohimim, biz — Isroil — Seni tanidik!“",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "faryod qiladilar"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "Seni tanidik"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T05:36:02.918898150Z",
+  "model": "glm-5.3"
+}

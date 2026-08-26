@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Yoʻlingni menga oʻrgat, Yahve, va meni tekis yoʻlda boshla — dushmanlarim sababli.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "oʻrgat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yoʻlingni"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "va boshla"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "tekis"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sababli"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "dushmanlarim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:43.607555162Z",
+  "model": "glm-5.3"
+}

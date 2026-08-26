@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va men unga nisbatan komil boʻldim va oʻz gunohimdan saqlanib turdim.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Va men boʻldim"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "komil"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "unga nisbatan"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "va saqlanib turdim"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "oʻz gunohimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:02.969410488Z",
+  "model": "glm-5.3"
+}

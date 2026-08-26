@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Yahve daraxtlari toʻyadi — U ekkan Livon sadrlari.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "toʻyadi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "daraxtlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sadrlari"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Livon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ekkan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:56.527364975Z",
+  "model": "glm-5.3"
+}

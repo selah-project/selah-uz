@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va ⟨את⟩ ularning barcha shaharlarini — maskanlarida — va ⟨את⟩ ularning barcha qalʼalarini olovda yondirdilar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning barcha shaharlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ularning shaharlarini"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "maskanlarida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning barcha qalʼalarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "ularning qalʼalarini"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "yondirdilar"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:43:53.114464380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Kushiylar oʻgʻillari kabi emasmisizlar sizlar, Men uchun, Isroil oʻgʻillari? — deydi Yahve. ⟨את⟩ Isroilni Misr yeridan olib chiqmadimmi, va filishtimlar Kaphtordan, va Aram Kirdan?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "emasmisizlar"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "oʻgʻillari kabi"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "kushiylar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Men uchun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ch iqmadimmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "olib chiqmadim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "va filishtimlar"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "Kaphtordan"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "va Aram"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "Kirdan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:02.519040648Z",
+  "model": "glm-5.3"
+}

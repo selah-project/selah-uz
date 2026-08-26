@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Ololaqurbonlik soʻyiladigan joyda gunohqurbonlikni soʻyishadi, va ⟨את⟩ uning qonini mehrobning atrofiga sepadilar.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "joyida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysi"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "soʻyishadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ololaqurbonlikni"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ololaqurbonlikni"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "soʻyishadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunohqurbonlikni"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "gunohqurbonlikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning qonini"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "uning qonini"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "sepadilar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mehrobning"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofiga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:11:13.597819536Z",
+  "model": "glm-5.3"
+}

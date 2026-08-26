@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Yaxshilik qil — xohishing bilan — ⟨את⟩ Tsiyonga; Yerushalaim devorlarini qurasan.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "yaxshilik qil"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "xohishing bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyonga"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "qurasan"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "devorlarini"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:52.511875432Z",
+  "model": "glm-5.3"
+}

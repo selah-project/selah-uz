@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Kehatning oʻgʻillari: Amram, Yitsxar, Xevron va Uzziel.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Va oʻgʻillari"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehatning"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "va Yitsxar"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "va Xevron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "va Uzziel"
+    }
+  ],
+  "timestamp": "2026-08-26T07:55:24.025996601Z",
+  "model": "glm-5.3"
+}

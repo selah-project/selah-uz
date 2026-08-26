@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 138,
+  "translation": "Va ular Yahvening yoʻllarida kuylaydilar, chunki Yahvening kavodi buyukdir.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "va ular kuylaydilar"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "yoʻllarida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyukdir"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavodi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:37.522777178Z",
+  "model": "glm-5.3"
+}

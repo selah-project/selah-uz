@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va yer silkindi va larzaga tushdi, togʻlarning poydevorlari qaltiradi va gʻazabidan silkinadi, chunki Uning gʻazabi yondi.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "va silkindi"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "va larzaga tushdi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "va poydevorlari"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlarning"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "qaltiradi"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "va silkinadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "yondi (gʻazab)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Uning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:29.713665841Z",
+  "model": "glm-5.3"
+}

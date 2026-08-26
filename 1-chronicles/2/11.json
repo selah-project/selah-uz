@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Nachshon ⟨את⟩ Salmonni dunyoga keltirdi, va Salmon ⟨את⟩ Boazni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Va Nachshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salmonni"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salmonni"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "va Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazni"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:40.147872871Z",
+  "model": "glm-5.3"
+}

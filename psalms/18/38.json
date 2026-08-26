@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Dushmanlarimni quvladim va ularga yetdim, va ular tugaguncha ortga qaytmadim.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "quvladim"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dushmanlarimni"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "va ularga yetdim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ortga qaytmadim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guncha"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ular tugagun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:47.527505708Z",
+  "model": "glm-5.3"
+}

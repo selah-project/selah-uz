@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 101,
+  "translation": "Qaysar yurak mendan uzoqlasin; yomonlikni bilmasman.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "yurak"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "qaysar"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "uzoqlasin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "bilmasman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:32.584382650Z",
+  "model": "glm-5.3"
+}

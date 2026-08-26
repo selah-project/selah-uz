@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 111,
+  "translation": "Buyukdir Yahvening amallari, ularni xohlagan barcha kishilar tomonidan izlanadi.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "buyuk(dir)"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "amallari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "izlanadi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "ularni xohlaganlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:48.408217968Z",
+  "model": "glm-5.3"
+}

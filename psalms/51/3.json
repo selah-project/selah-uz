@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Menga rahm qil, ey Elohim, xesedingga koʻra, rahmlaringning koʻpligiga koʻra isyonlarimni oʻchir.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Menga rahm qil"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "xesedingga koʻra"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "koʻpligiga koʻra"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "rahmlaringning"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "oʻchir"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "isyonlarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:47.798834624Z",
+  "model": "glm-5.3"
+}

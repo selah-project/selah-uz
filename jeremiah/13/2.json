@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va men ⟨את⟩ kamarni Yahve soʻzi boʻyicha sotib oldim va belimga bogʻladim.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "sotib oldim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamarni"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "soʻzi boʻyicha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "bogʻladim"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "belim"
+    }
+  ],
+  "timestamp": "2026-08-26T04:45:25.398380378Z",
+  "model": "glm-5.3"
+}

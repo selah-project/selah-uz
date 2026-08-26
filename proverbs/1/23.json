@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Tanbehimga qaytingiz — mana, sizlarga ruhimni toʻkaman, soʻzlarimni sizlarga ⟨את⟩ bildiraman.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "qaytingiz"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "tanbehimga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "toʻkaman"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhimni"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "bildiraman"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarimni"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:56.418273055Z",
+  "model": "glm-5.3"
+}

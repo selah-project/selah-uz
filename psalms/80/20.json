@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 80,
+  "translation": "Yahve, Elohim Tsevaot — bizni qaytargin, yuzingni porlatgin, va biz najot topamiz.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bizni qaytargin"
+    },
+    {
+      "surface": "האר",
+      "gloss": "porlatgin"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "va biz najot topamiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:29.733826218Z",
+  "model": "glm-5.3"
+}

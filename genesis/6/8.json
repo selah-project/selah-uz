@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Nuh Yahve koʻzlarida marhamat topdi.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Va Nuh"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "topdi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "marhamat"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzlarida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:16.990807501Z",
+  "model": "glm-5.3"
+}

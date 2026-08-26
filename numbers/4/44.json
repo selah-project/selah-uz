@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 4:44",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va ularning sanogʻi — oilalari boʻyicha — uch ming ikki yuz boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Va ... boʻldi"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ularning sanogʻi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "oilalari boʻyicha"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uch"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ming"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "va ikki yuz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:25:39.495826553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 141,
+  "translation": "Yuragimni yomon soʻzga burma, yovuzlik bilan amallarni bajarishga, ⟨את⟩ odamlar bilan — avon ishlab qiluvchilar; va ularning lazzatli taomlaridan yemay.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "–ma"
+    },
+    {
+      "surface": "תט",
+      "gloss": "burma"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragimni"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "soʻzga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "bajarishga"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "amallarni"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "yovuzlik bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odamlar"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "odamlar"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ishlab qiluvchilar"
+    },
+    {
+      "surface": "און",
+      "gloss": "avon"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "va ... –ma"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "yemay"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "ularning lazzatli taomlaridan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:28.522143421Z",
+  "model": "glm-5.3"
+}

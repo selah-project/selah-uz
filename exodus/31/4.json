@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Loyihalar oʻylab topishmoq uchun, yasashmoqqa — oltinda va kumushda va misda.",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "oʻylab topishmoq uchun"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "loyihalar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yasashmoqqa"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "oltinda"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "kumushda"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "misda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:57.486454323Z",
+  "model": "glm-5.3"
+}

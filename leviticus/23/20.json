@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va kohin ularni ⟨את⟩ bosh hosil noni ustida — Yahve yuzida tanaffush sifatida — ikki qoʻzi ustida siltaydi; muqaddas boʻlsinlar Yahvegа, kohin uchun.",
+  "tokens": [
+    {
+      "surface": "וְהֵנִיף",
+      "gloss": "siltaydi"
+    },
+    {
+      "surface": "הַכֹּהֵן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni (non va ikki qoʻzi)"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "לֶחֶם",
+      "gloss": "noni"
+    },
+    {
+      "surface": "הַבִּכּוּרִים",
+      "gloss": "bosh hosil"
+    },
+    {
+      "surface": "תְּנוּפָה",
+      "gloss": "tanaffush"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "yuzida"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "שְׁנֵי",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "כְּבָשִׂים",
+      "gloss": "qoʻzi"
+    },
+    {
+      "surface": "קֹדֶשׁ",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "יִהְיוּ",
+      "gloss": "boʻlsinlar"
+    },
+    {
+      "surface": "לַיהוָה",
+      "gloss": "Yahvegа"
+    },
+    {
+      "surface": "לַכֹּהֵן",
+      "gloss": "kohin uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:22:25.690127754Z",
+  "model": "glm-5.3"
+}

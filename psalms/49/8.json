@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Aka — hech kim uni toʻla ozod qila olmaydi, Elohimga uning fidyosini bera olmaydi.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "aka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hech... emas"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "toʻla ozod qila"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ozod qila olmaydi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hech kim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmaydi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bera"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimga"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "fidyosini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:54.499344514Z",
+  "model": "glm-5.3"
+}

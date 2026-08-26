@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 22:1",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va Isroil oʻgʻillari yoʻlga chiqdi va Moab tekisliklarida, Yardenning narigi tomonida, Yerixo roʻparasida lager qurdi.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "yoʻlga chiqdi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "lager qurdi"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "tekisliklarida"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "narigi tomonida"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "Yardenning"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerixo"
+    }
+  ],
+  "timestamp": "2026-08-26T01:38:11.748778398Z",
+  "model": "glm-5.3"
+}

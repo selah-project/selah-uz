@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Elohim quruq joyga „er“ deb nom qoʻydi, va suvlarning toʻplangan joyiga „dengizlar“ deb nom qoʻydi; va Elohim koʻrdiki, bu yaxshi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va nom qoʻydi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "quruq joyga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "er"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "va toʻplangan joyiga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlarning"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "nom qoʻydi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dengizlar"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:46.236334794Z",
+  "model": "glm-5.3"
+}

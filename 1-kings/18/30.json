@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Eliyahu butun xalqga aytdi: menga yaqin kelingizlar. Va butun xalq unga yaqin keldi. Va u Yahvening buzib tashlangan ⟨את⟩ mehrini taʼmirladi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va … aytdi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "butun … ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "yaqin kelingizlar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "va … keldi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "va … taʼmirladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mehr"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mehrob"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "buzib tashlangan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:42:40.545714650Z",
+  "model": "glm-5.3"
+}

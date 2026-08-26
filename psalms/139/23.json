@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Meni sinchiklab tekshir, ey El, va bil yuragimni; meni sinal va bil mulohazalarimni.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "meni sinchiklab tekshir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "va bil"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "yuragimni"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "meni sinal"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "va bil"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "mulohazalarimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:53.960560389Z",
+  "model": "glm-5.3"
+}

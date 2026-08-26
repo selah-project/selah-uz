@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va men yuragimni butun mehnatim ustidan umidsiz qilish uchun oʻzimni berdim — men quyosh ostida mehnat qilganman.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "va oʻzimni berdim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "umidsiz qilish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuragim"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "mehnat"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "mehnat qilganman"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:36.686028201Z",
+  "model": "glm-5.3"
+}

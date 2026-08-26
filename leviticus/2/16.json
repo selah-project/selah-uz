@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va kohin uning eslatma qismini — uning yormalaridan va moyidan, uning barcha levonasidan — tutatqin keltirsin, Yahveaga olov-qurboni.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "va ... tutatqin keltirsin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eslatma qismini"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "uning eslatma qismini"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "uning yormalaridan"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "va moyidan"
+    },
+    {
+      "surface": "על",
+      "gloss": "… bilan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "uning levonasidan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "olov-qurboni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveaga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:14.708404735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Shimron-Meron qiroli — bitta; Akshaf qiroli — bitta.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shimron-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "-Meron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Akshaf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    }
+  ],
+  "timestamp": "2026-08-26T02:15:54.550514892Z",
+  "model": "glm-5.3"
+}

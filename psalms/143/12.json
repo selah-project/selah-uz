@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 143,
+  "translation": "Va xeseding bilan ildiz otma dushmanlarimni, va yo'q qil hammasini nefushimni siqquvlarni, chunki men bandaman.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "va xeseding bilan"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "ildiz otma"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dushmanlarimni"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "va yo'q qil"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasini"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "siqquvlarini"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefushimni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bandaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:31.306378480Z",
+  "model": "glm-5.3"
+}

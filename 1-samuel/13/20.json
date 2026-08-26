@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va butun Isroil Falistimlarga tushar edi — har kishi ⟨את⟩ oʻz omochini, ⟨את⟩ oʻz ketmonini, ⟨את⟩ oʻz boltasini va ⟨את⟩ oʻz chopqisini qayrash uchun.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "Va tushar edilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Falistimlarga"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "qayrash uchun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har kishi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz omochini"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "oʻz omochini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻz ketmonini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "oʻz ketmonini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻz boltasini"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "oʻz boltasini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻz chopqisini"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "oʻz chopqisini"
+    }
+  ],
+  "timestamp": "2026-08-26T02:48:37.979226042Z",
+  "model": "glm-5.3"
+}

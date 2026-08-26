@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Moshe Yahve unga buyurganidek ⟨את⟩ sanadi, ⟨את⟩ Isroil oʻgʻillarining barcha tovongʻilarini.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Va … sanadi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…dek"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurgani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha tovongʻilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "tovongʻilar"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "oʻgʻillarining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T01:26:19.700172021Z",
+  "model": "glm-5.3"
+}

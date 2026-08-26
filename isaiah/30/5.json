@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Hammasi oʻsha elga tufayli xijolat tortadi — u ularga foyda bermaydi: yordam emas, foyda emas, faqat uyatga va ham xorlikka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Hammasi"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "xijolat tortadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "tufayli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "foyda beradi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "yordam"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "foyda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "zero"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "uyatga"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "va ham"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "xorlikka"
+    }
+  ],
+  "timestamp": "2026-08-26T04:19:28.276281019Z",
+  "model": "glm-5.3"
+}

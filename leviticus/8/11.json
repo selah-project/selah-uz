@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va undan qurbongoh ustiga yetti marta sepdi va ⟨את⟩ qurbongohni va ⟨את⟩ uning hamma asboblarini va ⟨את⟩ yuvinish havzasini va ⟨את⟩ uning tagkursisini moyladi — ularni muqaddas qilish uchun.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "va u sepd​i"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "marta"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "va u moyladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbongoh"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hamma asboblari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uning asboblari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "havza"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "yuvinish havzasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tagkursisi"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "uning tagkursisi"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "ularni muqaddas qilish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:51.630727100Z",
+  "model": "glm-5.3"
+}

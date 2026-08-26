@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Dushmanlarim menga yomonlik haqida gapiradi: „Qachon u oʻladi va nomi yoʻq boʻladi?“",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Dushmanlarim"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "gapiradi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomonlik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Qachon"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "oʻladi"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "va yoʻq boʻladi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nomi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:33.878122118Z",
+  "model": "glm-5.3"
+}

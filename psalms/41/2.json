@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Baxtlidir ⟨⟨u⟩⟩ zaifga aql bilan yondoshuvchi; yomon kunda Yahve uni qutqaradi.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtlidir"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "aql bilan yondoshuvchi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨u⟩…ga"
+    },
+    {
+      "surface": "דל",
+      "gloss": "zaif"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "qutqaradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:35.159549919Z",
+  "model": "glm-5.3"
+}

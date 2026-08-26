@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Va u Mishkan uchun ⟨את⟩ taxtalarni yasadi — janub tomon uchun yigirma taxta, tuban janubga.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va u yasadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taxtalarni"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "taxtalarni"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Mishkan uchun"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirma"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "taxta"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tomon uchun"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "janub"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "tuban janubga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:27.247481125Z",
+  "model": "glm-5.3"
+}

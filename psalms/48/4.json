@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 48,
+  "translation": "Elohim uning qasrlarida panoh sifatida maʼlum boʻldi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "uning qasrlarida"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "maʼlum boʻldi"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "panoh sifatida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:58.579280035Z",
+  "model": "glm-5.3"
+}

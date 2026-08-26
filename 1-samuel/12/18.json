@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 12:18",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Shemuël Yahvega nido qildi, va Yahve oʻsha kunda ovozlar va yomgʻir berdi; va butun xalq Yahvedan va Shemuëldan juda ham qoʻrqdi — ⟨את⟩ Yahveni va ⟨את⟩ Shemuëlni.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va nido qildi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "ovozlar"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "va yomgʻir"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "ויירא",
+      "gloss": "va qoʻrqdi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Shemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    }
+  ],
+  "timestamp": "2026-08-26T08:28:32.786821322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 96,
+  "translation": "Yahve oldida, chunki U keladi, chunki U keladi ⟨the⟩ erni hukm qilishga; U tevalni ⟨the⟩ odil-adolat bilan hukm qiladi va xalqlarni oʻz sodiqligida ⟨hukm qiladi⟩.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keladi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keladi"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "hukm qilishga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ erni"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "hukm qiladi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tevalni"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "odil-adolat bilan"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "va xalqlarni"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "oʻz sodiqligida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:58.608060689Z",
+  "model": "glm-5.3"
+}

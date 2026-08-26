@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Mening yoʻlimni va yotishimni elading, barcha yoʻllarimga odatkorsan",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "Mening yoʻlimni"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "va yotishimni"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "elading"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yoʻllarimga"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "odatkorsan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:30.055569242Z",
+  "model": "glm-5.3"
+}

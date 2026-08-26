@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Ahaz esa Yahve uyida va podshoh uyining xazinalarida topilgan ⟨את⟩ kumushni va ⟨את⟩ oltinni olib, Ashur podshohisiga pora yubordi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "esa oldi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumushni"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumushni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oltinni"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "oltinni"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "topilgan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "va xazinalarida"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyining"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "va yubordi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "podshohisiga"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "pora"
+    }
+  ],
+  "timestamp": "2026-08-26T04:00:15.124459642Z",
+  "model": "glm-5.3"
+}

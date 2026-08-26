@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 95,
+  "translation": "Qalblaringizni qotiltirmanglar, Merivada boʻlgani kabi, choʻlda Massa kunidagi kabi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "qotiltirmanglar"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qalblaringizni"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "Merivada boʻlgani kabi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kunidagi kabi"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:22.802352698Z",
+  "model": "glm-5.3"
+}

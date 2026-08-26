@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 2:15",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Men uning ustidan ⟨את⟩ Baallar kunlarini yodlab jazolayman — ularga u tutatqi yoqqan, va u burun halqasi va ziynati bilan bezangan, va oshiqlari ortidan ketgan, va ⟨את⟩ Meni unutgan — Yahve aytadi.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "va yodlab jazolayman"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "uning ustidan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baallar kunlarini"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlarini"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baallar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תקטיר",
+      "gloss": "tutatqi yoqqan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ותעד",
+      "gloss": "va bezangan"
+    },
+    {
+      "surface": "נזמה",
+      "gloss": "burun halqasi"
+    },
+    {
+      "surface": "וחליתה",
+      "gloss": "va ziynati"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "va ketgan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "oshiqlari"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "Meni"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "unutgan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "aytadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T05:34:04.826406236Z",
+  "model": "glm-5.3"
+}

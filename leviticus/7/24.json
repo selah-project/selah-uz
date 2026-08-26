@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Oʻz-oʻzidan oʻlgan hayvonning yogʻi va yirtqich tomonidan yebilgan hayvonning yogʻi har qanday ishga ishlatilishi mumkin, ammo uni yemanglar — yeyish mumkin emas.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "Va yogʻi"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "oʻz-oʻzidan oʻlgan hayvonning"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "va yogʻi"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "yirtqich tomonidan yebilgan hayvonning"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ishlatilishi mumkin"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ishga"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ammo yeyish"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "yemanglar uni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:28.184506578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va David ⟨u⟩nga xabar keltirgan yigitga aytdi: Qaydan bilasanki, Shaul va uning oʻgʻli Yehonatan oʻlgan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yigit"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "xabar keltirgan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "u"
+    },
+    {
+      "surface": "איך",
+      "gloss": "qaydan"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilasan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "מת",
+      "gloss": "oʻlgan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "va Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "uning oʻgʻli"
+    }
+  ],
+  "timestamp": "2026-08-26T03:03:24.275359216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 5:21",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va qoʻshning xotinini orzu qilmaysan, va qoʻshning uyini istamaysan — dalisini, qulini va choʻrisini, hoʻkizini va eshagini, va qoʻshnga tegishli boʻlgan hamma narsani.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "orzu qilmaysan"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "xotini"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "qoʻshning"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "תתאוה",
+      "gloss": "istamaysan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyi"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "qoʻshning"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "dasisi"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "va quli"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "va choʻrisi"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "hoʻkizi"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "va eshagi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsa"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "qoʻshnga tegishli"
+    }
+  ],
+  "timestamp": "2026-08-26T01:51:27.978925251Z",
+  "model": "glm-5.3"
+}

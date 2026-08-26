@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Quvvatlaningizlar, va yuragingizni jasur qilsin — barchangizlar, Yahveni kutib turganlar!",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Quvvatlaningizlar"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "va jasur qilsin"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "yuragingizni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchangizlar"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "kutib turganlar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:22.044097400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 115,
+  "translation": "Sizlar Yahve barakali ‹sizlar›, osmonlarni va yerni Yaratuvchi.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "barakali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Yaratuvchi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "va yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:53.915283979Z",
+  "model": "glm-5.3"
+}

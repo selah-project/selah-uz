@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va uning oyoqlariga yiqildi va dedi: Men ustimdanda, janobim, men ustimgina boʻlsin gunoh; va togʻangiz sizning qulogʻingizga gapirsin, iltimos, va qulingizning ⟨את⟩ soʻzlarini eshiting.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "Va ... yiqildi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "uning oyoqlariga"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "janobim"
+    },
+    {
+      "surface": "העון",
+      "gloss": "gunoh"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "va gapirsin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "togʻangiz"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "qulogʻingizga"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "va eshiting"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlarini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarini"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "qulingizning"
+    }
+  ],
+  "timestamp": "2026-08-26T02:55:04.497381074Z",
+  "model": "glm-5.3"
+}

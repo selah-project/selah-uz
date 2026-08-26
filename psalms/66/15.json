@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Semizlarning butun yoqilgan qurbonliklarini senga koʻtarib keltiraman, qoʻchqorlar tutuni bilan; mol-uzoqlarni takalalar bilan qilaman. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "butun yoqilgan qurbonliklarini"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "semizlarning"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "koʻtarib keltiraman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "tutuni"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "qoʻchqorlar"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "qilaman"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mol-uzoqlarni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "takalalar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:05.118716937Z",
+  "model": "glm-5.3"
+}

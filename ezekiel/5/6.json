@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 5:6",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va u ⟨את⟩ hukmlarimni yovillik bilan buzdi — xalqlardan ⟨ham⟩, va ⟨את⟩ farmonlarimni — atrofidagi erlardan ⟨ham⟩, chunki hukmlarimni rad etdilar va farmonlarim boʻyicha yurmadilar.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Va u buzdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukmlarimni"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmlarimni"
+    },
+    {
+      "surface": "לרשעה",
+      "gloss": "yovillik bilan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—dan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlardan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "farmonlarimni"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "farmonlarimni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—dan"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "erlardan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "uning atrofida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "hukmlarimni"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "rad etdilar"
+    },
+    {
+      "surface": "וחקותי",
+      "gloss": "va farmonlarim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "yurmadilar"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:10:04.648330567Z",
+  "model": "glm-5.3"
+}

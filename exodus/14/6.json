@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va u ⟨את⟩ oʻz aravasini bogʻladi, va ⟨את⟩ oʻz halkini oʻzi bilan olib ketdi.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "va bogʻladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz aravasini"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "oʻz aravasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻz halkini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻz halkini"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻzi bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:35.444553445Z",
+  "model": "glm-5.3"
+}

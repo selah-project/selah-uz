@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 1:6",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va turdi u va kelinlari, va qaytdi Moab dalalaridan, chunki Moab dalalarida eshitdi: Yahve tashrif buyurdi ⟨את⟩ xalqiga — ularga non berish uchun.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "וכלתיה",
+      "gloss": "va kelinlari"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "va qaytdi"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "dalalaridan"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dalalarida"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "tashrif buyurdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqini"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "berish uchun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    }
+  ],
+  "timestamp": "2026-08-26T07:13:29.988277676Z",
+  "model": "glm-5.3"
+}

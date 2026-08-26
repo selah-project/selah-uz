@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Sening taxting, ey Elohim, abadiy va ⟨butun⟩ davomatga; adolat tayoqchasi — sening podshohligingning tayoqchasi.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "taxting"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ey Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ⟨butun⟩ davomatga"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tayoqcha"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "tayoqchasi"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "podshohligingning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:57.935219793Z",
+  "model": "glm-5.3"
+}

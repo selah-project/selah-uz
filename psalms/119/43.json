@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Va ogʻizdan butunlay olma haqiqat soʻzini, chunki men Sening hukmlaringni kutaman.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "va ... olma"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "olib qoʻyma"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ogʻizdan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzini"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "haqiqat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "butunlay"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "Sening hukmlaringni"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "men kutaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:44.870057928Z",
+  "model": "glm-5.3"
+}

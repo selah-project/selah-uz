@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va bordim va uni Peratda yashirdim, Yahve menga buyurganidek.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "va bordim"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "va uni yashirdim"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "Peratda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "...ganidek"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ meni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:44:46.846235182Z",
+  "model": "glm-5.3"
+}

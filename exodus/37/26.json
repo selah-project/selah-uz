@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 37:26",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va uni toza oltin bilan qopladi — uning tomini, atrofinagi devorlarini va ⟨את⟩ shoxlarini; va unga atrofiga oltin bir halqa-javohir yasadi.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "va u qopladi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "oltin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "toza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tomini"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "tomini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "devorlarini"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "devorlarini"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "shoxlarini"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "shoxlarini"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "va u yasadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "זר",
+      "gloss": "halqa-javohir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofiga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:06:33.866579378Z",
+  "model": "glm-5.3"
+}

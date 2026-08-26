@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va ular turib, Shaul oldidan Zifga ketdilar; Dovid va uning odamlari esa Maon choʻlida, Arabada, Yeshimonning oʻng tomonida ⟨edilar⟩.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "va turib"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ketdilar"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "Zifga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldidan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dovid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "uning odamlari"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlida"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maon"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "Arabada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomonida"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oʻng"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Yeshimonning"
+    }
+  ],
+  "timestamp": "2026-08-26T02:55:46.651385136Z",
+  "model": "glm-5.3"
+}

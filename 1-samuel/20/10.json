@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va David Yehonatanga dedi: „Menga kim xabar beradi? Yoki otam senga qanday qattiq javob beradi?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "xabar beradi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "senga javob beradi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otang"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "qattiq"
+    }
+  ],
+  "timestamp": "2026-08-26T02:52:14.458263395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Elohim — bizning kuch-qudratimizga munajjimlik qiling, Yaakovning Elohimiga baralla nola chiqarib olqishlang.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "munajjimlik qiling"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimga"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "bizning kuch-qudratimiz"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "baralla nola chiqarib olqishlang"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimiga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:35.011105338Z",
+  "model": "glm-5.3"
+}

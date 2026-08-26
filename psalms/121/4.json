@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 121,
+  "translation": "Eʻtibor bering — uyquga ketmaydi va uxlamaydi Isroilni saqlovchi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Eʻtibor bering"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…maydi"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "uyquga ketmaydi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …maydi"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "uxlamaydi"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "saqlovchi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:09.724214243Z",
+  "model": "glm-5.3"
+}

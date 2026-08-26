@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 23:11",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "U ⟨oʻz⟩ qoʻlini dengiz ustiga choʻzdi, podshohliklarni larzaga keltirdi; Yahve Kenaan buyrugʻini berdi — uning qalʼalarini yoʻq qilish uchun.",
+  "tokens": [
+    {
+      "surface": "ידו",
+      "gloss": "⟨oʻz⟩ qoʻlini"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "choʻzdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "הרגיז",
+      "gloss": "larzaga keltirdi"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "podshohliklarni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyrugʻini berdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "haqida"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשמד",
+      "gloss": "yoʻq qilish uchun"
+    },
+    {
+      "surface": "מעזניה",
+      "gloss": "uning qalʼalarini"
+    }
+  ],
+  "timestamp": "2026-08-26T04:16:37.749185283Z",
+  "model": "glm-5.3"
+}

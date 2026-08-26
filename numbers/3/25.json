@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 3:25",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Gershon oʻgʻillarining qoʻriqlanishi ⟨the⟩ majlis chodrida: ⟨the⟩ maskan va ⟨the⟩ chodir, uning yopinchigʻi va majlis chodiri eshigining pardasi.",
+  "tokens": [
+    {
+      "surface": "ומשמרת",
+      "gloss": "Va qoʻriqlanishi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "chodrida"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "majlis"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "⟨the⟩ maskan"
+    },
+    {
+      "surface": "והאהל",
+      "gloss": "va ⟨the⟩ chodir"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "uning yopinchigʻi"
+    },
+    {
+      "surface": "ומסך",
+      "gloss": "va pardasi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eshigi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "majlis"
+    }
+  ],
+  "timestamp": "2026-08-26T01:25:49.489076501Z",
+  "model": "glm-5.3"
+}

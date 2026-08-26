@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va endi, Yahve, Elohimim, Sen bandangni Dovud — otam oʻrniga podshoh qilding ⟨את⟩, men esa kichkina yoshman, chiqishni va kirishni bilmayman.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Va endi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "podshoh qilding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandangni"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bandangni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "oʻrniga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otam"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "men esa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yosh"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kichkina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-may"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "bilmayman"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "chiqishni"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "va kirishni"
+    }
+  ],
+  "timestamp": "2026-08-26T03:26:35.838231242Z",
+  "model": "glm-5.3"
+}

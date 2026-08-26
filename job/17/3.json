@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 17:3",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Qo'y endi garovimni o'zing ⟨yoningda⟩ — kim u, qo'l uchun qo'l uradigan?",
+  "tokens": [
+    {
+      "surface": "שימה",
+      "gloss": "qo'y"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "garovimni"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "o'zing bilan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לידי",
+      "gloss": "qo'l uchun"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "qo'l uradi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:00:01.186033148Z",
+  "model": "glm-5.3"
+}

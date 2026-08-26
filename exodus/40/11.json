@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va ⟨את⟩ yuvinish havzasini va ⟨את⟩ uning tagʻkursisini moylashing, uni muqaddas qilishing.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "moylashing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuvinish havzasini"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "yuvinish havzasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tagʻkursisini"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "tagʻkursisi"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "muqaddas qilishing"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:19.009869166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va Shaul Yahvedan soʻradi, va Yahve unga javob bermadi — tushlarda ham, Urimda ham, nebylarda ham.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "soʻrdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvedan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... bermadi"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "javob"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "tushlarda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "Urimda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "nebylarda"
+    }
+  ],
+  "timestamp": "2026-08-26T03:02:07.835232207Z",
+  "model": "glm-5.3"
+}

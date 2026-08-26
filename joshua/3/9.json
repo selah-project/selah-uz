@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 3:9",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yehoshua Isroel oʻgʻillariga dedi: bu yerga yaqin keling va Yahve, sizning Elohimlaringizning ⟨את⟩ soʻzlarini eshiting.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroel"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "yaqin keling"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bu yerga"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "va eshiting"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlarini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizning Elohimlaringizning"
+    }
+  ],
+  "timestamp": "2026-08-26T02:09:59.530280152Z",
+  "model": "glm-5.3"
+}

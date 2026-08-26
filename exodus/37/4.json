@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va akatsiya yogʻochidan koʻndalang tayoqlar yasadi va ularni ⟨את⟩ oltin bilan qopladi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "koʻndalang tayoqlar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsiya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "qopladi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:36.219162625Z",
+  "model": "glm-5.3"
+}

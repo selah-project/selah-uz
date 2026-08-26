@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va Yahve xalqni ⟨את⟩ mol buzoq ustidan — Aharon yasagan buzoq — ular yasagani uchun urdi.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "Va ... urdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "על",
+      "gloss": "… ustidan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yasagani uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mol buzoq"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "mol buzoq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yasagan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-08-26T01:03:19.777429361Z",
+  "model": "glm-5.3"
+}

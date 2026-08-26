@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va kohin uni qurbongohga yaqinlashtirsin, ⟨את⟩ boshini uzib tashlasin va qurbongohda tutatqin sin; qoni qurbongoh devori ustiga sizib chiqarilsin.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "Va ... yaqinlashtirsin uni"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "va uzib tashlasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boshini"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "boshini"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "va tutatqin sin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "qurbongohda"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "va sizib chiqarilsin"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "qoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "devori"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongoh"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:16.865438714Z",
+  "model": "glm-5.3"
+}

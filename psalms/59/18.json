@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Kuchim, Senga zamon aytaman, chunki Elohim — mening qalʼam, xesedning Elohimi mening.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "kuchim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "zamon aytaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "qalʼam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "xesedimning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:25.694101290Z",
+  "model": "glm-5.3"
+}

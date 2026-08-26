@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va buqani Yahve huzurida, uchrashuv chodirining eshigi oldida soʻyasan.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "va soʻyasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buqa"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "buqa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "eshigi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:25.848947233Z",
+  "model": "glm-5.3"
+}

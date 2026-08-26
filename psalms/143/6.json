@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 143,
+  "translation": "Yoydim qoʻllarimni senga tomonga, jonim — qurgʻoqchil yer kabi sen uchun. Selah.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "yoydim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻllarimni"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga tomonga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "yer kabi"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "qurgʻoqchil"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sen uchun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:40.992323395Z",
+  "model": "glm-5.3"
+}

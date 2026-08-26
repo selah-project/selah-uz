@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va ular koʻtarilib, ⟨את⟩ erni razbar qildilar — Tsin choʻlidan Rxovgacha, Xamatga kirish yerigacha.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Va ular koʻtarilib"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "razbar qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "erni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erni"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "choʻlidan"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "— …gacha"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rxov"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "kirish"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Xamat"
+    }
+  ],
+  "timestamp": "2026-08-26T01:31:59.720042517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va bu uning oqmasidagi nopokligi boʻladi: tanasi oqmasini oqizsa ⟨את⟩ yoki tanasi oqmadan toʻtilsa — bu uning nopokligi.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Va bu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "uning nopokligi"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "oqmasidagi"
+    },
+    {
+      "surface": "רר",
+      "gloss": "oqizsa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tanasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning oqmasi"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "uning oqmasi"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "toʻtilsa"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "tanasi"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "oqmadan"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "uning nopokligi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu ... dir"
+    }
+  ],
+  "timestamp": "2026-08-26T01:16:43.818865472Z",
+  "model": "glm-5.3"
+}

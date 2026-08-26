@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 96,
+  "translation": "Ayting xalqlar orasida: Yahve podshohlik qildi! Ha, barqaror turadi ⟨olam⟩, hech qachon qimirlamaydi; xalqlarni sud qiladi toʻgʻrilik bilan.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ayting"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar orasida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohlik qildi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ha"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "barqaror turadi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "olam"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hech qachon ... emas"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "qimirlamaydi"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sud qiladi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "toʻgʻrilik bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:18.698683048Z",
+  "model": "glm-5.3"
+}

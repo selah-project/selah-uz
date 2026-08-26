@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Va Edomda Bela, Beor oʻgʻli podshoh boʻldi, va uning shahri nomi Dinxaba edi.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "podshoh boʻldi"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomda"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "va nomi"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "uning shahri"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Dinxaba"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:10.308986526Z",
+  "model": "glm-5.3"
+}

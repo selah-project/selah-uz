@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve menga dedi: Moabni qiynamang va ular bilan urushga qoʻzgʻalmang, chunki men sizga uning yeridan meros bermayman, chunki Arni Lut oʻgʻillariga meros qilib berganman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qiynamang"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "qiynamang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va qoʻzgʻalmang"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "qoʻzgʻalmang"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ular bilan"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "urush"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "bermayman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "uning yeridan"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "meros"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lut"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "berganman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "meros"
+    }
+  ],
+  "timestamp": "2026-08-26T01:47:08.301042597Z",
+  "model": "glm-5.3"
+}

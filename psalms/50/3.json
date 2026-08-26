@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Keladi Elohimimiz va jim turmaydi: oldidan oʻt yeydi, atrofida esa dahshatli boʻron qulaydi.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "Keladi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "jim turmaydi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "oldidan"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeydi"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "va atrofida"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "boʻron qulaydi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "dahshatli"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:19.811172372Z",
+  "model": "glm-5.3"
+}

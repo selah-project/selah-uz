@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "Va Yisroel Misrga kirdi, va Yaakov Cham yerida muhojir boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Va ... kirdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrga"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "va Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "muhojir boʻldi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Cham"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:00.906114985Z",
+  "model": "glm-5.3"
+}

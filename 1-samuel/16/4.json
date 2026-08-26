@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Shemuel Yahve gapirgan ⟨את⟩ narsani bajardi, va Beyt-Laxemga keldi; va shahar soqallilari uni kutib olishga qaltirab ketishdi, va u aytdi: «Tinchlik, kelganing?»",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Va bajardi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narsani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nima"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Laxemga"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "va qaltirab ketishdi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "soqallilari"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "uni kutib olishga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Tinchlik"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "kelganing"
+    }
+  ],
+  "timestamp": "2026-08-26T02:51:10.218718409Z",
+  "model": "glm-5.3"
+}

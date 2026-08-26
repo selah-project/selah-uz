@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Yahve uni kasal toʻshagida suvaytir; uning barcha yotagini Sen uning kasalligida oʻgirib qoʻyding.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "suvaytir"
+    },
+    {
+      "surface": "על",
+      "gloss": "…da"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "toʻshagida"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "kasal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "yotagini"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "oʻgirib qoʻyding"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "kasalligida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:35.160009810Z",
+  "model": "glm-5.3"
+}

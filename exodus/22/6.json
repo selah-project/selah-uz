@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 22:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Agar kishi oʻz yaqiniga kumush yoki idish-tovoq saqlash uchun bersa va kishining uyidan oʻgʻirlansa — agar oʻgʻri topilsa, u ikki barobar toʻlaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "bersa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "oʻz yaqini"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "idish-tovoq"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saqlash uchun"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "va oʻgʻirlansa"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uyidan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "kishining"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "topilsa"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "oʻgʻri"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "toʻlaydi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ikki barobar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:24.460686883Z",
+  "model": "glm-5.3"
+}

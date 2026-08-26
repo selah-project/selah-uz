@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 148,
+  "translation": "Yer shohlar va barcha xalqlar, hukmdorlar va barcha yer hakamlari",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "shohlari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "hukmdorlar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "hakamlari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:18.374855850Z",
+  "model": "glm-5.3"
+}

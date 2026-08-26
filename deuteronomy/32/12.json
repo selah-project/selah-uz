@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Yahve uni yolgʻiz oʻzi boshqardi, va uning bilan begona El yoʻq edi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "yolgʻiz"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "uni boshqardi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uning bilan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "begona"
+    }
+  ],
+  "timestamp": "2026-08-26T02:07:30.382172594Z",
+  "model": "glm-5.3"
+}

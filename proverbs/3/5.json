@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Butun qalbing bilan Yahvega tayan va oʻz aqlingga tayonma.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "tayan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "qalbing"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "oʻz aqlingga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tayonma"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "tayonma"
+    }
+  ],
+  "timestamp": "2026-08-26T06:39:05.097696075Z",
+  "model": "glm-5.3"
+}

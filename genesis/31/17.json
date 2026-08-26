@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va Yaakov turdi, va oʻgʻillarini va xotinlarini tuyalarga mindirdi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "va koʻtarib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻgʻillarini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "xotinlarini"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "xotinlarini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "tuyalarga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:31.716081349Z",
+  "model": "glm-5.3"
+}

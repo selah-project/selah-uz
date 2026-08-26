@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Jasur boʻl va mustahkam boʻl, chunki sen bu xalqni ⟨את⟩ meros qilib joylashtirasan — ⟨את⟩ ota-bobalariga ularga berish uchun qasam ichgan yerni.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Jasur boʻl"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "va mustahkam boʻl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "meros qilib joylashtirasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "qasam ichgan"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "ota-bobalariga"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "berish uchun"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:11:57.883549383Z",
+  "model": "glm-5.3"
+}

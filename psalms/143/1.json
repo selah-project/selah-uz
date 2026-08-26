@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 143,
+  "translation": "Dovud mizmori. Yahve, duomni eshit, iltijolarimga quloq sol — sadoqating bilan javob ber menga, solihliging bilan.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshit"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duomni"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "quloq sol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "iltijolarimga"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "sadoqating bilan"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "javob ber menga"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "solihliging bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:23.983701363Z",
+  "model": "glm-5.3"
+}

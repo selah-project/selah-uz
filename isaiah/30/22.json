@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 30:22",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "va kumushingiz butlarining qoplamasini ⟨את⟩ hamda oltiningiz oqib yasalgan butininging kamarini ⟨את⟩ nopok qilasizlar; ularni hayz dogʻidek tashlab yuborasizlar — «chiq!» deysizlar unga.",
+  "tokens": [
+    {
+      "surface": "וטמאתם",
+      "gloss": "va nopok qilasizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoplamani"
+    },
+    {
+      "surface": "צפוי",
+      "gloss": "qoplama"
+    },
+    {
+      "surface": "פסילי",
+      "gloss": "butlari"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "kumushingizning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "kambarni"
+    },
+    {
+      "surface": "אפדת",
+      "gloss": "kamar\/plasha"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "oqib yasalgan buti"
+    },
+    {
+      "surface": "זהבך",
+      "gloss": "oltiningizning"
+    },
+    {
+      "surface": "תזרם",
+      "gloss": "ularni tashlab yuborasizlar"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "hayz dogʻi"
+    },
+    {
+      "surface": "צא",
+      "gloss": "chiq"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "deysizlar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:20:26.429081603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 58,
+  "translation": "Kimki pichinglovchilarning ovozini eshitmaydi, sehr bogʻlovchi qanchalik donishmand boʻlsa ham ⟨sehrini⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kimki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eshitadi"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ovoziga"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "piching qiluvchilarning"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "bogʻlovchining"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "sehrlari"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "donishmand"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:14.920259958Z",
+  "model": "glm-5.3"
+}

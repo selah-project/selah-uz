@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 61,
+  "translation": "Eshit, Elohim, nolamni; ibodatimga quloq sol.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "eshit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "nolamni"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "quloq sol"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ibodatimga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:04.849670971Z",
+  "model": "glm-5.3"
+}

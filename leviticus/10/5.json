@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va yaqinlashdilar va ularni kuttonlarida lagerdan tashqariga koʻtardilar, Moshe gapirgani kabi.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "yaqinlashdilar"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "koʻtardilar"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "kuttonlarida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqariga"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lagerdan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "...kabi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:27.348430680Z",
+  "model": "glm-5.3"
+}

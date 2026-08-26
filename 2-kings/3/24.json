@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ular Isroil lageriga keldilar, va Isroil oʻrnidan turdi va ⟨את⟩ Moabni urdi, va ular ulardan qochdilar; va u yerga kirib ⟨את⟩ Moabni urdilar.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "va keldilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "lageriga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "va oʻrnidan turdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabni"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabni"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "va qochdilar"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "va kirdilar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "urib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabni"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabni"
+    }
+  ],
+  "timestamp": "2026-08-26T03:49:08.645038745Z",
+  "model": "glm-5.3"
+}

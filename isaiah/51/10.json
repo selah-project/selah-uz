@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Sen ⟨את⟩ emasmisan u — dengizni, buyuk tubanning suvlarini quritgan, dengiz tubliklarini qutqarilganlar oʻtadigan yoʻl qilgan?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "emasmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sen u (dengizni quritgan)"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "quritgan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengizni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "suvlarini"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tubanning"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "yoʻl qilgan"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "tubliklarini"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengizning"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "oʻtish uchun"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "qutqarilganlar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:31:08.145562924Z",
+  "model": "glm-5.3"
+}

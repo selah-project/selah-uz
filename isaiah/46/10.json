@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Boshidan oxirni va qadim zamonlardan hali qilinmaganlarni bildiraman; aytyorman: maslahatim oʻz oʻrnida turadi va butun xohishimni bajaraman.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "bildiraman"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "Boshidan"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "oxirni"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "va qadim zamonlardan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsalarni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hali ... yoʻq"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "qilinmagan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytyorman"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "maslahatim"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "oʻz oʻrnida turadi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "xohishimni"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "bajaraman"
+    }
+  ],
+  "timestamp": "2026-08-26T04:28:14.890203774Z",
+  "model": "glm-5.3"
+}

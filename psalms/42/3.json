@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Nefeshim Elohimga chanqadi — tirik Elga: qachon boraman va Elohim yuzini koʻraman?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "chanqadi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshim"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimga"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elga"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tirik"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "boraman"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "va koʻraman"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:46.392970837Z",
+  "model": "glm-5.3"
+}

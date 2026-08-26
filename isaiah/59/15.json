@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Va haqiqat yetishmay qoldi va yomondan chetlangan oʻljaga aylandi; va Yahve koʻrdi va uning koʻziga yomon koʻrindi, chunki mazorat yoʻq edi.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "haqiqat"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "yetishmay qoldi"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "va chetlandi"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "yomondan"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "oʻljaga"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "va yomon koʻrindi"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "uning koʻziga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mazorat"
+    }
+  ],
+  "timestamp": "2026-08-26T04:33:27.192133827Z",
+  "model": "glm-5.3"
+}

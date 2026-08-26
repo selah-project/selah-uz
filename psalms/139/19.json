@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Agar oʻlsang-ku, Eloah, yovuzni — va qon odamlari mendan yiroq boʻlsin!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "oʻlsang-ku"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovuzni"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "va ... odamlari"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qon"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "yiroq boʻlsin"
+    },
+    {
+      "surface": "מני",
+      "gloss": "mendan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:56.432471543Z",
+  "model": "glm-5.3"
+}

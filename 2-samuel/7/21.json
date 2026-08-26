@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 7:21",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Sening soʻzng sababli va yuragingga koʻra, sen butun shu ulugʻlikni qilding, banga ⟨את⟩ tanishing uchun bildirish uchun.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "sababli"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sening soʻzng"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "va yuragingga koʻra"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "qilding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun shu ulugʻlikni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ulugʻlikni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "shu"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "bildirish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangA — xizmatching"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "xizmatchingga"
+    }
+  ],
+  "timestamp": "2026-08-26T09:01:23.623569960Z",
+  "model": "glm-5.3"
+}

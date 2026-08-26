@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Baxtlidir hukmni saqlovchilar, har vaqt adolat qiluvchi ⟨kishi⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtlidir"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "saqlovchilar"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukmni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "har"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:10.347167887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 23:17",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va boʻladi: yetmish yil oxirida Yahve ⟨את⟩ Tsorni ziyorat qiladi, va u ⟨zino qilib⟩ oʻz haqiga qaytadi, va u yerning yuzi ustida, tuproqning ustida barcha malikaliklar bilan zino qiladi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Va boʻladi"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "oxiri"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmish"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ziyorat qiladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsor"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "ושבה",
+      "gloss": "va qaytadi"
+    },
+    {
+      "surface": "לאתננה",
+      "gloss": "oʻz haqiga"
+    },
+    {
+      "surface": "וזנתה",
+      "gloss": "va zino qiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha malikaliklarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "malikaliklar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproqning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:35:14.074852213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Va Sening guvohliklaring haqida podshohlar oldida gapiraman va uyalmayman.",
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "gapiraman"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "Sening guvohliklaring haqida"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "podshohlar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "uyalmayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:41.932668543Z",
+  "model": "glm-5.3"
+}

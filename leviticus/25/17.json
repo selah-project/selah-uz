@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va hech bir kishi oʻz yonidoshini zulm qilmasin, va Elohimingdan qoʻrqingiz, chunki Men Yahve, Elohimlaringizman.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "zulm qilmasin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz yonidoshini"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "oʻz yonidoshini"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "va qoʻrqingiz"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimingdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimlaringizman"
+    }
+  ],
+  "timestamp": "2026-08-26T01:21:37.997917676Z",
+  "model": "glm-5.3"
+}

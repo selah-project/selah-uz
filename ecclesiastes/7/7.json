@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Chunki zoʻravonlik donishmandni aqldan ozdiradi, va pora ⟨את⟩ yurakni yoʻq qiladi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "zoʻravonlik"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "aqldan ozdiradi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "donishmandni"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "va yoʻq qiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yurakni"
+    },
+    {
+      "surface": "לב",
+      "gloss": "yurakni"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "pora"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:10.377765491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va kerublar ustida koʻrindi odam qoʻlining shakli, ularning qanotlari ostida.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Va koʻrindi"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "kerublar ustida"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "shakli"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻlining"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "ularning qanotlari"
+    }
+  ],
+  "timestamp": "2026-08-26T05:11:49.460526179Z",
+  "model": "glm-5.3"
+}

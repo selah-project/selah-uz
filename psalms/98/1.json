@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 98,
+  "translation": "Mizmor. Yahvega yangi qoʻshiq kuylang, chunki u moʻjizalar qildi, unga oʻng qoʻli va muqaddas bilagi najot berdi.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "kuylang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yangi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "moʻjizalar"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "najot berdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "oʻng qoʻli"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "va bilagi"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "muqaddas"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:56.788555958Z",
+  "model": "glm-5.3"
+}

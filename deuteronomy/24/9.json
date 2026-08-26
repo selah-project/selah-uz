@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Eslab tur — Yahve, Elohiming, Miryamga yoʻlda, Misrdan chiqayotganlaringizda nima qilganini ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Eslab tur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nima qilganini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nima"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Miryamga"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "chiqayotganlaringizda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:00:29.974303950Z",
+  "model": "glm-5.3"
+}

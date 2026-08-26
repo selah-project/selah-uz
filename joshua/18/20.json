@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Yardan uni sharq tomondan chegaralab turardi ⟨את⟩. Bu — Binjamin oʻgʻillari merosi, oʻz chegaralari boʻyicha, atrofda, ularning oilalariga koʻra.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "va Yardan"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "chegaralab turardi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sharq"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "merosi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "oʻz chegaralari boʻyicha"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ularning oilalariga koʻra"
+    }
+  ],
+  "timestamp": "2026-08-26T02:19:51.849740106Z",
+  "model": "glm-5.3"
+}

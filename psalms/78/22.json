@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Chunki ular Elohimga iymon keltirmadilar va Uning najotiga ishonmadilar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "iymon keltirmadilar"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ishonmadilar"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "Uning najotiga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:07.518100938Z",
+  "model": "glm-5.3"
+}

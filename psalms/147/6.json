@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "Yahve kamtarlarni tiklaydi, yovuzlarni ergacha kamsitadi.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "tiklaydi"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "kamtarlarni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "kamsitadi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovuzlarni"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:35.812783275Z",
+  "model": "glm-5.3"
+}

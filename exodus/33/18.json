@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va ⟨u⟩ aytdi: Menga ⟨את⟩ ulugʻvorligingni koʻrsat, iltimos.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "menga koʻrsat"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulugʻvorligingni"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ulugʻvorligingni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:57.080106238Z",
+  "model": "glm-5.3"
+}

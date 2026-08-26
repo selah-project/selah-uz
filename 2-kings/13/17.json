@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va u aytdi: Sharqiy oynani och. Va ⟨u⟩ ochdi. Va Elisha aytdi: Oʻq ot. Va ⟨u⟩ otdi. Va ⟨u⟩ aytdi: Yahvening najot oʻqgina, Aram ustiga najot oʻqgina. Va sen Apekda ⟨את⟩ Aramni yakuniga yetkazguncha urubsan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "och"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "oynani"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "sharq tomon"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "va ⟨u⟩ ochdi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "oʻq ot"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "va ⟨u⟩ otdi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "oʻq"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "najot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "va oʻq"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "najot"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Aram ustiga"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "va sen urubsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramni"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "Apekda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guncha"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "yakuniga yetkazish"
+    }
+  ],
+  "timestamp": "2026-08-26T03:57:06.019302455Z",
+  "model": "glm-5.3"
+}

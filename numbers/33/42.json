@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va yurdilar Tsalmonadan, va lager qurdilar Punonda.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "va yurdilar"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "Tsalmonadan"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "va lager qurdilar"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "Punonda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:45:08.430350618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Yahve Eloheyingiz ortidan yurursizlar, va ⟨את⟩ Unga qoʻrqursizlar, va ⟨את⟩ Uning buyruqlarini saqlaysizlar, va Uning ovozini eshitasizlar, va ⟨את⟩ Unga xizmat qilursizlar, va Unga yopishib turursizlar.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Eloheyingiz"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "yurursizlar"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "Unga"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qoʻrqursizlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Uning buyruqlarini"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "Uning buyruqlarini"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "saqlaysizlar"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "va Uning ovozini"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "eshitasizlar"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "Unga"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "xizmat qilursizlar"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "va Unga"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "yopishib turursizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:57:14.579860960Z",
+  "model": "glm-5.3"
+}

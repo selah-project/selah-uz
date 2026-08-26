@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Iordan ortida, Moab yerida, Moshe bu Tavrotni bayon qilishni boshladi, degan holda:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "ortida"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "boshladi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "bayon qilishni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu Tavrot"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tavrot"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan holda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:48:32.739345390Z",
+  "model": "glm-5.3"
+}

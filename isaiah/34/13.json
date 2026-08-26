@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 34:13",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va uning saroylarida tikanlar koʻtariladi, qoʻngʻirbosh va xas-tikan uning qalʼalarida; va u chiyboʻrlar maskani, tuyaqush qizlari uchun hovli boʻladi.",
+  "tokens": [
+    {
+      "surface": "ועלתה",
+      "gloss": "va … koʻtariladi"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "uning saroylarida"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "tikanlar"
+    },
+    {
+      "surface": "קמוש",
+      "gloss": "qoʻngʻirbosh"
+    },
+    {
+      "surface": "וחוח",
+      "gloss": "va xas-tikan"
+    },
+    {
+      "surface": "במבצריה",
+      "gloss": "uning qalʼalarida"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "va u boʻladi"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "maskan"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "chiyboʻrlar"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "hovli"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "qizlari uchun"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "tuyaqush"
+    }
+  ],
+  "timestamp": "2026-08-26T04:23:20.726182451Z",
+  "model": "glm-5.3"
+}

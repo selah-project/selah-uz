@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va Yahve Iyobning oxirini boshidan koʻra barakaladi, va unga oʻn toʻrt ming qoʻy, va olti ming tuya, va ming juft qoramol, va ming eshak boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Va Yahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barakaladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oxirini"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "oxirini"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobning"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "boshidan koʻra"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "oʻn toʻrt"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-toʻrt)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "va olti"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ming"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "tuya"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "va ming"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "juft"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "qoramol"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "va ming"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "eshak"
+    }
+  ],
+  "timestamp": "2026-08-26T07:11:45.972558900Z",
+  "model": "glm-5.3"
+}

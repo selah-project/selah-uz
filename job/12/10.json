@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Uning qoʻlida ⟨bor⟩ har bir jonli maxluqning nefeshi va har bir odam goʻshtining ruaxi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kimniki"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "uning qoʻlida"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefeshi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "חי",
+      "gloss": "jonli maxluqning"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "va ruaxi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goʻshtining"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:57:45.015805352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 2:13",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va u ⟨את⟩ Eliyahuning aderatini koʻtardi — u undan tushgan edi — va qaytdi va Iordan daryosining qirgʻogʻida turdi.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "koʻtardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahuning aderati"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "aderat"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahuning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "tushgan edi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "qirgʻogʻi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:47:51.306774958Z",
+  "model": "glm-5.3"
+}

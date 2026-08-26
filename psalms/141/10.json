@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 141,
+  "translation": "Yovlar oʻz toʻrlariga tushsinlar — birga; men esa ⟨oʻtib⟩ ketguncha ⟨⟨ shunday qolsin ⟩⟩.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "tushsinlar"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "oʻz toʻrlariga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlar"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men esa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guncha"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "oʻtib ketguncha"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:05.702267470Z",
+  "model": "glm-5.3"
+}

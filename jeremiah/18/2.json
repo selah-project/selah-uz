@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Tur, kulolning uyiga tush, va u yerda seni ⟨את⟩ soʻzlarimni eshittiraman:",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tur"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "va tush"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "kulolning"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "va u yerda"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "seni eshittiraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlarim"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarim"
+    }
+  ],
+  "timestamp": "2026-08-26T04:48:43.489420796Z",
+  "model": "glm-5.3"
+}

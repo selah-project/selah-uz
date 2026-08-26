@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Mordechay oʻtib ketdi va Ester unga buyurgan hamma narsani qildi.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "oʻtib ketdi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechay"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "hamma narsani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-08-26T07:23:49.849716772Z",
+  "model": "glm-5.3"
+}

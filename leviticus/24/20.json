@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Sinish taqdirida sinish, koʻz taqdirida koʻz, tish taqdirida tish; insonda nuqson yetkazgandek, unga ham shunday yetkazilsin.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "sinish"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taqdirida"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "sinish"
+    },
+    {
+      "surface": "עין",
+      "gloss": "koʻz"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taqdirida"
+    },
+    {
+      "surface": "עין",
+      "gloss": "koʻz"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tish"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "taqdirida"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tish"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "yetkazgandek"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yetkazgan"
+    },
+    {
+      "surface": "מום",
+      "gloss": "nuqson"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "insonda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "yetkazilsin"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:21:32.970965976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Shuning uchun yuragim xursand va kavodim quvonadi, hatto tanam ham ishonch bilan yashaydi.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Shuning uchun"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "xursand"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragim"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "va quvonadi"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kavodim"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "tanam"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "yashaydi"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ishonch bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:16.499947806Z",
+  "model": "glm-5.3"
+}

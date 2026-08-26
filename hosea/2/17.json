@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 2:17",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va unga u yerdan ⟨את⟩ tokzorlarini beraman va ⟨את⟩ Achor vodiysini umid darbozasiga ⟨aylantiraman⟩, va u yerda u yoshlik kunlaridagidek va Misr yeridan koʻtarilgan kunidagidek javob beradi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Va beraman"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tokzorlarini"
+    },
+    {
+      "surface": "כרמיה",
+      "gloss": "tokzorlarini"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Achor vodiysini"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "vodiysini"
+    },
+    {
+      "surface": "עכור",
+      "gloss": "Achor"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "darbozasiga"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "umid"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "va javob beradi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kunlaridagidek"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "yoshlik"
+    },
+    {
+      "surface": "וכיום",
+      "gloss": "va kuni"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "koʻtarilgan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T05:34:54.536085649Z",
+  "model": "glm-5.3"
+}

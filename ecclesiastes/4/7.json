@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va men yana qaytdim, men, va hevelni koʻrdim — quyosh ostida.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "va qaytdim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "va koʻrdim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:47.354835458Z",
+  "model": "glm-5.3"
+}

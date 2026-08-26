@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Dovud unga dedi: „Qayerdan kelyapsan?“ U esa unga dedi: „Isroil lageridan qutulib chiqdim.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אי",
+      "gloss": "qayerdan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "bu yerdan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kelyapsan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "lageridan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "qutulib chiqdim"
+    }
+  ],
+  "timestamp": "2026-08-26T03:05:04.505647471Z",
+  "model": "glm-5.3"
+}

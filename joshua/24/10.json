@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va men Bilomga tinglashni xohlamadim, va u barak ila sizlarni baraka bilan barakaldi, va men sizlarni ⟨את⟩ uning qoʻlidan qutqardim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "xohlamadim"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "tinglashni"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "Bilomga"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "va u barakaldi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "baraka bilan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "va qutqardim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "uning qoʻlidan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:23:57.912208034Z",
+  "model": "glm-5.3"
+}

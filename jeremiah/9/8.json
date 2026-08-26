@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Bular ustidan tashrif qilmaymanmi? — Yahve ning soʻzi; — Bunday xalq ustida jonim oʻch olmasmidimi?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bular"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...masmi"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "tashrif qilmaymanmi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "soʻzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "xalq ustida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bunday"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...masmidimi"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "oʻch olmasmidimi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    }
+  ],
+  "timestamp": "2026-08-26T04:41:57.660802682Z",
+  "model": "glm-5.3"
+}

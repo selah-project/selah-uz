@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 48,
+  "translation": "Sharq shamoli bilan ⟨Sen⟩ Tarshish kemalarini sindirasan.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "shamoli bilan"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "sharq"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "⟨Sen⟩ sindirasan"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "kemalarini"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:23.252733580Z",
+  "model": "glm-5.3"
+}

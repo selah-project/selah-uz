@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Aylanib yurdim men va yuragim — bilish va tadqiq qilish uchun, donolik va hisobni izlab topmoq uchun, va yovuzlik — aqlsizlik ekanini, ahmoqlik — jinnilik ekanini bilish uchun.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "aylanib yurdim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "va yuragim"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilish uchun"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "va tadqiq qilish uchun"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "va izlab topmoq uchun"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "donolikni"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "va hisobni"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "va bilish uchun"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovuzlik"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "aqlsizlik"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "va ahmoqlik"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "jinnilik"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:31.276016482Z",
+  "model": "glm-5.3"
+}

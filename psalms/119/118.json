@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Sen farmonlaringdan adashganlarning hammasini mensenmading, chunki ularning aldovi — yolgʻon.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "mensenmading"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasini"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "adashganlarning"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "sening farmonlaringdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "ularning aldovi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:18.603208859Z",
+  "model": "glm-5.3"
+}

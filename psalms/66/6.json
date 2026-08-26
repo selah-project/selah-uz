@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "U ⟨את⟩ dengizni quruq yeruga aylantirdi, daryo boʻyab piyoda oʻtdilar; oʻsha joyda biz Unda quvondik.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "aylantirdi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "⟨את⟩ dengizni"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "quruq yeruga"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "daryo boʻyab"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "oʻtdilar"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "piyoda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "oʻsha joyda"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "quvondik"
+    },
+    {
+      "surface": "בו",
+      "gloss": "Unda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:10.996866564Z",
+  "model": "glm-5.3"
+}

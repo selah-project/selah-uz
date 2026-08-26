@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "u qilgan gunohini eʼtirof qilsin va ⟨את⟩ aybini asosiy summada qaytarsin, ustiga uning beshdan birini qoʻshsin va u kimga aybdor boʻlgan boʻlsa, oʻshanga bersin.»",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "eʼtirof qilsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunohini"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "gunohini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "qaytarsin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aybini"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "aybini"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "asosiy summada"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "beshdan birini"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "qoʻshsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "bersin"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "aybdor boʻlgan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "…ga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:27:09.151675077Z",
+  "model": "glm-5.3"
+}

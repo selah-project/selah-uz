@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Mustahkam niyatga ega boʻlganni Sen tinchlik — tinchlik bilan saqlaysan, chunki u Senga suyanadi.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "niyatga"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "suyanadigan"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "saqlaysan"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "ishonadi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:17:31.381249704Z",
+  "model": "glm-5.3"
+}

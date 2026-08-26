@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va sizlarga rahmlar beraman va ⟨את⟩ sizlarga rahm qilaman va ⟨את⟩ sizlarni oʻz er-tuproqlaringizga qaytaraman.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "beraman"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "rahmlar"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "rahm qilaman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarga"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "qaytaraman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "oʻz er-tuproqlaringizga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:01:51.244151057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Ularni farzandlaridan yashirmaymiz, keyingi avlodga Yahvening maqtovlarini, Uning qudratini va Uning moʻjizalarini — qilgan ishlarini aytib beramiz.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yashirmaymiz"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "farzandlaridan"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "avlodga"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "keyingi"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "aytib beramiz"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "maqtovlarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "qudratini"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "moʻjizalarini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan ishlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:25.807111978Z",
+  "model": "glm-5.3"
+}

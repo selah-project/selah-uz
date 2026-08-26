@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Oʻsha kuni Adonay ⟨את⟩ oyoq shingʻillari ziynatini, peshtoklarni va yarim oy ziynatlarini olib tashlaydi —",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Oʻsha kuni… -da"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "olib tashlaydi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyoq shingʻillari ziynatini"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ziynatini"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "oyoq shingʻillari"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "va peshtoklar"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "va yarim oy ziynatlari"
+    }
+  ],
+  "timestamp": "2026-08-26T04:07:39.378502554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 35:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Yoʻq boʻladi u yerda sher, va yirtqich hayvon unga koʻtarilmaydi — topilmaydi u yerda; va yuradilar qutqarilganlar ⟨u yerda⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "sher"
+    },
+    {
+      "surface": "ופריץ",
+      "gloss": "va yirtqich"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "hayvon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hech"
+    },
+    {
+      "surface": "יעלנה",
+      "gloss": "unga koʻtarilmaydi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "topilmaydi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "va yuradilar"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "qutqarilganlar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:22:06.696109408Z",
+  "model": "glm-5.3"
+}

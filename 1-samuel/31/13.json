@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va ular ⟨את⟩ ularning suyaklarini oldilar va Yaveshdagi archa ostida dafn etdilar va yetti kun roʻza tutdilar.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "va oldilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning suyaklarini"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ularning suyaklarini"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "va dafn etdilar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "archa"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "Yaveshdagi"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "va roʻza tutdilar"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-26T03:02:32.087860487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va Yaakov yolgʻiz qoldi; va bir odam u bilan tong otishigacha kurashdi.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "qoldi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yolgʻiz"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "kurashdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "otishiga"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "tong"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:33.558766169Z",
+  "model": "glm-5.3"
+}

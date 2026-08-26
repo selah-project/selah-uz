@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va u yerga ⟨את⟩ sandiqni qoʻydim — unda Yahvening ahdidir, u Isroil oʻgʻillari bilan olgan.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "va qoʻydim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandiqni"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "⟨the⟩ sandiqni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "unda"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "u olgan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T08:05:42.434014666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 130,
+  "translation": "Agar gunohlarni kuzatursan, ey Yah, kim tik turur, ey Adonay?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "gunohlarni"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "kuzatursan"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "tik turur"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:06.937189357Z",
+  "model": "glm-5.3"
+}

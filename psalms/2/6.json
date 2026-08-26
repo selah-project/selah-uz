@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "„Men esa Mashiaximni Tsiyon, muqaddas togʻim ustiga tayinladim.“",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Men esa"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "tayinladim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Mashiaximni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "muqaddas"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:16.382177379Z",
+  "model": "glm-5.3"
+}

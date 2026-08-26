@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Kelinglar, nonimni yenglar va men aralashtirgan vinomdan ichinglar.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "kelinglar"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "yenglar"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "nonimni"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "va ichinglar"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "vinodan"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "aralashtirgan (vinom)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:42:24.873208558Z",
+  "model": "glm-5.3"
+}

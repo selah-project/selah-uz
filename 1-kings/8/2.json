@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va butun Isroil odamlari qirolda Shlomo huzuriga Etanim oyida, bayramda — u yettinchi oy — yig‘ildi.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "yig‘ildi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odamlari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "oyida"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Etanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "bayramda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "oy"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yettinchi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:32:06.222795388Z",
+  "model": "glm-5.3"
+}

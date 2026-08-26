@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Yahve, Sen Sheoldan jonimni chiqarding, menga hayot berding — chuqurga tushayotganlardan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "chiqarding"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "menga hayot berding"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "tushayotganlardan"
+    },
+    {
+      "surface": "בור",
+      "gloss": "chuqur"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:01.562459795Z",
+  "model": "glm-5.3"
+}

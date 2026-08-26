@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Xetliklardan, Emorliklardan, Perizliklardan, Xivliklardan va Yevusliklardan qolgan butun xalq — ular Yisroeldan ⟨emas⟩ edi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "qolgan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Xetliklardan"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "va Emorliklardan"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "va Perizliklardan"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "va Xivliklardan"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "va Yevusliklardan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Yisroeldan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    }
+  ],
+  "timestamp": "2026-08-26T08:07:14.519870299Z",
+  "model": "glm-5.3"
+}

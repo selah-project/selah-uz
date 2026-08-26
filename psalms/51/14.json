@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Menga najotingdan quvonchni qaytar va saxovlat ruhi bilan meni qoʻllab-quvvatla",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "qaytar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "quvonch"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "najotingdan"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "va ruhi"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "saxovlat"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "meni qoʻllab-quvvatla"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:11.583929169Z",
+  "model": "glm-5.3"
+}

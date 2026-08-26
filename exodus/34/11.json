@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Oʻzing uchun saqla ⟨את⟩ — bu kun Men seni buyurgan narsamni; mana, Men senning yuzing qarshisidan haydab chiqararmen ⟨את⟩ haEmorilikni, va haKenaanlikni, va haXitlikni, va haPerizlikni, va haXivlikni, va haYevuslikni.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "saqla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzing uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu kun Men seni buyurgan narsamni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Men"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "seni buyurgan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bu kun"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mana, Men"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "haydab chiqararmen"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "senning yuzing qarshisidan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haEmorilikni"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "haEmorilikni"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "va haKenaanlikni"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "va haXitlikni"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "va haPerizlikni"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "va haXivlikni"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "va haYevuslikni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:48.711914017Z",
+  "model": "glm-5.3"
+}

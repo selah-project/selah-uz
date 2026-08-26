@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Chunki sen bizni sinading, Elohim, kumush qirilganidek bizni qirding.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "bizni sinading"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "bizni qirding"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "qirilganidek"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:58.367390338Z",
+  "model": "glm-5.3"
+}

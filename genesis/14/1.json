@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 14:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va ⟨bu⟩ Amrafel, Shinar podshohi, Arjok, Ellasar podshohi, Kedorlaomer, Elam podshohi va Tidal, goylar podshohisi kunlarida yuz berdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yuz berdi"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "kunlarida"
+    },
+    {
+      "surface": "אמרפל",
+      "gloss": "Amrafel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Shinar"
+    },
+    {
+      "surface": "אריוך",
+      "gloss": "Arjok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "אלסר",
+      "gloss": "Ellasar"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedorlaomer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ותדעל",
+      "gloss": "va Tidal"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohisi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "goylar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:47.569872088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yoyada ⟨את⟩ Yonatanni tugʻdi, va Yonatan ⟨את⟩ Yadduani tugʻdi.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Va Yoyada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "va Yonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaddua"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Yaddua"
+    }
+  ],
+  "timestamp": "2026-08-26T07:49:56.859812393Z",
+  "model": "glm-5.3"
+}

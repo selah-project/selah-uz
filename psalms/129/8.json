@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 129,
+  "translation": "Va oʻtib ketuvchilar: „Yahve barakasi sizlarga boʻlsin, sizlarni Yahve nomida barakaladik“ — demaydilar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va — demaydilar"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "aytmaslar"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "oʻtib ketuvchilar"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barakasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizlarga"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "barakaladik"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nomida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:11.749278281Z",
+  "model": "glm-5.3"
+}

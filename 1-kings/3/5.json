@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Givonda Yahve Shelomoga tunda, tushda koʻrindi, va Elohim aytdi: «Soʻra — nimni beray senga?»",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Givonda"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "koʻrindi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "tushda"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "soʻra"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nimni"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "beray"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:26:35.837287383Z",
+  "model": "glm-5.3"
+}

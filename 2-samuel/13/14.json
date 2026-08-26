@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va u uning ovozini tinglashga rozi boʻlmadi, va u undan kuchliroq edi, va uni kamsitdi, va ⟨את⟩ uning bilan yotdi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va — emas"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "rozi boʻlmadi"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "tinglashga"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "uning ovozini"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "u kuchliroq boʻldi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "undan"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "uni kamsitdi"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "yotdi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uning bilan yotdi — belgilangan obyekt (ayol)"
+    }
+  ],
+  "timestamp": "2026-08-26T03:11:47.443359171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Jonimni saqla va meni qutqar; uyalmayin, chunki senga panoh oldim.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "saqla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "va meni qutqar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uyalmayin"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "⟨uyalmayin⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "panoh oldim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:25.811300680Z",
+  "model": "glm-5.3"
+}

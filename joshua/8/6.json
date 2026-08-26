@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va bizning orqamizdan chiqadilar, biz ularni ⟨את⟩ shahardan tortib olguncha, chunki ular deydilar: „Ular bizning oldimizdan qochmoqdalar, birinchi marta boʻlgani kabi“ — va biz ular oldidan qochamiz.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Va chiqadilar"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "bizning orqamizdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…guncha"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "tortib olguncha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni (Ay odamlari)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "deydilar"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "qochmoqdalár"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "bizning oldimizdan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "birinchi marta"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "va qochamiz"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ular oldidan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:14:03.850760429Z",
+  "model": "glm-5.3"
+}

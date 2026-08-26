@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va eshitmaydigan odam kabi boʻldim, va ogʻzida daʼvatlar yoʻq.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Va boʻldim"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "odam kabi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitmaydigan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ogʻizda"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "daʼvatlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:08.903276055Z",
+  "model": "glm-5.3"
+}

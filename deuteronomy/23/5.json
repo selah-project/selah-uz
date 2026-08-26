@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Chunki ular yoʻlda, siz Misrdan chiqayotganingizda, sizni ⟨את⟩ non va suv bilan kutib olishmadi, va sizga qarshi ⟨את⟩ Bilamni, Beor oʻgʻlini, Pitordan, Aram-Naharaymdan, seni laʻnatlash uchun yolladilar.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "chunki... sababli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ish"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "kutib olishmadi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizni",
+      "marks": "non va suv bilan (kutib olish)"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "non bilan"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "va suv bilan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "chiqayotganingizda"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "va chunki"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "yolladilar"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sizga qarshi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "Pitordan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharaym"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "seni laʻnatlash uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T02:00:58.240524849Z",
+  "model": "glm-5.3"
+}

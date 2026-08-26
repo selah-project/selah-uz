@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "U aytdi: kim senga ⟨את⟩ yalangʻoch ekaningni aytdi? Men sizga yeyishni man qilmagan daraxtdanmidir sen olding?",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֤אמֶר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "מִֽי־",
+      "gloss": "kim"
+    },
+    {
+      "surface": "הִגִּ֥יד",
+      "gloss": "aytdi\/xabar berdi"
+    },
+    {
+      "surface": "לְךָ֙",
+      "gloss": "senga"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "…ekaningni"
+    },
+    {
+      "surface": "עֵירֹ֥ם",
+      "gloss": "yalangʻoch"
+    },
+    {
+      "surface": "אָ֑תָּה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "הֲמִן־",
+      "gloss": "…danmi"
+    },
+    {
+      "surface": "הָעֵ֗ץ",
+      "gloss": "daraxtdan"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "צִוִּיתִ֙יךָ֙",
+      "gloss": "senga buyurdim"
+    },
+    {
+      "surface": "לְבִלְתִּ֥י",
+      "gloss": "yemaslikka"
+    },
+    {
+      "surface": "אֲכָל־",
+      "gloss": "yeyish"
+    },
+    {
+      "surface": "מִמֶּ֖נּוּ",
+      "gloss": "undan"
+    },
+    {
+      "surface": "אָכָֽלְתָּ֙",
+      "gloss": "sening"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:44.154742366Z",
+  "model": "glm-5.3"
+}

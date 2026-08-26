@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va uning ustiga xoshenni ⟨את⟩ qoʻydi va xoshenning ichiga Urimni ⟨את⟩ va Tumimni ⟨את⟩ soldi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xoshenni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "xoshen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va soldi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ning ichiga"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "xoshen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urimni"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tumimni"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:31.276174022Z",
+  "model": "glm-5.3"
+}

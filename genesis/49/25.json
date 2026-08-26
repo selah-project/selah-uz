@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Otangning Elidan — U senga yordam beradi, va ⟨את⟩ Shadday — U senga baraka beradi: osmonlarning barakalari yuqoridan, Tehom barakalari pastda yotgancha, koʻkraklar va bachadon barakalari.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "Elidan"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otangning"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "U senga yordam beradi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Shadday"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "U senga baraka beradi"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barakalari"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlarning"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yuqoridan"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barakalari"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "Tehom"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "yotgancha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "pastda"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "barakalari"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "koʻkraklar"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "va bachadon"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:55.544041017Z",
+  "model": "glm-5.3"
+}

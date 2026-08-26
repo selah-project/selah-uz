@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 144,
+  "translation": "Ularki, ogʻizlari soʻzma-soʻz yolgʻon gapiradi va oʻng qoʻllari — yolgʻon oʻng qoʻl ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ularki"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ogʻizlari"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapiradi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "va oʻng qoʻllari"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oʻng qoʻl"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:25.266702031Z",
+  "model": "glm-5.3"
+}

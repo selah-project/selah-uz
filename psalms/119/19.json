@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Mehmonman men yerda, yashirmang mening oldimdan buyruqlaringni.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Mehmon"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "man"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yashirmang (not) ⟨olish⟩"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "yashirmang"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mening oldimdan"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "buyruqlaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:58.688741519Z",
+  "model": "glm-5.3"
+}

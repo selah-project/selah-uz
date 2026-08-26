@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Chunki Yahvening soʻzi toʻgʻridir, va barcha amallari sodiqlik ⟨bilandir⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "toʻgʻridir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "amallari"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sodiqlik ⟨bilandir⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:52.685813824Z",
+  "model": "glm-5.3"
+}

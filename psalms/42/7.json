@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Elohimim, ustimga tushgan buyuk suvlarda jonim choʻkadi; shuning uchun Seni eslayman — Yarden yeridan, Xermonlar choʻqqilaridan, Mitsar togʻidan.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "choʻkadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "Seni eslayman"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "va Xermonlar"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:52.312111436Z",
+  "model": "glm-5.3"
+}

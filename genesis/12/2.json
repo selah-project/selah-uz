@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Men seni buyuk xalqga aylantiraman, va seni barakalayman, va sening nomingni ulugʻlayman, va sen barakat boʻl.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "Va Men seni qilaman"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "xalqga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "va seni barakalayman"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "va ulugʻlayman"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "sening nomingni"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻl"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "barakat"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:10.393751279Z",
+  "model": "glm-5.3"
+}

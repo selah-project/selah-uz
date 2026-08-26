@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Shmuel Yahve yuzi oldida xizmat qilar edi — yosh, bed ipakdan efod bogʻlagan.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Va Shmuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "xizmat qilar edi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yosh"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "bogʻlagan"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "bed ipakdan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:39:14.141181550Z",
+  "model": "glm-5.3"
+}

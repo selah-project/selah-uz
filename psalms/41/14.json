@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Baraklangan — Yahve, Isroilning Elohimi, abadiylikdan va abadiylikgacha. Omin va omin.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Baraklangan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "abadiylikdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ... gacha"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "abadiylik"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Omin"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "va omin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:07:28.084176916Z",
+  "model": "glm-5.3"
+}

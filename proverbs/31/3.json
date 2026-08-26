@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Ayollarga kuchingni bermagin, va yoʻllaringni — shohlarni yoʻq qiluvchiga ⟨bermagin⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "bermagin"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "berma(gin)"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "ayollarga"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "kuchingni"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "va yoʻllaringni"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "yoʻq qiluvchiga"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "shohlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:53:08.790805795Z",
+  "model": "glm-5.3"
+}

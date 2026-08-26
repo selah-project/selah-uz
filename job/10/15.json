@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 10:15",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Agar yomonlik qilgan boʻlsam — voy menga! va agar solih boʻlsam — boshimni koʻtarmayman; xorlikka toʻyibman va musibatimni koʻrib turaman.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "yomonlik qilgan boʻlsam"
+    },
+    {
+      "surface": "אללי",
+      "gloss": "voy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "va agar solih boʻlsam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "koʻtarmayman"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "boshimni"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toʻyibman"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "xorlikka"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "va koʻrib turaman"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "musibatimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:57:30.988898422Z",
+  "model": "glm-5.3"
+}

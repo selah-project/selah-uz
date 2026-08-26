@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 22:3",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va David u yerdan Moab Mitspesiga ketdi va Moab qiroliga aytdi: Iltimos, otam va onam sizlar ⟨את⟩ bilan chiqsinlar, men Elohimning menga nima qilishini bilguncha.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Va ... ketdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "Mitspe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqsin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otam"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "va onam"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlar bilan",
+      "marks": "sizlar bilan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…guncha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ki"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "men bilguncha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qilishini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T02:57:27.987473171Z",
+  "model": "glm-5.3"
+}

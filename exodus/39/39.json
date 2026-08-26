@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 39:39",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "⟨את⟩ mis qurbongoh, ⟨va את⟩ uning mis toʻrigi, unga tegishli, ⟨את⟩ uning tayoqlari, ⟨va את⟩ uning barcha asboblari, ⟨את⟩ yuvinish havzasi va ⟨את⟩ uning asosini.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mis qurbongoh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "mis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨va את⟩",
+      "marks": "uning mis toʻrigi"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "toʻr"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "mis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga tegishli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning tayoqlari"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "uning tayoqlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨va את⟩",
+      "marks": "uning barcha asboblari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uning asboblari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuvinish havzasi"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "yuvinish havzasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨va את⟩",
+      "marks": "uning asosi"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "uning asosi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:19.647579351Z",
+  "model": "glm-5.3"
+}

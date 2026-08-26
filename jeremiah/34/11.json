@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Lekin keyin qaytdilar va qaytardilar ⟨את⟩ qullarni va ⟨את⟩ chola qul ayollarni, kimlarni ozod qilib yuborgan edilar, va ularni boʻysundirdilar qullar va chola qul ayollar qilib.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "va qaytdilar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shundan"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "va qaytardilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullarni"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "qullarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "chola qul ayollarni"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "chola qul ayollarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimlarni"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "yuborgan edilar"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "ozod"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "va ularni boʻysundirdilar"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "qullar qilib"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "va chola qul ayollar qilib"
+    }
+  ],
+  "timestamp": "2026-08-26T04:56:44.273203152Z",
+  "model": "glm-5.3"
+}

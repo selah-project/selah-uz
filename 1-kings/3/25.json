@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va podshoh aytdi: tirik boloni ikkiga boʻling ⟨את⟩, yarimni biriga bering va ⟨את⟩ yarimni ikkinchisiga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "boʻling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boloni"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "boloni"
+    },
+    {
+      "surface": "החי",
+      "gloss": "tirik"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "ikkiga"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "va bering"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yarimni"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "yarimni"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "biriga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yarimni"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "yarimni"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ikkinchisiga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:26:51.413929319Z",
+  "model": "glm-5.3"
+}

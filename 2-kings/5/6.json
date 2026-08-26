@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "U maktubni Isroil shohiga olib keldi, unda degan edi: «Va endi, bu maktub senga kelganda, mana, men senga ⟨את⟩ xizmatkori Naamanni yubordim, sen esa uni mojarasidan (tzaraatidan) davolab qaytar».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "u olib keldi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "maktubni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan edi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "kelganda"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "maktub"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "men yubordim"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xizmatkori Naamanni"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naaman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "xizmatkorim"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "sen uni qaytarsan"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "uning tzaraatidan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:51:18.983902580Z",
+  "model": "glm-5.3"
+}

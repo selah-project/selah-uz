@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Avraham ⟨את⟩ yettita urgʻochi qoʻzichoqni podadan alohida qoʻydi.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yettita urgʻochi qoʻzichoq"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yettita"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "urgʻochi qoʻzichoq"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "podaning"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "alohida"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:30.775214326Z",
+  "model": "glm-5.3"
+}

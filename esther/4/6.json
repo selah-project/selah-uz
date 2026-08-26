@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Hatax chiqdi Mordechay huzuriga, podshoh darvozasining oldidagi shahar maydoniga.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "chiqdi"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatax"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…huzuriga"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordechay"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "maydoni"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "שער",
+      "gloss": "darvoza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    }
+  ],
+  "timestamp": "2026-08-26T07:25:39.454631038Z",
+  "model": "glm-5.3"
+}

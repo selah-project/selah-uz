@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 54,
+  "translation": "Elohim, duomni eshit, ogʻzimning soʻzlariga quloq tut.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshit"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duomni"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "quloq tut"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "soʻzlariga"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻzimning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:31.487118938Z",
+  "model": "glm-5.3"
+}

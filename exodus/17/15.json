@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Moshe qurbongoh qurdi va uning nomini Yahve-Nissi deb atadi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "va qurdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va atadi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning nomini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:36.413357129Z",
+  "model": "glm-5.3"
+}

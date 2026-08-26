@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Yoavga xabar berildi: mana, podshoh yigʻlayapti va Avshalom ustidan motam tutmoqda.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "xabar berildi"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Yoavga"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "yigʻlayapti"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "motam tutmoqda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-08-26T03:19:31.935925961Z",
+  "model": "glm-5.3"
+}

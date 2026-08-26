@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Va qoʻzichoqni ⟨את⟩, don-qurbonlikni ⟨va את⟩ va moyni ⟨va את⟩ ertalab-ertalab tayyorlansin — uzluksiz olovo-qurbonlik.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Va tayyorlansin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻzichoqni"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "qoʻzichoq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨va את⟩",
+      "marks": "don-qurbonlikni"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "don-qurbonlik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨va את⟩",
+      "marks": "moyni"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ertalab"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ertalab"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "olovo-qurbonlik"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "uzluksiz"
+    }
+  ],
+  "timestamp": "2026-08-26T05:32:32.330620068Z",
+  "model": "glm-5.3"
+}

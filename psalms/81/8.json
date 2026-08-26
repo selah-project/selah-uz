@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Tanglikda sen chaqirding va Men seni qutqardim; momoquldagʻi sirda senga javob berdim; Meriva suvlari ustida seni sinadimgina. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "tanglikda"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "chaqirding"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "va seni qutqardim"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "senga javob berdim"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sirda"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "momoquldagʻi"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "seni sinadim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "מי",
+      "gloss": "suvlari"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriva"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:08.191229774Z",
+  "model": "glm-5.3"
+}

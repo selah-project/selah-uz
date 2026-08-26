@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Va barcha podshohlar unga sajda qiladi, barcha xalqlar unga xizmat qiladi.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "va sajda qiladi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "podshohlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "unga xizmat qiladi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:13.132846561Z",
+  "model": "glm-5.3"
+}

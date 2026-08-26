@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Gomerning oʻgʻillari: Ashkenaz va Rifat va Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Va ... oʻgʻillari"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomerning"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "va Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "va Togarma"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:45.610378719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Va otamiz dedi: qaytib boringlar, bizga ozgina oziq-ovqat sotib olinglar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "otamiz"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "qaytib boringlar"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "sotib olinglar"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ozgina"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oziq-ovqat"
+    }
+  ],
+  "timestamp": "2026-08-26T00:47:22.116348717Z",
+  "model": "glm-5.3"
+}

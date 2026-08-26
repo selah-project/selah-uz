@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Yana Pelishtim bilan Isroil oʻrtasida urush boʻldi, va David oʻzgalaridek xizmatkorlari bilan tushdi va Pelishtim bilan jang qildilar, va David charchadi.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "urush"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "Pelishtim bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "va tushdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "va xizmatkorlari"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "va jang qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "va charchadi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-08-26T03:20:06.444878779Z",
+  "model": "glm-5.3"
+}

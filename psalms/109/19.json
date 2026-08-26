@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Unga kiyim kabi bo'lsin -- uni yopadi -- va doim bog'langan belbog' kabi bo'lsin.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "bo'lsin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "kiyim kabi"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "uni yopadi"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "va belbog' kabi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "bog'langan bo'lsin"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:05.494851612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va unga aytishdi: yoʻq, adonim, chattoklaringiz ozuqa sotib olishga kelgan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "va aytishdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "adonim"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "chattoklaringiz"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kelgan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "sotib olishga"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ozuqa"
+    }
+  ],
+  "timestamp": "2026-08-26T00:45:34.684164161Z",
+  "model": "glm-5.3"
+}

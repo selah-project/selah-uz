@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 144,
+  "translation": "Elohim, senga yangi qoʻshiq kuylayman, navorli asbobda, oʻn torli ijro etaman senga.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yangi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "kuylayman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "navorli asbobda"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "oʻn torli"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ijro etaman"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:41.144086268Z",
+  "model": "glm-5.3"
+}

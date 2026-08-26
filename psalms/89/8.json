@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "El — muqaddaslar sodida dahshatli ⟨va⟩ ulugʻ, va Uning atrofidagi barcha uchun qoʻrqinchli.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "dahshatli"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "sodda"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "muqaddaslar"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ulugʻ"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "va qoʻrqinchli"
+    },
+    {
+      "surface": "על",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "uning atrofidagi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:12.302972331Z",
+  "model": "glm-5.3"
+}

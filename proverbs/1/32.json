@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Chunki beoqillarning qaytarilishi ularni oʻldiradi va ahmoqlarning oromi ularni yoʻq qiladi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "qaytarilishi"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "beoqillarning"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "ularni oʻldiradi"
+    },
+    {
+      "surface": "ושלות",
+      "gloss": "va oromi"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ahmoqlarning"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "ularni yoʻq qiladi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:39:18.257289936Z",
+  "model": "glm-5.3"
+}

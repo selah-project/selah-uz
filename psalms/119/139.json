@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Yondirib yubordi meni gʻamimdan alangam, chunki unutdilar soʻzlaringni dushmanlarim.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "yondirib yubordi meni"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "gʻamimdan alangam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "unutdilar"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "soʻzlaringni"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "dushmanlarim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:02.726622319Z",
+  "model": "glm-5.3"
+}

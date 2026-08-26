@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va uning aka-ukalari otalari uni barcha aka-ukalaridan ko'ra yaxshi ko'rishini ko'rdilar, va uni yomon ko'rdilar, va unga tinchlik bilan gapira olmadilar.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ko'rdilar"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "uning aka-ukalari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "...ni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni yaxshi ko'rishini"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yaxshi ko'rish"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "otalari"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barchasidan ko'ra"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "aka-ukalari"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "yomon ko'rdilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "olmadilar"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "gapira"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "tinchlik bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:43:15.780833245Z",
+  "model": "glm-5.3"
+}

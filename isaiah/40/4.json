@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Har bir vodiy koʻtariladi, va har bir togʻ va tepa past qilinadi, va qiyshiq tekisga aylanadi, va notekisliklar vodiyga aylanadi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "vodiy"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "koʻtariladi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va har bir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "togʻ"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "va tepa"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "past qilinadi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻladi"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "qiyshiq"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "tekisga"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "va notekisliklar"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "vodiyga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:26:31.799223976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va oʻsha vaqtda yuz berdi-ki, Yahuda aka-ukalaridan ⟨את⟩ tushdi va Adullamlik bir kishiga yon berdi, uning nomi Xira edi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yuz berdi-ki"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "oʻsha vaqtda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "aka-ukalaridan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "aka-ukalaridan"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "yon berdi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir kishiga"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "Adullamlik"
+    },
+    {
+      "surface": "וshמו",
+      "gloss": "uning nomi"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "Xira"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:10.315352488Z",
+  "model": "glm-5.3"
+}

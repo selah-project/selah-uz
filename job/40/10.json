@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Hoziroy, ulugʻlik va boylugʻ bilan bezan, shon-shavkat va ulugʻvorlikni kiyingil.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "bezan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "hoziroy"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ulugʻlik"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "va boylugʻ"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "va shon-shavkat"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "va ulugʻvorlik"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "kiyingil"
+    }
+  ],
+  "timestamp": "2026-08-26T07:09:32.950535349Z",
+  "model": "glm-5.3"
+}

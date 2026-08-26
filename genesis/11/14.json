@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Shelax oʻttiz yil yashadi va ⟨את⟩ Everni tugʻdi.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Va Shelax"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "oʻttiz"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "va tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Everni"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:24.209935438Z",
+  "model": "glm-5.3"
+}

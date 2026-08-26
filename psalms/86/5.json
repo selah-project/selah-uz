@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Chunki Sen, Adonay, yaxshisan va magʻfiratlis_an, va senga murojaat qilganlarga barchasiga xesed bilan moʻlsan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshisan"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "va magʻfiratlis_an"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "va moʻl"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barchasiga"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "senga murojaat qilganlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:25.152919326Z",
+  "model": "glm-5.3"
+}

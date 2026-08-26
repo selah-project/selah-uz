@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va kohin ⟨את⟩ bitta qoʻzichoqni oladi va uni ayb qurbonligi sifatida taqdim etadi, va ⟨את⟩ moyning logʻini, va ularni Yahve huzurida tebranish taqdimosi sifatida tebratadi.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "va oladi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bitta qoʻzichoqni"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "qoʻzichoqni"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "va taqdim etadi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni (qoʻzichoqni)"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "ayb qurbonligi sifatida"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "moyning logʻini"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "moyning"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "va tebratadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni (qoʻzichoq va moyni)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tebranish taqdimosi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:16:16.860860034Z",
+  "model": "glm-5.3"
+}

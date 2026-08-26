@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va yiqildi Avrom yuzi ustiga, va gapirdi ⟨את⟩ bilan Elohim, aytib:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "va yiqildi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avrom"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "u (Avrom) bilan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aytib"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:41.633189561Z",
+  "model": "glm-5.3"
+}

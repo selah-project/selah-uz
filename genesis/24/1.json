@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Avraham qaraydi, kunlarga yetib kirdi, va Yahve Avrahamni ⟨את⟩ hamma narsada barakaladi.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qaraydi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "yetib kirdi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "kunlarga"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "va Yahve"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barakaladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avrahamni"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahamni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "hamma narsada"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:30.306070065Z",
+  "model": "glm-5.3"
+}

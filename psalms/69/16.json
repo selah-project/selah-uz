@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Suv oqimi meni yuvib yubormasin, va chuqurlik yutib yubormasin meni, va quduq ogʻzini ustimga yopmasin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "‑masin"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "yuvib yubormasin meni"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "oqimi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ‑masin"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "yutib yubormasin meni"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "chuqurlik"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ‑masin"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "yopmasin"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ustimga"
+    },
+    {
+      "surface": "באר",
+      "gloss": "quduq"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ogʻzini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:43.237634900Z",
+  "model": "glm-5.3"
+}

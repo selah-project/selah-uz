@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Yoshligimning gunohlarini va isyonlarimni eslama; xesedingcha meni esla, Sen, yaxshiliging uchun, ey Yahve.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "gunohlarini"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "yoshligimning"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "va isyonlarimni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eslama"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "eslama"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "xesedingcha"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "esla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "yaxshiliging"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:34.407478741Z",
+  "model": "glm-5.3"
+}

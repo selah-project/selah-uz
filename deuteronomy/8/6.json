@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Yahve, Elohimingning buyruqlarini saqlagin — uning yoʻllarida yurish uchun va undan qoʻrquv ⟨אתו⟩ bilan qoʻrqish uchun.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "va saqlagin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyruqlarini"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyruqlarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohimingning"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yurish uchun"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "uning yoʻllarida"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "va qoʻrqish uchun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T08:24:40.691497597Z",
+  "model": "glm-5.3"
+}

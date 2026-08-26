@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Meni qonlardan qutqar, Elohim, najotimning Elohimi, tilim adolatingni kuylaydi",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "meni qutqar"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "qonlardan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "najotimning"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "kuylaydi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "tilim"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "adolatingni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:11.584174670Z",
+  "model": "glm-5.3"
+}

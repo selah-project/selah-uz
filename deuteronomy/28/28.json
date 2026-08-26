@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Yahve seni aqldan ozish, koʻrlik va yurak hayronligi bilan uradi.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "uradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "aqldan ozish bilan"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "koʻrlik bilan"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "hayronlik bilan"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "yurak ⟨ning⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T08:25:35.920288834Z",
+  "model": "glm-5.3"
+}

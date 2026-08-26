@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va Men o'zim ⟨את⟩ yerni vayron qilaman, unda yashovchi dushmanlaringiz esa unga hayron bo'lurlar.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "va ... vayron qilaman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men o'zim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "hayron bo'lurlar"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dushmanlaringiz"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "yashovchi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:59.036215504Z",
+  "model": "glm-5.3"
+}

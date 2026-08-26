@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Ey xalqlar, Elohimimizni barakolang va Uning maqtovining ovozini eshittiringiz.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "barakolang"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Ey xalqlar"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizni"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "va eshittiringiz"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "Uning maqtovining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:10.997160580Z",
+  "model": "glm-5.3"
+}

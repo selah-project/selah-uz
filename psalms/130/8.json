@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 130,
+  "translation": "Va U Isroilni ⟨את⟩ barcha gunohlaridan xalos qiladi.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "va U"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "xalos qiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "gunohlaridan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:44.420205062Z",
+  "model": "glm-5.3"
+}

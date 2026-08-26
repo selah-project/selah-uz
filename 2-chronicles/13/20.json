@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Yarovam Aviya kunlarida undan keyin kuchini tiklay olmadi, va Yahve uni urdi, va u oʻldi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... olmadi"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "tikladi"
+    },
+    {
+      "surface": "כח",
+      "gloss": "kuch"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "kunlarida"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "va uni urdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "va u oʻldi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:09:02.198787757Z",
+  "model": "glm-5.3"
+}

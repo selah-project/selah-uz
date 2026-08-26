@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "U esa aytdi: endi ham, sizlarning soʻzlaringizga koʻra shunday boʻlsin — kimniki ⟨את⟩ bilan topilsa, u menga qul boʻladi, sizlar esa aybsiz boʻlasizlar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "u esa aytdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "endi"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "sizlarning soʻzlaringizga koʻra"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimniki"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "topilsa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "u (u bilan)"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "qul"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "sizlar esa"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "boʻlasizlar"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "aybsiz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:19.629416847Z",
+  "model": "glm-5.3"
+}

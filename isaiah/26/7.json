@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Solih kishi uchun yoʻl ⟨⟨toʻgʻrilikdir⟩⟩; ey Toʻgʻri Boʻlgan, solihning izini tekislaysan.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "solih kishi uchun"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "toʻgʻrilik"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ey Toʻgʻri Boʻlgan"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "iz"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solihning"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "tekislaysan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:16:44.182919726Z",
+  "model": "glm-5.3"
+}

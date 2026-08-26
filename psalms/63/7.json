@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 63,
+  "translation": "Yotoqligimda Seni eslaganimda, tunning saqlarida Sen haqingda gʻoylanaman.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "…ganimda"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "Seni esla-"
+    },
+    {
+      "surface": "על",
+      "gloss": "…da"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "yotoqligim"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "tunning saqlarida"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "gʻoylanaman"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Sen haqingda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:24.695198561Z",
+  "model": "glm-5.3"
+}

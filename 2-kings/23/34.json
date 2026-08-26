@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-kings 23:34",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Paroh Nekox Yoshiyaxuning oʻgʻli Eliyakimni otasi Yoshiyaxu oʻrniga podshoh qildi; va uning ismini Yehoyakimga oʻzgartirdi; va ⟨את⟩ Yehoaxazni olib ketdi; u Mitsrayimga keldi va u yerda vafot etdi.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "podshoh qildi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "נכה",
+      "gloss": "Nekox"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyakimni"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eliyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyaxuning"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "oʻrniga"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyaxu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "va oʻzgartirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning ismini"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning ismini"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yehoaxazni"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoaxaz"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "olib ketdi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "va vafot etdi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T04:06:26.122197106Z",
+  "model": "glm-5.3"
+}

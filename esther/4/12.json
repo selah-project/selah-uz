@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va ular Mordoxayga Esterning ⟨את⟩ soʻzlarini aytdilar.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "va aytdilar"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordoxayga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlarini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlari"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esterning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:24:53.817149527Z",
+  "model": "glm-5.3"
+}

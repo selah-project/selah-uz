@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Yorom otalari bilan yotdi va otalari bilan Dovud shahrida dafn etildi va uning o‘g‘li Axazyo uning o‘rniga podshoh bo‘ldi.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "va yotdi"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yorom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otalari"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "va dafn etildi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otalari"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shahrida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "va podshoh bo‘ldi"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Axazyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "uning o‘g‘li"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "uning o‘rniga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:52:28.579895074Z",
+  "model": "glm-5.3"
+}

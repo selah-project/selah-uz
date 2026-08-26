@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Keltiriladi ular xursandchilik va quvonch bilan; kirib keladi shoh saroyiga.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "Keltiriladi ular"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "xursandchilik bilan"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "va quvonch"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "kirib keladi"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "saroyiga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:15.565675Z",
+  "model": "glm-5.3"
+}

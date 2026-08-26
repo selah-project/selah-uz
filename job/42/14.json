@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 42:14",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va u birinchisiga ism qoʻydi — Yemima, ikkinchisiga ism — Ketsiya, uchinchisiga ism — Keren-Hapux.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va u ism qoʻydi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ism"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "birinchisiga"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "Yemima"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "va ism"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikkinchisiga"
+    },
+    {
+      "surface": "קציעה",
+      "gloss": "Ketsiya"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "va ism"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "uchinchisiga"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "Keren"
+    },
+    {
+      "surface": "הפוך",
+      "gloss": "Hapux"
+    }
+  ],
+  "timestamp": "2026-08-26T07:11:31.589794324Z",
+  "model": "glm-5.3"
+}

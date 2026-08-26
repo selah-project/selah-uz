@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 127,
+  "translation": "Kuchli qoʻlida oʻqlar singari — shunday yoshlikning oʻgʻillari ⟨bor⟩.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "oʻqlar singari"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻlida"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "kuchli"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "yoshlikning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:33.352819400Z",
+  "model": "glm-5.3"
+}

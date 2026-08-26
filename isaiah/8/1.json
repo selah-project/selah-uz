@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Yahve menga dedi: oʻzingga katta lavha ol va uning ustiga odam grafigi bilan yoz: Maher-Shalal-Chash-Baz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va … dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ol"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzingga"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "lavha"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "katta"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "va yoz"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "grafik bilan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maher («tez»)"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal («olib»)"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Chash («shoshil»)"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz («olja»"
+    }
+  ],
+  "timestamp": "2026-08-26T04:08:08.106733017Z",
+  "model": "glm-5.3"
+}

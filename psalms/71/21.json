@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Kattaligimni oshirasan va yana suyalib meni tasalli berasan.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "oshirasan"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "kattaligimni"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "va yana suyalib"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "meni tasalli berasan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:09.247716422Z",
+  "model": "glm-5.3"
+}

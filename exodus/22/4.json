@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Agar kishi dalani yoki uzumzorni yedirsa, va ⟨את⟩ mollarni haydab yuborsa va boshqa ⟨kishining⟩ dalasida yedirsa — oʻz dalasining eng yaxshisidan va oʻz uzumzorining eng yaxshisidan toʻlaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "yedirsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "dalani"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "uzumzorni"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "va yuborsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mollarni"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "mol"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "va yedirsa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dalada"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "eng yaxshisidan"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "uning dalasi"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "va eng yaxshisidan"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "uning uzumzori"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "toʻlaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:30.432251459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Chunki ming yil koʻzingda kecha oʻtgan kunningERT chaqiriqigacha oʻzgina kundekdir.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "koʻzingda"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kundek"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "kecha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "oʻtgach"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "oʻtgan"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "chaqiriq"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:02.156655245Z",
+  "model": "glm-5.3"
+}

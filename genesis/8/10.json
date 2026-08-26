@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va u yana boshqa yetti kun kutdi, va kabutarni ⟨את⟩ kemadan yuborishga qoʻshdi.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "va u kutdi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "va u qoʻshdi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yuborishga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabutarni"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "kabutarni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "kema"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:31.917456831Z",
+  "model": "glm-5.3"
+}

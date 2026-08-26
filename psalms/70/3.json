@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 70,
+  "translation": "Uyalib sarosimaga tushsinlar jonimni qidirganlar; orqaga chekinsinlar va xijolat boʻlsinlar — yomonligimni xohlaganlar.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "uyalsinlar"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "va sarosimaga tushsinlar"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "qidirganlar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "chekinsinlar"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "orqaga"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "va xijolat boʻlsinlar"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "xohlaganlar"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "yomonligimni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:36.994328199Z",
+  "model": "glm-5.3"
+}

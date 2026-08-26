@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Asaf mazmuri. Haqiqatan, Yisroelga Elohim yaxshi — toza qalbli kishilarga.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "mazmur"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Asafga"
+    },
+    {
+      "surface": "אך",
+      "gloss": "haqiqatan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Yisroelga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "…largа"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "toza qalbli kishilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:22.699134356Z",
+  "model": "glm-5.3"
+}

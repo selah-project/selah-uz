@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va ularni kunduzi bulut bilan boshladi, butun kechani esa olov nuri bilan.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "va ularni boshladi"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "bulut bilan"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "kunduzi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "kechani"
+    },
+    {
+      "surface": "באור",
+      "gloss": "nur bilan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:30.113973288Z",
+  "model": "glm-5.3"
+}

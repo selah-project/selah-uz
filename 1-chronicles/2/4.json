@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Tomar, uning keliniga, unga ⟨את⟩ Peres va ⟨את⟩ Zaraxni tugʻdi. Yehudaning barcha oʻgʻillari — beshta.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "va Tomar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "uning kelini"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peres"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Zarax"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zarax"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaning"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "beshta"
+    }
+  ],
+  "timestamp": "2026-08-26T08:50:58.559352712Z",
+  "model": "glm-5.3"
+}

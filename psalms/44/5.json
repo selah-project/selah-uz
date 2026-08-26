@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Sen sensan, mening shohim, Elohim; Yaakovga najotlar(ישועות)ni buyur.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sensen"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mening shohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyur"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "najotlar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakovga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:33.471463547Z",
+  "model": "glm-5.3"
+}

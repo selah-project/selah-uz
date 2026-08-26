@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Hatto qachonki faryod chiqsam va yolvorsam ham, duomni berk qoʻydi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "qachonki"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "faryod chiqsam"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "va yolvorsam"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "berk qoʻydi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duomni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:15:28.106827347Z",
+  "model": "glm-5.3"
+}

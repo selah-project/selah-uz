@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Men Yahveni izladim va u menga javob berdi va barcha qoʻrquvlarimdan meni qutqardi.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "izladim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "va menga javob berdi"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "qoʻrquvlarimdan"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "meni qutqardi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:11.592234713Z",
+  "model": "glm-5.3"
+}

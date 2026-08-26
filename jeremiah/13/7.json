@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Peratga bordim va qazidim va ⟨את⟩ kamarni uni yashirgan joyimdan oldim, va mana, kamar buzilgan edi — hech narsaga yaramas edi.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "va bordim"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "Peratga"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "va qazidim"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "va oldim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamarni"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ni"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "men uni yashirgan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "buzilgan"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "kamar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "yaramaydi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hech narsaga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:44:46.846653180Z",
+  "model": "glm-5.3"
+}

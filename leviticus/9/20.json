@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va ular ⟨את⟩ moylarni koʻkraklar ustiga qoʻydilar, va u moylarni qurbongohda tutatdi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "qoʻydilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moylarni"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "moylarni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "koʻkraklar"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "tutatdi"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "moylarni"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "qurbongohda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:58.737920649Z",
+  "model": "glm-5.3"
+}

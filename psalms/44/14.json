@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 44:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Sen bizni qo'shnilarimiz uchun masxara, atrofimizdagilar uchun kulgi va hairogʻ qilib qo'yding.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "qilib qo'yding"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "masxara"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "qo'shnilarimiz uchun"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "kulgi"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "va hairogʻ"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "atrofimizdagilar uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:29.811322784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Tanlangan ⟨is⟩ nom — koʻp boylikdan, kumush va oltindan — yaxshi marhamatdan ⟨ustun⟩.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "tanlangan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "boylikdan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "kumushdan"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "va oltindan"
+    },
+    {
+      "surface": "חן",
+      "gloss": "marhamat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:47:57.987464198Z",
+  "model": "glm-5.3"
+}

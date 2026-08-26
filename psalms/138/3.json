@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 138,
+  "translation": "Chaqirgan kunimda Sen meni javob berding, jonimdagi kuchimni zoʻr qilib yugurtirding.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "kunimda"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "chaqirgan"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "va ... javob berding"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "zoʻr qilib yugurtirding"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "jonimdagi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kuchimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:25.878004411Z",
+  "model": "glm-5.3"
+}

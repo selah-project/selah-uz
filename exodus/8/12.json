@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Yahve Mozhega dedi: Ahronga ayting: tayoʻgingizni choʻzing va ⟨את⟩ yer changini urgʻinki, u butun Misr yerida chivinlarga aylansin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mozhe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayting"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "choʻzing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tayoʻgingizni"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "tayoʻgingiz"
+    },
+    {
+      "surface": "והך",
+      "gloss": "va urgʻinki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yer changini"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "chang"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻlsin"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "chivinlarga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yernida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:25.088373829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Bandingning ahdidan voz kechding, uning tojisini erga tashlab murdlading.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "voz kechding"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bandingning"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "murdlading"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "erga"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "uning tojini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:08.047918290Z",
+  "model": "glm-5.3"
+}

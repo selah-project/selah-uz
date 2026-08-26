@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 137,
+  "translation": "Bobil daryolari boʻyida oʻtirganmiz — u yerda, hatto yigʻlaganmiz, Tsiyonni eslaganimizda ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "boʻyida"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "daryolari"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bobil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "oʻtirganmiz"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "yigʻlaganmiz"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "eslaganimizda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyonni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:57.829500980Z",
+  "model": "glm-5.3"
+}

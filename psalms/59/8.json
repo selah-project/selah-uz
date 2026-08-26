@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Mana, ogʻizlari bilan ⟨soʻz⟩ otilib chiqaradi — lablarida qilichlar; chunki: „Kim ⟨buni⟩ eshitadi?“",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "otilib chiqaradi"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ogʻizlari bilan"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "qilichlar"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "lablarida"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:38.745798128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 31:23",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va u ⟨את⟩ Nun oʻgʻli Yehoshuaga buyruq berdi va aytdi: kuchli boʻl va jasur boʻl, chunki sen ⟨את⟩ Yisroel oʻgʻillarini men ularga qasam ichgan oʻlkaga kiritasan, va Men senni bilan boʻlaman.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Va u buyruq berdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuchli boʻl"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "va jasur boʻl"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "kiritasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisroel oʻgʻillari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "oʻlka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ni"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "men qasam ichganman"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "va Men"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "boʻlaman"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "senni bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:08:55.116624808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Rehavam Shkemga bordi, chunki butun Isroil uni qilish uchun — ⟨את⟩ni podshoh qilish uchun Shkemga kelgan edi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "va bordi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kelgan edi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "podshoh qilish uchun"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (Rehavamni)"
+    }
+  ],
+  "timestamp": "2026-08-26T03:38:24.442471134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va uning lashuni va uning sanalganlari — olti va qirq ming va besh yuz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "va uning lashuni"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "va uning sanalganlari"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "olti"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "va qirq"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "va besh"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:25:38.209953114Z",
+  "model": "glm-5.3"
+}

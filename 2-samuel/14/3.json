@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va podshoh oldiga kirib, unga mana shu soʻzicha gapirgin. Va Yoab ⟨את⟩ soʻzlarni uning ogʻziga qoʻydi.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Va kirib"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "va … gapirgin"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "soʻzicha"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "mana shu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "Va … qoʻydi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlarni"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "uning ogʻziga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:12:34.866456877Z",
+  "model": "glm-5.3"
+}

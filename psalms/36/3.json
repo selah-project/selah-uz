@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Chunki u oʻz koʻzida oʻzini silliq koʻrsatdi, — ⟨את⟩ gunohi topilsin va yomon koʻrilsin deb.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "silliq koʻrsatdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "oʻzini"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "oʻz koʻzida"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "topilsin deb"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "uning gunohi"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "yomon koʻrilsin deb"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:27.610176332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Barakali sensan shaharda, va barakali sensan dalada.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barakali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sensan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shaharda"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "va barakali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sensan"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dalada"
+    }
+  ],
+  "timestamp": "2026-08-26T02:04:16.264098460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 128,
+  "translation": "Xotining — mevali tok kabi uyning ichki burchaklarida; farzandlaring — zaytun koʻchatlari kabi dasturxon atrofida.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Xotining"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "tok kabi"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "mevali"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "ichki burchaklarida"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "uyning"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "farzandlaring"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "koʻchatlari kabi"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "zaytun"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofida"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "dasturxon"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:09.202830824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va sakkizinchi kunda uning sunnat goʻshti sunnat qilinadi.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "va… kunda"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "sakkizinchi"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "sunnat qilinadi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goʻshti"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "uning sunnati"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:50.266575311Z",
+  "model": "glm-5.3"
+}

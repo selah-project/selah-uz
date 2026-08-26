@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va ⟨את⟩ dasturxoni va ⟨את⟩ barcha asbob-uskunasini va ⟨את⟩ chiroqgʻohni va ⟨את⟩ uning asboblarini va ⟨את⟩ tandir qurbongohini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "dasturxoni"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "dasturxoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha asbob-uskunasini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "asbob-uskunasini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "chiroqgʻohni"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "chiroqgʻohni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning asboblarini"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "uning asboblarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tandir qurbongohini"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongohini"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "tandir"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:31.166430091Z",
+  "model": "glm-5.3"
+}

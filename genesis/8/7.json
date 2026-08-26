@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va u ⟨את⟩ qargʻani chiqarib yubordi; u suvlar yerdan quriguncha chiqib-qaytib yurdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Va u yubordi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qargʻani"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "qargʻani"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "va u chiqdi"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "chiqib"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "qaytib"
+    },
+    {
+      "surface": "עד",
+      "gloss": "guncha"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "quriguncha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:10.784108676Z",
+  "model": "glm-5.3"
+}

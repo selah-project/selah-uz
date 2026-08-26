@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Mortal kabi ⟨mus⟩ kunlaringmi, bashang kunlari kabi yillaringmi?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "kabimi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "mortal"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "kunlaring"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mi"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "yillaring"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kunlari kabi"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "basha"
+    }
+  ],
+  "timestamp": "2026-08-26T06:57:15.992075555Z",
+  "model": "glm-5.3"
+}

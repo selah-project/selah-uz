@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Hadad Mitzrayimda eshitdi ki, David otalari bilan yotgan va ki, Yoav — qoʻshin sardori — oʻlgan; va Hadad Fargʻonga dedi: Meni yubor, va men oʻz yurtimga boraman.",
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "Va Hadad"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitzrayimda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yotgan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "otalari"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "va ki"
+    },
+    {
+      "surface": "מת",
+      "gloss": "oʻlgan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sardori"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "qoʻshinning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Fargʻon"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "meni yubor"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "va boraman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "yurtimga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:32:03.214674290Z",
+  "model": "glm-5.3"
+}

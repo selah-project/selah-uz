@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va agar u kambagʻal odam boʻlsa — uning garovida yotmagin.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Va agar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "עני",
+      "gloss": "kambagʻal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "yotmagin"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "uning garovida"
+    }
+  ],
+  "timestamp": "2026-08-26T02:00:29.974835516Z",
+  "model": "glm-5.3"
+}

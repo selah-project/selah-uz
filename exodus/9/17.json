@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Hali ham sen xalqimga qarshi oʻzingsa iborat — ularni yubormaslik uchun.",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "hali ham sen"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "oʻzingsa iborat"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "xalqimga qarshi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "uchun — ...maslik"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "ularni yubor"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:29.628570441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Yahve abadiy hukm suradi — U oʻz taxtini sud uchun barpo etgan.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Va Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hukm suradi"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "barpo etgan"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "sud uchun"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "oʻz taxtini"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:27.014215181Z",
+  "model": "glm-5.3"
+}

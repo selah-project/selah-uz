@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 12:31",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va u tunda Moshe va Aharonni chaqirdi va dedi: Turinglar, xalqimning ichidan chiqinglar — ham sizlar, ham Isroil oʻgʻillari — va boringlar, Yahvega xizmat qilinglar, sizlar soʻzgandek.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "chaqirdi"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheni"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "va Aharonni"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "Turinglar"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "chiqinglar"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ichidan"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqimning"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "va boringlar"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "xizmat qilinglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כדברכם",
+      "gloss": "sizlar soʻzgandek"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:03.997487459Z",
+  "model": "glm-5.3"
+}

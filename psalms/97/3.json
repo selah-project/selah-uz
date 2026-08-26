@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 97,
+  "translation": "Oldin Ot ketar, uning chaqmoqlari yoritdi — oʻlka koʻrdi va qaltiradi yer.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Ot"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Oldin"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ketar"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "va yondirar atrofini"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofida"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "dushmanlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:28.472231601Z",
+  "model": "glm-5.3"
+}

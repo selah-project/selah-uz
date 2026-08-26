@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va uning yuragi Yahve yoʻllarida koʻtarildi, va yana u ⟨את⟩ baland joylarni va ⟨את⟩ asheralarni Yehudadan olib tashladi.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "koʻtarildi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "uning yuragi"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "yoʻllarida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "va yana"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "olib tashladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baland joylarni"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "baland joylarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "asheralarni"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "asheralarni"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Yehudadan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:09:50.114273254Z",
+  "model": "glm-5.3"
+}

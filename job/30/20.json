@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Senga nola qilaman va sen javob bermaysan menga; turdim — va menga tikilib qaraysan.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "nola qilaman"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "javob bermaysan menga"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "turdim"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "va tikilib qaraysan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:04:45.358720529Z",
+  "model": "glm-5.3"
+}

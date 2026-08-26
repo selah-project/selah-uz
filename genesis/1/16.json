@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Elohim ⟨את⟩ ikki buyuk yorugʻlikni yaratdi: ⟨את⟩ katta yorugʻlikni kun hukmronligi uchun va ⟨את⟩ kichik yorugʻlikni tunning hukmronligi uchun — hamda ⟨את⟩ yulduzlarni.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Va … yaratdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikki buyuk yorugʻlikni"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "buyuk yorugʻlikni"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "katta yorugʻlikni"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "yorugʻlikni"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "katta"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "hukmronligi uchun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "kichik yorugʻlikni"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "yorugʻlikni"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kichik"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "hukmronligi uchun"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tunning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "hamda ⟨את⟩",
+      "marks": "yulduzlarni"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "yulduzlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:26.988092289Z",
+  "model": "glm-5.3"
+}

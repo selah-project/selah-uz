@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va shoshildi va kadasini sugʻorish joʻynagʻa toʻkdi va yana quduqqa suv chiqish uchun yugurdi va uning barcha tuyalari uchun suv chiqdi.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "va shoshildi"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "va toʻkdi"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "kadasini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "sugʻorish joʻynagʻa"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "va yugurdi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "quduqqa"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "suv chiqish uchun"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "va suv chiqdi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "tuyalari uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:21.945434712Z",
+  "model": "glm-5.3"
+}

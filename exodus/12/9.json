@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Undan xom holda yemanglar, suvda qaynatib pishirilgan holda ham ⟨yemanglar⟩, balki olovda qovurilganini; boshi oyoklari ustida va ichak-chnoqlari bilan ⟨yesanglar⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yemanglar"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yesanglar-"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "xom"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "qaynatilgan"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "pishirilgan"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "balki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "qovurilganini"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olovda"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "oyoklari"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va bilan"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ichak-chnoqlari"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:08.254153797Z",
+  "model": "glm-5.3"
+}

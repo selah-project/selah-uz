@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 5:4",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va men oʻzim dedim: axir ular faqat kambagʻallar, ahmoq boʻlib qoldilar, chunki Yahve yoʻlini, Elohimlarining huquqini bilmas edilar.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Va men oʻzim"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "אך",
+      "gloss": "axir faqat"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "kambagʻallar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "נואלו",
+      "gloss": "ahmoq boʻlib qoldilar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmas edilar"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻlini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "huquqini"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohimlarining"
+    }
+  ],
+  "timestamp": "2026-08-26T04:39:28.137297261Z",
+  "model": "glm-5.3"
+}

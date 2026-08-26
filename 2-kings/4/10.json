@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 4:10",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Qilaylik, iltijos, devorda kichkina yuqori xona, va qo'yaylik unga u yerda to'shak va stul va kursi va chiroq; va bo'ladiki, u bizga kelganda, u yerga kirsin.",
+  "tokens": [
+    {
+      "surface": "נעשה",
+      "gloss": "qilaylik"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltijos"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "yuqori xona"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "devor"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kichkina"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "va qo'yaylik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "to'shak"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "va stul"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "va kursi"
+    },
+    {
+      "surface": "ומנורה",
+      "gloss": "va chiroq"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va bo'ladiki"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "kelganda"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "kirs𝑖n"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:48:41.606015116Z",
+  "model": "glm-5.3"
+}

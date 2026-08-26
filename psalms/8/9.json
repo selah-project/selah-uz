@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Osmon qushlari va dengiz baliqlari, dengiz yoʻllaridan oʻtuvchilar.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "qushlari"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "va baliqlari"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oʻtuvchilar"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "yoʻl(lar)idan"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dengiz"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:01.622252994Z",
+  "model": "glm-5.3"
+}

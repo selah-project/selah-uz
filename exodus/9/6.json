@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Yahve ertasi kuni ⟨את⟩ bu soʻzni qildi, va Mitsrayim mol-mulkining hammasi oʻldi, va Yisrael oʻgʻillarining mol-mulkidan bironta ham oʻlmadi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu soʻz"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ertasi kuni"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "oʻldi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "mol-mulk"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "mol-mulkidan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מת",
+      "gloss": "oʻlmadi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bironta"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:40.489507291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va men oʻz tinchligimda aytdim: „Hech qachon qimirlamayman, abadiy.“",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Va men"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aytdim"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "oʻz tinchligimda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Hech qachon"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "qimirlamayman"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:16.575760046Z",
+  "model": "glm-5.3"
+}

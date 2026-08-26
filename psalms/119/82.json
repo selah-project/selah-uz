@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Tugadi koʻzlarim sening soʻzingdan — ⟨soʻrab⟩: „Qachon tasalli berasan menga?“",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "tugadi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarim"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "sening soʻzingdan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "soʻrab"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "tasalli berasan menga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:14.130345037Z",
+  "model": "glm-5.3"
+}

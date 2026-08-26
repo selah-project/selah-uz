@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Choʻlda nidochi ovozi: Yahve yoʻlini tayyorlangiz, choʻlda Elohimimiz uchun toʻgʻri yoʻl yasangiz.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ovoz"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "nidochi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "tayyorlangiz"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻlini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "toʻgʻri yasangiz"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "toʻgʻri yoʻl"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Elohimimiz uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T04:26:31.799090565Z",
+  "model": "glm-5.3"
+}

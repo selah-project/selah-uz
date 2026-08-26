@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Ehud ⟨את⟩ chap qoʻlini uzatdi va ⟨את⟩ qilichni oʻng sonidan oldi va uni qorniga sanchdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "uzatdi"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chap qoʻlini"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "uni chap"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "va oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qilichni"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "son"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "uni oʻng"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "va uni sanchdi"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "uning qorniga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:26:26.467103905Z",
+  "model": "glm-5.3"
+}

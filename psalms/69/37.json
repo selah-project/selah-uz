@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Va uning bandalarining zurriyoti uni meros qilib oladi, va uning Ismini sevganlar unda yashaydilar.",
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "va zurriyoti"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "uning bandalarining"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "uni meros qilib oladi"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "va ... sevganlar"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning Ismi"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "yashaydilar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:54.379522321Z",
+  "model": "glm-5.3"
+}

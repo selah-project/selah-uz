@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Shoshildim va kechiktirmadim — buyruqlaringni saqlashga.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "shoshildim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "kechiktirmadim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saqlashga"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "buyruqlaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:51.864068541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Chunki endi ular aytadi: „Bizga podshoh yoʻq, chunki biz Yahveni ⟨את⟩ hurmat qilmadik; podshoh esa biz uchun nima qiladi?“",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "endi"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "aytadi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "hurmat qilmadik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "podshoh esa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qiladi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biz uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T05:36:50.021867087Z",
+  "model": "glm-5.3"
+}

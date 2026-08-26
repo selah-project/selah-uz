@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "butun basira birga jon beradi, va odam chang ustiga qaytadi.",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "jon beradi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "basira"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birga"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "va odam"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "chang"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qaytadi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:06:14.879687641Z",
+  "model": "glm-5.3"
+}

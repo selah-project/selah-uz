@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 14:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va boʻladi: Yahve senga qaygʻungdan va tashvishingdan va senga xizmat qildirilgan ogʻir qullikdan dam bergan kunda —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Va boʻladi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "dam bergan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "מעצבך",
+      "gloss": "qaygʻungdan"
+    },
+    {
+      "surface": "ומרגזך",
+      "gloss": "va tashvishingdan"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "va …dan"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "qullikdan"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "ogʻir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "xizmat qildirilgan"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:12:52.811930019Z",
+  "model": "glm-5.3"
+}

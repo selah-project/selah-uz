@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 121,
+  "translation": "Yahve chiqishingni va kirishingni saqlaydi — hozirdan abadiygacha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "saqlaydi"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "chiqishingni"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "va kirishingni"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "hozirdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ...gacha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiygacha"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:50.900133251Z",
+  "model": "glm-5.3"
+}

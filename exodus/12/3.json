@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Isroil jamoasining hammaga gapiring-ki: „Shu oyning oʻninchisida har bir kishi oʻzi uchun qoʻy oladi — otalar uyi boʻyicha, har uyga bir qoʻy.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "gapiring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "jamoasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "oʻninchisida"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "oyning"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "va oladi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "oʻzi uchun"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har bir kishi"
+    },
+    {
+      "surface": "שה",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "otalar... boʻyicha"
+    },
+    {
+      "surface": "שה",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uyga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:31.854443873Z",
+  "model": "glm-5.3"
+}

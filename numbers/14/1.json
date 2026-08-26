@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va butun jamiyat ⟨את⟩ ovozlarini koʻtarib berdi, va xalq oʻsha tunda yigʻladi.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "va koʻtardi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamiyat"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "va berdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozlarini"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ovozlarini"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "va yigʻladilar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    }
+  ],
+  "timestamp": "2026-08-26T01:32:49.551711389Z",
+  "model": "glm-5.3"
+}

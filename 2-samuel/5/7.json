@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Dovud esa Tsiyon qalʼasini ⟨את⟩ egalladi — u Dovud shahridir.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "egalladi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiyon qalʼasini"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "qalʼa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahri"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    }
+  ],
+  "timestamp": "2026-08-26T03:07:08.830271265Z",
+  "model": "glm-5.3"
+}

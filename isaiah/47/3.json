@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 47,
+  "translation": "Yalangʻochliging ochiladi, hatto uyatsizliging koʻrinadi. Oʻch olaman va odam(begona)ga tobe boʻlmayman.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "ochiladi"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "yalangʻochliging"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "koʻrinadi"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "uyatsizliging"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "oʻch"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "olaman"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va... emas"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "tobe boʻlaman \/ uchrataman"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T04:28:47.715796669Z",
+  "model": "glm-5.3"
+}

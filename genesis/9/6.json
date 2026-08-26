@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Odam qonini toʻkkan — odam tomonidan uning qoni toʻkiladi; chunki Elohimning suratida ⟨את⟩ odamni yaratti.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "toʻkkan"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qon"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "odam tomonidan"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "uning qoni"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "toʻkiladi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "suratida"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaratti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odamni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:07.725062556Z",
+  "model": "glm-5.3"
+}

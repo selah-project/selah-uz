@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 2:7",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Barzillay, giladlikning oʻgʻillariga qilgil xesed, va boʻlsinlar dasturxoning yeyuvchilari orasida, chunki shunday yaqinlashdilar menga qochganimda Absalom — ukang — yuzidan.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Va ... oʻgʻillariga"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzillayning"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "giladlikning"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qilgil"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "va boʻlsinlar"
+    },
+    {
+      "surface": "באכלי",
+      "gloss": "yeyuvchilari orasida"
+    },
+    {
+      "surface": "שלחנך",
+      "gloss": "dasturxoning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "yaqinlashdilar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "בברחי",
+      "gloss": "qochganimda"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalomning"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ukangning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:27:39.008643600Z",
+  "model": "glm-5.3"
+}

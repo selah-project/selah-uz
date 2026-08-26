@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Va ⟨את⟩ salla — yupqa zigʻirdan, va ⟨את⟩ bosh kiyimlarining bezaklarini — yupqa zigʻirdan, va ⟨את⟩ zigʻir shimlarni — oʻrilgan yupqa zigʻirdan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "salla"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "salla"
+    },
+    {
+      "surface": "שש",
+      "gloss": "yupqa zigʻir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "bezaklar"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "bezaklar"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "bosh kiyimlarining"
+    },
+    {
+      "surface": "שש",
+      "gloss": "yupqa zigʻir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "shimlar"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "shimlar"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "zigʻir"
+    },
+    {
+      "surface": "שש",
+      "gloss": "yupqa zigʻir"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "oʻrilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:23.680611775Z",
+  "model": "glm-5.3"
+}

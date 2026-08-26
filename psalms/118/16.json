@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 118,
+  "translation": "Yahvening oʻng qoʻli baland koʻtarilgan — Yahvening oʻng qoʻli jasorat ishlamoqda!",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "oʻng qoʻli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "baland koʻtarilgan"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oʻng qoʻli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ishlamoqda"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jasorat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:03.880513522Z",
+  "model": "glm-5.3"
+}

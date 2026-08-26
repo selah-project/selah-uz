@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 125,
+  "translation": "Yerushalaim — togʻlar ⟨uni⟩ aylanib turadi, va Yahve ⟨Uning⟩ elini aylanib turadi, hozirdan va abadiyatgacha.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "aylanib turadi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨uni⟩"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "va Yahve"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "aylanib turadi"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "elin"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "hozirdan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va ... gacha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiyat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:08.896183360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Bu -- mening ayblovchilarimga Yahve ⟨את⟩ to'lovidir va yomon gapirayotganlarga nefeshim ustidan.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Bu --"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "to'lovidir"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "mening ayblovchilarimga"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "va gapirayotganlarga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:05.494973732Z",
+  "model": "glm-5.3"
+}

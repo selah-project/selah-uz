@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va gʻam-gʻussani yuragingdan olib tashla, va yomonlikni badaningdan uzoqlashtir, chunki bolalik ham, qoralik ham — hevel.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "olib tashla"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "gʻam-gʻussa"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "yuragingdan"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "uzoqlashtir"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "badaningdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "bolalik"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "qoralik"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:56.566768184Z",
+  "model": "glm-5.3"
+}

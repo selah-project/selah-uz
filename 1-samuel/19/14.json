@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Shoul elchilarni Dovudni olib kelish uchun yubordi va u aytdi: u kasal.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elchilarni"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "olib kelish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dovudni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovudni"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "kasal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T02:52:36.584904816Z",
+  "model": "glm-5.3"
+}

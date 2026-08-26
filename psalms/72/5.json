@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 72,
+  "translation": "Seni qoʻrqsinlar quyosh ⟨bilan⟩ birga, va oyning oldincha — avlod, avlodlar ⟨boʻylab⟩.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "qoʻrqsinlar Seni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨bilan⟩ birga"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "va oldincha"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "oyning"
+    },
+    {
+      "surface": "דור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "avlodlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:15.286366627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 21:20",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Qimmatli xazina va moy — donishmandning maskanida ⟨bor⟩, ahmoq odam esa uni yutib yuboradi.",
+  "tokens": [
+    {
+      "surface": "אוצר",
+      "gloss": "xazina"
+    },
+    {
+      "surface": "נחמד",
+      "gloss": "qimmatli"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "va moy"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "maskanida"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "donishmand"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ahmoq"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "yutib yuboradi uni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:46:11.398969294Z",
+  "model": "glm-5.3"
+}

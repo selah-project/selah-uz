@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "„Yahve oldiga otdi uni — qutqarsin uni, xalos qilsin uni, chunki U undan xursand.“",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "oddi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "qutqarsin uni"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "xalos qilsin uni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "xursand"
+    },
+    {
+      "surface": "בו",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:24.471256454Z",
+  "model": "glm-5.3"
+}

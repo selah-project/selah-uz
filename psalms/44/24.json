@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Uygʻon! Nega uxlaysan, Adonay? Tur-gʻo! Bizni abadiy tashlab ketma.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Uygʻon"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "uxlaysan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Tur-gʻo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "tashlab ket"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:00.427359334Z",
+  "model": "glm-5.3"
+}

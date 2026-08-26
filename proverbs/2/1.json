@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Oʻgʻlim, agar soʻzlarimni qabul qilsang va buyruqlarimni ⟨את⟩ bilan yashirib saqlasang,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Oʻgʻlim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "qabul qilsang"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "soʻzlarimni"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "va buyruqlarimni"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "yashirib saqlasang"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "oʻzing bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:39:16.967912281Z",
+  "model": "glm-5.3"
+}

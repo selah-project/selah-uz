@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Xor rahbariga. Dovudning mazmuri. Yahve, Sen meni tekshirding va bilding",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xor rahbariga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "Sen meni tekshirding"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "va bilding"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:30.055217874Z",
+  "model": "glm-5.3"
+}

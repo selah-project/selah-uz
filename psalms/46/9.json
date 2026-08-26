@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Keling, Yahvening ishlarini koʻring — U yerni vayron qilganlaridir.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Keling"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "koʻring"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "ishlarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "vayron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:05.804086952Z",
+  "model": "glm-5.3"
+}

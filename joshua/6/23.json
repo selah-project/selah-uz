@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 6:23",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va josus yigitlar kirdi va ⟨את⟩ Raxavni, ⟨את⟩ otasini, ⟨את⟩ onasini, ⟨את⟩ aka-ukalarini va ⟨את⟩ uning hamma mulkini chiqardilar; ⟨את⟩ uning barcha oilalarini ham chiqarib, ularni Isroil lageridan tashqarida qoʻydilar.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Va kirdi"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "yigitlar"
+    },
+    {
+      "surface": "המרגלים",
+      "gloss": "josus"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "va chiqardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Raxavni"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Raxav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "otasini"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "onasini"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "onasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "aka-ukalarini"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "aka-ukalari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hamma mulkini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mulk"
+    },
+    {
+      "surface": "לה",
+      "gloss": "uning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha oilalarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "משפחותיה",
+      "gloss": "oilalari"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "chiqarib"
+    },
+    {
+      "surface": "ויניחום",
+      "gloss": "va qoʻydilar"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqarida"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lageridan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T02:14:10.928086196Z",
+  "model": "glm-5.3"
+}

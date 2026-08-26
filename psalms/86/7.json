@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Tangligim kunida Senga murojaat qilaman, chunki Sen meni javob berasan.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "tangligimning"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "Senga murojaat qilaman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "meni javob berasan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:25.153206829Z",
+  "model": "glm-5.3"
+}

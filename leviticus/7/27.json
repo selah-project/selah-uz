@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Qanday qon boʻlsa ham yegan har qanday nefesh — oʻsha nefesh oʻz xalqidan qirilib chiqariladi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yegan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "qanday ... boʻlsa ham"
+    },
+    {
+      "surface": "דם",
+      "gloss": "qon"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "va qirilib chiqariladi"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "oʻsha nefesh"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "oʻz xalqidan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:11:10.224101852Z",
+  "model": "glm-5.3"
+}

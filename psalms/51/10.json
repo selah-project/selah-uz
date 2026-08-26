@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Shodlik va quvonchni menga eshittirginki, Sen singdirgan suyaklar sevinch bilan quvonadi.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "eshittirgin"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "shodlikni"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "va quvonchni"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "quvonadi"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "suyaklar"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "singdirganing"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:11.612136027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "Rahmdil va marhamatli Yahve, gʻazablanishda sekin va buyuk xesed egasi.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Rahmdil"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "va marhamatli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "sekin"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "gʻazablanishda"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "va buyuk"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:09.329748110Z",
+  "model": "glm-5.3"
+}

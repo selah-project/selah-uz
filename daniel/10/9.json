@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va ⟨את⟩ ovozini soʻzlarining eshitdim, va eshitganimda ⟨את⟩ ovozini soʻzlarining, men yuzim ustida chuqur uyquga ketdim va yuzim yerga ⟨qaratilgan⟩ edi.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "eshitdim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "soʻzlarining"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "eshitganimda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "soʻzlarining"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "men"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "edim"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "chuqur uyquga ketdim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzim"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "va yuzim"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:34:35.125185692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Koʻp ogʻriqlar ⟨bor⟩ yolgʻiz uchun, lekin Yahvega ishonganni xesed oʻrab oladi.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "ogʻriqlar"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "yolgʻiz uchun"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "lekin ishongan"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "uni oʻrab oladi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:44.111133725Z",
+  "model": "glm-5.3"
+}

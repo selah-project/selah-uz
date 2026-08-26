@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va Yahve bulutda tushdi va u bilan u yerda turdi va Yahve nomi bilan chaqirdi.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "va tushdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "bulutda"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "u bilan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nomi bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:58.645113441Z",
+  "model": "glm-5.3"
+}

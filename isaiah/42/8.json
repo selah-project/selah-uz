@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Men Yahve, bu Mening ismim; Mening kavodimni boshqaga bermayman, Mening maqtovlarimni oʻyma butlarga ham.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Mening ismim"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "va Mening kavodimni"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "boshqaga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bermayman"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "bermayman"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "va Mening maqtovlarimni"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "oʻyma butlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:09.867317041Z",
+  "model": "glm-5.3"
+}

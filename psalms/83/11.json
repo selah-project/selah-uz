@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "En-Dor atrofida yoʻq qilindilar, tuproq uchun goʻngga aylanishdi.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "yoʻq qilindilar"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "aylanishdi"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "goʻngga"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "tuproq uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:09.393233543Z",
+  "model": "glm-5.3"
+}

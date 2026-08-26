@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 84,
+  "translation": "Xor rahbariga, gitit cholgʻusi ustida, Korax oʻgʻillariga tegishli mazmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xor rahbariga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "gitit cholgʻusi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korax"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmor"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:48.187773746Z",
+  "model": "glm-5.3"
+}

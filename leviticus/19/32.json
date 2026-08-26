@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Oq soch oldidan tur, va qarining yuzini ulugʻla, va Elohimingdan qoʻrq; Men Yahveman.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "oldidan"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "oq soch"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "tur"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "va ulugʻla"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qarining"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "va qoʻrq"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimingdan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveman"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:38.832080072Z",
+  "model": "glm-5.3"
+}

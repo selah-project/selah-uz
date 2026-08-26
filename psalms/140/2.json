@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 140,
+  "translation": "Meni ozod qil, ey Yahve, yovul kishidan, zoʻravon odamdan Sen meni saqla",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "meni ozod qil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kishidan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yovul"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "odamdan"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "zoʻravon"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "Sen meni saqla"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:42.606395685Z",
+  "model": "glm-5.3"
+}

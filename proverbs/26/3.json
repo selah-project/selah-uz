@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Kamchi — ot uchun, yugan — eshak uchun, va tayoq — ahmoqlar orqasi uchun.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "kamchi"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "ot uchun"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "yugan"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "eshak uchun"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "va tayoq"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "orqa uchun"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ahmoqlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:50:11.219502022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "U osmonlarni yuqoridan va yerni chaqiradi — oʻz xalqini sud qilish uchun.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "chaqiradi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "yuqoridan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …ga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "sud qilish uchun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻz xalqini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:19.811290894Z",
+  "model": "glm-5.3"
+}

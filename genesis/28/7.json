@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "va Yaakov otasiga va onasiga boʻysundi hamda Padan-Aramga ketgani ⟨haqida⟩.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "boʻysundi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "otasiga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasiga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va onasiga"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "onasiga"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ketdi"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:39:04.679822825Z",
+  "model": "glm-5.3"
+}

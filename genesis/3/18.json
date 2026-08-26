@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va senga tikan va oʻtli tikanlar oʻstiradi, va dalaning oʻtini ⟨את⟩ yeyesan.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Va tikan"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "va oʻtli tikanlar"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "oʻstiradi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "va yedirsan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dalaning oʻtini"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "oʻtini"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dalaning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:30.627420182Z",
+  "model": "glm-5.3"
+}

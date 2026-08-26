@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "U ularning yuragini mashaqqat bilan boʻysundirdi; ular qoqildilar va yordam beruvchi yoʻq ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "boʻysundirdi"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "mashaqqat bilan"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ularning yuragi"
+    },
+    {
+      "surface": "כשlu",
+      "gloss": "qoqildilar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yordam beruvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:37.432773224Z",
+  "model": "glm-5.3"
+}

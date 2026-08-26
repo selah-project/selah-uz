@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Moshe ⟨את⟩ xalqni lagerdan chiqarib, Elohim bilan uchrashishga olib keldi, va ular togʻning etagida turdilar.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "va chiqardi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "uchrashishga"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lagerdan"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "va turdilar"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "etagida"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "togʻning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:22.639112342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Dengizni yorib yubordi va ularni oʻtkazdi; suvlarni ⟨the⟩ doʻvdek tik qoʻydi.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "yorib yubordi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengizni"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "va ularni oʻtkazdi"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlarni"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "נד",
+      "gloss": "doʻv"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:30.113755261Z",
+  "model": "glm-5.3"
+}

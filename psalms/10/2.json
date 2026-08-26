@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Yolgʻizning kibrida behor yonadi; oʻz hiyalari ila ushlanadilar — bularni oʻylab topdilar.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "kibrida"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yolgʻizning"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "yonadi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "behor"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "ushlanadilar"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "hiyalari ila"
+    },
+    {
+      "surface": "זו",
+      "gloss": "bularni"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "oʻylab topdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:43.816797644Z",
+  "model": "glm-5.3"
+}

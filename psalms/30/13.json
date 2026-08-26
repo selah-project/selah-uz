@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Shunda senda zamir aytadi shon-sharafim va jim boʻlmaydi — Yahve, Elohimim, abadiy sanok aytaman Senga.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "shunda"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "senda zamir aytadi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "shon-sharafim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va jim boʻlmaydi"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "jim boʻlmaydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "sanok aytaman Senga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:32.635866112Z",
+  "model": "glm-5.3"
+}

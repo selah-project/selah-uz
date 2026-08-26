@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Va vino odam qalbini xursand qiladi, yuzni moydan nuratish uchun, va non odam qalbini mustahkamlaydi.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "va vino"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "xursand qiladi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbini"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "nuratish uchun"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yuzni"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "moydan"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "va non"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "qalbini"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "mustahkamlaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:56.527230291Z",
+  "model": "glm-5.3"
+}

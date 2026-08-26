@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "U — ⟨the⟩ dengiz, buyuk va keng yonbagʻirli; u yerda sudralib yuruvchilar ⟨bor⟩, son-sanoqsiz, tirik jonzotlar — kichiklar bilan kattalar.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "U"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "va keng"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "yonbagʻirli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sudralib yuruvchilar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va ⟨bor⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "son-sanoqsiz"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "tirik jonzotlar"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "kichiklar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "kattalar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:56.388063297Z",
+  "model": "glm-5.3"
+}

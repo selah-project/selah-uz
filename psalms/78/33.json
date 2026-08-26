@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va ⟨U⟩ ularning kunlarini behuda bug'da tugatdi va ularning yillarini qo'rquvda.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "tugatdi"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "behuda bug'da"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ularning kunlarini"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "ularning yillarini"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "qo'rquvda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:53.860036801Z",
+  "model": "glm-5.3"
+}

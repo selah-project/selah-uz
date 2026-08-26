@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 10:25",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yehoshua ularga aytdi: qoʻrqmanglar va yiqilmanglar; kuchli boʻlinglar va jasur boʻlinglar, chunki mana shunday qiladi Yahve barcha dushmanlaringizga, ular bilan sizlar jang qilmoqdasizlar — ⟨את⟩ ularni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qoʻrqmanglar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va -ma"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "yiqilmanglar"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "kuchli boʻlinglar"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "va jasur boʻlinglar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "mana shunday"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qiladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha ... ga"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dushmanlaringiz"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ular bilan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "jang qilmoqdasizlar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:15:51.438836303Z",
+  "model": "glm-5.3"
+}

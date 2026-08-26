@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va xalq u yerda suvga chanqadi va xalq Moshe ustidan norozilik qildi va dedi: „Nima uchun sen bizni Misrdan olib chiqding — meni ⟨את⟩ va oʻgʻillarimni ⟨את⟩ va mol-jonimni ⟨את⟩ chanqoqdan oʻldirish uchun?“",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "chanqadi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "למים",
+      "gloss": "suvga"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "norozilik qildi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "olib chiqding"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "oʻldirish uchun"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "oʻgʻillarimni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillarimni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "mol-jonimni"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "mol-jonimni"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "chanqoqdan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:49.309231665Z",
+  "model": "glm-5.3"
+}

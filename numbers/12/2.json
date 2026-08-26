@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va dedilar: faqat Moshe bilanmi gapirdi Yahve? Biz bilan ham gapirmadimi? Va Yahve ⟨buni⟩ eshitdi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "faqat...mi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "Moshe bilan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "mi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "biz bilan"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirmadimi"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:32:21.781568904Z",
+  "model": "glm-5.3"
+}

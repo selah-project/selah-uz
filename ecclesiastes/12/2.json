@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Quyosh qoraymaguncha, va yorugʻlik, va oy, va yulduzlar, hamda bulutlar yomgʻirdan keyin qaytmaguncha.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "…guncha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "qoraymaguncha"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "va yorugʻlik"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "va oy"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "va yulduzlar"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "va qaytmaguncha"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "bulutlar"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "…dan keyin"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "yomgʻir"
+    }
+  ],
+  "timestamp": "2026-08-26T07:23:21.287948958Z",
+  "model": "glm-5.3"
+}

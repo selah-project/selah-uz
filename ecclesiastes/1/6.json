@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Janubga boradi va shimolga aylanadi; aylanib-aylanib boradi shamol, va oʻz aylanishlari boʻyicha qaytadi shamol.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "boradi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "janub"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "va aylanadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "shimol"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "aylanib"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "aylanib"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "boradi"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "shamol"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... boʻyicha"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "oʻz aylanishlari"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytadi"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "shamol"
+    }
+  ],
+  "timestamp": "2026-08-26T08:49:09.799627186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va ular ⟨את⟩ Hamonni Mordeqay uchun tayyorlagan daraxt ustiga osdilar, va podshohning gʻazabi tinlandi.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "va osdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamonni"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamonni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "tayyorlagan"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Mordeqay uchun"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "va gʻazabi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshohning"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "tinlandi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:25:28.988595437Z",
+  "model": "glm-5.3"
+}

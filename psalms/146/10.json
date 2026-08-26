@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 146,
+  "translation": "Yahve abadiy hukm suradi, ey Sion, Elohiming avloddan avlodga. Haliluyah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "hukm suradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ey Sion"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "avloddan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "avlodga"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Haliluyah!"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:16.497787823Z",
+  "model": "glm-5.3"
+}

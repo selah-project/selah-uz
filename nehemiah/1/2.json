@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 1:2",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Xanani, aka-lardan biri, — u va Yahudiyadan kelgan odamlar — keldi, va men qochib qutulgan yahudiylar — asirlikdan qolganlar — va Yerushalaim haqida soʻradim.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Va keldi"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Xanani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "aka-lardan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "va odamlar"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "Yahudiyadan"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "va soʻradim"
+    },
+    {
+      "surface": "על",
+      "gloss": "haqida"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "yahudiylar"
+    },
+    {
+      "surface": "הפליטה",
+      "gloss": "qochib qutulganlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "qolganlar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "asirlik"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va haqida"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T07:42:10.973959515Z",
+  "model": "glm-5.3"
+}

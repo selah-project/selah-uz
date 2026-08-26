@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 4:1",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va gapirgan farishta yana qaytdi — men bilan gapirgan ⟨farishta⟩ — va meni uy­gʻotdi, uxlayotgan odam uygʻotilgandek uygʻotildi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "farishta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gapirgan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "men bilan"
+    },
+    {
+      "surface": "ויעירני",
+      "gloss": "va meni uygʻotdi"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "odam singari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "uygʻotiladi"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "uykusidan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:52:01.757906367Z",
+  "model": "glm-5.3"
+}

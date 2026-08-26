@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Ulardan qoʻrqma; esla, albatta esla ⟨את⟩ narsalarni ki qilgan Yahve, Elohiming, Parʼonga va butun Misrga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qoʻrqma"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "esla"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "albatta esla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "narsalarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Parʼonga"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:53:07.198142841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Men Misrni Misrga qoʻzgʻataman va kurashadilar: kishi aka-ukasi bilan, va kishi oʻz qoʻshnisi bilan, shahar shahar bilan, podsholik podsholik bilan.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "va qoʻzgʻataman"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrni"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misrga"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "va kurashadilar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "aka-ukasi bilan"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "va kishi"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "oʻz qoʻshnisi bilan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shahar bilan"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "podsholik"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "podsholik bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:15:17.719696509Z",
+  "model": "glm-5.3"
+}

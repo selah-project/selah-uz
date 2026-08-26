@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va Aviatar Dovudga xabar berdi: Shaul Yahvening ⟨את⟩ kohinlarini oʻldirdi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "xabar berdi"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Aviatar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "oʻldirdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kohinlarini"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "kohinlarini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    }
+  ],
+  "timestamp": "2026-08-26T02:54:49.163617029Z",
+  "model": "glm-5.3"
+}

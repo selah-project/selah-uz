@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Yahve oldida jim tur va Unga sabr qil; yoʻli yurishib turgan kishiga qarab gʻazablanma, makrlarni bajarayotgan odamga qarab gʻazablanma.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "jim tur"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve oldida"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "va sabr qil"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "gʻazablan"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "yurishib turgan kishiga qarab"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "yoʻli"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "odamga qarab"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bajarayotgan"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "makrlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:35.615861816Z",
+  "model": "glm-5.3"
+}

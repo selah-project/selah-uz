@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va David ⟨את⟩ xalqni sanadi — ⟨את⟩ u bilan boʻlganlarni — va ularga ming boshlari va yuz boshlarini tayinladi.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "va sanadi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ u bilan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ular ustiga"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "boshlari"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ming"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "va boshlari"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    }
+  ],
+  "timestamp": "2026-08-26T03:16:32.457076215Z",
+  "model": "glm-5.3"
+}

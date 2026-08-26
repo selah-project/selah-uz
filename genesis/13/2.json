@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Avram chorvada, kumushda va oltinda juda ogʻir ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Va Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ogʻir"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "chorvada"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "kumushda"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "va oltinda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:00.120191822Z",
+  "model": "glm-5.3"
+}

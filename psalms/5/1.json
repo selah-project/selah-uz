@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Dironga, nechilotlar ustiga, Dovud mizmori.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Dironga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "nechilotlar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovud"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:46.327936954Z",
+  "model": "glm-5.3"
+}

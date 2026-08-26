@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va ular oʻz oʻgʻillarini ⟨את⟩ va oʻz qizlarini ⟨את⟩ shaytonlarga qurbonga soʻydilar.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "soʻydilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻgʻillarini"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "oʻz oʻgʻillarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "qizlarini"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "oʻz qizlarini"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "shaytonlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:11.184028133Z",
+  "model": "glm-5.3"
+}

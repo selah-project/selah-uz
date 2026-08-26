@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "U hech bir xalqqa bunday qilmadi, va hukmlarini umuman bilmadilar. Yahni maqtab ulugʻlanglar!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilmadi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bunday"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "hech bir"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "xalqqa"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "va hukmlarini"
+    },
+    {
+      "surface": "בל",
+      "gloss": "umuman"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "bilmadilar"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "maqtab ulugʻlanglar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:09.741704262Z",
+  "model": "glm-5.3"
+}

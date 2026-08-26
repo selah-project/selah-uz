@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Nafsimni qaytaradi, adolat yoʻllarida boshlaydi meni — Oʻzining nomi uchun.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nafsimni"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "qaytaradi"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "boshlaydi meni"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "yoʻllarida"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Oʻzining nomi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:57.153501403Z",
+  "model": "glm-5.3"
+}

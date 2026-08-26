@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va u ⟨את⟩ otasining muqaddas narsalarini va oʻzining muqaddas qilgan narsalarini Yahve uyiga kiritdi — kumush, oltin va idishlar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "va kiritdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otasining muqaddas narsalarini"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "muqaddas narsalari"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "oʻzining muqaddas qilgani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "idishlar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:39:40.473621324Z",
+  "model": "glm-5.3"
+}

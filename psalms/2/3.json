@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Uzinglar ⟨את⟩ ularning bogʻlovlarini, va uloqtirib yuboraylik bizdan ularning arqonlarini.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Uzinglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning bogʻlovlarini"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "ularning bogʻlovlarini"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "va uloqtirib yuboraylik"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "bizdan"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "ularning arqonlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:24.646730382Z",
+  "model": "glm-5.3"
+}

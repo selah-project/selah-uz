@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "U ⟨he⟩ joningni choʻkkadan ozod qiladi, seni xesed va rahm-shafqat bilan tojlaydi.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "ozod qiladi"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "choʻkkadan"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "joningni"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "tojlaydi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "va rahm-shafqat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:13.483328869Z",
+  "model": "glm-5.3"
+}

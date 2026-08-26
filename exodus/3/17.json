@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va aytdim: sizlarni Misr azobidan koʻtarib chiqaraman — kenaaniyxitoqiy va emoriy va perizziy va xivviy va yevusiy ⟨⟨the⟩⟩ yeriga, sut va asal oqib turgan yerga.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "va aytdim"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "koʻtarib chiqaraman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "azobidan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeriga"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kenaaniy"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "va xitoqiy"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "va emoriy"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "va perizziy"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "va xivviy"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "va yevusiy"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "oqib turgan"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "sut"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "va asal"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:24.225661283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 144,
+  "translation": "Yahve, nima ⟨dir⟩ odamki Sen uni bilursan, oʻlimli odam oʻgʻliki Sen uni hisobga olursan?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "ki Sen uni bilursan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "oʻlimli odam"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "ki Sen uni hisobga olursan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:06.005144499Z",
+  "model": "glm-5.3"
+}

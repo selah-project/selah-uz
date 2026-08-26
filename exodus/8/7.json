@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "«Baqalar sendan, uylaringdan, qul-qoravozlaringdan va xalqingdan ketadi; faqat daryoda qoladilar.»",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "ketadi"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "baqalar"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sendan"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "uylaringdan"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "qul-qoravozlaringdan"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "xalqingdan"
+    },
+    {
+      "surface": "רק",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "daryoda"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "qoladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:19:33.298090989Z",
+  "model": "glm-5.3"
+}

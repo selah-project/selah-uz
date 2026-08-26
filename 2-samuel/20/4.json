@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va podshoh Amasoga dedi: Menga ⟨את⟩ Yahuda odamlarini uch kun ⟨ichida⟩ chaqir, va sen shu yerda tur.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amaso"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "chaqir"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahuda odamlarini"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odamlarini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uch"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "va sen"
+    },
+    {
+      "surface": "פה",
+      "gloss": "shu yerda"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "tur"
+    }
+  ],
+  "timestamp": "2026-08-26T03:19:17.033195931Z",
+  "model": "glm-5.3"
+}

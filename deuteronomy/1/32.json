@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va bu ishda siz Yahve, Elohimlaringizga ishonmadingiz.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "Va bu ishda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "siz ...-madingiz"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "ishonmadingiz"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimlaringiz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:47:12.554451658Z",
+  "model": "glm-5.3"
+}

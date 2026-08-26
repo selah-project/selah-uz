@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Sening dashnomingdan qochadilar — Sening momaqaldiroq ovozingdan shoshilib ketadilar.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "Sening dashnoming"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "qochadilar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovozi"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "momaqaldiroq — Sening"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "shoshilib ketadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:41.624853726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 26:31",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va parda yasaysan — moviy, argʻimov va qizil qirt olchi bilan, burilgan tolali ipakdan; uni guldon naqqoshning ishi — kerublar bilan yasaydi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Va yasaysan"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "parda"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "moviy"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "va argʻimov"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "va qizil qirt olchi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "qizil"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "va tolali ipak"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "burilgan"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "naqqosh"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yasaydi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kerublar bilan (uni)"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerublar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:36.387097776Z",
+  "model": "glm-5.3"
+}

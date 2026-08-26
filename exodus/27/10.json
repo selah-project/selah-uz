@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va uning ustunlari yigirmata, va ularning tagulushtovlari yigirmata — misdan; ustunlarning ilmoqlari va ularning yoylari kumushdan.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "uning ustunlari"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirma"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "ularning tagulushtovlari"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirma"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mis"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": ""
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "ilmoqlari"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ustunlarning"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "ularning yoylari"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    }
+  ],
+  "timestamp": "2026-08-26T00:59:33.982889552Z",
+  "model": "glm-5.3"
+}

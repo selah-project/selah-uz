@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yahve Elohim Odamlarga uning xotiniga teri koftalar qildi va ularga kiyintirdi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va ... qildi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "Odamga"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "va uning xotiniga"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "koftalar"
+    },
+    {
+      "surface": "עור",
+      "gloss": "teri"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "va ularga kiyintirdi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:18.365499725Z",
+  "model": "glm-5.3"
+}

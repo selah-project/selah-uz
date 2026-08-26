@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va agar bir odam otasining xotini bilan yotsa — otasining yalangʻochligini ochgan boʻlsa — ikkalasi ham albatta oʻlimga mahkum etilsin; ularning qoni oʻzlarining boʻlsin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Va agar bir odam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otasining xotini"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "xotini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasining"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "yalangʻochligini"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasining"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ochgan boʻlsa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlimga"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mahkum etilsin"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikkalasi ham"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ularning qoni"
+    },
+    {
+      "surface": "בם",
+      "gloss": "oʻzlarining boʻlsin"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:55.784556212Z",
+  "model": "glm-5.3"
+}

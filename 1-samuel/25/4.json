@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va David choʻlda eshitdi ki Naval ⟨את⟩ podasini qirqmoqda.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "qirqmoqda"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Naval"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "podasini"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "podasini"
+    }
+  ],
+  "timestamp": "2026-08-26T02:57:16.233562954Z",
+  "model": "glm-5.3"
+}

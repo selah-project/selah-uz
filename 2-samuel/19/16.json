@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va qirol qaytdi va Iordangacha keldi; va Yahuda qirol bilan uchrashishga, ⟨את⟩ qirolni ⟨את⟩ Iordanni oʻtkazish uchun Gilgalga keldi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "va qaytdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordan"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "va Yahuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Gilgalga"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "borishga"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "uchrashishga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "oʻtkazishga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qirolni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirolni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iordanni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordanni"
+    }
+  ],
+  "timestamp": "2026-08-26T03:18:03.762840667Z",
+  "model": "glm-5.3"
+}

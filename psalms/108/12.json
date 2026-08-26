@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 108,
+  "translation": "Magan tashlab yubormadingmisan, ey Elohim? Va magan, ey Elohim, qoʻshinlarimiz bilan chiqmaysanmi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "magan...misan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "tashlab yubormading"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va magan...maysan"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "chiqmaysan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "qoʻshinlarimiz bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:51.160600912Z",
+  "model": "glm-5.3"
+}

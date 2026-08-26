@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va u ⟨uni⟩ ochdi, va uni koʻrdi — ⟨את⟩ bolani, va mana, yigʻlayotgan chaqaloq; va unga rahmi keldi, va aytdi: bu ibroniylar bolalaridan biridir.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "ochdi"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "va uni koʻrdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolani"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bolani"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "נער",
+      "gloss": "chaqaloq"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "yigʻlayotgan"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "rahmi keldi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "bolalaridan"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ibroniylarning"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:59.266272871Z",
+  "model": "glm-5.3"
+}

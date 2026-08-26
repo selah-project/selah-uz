@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va ⟨את⟩ xushboʻy zirrlarni va ⟨את⟩ moyni — chiroq uchun, mashlash moyi uchun va xushboʻy tutatqi uchun.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "xushboʻy zirrlar"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "xushboʻy zirrlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "moy"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "chiroq uchun"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "va moy uchun"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "mashlash (moyi)"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "va tutatqi uchun"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "xushboʻy (zirr)"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:09.597184183Z",
+  "model": "glm-5.3"
+}

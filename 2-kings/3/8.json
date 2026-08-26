@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va u dedi: Qaysi yoʻldan koʻtarilamiz? U esa dedi: Edom choʻli yoʻli orqali.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va u dedi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Qaysi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mana bu"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yoʻldan"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "koʻtarilamiz"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "U esa dedi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻli"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "choʻli"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-26T03:47:15.282139371Z",
+  "model": "glm-5.3"
+}

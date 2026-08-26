@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Yahvening soʻzi bilan osmonlar yasaldi, va Uning ogʻiz ruaxi bilan — butun ularning qoʻshini.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "soʻzi bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "yasaldi"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "va … ruaxi bilan"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "Uning ogʻiz"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "ularning qoʻshini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:29.336173388Z",
+  "model": "glm-5.3"
+}

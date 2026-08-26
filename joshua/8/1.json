@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 8:1",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Yahve Yehoshuaga dedi: qoʻrqma va yiqilma; oʻzing bilan ⟨את⟩ butun urush xalqini olib ol, tur, Ay shahriga koʻtaril; qaragin, qoʻlingga berdim ⟨את⟩ Ay shohini va ⟨את⟩ uning xalqini va ⟨את⟩ uning shahrini va ⟨את⟩ uning yerini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "qoʻrqma (neg.)"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "qoʻrqma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... neg."
+    },
+    {
+      "surface": "תחת",
+      "gloss": "yiqilma"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ol"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "oʻzing bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun urush xalqini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "urush"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "tur"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "koʻtaril"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ay"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "qaragin"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "berdim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "qoʻlingga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ay shohini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning xalqini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uning xalqi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning shahrini"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "uning shahri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning yerini"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "uning yeri"
+    }
+  ],
+  "timestamp": "2026-08-26T02:15:33.237723763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Xijolat boʻlsin magʻrurlar, chunki yolgʻon bilan buzdilar meni; men esa Tiveringni oʻylab yuraman.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "xijolat boʻlsin"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "magʻrurlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "buzdilar meni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "oʻylab yuraman"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "Tiveringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:50.681242511Z",
+  "model": "glm-5.3"
+}

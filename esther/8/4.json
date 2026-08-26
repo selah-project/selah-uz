@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Shoh Esterga oltin tayoqchani ⟨את⟩ cho'zdi, va Ester turdi va shohning oldida turdi.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "cho'zdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Esterga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltin tayoqchani"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "tayoqcha"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shohning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:26:10.665986251Z",
+  "model": "glm-5.3"
+}

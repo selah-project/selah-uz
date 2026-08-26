@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va yer ogʻzini ochdi va ularni, va ularning uylarini, va Koraxga tegishli barcha odamlarni, va barcha mol-mulkni yutib yubordi.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "va ochdi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogʻzini"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ogʻzini"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "va yutib yubordi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning uylarini"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "ularning uylarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha odamlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odamlarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "Koraxga tegishli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha mol-mulkni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "mol-mulkni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:35:19.322135230Z",
+  "model": "glm-5.3"
+}

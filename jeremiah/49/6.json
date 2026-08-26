@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Va buning ortidan Ammon oʻgʻillarining ⟨את⟩ surgunlik ahvolini qaytaraman, — Yahvening maʼmuri.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "va ... ortidan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "buning"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "qaytaraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surgunlik ahvoli"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "surgunlik ahvoli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "maʼmuri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T05:04:37.232962086Z",
+  "model": "glm-5.3"
+}

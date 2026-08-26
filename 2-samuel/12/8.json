@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Men senga ⟨את⟩ egangning uyini va ⟨את⟩ egangning xotinlarini bagʻringa berdim, va Men senga ⟨את⟩ Isroil va Yahudo uyini berdim; va ⟨agar⟩ bu oz boʻlsa, Men senga buni ham, va buni ham qoʻshardim.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "va berdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egangning uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "egangning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "egangning xotinlarini"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "xotinlari"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "egangning"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "bagʻringa"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "va berdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil va Yahudo uyini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "va Yahudo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "oz"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "va qoʻshardim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "buni ham"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "va buni ham"
+    }
+  ],
+  "timestamp": "2026-08-26T03:11:44.696736161Z",
+  "model": "glm-5.3"
+}

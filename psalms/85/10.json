@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 85,
+  "translation": "Albatta yaqindir Uning najoti Uni larqo'rqqanlar uchun — ⟨shunda⟩ izzat makon tutsin bizning yurtimizda.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Albatta"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yaqindir"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "Uni larqo'rqqanlar uchun"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "Uning najoti"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "makon tutsin"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "izzat"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "bizning yurtimizda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:01.804881327Z",
+  "model": "glm-5.3"
+}

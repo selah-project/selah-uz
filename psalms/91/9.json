@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Chunki Sen, ey Yahve, — panohimsan; Elyonni turar joying qilding.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "panohimsan"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonni"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "qilding"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "turar joying"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:39.376273865Z",
+  "model": "glm-5.3"
+}

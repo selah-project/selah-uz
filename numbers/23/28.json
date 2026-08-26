@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Balak Bilʼomni ⟨את⟩ Peor boshiga — choʻl yuziga qaragan narsaga olib bordi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "va olib bordi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilʼomni"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilʼomni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "qaragan"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuziga"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "choʻl"
+    }
+  ],
+  "timestamp": "2026-08-26T01:39:44.882855711Z",
+  "model": "glm-5.3"
+}

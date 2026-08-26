@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va ular ⟨את⟩ Yona koʻtarib, uni dengizga tashladilar, va dengiz oʻz gʻazabidan tin oldi.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "va koʻtarib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "uni tashladilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨unga⟩ tomon"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "va tin oldi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "oʻz gʻazabidan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:41.745719387Z",
+  "model": "glm-5.3"
+}

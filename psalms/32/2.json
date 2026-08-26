@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Ne baxtli ⟨is⟩ odamki Yahve unga gunohni hisoblamaydi va ruhidа makr yoʻq.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ne baxtli"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hisoblamaydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "עון",
+      "gloss": "gunoh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ruhida"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "makr"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:50.059634567Z",
+  "model": "glm-5.3"
+}

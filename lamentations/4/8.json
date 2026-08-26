@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 4:8",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Yuzlari qoradan ham qorongʻi tusdi; koʻchalarda ularni tanimadilar; terilari suyaklariga yopishdi; qurib daraxtga aylandi.",
+  "tokens": [
+    {
+      "surface": "חשך",
+      "gloss": "qorongʻi tusdi"
+    },
+    {
+      "surface": "משחור",
+      "gloss": "qoradan"
+    },
+    {
+      "surface": "תארם",
+      "gloss": "ularning yuzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "... emas"
+    },
+    {
+      "surface": "נכרו",
+      "gloss": "tanimadilar"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "koʻchalarda"
+    },
+    {
+      "surface": "צפד",
+      "gloss": "yopishdi"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "ularning terilari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עצמם",
+      "gloss": "suyaklari"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "qurib"
+    },
+    {
+      "surface": "היה",
+      "gloss": "aylandi"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "daraxtga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:45.912469793Z",
+  "model": "glm-5.3"
+}

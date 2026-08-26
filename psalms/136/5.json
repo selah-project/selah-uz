@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Osmonlarni tushuncha bilan yaratganga, chunki abadiydir Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "yaratganga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "tushuncha bilan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiydir"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Uning xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:15.928718412Z",
+  "model": "glm-5.3"
+}

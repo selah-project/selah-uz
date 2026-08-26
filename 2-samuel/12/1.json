@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yahve ⟨את⟩ Natanni Dovudga yubordi; va u uning huzuriga keldi va unga aytdi: ikki kishi bir shaharda boʻlgan edi — biri boy, biri kambagʻal.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "va … yubordi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va u keldi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "uning huzuriga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "boʻlgan edi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shaharda"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "biri"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "boy"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "va biri"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kambagʻal"
+    }
+  ],
+  "timestamp": "2026-08-26T03:11:35.267049333Z",
+  "model": "glm-5.3"
+}

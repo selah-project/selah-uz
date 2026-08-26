@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Yettiga ulush ber, hatto sakkizga ham, chunki erning ustiga qanday yomonlik kelishini bilmaysan.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ber"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ulush"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "yettiga"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hatto… ham"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "sakkizga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "bilmaysan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nimalarni"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlajak"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "erning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:29.941724805Z",
+  "model": "glm-5.3"
+}

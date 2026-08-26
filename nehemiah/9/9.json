@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Sen bobolarimizning Misrdagi ⟨את⟩ tangligini koʻrding va ⟨את⟩ Qamish dengizi yonida ularning faryodini eshitding.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "va koʻrding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tanglik"
+    },
+    {
+      "surface": "עני",
+      "gloss": "tanglik"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bobolarimizning"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Misrda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "faryod"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ularning faryodi"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "eshitding"
+    },
+    {
+      "surface": "על",
+      "gloss": "yonida"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengizi"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamish"
+    }
+  ],
+  "timestamp": "2026-08-26T08:50:43.292731610Z",
+  "model": "glm-5.3"
+}

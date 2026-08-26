@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va u ⟨את⟩ bilan — Yahvening uyida — yashirinib olti yil boʻldi, va Atalya mamlakat ustidan podshohlik qilardi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va … boʻldi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ u bilan",
+      "marks": "u bilan (Yehosheva bilan)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "yashirinib"
+    },
+    {
+      "surface": "שש",
+      "gloss": "olti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "va Atalya"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "podshohlik qilardi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mamlakat"
+    }
+  ],
+  "timestamp": "2026-08-26T03:54:18.220301023Z",
+  "model": "glm-5.3"
+}

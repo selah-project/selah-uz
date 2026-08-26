@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Gunohni ularning gunohi ustiga qoʻygil, va Sening solihliginga kirmasinlar.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "qoʻygil"
+    },
+    {
+      "surface": "עון",
+      "gloss": "gunohni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "gunohi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va…-masinlar"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kirmasinlar"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "Sening solihliginga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:11.404315757Z",
+  "model": "glm-5.3"
+}

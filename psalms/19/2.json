@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Osmonlar Elning shon-sharafini hikoya qilmoqda, va uning qoʻllarining amalini mustahkam gumbaz eʼlon qilmoqda.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Osmonlar"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "hikoya qilmoqda"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "shon-sharafini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elning"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "va ... amalini"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "uning qoʻllarining"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "eʼlon qilmoqda"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "mustahkam gumbaz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:38.824475010Z",
+  "model": "glm-5.3"
+}

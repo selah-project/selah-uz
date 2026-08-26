@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Yahveni ⟨את⟩ men bilan birga ulugʻlanglar; va uning ismini birgalikda yuksaltiramiz.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "ulgʻlanglar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ men bilan"
+    },
+    {
+      "surface": "וונרוממה",
+      "gloss": "va yuksaltiramiz"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning ismini"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birgalikda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:06.562000025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va ular ertalab erta turdilar va bir odam birodariga qasam ichdi; va Yitsxak ularni yubordi va ular ⟨את⟩ uning oldidan tinchlik bilan ketdilar.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "va ular erta turdilar"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ertalab"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "va qasam ichdilar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir odam"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "birodariga"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "va ularni yubordi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "va ular ketdilar"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ uning oldidan",
+      "marks": "uning oldidan"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "tinchlik bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:18:39.373235982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Pelishtilar urushga oʻz machanelarini toʻpladilar va Yehudaga qarashli Soxoga yigʻildilar, va Soxoh bilan Azeka orasida, Efes-Dammimda qarorgoh qurdilar.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "toʻpladilar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz machanelarini"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "oʻz machanelarini"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "urushga"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "yigʻildilar"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Soxoga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qarashli"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudaga"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "qarorgoh qurdilar"
+    },
+    {
+      "surface": "בין",
+      "gloss": "orasida"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Soxoh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Azeka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "Efes-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Dammimda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:48:55.313429774Z",
+  "model": "glm-5.3"
+}

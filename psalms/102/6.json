@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Nolamning ovozidan suyaklarim goʻshtimga yopishdi.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ovozidan"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "nolamning"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "yopishdi"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "suyaklarim"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "goʻshtimga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:19.547170130Z",
+  "model": "glm-5.3"
+}

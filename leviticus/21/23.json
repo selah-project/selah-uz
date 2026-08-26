@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Faqat parda ortiga kirmasin va mijgohga yaqinlashmasin, chunki nuqson undadir; va muqaddas joylarimni muqaddasdan chiqarmasin, chunki Men — Yahve, ularni muqaddas qiluvchi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "pardaning ortiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kirmasin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mijgoh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "yaqinlashmasin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מום",
+      "gloss": "nuqson"
+    },
+    {
+      "surface": "בו",
+      "gloss": "undadir"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "muqaddasdan chiqarmasin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muqaddas joylarimni"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "muqaddas joylarimni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "ularni muqaddas qiluvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:04.958402483Z",
+  "model": "glm-5.3"
+}

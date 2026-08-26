@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Sen ⟨את⟩ buyruqlaringni juda gʻamxoʻrlik bilan saqlashga buyurgansan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "buyurgansan"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "buyruqlaringni"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "saqlashga"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda gʻamxoʻrlik bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:39.650889481Z",
+  "model": "glm-5.3"
+}

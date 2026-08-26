@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va xalq ⟨את⟩ uni urgan Zotga qaytmadi va Yahve Sebaotni izlamadi.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "va xalq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-madi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytmadi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…-ga"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "uni urgan Zot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve Sebaotni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-madi"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "izlamadi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:10:39.729742755Z",
+  "model": "glm-5.3"
+}

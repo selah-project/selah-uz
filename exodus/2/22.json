@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va ⟨u⟩ oʻgʻil tuʻdi, va ⟨u⟩ uning nomini Gershom deb chaqirdi, chunki ⟨u⟩ dedi: „Musirbude boʻldim begona yerda.“",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "tuʻdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "chaqirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning nomi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning nomini"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "musirbude"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "boʻldim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "begona"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:56.906055533Z",
+  "model": "glm-5.3"
+}

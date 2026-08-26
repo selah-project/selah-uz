@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va shoh Damashqdan keldi, shoh qurbongohni koʻrdi va shoh qurbongohga yaqinlashdi va uning ustiga chiqib qurbon keltirdi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "va keldi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "Damashqdan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qurbongohni"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongohni"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "va yaqinlashdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "va ustiga chiqib qurbon keltirdi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:58:20.664430001Z",
+  "model": "glm-5.3"
+}

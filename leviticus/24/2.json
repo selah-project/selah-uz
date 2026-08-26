@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Isroil o'g'illariga ⟨את⟩ buyur — senga zaytun moyi olib kelishsin: toza, maydalangan ⟨the⟩ moy, chiroq uchun, lampani uzluksiz yoqish maqsadida.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "buyur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil o'g'ilari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o'g'ilari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "olib kelishsin"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "זית",
+      "gloss": "zaytun"
+    },
+    {
+      "surface": "זך",
+      "gloss": "toza"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "maydalangan"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "chiroq uchun"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "yoqish maqsadida"
+    },
+    {
+      "surface": "נר",
+      "gloss": "lampa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "uzluksiz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:22:07.749284206Z",
+  "model": "glm-5.3"
+}

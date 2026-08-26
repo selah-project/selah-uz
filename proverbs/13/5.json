@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Yolgʻon soʻzni solih ⟨odam⟩ yomon koʻradi, ammo yov odam badboʻy boʻladi va uyatga qoladi.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "soʻzni"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "yomon koʻradi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "ammo yov"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "badboʻy boʻladi"
+    },
+    {
+      "surface": "וגחפיר",
+      "gloss": "va uyatga qoladi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:43:35.680265722Z",
+  "model": "glm-5.3"
+}

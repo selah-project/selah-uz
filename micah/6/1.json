@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Eshit⟨inglar⟩ endi nimani Yahve deydi: Tur, tortish ⟨את⟩ togʻlar bilan, va eshitsinlar tepaliklar ovozingni.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "eshit⟨inglar⟩"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nimani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Tur"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "tortish"
+    },
+    {
+      "surface": "את",
+      "gloss": "bilan (את prepozitsiyasi — yaqinlik)"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "va eshitsinlar"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "tepaliklar"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ovozi⟨ngni⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T05:46:10.145791558Z",
+  "model": "glm-5.3"
+}

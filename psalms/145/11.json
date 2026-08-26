@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Shon-sharafingni shohligining ayturlar va qudratingni soʻzlarur —",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "shon-sharaf"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "shohliging"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ayturlar"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "va qudrating"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "soʻzlarur"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:07.649258006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va mana bu soʻzlarki Yahve Isroil va Yahudo haqida gapirdi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "va mana bu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…haqida"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va …haqida"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    }
+  ],
+  "timestamp": "2026-08-26T04:53:41.988249421Z",
+  "model": "glm-5.3"
+}

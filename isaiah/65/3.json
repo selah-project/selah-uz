@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 65,
+  "translation": "Yuzimning oldida doim ⟨את⟩ Meni gʻazabga keltiruvchi xalq — bogʻlarda qurbon kesuvchilar va gʻishtlar ustida tutatquvchilar.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "gʻazabga keltiruvchilar"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "Meni"
+    },
+    {
+      "surface": "על",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzimning"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "qurbon kesuvchilar"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "bogʻlarda"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "va tutatquvchilar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "gʻishtlar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:36:29.085639722Z",
+  "model": "glm-5.3"
+}

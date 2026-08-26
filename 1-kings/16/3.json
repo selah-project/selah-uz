@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Mana, Men Baashani va uning uyini butunlay yoqib yuboraman, va seni uyingni Yarovam, Navat oʻgʻlining uyi kabi qilaman.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Mana, Men"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "yoqib yuboraman"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "keyin"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baashani"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "va keyin"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "uning uyini"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "va qilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyingni"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "uyingni"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "uyi kibi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Navat"
+    }
+  ],
+  "timestamp": "2026-08-26T03:41:08.167498033Z",
+  "model": "glm-5.3"
+}

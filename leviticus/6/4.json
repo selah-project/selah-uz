@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va ⟨את⟩ kiyimlarini yechadi va boshqa kiyimlar kiyadi, va ⟨את⟩ kulni lager tashqarisiga, toza joyga olib chiqadi.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "Va yechadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyimlarini"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kiyimlarini"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "va kiyadi"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "kiyimlar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "va olib chiqadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulni"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "kulni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqari"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lager"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "toza"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:15.705900642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Yahve, Elohimim, Senda panoh topdim; meni barcha taʼqib qiluvchilarimdan qutqar va meni xalos qil.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Senda"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "panoh topdim"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "meni qutqar"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha …dan"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "taʼqib qiluvchilarim"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "va meni xalos qil"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:58.534150641Z",
+  "model": "glm-5.3"
+}

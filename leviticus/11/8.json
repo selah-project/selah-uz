@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Ularning goʻshtidan yemangsizlar, va ularga oʻlgan leshlariga tegmanglar — ular sizlar uchun nopokdirlar.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "ularning goʻshtidan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yemangsizlar"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "va ularning oʻlgan leshlariga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "tegmanglar"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "nopok"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:56.809032353Z",
+  "model": "glm-5.3"
+}

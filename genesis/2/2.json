@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 2:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Elohim yettinchi kunda oʻz ishini — qilgan — tamomladi, va yettinchi kunda oʻzining barcha ishidan — qilgan — toʻxtadi.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "va tamomladi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yettinchi"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "oʻz ishini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "va toʻxtadi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yettinchi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha … dan"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "oʻz ishidan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:45.398388525Z",
+  "model": "glm-5.3"
+}

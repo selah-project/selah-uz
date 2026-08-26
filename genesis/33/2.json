@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va u ⟨את⟩ chollarni va ⟨את⟩ ularning bolalarini oldinga qo'ydi, va ⟨את⟩ Lea va uning bolalarini orqaga, va ⟨את⟩ Raxel va ⟨את⟩ Yusufni eng orqaga.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "qo'ydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chollarni"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "chollarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning bolalarini"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "ularning bolalarini"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "oldinga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Leani"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Leani"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "va uning bolalarini"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "orqaga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Raxelni"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Raxelni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yusufni"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yusufni"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "eng orqaga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:42.397676234Z",
+  "model": "glm-5.3"
+}

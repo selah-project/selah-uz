@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 81,
+  "translation": "Guvohnomani Yehosaf ustiga u qoʻydi, uning chiqib ketayotganida Misr yeri ustidan; til bilmadim — eshitdim.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "guvohnoma"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "Yehosaf ustiga"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "u qoʻydi"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "uning chiqib ketayotganida"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yeri"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "til"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilmadim"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "eshitdim"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:53.660313141Z",
+  "model": "glm-5.3"
+}

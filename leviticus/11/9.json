@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "⟨את⟩ buni yeysizlar, suvlardagi barcha ⟨jonlivardan⟩: suvlarda, dengizlarda va soy-boylarda surgʻali va qisqirli hamma narsani — ⟨את⟩ ularni yeyishingiz mumkin.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "buni"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeysizlar"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "<jonlivardan>"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvlardagi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma narsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "<niki>"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga bor"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "surgʻa"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "va qisqir"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvlarda"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "dengizlarda"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "va soy-boylarda"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ulani"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yeyishingiz mumkin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:44.772979513Z",
+  "model": "glm-5.3"
+}

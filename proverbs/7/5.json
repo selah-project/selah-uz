@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 7:5",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Seni saqlashi uchun yot ayoldan, begona ayoldan — u oʻz soʻzlarini silliq qilgan.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "seni saqlashi uchun"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "ayoldan"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "yot"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "begona ayoldan"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "uning soʻzlari"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "silliq qilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:40:42.549901975Z",
+  "model": "glm-5.3"
+}

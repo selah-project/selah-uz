@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Boshli-hosil qurboni sifatida ularni Yahvegʻa ⟨את⟩ keltirsangizlar ham, qurbongohga ular yoqimli hid uchun koʻtarilmaydi.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "qurbonsifatida"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "boshli-hosil"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "keltirsangizlar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegʻa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "koʻtarilmaydi"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "hid uchun"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "yoqimli"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:52.580846490Z",
+  "model": "glm-5.3"
+}

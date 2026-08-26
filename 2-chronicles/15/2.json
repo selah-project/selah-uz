@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 15:2",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va u Asa oldiga chiqdi va unga aytdi: Mening soʻzimni eshiting, Asa va butun Yahudo va Binyamin: Yahve siz bilan — siz U bilan boʻlganingizda; va agar siz Uni izlasangiz, U sizga topiladi; va agar siz Uni tashlab ketsangiz, U ⟨את⟩ sizni tashlab ketadi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Va u chiqdi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "שמעוני",
+      "gloss": "Mening soʻzimni eshiting"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "va Binyamin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "siz bilan"
+    },
+    {
+      "surface": "בהיותכם",
+      "gloss": "siz boʻlganingizda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "U bilan"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "תדרשהו",
+      "gloss": "siz Uni izlasangiz"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "U topiladi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "תעזבהו",
+      "gloss": "siz Uni tashlab ketsangiz"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "U tashlab ketadi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:09:02.120474919Z",
+  "model": "glm-5.3"
+}

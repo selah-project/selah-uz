@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 122,
+  "translation": "Yerushalaim — qurilgan ⟨⟨shahar⟩⟩, oʻziga birlashtirilgan shahar singari.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "qurilgan"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "shahar singari"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "birlashtirilgan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "oʻziga"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:10.195497109Z",
+  "model": "glm-5.3"
+}

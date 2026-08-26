@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "⟨את⟩ menga tegishli hukmlarimni qilinglar va ⟨את⟩ chuqonlarimni saqlanglar, ularda yurish uchun — men Yahve, Elohimingizman.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menga tegishli hukmlarimni"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmlarimni"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "qilinglar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "chuqonlarimni"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "chuqonlarimni"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "saqlanglar"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "yurish uchun"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimingiz"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:26.178043474Z",
+  "model": "glm-5.3"
+}

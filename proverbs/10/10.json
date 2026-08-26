@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Koʻzini qisib belgili ogʻriq beradi, shuningdek oqlovli labli ahmoq qulaydi.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "qisib"
+    },
+    {
+      "surface": "עין",
+      "gloss": "koʻzini"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "beradi"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ogʻriq"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "va ahmoq"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "labli"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "qulaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:42:25.519562245Z",
+  "model": "glm-5.3"
+}

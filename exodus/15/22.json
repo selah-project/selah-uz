@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va Moshe Isroilni Qamishli dengizidan olib yoʻlga soldi, va ular Shur choʻliga chiqib ketishdi, va choʻlda uch kun yurishdi, va suv topmadilar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "va olib yoʻlga soldi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "dengizidan"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Qamishli"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "va chiqib ketishdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "choʻliga"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "va yurishdi"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "uch"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "topmadilar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:52.652746183Z",
+  "model": "glm-5.3"
+}

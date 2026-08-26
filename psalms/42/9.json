@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Kunduzi Yahve ⟨את⟩ xesedini buyuradi, va tunda — mening bilan birga qoʻshiq, El Xayoyga ibodat.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Kunduzi"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "buyuradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedini"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "va tunda"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mening bilan birga"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ibodat"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Elga"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "Xayoygа"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:44.775303080Z",
+  "model": "glm-5.3"
+}

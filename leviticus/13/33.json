@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va ⟨u⟩ oʻzini socholdiradi, lekin ⟨את⟩ qimyilni qirmaydi; va kohen ⟨את⟩ qimyilli kishini yopib qoʻyadi ⟨uning uchun⟩ etti kun — ikkinchi marta.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "va oʻzini socholdiradi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qimyilni"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "qimyilni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…mas"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "qiradi"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "va yopib qoʻyadi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qimyilli kishini"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "qimyilli"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "etti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ikkinchi marta"
+    }
+  ],
+  "timestamp": "2026-08-26T01:15:18.351032243Z",
+  "model": "glm-5.3"
+}

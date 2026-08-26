@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Fohisha xotin va chet ellik ayolni olmasinlar, eri tomonidan haydalgan, ajralgan xotinni ham olmasinlar, chunki u o'z Elohimiga muqaddasdir.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "xotin"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "fohisha"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "va chet ellik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmasinlar"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "olmasinlar"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "va xotin"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "ajralgan"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "eridan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "olmasinlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "o'z Elohimiga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:58:33.312029457Z",
+  "model": "glm-5.3"
+}

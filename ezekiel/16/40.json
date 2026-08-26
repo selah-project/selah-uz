@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va jamoatni sen ustingga koʻtaradilar va seni ⟨את⟩ toshlar bilan oʻtdiradilar va seni qilichlari bilan chopadilar.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "Va koʻtaradilar"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "sen ustingga"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamoatni"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "va oʻtdiradilar"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ seni",
+      "marks": "seni"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "toshlar bilan"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "va chopadilar"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "qilichlari bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:15:26.953261697Z",
+  "model": "glm-5.3"
+}

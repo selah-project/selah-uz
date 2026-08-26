@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Yahve ruhi Shauldan chekindi, va Yahvedan ⟨את⟩ yovuz ruhi uni qoʻrqita boshladi.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "va ruhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "chekindi"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "dan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "uni qoʻrqita boshladi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yovuz"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ dan",
+      "marks": "Yahvedan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T08:28:51.074497474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Agar uni qiynasanglar — chunki agar Unga faryod qilsa, Men uning faryodini albatta eshitaman.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "qiynasanglar"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "qiynasanglar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "faryod qilsa"
+    },
+    {
+      "surface": "יצעעק",
+      "gloss": "faryod qilsa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitaman"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "albatta eshitaman"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "uning faryodi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:28.138871577Z",
+  "model": "glm-5.3"
+}

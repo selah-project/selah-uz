@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Sinab koʻr meni, Yahve, va meni sinovdan oʻtkaz, buyraklarim va yuragim qayta eritilgan ⟨holdada⟩.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "sinab koʻr meni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "va meni sinovdan oʻtkaz"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "qayta eritilgan"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "buyraklarim"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "va yuragim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:18.099110588Z",
+  "model": "glm-5.3"
+}

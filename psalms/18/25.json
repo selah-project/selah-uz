@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Yahve menga qaytardi — mening solihligimga koʻra, qoʻllarimning tozaligicha — Uning koʻzlari oldida.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "va qaytardi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "solihligimga koʻra"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "tozaligicha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻllarimning"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "Uning koʻzlari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:56.712539977Z",
+  "model": "glm-5.3"
+}

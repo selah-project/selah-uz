@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va ular Arnon daryosidan Yabboqgacha va choʻldan Iordangacha amoriylarning ⟨את⟩ butun chegarasini meros qilib oldilar.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "Va meros qilib oldilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun chegarasini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "chegarasini"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amoriylarning"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "Arnon daryosidan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yabboq"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "va ... dan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "choʻl"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Iordan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:32:26.483203788Z",
+  "model": "glm-5.3"
+}

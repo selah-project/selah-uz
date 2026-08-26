@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 123,
+  "translation": "Koʻp toʻyganimizdan nefeshimiz — bemorlarning masxarasi, magʻrurlarning haqorati ⟨bilan⟩.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "toʻyganimizdan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "undan"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "nefeshimiz"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "masxarasi"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "bemorlarning"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "haqorati"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "magʻrurlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:16.257215958Z",
+  "model": "glm-5.3"
+}

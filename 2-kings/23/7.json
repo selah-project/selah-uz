@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va u Yahve uyidagi muqaddaslar uyilarini ⟨את⟩ buzib tashladi — ayollar u yerda Ashera uchun uylar toʻqigan ⟨edilar⟩.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "buzib tashladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "muqaddaslar uyilarini"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "uyilarini"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "muqaddaslar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-niki"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—toki"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ayollar"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "toʻqigan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "uylar"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "Ashera uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:34:13.355277661Z",
+  "model": "glm-5.3"
+}

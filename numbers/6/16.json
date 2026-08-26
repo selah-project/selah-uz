@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va kohin ularni Yahve huzuriga yaqinlashtiradi va ⟨את⟩ uning xatoqurbanligini va ⟨את⟩ uning oluhini qiladi.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "va yaqinlashtiradi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "va qiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning xatoqurbanligini"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "uning xatoqurbanligini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ va",
+      "marks": "uning oluhini"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "uning oluhini"
+    }
+  ],
+  "timestamp": "2026-08-26T01:27:38.437970616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Har kim hayvon bilan yotsa — oʻlim bilan oʻldiriladi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har kim"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yotsa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "hayvon"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldiriladi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:39.956293228Z",
+  "model": "glm-5.3"
+}

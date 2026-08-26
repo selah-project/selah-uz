@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Yoki u sherdek nefeshimni yirtib olmasin — parchalab tashlab, va yoʻq ⟨⟨qutqaruvchi⟩⟩.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "yoki …masin"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "yirtib olmasin"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "sherdek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshim"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "parchalab tashlab"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "qutqaruvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:58.534303851Z",
+  "model": "glm-5.3"
+}

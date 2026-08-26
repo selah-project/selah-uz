@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Elyonʼning sirli panohida oʻtiruvchi, Shadday soyasida toʻxtab turadi.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "oʻtiruvchi"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sirli panohida"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonʼning"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "soyasida"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "toʻxtab turadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:58.841811878Z",
+  "model": "glm-5.3"
+}

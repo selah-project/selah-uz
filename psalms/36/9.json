@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Uyining moʻl-koʻlligididan toʻyib ichadilar, va zavqlaringaning jara-yini sen ularga ichirasan.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "toʻyib ichadilar"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "moʻl-koʻlligididan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "uyining"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "va jara-yini"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "zavqlaringaning"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "sen ularga ichirasan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:16.350506419Z",
+  "model": "glm-5.3"
+}

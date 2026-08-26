@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Yoʻq boʻlsin unga xesedni choʻzuvchi, va yoʻq boʻlsin marhamat qiluvchi uning yetimlariga.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "משך",
+      "gloss": "choʻzuvchi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "marhamat qiluvchi"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "uning yetimlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:12.952302750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va nega Yahve qasamini va senga buyurgan buyruqni ⟨את⟩ saqlamading?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "va nega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "saqlading"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve qasamini"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "qasamini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "buyruqni"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "buyruqni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ki"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "buyurganman"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "senga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:26:05.447974361Z",
+  "model": "glm-5.3"
+}

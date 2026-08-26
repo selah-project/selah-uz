@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Qaranglar xalqlarga va nazar solinglar, va hayron bo'linglar, juda hayron: chunki sizning kunlaringizda bir ish qilinmoqda — buni eshitsangiz ham isonmasizlar.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "qaranglar"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlarga"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "va nazar solinglar"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "va hayron bo'linglar"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "juda hayron"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "bir ish"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "qilinmoqda"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "sizning kunlaringizda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "isonmasizlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "−"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "eshitsangiz ham"
+    }
+  ],
+  "timestamp": "2026-08-26T05:47:45.508186566Z",
+  "model": "glm-5.3"
+}

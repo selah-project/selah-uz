@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Tsippora chaqmoqtosh oldi va ⟨את⟩ oʻgʻlining suratini kesdi va oyogʻiga tekkizdi va aytdi: chinakim, qonlar kuyovi san menga.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsippora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "chaqmoqtosh"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "kesdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻgʻlining surati"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "suratini"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "oʻgʻlining"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "tekkizdi"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "oyogʻiga"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chinakim"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "kuyovi"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qonlar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "san"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:02.586261683Z",
+  "model": "glm-5.3"
+}

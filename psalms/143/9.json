@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 143,
+  "translation": "Qutqar meni dushmanlarimdan, ey Yahve, senga panoh topdim ⟨⟨sening⟩⟩ panoingda yashirindim.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "qutqar meni"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "dushmanlarimdan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga panoh topdim"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "panoingda yashirindim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:31.305913429Z",
+  "model": "glm-5.3"
+}

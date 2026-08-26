@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "U men ustiga qurdi va achchiq oʻt bilan, ogʻir mehnat bilan oʻrab oldi.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "qurdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "men ustiga"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "va oʻrab oldi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "achchiq oʻt"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "va ogʻir mehnat"
+    }
+  ],
+  "timestamp": "2026-08-26T07:15:28.106354144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va akalari unga hasad qildilar, va otasi ⟨את⟩ soʻzni saqlab qoʻydi.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "Va hasad qildilar"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "akalari"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "va otasi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saqlab qoʻydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻzni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:42:24.768949654Z",
+  "model": "glm-5.3"
+}

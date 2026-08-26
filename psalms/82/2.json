@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 82,
+  "translation": "Qanchagacha adolatsiz hukm chiqarasizlar, va yovlarning yuzini koʻtarsizlar? Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Qancha"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "hukm chiqarasizlar"
+    },
+    {
+      "surface": "עול",
+      "gloss": "adolatsiz"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "va yuzini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlarning"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "koʻtarsizlar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:12.279033211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Va Meshkning ikkinchi tomoni uchun, shimol tomonda, u yigirmata taxta yasadi.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "va ... tomoni uchun"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Meshkning"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "tomonida"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "shimol"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "yigirmata"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "taxta"
+    }
+  ],
+  "timestamp": "2026-08-26T01:06:04.467139036Z",
+  "model": "glm-5.3"
+}

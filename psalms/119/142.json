@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Sening solihliging abadiy solihlikdir, va Sening Tavoring — haqiqat.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Sening solihliging"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "solihlik"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "va Sening Tavoring"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "haqiqat"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:01.898124781Z",
+  "model": "glm-5.3"
+}

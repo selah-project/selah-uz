@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "U gʻazabiga yoʻl tekisladi, ularning nefeshini oʻlimdan ayamadi, ularning hayotini vaboga topshirdi.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "tekisladi"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "gʻazabiga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-madi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ayamadi"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "oʻlimdan"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ularning nefeshini"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "ularning hayotini"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "vaboga"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "topshirdi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:34.692547569Z",
+  "model": "glm-5.3"
+}

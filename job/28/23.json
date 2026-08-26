@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Elohim uning yoʻlini tushunadi, va ⟨u⟩ ⟨את⟩ uning joyini biladi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "tushunadi"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "uning yoʻlini"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "va u"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning joyini"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "uning joyini"
+    }
+  ],
+  "timestamp": "2026-08-26T07:04:11.095142636Z",
+  "model": "glm-5.3"
+}

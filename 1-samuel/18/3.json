@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Yehonatan va Dovud ahd kesishdi, chunki u uni oʻz nefeshidek yaxshi koʻrar edi: ⟨את⟩ uni, oʻz nefeshidek.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Va... kesishdi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "va Dovud"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "chunki u... yaxshi koʻrar edi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "oʻz nefeshidek"
+    }
+  ],
+  "timestamp": "2026-08-26T02:53:36.484036210Z",
+  "model": "glm-5.3"
+}

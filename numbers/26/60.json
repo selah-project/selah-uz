@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va Aharonga Nadvab ⟨את⟩ va Avihudan ⟨את⟩, Elazardan ⟨את⟩ va Itamardan ⟨את⟩ farzand koʻrindi.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "farzand koʻrindi"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadvab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadvab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Avihu"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Avihu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:41:36.807725595Z",
+  "model": "glm-5.3"
+}

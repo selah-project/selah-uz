@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "va dedi: Mening oʻzim bilan qasam ichdim, — Yahve nidosi, — chunki sen ⟨את⟩ bu ishni qilding va ⟨את⟩ oʻgʻlingni, ⟨את⟩ yagonangni ayamading.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mening oʻzim bilan"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "qasam ichdim"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "nidosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יען",
+      "gloss": "buning uchun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "qilding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu ishni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ishni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "ayamading"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻgʻlingni"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "oʻgʻlingni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yagonangni"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "yagonangni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:37:02.742682705Z",
+  "model": "glm-5.3"
+}

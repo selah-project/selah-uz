@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va aytdi Yahve Yaakovga: qayt otalaring yurtiga va tugʻilgan joyinga, va Men boʻlaman sen bilan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "qayt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yurtiga"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "otalaring"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "va tugʻilgan joyinga"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "va boʻlaman"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sen bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:14.262030001Z",
+  "model": "glm-5.3"
+}

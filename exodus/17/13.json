@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Yehoshua ⟨את⟩ Amalekni va ⟨את⟩ xalqini qilich ogʻzi bilan yengdi.",
+  "tokens": [
+    {
+      "surface": "ויחלש",
+      "gloss": "yengdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalekni"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalekni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "xalqini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqini"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ogʻzi bilan"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:36.412926346Z",
+  "model": "glm-5.3"
+}

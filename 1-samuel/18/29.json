@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Shoul yana Dovudning yuzidan ⟨qoʻrqishni⟩ qoʻshdi, va Shoul Dovudga ⟨את⟩ barcha kunlar dushman boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "qoʻshdi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoul"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "qoʻrqish"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoul"
+    },
+    {
+      "surface": "איב",
+      "gloss": "dushman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dovudga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kunlar"
+    }
+  ],
+  "timestamp": "2026-08-26T02:52:04.952307925Z",
+  "model": "glm-5.3"
+}

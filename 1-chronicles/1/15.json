@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "va ⟨את⟩ xiviylikni, va ⟨את⟩ arqiylikni, va ⟨את⟩ siniylikni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "xiviylikni"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "xiviylikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "arqiylikni"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "arqiylikni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "siniylikni"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "siniylikni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:53:05.820902983Z",
+  "model": "glm-5.3"
+}

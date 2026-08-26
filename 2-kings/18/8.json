@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "⟨U⟩ Pelishtilarni ⟨את⟩ Azzagacha urdi va ⟨uning⟩ chegaralarini ⟨את⟩ — qorovullar minorasidan mustahkam shahargacha.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pelishtilar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtilarni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Azzagacha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning chegaralari"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "uning chegaralarini"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "minorasidan"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "qorovullar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "mustahkam"
+    }
+  ],
+  "timestamp": "2026-08-26T03:57:53.420942267Z",
+  "model": "glm-5.3"
+}

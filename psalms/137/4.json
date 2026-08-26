@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 137,
+  "translation": "Qanday kuylaymiz ⟨את⟩ Yahve qoʻshigʻini begona tuproqda?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Qanday"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "kuylaymiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻshigʻini"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshigʻini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "da"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tuproq"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "begona"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:57.830140192Z",
+  "model": "glm-5.3"
+}

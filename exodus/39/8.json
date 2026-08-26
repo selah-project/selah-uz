@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Va u ⟨את⟩ hosheyni yasadi — oʻymakor ustaning ishi, efod ishi kabi: oltin, tekhelet, argamon va tola-shani va oʻrilgan shesh.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hosheyn"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hosheyn"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ishi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "oʻymakor"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "ishi kabi"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "va argamon"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "va tola"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "va shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "oʻrilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:07:09.529086155Z",
+  "model": "glm-5.3"
+}

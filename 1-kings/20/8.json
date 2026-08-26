@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va barcha keksalar va barcha xalq unga dedilar: „Tinglama va rozi boʻlma.“",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "va dedilar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "keksalar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tinglama"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "rozi boʻlma"
+    }
+  ],
+  "timestamp": "2026-08-26T03:44:04.133678252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va qoʻlga oldilar ⟨את⟩ qirolni va olib chiqdilar ⟨את⟩ uni Bobil qiroli huzuriga Rivlagaga, va hukm aytdilar ⟨את⟩ bilan unga.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "qoʻlga oldilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qirolni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "olib chiqdilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bobil"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Rivlagaga"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "aytdilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bilan u"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukm"
+    }
+  ],
+  "timestamp": "2026-08-26T04:06:12.536171361Z",
+  "model": "glm-5.3"
+}

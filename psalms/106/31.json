@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va unga solihlik deb hisoblandi, avloddan avlodgacha, abadigacha.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "hisoblandi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "solihlik deb"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "avloddan"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "avlodgacha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "abadigacha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:03.859269070Z",
+  "model": "glm-5.3"
+}

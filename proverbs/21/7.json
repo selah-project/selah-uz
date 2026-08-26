@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Yovlarning zoʻravonligi ularni tortib ketadi, chunki ular adolat qilishdan bosh tortdilar.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "zoʻravonligi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlarning"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "ularni tortib ketadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "bosh tortdilar"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "qilishdan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "adolat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:47:40.277717119Z",
+  "model": "glm-5.3"
+}

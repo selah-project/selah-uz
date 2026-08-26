@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "ki lablarim ochdi ogʻzim esa gapirdi tangligimda.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "ochdi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lablarim"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "esa gapirdi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻzim"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "tangligimda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mening"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:05.118544640Z",
+  "model": "glm-5.3"
+}

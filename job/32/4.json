@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Elihu esa Iyov bilan ⟨את⟩ soʻzlar boʻyicha kutdi, chunki ular undan kunlari koʻproq ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "va Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "kutdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyov bilan"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "soʻzlar boʻyicha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "qarilar"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "kunlari boʻyicha"
+    }
+  ],
+  "timestamp": "2026-08-26T07:06:10.463127263Z",
+  "model": "glm-5.3"
+}

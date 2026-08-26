@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Yahve, Elohimim, agar men buni qildim, agar qoʻllarimda adolatsizlik boʻlsa —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "qildim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "buni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יש",
+      "gloss": "boʻlsa ⟨bor⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "adolatsizlik"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "qoʻllarimda"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:58.534417934Z",
+  "model": "glm-5.3"
+}

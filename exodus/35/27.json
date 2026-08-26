@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va sardorlar ⟨את⟩ shoxam toshlarini va ⟨את⟩ juftlashtirilgan toshlarni keltirdilar — efod va xosen uchun.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "va sardorlar"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "keltirdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shoxam toshlari"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "toshlarini"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoxam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "juftlashtirilgan toshlar"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "toshlarini"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "juftlashtirilgan (oʻrnatiladigan)"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "efod uchun"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "va xosen uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:05:09.597037626Z",
+  "model": "glm-5.3"
+}

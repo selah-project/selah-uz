@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Yehonatan ustidagi ⟨את⟩ nimusni yechib, Dovudga berdi, va kiyimlarini, hamda qilichigacha, hamda kamonigacha, hamda belbogʻigacha.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "Va... yechib"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nimusni"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "nimus"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ustidagi"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "va... berdi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "va kiyimlarini"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hamda... gacha"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "qilichigacha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hamda... gacha"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "kamonigacha"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "hamda... gacha"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "belbogʻigacha"
+    }
+  ],
+  "timestamp": "2026-08-26T02:53:36.484189661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "va hukm ruhi — hukm oʻrinishida oʻtirgan uchun, va jangni darvozaga qaytaruvchilarga qudrat uchun.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "va ruhi uchun"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukm"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "oʻtirgan uchun"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "hukm"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "va qudrat uchun"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "qaytaruvchilar"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "jangni"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "darvozaga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:17:45.802254270Z",
+  "model": "glm-5.3"
+}

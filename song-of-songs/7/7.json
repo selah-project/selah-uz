@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Qanchalik goʻzalsan va qanchalik yoqimlisan, ey sevgi, rohatlarda!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "qanchalik"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "goʻzalsan"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "va qanchalik"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "yoqimlisan"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ey sevgi"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "rohatlarda"
+    }
+  ],
+  "timestamp": "2026-08-26T07:13:03.640539407Z",
+  "model": "glm-5.3"
+}

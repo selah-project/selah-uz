@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va ularni oldi va ularni ⟨את⟩ soydan oʻtkazdi va oʻzining bor-yoʻgʻini oʻtkazdi.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "va ularni oldi"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "va ularni oʻtkazdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soydan"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "soy"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "va oʻtkazdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻzining bor-yoʻgʻini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:40:44.916908594Z",
+  "model": "glm-5.3"
+}

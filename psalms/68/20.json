@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Olkok Adonay, kunma-kun bizga yuklaydi; El — bizning najotimiz. Sela.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Olkok"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "yuklaydi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "najotimiz"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:44.815275149Z",
+  "model": "glm-5.3"
+}

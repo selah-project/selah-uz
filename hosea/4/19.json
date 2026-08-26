@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Shamol uni ⟨את⟩ oʻz qanotlarida bogʻladi, va ular oʻz qurbonliklaridan uyoladilar.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "bogʻladi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "shamol"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "uni (u — qanotlarida oʻralgan)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "oʻz qanotlarida"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "va uyoladilar"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "oʻz qurbonliklaridan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:34:56.117436054Z",
+  "model": "glm-5.3"
+}

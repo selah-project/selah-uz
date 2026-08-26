@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Elchilar esa uning oldiga qaytdilar va ularga aydi: nima bu, qaytdingizlar?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "qaytdilar"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "elchilar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "uning oldiga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aydi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "qaytdingizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:47:24.615370220Z",
+  "model": "glm-5.3"
+}

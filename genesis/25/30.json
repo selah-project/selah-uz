@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Esav Yaakovga dedi: mengi oshib yubor bu qizil — bu qizildan, chunki men charchaganman; shuning uchun uning nomi Edom deb ataldi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "oshirib yubor meni"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "qizil"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "qizil"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "charchagan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "על",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ataldi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning nomi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:06.382141270Z",
+  "model": "glm-5.3"
+}

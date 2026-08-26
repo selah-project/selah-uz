@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va u elchilar yubordi Axboga, Isroil shohiga, ⟨the⟩ shahraga.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "elchilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axbog"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "shahraga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:43:40.456996230Z",
+  "model": "glm-5.3"
+}

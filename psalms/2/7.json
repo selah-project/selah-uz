@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Farmsonga koʻra bayon qilaman: Yahve menga aytdi: „Sen Mening oʻgʻlimsan, Men seni bugun tugʻdiman.“",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "bayon qilaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "koʻra"
+    },
+    {
+      "surface": "חק",
+      "gloss": "farmsonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻlimsan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "tugʻdiman"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:16.382316281Z",
+  "model": "glm-5.3"
+}

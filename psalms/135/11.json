@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Sixonnga, emoriylar shohiga, va Oʻgʻga, Bashon shohiga, va Kenaanning barcha podsholiklariga —",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sixonnga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriylar"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "va Oʻgʻga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashon"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "va ... barcha"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "podsholiklariga"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaanning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:02.571762448Z",
+  "model": "glm-5.3"
+}

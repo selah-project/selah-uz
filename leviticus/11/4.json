@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Balki ⟨את⟩ bundan yemanglar — gʻirra qaytaruvchilardan va tuyoq boʻlaklamaslaridan: tuya, chunki u gʻirra qaytaradi-u, biroq tuyoqni boʻlaklamaydi — u sizlar uchun nomuslidir.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "balki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bundan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bundan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yemanglar"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "yesangiz"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "qaytaruvchilardan"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "gʻirra"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "va boʻlaklamaslaridan"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "tuyoq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuya"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "tuya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "qaytaradi"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gʻirra"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "biroq tuyoqni"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "boʻlaklamaydi"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "boʻlaklovchi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nomusli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:31.070289700Z",
+  "model": "glm-5.3"
+}

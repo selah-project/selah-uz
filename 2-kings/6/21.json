@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Yisroil qiroli Elishaga — ⟨את⟩ularni koʻrganida — dedi: otam, uraymi — uraymi, ota?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—ga"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "koʻrganida"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ularni",
+      "marks": "ularni"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "uraymi"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "uraymi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otam"
+    }
+  ],
+  "timestamp": "2026-08-26T03:50:08.360999682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va endi Yahve nomi bilan menga qasam ichki: agar ⟨את⟩ urugʻimni mendan keyin kesib tashlamasan, va agar ⟨את⟩ ismimni otamning uyidan yoʻq qilmasan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "qasam ich"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahve nomi bilan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "kesib tashlamasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urugʻimni"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "urugʻimni"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mendan keyin"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "yoʻq qilmasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ismimni"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ismimni"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uyidan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otamning"
+    }
+  ],
+  "timestamp": "2026-08-26T02:55:00.971172440Z",
+  "model": "glm-5.3"
+}

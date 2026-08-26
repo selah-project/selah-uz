@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "U ⟨unda⟩ qatʼiyat bilan uning bilan borishga bel bogʻlaganini koʻrdi va unga gapirishni toʻxtatdi.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ni"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "qatʼiyat bilan bel bogʻlagan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "borishga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "u (uning bilan)"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "va toʻxtatdi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "gapirishni"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:48:39.010425473Z",
+  "model": "glm-5.3"
+}

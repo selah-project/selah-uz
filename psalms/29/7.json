@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Yahvening ovozi olov tillarini yoʻnadi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ovozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "yoʻnadi"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "tillarini"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:52.926474826Z",
+  "model": "glm-5.3"
+}

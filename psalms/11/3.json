@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Chunki poydevorlar vayron qilinadi — solih odam ⟨nima⟩ qildi?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "poydevorlar"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "vayron qilinadi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih odam"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨nima⟩"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "qildi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:41:37.583579644Z",
+  "model": "glm-5.3"
+}

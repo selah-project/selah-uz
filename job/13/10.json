@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "U albatta ⟨את⟩ sizlarni fosh qiladi, agar sirda yuzlar koʻtarsangizlar.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "albatta fosh qiladi"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "fosh qiladi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "sirda"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yuzlar"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "koʻtarsangizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:58:10.041452325Z",
+  "model": "glm-5.3"
+}

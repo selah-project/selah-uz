@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Ona qornida ⟨את⟩ akasini toʻpigʻidan ushladi, va oʻz qudratida ⟨את⟩ Elohim bilan kurashdi.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "ona qornida"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "toʻpigʻidan ushladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akasini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "akasini"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "va oʻz qudratida"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "kurashdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T05:37:50.438300102Z",
+  "model": "glm-5.3"
+}

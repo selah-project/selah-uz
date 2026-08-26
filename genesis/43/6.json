@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Va Yisrael aytdi: Nega menga yomonlik qildingiz, odamga aytib, yana ukangiz bormi deb?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "yomonlik qildingiz"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "aytib"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "odamga"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "yana… bormi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarda"
+    },
+    {
+      "surface": "אח",
+      "gloss": "uka"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:49.491237936Z",
+  "model": "glm-5.3"
+}

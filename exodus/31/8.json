@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "va ⟨את⟩ dasturxon va ⟨את⟩ uning buyumlarini, va ⟨את⟩ pok menorani va ⟨את⟩ uning barcha buyumlarini, va ⟨את⟩ tutatqi qurbongohini —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "dasturxon"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "dasturxon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning buyumlarini"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "uning buyumlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "pok menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "pok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha buyumlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "buyumlari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "tutatqi qurbongohi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "tutatqi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:28.657117964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 10:17",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Chunki Yahve, sizning Elohimingiz — U ⟨the⟩ elohlarning Elohimi va adonlarning Adonayi, ⟨the⟩ buyuk El, ⟨the⟩ qudratli va ⟨the⟩ dahshatli, ki yuz koʻtarmaydi va pora olmaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizning Elohimingiz"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "elohlarning"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "va Adonayi"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "adonlarning"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨the⟩ El"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "⟨the⟩ buyuk"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨the⟩ qudratli"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "va ⟨the⟩ dahshatli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "koʻtarmaydi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "olmaydi"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "pora"
+    }
+  ],
+  "timestamp": "2026-08-26T01:53:29.051039971Z",
+  "model": "glm-5.3"
+}

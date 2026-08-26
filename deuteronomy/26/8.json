@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va Yahve bizni Misrayimdan chiqardi kuchli qoʻl bilan, va choʻzilgan bilak bilan, va buyuk dahshat bilan, va belgilar bilan, va moʻjizalar bilan.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "va bizni chiqardi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrayimdan"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻl bilan"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "kuchli"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "va bilak bilan"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "choʻzilgan"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "va dahshat bilan"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "va belgilar bilan"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "va moʻjizalar bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:01:34.014015670Z",
+  "model": "glm-5.3"
+}

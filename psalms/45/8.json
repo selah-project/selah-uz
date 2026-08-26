@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Adolatni sevding va yovuzlikni yomon koʻrding; shuning uchun Elohim, Elohiming seni sevinch moyi bilan moyladi — hamrohlaringdan ⟨ortiq⟩.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "sevding"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolatni"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "va yomon koʻrding"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovuzlikni"
+    },
+    {
+      "surface": "על",
+      "gloss": "...uchun"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "moyladi seni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "sevinch"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "hamrohlaringdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:57.935362602Z",
+  "model": "glm-5.3"
+}

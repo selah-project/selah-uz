@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Men Yahveman, va boshqasi yoʻq; Menden tashqari xudo yoʻq; Men seni kamarladim, garchi sen Meni bilmas eding.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "boshqasi"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "Menden tashqari"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xudo"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "Men seni kamarladim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "garchi ... emas"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "sen Meni bilmas eding"
+    }
+  ],
+  "timestamp": "2026-08-26T04:28:38.144871817Z",
+  "model": "glm-5.3"
+}

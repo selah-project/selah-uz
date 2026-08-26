@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va boʻldiki, Dovud va uning odamlari uchinchi kuni Tsiklagga kelganida, amaleqliklar janubga va Tsiklagga bostirib kirgan edilar, va ular Tsiklagni ⟨את⟩ urdilar va uni ⟨את⟩ olovida yoqdirdilar.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldiki"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "kelganida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "va uning odamlari"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "uchinchi"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "va amaleqliklar"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "bostirib kirgan edilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "janub"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va tomon"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "va urdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "va yoqdirdilar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ uni",
+      "marks": "olovda yoqilgan narsa — Tsiklag"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:29:37.845134543Z",
+  "model": "glm-5.3"
+}

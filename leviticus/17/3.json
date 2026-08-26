@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Isroil uyidan har qanday kishi — mol yoki qoʻy yoki echkini lagerda soʻyadigan, yoki lagerning tashqarisida soʻyadigan —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uyidan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ki"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "soʻyadigan"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mol"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "qoʻy"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "עז",
+      "gloss": "echkini"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "lagerda"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ki"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "soʻyadigan"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqarisida"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "lagerning"
+    }
+  ],
+  "timestamp": "2026-08-26T01:17:08.826189864Z",
+  "model": "glm-5.3"
+}

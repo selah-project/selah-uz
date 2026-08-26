@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "sizlar, Yahve uyida, Elohimimiz uyining hovlilarida turganlar!",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "turganlar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "hovlilarida"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyining"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:54.682674451Z",
+  "model": "glm-5.3"
+}

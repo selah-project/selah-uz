@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 23:20",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Benyahu, Yehoyadaning oʻgʻli, tirik jon kishining oʻgʻli, koʻp ishlar sohibi, Kavtseeldan — u Moabning ikki sherini urdi; va u tushdi va sherni urdi quduq oʻrtasida, qor kunida.",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Va Benyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishining"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tirik jon"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sahibi"
+    },
+    {
+      "surface": "פעלים",
+      "gloss": "koʻp ishlar"
+    },
+    {
+      "surface": "מקבצאל",
+      "gloss": "Kavtseeldan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moabning ikki sherini"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikkita"
+    },
+    {
+      "surface": "אראל",
+      "gloss": "sherini"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabning"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "va u"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "va urdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sherni"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "sherni"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "quduq"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "השלג",
+      "gloss": "qor"
+    }
+  ],
+  "timestamp": "2026-08-26T03:22:25.882305049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Suvlarda surgʻasi ham, qisqiri ham boʻlmagan hamma narsa — u yomon narsadir sizlar uchun.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "hamma narsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "<niki>"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "surgʻa"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "va qisqir"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvlarda"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "yomon narsa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlar uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:44.773691618Z",
+  "model": "glm-5.3"
+}

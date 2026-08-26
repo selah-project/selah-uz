@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Shomron navvolarida maʼnosizlik koʻrdim: ular Baʼal nomidan paygʻambarlik qildilar va xalqimni — Isroilni ⟨את⟩ yoʻldan ozdirdilar.",
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "Va ... navvolarida"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "maʼnosizlik"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "paygʻambarlik qildilar"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "Baʼal nomidan"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "va yoʻldan ozdirdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqimni"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqimni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:37:50.818376264Z",
+  "model": "glm-5.3"
+}

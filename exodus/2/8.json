@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Parohning qizi unga aytdi: bor. Va yosh qiz bordi, va ⟨את⟩ bolaning onasini chaqirdi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parohning"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "bor"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "bordi"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "yosh qiz"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "chaqirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolaning onasini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "onasini"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bolaning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:59.266568370Z",
+  "model": "glm-5.3"
+}

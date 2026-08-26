@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Idrok eting, ey ahmoqlar — xalq ichidagi, va ey nodonlar, qachon aql bilan ish qilursizlar?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "idrok eting"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "ey ahmoqlar"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "xalq ichidagi"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "va ey nodonlar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "qachon"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "aql bilan ish qilursizlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:29.079870487Z",
+  "model": "glm-5.3"
+}

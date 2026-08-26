@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 140,
+  "translation": "Magʻrurlar men uchun tuzoq yashirdilar va arqonlar — toʻr yoydilar yoʻl chetiga, ilgaklar qoʻydilar men uchun. Selah.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "yashirdilar"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "Magʻrurlar"
+    },
+    {
+      "surface": "פח",
+      "gloss": "tuzoq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "men uchun"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "va arqonlar"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "yoydilar"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "toʻr"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "chetiga"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "ilgaklar"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "qoʻydilar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "men uchun"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:56.531224816Z",
+  "model": "glm-5.3"
+}

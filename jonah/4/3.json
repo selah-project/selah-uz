@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Endi, Yahve, iltimos, jonimni ⟨את⟩ mendan ol, chunki mening oʻlganim yashaganimdan yaxshiroq.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Endi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ol"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jonimni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshiroq"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "oʻlganim"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "yashaganimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:41.395664361Z",
+  "model": "glm-5.3"
+}

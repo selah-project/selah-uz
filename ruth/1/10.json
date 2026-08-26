@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va unga aytdilar: «Albatta, siz ⟨את⟩ bilan xalqingizga qaytamiz.»",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "va aytdilar"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "albatta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ bilan — siz bilan",
+      "marks": "siz bilan"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "qaytamiz"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "xalqingizga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:13:29.922665526Z",
+  "model": "glm-5.3"
+}

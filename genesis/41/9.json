@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va soqchilar sari Parohga gapirdi, deyishicha: „Gunohlarimni bugun men eslataman.“",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Va gapirdi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sari"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "soqchilarning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paroh"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyishicha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gunohlarimni"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "gunohlarimni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "eslataman"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:57.121117051Z",
+  "model": "glm-5.3"
+}

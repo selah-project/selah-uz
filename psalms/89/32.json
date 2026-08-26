@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Agar ular buyruqlarimni buzsa va farmoyishlarimni saqlamasalar —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "buyruqlarimni"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "buzsalar"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "va farmoyishlarimni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "saqlamasalar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:56.233771136Z",
+  "model": "glm-5.3"
+}

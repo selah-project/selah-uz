@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Ikki kishi birgalikda yuradimi, agar ⟨kelishib olishmagan⟩ boʻlsa?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "yuradimi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birgalikda"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "agar ... boʻlmasa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "⟨kelishib olishmagan⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T05:40:05.669388533Z",
+  "model": "glm-5.3"
+}

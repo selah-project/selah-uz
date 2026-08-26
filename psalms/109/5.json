@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 109,
+  "translation": "Va ular menga yomonlikni yaxshilik oʻrniga qoʻydilar, va nafratni — sevgim oʻrniga.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Va ular qoʻydilar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "oʻrniga"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yaxshilik"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "va nafratni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "oʻrniga"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "sevgim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:08.321101755Z",
+  "model": "glm-5.3"
+}

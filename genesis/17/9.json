@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Elohim Avrahamga aytdi: sen esa ⟨את⟩ ahdimni saqlaysan — sen va urug‘ing sendan keyin, avlodlari bo‘yicha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "sen esa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimni"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "saqlaysan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "va urug‘ing"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sendan keyin"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "avlodlari bo‘yicha"
+    }
+  ],
+  "timestamp": "2026-08-26T00:34:23.527578907Z",
+  "model": "glm-5.3"
+}

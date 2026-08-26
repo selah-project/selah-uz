@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 16:7",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va mota kunida ular uchun ⟨את⟩ nonni boʻlib bermaydilar — oʻlganni tasalli berish uchun — va ⟨את⟩ ularni tasalli kosasi bilan ichirmaydilar, otasi uchun ham, onasi uchun ham.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "–may"
+    },
+    {
+      "surface": "יפרסו",
+      "gloss": "boʻlib bermaydilar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ular uchun"
+    },
+    {
+      "surface": "על",
+      "gloss": "–ga"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "mota"
+    },
+    {
+      "surface": "לנחמו",
+      "gloss": "tasalli berish uchun"
+    },
+    {
+      "surface": "על",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "מת",
+      "gloss": "oʻlgan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "–may"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "ichirmaydilar"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kosa"
+    },
+    {
+      "surface": "תנחומים",
+      "gloss": "tasalli"
+    },
+    {
+      "surface": "על",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va … uchun"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "onasi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:46:59.767242647Z",
+  "model": "glm-5.3"
+}

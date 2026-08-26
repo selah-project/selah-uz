@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Meni koʻz qorachigʻidek saqla, qanotlaringning soyasida meni yashir.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "meni saqla"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "qorachigʻidek"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "koʻz"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "soyasida"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "qanotlaringning"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "meni yashir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:46.289066876Z",
+  "model": "glm-5.3"
+}

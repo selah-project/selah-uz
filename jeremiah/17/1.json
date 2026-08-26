@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Yehudaning gunohi temir qalam bilan, olmos uchi bilan yozilgan, ularning qalbi lavhasiga va sizning qurbongohlarining shoxlariga oʻyib solingan.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "gunohi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudaning"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "yozilgan"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "qalam bilan"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "temir"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "uchi bilan"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "olmos"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "oʻyib solingan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "lavhasiga"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ularning qalbi"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "va shoxlariga"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "sizning qurbongohlaringizning"
+    }
+  ],
+  "timestamp": "2026-08-26T04:46:47.366036554Z",
+  "model": "glm-5.3"
+}

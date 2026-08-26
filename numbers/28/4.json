@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "⟨את⟩ bitta qoʻzini ertalab bajargil va ⟨את⟩ ikkinchi qoʻzini oqshom oraligʻida bajargil.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻzi (birinchi)"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "qoʻzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "bajargil"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ertalab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikkinchi qoʻzi"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "qoʻzi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "bajargil"
+    },
+    {
+      "surface": "בין",
+      "gloss": "oraligʻida"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "oqshom"
+    }
+  ],
+  "timestamp": "2026-08-26T01:42:45.230445845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Moshe razvedka qilish uchun yubordi ⟨את⟩ Yazerni; va uning qishloqlarini egalladilar va meros qilib oldilar ⟨את⟩ u yerdagi Emorini.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Va yubordi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "razvedka qilish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazerni"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazerni"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "va egalladilar"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "uning qishloqlarini"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "va meros qilib oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emorini"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emorini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:38:13.575846023Z",
+  "model": "glm-5.3"
+}

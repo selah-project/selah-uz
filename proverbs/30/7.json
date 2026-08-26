@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Ikkita narsa Sendan ⟨את⟩ soʻradim; oʻlmagunimdan oldin mendan mahrum qilma.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Ikkita narsa"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "soʻradim"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ Sendan",
+      "marks": "Sendan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "mahrum qilma"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "…gunimdan oldin"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "oʻlaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:52:22.576249051Z",
+  "model": "glm-5.3"
+}

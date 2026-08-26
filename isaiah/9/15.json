@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va bu xalqni baxtli deydiganlar ⟨uni⟩ adashtirmoqda, va baxtli deyilganlari yutib yuborilmoqda.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "baxtli deydiganlar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "adashtirmoqda"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "va baxtli deyilganlari"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "yutib yubormoqda"
+    }
+  ],
+  "timestamp": "2026-08-26T04:11:37.131117070Z",
+  "model": "glm-5.3"
+}

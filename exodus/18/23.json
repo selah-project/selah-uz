@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Agar sen ⟨את⟩ bu ishni qilsan va Elohim seni buyursa, u holda sen bardosh bera olasan, va butun bu xalq ham oʻz joyiga tinchlik bilan yetib boradi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu ishni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ishni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qilsan"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "va seni buyursa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "va bardosh bera olasan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "turmoqqa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "va ham"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "oʻz joyiga"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "yetib boradi"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "tinchlik bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:50.736772179Z",
+  "model": "glm-5.3"
+}

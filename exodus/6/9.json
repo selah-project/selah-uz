@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Moshe Isroil o‘g‘illariga shunday gapirdi, ammo ular rux qisqaligi va og‘ir mehnat tufayli Moshega quloq solmadi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o‘g‘illari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo ... –madi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "quloq solmadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "qisqaligi tufayli"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "rux"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "va mehnat"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "og‘ir"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:28.017737854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va kun bo'ldi — u u yerga keldi va yuqori xonaga yuzlandi va u yerda yotdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va bo'ldi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va u keldi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "va yuzlandi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "yuqori xonaga"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "va yotdi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T03:48:41.606160891Z",
+  "model": "glm-5.3"
+}

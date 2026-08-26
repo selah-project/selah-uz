@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Quriydi oʻt, soʻladi gul, ammo bizning Elohimning soʻzi abadiy turadi.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "quriydi"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "soʻladi"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "gul"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ammo … soʻzi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "bizning Elohim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "turadi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T08:35:25.778221130Z",
+  "model": "glm-5.3"
+}

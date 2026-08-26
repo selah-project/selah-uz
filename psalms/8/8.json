@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Qoʻylar va mol-qoramollarning hammasi, hatto dalalarning hayvonlari ham —",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "qoʻylar"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "va mol-qoramollar"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "hayvonlari"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "dalalarning"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:48.186337145Z",
+  "model": "glm-5.3"
+}

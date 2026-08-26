@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va ularga manna yomgʻir kabi yogʻdirdi — yesinlariga — va osmon bugʻdoyini ularga berdi.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "va yomgʻir kabi yogʻdirdi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manna"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "yesinlariga"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "va bugʻdoy"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:07.518356729Z",
+  "model": "glm-5.3"
+}

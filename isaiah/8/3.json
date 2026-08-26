@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va paygʻambar ayolga yaqinlashdim, va u homila boʻldi, va oʻgʻil tugʻdi; va Yahve menga dedi: uning ismini Maher-Shalal-Chash-Baz deb chaqir.",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "va yaqinlashdim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "paygʻambar ayol"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "va u homila boʻldi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "va tugʻdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va … dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chaqir"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning ismini"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Maher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Chash"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-08-26T04:08:08.107181464Z",
+  "model": "glm-5.3"
+}

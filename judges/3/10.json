@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 3:10",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va uning ustiga Yahvening ruhi boʻldi, va u Yisroilni ⟨את⟩ sud etdi, va u urushga chiqdi, va Yahve uning qoʻliga ⟨את⟩ Kushan-Rishataymni, Aram podshohini berdi, va uning qoʻli Kushan-Rishataym ustidan kuchli boʻldi.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "va sud etdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroilni"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "va chiqdi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "urushga"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "uning qoʻliga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kushan-Rishataymni"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushan"
+    },
+    {
+      "surface": "רשעתים",
+      "gloss": "Rishataym"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ותעז",
+      "gloss": "va kuchli boʻldi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "uning qoʻli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Kushan"
+    },
+    {
+      "surface": "רשעתים",
+      "gloss": "Rishataym"
+    }
+  ],
+  "timestamp": "2026-08-26T02:24:35.294942277Z",
+  "model": "glm-5.3"
+}

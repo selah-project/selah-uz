@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Oʻzingiz uchun xalqdan oʻn ikki kishini oling — har qabiladan bitta kishi, bitta kishi —",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "oling"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "oʻzingiz uchun"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...dan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "oʻn ikki (ikki)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "oʻn (oʻn)"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har kishi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "qabiladan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:10:52.744831645Z",
+  "model": "glm-5.3"
+}

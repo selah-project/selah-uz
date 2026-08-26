@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Navol Dovudning qullariga ⟨את⟩ javob berib dedi: Kim Dovud? Va kim Yishayning oʻgʻli? Bugun oʻz egalari yuzidan qochib ketayotgan qullar koʻpaydi, har biri oʻz adonidan.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Navol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullariga"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qullariga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "va kim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayning"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "koʻpaydi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "qullar"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "qochib ketayotganlar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "oʻz adonidan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:56:33.692691831Z",
+  "model": "glm-5.3"
+}

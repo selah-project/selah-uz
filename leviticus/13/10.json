@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Kohen koʻradi, va mana — terida oq koʻtarilish, va u tukni oqartirgan, va koʻtarilishda tirik goʻsht tirnalgan joyi.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "koʻradi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "koʻtarilish"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "oq"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "terida"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "u"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "oqartirgan"
+    },
+    {
+      "surface": "שער",
+      "gloss": "tukni"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "oq"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "va tirnalgan joyi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goʻsht"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tirik"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "koʻtarilishda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:15:20.523944679Z",
+  "model": "glm-5.3"
+}

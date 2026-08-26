@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va Isroil oʻgʻillari ⟨את⟩ ziynatlarini Xorev togʻidan yechdi.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "va yechdi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ziynatlarini"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ziynatlarini"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "togʻidan"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Xorev"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:29.147515733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Chunki yer yuzida yaxshilik qilib va gunoh qilmaydigan solih odam yoʻq.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer yuzida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qilib"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshilik"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …may"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "gunoh qil"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:30.201770687Z",
+  "model": "glm-5.3"
+}

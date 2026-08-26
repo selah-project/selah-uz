@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "U ota-bobolarining avlodiga keladi, abadiygacha yorugʻlikni koʻrmaydilar ⟨…⟩",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "keladi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...gacha"
+    },
+    {
+      "surface": "דור",
+      "gloss": "avlodiga"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ota-bobolarining"
+    },
+    {
+      "surface": "עד",
+      "gloss": "...gacha"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "koʻrmaydilar"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "koʻradilar"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yorugʻlikni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:46.324245186Z",
+  "model": "glm-5.3"
+}

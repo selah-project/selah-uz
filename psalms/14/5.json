@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "U yerda ular qoʻrquvdan qoʻrqdilar, chunki Elohim solihlar ⟨avlodida⟩dir.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "qoʻrqdilar"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "qoʻrquvdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "⟨avlodida⟩"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solihlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:11.176666101Z",
+  "model": "glm-5.3"
+}

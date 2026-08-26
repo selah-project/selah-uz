@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 58,
+  "translation": "Qozonlaringiz chakanda yonayotganini bilmasdan turib, xuddi yashilini, xuddi yonayotganini gʻazab boʻroni singari uydir ⟨uni⟩.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "bilmagan"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "bilmasdan"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "qozonlaringiz"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "chakanda"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "xuddi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yashilini"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "xuddi"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "yonayotganini"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "gʻazab boʻroni singari uydir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:31.918678894Z",
+  "model": "glm-5.3"
+}

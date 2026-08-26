@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 19:6",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va irmoqlar yomon hidga aylanadi, Misorning irmoqlari soʻlib, qurib ketadi, qamish va papirus soldiradi.",
+  "tokens": [
+    {
+      "surface": "והאזניחו",
+      "gloss": "yomon hidga aylanadi"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "irmoqlar"
+    },
+    {
+      "surface": "דללו",
+      "gloss": "soʻlib"
+    },
+    {
+      "surface": "וחרבו",
+      "gloss": "qurib ketadi"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "…ning irmoqlari"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Misor"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "qamish"
+    },
+    {
+      "surface": "וסוף",
+      "gloss": "va papirus"
+    },
+    {
+      "surface": "קמלו",
+      "gloss": "soldiradi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:13:58.131809139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 3:5",
+  "book": "joel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va boʻladiki, har kimki Yahve nomiga chaqirsa, qutuladi, chunki Tsiyon togʻida va Yerushalaimda qutuluvchilar boʻladi, xuddi Yahve aytgandek, va qolganlar orasida Yahve chaqirganlar ⟨boʻladi⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Va boʻladiki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har kimki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimki"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "chaqirsa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nomiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "qutuladi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻida"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyon"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "va Yerushalaimda"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "qutuluvchilar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xuddi ...gandek"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytgandek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ובשרידים",
+      "gloss": "va qolganlar orasida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimlarniki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chaqirgan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:38:03.881975507Z",
+  "model": "glm-5.3"
+}

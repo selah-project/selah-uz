@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 45,
+  "translation": "Podshohlar qizlari sening azizlaring orasida; malika turdi o'ng tomoningda, Ofir oltinidan ⟨ziynatlanib⟩.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "qizlari"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "podshohlarning"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "azizlaring"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "malika"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "o'ng tomoningda"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "oltinidan"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Ofir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:12.753307106Z",
+  "model": "glm-5.3"
+}

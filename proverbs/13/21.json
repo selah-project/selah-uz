@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Gunohkorlarni yomonlik ta'qib etadi, va ⟨את⟩ solihlarga yaxshilik qaytariladi.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "gunohkorlarni"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ta'qib etadi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "solihlarni"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "solihlar"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "qaytariladi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshilik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:44:29.796809459Z",
+  "model": "glm-5.3"
+}

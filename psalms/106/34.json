@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Xalqlarni ⟨את⟩ yoʻq qilmadilar, olarlarni Yahve buyurgan ⟨inati⟩ oʻlkalarining",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "qilmadilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqlarni"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "xalqlarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olarni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להם",
+      "gloss": "olarga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:06.890780032Z",
+  "model": "glm-5.3"
+}

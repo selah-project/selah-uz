@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va misrliklar Yahve urgani uchun ⟨את⟩ — har bir toʻngʻichni — dafn qilmoqdalar; va Yahve ularning xudolarida hukmlarni bajardi.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Va misrliklar"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "dafn qilmoqdalar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "har bir toʻngʻichni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uchin"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "urgani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "toʻngʻichni"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "va ularning xudolarida"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "bajardi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hukmlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:45:50.862656876Z",
+  "model": "glm-5.3"
+}

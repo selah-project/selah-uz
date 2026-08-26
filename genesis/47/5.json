@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 47,
+  "translation": "Va Paroh Yosifga dedi: otang va aka-ukalaring sening huzuringga kelgan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosif"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyib"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "otang"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "va aka-ukalaring"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kelgan"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sening huzuringga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:13.186998431Z",
+  "model": "glm-5.3"
+}

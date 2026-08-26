@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Yahve Shlomoga qarshi dushman qoʻzgʻatdi: ⟨את⟩ Edomlik Hadadni — ⟨u⟩ qirol urugʻidan, Edomda.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "qoʻzgʻatdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "dushman"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shlomoga qarshi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edomlik Hadadni"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "edomlik"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "urugʻidan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirolning"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:32:01.485320016Z",
+  "model": "glm-5.3"
+}

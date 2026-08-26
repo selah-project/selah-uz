@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Binyamin ⟨את⟩ Belani tugʻdi, oʻzining toʻngʻichi; Ashbel ikkinchisi, va Axorax uchinchisi.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "oʻzining toʻngʻichi"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikkinchisi"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "va Axorax"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "uchinchisi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:55:59.807710407Z",
+  "model": "glm-5.3"
+}

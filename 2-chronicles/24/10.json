@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va barcha saroylar va barcha xursand boʻldilar, va keltirdilar, va sandiqqa tashladilar — tugagunicha.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "xursand boʻldilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "saroylar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "keltirdilar"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "tashladilar"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "sandiqqa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "tugagunicha"
+    }
+  ],
+  "timestamp": "2026-08-26T08:12:12.353807332Z",
+  "model": "glm-5.3"
+}

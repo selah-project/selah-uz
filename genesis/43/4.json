@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Agar akamizni ⟨את⟩ biz ⟨את⟩ bilan yuborsang, tushamiz va sen uchun don sotib olamiz.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "yuborsang"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "yuborsang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akamizni"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "akamizni"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ bilan"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "tushamiz"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "va don sotib olamiz"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sen uchun"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "don"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:38.669366214Z",
+  "model": "glm-5.3"
+}

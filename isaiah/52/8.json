@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 52,
+  "translation": "Ovozi — sening qorovullaringning! Koʻtarishdi ovozni, birgalikda kuylanmoqda, chunki koʻz koʻzga qarab koʻradi — Yahve Siyonga qaytganda.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ovozi"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "qorovullaringning"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "koʻtarishdi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovozni"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birgalikda"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "kuylanmoqda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עין",
+      "gloss": "koʻz"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "koʻzga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "qarab koʻradi"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "qaytganda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Siyonga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:31:50.916741970Z",
+  "model": "glm-5.3"
+}

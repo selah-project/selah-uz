@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va u aytdi: bu — yovuzlik ⟨is⟩. Va ⟨את⟩ uni eyfa o'rtasiga tashladi va ⟨את⟩ qo'rg'oshin toshni uning og'ziga tashladi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "yovuzlik"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "va tashladi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni (ayolni)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "o'rtasiga"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "eyfa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "va tashladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qo'rg'oshin toshni"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "tosh"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "qo'rg'oshin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "uning og'zi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:52:43.106120706Z",
+  "model": "glm-5.3"
+}

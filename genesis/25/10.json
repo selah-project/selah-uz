@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Dalani ki Avraham uni xet o‘g‘illaridan ⟨את⟩ sotib olgan — shu yerda Avraham va Sara uning xotini dafn etilgan.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "dala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "sotib oldi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ dan",
+      "marks": "xet o‘g‘illaridan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o‘g‘illari"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Xet"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "shu yerda"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "dafn etilgan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "va Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "uning xotini"
+    }
+  ],
+  "timestamp": "2026-08-26T00:37:48.495463328Z",
+  "model": "glm-5.3"
+}

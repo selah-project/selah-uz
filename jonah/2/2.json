@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yunus oʻz Elohimigа, Yahvega baligʻning qornidan ibodat qildi.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ibodat qildi"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunus"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "oʻz Elohimigа"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "qornidan"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "baligʻning"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:13.133908002Z",
+  "model": "glm-5.3"
+}

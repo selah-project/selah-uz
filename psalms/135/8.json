@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Kimki Misrning bachchiralarini urdi — odamdan ⟨ ham ⟩ chorvagacha.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "kimki-urdi"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "bachchiralarini"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrning"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "odamdan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "chorvaga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:00.058947749Z",
+  "model": "glm-5.3"
+}

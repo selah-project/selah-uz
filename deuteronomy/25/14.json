@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Uyingizda boʻlmasin katta va katta ⟨את⟩ oʻlchov — katta va kichik.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "boʻlmasin emas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlmasin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "uyingizda"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "oʻlchov (efa)"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "va oʻlchov"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "katta"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "va kichik"
+    }
+  ],
+  "timestamp": "2026-08-26T08:59:46.401770863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va u beshinchi oyda Yerushalaimga keldi — u podshohning yettinchi yili edi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "va ... keldi"
+    },
+    {
+      "surface": "יירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "oyda"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "beshinchi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u ... edi"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "yili"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "yettinchi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "podshohning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:38:43.857340475Z",
+  "model": "glm-5.3"
+}

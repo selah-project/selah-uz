@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 100,
+  "translation": "Yahve ga xizmat qiling ⟨את⟩, xursandchilik bilan; uning huzuriga qoʻshiq aytib kiraveringlar.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "xizmat qiling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "xursandchilik bilan"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kiraveringlar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "uning huzuriga"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "qoʻshiq aytib"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:23.767114347Z",
+  "model": "glm-5.3"
+}

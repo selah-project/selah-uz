@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Faqat oʻsha joyga, buni Yahve Elohiming tanlaydi Ismini joylashtirish uchun, shu yerda sochasan ⟨את⟩ Pesaxni, kechqurun, quyosh botishida, belgilangan vaqtda — chiqib kelayotgan vaqtingda Misrdan",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "buni"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "tanlaydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "joylashtirish uchun"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Ismini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "shu yerda"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "sochasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesaxni"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesax"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kechqurun"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "botishida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "belgilangan vaqt"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "chiqishing"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Misrdan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:56:02.552287435Z",
+  "model": "glm-5.3"
+}

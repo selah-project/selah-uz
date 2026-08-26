@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 52,
+  "translation": "Yahve ⟨את⟩ oʻz muqaddas qoʻlini barcha xalqlar koʻzulari oʻldida yalangʻoch qildi, va yer uchlarining barchasi Elohimimizning najotini koʻradi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "yalangʻoch qildi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz muqaddas qoʻlini"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "qoʻlini"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "koʻzulari oʻldida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "va koʻradi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "uchlarining"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "najotini"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "najotini"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizning"
+    }
+  ],
+  "timestamp": "2026-08-26T04:31:05.685908314Z",
+  "model": "glm-5.3"
+}

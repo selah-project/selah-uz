@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Va uning urugʻini abadiy ⟨oʻrnataman⟩, va uning taxtini osmonlar kunlari ⟨dek⟩ ⟨qilaman⟩.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "va qoʻyaman"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "uning urugʻini"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "va uning taxtini"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "kunlari ⟨dek⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:22:56.233436541Z",
+  "model": "glm-5.3"
+}

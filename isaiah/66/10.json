@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 66,
+  "translation": "Xursand boʻlingiz Yerushalaim bilan ⟨את⟩, va quvoningiz unda, barcha uni sevuvchilar ⟨bor⟩; quvonch bilan sevingiz ⟨את⟩ u bilan, barcha uning uchun motam tutuvchilar ⟨bor⟩.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "xursand boʻlingiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "va quvoningiz"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "uni sevuvchilar"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "sevingiz"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ bilan ⟨u⟩"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "quvonch"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "motam tutuvchilar"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "uning uchun (uning ustiga)"
+    }
+  ],
+  "timestamp": "2026-08-26T08:36:59.292236111Z",
+  "model": "glm-5.3"
+}

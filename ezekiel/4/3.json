@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 4:3",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va sen oʻzingga temir yassi idish ol va uni sen bilan shahar orasida temir devor qilib qoʻy va yuzingni unga qaratib tayyorla — va u qamal ostida boʻlur va sen uni qamal qilasan; u Isroil uyiga belgidir.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Va sen"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ol"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzingga"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "yassi idish"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "temir"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "va qoʻy"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "uni (idishni)"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "devor"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "temir"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "sen bilan"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va ... orasida"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "והכינתה",
+      "gloss": "va tayyorla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzingni"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "va boʻlur"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "qamal ostida"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "va qamal qilasan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "uni"
+    },
+    {
+      "surface": "אות",
+      "gloss": "belgi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T05:10:20.796492582Z",
+  "model": "glm-5.3"
+}

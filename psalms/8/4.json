@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Osmonlaringni — barmoqlaringning ishlarini koʻrganimda: Oy va yulduzlar, Sen tayinlaganlaringni —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "…ganimda"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "koʻrganimda"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "Osmonlaringni"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "ishlarini"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "barmoqlaringning"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Oy"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "va yulduzlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "tayinlaganlaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:12.678088817Z",
+  "model": "glm-5.3"
+}

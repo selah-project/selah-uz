@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va Yahve Eliyahu ning ovozini eshitdi va bolaning nefesh i uning ichiga qaytdi va u tirildi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויתשב",
+      "gloss": "va qaytdi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bolaning"
+    },
+    {
+      "surface": "על",
+      "gloss": "iga"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "uning ichiga"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "va u tirildi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:40:10.047626148Z",
+  "model": "glm-5.3"
+}

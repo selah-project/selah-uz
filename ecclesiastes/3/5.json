@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Toshlar tashlash vaqti, va toshlar yigʻish vaqti; quchoqlash vaqti, va quchoqlashdan uzoq boʻlish vaqti.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "vaqti"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "tashlash"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "toshlar"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va — vaqti"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "yigʻish"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "toshlar"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqti"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "quchoqlash"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "va — vaqti"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "uzoq boʻlish"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "quchoqlashdan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:14.469322830Z",
+  "model": "glm-5.3"
+}

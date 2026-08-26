@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Merayot ⟨את⟩ Amarayani dunyoga keltirdi, Amaraya esa ⟨את⟩ Axitubni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merayot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaraya"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amaraya"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "Amaraya esa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Axitub"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Axitub"
+    }
+  ],
+  "timestamp": "2026-08-26T07:55:05.422368252Z",
+  "model": "glm-5.3"
+}

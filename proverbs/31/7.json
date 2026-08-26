@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Ichsin va oʻz qashshoqligini unutsin, va oʻz mehnatini boshqa eslamasin.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "ichsin"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "unutsin"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "qashshoqligini"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "mehnatini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-masin"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "eslasin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "boshqa"
+    }
+  ],
+  "timestamp": "2026-08-26T06:52:53.104843780Z",
+  "model": "glm-5.3"
+}

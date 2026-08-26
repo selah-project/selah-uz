@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Moshe va Aharon oldilar ⟨את⟩ ana shu erkaklarni, nomlari bilan belgilanganlarni.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "oldilar"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "va Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ana shu erkaklarni"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "erkaklar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ana shu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "belgilanganlarni"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "nomlari bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:23:51.325262313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "U dahshatli va qo'rqinchli; undan o'zining hukmi va buyukligi chiqadi.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "dahshatli"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "va qo'rqinchli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "o'zining hukmi"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "va buyukligi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "chiqadi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:47:45.508609364Z",
+  "model": "glm-5.3"
+}

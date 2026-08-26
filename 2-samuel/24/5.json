@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va ular ⟨את⟩ Yarden daryosini kesib oʻtdilar, va Aroerda — Gad vodiysining oʻrtasidagi shaharning oʻng tomonida — lager qurdilar, va Yaʼzergacha ⟨yetib bordilar⟩.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "kesib oʻtdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden daryosini"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden daryosini"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "lager qurdilar"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Aroerda"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "oʻng tomonida"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "vodiysining"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... gacha"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaʼzer"
+    }
+  ],
+  "timestamp": "2026-08-26T03:22:31.585434974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Yolgʻon soʻzlovchilarni yoʻq qilasiz, qonli va firibgar odamni Yahve yomon koʻradi.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "yoʻq qilasiz"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlovchilarni"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yolgʻon"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "qonli"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "va firibgar"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "yomon koʻradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:43.644707002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 149,
+  "translation": "Xalqlar ustida qasos qilish, ummatlarga tanbeh-jazolarni bajarmoq uchun —",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "bajarmoq uchun"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "qasos"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "xalqlar ustida"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tanbeh-jazo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ummatlarga"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ummatlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:24.987084452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "Chunki shamol oʻtib ketadi uning ustidan, va ⟨u⟩ boʻlmaydi, va uning joyi uni endi tanimaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "shamol"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "oʻtib ketadi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uning ustidan"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "va ⟨u⟩ boʻlmaydi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "tanimaydi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "endi"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "uning joyi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:22.631358964Z",
+  "model": "glm-5.3"
+}

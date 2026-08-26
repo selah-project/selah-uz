@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ⟨את⟩ xonani qimmatbaho toshlar bilan bezadi — chiroy uchun; va oltin — Parvaim oltini edi.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "va bezadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xona"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "xona"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "tosh"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "qimmatbaho"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "chiroy uchun"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "va oltin"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Parvaim"
+    }
+  ],
+  "timestamp": "2026-08-26T08:04:46.447954497Z",
+  "model": "glm-5.3"
+}

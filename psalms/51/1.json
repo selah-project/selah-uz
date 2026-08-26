@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Diriga, ⟨u⟩ mizmor, Dovudga.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Diriga"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:47.798412017Z",
+  "model": "glm-5.3"
+}

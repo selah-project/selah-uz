@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Bu taqdiringdir, oʻlchangan ulushing — ⟨את⟩ bilamiga mendan, — degan Yahve; chunki Sen ⟨את⟩ meni untiding va yolgʻonga tayanding.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "taqdiring"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ulushing"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "oʻlchangan"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ bilamiga mendan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "degan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "untiding"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ meni",
+      "marks": "Sen — untiding obyekti"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "va tayanding"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "yolgʻonga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:45:06.700473486Z",
+  "model": "glm-5.3"
+}

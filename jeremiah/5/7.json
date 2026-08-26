@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 5:7",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Nega buning uchun seni kechiray? Oʻgʻillarim seniki meni tashlab ketdi va xudo boʻlmaganlar haqiga qasam ichdi; men esa ⟨את⟩ ularni qasam ichirdim — ular zino qildilar va fohishaning uyida toʻplanib yurishdi.",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Nega"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "buning uchun"
+    },
+    {
+      "surface": "אסלוח",
+      "gloss": "kechiray"
+    },
+    {
+      "surface": "לך",
+      "gloss": "seni"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oʻgʻillarim seniki"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "meni tashlab ketdi"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "va qasam ichdi"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "boʻlmagan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "xudo"
+    },
+    {
+      "surface": "ואשבע",
+      "gloss": "men esa qasam ichirdim"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ular"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "zino qildilar"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "va uy"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "fohisha"
+    },
+    {
+      "surface": "יתגדדו",
+      "gloss": "toʻplanib yurishdi"
+    }
+  ],
+  "timestamp": "2026-08-26T04:41:07.266572771Z",
+  "model": "glm-5.3"
+}

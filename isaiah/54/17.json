@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 54:17",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 54,
+  "translation": "Senga qarshi shakllanadigan har qanday qurol raj boʻlmaydi, va hukmda senga qarshi koʻtariladigan har bir tilni sen aybli chiqarasan. Bu — Yahve bandalarining merosi, ularning odilligi esa Mendandir, degan Yahve bayonoti.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "qurol"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "shakllanadigan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "senga qarshi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "raj boʻlmaydi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va har bir"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "til"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "koʻtariladigan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sen bilan",
+      "marks": "til — senga qarshi"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "hukmda"
+    },
+    {
+      "surface": "תרשיעי",
+      "gloss": "sen aybli chiqarasan"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "merosi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bandalarining"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וצדקתם",
+      "gloss": "va ularning odilligi"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ Mendan",
+      "marks": "odillik — Mendan"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "degan bayonot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T08:36:28.670074875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Agar shofar shaharda chalinsa, va xalq titramasmi? Agar yomonlik shaharda boʻlsa, va Yahve qilmagan boʻlsa?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "chalinsa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shaharda"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "va xalq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "titraydi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻlur"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "yomonlik"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "shaharda"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "va Yahve"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:40:44.415867500Z",
+  "model": "glm-5.3"
+}

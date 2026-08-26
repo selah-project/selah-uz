@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 35:1",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Va Yahve Moʻsheninga Moʻvob dashtlarida, Yardon boʻyida, Yerixoninga qarshi gapirdi, degan:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moʻshe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "dashtlarida"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moʻvob"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻyida"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yardon"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerixon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:06.487553633Z",
+  "model": "glm-5.3"
+}

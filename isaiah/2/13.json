@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 2:13",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Levanonning barcha baland va ko'tarilgan sadrlari ustiga, va Bashanning barcha dubzlari ustiga.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "va ... ustiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "sadrlari"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Levanonning"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "baland"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "va ko'tarilgan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... ustiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "dubzlari"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashanning"
+    }
+  ],
+  "timestamp": "2026-08-26T04:04:13.449245880Z",
+  "model": "glm-5.3"
+}

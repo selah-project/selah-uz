@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Donishmandning qalbi oʻng tomonda, ahmoqning qalbi esa chap tomonda.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "qalb"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "donishmand"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "oʻng tomonida"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "va qalb"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ahmoq"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "chap tomonida"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:57.961231322Z",
+  "model": "glm-5.3"
+}

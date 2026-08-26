@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Zolim guvohlar turdi; bilmagan narsamni undan soʻradilar.",
+  "tokens": [
+    {
+      "surface": "יקומוני",
+      "gloss": "turdi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "guvohlar"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "Zolim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...-mas"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilgan"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "undan soʻradilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:50.518892887Z",
+  "model": "glm-5.3"
+}

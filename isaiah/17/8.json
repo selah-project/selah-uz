@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 17:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va u qoʻllari ishi boʻlgan qurbongohlarga qaramaydi, va barmoqlari yasagan narsani koʻrmaydi — Asherim va quyosh ustunlarini.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Va ... qaramaydi"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "qaramaydi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "qurbongohlarga"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ishi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "qoʻllari"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "va ... narsani"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yasagan"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "barmoqlari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "koʻrmaydi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "koʻrmaydi"
+    },
+    {
+      "surface": "והאשרים",
+      "gloss": "Asherim"
+    },
+    {
+      "surface": "והחמנים",
+      "gloss": "quyosh ustunlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T04:14:50.986838956Z",
+  "model": "glm-5.3"
+}

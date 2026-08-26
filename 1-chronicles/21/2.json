@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Dovud Yoav va xalqning sardorlariga aytdi: Boringlar, Isroilni Be'er-Shevadan Dan gacha sananglar va menga keltiringlar, va ularning sonini bilib olaman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... ga"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sardorlar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "boringlar"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "sananglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "dan ... Be'er-Sheva"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Be'er-Sheva"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "keltiringlar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "bilib olaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonini"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "ularning sonini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:00:39.613469055Z",
+  "model": "glm-5.3"
+}

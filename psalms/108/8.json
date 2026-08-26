@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 108,
+  "translation": "Elohim oʻz muqaddasligida gapirdi: xursand boʻlurman, Shekxemni boʻlib berurman va Suckot vodiysini oʻlchab chiqurman.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "oʻz muqaddasligida"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "xursand boʻlurman"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "boʻlib berurman"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekxemni"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "va vodiysini"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Suckot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "oʻlchab chiqurman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:13.082323783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Yonatan Givʼadagi Filistlar istehkomiga qarshi ⟨את⟩ zarba berdi va Filistlar ⟨buni⟩ eshitdilar; va Shoul butun yer boʻylab shofar chalib dedi: eshitsin ibroniylar.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "va zarba berdi"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Filistlar istehkomi"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "istehkom"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "Givʼada"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "va eshitdilar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistlar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "va Shoul"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "chaldi"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "shofarni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer boʻylab"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "eshitsin"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ibroniylar"
+    }
+  ],
+  "timestamp": "2026-08-26T02:48:36.491676051Z",
+  "model": "glm-5.3"
+}

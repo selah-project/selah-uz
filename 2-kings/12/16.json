@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va odamlardan ⟨את⟩ hisob soʻramadilar — kimga kumushni ⟨את⟩ oʻz qoʻllariga berib, ish qiluvchilarga topshirish uchun — chunki ular sammiyilik bilan ish qiladilar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... soʻramadilar"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "hisob soʻramadilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odamlardan"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "odamlardan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimga"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "berib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kumushni"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumushni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "oʻz qoʻllari"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "topshirish uchun"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "ish qiluvchilarga"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "sammiyilik bilan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ish qiladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:55:25.570870864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va nima uchun sizlar Yahve jamoasini ⟨את⟩ bu cho‘lga olib keldingiz — biz va mollimiz u yerda o‘lishimiz uchun?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "va nima uchun"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "olib keldingiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve jamoasini"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "jamoasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "bu cho‘l"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "o‘lishimiz uchun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "va mollarimiz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:37:36.304995206Z",
+  "model": "glm-5.3"
+}

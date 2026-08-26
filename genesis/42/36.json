@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va ularga dedi Yaakov, otalari: „Meni ⟨את⟩ farzandsiz qildinglar — Yosef yoʻq, va Shimʻon yoʻq, va ⟨את⟩ Binyaminni olib ketmoqchisizlar — hammasi menga qarshi boʻldi!“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "otalari"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ meni",
+      "marks": "farzandsiz qildinglar"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "farzandsiz qildinglar"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "va Shimʻon"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Binyaminni"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyaminni"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "olib ketmoqchisizlar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga qarshi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "hammasi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:41.048467410Z",
+  "model": "glm-5.3"
+}

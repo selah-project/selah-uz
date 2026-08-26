@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Sening haqiqatingda yoʻlni koʻrsat menga va menga oʻrgat, chunki Sen mening qutqaruvimning Elohisiisan; ⟨את⟩ Seni butun kun davomida kutaman.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "yoʻlni koʻrsat menga"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "Sening haqiqatingda"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "va menga oʻrgat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohisi"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "qutqaruvimning"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ Seni"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "kutaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:34.407122824Z",
+  "model": "glm-5.3"
+}

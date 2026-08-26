@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Ularning yogʻi ⟨ bilan ⟩ yopilib qoldi, ogʻizlari kibr bilan gapirdi.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "ularning yogʻi"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "yopilib qoldi"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ogʻizlari"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "kibr bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:45.135771314Z",
+  "model": "glm-5.3"
+}

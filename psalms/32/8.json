@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Men Seni dono qilaman va yoʻlda yoritaman — shu yoʻlda yur; men Senga maslahat beraman, koʻzim ⟨Sen⟩ ustida.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "dono qilaman"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "va yoritaman"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "זו",
+      "gloss": "shu"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "yur"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "maslahat beraman"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:29.498417070Z",
+  "model": "glm-5.3"
+}

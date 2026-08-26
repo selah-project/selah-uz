@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "⟨את⟩ shabbatlarimni saqlang va muqaddasligimdan qoʻrqing — Men Yahveman.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shabbatlarimni"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "shabbatlarimni"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "saqlang"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "va muqaddasligimni"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qoʻrqing"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T01:21:34.184050601Z",
+  "model": "glm-5.3"
+}

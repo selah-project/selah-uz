@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 36,
+  "translation": "Va men ⟨את⟩ sizlarni xalqlardan olaman va ⟨את⟩ sizlarni barcha yerlardan yigʻaman va ⟨את⟩ sizlarni oʻz tuproq yerlaringizga kiritaman.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "va men olaman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "va men yigʻaman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha... dan"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "yerlar"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "va men kiritaman"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tuproq yerlaringiz"
+    }
+  ],
+  "timestamp": "2026-08-26T05:26:23.533317313Z",
+  "model": "glm-5.3"
+}

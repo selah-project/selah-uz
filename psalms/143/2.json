@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 143,
+  "translation": "Va qulinga hukm bilan kirma, chunki Sening yuzing oldida hech bir tiriqlik solih boʻlmaydi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "va kirma"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kir"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "hukm bilan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qulinga"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulinga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hech ... emas"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "solih boʻlmaydi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "Sening yuzing oldida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hech bir"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tiriqlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:23.983993445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "U ularning suvlarini ⟨את⟩ qonga aylantirdi va ularning baliqlarini ⟨את⟩ oʻldirdi.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "aylantirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning suvlarini"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "ularning suvlarini"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "qonga"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "oʻldirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning baliqlarini"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "ularning baliqlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:00.499004631Z",
+  "model": "glm-5.3"
+}

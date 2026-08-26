@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va butun Isroel Davidning oldiga Xebronga to‘planib dedi: Mana, suyagingmiz va go‘shtingmiz — biz.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "to‘planib"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Davidning"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Xebronga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Mana"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "suyagingmiz"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "va go‘shtingmiz"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biz"
+    }
+  ],
+  "timestamp": "2026-08-26T07:57:49.257879907Z",
+  "model": "glm-5.3"
+}

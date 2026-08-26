@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va misdan yuvinish uchun havza va misdan taganogʻini qilasan; va uni uchrashuv chodiri bilan ⟨the⟩ mozor orasiga qoʻyasanki, va u yerga suv qoʻyasanki.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "va qilasan"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "havza"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "misdan"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "va taganogʻini"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "misdan"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "yuvinish uchun"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "va qoʻyasanki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "orasiga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodiri"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va … orasiga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨the⟩ mozor"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "va qoʻyasanki"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:59.494552251Z",
+  "model": "glm-5.3"
+}

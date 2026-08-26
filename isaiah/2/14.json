@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va barcha baland tog'lar ustiga, va barcha ko'tarilgan tepaliklar ustiga.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "va ... ustiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "tog'lar"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "baland"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... ustiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "tepaliklar"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "ko'tarilgan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:04:13.449479387Z",
+  "model": "glm-5.3"
+}

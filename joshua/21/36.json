@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 21:36",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Reuven qabilasidan ⟨את⟩ Bertser va ⟨את⟩ uning atrof ovlogʻi, ⟨את⟩ Yahsa va ⟨את⟩ uning atrof ovlogʻi.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "va ... qabilasidan"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bertser"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "Bertser"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning atrof ovlogʻi"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "uning atrof ovlogʻi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yahsa"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Yahsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning atrof ovlogʻi"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "uning atrof ovlogʻi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:21:07.069203293Z",
+  "model": "glm-5.3"
+}

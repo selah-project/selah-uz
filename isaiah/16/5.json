@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va xesed bilan taxt tayyorlanadi, va uning ustiga haqiqatda, Dovudning chodirida ⟨u⟩ o'tiradi — hukm chiqarib va mishpatni izlab, va tezlik bilan sedekni.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "tayyorlanadi"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "xesed bilan"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "taxt"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "o'tiradi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "haqiqatda"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "chodirida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hukm chiqarib"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "izlab"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mishpatni"
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "tezlik bilan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sedekni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:13:30.553783645Z",
+  "model": "glm-5.3"
+}

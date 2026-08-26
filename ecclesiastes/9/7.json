@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Bor, noningni quvonch bilan ye, va sharobingni yaxshi yurak bilan ich, chunki Elohim ⟨את⟩ sening ishlaringdan mamnun boʻlgan.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "bor"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "quvonch bilan"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "noningni"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "va ich"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "yurak bilan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "sharobingni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "baribir"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "mamnun boʻlgan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sening ishlaringni"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "sening ishlaringdan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:15.692640379Z",
+  "model": "glm-5.3"
+}

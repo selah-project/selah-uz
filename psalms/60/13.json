@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "Ber bizga tang qissadan yordam, va bevoshiya inson najoti.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Ber"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "yordam"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "tang qissadan"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "va bevoshiya"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "najoti"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "inson"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:24.088850841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Beva, haydalgan ayol, muqaddasligi buzilgan, zino qilgan ayol — ⟨את⟩ bularni olmasin, faqat oʻz qavmidan bokira ayolni olsin xotin sifatida.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "beva"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "haydalgan ayol"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "muqaddasligi buzilgan"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "zino qilgan ayol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bularni"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bularni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "olmasin"
+    },
+    {
+      "surface": "יקח",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "bokira ayolni"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "oʻz qavmidan"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "olsin"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "xotin sifatida"
+    }
+  ],
+  "timestamp": "2026-08-26T01:19:28.961190904Z",
+  "model": "glm-5.3"
+}

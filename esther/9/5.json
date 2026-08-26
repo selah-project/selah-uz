@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Yahudiylar barcha dushmanlarini qilich zarbasi bilan, qirgʻin va yoʻq qilish bilan urdilar, va yomon koʻruvchilariga xohishlaricha amal qildilar.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "urdilar"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Yahudiylar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "dushmanlarini"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "zarbasi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "qilich"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "va qirgʻin"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "va yoʻq qilish"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "va amal qildilar"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "yomon koʻruvchilariga"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "xohishlaricha"
+    }
+  ],
+  "timestamp": "2026-08-26T07:25:31.153210446Z",
+  "model": "glm-5.3"
+}

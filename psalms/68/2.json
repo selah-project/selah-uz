@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Turadi Elohim, sochiladi ⟨uning⟩ dushmanlari, va unga adovat qilgʻanlar uning yuzidan qochar.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "turadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "sochiladi"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "uning dushmanlari"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "va qochar"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "unga adovat qilgʻanlar"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "uning yuzidan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:19.543803644Z",
+  "model": "glm-5.3"
+}

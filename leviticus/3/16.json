@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va kohin ularni mozorda tutatadi — olov-qurbonining ozuqasi, mamnun qiluvchi hid uchun; butun yogʻ Yahveniki.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "va ularni tutatadi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "mozorda"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ozuqa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "olov-qurboni"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "hid uchun"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "mamnun qiluvchi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "yogʻ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahveniki"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:24.141854147Z",
+  "model": "glm-5.3"
+}

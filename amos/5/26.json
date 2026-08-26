@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Sikkut — sizlarning shohingizning ⟨את⟩ butxonasini va Kiyyun — ⟨את⟩ suratlaringizni, sizlarning xudolaringizning yulduzini, oʻzlaringizga yasaganlaringizni koʻtarib yurdilar.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "va koʻtarib yurdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkut — shohingizning butxonasini"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "shohingiz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kiyyun — suratlaringizni"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiyyun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "suratlaringiz"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "yulduz"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizlarning xudolaringizning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "yasaganlaringizni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "oʻzlaringizga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:40:35.792366849Z",
+  "model": "glm-5.3"
+}

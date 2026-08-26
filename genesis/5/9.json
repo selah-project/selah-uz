@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Enosh toʻqson yil yashadi va ⟨את⟩ Kenanni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "toʻqson"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenanni"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenanni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:57.358260614Z",
+  "model": "glm-5.3"
+}

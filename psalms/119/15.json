@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Buyruqlaringda mulohaza yuritaman va yoʻllaringga eʼtibor bilan qarayman.",
+  "tokens": [
+    {
+      "surface": "בפקודיך",
+      "gloss": "buyruqlaringda"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mulohaza yuritaman"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "va qarayman"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "yoʻllaringga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:22.286688614Z",
+  "model": "glm-5.3"
+}

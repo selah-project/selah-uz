@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 20:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Avimelex dedi: mana, mening y erim sening oldingda; koʻzingga nima yaxshi koʻrinsa, u yerda yashagin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelex"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "y erim"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sening oldingda"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "yaxshida"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "koʻzingda"
+    },
+    {
+      "surface": "שב",
+      "gloss": "yashagin"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:53.547459272Z",
+  "model": "glm-5.3"
+}

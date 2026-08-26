@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Boʻshab-boʻshaydi ⟨the⟩ yer, va talon-taroj qilib talon-taroj boʻladi, chunki Yahve ⟨את⟩ bu soʻzni aytgan.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "boʻshab"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "boʻshaydi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "va talon-taroj qilib"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "talon-taroj boʻladi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "aytgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu soʻzni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    }
+  ],
+  "timestamp": "2026-08-26T08:34:52.870071278Z",
+  "model": "glm-5.3"
+}

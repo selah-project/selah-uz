@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va oʻsha kunda sen aytasan: „Seni olqishlayman, ey Yahve, chunki Sen menga gʻazablanding; gʻazabing qaytdi va Sen meni tasalli berasan.“",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Va aytasan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Seni olqishlayman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "gʻazablanding"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "gʻazabing"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "va meni tasalli berasan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:11:39.486857469Z",
+  "model": "glm-5.3"
+}

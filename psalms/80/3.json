@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 80,
+  "translation": "Efraym va Binyomin va Menashe oldida qudratingni uygʻotgin, va kelgin bizning qutqarishimizga.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraym"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "va Binyomin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "va Menashe"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "uygʻotgin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qudratingni"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "qudratingni"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "va kelgin"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "qutqarishga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizniki"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:37.733896655Z",
+  "model": "glm-5.3"
+}

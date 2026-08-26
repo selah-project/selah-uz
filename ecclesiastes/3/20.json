@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Hammasi bitta joyga boradi; hammasi changdan ⟨boʻlgan⟩ va hammasi changga qaytadi.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "boradi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "joy"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨boʻlgan⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "changdan"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "va hammasi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "qaytadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "changga"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:00.617121460Z",
+  "model": "glm-5.3"
+}

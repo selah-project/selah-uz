@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 114,
+  "translation": "Adon yuzisidan larzaga tush, ey yer; Yaakovning Eloah yuzisidan!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "yuzisidan"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adon"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "larzaga tush"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ey yer"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yuzisidan"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:18.854796470Z",
+  "model": "glm-5.3"
+}

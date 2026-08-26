@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 62,
+  "translation": "Bir marta gapirdi Elohim, ikki marta — bu meni eshitdim: kuch Elohe tegishlidir.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Bir marta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ikki marta"
+    },
+    {
+      "surface": "זו",
+      "gloss": "bu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "meni eshitdim"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "עז",
+      "gloss": "kuch"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohe tegishlidir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:23.944933151Z",
+  "model": "glm-5.3"
+}

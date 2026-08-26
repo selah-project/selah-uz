@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Koʻplari deydi nefushamga: „Unda najot yoʻq, uning Elohimda.“ Sela.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Koʻplari"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "nefushamga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "najot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unda"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohimda"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:23.723189452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Men qazdim va suvlarni ichdim, va panja-poyam bilan Misrning barcha kanallarini quritdim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "qazdim"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "va ichdim"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlarni"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "va quritdim"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "panja-"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "poyam bilan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "kanallarini"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Misrning"
+    }
+  ],
+  "timestamp": "2026-08-26T04:22:53.171705661Z",
+  "model": "glm-5.3"
+}

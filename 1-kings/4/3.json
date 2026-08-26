@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Elichoref va Achiya, Shishaning oʻgʻillari — kotiblar; Yehoshafat, Achiludning oʻgʻli — eslatuvchi.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Elichoref"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "va Achiya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "Shishaning"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "kotiblar"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Achiludning"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "eslatuvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:26:07.560971715Z",
+  "model": "glm-5.3"
+}

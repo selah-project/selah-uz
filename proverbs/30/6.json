@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Uning soʻzlariga hech narsa qoʻshma, yoki U seni qoralaydi va sen yolgʻonchi boʻlib chiqasan.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "qoʻshma"
+    },
+    {
+      "surface": "על",
+      "gloss": "unga"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "uning soʻzlariga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "yoki (balki)"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "qoralaydi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senda"
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "va yolgʻonchi boʻlib chiqasan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:52:22.576085882Z",
+  "model": "glm-5.3"
+}

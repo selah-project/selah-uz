@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Belial soʻzi uning ustiga quyildi, va u yotganimga qoʻshimcha qilmaydi turmoq.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "soʻzi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "quyildi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "va u ... ingiga"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yotgan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qilmaydi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "qoʻshimcha"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "turmoq"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:43.912337451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ular uning qoʻriqligini ⟨את⟩ va butun jamoaning qoʻriqligini ⟨את⟩ uchrashuv chodiri oldida saqlashlari kerak, mixroqning xizmatini ⟨את⟩ bajarish uchun.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "va ular saqlashlari kerak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning qoʻriqligini"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "uning qoʻriqligini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun jamoaning qoʻriqligini"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "qoʻriqligini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamoaning"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodiri"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "bajarish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xizmatini"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "xizmatini"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "mixroqning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:58:42.957651107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Mitsrayimga qoʻl berdik, Ashshurga — non bilan toʻyish uchun.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayimga"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "berdik"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshurga"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "toʻyish uchun"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:32.030905126Z",
+  "model": "glm-5.3"
+}

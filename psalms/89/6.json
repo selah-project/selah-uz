@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Osmonlar sening moʻjizalaringni eʼtirof etadi, ey Yahve, hamda sadoqatingni muqaddaslar majlisida.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "va eʼtirof etadi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "moʻjizalaringni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אף",
+      "gloss": "hamda"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "sadoqatingni"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "majlisida"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "muqaddaslar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:58.614199777Z",
+  "model": "glm-5.3"
+}

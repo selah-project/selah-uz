@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Uni gunoh ⟨qurbonligi sifatida⟩ keltirgan kohin ⟨את⟩ uni yer; muqaddas joyda yeriladi, uchrashuv chodirining hovlisida.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "gunoh qilib keltirgan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni (gunoh qurbonligini)"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "yer uni"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "joyda"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeriladi"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "hovlisida"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodirining"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuvning"
+    }
+  ],
+  "timestamp": "2026-08-26T01:10:25.867832164Z",
+  "model": "glm-5.3"
+}

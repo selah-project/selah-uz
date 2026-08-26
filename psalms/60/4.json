@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "Yerni larzaga keltirding, uni yorib tashlading — uning yoriklarini davola, chunki u qaltiramoqda.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "larzaga keltirding"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Yerni"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "yorib tashlading"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "davola"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "yoriklarini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "qaltiramoqda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:08.160056398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 91,
+  "translation": "Sher va ilonga bosib oʻtasan, sher bolasi va ajdarhani yanchib tashlaysan.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "bosib"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "sherga"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "va ilon"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "oʻtasan"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "yanchib tashlaysan"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "sher bolasi"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "va ajdarha"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:01.881802059Z",
+  "model": "glm-5.3"
+}

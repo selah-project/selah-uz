@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 43:12",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Va men Misr elohlarining uylarida oʻt yoqaman va ularni kuydiraman va asir qilib olib ketaman, va u ⟨את⟩ Misr yerini cholavay kiyimini kiygandek oʻraydi, va u yerdan tinchlik bilan chiqib ketadi.",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "va oʻt yoqaman"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "בבתי",
+      "gloss": "uylarida"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "elohlarining"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ושרפם",
+      "gloss": "va ularni kuydiraman"
+    },
+    {
+      "surface": "ושבם",
+      "gloss": "va asir qilib olib ketaman"
+    },
+    {
+      "surface": "ועטה",
+      "gloss": "va u oʻraydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misr yerini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "kiyadi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "cholavay"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyimini"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "kiyimini"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "va chiqib ketadi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "u yerdan"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "tinchlik bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:02:12.326519244Z",
+  "model": "glm-5.3"
+}

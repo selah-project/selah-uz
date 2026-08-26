@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ular shu maqsadda qoldirildi — ularda ⟨את⟩ Isroilni sinash, bilish uchun — Yahvening buyruqlariga boʻysunadilarmi, otalariga Muso qoʻli orqali buyurgan.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "sinash uchun"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ularda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilish uchun"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "boʻysunadilarmi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buyruqlar"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "buyruqlariga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "otalariga"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "otalariga"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻli orqali"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Muso"
+    }
+  ],
+  "timestamp": "2026-08-26T02:24:15.387972733Z",
+  "model": "glm-5.3"
+}

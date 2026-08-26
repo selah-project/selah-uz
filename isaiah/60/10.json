@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "Va begona oʻgʻillari devorlaringni quradilar, va ularning mulklari senga xizmat qiladilar, chunki gʻazabim bilan seni urdim, va xohishim bilan seni rahm qildim.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "va quradilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "begona"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "devorlaringni"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "va ularning mulklari"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "senga xizmat qiladilar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "gʻazabim bilan"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "seni urdim"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "va xohishim bilan"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "seni rahm qildim"
+    }
+  ],
+  "timestamp": "2026-08-26T04:34:12.017245536Z",
+  "model": "glm-5.3"
+}

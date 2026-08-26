@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va ular u erga kelib, uning butun jirkanch narsalarini ⟨את⟩ va butun yomonliklarini ⟨את⟩ undan olib tashlaydilar.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "va keladilar"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u erga"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "va olib tashlaydilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun jirkanch narsalari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "jirkanch narsalarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "butun yomonliklari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "yomonliklarini"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "undan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:12:29.763077803Z",
+  "model": "glm-5.3"
+}

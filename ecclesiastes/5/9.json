@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Sevuvchi kumushni — toʻymaydi kumushdan, va boylikni sevuvchi — toʻymaydi daromaddan; ham bu hebel.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Sevuvchi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumushni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "toʻymaydi"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "⟨toʻyadi⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumushdan"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "va"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "sevuvchi"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "boylikni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "toʻymaydi"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "daromaddan"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:57.928331894Z",
+  "model": "glm-5.3"
+}

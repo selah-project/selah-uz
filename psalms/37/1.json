@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Dovudning. Yovlilar tufayli gʻazablanma, adolatsizlik qiluvchilarga hasad qilma.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ma"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "gʻazablanma"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "yovlilar tufayli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ma"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "hasad qilma"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "qiluvchilarga"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "adolatsizlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:34.718751509Z",
+  "model": "glm-5.3"
+}

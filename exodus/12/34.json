@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va xalq xamirini — hali achiganidan oldin — olib, xamir qorish idishlarini kiyimlariga bogʻlab yelkalarida koʻtardi.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "olib koʻtardi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xamirini"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "xamirini"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "hali ...dan oldin"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "achigan"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "xamir qorish idishlari"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "bogʻlangan"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "kiyimlarida"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "yelkalari"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:26.312273259Z",
+  "model": "glm-5.3"
+}

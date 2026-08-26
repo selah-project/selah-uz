@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va ⟨את⟩ qoʻyni boʻlaklarga boʻlasan, ichki aʼzolarini va oyoqlarini yuvasan, ularni boʻlaklari ustiga va boshi ustiga qoʻyasiz.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻyni"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qoʻyni"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "boʻlaklarga boʻlasan"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "boʻlaklariga"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "yuvasan"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "ichki aʼzolari"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "oyoqlari"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "qoʻyasiz"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "boʻlaklari"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustiga"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "boshi"
+    }
+  ],
+  "timestamp": "2026-08-26T01:02:30.906905764Z",
+  "model": "glm-5.3"
+}

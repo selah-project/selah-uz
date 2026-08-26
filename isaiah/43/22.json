@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 43:22",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Va Meni chaqirmading, Yoqub, chunki Mendan charchagansan, Isroil.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "Meni"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "chaqirmading"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yoqub"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "charchagansan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Mendan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T04:26:38.014297677Z",
+  "model": "glm-5.3"
+}

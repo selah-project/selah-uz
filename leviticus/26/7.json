@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va dushmanlaringizni ⟨את⟩ quvlaysizlar, va ular qilich uchun yuzlaringiz oldiga yiqiladi.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "va quvlaysizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dushmanlaringizni"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dushmanlaringizni"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "va yiqiladi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "yuzlaringiz oldiga"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "qilich uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:22:05.940883171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 100,
+  "translation": "Mizmor — shukrona. Yahve ga nola qiling, butun yer yuzi!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "shukrona uchun"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "nola qiling"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer yuzi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:23.766895428Z",
+  "model": "glm-5.3"
+}

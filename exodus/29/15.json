@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va ⟨את⟩ bitta qoʻchqorni olasan, va Aharon uning oʻgʻillari ⟨את⟩ qoʻllarini qoʻchqorning boshiga qoʻyadilar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "qoʻchqor"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qoʻchqor"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "olasan"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "va qoʻyadilar"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "uning oʻgʻillari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻllari"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "qoʻllari"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qoʻchqor"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:36.284262243Z",
+  "model": "glm-5.3"
+}

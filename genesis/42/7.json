@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Va Yosef akalarini koʻrdi va ularni tanidi, lekin oʻzini ularga begona koʻrsatdi va u bilan ⟨את⟩ qattiq gapirdi va ularga aytdi: Qayerdan keldingiz? Va ular aytdilar: Kenaan yeridan, oziq sotib olish uchun.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Va koʻrdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "akalarini"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "akalarini"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "va ularni tanidi"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "oʻzini begona koʻrsatdi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularga (u bilan)"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "qattiq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "qayerdan"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "keldingiz"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va ular aytdilar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "sotib olish uchun"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oziq"
+    }
+  ],
+  "timestamp": "2026-08-26T00:45:57.911345970Z",
+  "model": "glm-5.3"
+}

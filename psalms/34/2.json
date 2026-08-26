@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Yahveni ⟨את⟩ har doim barakalayman; uning madhi doim ogʻzimda boʻladi.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "barakalayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "har"
+    },
+    {
+      "surface": "עת",
+      "gloss": "doim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "uning madhi"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ogʻzimda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:06.561736288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Sizlar esa nazirlarga ichirdingiz ⟨את⟩ vino va paygʻambarlarga buyruq berdingiz: „Paygʻambarlik qilmanglar“, deb.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "ichirdingiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nazirlar"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "nazirlarga"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ...ga qarshi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "paygʻambarlar"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "buyruq berdingiz"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "paygʻambarlik qilmanglar"
+    }
+  ],
+  "timestamp": "2026-08-26T05:40:02.706986927Z",
+  "model": "glm-5.3"
+}

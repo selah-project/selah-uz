@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Nega gʻalayon koʻtardi ⟨the⟩ millatlar, va xalqlar behudaga pichirlaydilar?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Nega"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "gʻalayon koʻtardi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "millatlar"
+    },
+    {
+      "surface": "וְלֻאֻמִּים",
+      "gloss": "va xalqlar"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "pichirlaydilar"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "behudaga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:24.646371650Z",
+  "model": "glm-5.3"
+}

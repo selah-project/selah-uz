@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va boʻldiki, u koʻpaytirdi ibodat qilishni Yahve yuzida, va Eli ⟨את⟩ ogʻizini kuzatardi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "boʻldiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "koʻpaytirdi"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "ibodat qilishni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yuzida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "va Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kuzatardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogʻizini (uning ogʻiz)"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ogʻizini"
+    }
+  ],
+  "timestamp": "2026-08-26T02:39:23.139818155Z",
+  "model": "glm-5.3"
+}

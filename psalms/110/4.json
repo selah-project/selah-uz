@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 110,
+  "translation": "Yahve qasam ichdi va pushaymon boʻlmaydi: «Sen abadiy kohinsan, Malki-Tsedek tartibida.»",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "qasam ichdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "pushaymon boʻlmaydi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohinsan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻyicha"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "tartibida"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:00.733417760Z",
+  "model": "glm-5.3"
+}

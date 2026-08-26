@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 76,
+  "translation": "Va ⟨boʻldi⟩ — Shalemda uning kulbasi, va uning maskani Sionda.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va ⟨boʻldi⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "Shalemda"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "uning kulbasi"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "va uning maskani"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Sionda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:46.223614890Z",
+  "model": "glm-5.3"
+}

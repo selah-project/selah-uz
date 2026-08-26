@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va agar bir kishi ⟨את⟩ oʻz qizini xizmatchi ayol sifatida sotsa, u qullar chiqqanidek chiqmas.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "sotsa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bir kishi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz qizini"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "oʻz qizini"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "xizmatchi ayolga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "chiqmas"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "chiqqanidek"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "qullar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:51.109841710Z",
+  "model": "glm-5.3"
+}

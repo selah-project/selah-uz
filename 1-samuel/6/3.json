@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Ular dedilar: «Agar Isroel Elohimining sandigʻini qaytarsangiz, uni boʻsh qaytarmang, balki unga muqaddas qurbonlik baribir qaytaring; u holda shifo topasiz va uning qoʻli nega sizdan ketmayotgani sizga maʼlum boʻladi».",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "dedilar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "qaytarsangiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandigʻini"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandigʻini"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimining"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "qaytarmang"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "boʻsh"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "boʻsh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "balki"
+    },
+    {
+      "surface": "השב",
+      "gloss": "baribir qaytaring"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "qaytaring"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ayb qurbonligi"
+    },
+    {
+      "surface": "אז",
+      "gloss": "u holda"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "shifo topasiz"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "va maʼlum boʻladi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizga"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "ketmayotgani"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "uning qoʻli"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "sizdan"
+    }
+  ],
+  "timestamp": "2026-08-26T02:44:20.444677606Z",
+  "model": "glm-5.3"
+}

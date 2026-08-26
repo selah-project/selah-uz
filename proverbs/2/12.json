@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Seni yomon yoʻldan qutqarish uchun, buzib-soʻzlaydigan kishidan.",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "seni qutqarish uchun"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "yoʻldan"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kishidan"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "soʻzlaydigan"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "buzib- (tuhmat soʻzlarni)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:39:04.271768289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 58,
+  "translation": "Xor boshligʻiga; Halok qilmang; Dovudning miktomi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xor boshligʻiga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "halok qilma-"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "-sang"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudning"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktom"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:06.352790340Z",
+  "model": "glm-5.3"
+}

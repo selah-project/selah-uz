@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 92,
+  "translation": "Va shohimni yovvoyi buqa shoxidek ko'tardingiz, meni yangi moy bilan toʻldirdingiz.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "ko'tardingiz"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "yovvoyi buqadek"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "shohimni"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "toʻldirdingiz"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "moy bilan"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "yangi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:45.228408554Z",
+  "model": "glm-5.3"
+}

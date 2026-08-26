@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 23:5",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va Yahudah shohlari tayinlagan kemarilarni toʻxtatdi — ki ular Yahudah shaharlaridagi bamotlarda va Yerushalaim atrofida tutatqi qilganlar — va ⟨את⟩ Baalga, quyoshga, oyga, burjlarga va osmonlarning butun jangovar oqiniga tutatqi qiluvchilarni.",
+  "tokens": [
+    {
+      "surface": "והשבית",
+      "gloss": "toʻxtatdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kemarilarni"
+    },
+    {
+      "surface": "הכמרים",
+      "gloss": "kemarilarni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "tayinlagan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "shohlari"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudah"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "tutatqi qilgan"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "bamotlarda"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "shaharlarida"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudah"
+    },
+    {
+      "surface": "ומסבי",
+      "gloss": "atrofida"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tutatqi qiluvchilarni"
+    },
+    {
+      "surface": "המקטרים",
+      "gloss": "tutatqi qiluvchilarni"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baalga"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "quyoshga"
+    },
+    {
+      "surface": "ולירח",
+      "gloss": "oyga"
+    },
+    {
+      "surface": "ולמזלות",
+      "gloss": "burjlarga"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "jangovar oqini"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:34:15.023793337Z",
+  "model": "glm-5.3"
+}

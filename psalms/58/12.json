@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 58,
+  "translation": "Va odam aytadi: albatta solih uchun meva bor; albatta yerni hukm qiluvchi Elohim bor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va odam aytadi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אך",
+      "gloss": "albatta"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "meva"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "solih uchun"
+    },
+    {
+      "surface": "אך",
+      "gloss": "albatta"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "hukm qiluvchi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:31.918974683Z",
+  "model": "glm-5.3"
+}

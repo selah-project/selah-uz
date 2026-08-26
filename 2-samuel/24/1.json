@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Yahvening gʻazabi yana Isroil ustida alangalamoqqa qoʻshildi, va ⟨את⟩ Dovudni ularga qarshi qoʻzgʻatib dedi: bor, ⟨את⟩ Isroilni va ⟨את⟩ Yahudoni sanab chiq.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yana qoʻshildi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gʻazabi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "alangalamoqqa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isroil ustida"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "qoʻzgʻatdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dovud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularga qarshi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyib"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bor"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "sanab chiq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yahudo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    }
+  ],
+  "timestamp": "2026-08-26T03:24:07.068679882Z",
+  "model": "glm-5.3"
+}

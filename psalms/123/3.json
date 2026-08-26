@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 123,
+  "translation": "Rahm qil bizga, Yahve, rahm qil, chunki qattiq toʻydik haqoratga.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "rahm qil"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "rahm qil"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "qattiq"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "toʻydik"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "haqoratga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:16.257105571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Dovud bandangni sharaflash uchun senga yana nima qoʻshsin? Va sen ⟨את⟩ bandangni bilarding.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "qoʻshsin"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "sharaflash uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandangni"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bandangni"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "va sen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandangni"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bandangni"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilarding"
+    }
+  ],
+  "timestamp": "2026-08-26T08:51:09.554155596Z",
+  "model": "glm-5.3"
+}

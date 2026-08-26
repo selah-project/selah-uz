@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 5:22",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Moshe Yahve huzuriga qaytdi va aytdi: „Adonay, nima uchun ⟨bu⟩ xalqga yomonlik qilding? Nima uchun ⟨meni⟩ yubordingiz?“",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "va qaytdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "הרעתה",
+      "gloss": "yomonlik qilding"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalqga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨bu⟩"
+    },
+    {
+      "surface": "שלחתני",
+      "gloss": "yubordingiz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:16.350737737Z",
+  "model": "glm-5.3"
+}

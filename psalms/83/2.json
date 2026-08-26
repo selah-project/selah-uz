@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Elohim, senga jimlik yoʻq boʻlgay, kar boʻlma va sokin turma, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "jimlik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kar boʻlma"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "jim boʻlma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va sokin turma"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "sokin turma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:03.588215971Z",
+  "model": "glm-5.3"
+}

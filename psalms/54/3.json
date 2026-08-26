@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 54,
+  "translation": "Elohim, Isming bilan meni qutqar, va qudrating bilan menga hukm chiqar.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "Isming bilan"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "meni qutqar"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "va qudrating bilan"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "menga hukm chiqar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:31.486912845Z",
+  "model": "glm-5.3"
+}

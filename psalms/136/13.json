@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 136,
+  "translation": "Qamish dengizini boʻlaklarga kesganga — chunki abadiydir Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "kesgan"
+    },
+    {
+      "surface": "ים",
+      "gloss": "dengizini"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "qamish"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "boʻlaklarga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Uning xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:27.183628801Z",
+  "model": "glm-5.3"
+}

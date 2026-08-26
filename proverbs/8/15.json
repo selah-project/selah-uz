@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Men orqali podshohlar podshohlik qiladi, va hukmdorlar adolatni farmon qiladilar.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "men orqali"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "podshohlar"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "podshohlik qiladi"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "va hukmdorlar"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "farmon qiladilar"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolatni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:41:50.692220389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va ular ⟨את⟩ Yahve, oʻz Elohimlariga va ⟨את⟩ Dovud, oʻz podshohlariga xizmat qiladilar — ugni Men ularga koʻrib turaman.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "Va ular xizmat qiladilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "oʻz Elohimlariga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Dovud"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "oʻz podshohlariga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ugni"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "Men koʻrib turaman"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:53:42.246381608Z",
+  "model": "glm-5.3"
+}

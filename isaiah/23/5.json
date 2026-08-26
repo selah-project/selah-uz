@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Misolga olganda, Misr xabari eshitilganda ogʻriqdilar, xuddi shunday Tsr xabari eshitilganda.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "misolga olganda"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "xabari eshitilganda"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "ogʻriqdilar"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "xabari eshitilgandek"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsr"
+    }
+  ],
+  "timestamp": "2026-08-26T04:17:10.819805693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Mendan ⟨nazar tort⟩, va yorugʻ boʻlib olaman — ketishimdan va yoʻq boʻlgunimdan oldin.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "qaragin"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "va yorugʻ boʻlaman"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "…dan oldin"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ketaman"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "va men yoʻqman"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:54.680385837Z",
+  "model": "glm-5.3"
+}

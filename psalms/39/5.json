@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 39:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Bilib olay, Yahve, oxirimni va kunlarim oʻlchovini — nima ⟨u⟩; bilib olurman qancha fano men.",
+  "tokens": [
+    {
+      "surface": "הודיעני",
+      "gloss": "Bilib olay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "oxirimni"
+    },
+    {
+      "surface": "ו מדת",
+      "gloss": "va oʻlchovini"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlarim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u ⟨u⟩"
+    },
+    {
+      "surface": "אדעה",
+      "gloss": "bilib olurman"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qancha"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "fano"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:06.512734391Z",
+  "model": "glm-5.3"
+}

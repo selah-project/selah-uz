@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "⟨U⟩ — osmonni bulutlar bilan qoplaydigan, yerga yomgʻir tayyorlaydigan, togʻlarda oʻt-oʻlan oʻstiradigan.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "qoplaydigan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonni"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "bulutlar bilan"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "tayyorlaydigan"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "yomgʻir"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "oʻstiradigan"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlarda"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "oʻt-oʻla"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:35.813028606Z",
+  "model": "glm-5.3"
+}

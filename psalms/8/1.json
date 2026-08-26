@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Xorga, Gitgit ustidan, Dovud mizmori.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Xorga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gitgit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:12.677601022Z",
+  "model": "glm-5.3"
+}

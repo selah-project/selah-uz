@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Ogʻizim sening solihligingni hikoya qiladi, butun kunning — sening najotingni, chunki men ularning sonini bilmasman.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ogʻizim"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "hikoya qiladi"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "solihligingni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunning"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "najotingni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "bilmasman"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "sonini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:55.651031399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Va u yerga ⟨את⟩ guvohlik sandigʻini qoʻyasan, va sandiq ustiga ⟨את⟩ parda bilan yopasan.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "va qoʻyasan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "guvohlik sandigʻi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandiq"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "guvohlik"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "va yopasan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sandiq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "parda"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "parda"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:06.453547177Z",
+  "model": "glm-5.3"
+}

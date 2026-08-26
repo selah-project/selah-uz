@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va uni ⟨את⟩ qamoqda qoʻydilar, chunki koʻrsatilmagan edi uchun nima qilinishi kerak unga.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "qoʻydilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ni",
+      "marks": "qamoqda"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "qamoqda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "koʻrsatilmagan"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "koʻrsatilmagan edi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qilinishi kerak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:34:28.142407075Z",
+  "model": "glm-5.3"
+}

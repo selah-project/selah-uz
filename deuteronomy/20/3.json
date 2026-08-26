@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 20:3",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va ularga aytadi: Tingla, ey Isroil: siz bugun dushmanlaringiz ustiga jangga yaqin kelayotgansizlar; qalbingiz yuvishmasin, qoʻrqmanglar, shoshilmanglar va ularning yuzidan dahshatga tushmanglar.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Va ularga aytadi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Tingla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ey Isroil"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "siz"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "yaqin kelayotgansizlar"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "jangga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "dushmanlaringiz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-masin"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "yuvashlashmasin \/ yumshamasin"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "qalbingiz"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-manglar"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qoʻrqmanglar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va -manglar"
+    },
+    {
+      "surface": "תחפזו",
+      "gloss": "shoshilmanglar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va -manglar"
+    },
+    {
+      "surface": "תערצו",
+      "gloss": "dahshatga tushmanglar"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ularning yuzidan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:59:44.325342447Z",
+  "model": "glm-5.3"
+}

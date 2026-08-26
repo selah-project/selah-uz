@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va sen uning kosalarini, qoshiqlarini, qopqoqlarini va toʻkib-quyma idishlarini yasaysan — ularda quylasin deb — sof oltindan qilursan ⟨את⟩ ularni.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "yasaysan"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "uning kosalarini"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "va uning qoshiqlarini"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "va uning qopqoqlarini"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "va uning toʻkib-quyma idishlarini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "quylasin"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ularda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "sof"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qilursan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:59:39.717348923Z",
+  "model": "glm-5.3"
+}

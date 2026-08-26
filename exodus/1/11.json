@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va uning ustiga majburiy mehnat boshliqlarini qoʻydilar, ularni yuklari bilan qiynash uchun; va u Firʼavn uchun ombor shaharlarini qurdi: ⟨את⟩ Pitomni va ⟨את⟩ Roʻamsesni.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Va ... qoʻydilar"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "boshliqlarini"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "majburiy mehnat"
+    },
+    {
+      "surface": "למען",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "qiynash"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "yuklari bilan"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "va ... qurdi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "shaharlarini"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "ombor"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Firʼavn uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitomni"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitomni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Roʻamsesni"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Roʻamsesni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:49:10.823131167Z",
+  "model": "glm-5.3"
+}

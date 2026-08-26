@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va Ravshake qaytdi va Ashur malikasini ⟨את⟩ Libna ustida urushayotgan holda topdi, chunki eshitgan ediki, u Lakishdan koʻchib ketgan.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "va topdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur malikasi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maliki"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "urushayotgan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitgan edi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "koʻchib ketgan"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "Lakishdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:35:14.483393758Z",
+  "model": "glm-5.3"
+}

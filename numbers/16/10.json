@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va ⟨את⟩ sizni va ⟨את⟩ barcha birodarlaringizni — Levi oʻgʻillari — ⟨את⟩ siz bilan yaqinlashtirdi, va sizlar ham kohinlikni soʻraysizlarmi?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "va yaqinlashtirdi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sizni",
+      "marks": "sizni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha birodarlaringizni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birodarlaringizni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ siz bilan"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "va soʻraysizlar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "kohinlikni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:35:25.738415962Z",
+  "model": "glm-5.3"
+}

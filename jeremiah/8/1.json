@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Oʻsha vaqtda, — deydi Yahve, — ular Yahudo qirollarining ⟨את⟩ suyaklarini va uning sarkardalarining ⟨את⟩ suyaklarini va kohinlarning ⟨את⟩ suyaklarini va paygʻambarlarning ⟨את⟩ suyaklarini va Yerushalaim aholisining ⟨את⟩ suyaklarini qabrlaridan chiqaradilar.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Oʻsha vaqtda"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "Oʻsha vaqtda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "chiqaradilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suyaklarini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "suyaklarini"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "qirollarining"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "suyaklarini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "suyaklarini"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "uning sarkardalarining"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "suyaklarini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "suyaklarini"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "kohinlarning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "suyaklarini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "suyaklarini"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "paygʻambarlarning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "suyaklarini"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "suyaklarini"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "aholisining"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "qabrlaridan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:43:51.083891982Z",
+  "model": "glm-5.3"
+}

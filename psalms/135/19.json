@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 135:19",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Eyi Isroil uyi, Yahveni ⟨את⟩ olqishlang; eyi Aharon uyi, Yahveni ⟨את⟩ olqishlang.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "uyi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "olqishlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "olqishlang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:18.864325694Z",
+  "model": "glm-5.3"
+}

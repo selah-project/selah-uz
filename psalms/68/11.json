@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Sening jonli jamoang unga joylashdi; yolgʻizlar uchun oʻz yaxshiligingda tayorlading, ey Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "jonli jamoang"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "joylashdi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "tayorlading"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "yaxshiligingda"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "yolgʻizlar uchun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:31.966291368Z",
+  "model": "glm-5.3"
+}

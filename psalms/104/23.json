@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Odam oʻz ishiga va oʻz mehnatiga, kechqurungacha chiqadi.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "chiqadi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Odam"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "oʻz ishiga"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "va oʻz mehnatiga"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kechqurungacha"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kechqurun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:50.514031438Z",
+  "model": "glm-5.3"
+}

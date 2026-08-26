@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 22:16",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Senga bu yerda nima bor, va senga bu yerda kim bor? Zero sen oʻzunga bu yerda qabir kesib olding — balandda qabirini kesuvchi, qoyada unga oʻziga maskan oʻyuvchi!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nima"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "פה",
+      "gloss": "bu yerda"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "va kim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "פה",
+      "gloss": "bu yerda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Zero"
+    },
+    {
+      "surface": "חצבת",
+      "gloss": "kesib olding"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzunga"
+    },
+    {
+      "surface": "פה",
+      "gloss": "bu yerda"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "qabir"
+    },
+    {
+      "surface": "חצבי",
+      "gloss": "kesuvchi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "balandda"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "qabirini"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "oʻyuvchi"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "qoyada"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "maskan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T04:15:05.934784186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Va uni oldilar va ⟨את⟩ uni quduqqa tashladilar; quduq esa boʻsh edi, unda suv yoʻq ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Va uni oldilar"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "va tashladilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "quduqqa"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "quduq esa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "boʻsh"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:38.791146219Z",
+  "model": "glm-5.3"
+}

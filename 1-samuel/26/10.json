@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va Dovud aytdi: Yahve yashagancha, Yahve uni urmaguncha — yoki uning kuni kelib oʻlmaguncha, yoki urushga tushib yoʻq boʻlmaguncha ⟨boʻlmaydi⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yashagancha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "maguncha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "uni ur"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "uning kuni"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "keladi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "va oʻladi"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "urushga"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "tushadi"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "va yoʻq boʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:00:23.280221835Z",
+  "model": "glm-5.3"
+}

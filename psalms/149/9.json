@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 149,
+  "translation": "Ular ustida yozilgan hukmni bajarish uchun — bu ⟨is⟩ barcha hasidlariga ulugʻlik. Maqtanglar, Yah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "bajarish uchun"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ular ustida"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukmni"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "yozilgan"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ulugʻlik"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "hasidlariga"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "maqtanglar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:00.526812186Z",
+  "model": "glm-5.3"
+}

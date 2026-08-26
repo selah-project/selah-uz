@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va ⟨את]] qozonlarni, va ⟨את]] kuraklarni, va ⟨את]] sanchqilarni va ⟨את]] ularning barcha asboblarini Xuram — otasi — Shlomo shohga, Yahve uyi uchun yaltiroq misdan yasadi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qozonlar"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "qozonlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kuraklar"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "kuraklar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sanchqilar"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "sanchqilar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ularning barcha asboblari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "asboblari"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Xuram"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "shohga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shlomo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uyi uchun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mis"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "yaltiroq"
+    }
+  ],
+  "timestamp": "2026-08-26T08:04:34.755246775Z",
+  "model": "glm-5.3"
+}

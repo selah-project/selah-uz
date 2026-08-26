@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 59,
+  "translation": "Meni dushmanlarim qoʻlidan qutqar, Elohimim; menga qarshi koʻtarilganlardan meni balandga koʻtar.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "meni qutqar"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "dushmanlarim qoʻlidan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "menga qarshi koʻtarilganlardan"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "meni balandga koʻtar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:18.210458629Z",
+  "model": "glm-5.3"
+}

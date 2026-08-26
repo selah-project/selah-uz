@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Senga, Yahve, nido qilaman, va Adonayga iltijo qilaman.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nido qilaman"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va Adonayga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayga"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "iltijo qilaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:01.741883355Z",
+  "model": "glm-5.3"
+}

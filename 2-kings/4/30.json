@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Bolananing onasi esa aytdi: Yahve tirikdir va joning tirikdir — seni tashlab ketmayman. U esa turdi va uning ortidan ketdi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "esa aytdi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "onasi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bolaning"
+    },
+    {
+      "surface": "חי",
+      "gloss": "tirikdir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "va … tirikdir"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "joning"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "seni tashlab ketaman"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Va u turdi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va ketdi"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "uning ortidan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:49:59.772392663Z",
+  "model": "glm-5.3"
+}

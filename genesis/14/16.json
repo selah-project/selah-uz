@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va u ⟨את⟩ butun mol-mulkni va ⟨את⟩ akasi Lotni hamda uning mol-mulkini qaytardi, shuningdek ⟨את⟩ ayollarni va ⟨את⟩ xalqni ham.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaytardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun mol-mulkni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "mol-mulkni"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "va shuningdek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lotni"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "uning akasi"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "va uning mol-mulki"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "qaytardi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "va shuningdek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ayollarni"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "ayollarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:54.955922546Z",
+  "model": "glm-5.3"
+}

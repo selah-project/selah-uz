@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Dovud Shoulga dedi: Nega ⟨את⟩ odam soʻzlarini tinglaysan, deyib: „Qarang, Dovud senga yomonlik qidirmoqda“?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shoulga"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "tinglaysan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odam soʻzlarini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlarini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyib"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "qarang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "qidirmoqda"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "senga yomonlik"
+    }
+  ],
+  "timestamp": "2026-08-26T02:57:55.308679396Z",
+  "model": "glm-5.3"
+}

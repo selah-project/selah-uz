@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 97,
+  "translation": "Yahve hukmronlik qildi, yer quvonsin, koʻp orollar xursand boʻlsin.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "hukmronlik qildi"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "quvonsin"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "xursand boʻlsin"
+    },
+    {
+      "surface": "איים",
+      "gloss": "orollar"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:23.821196211Z",
+  "model": "glm-5.3"
+}

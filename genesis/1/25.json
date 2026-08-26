@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Elohim ⟨את⟩ yerning yovvoyi hayvonlarini turiga, va ⟨את⟩ chorva mollarini turiga, va ⟨את⟩ tuproqning barcha sudralib yuruvchilarini turiga qildi; va Elohim koʻrdi — ki yaxshi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerning yovvoyi hayvonlarini"
+    },
+    {
+      "surface": "חית",
+      "gloss": "yovvoyi hayvonlarini"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "turiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chorva mollarini"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "chorva mollarini"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "turiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha sudralib yuruvchilarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sudralib yuruvchilarni"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproqning"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "turiga"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "va koʻrdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:27.197472738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Kim bilmasdon ⟨barcha⟩ shunday narsalarda — chunki Yahve qoʻli buni qilgandir?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmasdon"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨barcha⟩ ... ichida"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "shunday narsalarda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "qilgandir"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "buni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:57:45.015499523Z",
+  "model": "glm-5.3"
+}

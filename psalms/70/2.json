@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 70,
+  "translation": "Elohim, meni qutqarish uchun, Yahve, yordamimga ⟨shosh⟩!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "meni qutqarish uchun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "yordamimga"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "⟨shosh⟩!"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:16.098045791Z",
+  "model": "glm-5.3"
+}

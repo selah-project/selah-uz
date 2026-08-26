@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Oʻzlarini tikdilar yer shohlari, va hukmdorlar birga yigʻildilar, Yahve qarshi va uning Mashiaxi qarshi.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "oʻzlarini tikdilar"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "shohlari"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "va hukmdorlar"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "yigʻildilar"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birga"
+    },
+    {
+      "surface": "על",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va qarshi"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "uning Mashiaxi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:24.646596881Z",
+  "model": "glm-5.3"
+}

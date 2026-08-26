@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 131,
+  "translation": "Albatta tinchlantirdim va jim qildim jonimni — sutdan uzilgan bola kabi onasining bagʻrida; sutdan uzilgan bola kabi ichimdagi jonim.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "albatta"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "tinchlantirdim"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "va jim qildim"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonimni"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sutdan uzilgan bola kabi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bagʻrida"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "onasi"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "sutdan uzilgan bola kabi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ichimdagi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:31.794711810Z",
+  "model": "glm-5.3"
+}

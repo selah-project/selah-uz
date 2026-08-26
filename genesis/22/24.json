@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va uning suryati — uning ismi Reuma — u ham ⟨את⟩ Tevaxni, va ⟨את⟩ Gaxamni, va ⟨את⟩ Taxashni va ⟨את⟩ Maaxani tugʻdi",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "va uning suryati"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "uning ismi"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "u ham tugʻdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevaxni"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevax"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Gaxamni"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaxam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Taxashni"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Taxash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Maaxani"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaxa"
+    }
+  ],
+  "timestamp": "2026-08-26T00:36:38.091132353Z",
+  "model": "glm-5.3"
+}

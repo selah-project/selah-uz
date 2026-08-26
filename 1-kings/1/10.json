@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va ⟨את⟩ Natan paygʻam barni va Benayahuni va ⟨את⟩ bahodirlarni va ⟨את⟩ ukasi Shelomoni chaqirmadi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Natan paygʻambar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "paygʻambar"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "va Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "bahodirlar"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "bahodirlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ukasi Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ukasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "chaqirdi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:22:59.416559240Z",
+  "model": "glm-5.3"
+}

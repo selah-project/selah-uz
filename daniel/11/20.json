@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 11:20",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va uning o‘rnida soliq yig‘uvchini yuborgan, podshohlik ulug‘vorligidan ⟨bir kishi⟩ turadi; va oz kunlarda u sindiriladi, na g‘azabda na urushda.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "turadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "uning o‘rnida"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "yuborgan"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "soliq yig‘uvchini"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ulug‘vorligini"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "podshohlikning"
+    },
+    {
+      "surface": "ובימים",
+      "gloss": "va kunlarda"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "oz"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "sindiriladi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va... yo‘q"
+    },
+    {
+      "surface": "באפים",
+      "gloss": "g‘azabda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va... yo‘q"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "urushda"
+    }
+  ],
+  "timestamp": "2026-08-26T07:35:09.665266158Z",
+  "model": "glm-5.3"
+}

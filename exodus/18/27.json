@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Moshe ⟨את‬⟩ qaynotasini joʻnatdi, va ⟨u⟩ oʻz yurtiga ketdi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Va ... joʻnatdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qaynotasini"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "qaynotasini"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va ... ketdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨oʻz yoʻli bilan⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "oʻz yurtiga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:55.634984453Z",
+  "model": "glm-5.3"
+}

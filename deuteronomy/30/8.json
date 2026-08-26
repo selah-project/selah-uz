@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va siz qaytasiz va Yahve ovoziga quloq solasiz va ⟨את⟩ Uning barcha buyruqlarini — men sizga bugun buyurayotganlarimni — bajariasiz.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "va siz"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "qaytasiz"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "va quloq solasiz"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovoziga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "va bajariasiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha buyruqlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "buyruqlarini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "sizga buyurayotgan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    }
+  ],
+  "timestamp": "2026-08-26T02:05:02.417458798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Yehoshua dedi: ⟨את⟩ gʻor ogʻzini ochinglar va menga ⟨את⟩ shu besh podshohni gʻordan chiqarib kelinglar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va ... dedi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ochinglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gʻor ogʻzini"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻzi"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "gʻor"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "va chiqarib kelinglar"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "besh podshohni"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "besh"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "gʻor"
+    }
+  ],
+  "timestamp": "2026-08-26T02:13:31.544120952Z",
+  "model": "glm-5.3"
+}

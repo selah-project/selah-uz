@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va butun Misr yerida buyuk faryod boʻladi — unga oʻxshagʻi boʻlmagan va undan keyin ham boʻlmaydigan.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "va boʻladi"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "faryod"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerida"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "unga oʻxshagʻi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "va unday"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "qoʻshilmaydi (boʻlmaydi)"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:06.141147458Z",
+  "model": "glm-5.3"
+}

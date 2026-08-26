@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Dushmanlarimdan ustun qilasan meni Sen buyruqlaring bilan, chunki abadiy u ⟨men⟩ bilan.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "Dushmanlarimdan"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "ustun qilasan meni (donolikda)"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "buyruqlaring bilan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨men⟩ bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:09.393473467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "U yuzini oynaga koʻtardi va aytdi: Kim ⟨men⟩ ⟨ bilan ⟩, kim? Va unga ikki yoki uchta saris qaradi.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "koʻtardi"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "oynaga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Kim"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bilan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "qaradi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ikkki"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uchta"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "sarislar"
+    }
+  ],
+  "timestamp": "2026-08-26T03:53:07.601645976Z",
+  "model": "glm-5.3"
+}

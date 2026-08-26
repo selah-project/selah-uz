@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Mayin boʻldi jonim orzu ila ⟨sening⟩ hukmlaringa har vaqt.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Mayin boʻldi (ezildi)"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "jonim"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "orzu ila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨sening⟩ … -ga"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "hukmlaringa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "har"
+    },
+    {
+      "surface": "עת",
+      "gloss": "vaqt"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:58.688963223Z",
+  "model": "glm-5.3"
+}

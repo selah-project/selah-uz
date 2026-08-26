@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Voy yovuzlikka „yaxshi“ va yaxshilikka „yovuz“ deydiganlarga, zulmatni yorugʻlikka va yorugʻlikni zulmatga qoʻyadiganlarga, achchiqni shirinlikka va shirinlikni achchiqqa qoʻyadiganlarga!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "voy"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "deydiganlarga"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "yovuzlikka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "va yaxshilikka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yovuz"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qoʻyadiganlarga"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "zulmatni"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "yorugʻlikka"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "va yorugʻlikni"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "zulmatga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "qoʻyadiganlarga"
+    },
+    {
+      "surface": "מר",
+      "gloss": "achchiqni"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "shirinlikka"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "va shirinlikni"
+    },
+    {
+      "surface": "למר",
+      "gloss": "achchiqqa"
+    }
+  ],
+  "timestamp": "2026-08-26T04:07:32.072625200Z",
+  "model": "glm-5.3"
+}

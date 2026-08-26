@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "va ⟨the⟩ qakat, va ⟨את⟩ raxama, va ⟨את⟩ shalaq",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "va qakat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "raxama"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "raxama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "shalaq"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "shalaq"
+    }
+  ],
+  "timestamp": "2026-08-26T01:54:52.101758836Z",
+  "model": "glm-5.3"
+}

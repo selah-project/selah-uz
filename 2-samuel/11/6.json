@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va Dovud Yoavga yubordi: menga ⟨את⟩ Uriyani xitniy yubor. Va Yoav ⟨את⟩ Uriyani Dovudga yubordi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yubor"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyani"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyani"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "xitniy"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "yubordi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriyani"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriyani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    }
+  ],
+  "timestamp": "2026-08-26T03:09:38.610672465Z",
+  "model": "glm-5.3"
+}

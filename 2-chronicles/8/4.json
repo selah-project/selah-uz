@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va choʻlda Tadmorni ⟨את⟩ va Xamatda qurgan barcha ombor shaharlarini ⟨את⟩ qurdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "qurdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmorni"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha ombor shaharlarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "shaharlari"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "ombor... oziq-omborxona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "qurgan"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "Xamatda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:06:29.301953552Z",
+  "model": "glm-5.3"
+}

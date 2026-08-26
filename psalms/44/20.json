@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Chunki Sen bizni shoʻqollar joyida yanchiding, va oʻlim soyasi bilan ustimizga qoplading.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "bizni yanchiding"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "joyida"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "shoʻqollar"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "va qoplading"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ustimizga"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "oʻlim soyasi bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:08.713172279Z",
+  "model": "glm-5.3"
+}

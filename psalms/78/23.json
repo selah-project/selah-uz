@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va U bulutlarga yuqoridan buyruq berdi va osmon eshiklarini ochdi.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "va buyruq berdi"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "bulutlarga"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yuqoridan"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "va eshiklarini"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ochdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:07.518228778Z",
+  "model": "glm-5.3"
+}

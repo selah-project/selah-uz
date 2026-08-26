@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va men eshitdim, lekin tushunmadim, va aytdim: «Ey Adonayim, bularning oxiri nima ⟨boʻladi⟩?»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Va men"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "eshitdim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin … emas"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "tushunmadim"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "va aytdim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "oxiri"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bularning"
+    }
+  ],
+  "timestamp": "2026-08-26T07:37:23.346788613Z",
+  "model": "glm-5.3"
+}

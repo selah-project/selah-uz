@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va Yova' turdi va Gʻshurga bordi va ⟨את⟩ Avshalomni Yerushalaimga olib keldi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Va … turdi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yova'"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "va bordi"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Gʻshurga"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va … olib keldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalomni"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T03:14:15.140914487Z",
+  "model": "glm-5.3"
+}

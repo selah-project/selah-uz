@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 9:11",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va shoh algum yogʻochlaridan ⟨את⟩ Yahve uyi uchun va shoh saroyi uchun yoʻlaklar, xonandalar uchun kinnorlar va neballar yasadi; bunga oʻxshashlari ilgari Yahuda yerida koʻrilmagan ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Va u yasadi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "algum yogʻochlari"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochlari"
+    },
+    {
+      "surface": "האלגומים",
+      "gloss": "algum"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "yoʻlaklar"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "uyi uchun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "va uy uchun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "va kinnorlar"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "va neballar"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "xonandalar uchun"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va koʻrilmagan"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "⟨edi⟩"
+    },
+    {
+      "surface": "כהם",
+      "gloss": "bunaqalari"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ilgari"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yernida"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:06:33.023110318Z",
+  "model": "glm-5.3"
+}

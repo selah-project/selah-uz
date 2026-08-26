@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va u aytdi: menga yangi sopol idish olib keling va unga ichiga tuz qoʻying. Va ular uni unga olib keldilar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "olib keling"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "sopol idish"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "yangi"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "va qoʻying"
+    },
+    {
+      "surface": "שם",
+      "gloss": "unga ichiga"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "tuz"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "va olib keldilar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:45:44.986214103Z",
+  "model": "glm-5.3"
+}

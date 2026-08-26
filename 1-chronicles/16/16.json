@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "U buyruqni — ⟨את⟩ Avraham bilan kesib, va uning qasamini Yitsxakka ⟨berdi⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "kimiki"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "kesib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "va uning qasamini"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsxakka"
+    }
+  ],
+  "timestamp": "2026-08-26T08:50:51.376887046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 18:19",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va boʻldi: Merab, Shaulning qizi, Dovudga ⟨את⟩ beriladigan vaqtda — u Adriel Maholatilikka xotinlikka berildi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "vaqtda"
+    },
+    {
+      "surface": "תת",
+      "gloss": "beriladigan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merab"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "Merab"
+    },
+    {
+      "surface": "בת",
+      "gloss": "qizi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "u"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "berildi"
+    },
+    {
+      "surface": "לעדריאל",
+      "gloss": "Adrielga"
+    },
+    {
+      "surface": "המחלתי",
+      "gloss": "Maholatilik"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "xotinlikka"
+    }
+  ],
+  "timestamp": "2026-08-26T08:28:50.763098188Z",
+  "model": "glm-5.3"
+}

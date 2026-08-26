@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 145,
+  "translation": "Solih Yahve oʻz yoʻllarining barchasida, va sodiq muhabbatli oʻz ishlarining barchasida.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Solih"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barchasida"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "oʻz yoʻllarining"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "va sodiq muhabbatli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barchasida"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "oʻz ishlarining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:40.888845436Z",
+  "model": "glm-5.3"
+}

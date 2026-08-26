@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Misr shohi ularga aytdi: „Nega, ey Moshe va Aharon, xalqni ishlaridan boʻshatmoqchisizlar? Yuktortlaringizga qaytinglar!“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "va Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "boʻshatmoqchisizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "ishlaridan"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "qaytinglar"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "yuktortlaringizga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:51:27.417467440Z",
+  "model": "glm-5.3"
+}

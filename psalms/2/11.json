@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Yahvega qoʻrquv bilan xizmat qiling va titrab seving.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "xizmat qiling"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "qoʻrquv bilan"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "va seving"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "titrab"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:28.379376701Z",
+  "model": "glm-5.3"
+}

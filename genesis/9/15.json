@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 9:15",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va ahdimni eslaman — ⟨את⟩ men bilan sizlar oʻrtamda va har bir jonli nefesh bilan barcha tandagi jon oʻrtasidagi ahdni — va suvlar barcha tanni yoʻq qilish uchun toshqin boʻlib yana boʻlmaydi.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "va eslaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "men bilan"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "va sizlar oʻrtasida"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "va … oʻrtasida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "jonli nefesh"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "jonli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … boʻlmaydi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "toshqin"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "yoʻq qilish uchun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "tanda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:06.812399357Z",
+  "model": "glm-5.3"
+}

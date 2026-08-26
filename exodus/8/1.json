@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Yahve Moshega aytdi: Ahoronga ayt: qoʻlingni tayoqing bilan choʻz — ⟨the⟩ nahrlar ustiga, ⟨the⟩ kanallar ustiga va ⟨the⟩ hovuzlar ustiga — va baqalarni Misr yerining ustiga chiqargin.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayt"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahoron"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "choʻzgʻin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻlingni"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻlingni"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "tayoqing bilan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "⟨the⟩ nahrlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "⟨the⟩ kanallar"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustiga"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "⟨the⟩ hovuzlar"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "va chiqargin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baqalarni"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "baqalarni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yering"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:38.611018431Z",
+  "model": "glm-5.3"
+}

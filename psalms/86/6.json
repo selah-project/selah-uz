@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Quloq sol, Yahve, duoyimga, va ovozimga yolvorishlarimning ⟨gulgi⟩ tingla.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "quloq sol"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duoyimga"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "va tingla"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovozimga"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "yolvorishlarimning"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:25.153095171Z",
+  "model": "glm-5.3"
+}

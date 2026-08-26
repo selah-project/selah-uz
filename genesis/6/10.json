@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Noeh uch oʻgʻil koʻrdi: ⟨את⟩ Shem, ⟨את⟩ Xom va ⟨את⟩ Yofet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noeh"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uch"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xom"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Xom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Yofet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yofet"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:35.252833868Z",
+  "model": "glm-5.3"
+}

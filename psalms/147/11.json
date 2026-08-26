@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "Yahve ⟨את⟩ Unga qoʻrqib boʻysunganlarni, ⟨את⟩ xesediga umid qoʻyganlarni xohlaydi.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "xohlaydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Unga qoʻrqib boʻysunganlarni"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "Unga qoʻrqib boʻysunganlarni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xesediga umid qoʻyganlarni"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "umid qoʻyganlarni"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "xesediga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:20.706052037Z",
+  "model": "glm-5.3"
+}

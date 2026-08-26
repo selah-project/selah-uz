@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va podshoh ularga aytdi: Men tush koʻrdim va bilish uchun ruhim tashvishlandi — ⟨את⟩ tushni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va aytdi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "tush"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "koʻrdim"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "va tashvishlandi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruhim"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "bilish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tushni"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "⟨the⟩ tush"
+    }
+  ],
+  "timestamp": "2026-08-26T07:27:38.664230293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Moshe aytdi xalqga: qoʻrqmanglar, chunki sinash uchun keldi ⟨את⟩ sizlarni Elohim, va u uchunki uning qoʻrquvi boʻlsin yuzlaringiz ustida — gunoh qilmanglar deb.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…manglar"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "qoʻrq"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "sinash uchun"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "sinash"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni"
+    },
+    {
+      "surface": "בא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "va u uchunki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻlsin"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "uning qoʻrquvi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "yuzlaringiz"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "…may deb"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "gunoh qil"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:39.907229652Z",
+  "model": "glm-5.3"
+}

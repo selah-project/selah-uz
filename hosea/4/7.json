@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Ular koʻpaygani sari mening imga qarshi gunoh qildilar; ularning sharafini sharmanda qilib almashtiraman.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "ulararning koʻpaygani sari"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shu qadar"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "gunoh qildilar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga qarshi"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "ularning sharafini"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "sharmanda qilib"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "almashtiraman"
+    }
+  ],
+  "timestamp": "2026-08-26T08:39:59.090206026Z",
+  "model": "glm-5.3"
+}

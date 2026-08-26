@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Oʻz kohunlari qilich bilan quladi, va oʻz bevalari yoʻqlamadilar.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "oʻz kohunlari"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qilich bilan"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "quladi"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "va oʻz bevalari"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "yoʻqlamadilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:47.476094046Z",
+  "model": "glm-5.3"
+}

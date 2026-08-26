@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Dovud yoqilgan qurbonlikni va tinchlik qurbonliklarini keltirishni tugatgach, ⟨את⟩ xalqni Yahve nomi bilan barakaladi.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "tugatgach"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "keltirishni"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yoqilgan qurbonlikni"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "va tinchlik qurbonliklarini"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "barakaladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "nomi bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T07:58:45.991666721Z",
+  "model": "glm-5.3"
+}

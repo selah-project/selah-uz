@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "obadiah 1:15",
+  "book": "obadiah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Chunki yaqindir Yahve kuni barcha xalqlar ustiga; sen qilganingdek, senga qilinadi — mukofoting boshinga qaytadi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yaqindir"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-dek"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "qilganingdek"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qilinadi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sanga"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "mukofoting"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "qaytadi"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "boshinga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:42:45.167309317Z",
+  "model": "glm-5.3"
+}

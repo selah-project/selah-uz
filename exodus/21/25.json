@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Kuygi uchun kuygi, yara uchun yara, koʻkarish uchun koʻkarish.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "kuygi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "kuygi"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "yara"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "yara"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "koʻkarish"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "koʻkarish"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:43.221225334Z",
+  "model": "glm-5.3"
+}

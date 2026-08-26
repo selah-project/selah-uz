@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 106,
+  "translation": "Va ularning urugʻini xalqlar orasiga yiqitish, va ularni yerlarda sochib yuborish ⟨uchun⟩.",
+  "tokens": [
+    {
+      "surface": "וּלְהַפִּיל",
+      "gloss": "va yiqitish"
+    },
+    {
+      "surface": "זַרְעָם",
+      "gloss": "ularning urugʻini"
+    },
+    {
+      "surface": "בַּגּוֹיִם",
+      "gloss": "xalqlar orasiga"
+    },
+    {
+      "surface": "וּלְזָרוֹתָם",
+      "gloss": "va ularni sochib yuborish"
+    },
+    {
+      "surface": "בָּאֲרָצוֹת",
+      "gloss": "yerlarda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:08.714297172Z",
+  "model": "glm-5.3"
+}

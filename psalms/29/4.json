@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Yahvening ovozi kuchdadur; Yahvening ovozi ulugʻvorlikdadur.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ovozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "kuchda"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ovozi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "ulugʻvorlikda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:02.720945456Z",
+  "model": "glm-5.3"
+}

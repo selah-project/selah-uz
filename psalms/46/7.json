@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Xalqlar gʻulgʻula qildi, shohliklar qoʻzgʻaldi — ⟨U⟩ ovozini berdi, yer erib ketadi.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "gʻulgʻula qildi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Xalqlar"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "qoʻzgʻaldi"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "shohliklar"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "berdi"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "erib ketadi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:56.996124931Z",
+  "model": "glm-5.3"
+}

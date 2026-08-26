@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va hayotdan nafratlandim, chunki quyosh ostida qilingan ish menga yomon tuyuldi, chunki hammasi hebel va ruhxning ayrilishidir.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "va nafratlandim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hayot"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "hayot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "qilingan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "va ayrilish"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruhx"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:36.685328865Z",
+  "model": "glm-5.3"
+}

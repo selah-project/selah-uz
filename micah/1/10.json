@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Gitda aytmanglar; yigʻi bilan — yigʻlamanglar; Beyt-le-Afrahda changda oʻrandim.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Gitda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "aytmanglar"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "yigʻlanglar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "yigʻlamanglar"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "uyida"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Beyt-le-Afrahning"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "chang"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "oʻrandim"
+    }
+  ],
+  "timestamp": "2026-08-26T05:44:39.368853328Z",
+  "model": "glm-5.3"
+}

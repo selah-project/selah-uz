@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Dushman ovozidan, yovuzning zoʻravonligidan, chunki ular menga yovuzlik yogʻdirishadi va gʻazab bilan meni taʼqib qilishadi.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ovozidan"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dushman"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-dan yuz oʻgirib"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "zoʻravonligidan"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovuzning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "yogʻdirishadi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "און",
+      "gloss": "yovuzlik"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "va gʻazab bilan"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "meni taʼqib qilishadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:45.261537133Z",
+  "model": "glm-5.3"
+}

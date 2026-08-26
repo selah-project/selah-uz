@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Shelomoh ⟨את⟩ Gezer va ⟨את⟩ quyi Beyt-Xoronni qurdi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "va qurdi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Beyt-Xoron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beyt"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Xoron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "quyi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:33:53.198653406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Ular otilib chiqadilar, odobsiz gapiradilar, barcha yomonlik qiluvchilar maqtanadilar.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "otilib chiqadilar"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "gapiradilar"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "odobsiz"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "maqtanadilar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "qiluvchilar"
+    },
+    {
+      "surface": "און",
+      "gloss": "yomonlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:03.216899849Z",
+  "model": "glm-5.3"
+}

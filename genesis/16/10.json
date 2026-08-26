@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Yahve maligi unga dedi: koʻpaytirib koʻpaytiraman ⟨את⟩ urugʻingni, va ⟨u⟩ koʻpligidan sanalmaydi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malik"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "koʻpaytirib"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "koʻpaytiraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "urugʻingni"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "urugʻing"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "sanalmaydi"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "koʻpligidan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:18:22.400023231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Dovudga. Meni sudla, Yahve, chunki men butunligimda yurdim va Yahvega suydimsam, sirgʻalib ketmayman.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "meni sudla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "butunligimda"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "yurdim"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "va Yahvega"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "suydim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "sirgʻalib ketmayman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:18.098902420Z",
+  "model": "glm-5.3"
+}

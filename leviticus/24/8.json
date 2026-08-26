@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Shanba kuni — shanba kunida uni Yahve huzurida doim tartibga soladi — Isroil oʻgʻillaridan ⟨את⟩, abadiy ahd sifatida.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shanba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shanba"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "uni tartibga soladi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil oʻgʻillaridan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T01:21:51.505298363Z",
+  "model": "glm-5.3"
+}

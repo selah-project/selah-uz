@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va shu xalqga sen aytasansan: shunday deydi Yahve — mana, men sizlarning oldingizga ⟨את⟩ hayot yoʻlini va ⟨את⟩ oʻlim yoʻlini qoʻyaman.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Va ... ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sen aytasansan"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "mana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "qoʻyaman"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "sizlarning oldingizga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hayot yoʻli"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "hayot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ va",
+      "marks": "oʻlim yoʻli"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻl"
+    },
+    {
+      "surface": "המות",
+      "gloss": "oʻlim"
+    }
+  ],
+  "timestamp": "2026-08-26T04:48:54.465313159Z",
+  "model": "glm-5.3"
+}

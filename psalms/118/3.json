@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 118,
+  "translation": "Endi Aharon uyí ayursin: chunki abadiygacha ⟨davom etadi⟩ Uning xesedi.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "ayursin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "endi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyí"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiygacha"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "xesedi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:42.914481894Z",
+  "model": "glm-5.3"
+}

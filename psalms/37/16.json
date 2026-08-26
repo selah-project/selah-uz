@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Solihning ozgina narsasi koʻp yovuzlarning boyligidan yaxshiroqdir.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxshiroqdir"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ozgina narsasi"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "solihning"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "boyligidan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovuzlarning"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:30.144667112Z",
+  "model": "glm-5.3"
+}

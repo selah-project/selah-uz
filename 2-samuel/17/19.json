@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Va xotin oldi va ⟨את⟩ toʻqimani quduqning ogʻziga yoydi va uning ustiga yorma sepdi; va hech narsa maʼlum boʻlmadi.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Va oldi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "xotin"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "va yoydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toʻqimani"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "toʻqimani"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ogʻiz"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "quduqning"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "va sepdi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "yorma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va emas"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "maʼlum boʻldi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "narsa"
+    }
+  ],
+  "timestamp": "2026-08-26T03:15:02.435972672Z",
+  "model": "glm-5.3"
+}

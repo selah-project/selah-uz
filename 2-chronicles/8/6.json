@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 8:6",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va ⟨את⟩ Baalatni, va ⟨את⟩ Shelomoga tegishli boʻlgan barcha ombor shaharlarini, va ⟨את⟩ barcha arava shaharlarini va ⟨את⟩ otliqlar shaharlarini, va ⟨את⟩ Shelomoning butun xohishini — nimani qurishni xohlagan edi Yerushalaimda va Lvonanda va oʻz hukmronligining butun yerida.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Baalat"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha ombor shaharlari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "shaharlar"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "ombor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היו",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomoga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "barcha arava shaharlari"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "shaharlar"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "aravalarning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "otliqlar shaharlari"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "shaharlar"
+    },
+    {
+      "surface": "הפרשים",
+      "gloss": "otliqlarning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "butun xohish"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "xohish"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "xohladi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "qurishni"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaimda"
+    },
+    {
+      "surface": "ובלבנון",
+      "gloss": "va Lvonanda"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va butun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "oʻz hukmronligining"
+    }
+  ],
+  "timestamp": "2026-08-26T08:07:14.519695327Z",
+  "model": "glm-5.3"
+}

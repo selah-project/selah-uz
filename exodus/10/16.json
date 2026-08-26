@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Parho shoshildi Moshe va Aharonni chaqirishga va aydi: Men Yahve sizning Elohimlaringizga va sizlarga gunoh qildim.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "shoshildi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parho"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "chaqirishga"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Mosheni"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "va Aharonni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aydi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "gunoh qildim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "sizning Elohimlaringizga"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "va sizlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:14.100514033Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 85,
+  "translation": "Yahve ham yaxshilikni beradi, va yerimiz oʻz hosilasini beradi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "beradi"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yaxshilikni"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "va yerimiz"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "beradi"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "oʻz hosilasini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:40.273176400Z",
+  "model": "glm-5.3"
+}

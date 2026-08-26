@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 18:13",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Yahve: «Nima uchun Sarah kuldi, deb: ‘Rostdan ham, men qarigan boʻlsam tugʻadurmanmi?» — deya Avrahamga aytdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "kuldi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deb"
+    },
+    {
+      "surface": "האף",
+      "gloss": "mi"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "rostdan ham"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "tugʻadurman"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "va men"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "qariganman"
+    }
+  ],
+  "timestamp": "2026-08-26T00:35:01.399319799Z",
+  "model": "glm-5.3"
+}

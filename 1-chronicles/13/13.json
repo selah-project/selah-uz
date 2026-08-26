@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va David ⟨את⟩ sandiqni oʻziga, David shahriga surmadi, balki uni Oved-Edom gitlikning uyiga burdi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "surmadi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandiqni"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sandiqni"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "oʻziga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "balki uni burdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "gitlik"
+    }
+  ],
+  "timestamp": "2026-08-26T07:57:46.239997554Z",
+  "model": "glm-5.3"
+}

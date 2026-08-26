@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 101,
+  "translation": "Aldov qiluvchi uyimning ichida oʻtirmaydi; yolgʻonlarni soʻzlovchi koʻzlarim oldida turmaydi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oʻtirmaydi"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ichida"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "uyimning"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "aldov"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzlovchi"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "yolgʻonlarni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "turmaydi"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlarim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:57.065964250Z",
+  "model": "glm-5.3"
+}

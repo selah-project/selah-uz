@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Titranlar va gunoh qilmanglar, yuragingizda aytib, oʻrtoqqlaringiz ustida jim turinglar. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "titranlar"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... -ma"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "gunoh qilmanglar"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ayting"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "yuragingizda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "oʻrtoqqlaringiz"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "va jim turing"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:37.585422628Z",
+  "model": "glm-5.3"
+}

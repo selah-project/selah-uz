@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va Shoulga xabar qilindi ki Dovud Gatga qochgan, va u uni qidirishga yana qoʻshmadi ⟨endi⟩.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "va xabar qilindi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shoulga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "qochgan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... yoʻq"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "qoʻshmadi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "uni qidirishga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:29:35.196432993Z",
+  "model": "glm-5.3"
+}

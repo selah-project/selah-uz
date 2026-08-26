@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Sendan qoʻrquvdan tanam tikanlandi va sening hukmlaringdan men qoʻrqdim.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "tikanlandi"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "sendan qoʻrquvdan"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "tanam"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "va sening hukmlaringdan"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "men qoʻrqdim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:18.603512023Z",
+  "model": "glm-5.3"
+}

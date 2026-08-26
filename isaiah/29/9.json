@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Toʻxtangiz va hayron boʻlingiz; bilaningiz va koʻr boʻlingiz; mast boʻlingiz, lekin ⟨bu⟩ vino emas; langangiz, lekin ⟨bu⟩ kuchli ichimlik emas.",
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "Toʻxtangiz"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "va hayron boʻlingiz"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "bilaningiz"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "va koʻr boʻlingiz"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "mast boʻlingiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin … emas"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "langangiz"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin … emas"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "kuchli ichimlik"
+    }
+  ],
+  "timestamp": "2026-08-26T04:19:17.742506755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Va men Elohimning qurbongohiga boraman, quvonchimning quvonchi — Elga; va seni dutor bilan madh etaman, Elohim, Elohimim.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "va men boraman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "quvonchi"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "quvonchimning"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "va seni madh etaman"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "dutor bilan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:50.464935433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Yillarimizning kunlari — yetmish yil, agar kuchim yetib boʻlsak — sakson yil; ularning maqtanishi esa mehnat va mussibat, chunki tez oʻtib ketadi va biz uchib ketamiz.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "kunlari"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "yillarimizning"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularda"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmish"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "kuchim yetib boʻlsak"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "sakson"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "ularning maqtanishi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mehnat"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "va mussibat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גז",
+      "gloss": "kesilib"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "tez"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "va biz uchib ketamiz"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:14.726124137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Kalno Karkemishday emasmi? Arpad Hamatday emasmi? Shomron Damashqday emasmi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "emasmi"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "Karkemishday"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "<em>—<\/em>"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "Arpadday"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "<em>—<\/em>"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "Damashqday"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-08-26T04:10:42.679420552Z",
+  "model": "glm-5.3"
+}

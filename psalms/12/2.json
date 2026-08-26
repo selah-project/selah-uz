@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Qutqar, Yahve, chunki tugadi xesedli odam, chunki yoʻqoldi sodiqlar odam bolalaridan.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Qutqar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "tugadi"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "xesedli odam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "yoʻqoldi"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "sodiqlar"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "…bolalaridan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:49.137876848Z",
+  "model": "glm-5.3"
+}

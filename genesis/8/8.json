@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va u ⟨את⟩ kaptarni oʻz huzuridan yubordi — suvlar tuproq yuzidan kamayganmi-yoʻqmi, koʻrish uchun.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Va u yubordi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaptarni"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "kaptarni"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "oʻz huzuridan ⟨את⟩"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "koʻrish uchun"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "kamayganmi-yoʻqmi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "dan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tuproq"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:10.784261816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "chunki ular ⟨את⟩ Sening buyuk ismingni va ⟨את⟩ Sening qoʻl kuchli qoʻlingni, Sening choʻzilgan bilingni eshitishadi, va kelib shu uyga tomon ibodat qiladi —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "eshitishadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sening buyuk ismingni"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Sening ismingni"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Sening kuchli qoʻlingni"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Sening qoʻlingni"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "kuchli"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "va Sening biling"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "choʻzilgan"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "va kelib"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "va ibodat qiladi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    }
+  ],
+  "timestamp": "2026-08-26T03:33:05.591014254Z",
+  "model": "glm-5.3"
+}

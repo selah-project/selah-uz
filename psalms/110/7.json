@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 110,
+  "translation": "U yoʻlda soylabdan ichadi, shu sababli ⟨u⟩ boshini koʻtaradi.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "soylabdan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ichadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "shu sababli"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "koʻtaradi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:18.721463669Z",
+  "model": "glm-5.3"
+}

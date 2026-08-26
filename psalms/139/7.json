@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 139,
+  "translation": "Qayga boraman ruaxingdan? Va qayga yuzingdan qochaman?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "qayga"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "boraman"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "ruaxingdan"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "va qayga"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "yuzingdan"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "qochaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:36:03.078093314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va David bildiki, Shaul unga qarshi yomonlikni jim uyushtirmoqda; va u Avyatar kohenga aytdi: ephodni yaqin keltir.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "Va ... bildi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "unga qarshi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "jim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va ... aytdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "yaqin keltir"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ephodni"
+    }
+  ],
+  "timestamp": "2026-08-26T02:55:31.987670858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Men yuzimni ⟨את⟩ — oʻsha odamga va uning oilasiga qarataman, va ⟨את⟩ uni va ⟨את⟩ Molex ortidan zino qilish uchun uning ortidan ketgan barcha zinoqorlarni xalqining oʻrtasidan kesib tashlayman.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "qoʻyaman"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzimni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzimni"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "odamga"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "va uning oilasiga"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "va kesib tashlayman"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha zinoqorlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "zinoqorlarni"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "uning ortidan"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "zino qilish uchun"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ortidan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molex"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "oʻrtasidan"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "xalqining"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:09.914081082Z",
+  "model": "glm-5.3"
+}

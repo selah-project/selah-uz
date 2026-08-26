@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Javob bersin tilim sening soʻzingga, chunki barcha buyruqlaring — adolat.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "javob bersin"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "tilim"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "sening soʻzing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "buyruqlaring"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:35.978825620Z",
+  "model": "glm-5.3"
+}

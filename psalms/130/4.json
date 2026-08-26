@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 130,
+  "translation": "Chunki Sening huzuringda magʻfirat bor — qoʻrqsunlar ⟨Seni⟩ deb.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Sening huzuringda"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "magʻfirat"
+    },
+    {
+      "surface": "למען",
+      "gloss": "— deb"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "qoʻrqsunlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:06.937288962Z",
+  "model": "glm-5.3"
+}

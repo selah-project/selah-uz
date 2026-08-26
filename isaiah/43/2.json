@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Chunki suvlardan oʻtayotganingda ⟨את⟩ men sening bilanman, va daryolardan oʻtayotganingda ular seni bosib ketmaydi; olov ichidan oʻtayotganingda kuyabsanmi — yoʻq, va alanga seni yondirmaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "oʻtayotganingda"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvlardan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ sening bilan",
+      "marks": "men"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "va daryolardan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "ular seni bosib ketmaydi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "oʻtayotganingda"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ichidan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "kuyabsan"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "va alanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "yondirmaydi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "seni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:27:12.774237237Z",
+  "model": "glm-5.3"
+}

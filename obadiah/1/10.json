@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Seningaka Yaakov birodaringa qilgan zoʻravonliging uchun uyat seni qoplaydi, va sen abadiy kesilib tashlanursan.",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "zoʻravonliging uchun"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "sening birodaring"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "seni qoplaydi"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "uyat"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "va kesilib tashlanursan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T05:42:44.219055903Z",
+  "model": "glm-5.3"
+}

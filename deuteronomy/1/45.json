@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va qaytdingiz va Yahve yuzida yigʻladingiz, lekin Yahve ovozingizni eshitmadi va sizga quloq solmadi.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "va qaytdingiz"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "va yigʻladingiz"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "yuzida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin eshitmadi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitmadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "ovozingizni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va quloq solmadi"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "quloq solmadi"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "sizga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:46:21.814876132Z",
+  "model": "glm-5.3"
+}

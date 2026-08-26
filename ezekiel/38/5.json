@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Paras, Kush va Fut ⟨את⟩ ular bilan — hammasi qalqon va dubulgʻa ⟨bilan⟩.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "va Fut"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ular bilan",
+      "marks": "ular"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "qalqon"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "va dubulgʻa"
+    }
+  ],
+  "timestamp": "2026-08-26T05:27:22.049802353Z",
+  "model": "glm-5.3"
+}

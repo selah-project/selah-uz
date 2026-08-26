@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Sen deding: faqat lablar soʻzi — maslahat va qudrat urush uchun; endi senga kimka ishonding, chunki menda qoʻzgʻolding?",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "deding"
+    },
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lablar"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "maslahat"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "va qudrat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "urush uchun"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "endi"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "ishonding"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "qoʻzgʻolding"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menda"
+    }
+  ],
+  "timestamp": "2026-08-26T03:58:00.623011706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Eli, Eli, nima uchun meni tashlab ketding? Qutqaruvimdan uzoq — shigʻrim soʻzlari",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "meni tashlab ketding"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "uzoq"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "qutqaruvimdan"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlari"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "shigʻrim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:27.389716457Z",
+  "model": "glm-5.3"
+}

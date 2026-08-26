@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va suvlar yerdan ketma-ket chekindi, va suvlar bir yuz ellik kunning oxirida kamaydi.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "chekindi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerdan"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "borib"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "qaytib"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "kamaydi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "oxirida"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ellik"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "va yuz"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kun"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:33.756999746Z",
+  "model": "glm-5.3"
+}

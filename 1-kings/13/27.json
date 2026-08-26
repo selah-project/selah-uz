@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va oʻz oʻgʻillariga soʻzladi, dediki: „Menga ⟨את⟩ eshakni yeqing.“ Va yeqladilar.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "va soʻzladi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oʻz oʻgʻillari"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "dediki"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "yeqing"
+    },
+    {
+      "surface": "לי",
+      "gloss": "manga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eshakni"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "eshak"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "va yeqladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T08:31:56.755386424Z",
+  "model": "glm-5.3"
+}

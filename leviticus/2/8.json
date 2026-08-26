@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahvegа ushbulardan qilinadigan ⟨את⟩ minchani keltirganingda — u kohenga yaqin keltirilsin va qurbongohga yaqinlashtirilsin.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "va keltirganingda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mincha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki u"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qilinadigan"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ushbulardan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegа"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "va u yaqin keltirilsin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ga"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "va yaqinlashtirilsin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongoh"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:18.795109979Z",
+  "model": "glm-5.3"
+}

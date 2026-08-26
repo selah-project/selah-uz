@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va dala ichida bir misrlik odam topib, uni Dovud huzuriga olib kelishdi va unga non berdilar — u yedi — va unga suv ichirdilar.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "topdilar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "misrlik"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dalada"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "olib kelishdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni (Dovud huzuriga olib kelingan misrlik)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "huzuriga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "berdilar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "u yedi"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "ichirdilar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    }
+  ],
+  "timestamp": "2026-08-26T08:30:03.395156225Z",
+  "model": "glm-5.3"
+}

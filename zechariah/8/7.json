@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Shunday deydi Yahve Tsevaot: Mana, Men xalqimni ⟨את⟩ sharq eridan va quyosh botgan eridan qutqaraman.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "deydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsevaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mana, Men"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "qutqaraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqimni"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqimni"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "eridan"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "sharq"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "va eridan"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "botgan"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    }
+  ],
+  "timestamp": "2026-08-26T05:53:33.476598667Z",
+  "model": "glm-5.3"
+}

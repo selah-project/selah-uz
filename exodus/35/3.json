@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Olov yoqmang — shabbat kunida barcha turar joylaringizda.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "yoqmang"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "turar joylaringizda"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    }
+  ],
+  "timestamp": "2026-08-26T01:03:19.107326688Z",
+  "model": "glm-5.3"
+}

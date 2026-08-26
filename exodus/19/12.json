@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va xalqni ⟨את⟩ atrofdan chegaralagʻil, deyish uchun: Oʻzlaringni saqlanglar, togʻga chiqishdan va uning chekkasiga tegishdan; togʻga tegadigan har kim oʻlim bilan oʻldirilsin.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Va chegaralagʻil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xalqni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqni"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofdan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyish uchun"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "saqlanglar"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "oʻzlaringni"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "chiqishdan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻga"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "va tegishdan"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "uning chekkasiga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har kim"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "tegadigan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "togʻga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldirilsin"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:34.586665115Z",
+  "model": "glm-5.3"
+}

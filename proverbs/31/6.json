@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Taqiqlanayotganga mast qiluvchi ichimlik bering, va achchiq nefeshli uchun may.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "bering"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mast qiluvchi ichimlik"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "taqiqlanayotganga"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "may"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "achchiq ... uchun"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    }
+  ],
+  "timestamp": "2026-08-26T06:52:53.104674879Z",
+  "model": "glm-5.3"
+}

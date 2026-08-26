@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Oʻnadan oʻn ⟨ni⟩ ajratib ol — ⟨את⟩ barcha urugʻing mahsulotidan, daladan chiqadigan ⟨naslni⟩, yildan-yilga.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "oʻnadan"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "oʻn ⟨ni⟩ ajratib ol"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha urugʻing mahsuloti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "mahsulot"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "urugʻing"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "chiqadigan"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dala"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yildan"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yilga"
+    }
+  ],
+  "timestamp": "2026-08-26T08:59:37.291446233Z",
+  "model": "glm-5.3"
+}

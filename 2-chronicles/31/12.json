@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 31:12",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Va ⟨את⟩ terumani, ⟨את⟩ oʻnliklarni va ⟨את⟩ muqaddas narsalarni sodiqlik bilan keltirib qoʻydilar; ular ustiga esa boshliq — levii Konanyaxu, uning ukasi Shimi esa ikkinchi boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "va keltirib qoʻydilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "terumani"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "terumani"
+    },
+    {
+      "surface": "והמעשר",
+      "gloss": "oʻnliklarni"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "muqaddas narsalarni"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sodiqlik bilan"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "ular ustiga"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "boshliq"
+    },
+    {
+      "surface": "כונניהו",
+      "gloss": "Konanyaxu"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "levii"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "va Shimi"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "uning ukasi"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ikkinchi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:14:22.521445595Z",
+  "model": "glm-5.3"
+}

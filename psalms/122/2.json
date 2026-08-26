@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 122,
+  "translation": "Oyoqlarimiz turardi sening darvozalaringda, ey Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "turardi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "oyoqlarimiz"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "darvozalaringda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:10.195365040Z",
+  "model": "glm-5.3"
+}

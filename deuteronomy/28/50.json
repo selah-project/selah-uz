@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Xalq — qattiq yuzli, qariga yuz koʻtarmaydi va yoshga rahm qilmaydi.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qattiq"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yuzli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "yuz koʻtarmaydi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "qariga"
+    },
+    {
+      "surface": "ו",
+      "gloss": "va"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yoshga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "rahm qilmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:03:53.524993480Z",
+  "model": "glm-5.3"
+}

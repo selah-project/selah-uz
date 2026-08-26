@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "U ⟨unga⟩ aytdi: sen aytgan hamma narsani men qilaman.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "sen aytgan"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "men qilaman"
+    }
+  ],
+  "timestamp": "2026-08-26T07:14:06.857040468Z",
+  "model": "glm-5.3"
+}

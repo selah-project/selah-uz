@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 23:10",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Ular uning yalangʻochligini ochdi; uning oʻgʻillari va qizlarini oldilar, va uni qilich bilan oʻldirdilar, va u ayollar orasida ⟨⟩ mashhur boʻldi, chunki ular unga hukmlarni bajardilar.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "גלו",
+      "gloss": "ochdilar"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "uning yalangʻochligini"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "uning oʻgʻillari"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "va uning qizlari"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "oldilar"
+    },
+    {
+      "surface": "ואותה",
+      "gloss": "⟨את⟩ va uni",
+      "marks": "uni (qilich bilan oʻldirilgan obyekt)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qilich bilan"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "oʻldirdilar"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "va u boʻldi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nom (mashhur)"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "ayollar orasida"
+    },
+    {
+      "surface": "ושפוטים",
+      "gloss": "va hukmlar"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bajardilar"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:39:15.488294312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Qaysi odam ⟨the⟩ hayotni xohlaydi, kunlarni yaxshi koʻrib, yaxshini koʻrish uchun?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "qaysi"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "xohlaydi"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hayotni"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yaxshi koʻrib"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlarni"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "koʻrish uchun"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:02.028006237Z",
+  "model": "glm-5.3"
+}

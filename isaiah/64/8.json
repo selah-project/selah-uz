@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 64,
+  "translation": "Gʻazablanma juda qattiq, ey Yahve, va abadiy gunohni eslama; mana, qara, iltijo — xalqingmiz barchamiz.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "gʻazablanma"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "qattiq gʻazablanning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "qattiq"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va eslama"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "eslagin"
+    },
+    {
+      "surface": "עון",
+      "gloss": "gunohni"
+    },
+    {
+      "surface": "הן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "qara"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltijo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "xalqingmiz"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "barchamiz"
+    }
+  ],
+  "timestamp": "2026-08-26T04:34:47.784218673Z",
+  "model": "glm-5.3"
+}

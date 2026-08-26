@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Va efodning mantomini toʻqima moviydan butunlay qilgʻil.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "va qilgʻil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantomini"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "mantomini"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efodning"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "butunlay"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "moviydan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:02:27.062270097Z",
+  "model": "glm-5.3"
+}

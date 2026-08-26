@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Ular tangliklarida Yahve ga faryod qildilar va U ularni siqilmalaridan qutqazdi.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "faryod qildilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "tangliklarida"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularning"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "siqilmalaridan"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "qutqazdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:38.072614391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Farzandlar uning qornida bir-biri bilan kurashardi, va u aytdi: agar shunday boʻlsa, nega men ⟨bunday⟩ ⟨man⟩? va u Yahveni ⟨את⟩ soʻrab borish uchun ketdi.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "kurashardi"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "farzandlar"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "uning ichida"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va u aytdi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday boʻlsa"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bunday"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men ⟨man⟩"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "va u ketdi"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "soʻrab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:06.049450977Z",
+  "model": "glm-5.3"
+}

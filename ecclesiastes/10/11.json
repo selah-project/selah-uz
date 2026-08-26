@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Agar ilon tuhumlanmagan holda chaqsa, til egasiga hech qanday foyda yoʻq.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "chaqsa"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ilon"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "holda"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "tuhumlanmagan"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "foydadan"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "egasi"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "til"
+    }
+  ],
+  "timestamp": "2026-08-26T07:21:57.511607769Z",
+  "model": "glm-5.3"
+}

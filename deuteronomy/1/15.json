@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va men qabilalaringizning boshliqlarini — donishmand va eʼtirof etilgan odamlarni oldim va ularni sizning ustingizga boshliqlar qilib qoʻydim: minglar sardorlari, yuzlar sardorlari, elliklar sardorlari, oʻnlar sardorlari va qabilalaringiz uchun amaldorlar.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "va men oldim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qabilalaringizning boshliqlarini"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "boshliqlarini"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "qabilalaringizning"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "odamlarni"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "donishmand"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "va eʼtirof etilgan"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "va men qoʻydim"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "boshliqlar qilib"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "sizning ustingizga"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "sardorlari"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "minglar"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "va sardorlari"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuzlar"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "va sardorlari"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "elliklar"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "va sardorlari"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "oʻnlar"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "va amaldorlar"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "qabilalaringiz uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:48:20.000090042Z",
+  "model": "glm-5.3"
+}

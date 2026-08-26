@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va men oʻzim dedim: hikmat kuch-qudratdan yaxshiroq, ammo kambagʻalning hikmati mensimaslanadi va uning soʻzlari eshitilmaydi.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "va dedim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men oʻzim"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yaxshiroq"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "hikmat"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "kuch-qudratdan"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "ammo ... hikmati"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "kambagʻalning"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "mensimaslanadi"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "va uning soʻzlari"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "emas"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "eshitilmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:33.800051044Z",
+  "model": "glm-5.3"
+}

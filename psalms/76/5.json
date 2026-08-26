@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 76,
+  "translation": "Nur sochuvchi Sensan, ulugʻsan — oʻljali togʻlardan ⟨ulugʻroq⟩.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Nur sochuvchi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sensan"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ulugʻsan"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "togʻlardan"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "oʻljali"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:45.696170757Z",
+  "model": "glm-5.3"
+}

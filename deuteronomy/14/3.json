@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Hech qanday yomon narsani yemang.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yemang"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yemoq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hech qanday"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "yomon (jirkanch) narsa"
+    }
+  ],
+  "timestamp": "2026-08-26T01:54:51.166777483Z",
+  "model": "glm-5.3"
+}

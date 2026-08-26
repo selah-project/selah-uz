@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Zarbangni mendan uzoqlashtir; qoʻlingning urilishidan men tugadim.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "uzoqlashtir"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "menda(n)"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "zarbang"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "urilishidan"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻlingning"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "tugadim"
+    }
+  ],
+  "timestamp": "2026-08-26T08:42:45.359484639Z",
+  "model": "glm-5.3"
+}

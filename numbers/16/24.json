@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Jamiyatga gapir, degan: Korach, Datan va Aviramning turar joylari atrofidan koʻtarilib boring.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "gapir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "jamiyat"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degan"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "koʻtarilib boring"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "atrofidan"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "turar joylari"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "va Aviram"
+    }
+  ],
+  "timestamp": "2026-08-26T01:34:43.115205569Z",
+  "model": "glm-5.3"
+}

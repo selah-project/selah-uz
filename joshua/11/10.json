@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Oʻsha paytda Yehoshua qaytdi va ⟨את⟩ Xatsorni egalladi va ⟨את⟩ uning podshohini qilich bilan urdi, chunki Xatsor avvalqidan barcha shu podshohliklarning boshi edi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "oʻsha paytda"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "va egalladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xatsorni"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Xatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning podshohini"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "uning podshohini"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "urdi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qilich bilan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Xatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "avvalqidan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "podshohliklarning"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "shu"
+    }
+  ],
+  "timestamp": "2026-08-26T02:16:11.474826560Z",
+  "model": "glm-5.3"
+}

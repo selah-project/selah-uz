@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Kuch-qudratlar bilan kelaman — Adonay Yahvenikilar; solihligingni eslataman — faqat senikini.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "kelaman"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "kuch-qudratlar bilan"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "eslataman"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "solihligingni"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "faqat seniki"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:55.651189679Z",
+  "model": "glm-5.3"
+}

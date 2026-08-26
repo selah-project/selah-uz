@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Ellik boshligʻini va yuz koʻtargan zotni, maslahatchini va hunarmand donishmandni, afsungarni ⟨…⟩.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "boshligʻini"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ellik"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "va koʻtarilgan"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "va maslahatchini"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "va donishmandni"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "hunarmandlarning"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "va aqlni"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "afsungarni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:05:26.570376795Z",
+  "model": "glm-5.3"
+}

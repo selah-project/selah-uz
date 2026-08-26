@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Adoni-Bezek qochdi, va uning ortidan quvdilar, va uni ushladilar, va ⟨את⟩ qoʻllarining bosh barmoqlarini va oyoqlarini kesib tashladilar.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "va qochdi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "va quvdilar"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "uning ortidan"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "va ushladilar"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni ushladilar"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "va kesib tashladilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosh barmoqlarini"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "bosh barmoqlar"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "qoʻllarining"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "va oyoqlarining"
+    }
+  ],
+  "timestamp": "2026-08-26T08:26:50.881068340Z",
+  "model": "glm-5.3"
+}

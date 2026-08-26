@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Moshe Isroil oʻgʻillariga Pesaxni qilishlari uchun gapirdi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "qilish uchun"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesax"
+    }
+  ],
+  "timestamp": "2026-08-26T01:30:57.256512111Z",
+  "model": "glm-5.3"
+}

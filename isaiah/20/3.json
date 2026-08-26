@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Yahve dedi: Ban dam Yoʻlovchi-dedi-ki, qulim Yeshayahu yalang va yalang oyok yurganidek — uch yil davomida — Misr va Kush uchun belgi va mojiza boʻlib",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-dek"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yurgan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "qulim"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "yalang"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "va yalang oyok"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "uch"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "אות",
+      "gloss": "belgi"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "va mojiza"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustiga"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-08-26T04:15:38.928111377Z",
+  "model": "glm-5.3"
+}

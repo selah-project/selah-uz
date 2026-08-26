@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 20:16",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va ular peshin vaqtida chiqdilar; Ben-Hadad esa chodirlarda ichayotgan edi, mast — u va shohlar, oʻttiz va ikki shoh, ⟨את⟩ unga yordam beruvchi.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "va chiqdilar"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "peshin vaqtida"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "va Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ichayotgan edi"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "mast"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "chodirlarda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "va shohlar"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "oʻttiz"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "va ikki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yordam beruvchi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩uni",
+      "marks": "u (Ben-Hadad)"
+    }
+  ],
+  "timestamp": "2026-08-26T03:44:40.478371438Z",
+  "model": "glm-5.3"
+}

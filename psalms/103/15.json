@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 103,
+  "translation": "Odaminga kunlari xuddi oʻtdek: dalaning guli kabi, shunday gullaydi ⟨u⟩.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "xuddi oʻtdek"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "kunlari"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "dalaning guli kabi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dala"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "gullaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:22.631222907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Agar uning otasi butunlay rad etsa — uni unga berishni — bokira qizlarning mahri ⟨miqdoricha⟩ kumush tortib beradi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Agar"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "butunlay"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "rad etsa"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "uning otasi"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "uni berishni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "tortib beradi"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "mahri miqdoricha"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "bokira qizlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:55.073252042Z",
+  "model": "glm-5.3"
+}

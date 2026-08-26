@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Ular sening yurtda yashamaslar, shunda ular seni Menga qarshi gunxonga solmaslarlar, chunki sen ularning xudolariga xizmat qilasan, chunki ⟨u⟩ senga tuzoq boʻladi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "yashamaslar"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "sening yurtda"
+    },
+    {
+      "surface": "פן",
+      "gloss": "shonda (gunxonga solmasin deb)"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "gunxonga solmaslar"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "seni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Menga qarshi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "xizmat qilasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ularning xudolariga"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ularning xudolari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tuzoq sifatida"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:20.561929920Z",
+  "model": "glm-5.3"
+}

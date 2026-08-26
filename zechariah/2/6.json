@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va dedim: Qayerga ketmoqdasan? Va menga dedi: Yerushalaimni oʻlchash uchun — ⟨את⟩ Yerushalaimni — koʻrish uchun, qancha uning kengligi va qancha uning uzunligi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "va dedim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "qayerga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ketmoqdasan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "למד",
+      "gloss": "oʻlchash uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaimni"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaimni"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "koʻrish uchun"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "qancha"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "uning kengligi"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "va qancha"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "uning uzunligi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:51:55.211892193Z",
+  "model": "glm-5.3"
+}

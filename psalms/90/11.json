@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Kim biladi gʻazabingning qudratini? Seni qoʻrqishga tengdir gʻashabing.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "biladi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "qudratini"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "gʻazabingning"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "Senga tegishli qoʻrqishga teng"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "gʻashabing"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:14.726284151Z",
+  "model": "glm-5.3"
+}

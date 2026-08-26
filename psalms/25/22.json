@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Xalos qilgin, Elohim, ⟨את⟩ Isroilni barcha tangliklaridan.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "xalos qilgın"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "barcha … -dan"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "tangliklaridan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:42.580866048Z",
+  "model": "glm-5.3"
+}

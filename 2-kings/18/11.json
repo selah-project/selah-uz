@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Ashur maliki Isroilni Ashurga surgun qildi va ularni Balaxda, Xavor daryosi — Gozan sohilida va Midiy shaharlarida joylashtirdi.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "surgun qildi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "maliki"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "Ashurga"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "va joylashtirdi"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Balaxda"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "va Xavor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "daryosi"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "va shaharlarida"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Midiy"
+    }
+  ],
+  "timestamp": "2026-08-26T08:33:38.711438654Z",
+  "model": "glm-5.3"
+}

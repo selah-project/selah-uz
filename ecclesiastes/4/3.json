@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va ikkovlaridan ham yaxshiroq ⟨u⟩ ⟨את⟩ — ki hozirgacha boʻlmagan, ki yomon ishni koʻrmagan, ⟨את⟩ ⟨ishni⟩ — yomonni, ki quyosh ostida qilingan.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "va yaxshiroq"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ikkovlaridan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ki hozirgacha boʻlmagan (kishi)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "hozirgacha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "koʻrgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yomon ishni"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ishni"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yomon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "qilingan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:08.060305798Z",
+  "model": "glm-5.3"
+}

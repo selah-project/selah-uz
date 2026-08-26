@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Va ⟨את⟩ butun Naftalini, va ⟨את⟩ Efraym va Menashshe yerini, va ⟨את⟩ butun Yahuda yerni — oxirgi dengizgacha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun Naftalini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftalini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Efraym yerini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerini"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraym"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "va Menashshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun Yahuda yerni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengizgacha"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "oxirgi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:08:42.167364180Z",
+  "model": "glm-5.3"
+}

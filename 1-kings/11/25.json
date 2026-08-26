@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va u Isroilga qarshi dushman boʻldi Shelomoning barcha kunlari, ⟨את⟩ yomonlikni qoʻshib — Hadad qilganni; va u Isroildan nafratlandi va Aram ustidan hukm surdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "qarshi dushman"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isroilga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlari"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yomonlikni"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yomonlikni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "nafratlandi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Isroildan"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "va hukm surdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-08-26T03:37:06.381625042Z",
+  "model": "glm-5.3"
+}

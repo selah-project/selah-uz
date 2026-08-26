@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "U soʻzini yuboradi va ularni eritadi; U shamolini esdiradi — suvlar oqadi.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "yuboradi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "soʻzini"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "va ularni eritadi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "esdiradi"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "shamolini"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "oqadi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:09.741434413Z",
+  "model": "glm-5.3"
+}

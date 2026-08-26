@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Moshe xalq oldiga tushdi va ularga aytdi.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "tushdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ularga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:10.854498925Z",
+  "model": "glm-5.3"
+}

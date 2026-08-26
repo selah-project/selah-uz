@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va ⟨את⟩ uning ikki oʻgʻlini — ulardan birining ismi Gershom, chunki u: «Musofir boʻldim begona yerda», degan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning ikki oʻgʻlini"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "uning oʻgʻli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ismi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birining"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "degan"
+    },
+    {
+      "surface": "גר",
+      "gloss": "musofir"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "boʻldim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "begona"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:11.996198083Z",
+  "model": "glm-5.3"
+}

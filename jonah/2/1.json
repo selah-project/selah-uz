@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve ⟨את⟩ Yunusni yutib yuborish uchun katta baliq tayyorladi; va Yunus baligʻning qornida uch kun va uch tun boʻldi.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "tayyorladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "דג",
+      "gloss": "baliq"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "katta"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "yutib yuborish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yunusni"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunus"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunus"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "qornida"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "baligʻning"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uch"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kun"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "va uch"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "tun"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:13.133501726Z",
+  "model": "glm-5.3"
+}

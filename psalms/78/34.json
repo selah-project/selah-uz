@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Agar U ularni o'ldirsa, ⟨unda⟩ Uni izlagan edilar va qaytgan edilar hamda Elni ertalab so'ragan edilar.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "ularni o'ldirsa"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "Uni izlagan edilar"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "qaytgan edilar"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "ertalab so'ragan edilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:53.860255940Z",
+  "model": "glm-5.3"
+}

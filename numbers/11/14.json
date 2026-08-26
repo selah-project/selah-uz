@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Men yolgʻiz oʻzim bu butun xalqni ⟨את⟩ koʻtara olmayman, chunki u mendan ogʻir.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "olmayman"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "koʻtara olmayman"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "yolgʻiz oʻzim"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "koʻtarmoq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bu butun xalq"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ogʻir"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:32:50.690844715Z",
+  "model": "glm-5.3"
+}

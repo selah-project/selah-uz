@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va Shallum ⟨את⟩ Xilkiyani dunyoga keltirdi, Xilkiya esa ⟨את⟩ Azarjani dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Xilkiyani"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Xilkiyani"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "Xilkiya esa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjani"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjani"
+    }
+  ],
+  "timestamp": "2026-08-26T07:54:41.362995155Z",
+  "model": "glm-5.3"
+}

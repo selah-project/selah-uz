@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 76,
+  "translation": "Elohim hukm uchun, yerdagi barcha kamtarlarni qutqarish uchun turganda. Sela.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "turganda"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "hukm uchun"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "qutqarish uchun"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "kamtarlarni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerdagi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:17.719145600Z",
+  "model": "glm-5.3"
+}

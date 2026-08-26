@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Madhi aytishsinlar Uni osmonlar va yer, dengizlar va ularda sudralib yuruvchi barcha jonivorlar.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "madhi aytishsinlar Uni"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "va yer"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dengizlar"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "sudralib yuruvchi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ularda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:35.416002058Z",
+  "model": "glm-5.3"
+}

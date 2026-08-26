@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 84,
+  "translation": "Ular kuchdan kuchga boradilar, har biri Tsiyonda Elohim oldida koʻrinadi.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "boradilar"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "kuchdan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "kuchga"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "koʻrinadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyonda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:44.040532980Z",
+  "model": "glm-5.3"
+}

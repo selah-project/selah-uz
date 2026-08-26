@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Va boshlarini qiradilar ⟨את⟩ emas, va sochlarini oʻstirib yubormaydilar; boshlarini ⟨את⟩ faqat qirqib turadilar.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "Va boshlarini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "qiradilar"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "va sochlarini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "oʻstirib yuboradilar"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "qirqish"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "qirqib turadilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boshlarini (ראשיהם)"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "boshlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T05:31:29.675255477Z",
+  "model": "glm-5.3"
+}

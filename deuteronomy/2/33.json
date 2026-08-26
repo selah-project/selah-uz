@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve, Elohimimiz, uni bizning oldimizga berdi; va biz uni, uning oʻgʻillarini va butun xalqini urub yiqitdik.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "va uni berdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimiz"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "bizning oldimizga"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "va urub yiqitdik"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning oʻgʻillarini"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "uning oʻgʻillarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun xalqini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uning xalqini"
+    }
+  ],
+  "timestamp": "2026-08-26T01:48:03.725333305Z",
+  "model": "glm-5.3"
+}

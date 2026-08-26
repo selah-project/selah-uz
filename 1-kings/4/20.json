@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 4:20",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Yehuda va Isroil koʻp ⟨edi⟩ — dengiz boʻyidagi qumdek koʻplikda; yeyib, ichib va xursand ⟨boʻlib turardi⟩.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "va"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "qumdek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "boʻyidagi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "koʻplikda"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "yeyib"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ichib"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "xursand"
+    }
+  ],
+  "timestamp": "2026-08-26T03:28:08.913214132Z",
+  "model": "glm-5.3"
+}

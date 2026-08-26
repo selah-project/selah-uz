@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Osmonlarda ogʻizlarini joyladilar, tillari esa yer boʻylab yuradi.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "joyladilar"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "osmonlarda"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ogʻizlarini"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "tillari"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "yuradi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yer boʻylab"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:40.480936255Z",
+  "model": "glm-5.3"
+}

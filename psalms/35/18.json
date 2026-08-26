@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Seni katta jamoatda olqilayman, kuchli xalq orasida seni madh etaman.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "olqilayman"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "jamoatda"
+    },
+    {
+      "surface": "רב",
+      "gloss": "katta"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "xalq orasida"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "kuchli"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "madh etaman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:59.331841185Z",
+  "model": "glm-5.3"
+}

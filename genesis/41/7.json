@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 41:7",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va nozik boshoqlar ⟨את⟩ yetti semiz va toʻla boshoqlarni yutib yubordi; va Paroh uygʻondi, va mana — ⟨bu⟩ tush ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "ותבלענה",
+      "gloss": "va yutib yubordi"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "boshoqlar"
+    },
+    {
+      "surface": "הדקות",
+      "gloss": "nozik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yetti semiz va toʻla boshoqlarni"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "boshoqlarni"
+    },
+    {
+      "surface": "הבריאות",
+      "gloss": "semiz"
+    },
+    {
+      "surface": "והמלאות",
+      "gloss": "va toʻla"
+    },
+    {
+      "surface": "וייקץ",
+      "gloss": "va uygʻondi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "va mana"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "tush"
+    }
+  ],
+  "timestamp": "2026-08-26T00:45:15.243731680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va sen oʻzingga qoʻshin tayinla — senga ⟨את⟩ tushgan qoʻshindek; va ot — otga, va arava — aravaga; va biz ular bilan tekislikda urushamiz: magar ulardan kuchli boʻlmaymizmi? Va u ovozlariga quloq soldi va shunday qildi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Va sen"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "tayinla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzingga"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qoʻshin"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "qoʻshindek"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "tushgan"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩-sendan",
+      "marks": "senga"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "va ot"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "otga"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "va arava"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "aravaga"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "va urushamiz"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "tekislikda"
+    },
+    {
+      "surface": "אם",
+      "gloss": "magar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "kuchlimiz"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "va quloq soldi"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "ovozlariga"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "va qildi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    }
+  ],
+  "timestamp": "2026-08-26T03:45:48.601801006Z",
+  "model": "glm-5.3"
+}

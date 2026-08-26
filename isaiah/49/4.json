@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Va men dedim: Boʻshga toqdilar, betartiblikka va behudaga kuchimni sarf qildim; ammo haqiqatan hukmim ⟨את⟩ Yahve bilan va mehnatim ⟨את⟩ Elohim bilan.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Va men"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "dedim"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "boʻshga"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "toqdilar"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "betartiblikka"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "va behudaga"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "kuchimni"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "sarf qildim"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "ammo haqiqatan"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve bilan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "va mehnatim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim bilan"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T04:30:13.599088437Z",
+  "model": "glm-5.3"
+}

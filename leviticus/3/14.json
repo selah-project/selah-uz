@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va undan olov-qurbonini, Yahve uchun qurbonini yaqinlashtiradi: ⟨את⟩ ichaklarni qoplaydigan yogʻni va ⟨את⟩ butun ichaklar ustidagi yogʻni.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "va yaqinlashtiradi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "uning qurboni"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "olov-qurboni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yogʻni"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yogʻ"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "qoplaydigan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ichaklarni"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ichaklar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun yogʻni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "yogʻ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidagi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ichaklar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:09:24.141538759Z",
+  "model": "glm-5.3"
+}

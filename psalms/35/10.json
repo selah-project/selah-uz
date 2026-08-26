@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Barcha suyaklarim aytdi: Yahve, kim ⟨Senga⟩ oʻxshaydi — beozorni qutqaruvchi undan kuchlidir, va beozorni ham, miskinni ham uni talonchiqsidir?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Barcha"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "suyaklarim"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "⟨Senga⟩ oʻxshaydi"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "qutqaruvchi"
+    },
+    {
+      "surface": "עני",
+      "gloss": "beozorni"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "undan kuchlidir"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "va beozorni"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "miskinni"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "uni talonchiqsidir"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:50.518731271Z",
+  "model": "glm-5.3"
+}

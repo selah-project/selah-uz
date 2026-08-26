@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va yana quyosh ostida ko'rdim: adolat joyida — u yerda yovuzlik, va odillik joyida — u yerda yovuzlik.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "Va yana"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ko'rdim"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "joyida"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "yovuzlik"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "va joyida"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "odillik"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "yovuzlik"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:47.776723180Z",
+  "model": "glm-5.3"
+}

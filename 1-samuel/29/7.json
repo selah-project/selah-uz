@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va endi qayt va tinchlik bilan bor, va Filistin sarkardalarining koʻzida yomonlik qilma.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Va endi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "qayt"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "va … bor"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "tinchlik bilan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … — ma"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "qil"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yomonlik"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzida"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "sarkardalarining"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistin"
+    }
+  ],
+  "timestamp": "2026-08-26T03:01:49.189372656Z",
+  "model": "glm-5.3"
+}

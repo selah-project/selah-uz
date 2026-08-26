@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Yovlar bunday ⟨emas⟩, aksincha — shamol haydab yuboradigan poʻstdek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bunday"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "Yovlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "aksincha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "poʻstdek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…digan"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "haydab yuboradigan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "shamol"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:10.913399818Z",
+  "model": "glm-5.3"
+}

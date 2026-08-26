@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Aytdim: Elohimimga — menga Oʻrta kunlarimda olib qoʻyilmagin; avlodlar avlodlari boʻyicha Sening yillaring ⟨turadi⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "aytdim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Elohimimga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "olib qoʻyilmagin"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "meni olib"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlarimning"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "avlodlari boʻyicha"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "Sening yillaring"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:16.735078971Z",
+  "model": "glm-5.3"
+}

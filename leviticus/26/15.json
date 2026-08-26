@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va agar chunkotimni yomon koʻrsangiz va agar hukmlarimni ⟨את⟩ nefeshlaringiz jiriksa — barcha amrlarimni ⟨את⟩ bajarmaslikka, ahdimni ⟨את⟩ buzganingiz uchun —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "chunkotimni"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "yomon koʻrsangiz"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hukmlarimni"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "hukmlarimni"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "jiriksa"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "nefeshlaringiz"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "bajarmaslikka"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "bajarish"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha amrlarimni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "amrlarimni"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "buzganingiz uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ahdimni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ahdimni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:22:32.673686363Z",
+  "model": "glm-5.3"
+}

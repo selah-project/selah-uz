@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Isroil ⟨את⟩ oʻz Yaratuvchisini unutdi va saroylar qurdi, va Yahudo mustahkam shaharlarni koʻpaytirdi; Men uning shaharlariga oʻt yuboraman va u uning qalʼalarini yeydi.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "va unutdi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz Yaratuvchisini"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "oʻz Yaratuvchisini"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "va qurdi"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "saroylar"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "va Yahudo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "koʻpaytirdi"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "shaharlarni"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "mustahkam"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "",
+      "skip": true
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "va Men yuboraman"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "uning shaharlariga"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "va u yeydi"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "uning qalʼalarini"
+    }
+  ],
+  "timestamp": "2026-08-26T05:35:53.407886270Z",
+  "model": "glm-5.3"
+}

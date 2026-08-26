@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Agar uni yubormasang, tushmaymiz, chunki ⟨the⟩ odam bizga aytdi: Ukning yuzini koʻrmaysizlar, agar ukangiz sizlar bilan ⟨את⟩ boʻlmasa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "yubormasang"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "yubormoq"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "tushmaymiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "the odam"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "koʻrmaysizlar"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "agar… boʻlmasa"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ukangiz"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "sizlar bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:49.491011933Z",
+  "model": "glm-5.3"
+}

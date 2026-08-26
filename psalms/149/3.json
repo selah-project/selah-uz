@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 149,
+  "translation": "Uning nomini raqs bilan maqtasinlar, doira va arfa bilan unga kuylasinlar.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "maqtasinlar"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning nomini"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "raqs bilan"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "doira bilan"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "va arfa bilan"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "kuylasinlar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:37.752060729Z",
+  "model": "glm-5.3"
+}

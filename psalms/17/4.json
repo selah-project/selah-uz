@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Odamlar ishlari haqida — lablaring soʻzi boʻyicha men zoʻravon yoʻllaridan saqlandim.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "ishlari haqida"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "soʻzi boʻyicha"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lablaring"
+    },
+    {
+      "surface": "אני",
+      "gloss": "men"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "saqladim"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "yoʻllaridan"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "zoʻravon"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:56.647927013Z",
+  "model": "glm-5.3"
+}

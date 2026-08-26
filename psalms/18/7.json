@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Tanglikda men Yahveni chaqirdim va Elohimimga nola qildim; U saroyidan mening ovozimni eshitdi va mening nolam Uning yuziga oldin keldi, qulogʻiga.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "Tanglikda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "men"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "chaqirdim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va ... ga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimimga"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "nola qildim"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eshitdi"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "saroyidan"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "tovushimni"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "va nolam"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "Uning yuziga oldin"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "qulogʻiga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:01:29.713517611Z",
+  "model": "glm-5.3"
+}

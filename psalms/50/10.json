@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Chunki Menga ⟨egadir⟩ oʻrmonning barcha hayvonlari, ming togʻ ustidagi mol-jonlar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Menga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "hayvonlari"
+    },
+    {
+      "surface": "יער",
+      "gloss": "oʻrmonning"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "mol-jonlar"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "togʻ ustidagi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:07.222314313Z",
+  "model": "glm-5.3"
+}

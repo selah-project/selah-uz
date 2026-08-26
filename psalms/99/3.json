@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 99,
+  "translation": "Ismingni ulugʻlasinlar — buyuk va dahshatli; muqaddasdir U.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "ulgʻlasinlar"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Ismingni"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "va dahshatli"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "muqaddasdir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "U"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:34.241844295Z",
+  "model": "glm-5.3"
+}

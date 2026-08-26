@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 1:22",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Paroh butun xalqiga buyruq berdi, deyishicha: har bir tugʻilgan oʻgʻil — daryoga tashlanglar uni, har bir qizni esa tirik saqlanglar.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "buyruq berdi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paroh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "xalqiga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyishicha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "tugʻilgan"
+    },
+    {
+      "surface": "היארה",
+      "gloss": "daryoga"
+    },
+    {
+      "surface": "תשליכהו",
+      "gloss": "tashlanglar uni"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "qiz"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "tirik saqlanglar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:48:43.983831034Z",
+  "model": "glm-5.3"
+}

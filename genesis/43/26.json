@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Va Yosuf uyga kirdi, va ular unga qoʻllaridagi ⟨את⟩ tuhifani uyga olib kirdilar, va unga yerga qadar tavozé qildilar.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "va kirdi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosuf"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "uyga"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "va olib kirdilar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tuhifani"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "tuhifa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "qoʻllarida"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "uyga"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "va tavozé qildilar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerga qadar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:10.690819823Z",
+  "model": "glm-5.3"
+}

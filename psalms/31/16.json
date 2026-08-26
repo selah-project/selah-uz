@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Qoʻlingda ⟨⟩ vaqtlarim; dushmanlarim qoʻlidan va taʼqib qiluvchilarimdan qutqar meni.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Qoʻlingda"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "vaqtlarim"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "qutqar meni"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "va taʼqib qiluvchilarimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:34.346544579Z",
+  "model": "glm-5.3"
+}

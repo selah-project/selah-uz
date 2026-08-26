@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Sindir yovvoyining qoʻl-bilagin va yovuzni; uning yovuzligini soʻrab top — ⟨hech narsa⟩ topilmaydi.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Sindir"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "qoʻl-bilagin"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yovvoyi"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "va yovuz"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "soʻrab top"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "uning yovuzligini"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hech"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "topilmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:59.134445034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Sen Elsan, moʻjiza qiluvchi; xalqlar orasida kuchingni maʼlum qilding.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Elsan"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "moʻjiza"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "maʼlum qilding"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "xalqlar orasida"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "kuchingni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:22.147180716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 146,
+  "translation": "Yahve ⟨את⟩ musofirlarni saqlaydi, yetim va beva ayolni tik turʻgʻizadi, ammo reshlarning yoʻlini buzib qoʻyadi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saqlaydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "musofirlarni"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "musofirlarni"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yetim"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "va beva ayolni"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "tik turʻgʻizadi"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ammo yoʻlini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "reshlarning"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "buzib qoʻyadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:37:16.497442477Z",
+  "model": "glm-5.3"
+}

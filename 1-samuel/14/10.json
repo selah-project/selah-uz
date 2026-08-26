@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va agar ular shunday desalar: „Bizning ustimizga chiqib kelinglar“, biz chiqamiz, chunki Yahve ularni qoʻlimizga bergan — va bu bizga ⟨⟩ belgi boʻladi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "va agar"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "desalar"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "chiqib kelinglar"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "bizning ustimizga"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "biz esa chiqamiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ularni bergan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "qoʻlimizga"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "va bu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "האות",
+      "gloss": "belgi"
+    }
+  ],
+  "timestamp": "2026-08-26T09:00:56.936028852Z",
+  "model": "glm-5.3"
+}

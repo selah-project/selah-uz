@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Isroil oʻgʻillariga gapir, va Men uchun teruma olsinlar; qalbi uni erkin qildirgan har bir kishidan ⟨את⟩ oltinga oʻxshab⟩ Menim terumamni olinglar.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "gapir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "olsinlar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Men uchun"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ dan",
+      "marks": "har bir kishi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishidan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimningki"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "uni erkin qildirgan"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "qalbi"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "olinglar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menim terumamni"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "Menim terumamni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:00:15.637461851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va Yahve ⟨את⟩ Yahudoni muqarrar ulushini muqaddas tuproq ustida meros qilib oladi va Yerushalaimni yana saylaydi.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "meros qilib oladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahudo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahudo"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "muqarrar ulushi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "tuproq"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "muqaddas"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "va saylaydi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaimni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:52:13.163333408Z",
+  "model": "glm-5.3"
+}

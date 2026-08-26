@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Yahve esa dengizga buyuk shamol otdi, va dengizda buyuk boʻron boʻldi, va kema singib ketishga hisoblangan edi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "va Yahve"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "otdi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "shamol"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengiz"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "סער",
+      "gloss": "boʻron"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "בים",
+      "gloss": "dengizda"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "va kema"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "hisoblangan edi"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "singib ketishga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:44:22.382029808Z",
+  "model": "glm-5.3"
+}

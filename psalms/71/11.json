@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Dedilar: „Elohim uni tark qipti — quvgʻin qilinglar va uni ushlanglar, chunki qutqaruvchi yoʻq“.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "dedilar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "tark qipti"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "quvgʻin qilinglar"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "va uni ushlanglar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "qutqaruvchi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:37.133766739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Taʼmsiz narsa tuzsiz yeyilmaydimi? Yoki chiromiqda ⟨bormi⟩ taʼm?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "yeyilmaydimi"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "taʼmsiz narsa"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "tuzsiz"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "tuz"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨bormi⟩"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "taʼm"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "chiromiqda"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "chiromiq"
+    }
+  ],
+  "timestamp": "2026-08-26T06:55:53.003226742Z",
+  "model": "glm-5.3"
+}

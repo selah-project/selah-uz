@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Shamolni kuzatgan ekinsa urmaydi, bulutlarga qaragan oʻrolmaydi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "kuzatgan"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "shamolni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ekinmaydi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "qaragan"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "bulutlarga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "oʻrolmaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:29.942080900Z",
+  "model": "glm-5.3"
+}

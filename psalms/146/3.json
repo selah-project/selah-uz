@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 146,
+  "translation": "Ishonmanglar nodiblarga, odam oʻgʻliga — unga qutqaruv yoʻq.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ishonmanglar"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "⟨ishonmanglar⟩"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "nodiblarga"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "oʻgʻliga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "qutqaruv"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:16.264826690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Yahve, kuchiingda quvonadi malik, va qutqarishingda — qanchalar sevinib gʻalayon qiladi u!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "kuchiingda"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "quvonadi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "malik"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "va qutqarishingda"
+    },
+    {
+      "surface": "מה",
+      "gloss": "qanchalar"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "sevinib gʻalayon qiladi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:34.545791545Z",
+  "model": "glm-5.3"
+}

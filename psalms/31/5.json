@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Meni chiqar bu — men uchun yashirilgan toʻrdan, chunki Sen — mening qalʼamsan.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "Meni chiqar"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "toʻrdan"
+    },
+    {
+      "surface": "זו",
+      "gloss": "bu"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "yashirilgan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "men uchun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "mening qalʼamsan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:23.621026102Z",
+  "model": "glm-5.3"
+}

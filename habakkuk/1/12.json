@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 1:12",
+  "book": "habakkuk",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Miqdad Sen qadim zamondan emasmisan, Yahve, Elohimim, Muqaddisim? Oʻlmaymiz. Yahve, uni hukm uchun belgilading, va Tosh — tanbeh berish uchun uni asosladin.",
+  "tokens": [
+    {
+      "surface": "הֲלוֹא",
+      "gloss": "miqdad emasmisan"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "מִקֶּדֶם",
+      "gloss": "qadim zamondan"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אֱלֹהַי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "קְדֹשִׁי",
+      "gloss": "Muqaddisim"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נָמוּת",
+      "gloss": "oʻlmaymiz"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לְמִשְׁפָּט",
+      "gloss": "hukm uchun"
+    },
+    {
+      "surface": "שַׂמְתּוֹ",
+      "gloss": "uni belgilading"
+    },
+    {
+      "surface": "וְצוּר",
+      "gloss": "va Tosh"
+    },
+    {
+      "surface": "לְהוֹכִיחַ",
+      "gloss": "tanbeh berish uchun"
+    },
+    {
+      "surface": "יְסַדְתּוֹ",
+      "gloss": "uni asosladin"
+    }
+  ],
+  "timestamp": "2026-08-26T05:47:54.343423127Z",
+  "model": "glm-5.3"
+}

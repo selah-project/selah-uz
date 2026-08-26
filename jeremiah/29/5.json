@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Uylar quring va yashang; va bogʻlar eking va ⟨את⟩ mevasini yeng;",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "quring"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "uylar"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "va yashang"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "va eking"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "bogʻlar"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "va yeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mevasini"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "mevasini"
+    }
+  ],
+  "timestamp": "2026-08-26T08:37:18.339896670Z",
+  "model": "glm-5.3"
+}

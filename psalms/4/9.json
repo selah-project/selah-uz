@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Tinchlikda birga yotaman va uxlayman, chunki Sen, Yahve, yolgʻiz ⟨oʻzing⟩, xavfsizlikda yashatasan ⟨meni⟩.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "Tinchlikda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "birga"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "yotaman"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "va uxlayman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "yolgʻiz"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "xavfsizlikda"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "yashatasan ⟨meni⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:10.088504953Z",
+  "model": "glm-5.3"
+}

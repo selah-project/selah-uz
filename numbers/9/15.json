@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 9:15",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va ⟨the⟩ kunning — maʼbad chodirini tikkan kunida — bulut ⟨את⟩ maʼbad chodirini, yaʼni guvohlik chodirini qopladi; va kechqurun chodir ustida olov koʻrinishida boʻlar edi, tong otguncha.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Va ⟨the⟩ kunning"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "tikkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maʼbad chodirini"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "maʼbad chodirini"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "qopladi"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "bulut"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maʼbad chodirini"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "maʼbad chodirini"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "yaʼni chodir"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "guvohlikning"
+    },
+    {
+      "surface": "ובערב",
+      "gloss": "va kechqurun"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlar edi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chodir"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "koʻrinishida"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—guncha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tong ot"
+    }
+  ],
+  "timestamp": "2026-08-26T01:30:45.054344366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va oʻzi uchun mingboshilar va ellikboshilar qoʻyishga, va uning haydashini haydashga, va uning hosilini yigʻishga, va uning urush asboblarini va uning arava asboblarini yasashga.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "Va qoʻyishga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "oʻzi uchun"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "boshliqlar"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ming"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "va boshliqlar"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ellik"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "va haydashga"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "uning haydashi"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "va yigʻishga"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "uning hosili"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "va yasashga"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "asboblar"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "uning urushi"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "va asboblar"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "uning aravasi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:43:24.458441474Z",
+  "model": "glm-5.3"
+}

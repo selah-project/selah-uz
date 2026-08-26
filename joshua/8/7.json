@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va sizlar poyladan turasizlar va shaharni ⟨את⟩ egallaysizlar, va Yahve, Elohimlaringiz, uni qoʻlingizga beradi.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Va sizlar"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "turasizlar"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "poyladan"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "va egallaysizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shaharni"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "shahar"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "va beradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimlaringiz"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "qoʻlingizga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:14:03.850887357Z",
+  "model": "glm-5.3"
+}

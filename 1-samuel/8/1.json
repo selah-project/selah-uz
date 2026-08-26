@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va boʻldiki, Shemuel qariganida, u oʻgʻillarini Isroil uchun sudyalar qilib qoʻydi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldiki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "qachonki"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "qariganida"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "u qoʻydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻgʻillarini"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "oʻgʻillarini"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "sudyalar"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Isroil uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T02:43:53.132046836Z",
+  "model": "glm-5.3"
+}

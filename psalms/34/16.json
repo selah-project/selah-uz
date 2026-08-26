@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 34,
+  "translation": "Yahvening koʻzlari solihlarga ⟨qaratilgan⟩ va quloqlari ularning nogʻorasiga ⟨qaratilgan⟩.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "koʻzlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨qaratilgan⟩ solihlarga"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "solihlarga"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "va quloqlari"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨qaratilgan⟩"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ularning nogʻorasiga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:05:02.028532357Z",
+  "model": "glm-5.3"
+}

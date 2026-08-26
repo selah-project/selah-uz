@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ⟨ular⟩ xalqimning goʻshtini yeb, ularning terisini ustlaridan shilib, va ⟨את⟩ ularning suyaklarini sindirib, achchiqron ichidagi goʻshtdek qozonda pishirilgandek yoyib qoʻyadilar.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Va ⟨ular⟩ —"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "yeb"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "goʻshtini"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqimning"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "va ularning terisini"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "ustlaridan"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "shilib"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ularning suyaklarini"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "ularning suyaklarini"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "sindirib"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "va yoyib qoʻyadilar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "...dek"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "qozonda"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "va goʻshtdek"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ichidagi"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "achchiqron"
+    }
+  ],
+  "timestamp": "2026-08-26T05:45:07.526096183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Mashinachi uchun, Almut Laben ustiga, Dovudning mazmuri.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mashinachi uchun"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Almut"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmuri"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudning"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:24.613661075Z",
+  "model": "glm-5.3"
+}

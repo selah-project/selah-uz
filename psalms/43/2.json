@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Chunki Sen — menim mustahkam panohimning Elohimi; nima uchun meni tashlab yubordinging? Nima uchun dushman siqib turganida qaygʻu bilan yuraman?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "menim mustahkam panohim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "meni tashlab yubordinging"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nima uchun"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "qaygʻu bilan (qorayib)"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "yuraman"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "siqib turganida"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dushman"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:50.464475943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Musibatim kunida Adonayni izladim; qoʻlim tunda choʻzildi va toʻxtamadi; nefeshim tasallilanishdan bosh tortdi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "musibatimning"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "izladim"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "qoʻlim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "choʻzildi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "toʻxtadi"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "bosh tortdi"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "tasallilanishdan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:45.264424932Z",
+  "model": "glm-5.3"
+}

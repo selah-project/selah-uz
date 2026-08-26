@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Isroil oʻgʻillari ⟨את⟩ Baallarni va ⟨את⟩ Ashtarotlarni olib tashladilar, va yolgʻiz Yahvaga xizmat qildilar.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "olib tashladilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baallarni"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baallarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Ashtarotlarni"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "Ashtarotlarni"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "xizmat qildilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahvaga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahva"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yolgʻiz"
+    }
+  ],
+  "timestamp": "2026-08-26T02:45:03.592440104Z",
+  "model": "glm-5.3"
+}

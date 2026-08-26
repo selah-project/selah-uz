@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 1:11",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va u qaytib yana unga boshqa ellik boshligʻini va uning elligini yubordi; va ⟨u⟩ javob berdi va unga gapirdi: Elohim odami, shoh shunday dedi: darhol tush!",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaytib yana"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "va yubordi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "שר",
+      "gloss": "boshligʻi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ellik"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "וחמשיו",
+      "gloss": "va uning elligi"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "va gapirdi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odami"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "darhol"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "tush"
+    }
+  ],
+  "timestamp": "2026-08-26T03:47:19.135134820Z",
+  "model": "glm-5.3"
+}

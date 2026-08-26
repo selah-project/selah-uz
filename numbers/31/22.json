@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Faqat ⟨את⟩ oltin va ⟨את⟩ kumush, ⟨את⟩ mis, ⟨את⟩ temir, ⟨את⟩ qalay va ⟨את⟩ qoʻrgʻoshin —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oltin"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "kumush"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mis"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "mis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "temir"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "temir"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qalay"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "qalay"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "qoʻrgʻoshin"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "qoʻrgʻoshin"
+    }
+  ],
+  "timestamp": "2026-08-26T01:43:35.293425786Z",
+  "model": "glm-5.3"
+}

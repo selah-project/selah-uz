@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va oʻzingizni muqaddas qiling va muqaddaslar boʻlinglar, chunki Men Yahve, Elohimingizman.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "oʻzingizni muqaddas qiling"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "va boʻlinglar"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "muqaddaslar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohimingizman"
+    }
+  ],
+  "timestamp": "2026-08-26T01:20:09.914487889Z",
+  "model": "glm-5.3"
+}

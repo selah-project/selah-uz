@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va surgundagilarga gapirdim — Yahvening barcha soʻzlarini, ⟨את⟩ u menga koʻrsatgan narsalarning barchasini.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "va gapirdim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "surgundagilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "barcha soʻzlarni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "soʻzlari"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u menga koʻrsatgan"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "koʻrsatdi menga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:11:15.170785251Z",
+  "model": "glm-5.3"
+}

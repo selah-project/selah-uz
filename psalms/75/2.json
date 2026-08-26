@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 75,
+  "translation": "Senga shukur bildirdik, ey Elohim, shukur bildirdik, — Isming yaqindir: moʻjizalaringni hikoya qiladilar.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "shukur bildirdik"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "shukur bildirdik"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "yaqindir"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Isming"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "hikoya qiladilar"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "moʻjizalaringni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:01.804902824Z",
+  "model": "glm-5.3"
+}

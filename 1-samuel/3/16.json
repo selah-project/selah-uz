@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Eliy Shemuëlni chaqirdi: „Shemuël, oʻgʻlim!“ U esa: „Mana men“, — dedi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eliy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuëlni"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuëlni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻlim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Mana men"
+    }
+  ],
+  "timestamp": "2026-08-26T08:28:31.717778868Z",
+  "model": "glm-5.3"
+}

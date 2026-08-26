@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Darvozalarni ochinglar, va solih xalq kirsin, — sodiqlikni saqlovchi.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "ochinglar"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "darvozalarni"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "va kirsin"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "solih"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saqlovchi"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "sodiqlikni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:17:31.381104900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va u Yehudoga ota-bobolarining Elohimi Yahveni ⟨את⟩ izlashni va Tavrot va amrni bajarishni buyurdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Yehudoga"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "izlashni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ota-bobolarining"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "va bajarishni"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tavrotni"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "va amrni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:08:37.925469215Z",
+  "model": "glm-5.3"
+}

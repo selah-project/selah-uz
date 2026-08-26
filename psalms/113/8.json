@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 113,
+  "translation": "Uni saroylar yonida, oʻz xalqining saroylari yonida oʻtqizish uchun",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "oʻtqizish uchun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yonida"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "saroylar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yonida"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "saroylari"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "oʻz xalqining"
+    }
+  ],
+  "timestamp": "2026-08-26T09:09:13.174125232Z",
+  "model": "glm-5.3"
+}

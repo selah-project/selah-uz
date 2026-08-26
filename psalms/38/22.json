@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Meni tashlab ketma, Yahve, Elohimim, mendan uzoqlashma.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "meni tashlab ket"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "uzoqlash"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mendan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:06:34.078885086Z",
+  "model": "glm-5.3"
+}

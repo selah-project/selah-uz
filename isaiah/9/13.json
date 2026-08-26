@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va Yahve Isroildan kesib tashladi ⟨the⟩ boshni va ⟨the⟩ dumni, ⟨the⟩ xurma bargini va ⟨the⟩ qamishni — bir kunda.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "kesib tashladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Isroildan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshni"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "va dumni"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "xurma bargini"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "va qamishni"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    }
+  ],
+  "timestamp": "2026-08-26T04:11:37.130755363Z",
+  "model": "glm-5.3"
+}

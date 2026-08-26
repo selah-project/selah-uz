@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va podshoh aytdi: Chetga oʻt, shu yerda tur. Va ⟨u⟩ chetga oʻtdi va turdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "סב",
+      "gloss": "chetga oʻt"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "tur"
+    },
+    {
+      "surface": "כה",
+      "gloss": "shu yerda"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "va chetga oʻtdi"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "va turdi"
+    }
+  ],
+  "timestamp": "2026-08-26T03:18:30.746796295Z",
+  "model": "glm-5.3"
+}

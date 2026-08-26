@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va ⟨את⟩ ikkinchi qoʻyni olasan, va Aharon va uning oʻgʻillari ⟨את⟩ qoʻllarini qoʻyning boshi ustiga qoʻyadilar.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "olasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻyni"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qoʻyni"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ikkinchi"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "qoʻyadilar"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "uning oʻgʻillari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qoʻllarini"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "qoʻllarini"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "qoʻyni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:02:30.907247643Z",
+  "model": "glm-5.3"
+}

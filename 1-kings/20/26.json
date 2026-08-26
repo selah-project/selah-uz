@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va yilning aylanishida boʻldi: Ben-Hadad ⟨את⟩ Aramni sanoqdan oʻtkazdi va Isroil bilan jang uchun Afekaga chiqdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "aylanishida"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "yilning"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "sanoqdan oʻtkazdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aramni"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aramni"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "chiqdi"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afekaga"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "jang uchun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    }
+  ],
+  "timestamp": "2026-08-26T03:45:48.602063266Z",
+  "model": "glm-5.3"
+}

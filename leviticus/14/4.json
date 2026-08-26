@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Kohen buyuradi, va poklanadigan kishi uchun ikkita tiriq, pok qush oladi, sedar daraxti, qizil tol va zofor.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "buyuradi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "oladi"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "poklanadigan uchun"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikkita"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "qush"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "tiriq"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "pok"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "daraxt"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedar"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "qizil"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tol (qizgʻish ip)"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "zofor"
+    }
+  ],
+  "timestamp": "2026-08-26T01:14:48.093680952Z",
+  "model": "glm-5.3"
+}

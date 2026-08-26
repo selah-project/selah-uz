@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Esingiz, Yahvening soʻzini, Sedom hukmdorlari; quloq soling, Elohimimizning Toriga, Amora xalqi!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "esingiz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻzini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahvening"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "hukmdorlari"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "quloq soling"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torasini"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimimizning"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqi"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-08-26T04:04:54.330307990Z",
+  "model": "glm-5.3"
+}

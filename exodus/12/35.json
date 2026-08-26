@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yisroel oʻgʻillari Moshe soʻzi boʻyicha qildilar va misrliklardan kumush idishlar, oltin idishlar va kiyimlar soʻradilar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Va ... oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qildilar"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "soʻzi boʻyicha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "va soʻradilar"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "misrliklardan"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "idishlar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "va idishlar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "va kiyimlar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:26.312423132Z",
+  "model": "glm-5.3"
+}

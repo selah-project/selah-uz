@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va u aytdi: bitta kichik soʻrov — men sendan soʻrayman ⟨את⟩; yuzimni qaytarma ⟨את⟩; va qirol unga aytdi: soʻra, onam, chunki men ⟨את⟩ yuzingni qaytarmayman.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Va u aytdi"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "soʻrov"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "kichik"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "men"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "soʻrayman"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "sendan ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "qaytarma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzimni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzimni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qirol"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "soʻra"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "onam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "qaytarmayman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzingni"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    }
+  ],
+  "timestamp": "2026-08-26T03:25:28.620694407Z",
+  "model": "glm-5.3"
+}

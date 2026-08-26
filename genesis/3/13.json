@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Yahve Elohim ayolga dedi: Nima qilding? Va ayol dedi: ⟨The⟩ ilon meni aldadi va men yedim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ayolga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nima"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "qilding"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Va dedi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "⟨the⟩ ilon"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "meni aldadi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "va men yedim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:31:30.598860222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 28:7",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Beradi Yahve ⟨את⟩ dushmanlaringni, senga qarshi turganlarni, yuzing oldida yengilgan holda; bir yoʻlda senga chiqadilar, yetti yoʻldan yuzing oldida qochadilar.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Beradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dushmanlaringni"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "dushmanlaringni"
+    },
+    {
+      "surface": "הקמים",
+      "gloss": "qarshi turganlarni"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "senga qarshi"
+    },
+    {
+      "surface": "נגפים",
+      "gloss": "yengilgan holda"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yuzing oldida"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "yoʻlda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bir"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "chiqadilar"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "ובשבעה",
+      "gloss": "va yetti"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "yoʻldan"
+    },
+    {
+      "surface": "ינוסו",
+      "gloss": "qochadilar"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yuzing oldida"
+    }
+  ],
+  "timestamp": "2026-08-26T02:03:23.236578259Z",
+  "model": "glm-5.3"
+}

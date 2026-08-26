@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 129,
+  "translation": "Ustimdagi belimda haydab ketdi haydovchilar, egnavlarini uzaytirdilar.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "belimning"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "haydab ketdi"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "haydovchilar"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "uzaytirdilar"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "egnavlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:34.960572001Z",
+  "model": "glm-5.3"
+}

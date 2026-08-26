@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va Elohim yaratdi ⟨את⟩ odamni — oʻz suratida; Elohim suratida yaratdi ⟨את⟩ uni; erkak va ayol yaratdi ⟨את⟩ ularni.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Va yaratdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odamni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "oʻz suratida"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "suratida"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yaratdi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "erkak"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "va ayol"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yaratdi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:43.845140518Z",
+  "model": "glm-5.3"
+}

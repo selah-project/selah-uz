@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va xalq yettinchi kunda dam oldi.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "Va ... dam oldi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "yettinchi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:55:52.305124098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Yomgʻir yogʻdiradi yolgʻonchilar ustiga — tuzoqlar, olov va oltingugurt, va gʻazab shamoli — ularkan kosasining ulushi ⟨bundan⟩.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "yomgʻir yogʻdiradi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yolgʻonchilar"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "tuzoqlar"
+    },
+    {
+      "surface": "אש",
+      "gloss": "olon"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "va oltingugurt"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "va ... shamoli"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "gʻazab"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ulushi"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "ularning kosasining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:09.858633288Z",
+  "model": "glm-5.3"
+}

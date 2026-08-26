@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Ey xalq⟨im⟩, nima qildim senga, va nimada seni toʻydir⟨dim⟩? Javob ber Menga.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "xalq⟨im⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "qildim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "va nimada"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "seni toʻydir⟨dim⟩"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "javob ber"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Menga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:46:10.146303761Z",
+  "model": "glm-5.3"
+}

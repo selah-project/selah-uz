@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 23:13",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Va hammasida — hammasida senga aytganimda — saqlan; va boshqa elohlarning ⟨the⟩ otini eslatma; ogʻzingda eshitilmasin.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "va hammasida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-da"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "aytganimda"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "senga"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "saqlan"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "va ⟨the⟩ otini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohalar"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "eslat-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "eshitil-"
+    },
+    {
+      "surface": "על",
+      "gloss": "-da"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ogʻzingda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:29.758938417Z",
+  "model": "glm-5.3"
+}

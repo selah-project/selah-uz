@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 33:1",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va Yahve Moshega gapirdi: bor, bu joydan yuqoriga chiq — sen va xalqiki, sen uni Misr yeridan olib chiqding — erga, Avrahamga, Yitsxakqa va Yaakovga qasam ichganimga: „Zurriyodingga uni beraman“ degan ⟨erga⟩.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bor"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yuqoriga chiq"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "bu joydan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "va xalq"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ki"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "olib chiqding"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "אל",
+      "gloss": "erga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "er"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ki"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "qasam ichganimga"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "Avrahamga"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Yitsxakqa"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "va Yaakovga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "degon"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "zurriyodingga"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "uni beraman"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:57.481246677Z",
+  "model": "glm-5.3"
+}

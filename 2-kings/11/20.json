@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va butun mamlakat xalqi quvondi va shahar tinchlandi; va ⟨את⟩ Atalyani qilich bilan podshoh baytida oʻldirdilar.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "quvondi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "xalqi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mamlakatning"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "va shahar"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "tinchlandi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Atalyani"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyani"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "oʻldirdilar"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "qilich bilan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "baytida"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshoh"
+    }
+  ],
+  "timestamp": "2026-08-26T03:57:13.121745385Z",
+  "model": "glm-5.3"
+}

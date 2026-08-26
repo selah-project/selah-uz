@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Har bir kishi, kim sening ⟨את⟩ ogʻzingga qarshi chiqsa va sening ⟨את⟩ soʻzlaringni tinglamasa, barcha buyruqlaringga koʻra — oʻlim jazosiga duchor boʻladi; faqat kuchli va jasur boʻl.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "qarshi chiqsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ogʻzingga"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ogʻzing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …masa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "tinglasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlaringni"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "soʻzlaringni"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha …ga koʻra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niki"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "buyruqsan"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻladi"
+    },
+    {
+      "surface": "רק",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuchli boʻl"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "va jasur boʻl"
+    }
+  ],
+  "timestamp": "2026-08-26T02:09:33.735206695Z",
+  "model": "glm-5.3"
+}

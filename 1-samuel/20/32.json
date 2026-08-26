@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Yehonatan Shoulga, otasiga, javob berdi va unga dedi: Nega u oʻldirilsin? U nima qildi?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shoulga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shoulga"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasiga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va u dedi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "למה",
+      "gloss": "nega"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "oʻldirilsin"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:54:54.979477706Z",
+  "model": "glm-5.3"
+}

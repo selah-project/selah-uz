@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Yahve baliqqa buyruq berdi va u ⟨את⟩ Yunusni quruq joyga qusib chiqardi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "buyruq berdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "baliqqa"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "qusib chiqardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yunusni"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yunusni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "quruq joyga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:43:01.030814063Z",
+  "model": "glm-5.3"
+}

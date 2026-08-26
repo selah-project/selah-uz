@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Va Yehoshafatga: Men ⟨את⟩ bilan Ramot-Gilod urushiga borasizmi? — dedi. Yehoshafat esa Yisroil podshosiga javob berdi: Men senga oʻxshagancha, xalqim sening xalqingga oʻxshagancha, otlarim sening otlaringga oʻxshagancha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "borasizmi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ bilan",
+      "marks": "men"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "urushiga"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilod"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroil"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "menga oʻxshagan"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "senga oʻxshagan"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "xalqimga oʻxshagan"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "xalqingga oʻxshagan"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "otlarimga oʻxshagan"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "otlaringga oʻxshagan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:46:33.204001005Z",
+  "model": "glm-5.3"
+}

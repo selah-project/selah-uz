@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Chunki sening xeseding koʻzimning oldidadir va men sening haqiqatingda yurdim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "sening xeseding"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzimning"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "va yurdim"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "sening haqiqatingda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:18.099237186Z",
+  "model": "glm-5.3"
+}

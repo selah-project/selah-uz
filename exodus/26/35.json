@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Va sen dasturxonni parda-toʻrdan tashqarida qoʻyasiz, va ⟨את⟩ chiroqni dasturxon roʻparasida, chodirning janubiy yon tomonida; dasturxonni esa shimoliy yon tomonga qoʻyasiz.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "va qoʻyasiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dasturxonni"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "dasturxonni"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "tashqarida"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "parda-toʻrdan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "chiroqni"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "chiroqni"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "roʻparasida"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "dasturxon"
+    },
+    {
+      "surface": "על",
+      "gloss": "tomonda"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "yon tomonida"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "chodirning"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "janubiy"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "va dasturxonni"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "qoʻyasiz"
+    },
+    {
+      "surface": "על",
+      "gloss": "tomonga"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "yon"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "shimoliy"
+    }
+  ],
+  "timestamp": "2026-08-26T00:59:59.865496964Z",
+  "model": "glm-5.3"
+}

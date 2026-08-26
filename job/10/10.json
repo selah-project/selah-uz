@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Sut kabi toʻkmadimmi seni va pishloq kabi ivitmadimmi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "-mi"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "sut kabi"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "toʻkmadingmi"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "va pishloq kabi"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "ivitmadingmi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:56:40.753296279Z",
+  "model": "glm-5.3"
+}

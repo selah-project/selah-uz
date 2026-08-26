@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 80,
+  "translation": "Ularni koʻz yoshidan non bilan boqtiding va ularni uch karra koʻz yoshlari bilan ichirding.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "boqtiding"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "koʻz yoshidan"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "va ichirding"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "koʻz yoshlari bilan"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "uch karra"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:14.028867930Z",
+  "model": "glm-5.3"
+}

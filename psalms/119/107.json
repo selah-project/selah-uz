@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Juda koʻp ezildim, Yahve — meni Sening soʻzingga koʻra tiriltir.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "ezildim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda koʻp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "meni tiriltir"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Sening soʻzingga koʻra"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:36.186240509Z",
+  "model": "glm-5.3"
+}

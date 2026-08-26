@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 4:9",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Faqat oʻzingga ehtiyot boʻl va nefeshingni juda saqlagin, soʻkilmasin ⟨את⟩ soʻzlar — kinoyat: koʻzing koʻrgan narsalaringiz tushib qolmasin — bu erda: ular yuragingdan ketmasin, butun hayot kunlaringda; va ularni oʻgʻillaringga va oʻgʻillarining oʻgʻillariga bildirgin",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Faqat"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "oʻzingga ehtiyot boʻl"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzingga"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "saqlagin"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nefeshingni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda"
+    },
+    {
+      "surface": "פן",
+      "gloss": "soʻkilmasin — bu erda: tushib qolmasin"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "unutib qolmoq — bu erda: ketmasin (kinoyat yordamida)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "soʻzlar"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kinoyat: — narsalaringiz"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "koʻrgan"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "koʻzing"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "va — tushib qolmasin — bu erda"
+    },
+    {
+      "surface": "יסורו",
+      "gloss": "ketmasin"
+    },
+    {
+      "surface": "מלבבך",
+      "gloss": "yuragingdan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlaringda — bu erda: kunlaring"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "hayot — bu erda: hayotning (kinoyat bilan bogʻlangan)"
+    },
+    {
+      "surface": "והודעתם",
+      "gloss": "bildirgin"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "oʻgʻillaringga"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "va oʻgʻillarining"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "oʻgʻillariga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:50:20.044658336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Oʻzingga haykal va hech qanday tasvir yasamagin — osmonlarda yuqoridagi narsaning, yerdagi pastdagi narsaning va suvlarda, yer ostidagi suvlardagi narsaning.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…ma-gin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "yasamagin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oʻzingga"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "haykal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va hech qanday"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "tasvir"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…narsaning"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "osmonlarda"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "yuqoridagi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "va …narsaning"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerda"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pastdagi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "va …narsaning"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvlarda"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "pastdagi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "yerga tegishli \/ yer ostida"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:22.260291479Z",
+  "model": "glm-5.3"
+}

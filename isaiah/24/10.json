@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Singdirildi toʻhu shahri; yopildi barcha uy kirishdan.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "singdirildi"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "shahri"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "toʻhu"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "yopildi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "kirishdan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:17:02.332943054Z",
+  "model": "glm-5.3"
+}

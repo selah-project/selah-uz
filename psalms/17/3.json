@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Sen yuragimni sinading, tunda tekshirasan; Sen meni sinab koʻrasan — hech narsa topmaysan; tilaklarim ogʻzimdan oʻtmaydi.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "sinading"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragimni"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "tekshirasan"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "tunda"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "sinab koʻrasan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hech narsa"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "topmaysan"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "tilaklarimni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "oʻtmaydi"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "oʻtadi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻzimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:56.647800856Z",
+  "model": "glm-5.3"
+}

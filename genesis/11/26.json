@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Terah yetmish yil yashadi va ⟨את⟩ Avramni, ⟨את⟩ Naxorni va ⟨את⟩ Haranni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "yashadi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmish"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avramni"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avramni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naxorni"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Naxorni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haranni"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haranni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:23.534954135Z",
+  "model": "glm-5.3"
+}

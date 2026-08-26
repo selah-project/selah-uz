@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Yoʻllaringni, ey Yahve, menga bildir; oxo yoʻllaringni menga oʻrgat.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Yoʻllaringni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "menga bildir"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "oxo yoʻllaringni"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "menga oʻrgat"
+    }
+  ],
+  "timestamp": "2026-08-26T06:03:01.461143982Z",
+  "model": "glm-5.3"
+}

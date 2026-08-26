@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 54,
+  "translation": "Yovligim ⟨qarshi⟩ menga qaytadi; Sening haqiqating bilan ularni yoʻq qil.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "qaytadi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yovligim"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "menga ⟨qarshi⟩ — dushmanlarim ustiga"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "Sening haqiqating bilan"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "ularni yoʻq qil"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:53.430771981Z",
+  "model": "glm-5.3"
+}

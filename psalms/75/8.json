@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 75,
+  "translation": "Chunki Elohim hukm qiladi: shuni pastga tushiradi va shuni ko'taradi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "hukm qiladi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "shuni"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "pastga tushiradi"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "va shuni"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ko'taradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:18:25.224317776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va Men Yehudaning surgunligini va Isroilning surgunligini qaytaraman, va ularni avvalgidayek quraman.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Va Men qaytaraman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "surgunligini"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "surgunligini"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "surgunligini"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "surgunligini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "va ularni quraman"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "avvalgidayek"
+    }
+  ],
+  "timestamp": "2026-08-26T04:56:01.134347588Z",
+  "model": "glm-5.3"
+}

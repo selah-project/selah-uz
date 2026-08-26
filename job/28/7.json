@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Uni yoʻlni yirtqich qush bilmagan, va lochin koʻzi uni qadrLab qaramagan.",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "yoʻlni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bilmagan (inkor)"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilmagan"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "yirtqich qush"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "qadrlab qaramagan"
+    },
+    {
+      "surface": "עין",
+      "gloss": "koʻzi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "lochin"
+    }
+  ],
+  "timestamp": "2026-08-26T07:03:54.066918657Z",
+  "model": "glm-5.3"
+}

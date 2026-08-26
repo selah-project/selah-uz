@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Shemuel hali ⟨את⟩ Yahveni bilmas edi, va hali unga Yahvening soʻzi oshkor qilinmagan edi.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Va Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "hali"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmas edi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "va hali"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "oshkor qilinmagan edi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "soʻz"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T02:44:37.666793732Z",
+  "model": "glm-5.3"
+}

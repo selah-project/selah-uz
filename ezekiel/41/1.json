@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va u meni heykalga olib kirdi va ustunlarni oʻlchadi — ⟨את⟩ olti tirsak kenglik bu tomondan, va olti tirsak kenglik u tomondan — chodirning kengligi.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "va u meni olib kirdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "heykal"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "va oʻlchadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ustunlarni"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ustunlarni"
+    },
+    {
+      "surface": "שש",
+      "gloss": "olti"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "kenglik"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "bu tomondan"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "va olti"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "tirsak"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "kenglik"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "u tomondan"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "kengligi"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "chodirning"
+    }
+  ],
+  "timestamp": "2026-08-26T05:30:31.297430558Z",
+  "model": "glm-5.3"
+}

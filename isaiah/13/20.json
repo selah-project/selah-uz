@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 13:20",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "U abadiy yashalmaydi, avloddan avlodga yashovchi boʻlmaydi; arab u yerda chodir qurmaydi va choʻponlar u yerda podalarini yotqizmaydi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yashalmaydi —"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "yashalmaydi (oʻtirmaydi)"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va boʻlmaydi —"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "yashovchi boʻlmaydi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "דור",
+      "gloss": "avloddan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "avlodga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va qurmaydi —"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "chodir qurmaydi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "ערבי",
+      "gloss": "arab"
+    },
+    {
+      "surface": "ורעים",
+      "gloss": "va choʻponlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yotqizmaydi —"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "yotqizmaydi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    }
+  ],
+  "timestamp": "2026-08-26T04:11:53.210492360Z",
+  "model": "glm-5.3"
+}

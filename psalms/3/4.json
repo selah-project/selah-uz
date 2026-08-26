@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va Sen, Yahve, qalqonmansan atrofimda, shon-sharafim va boshimni koʻtaruvchim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Va Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "qalqon"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "atrofimda"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "shon-sharafim"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "va koʻtaruvchi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "boshimni"
+    }
+  ],
+  "timestamp": "2026-08-26T05:57:23.723310789Z",
+  "model": "glm-5.3"
+}

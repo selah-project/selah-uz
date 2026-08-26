@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 53,
+  "translation": "Nodon yuragida aytdi: „Elohim yoʻq.“ Ular buzildi va zulmni yomon qildilar, yaxshilik qiluvchi yoʻq.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nodon"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "yuragida"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "buzildi(lar)"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "va yomon qildilar"
+    },
+    {
+      "surface": "עול",
+      "gloss": "zulmni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshilik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:11.614267491Z",
+  "model": "glm-5.3"
+}

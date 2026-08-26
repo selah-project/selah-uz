@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va ⟨את⟩ yoqiq qurbongohini va ⟨את⟩ barcha asboblarini, va ⟨את⟩ yuvintir idishini va ⟨את⟩ uning poydevorini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yoqiq qurbongohini"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "qurbongohini"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yoqiq"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "barcha asboblarini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "asboblarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yuvintir idishini"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "yuvintir idishini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning poydevorini"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "uning poydevorini"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:31.166595205Z",
+  "model": "glm-5.3"
+}

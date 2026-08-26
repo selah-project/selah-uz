@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Uni ⟨את⟩ boʻlaklarga boʻlib boʻlaklang va ustiga moy quying — u minchadir.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "boʻlaklab boʻlang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "boʻlaklar (pitim)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "boʻlaklar"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "va quying"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "uning ustiga"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "moy"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "udir"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:18.794840061Z",
+  "model": "glm-5.3"
+}

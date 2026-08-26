@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va Elohimning gʻazabi ularga koʻtarildi: ularning eng semizlarini oʻldirdi va Isroilning yigitlarini tizzalantirdi.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Va gʻazabi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "koʻtarildi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ulararga"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "va oʻldirdi"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "ularning eng semizlarini"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "va yigitlarini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "tizzalantirdi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:38.896092432Z",
+  "model": "glm-5.3"
+}

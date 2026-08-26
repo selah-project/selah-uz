@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 138,
+  "translation": "Chunki Yahve baland, ammo pastkoʻrgani koʻradi, va balandpillarni uzoqdan biladi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רם",
+      "gloss": "baland"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "pastni"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "koʻradi"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "balandpillarni"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "uzoqdan"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "biladi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:37.523120120Z",
+  "model": "glm-5.3"
+}

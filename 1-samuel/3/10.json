@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Yahve keldi va kelib turdi va avvalgilardek chaqirdi: «Shemuel, Shemuel». Shemuel aytdi: «Gapir, chunki bandang eshitmoqda».",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "kelib turdi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va chaqirdi"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "marta-marta"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "marta"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "aytdi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gapir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "eshitmoqda"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "bandang"
+    }
+  ],
+  "timestamp": "2026-08-26T08:28:35.047184964Z",
+  "model": "glm-5.3"
+}

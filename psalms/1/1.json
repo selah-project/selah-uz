@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Baxtlidir odamki, yovlar maslahatida yurmagan, gunohkorlar yoʻlida turmagan va masxarchilar oʻtirish joyida oʻtirmagan.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtlidir"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…magan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yurmagan"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "maslahatida"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yovlar"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "yoʻlida"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "gunohkorlar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…magan"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "turmagan"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "oʻtirish joyida"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "masxarchilar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…magan"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oʻtirmagan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:58:10.912879700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 84,
+  "translation": "Baxtlidir uyingda yashovchilar, ular baribir Seni madh etadilar. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Baxtlidir"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "yashovchilar"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "uyingda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "baribir"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "Seni madh etadilar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:44.039978855Z",
+  "model": "glm-5.3"
+}

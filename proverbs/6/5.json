@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Oʻzingni qutqar, kiyikdek qoʻldan, va qushdek tuzoqchining qoʻlidan.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "oʻzingni qutqar"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "kiyikdek"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻldan"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "va qushdek"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "qoʻlidan"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "tuzoqchining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:40:42.363245517Z",
+  "model": "glm-5.3"
+}

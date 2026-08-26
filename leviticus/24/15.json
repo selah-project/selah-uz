@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Isroil oʻgʻillariga gapir deyin: har qanday kishi oʻz Elohimini soʻksa, gunohini koʻtaradi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "va —ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillariga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "gapir deyin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyin"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "איש",
+      "gloss": "kishi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—sa"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "soʻksa"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "oʻz Elohimini"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "koʻtaradi"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "gunohini"
+    }
+  ],
+  "timestamp": "2026-08-26T01:21:36.518733853Z",
+  "model": "glm-5.3"
+}

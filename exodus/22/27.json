@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Elohimni so'kmagin va xalqingning boshlig'ini la'natlamagin.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "so'kmagin"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "va boshlig'ini"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "xalqingning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-ma"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "la'natlamagin"
+    }
+  ],
+  "timestamp": "2026-08-26T00:58:07.311956477Z",
+  "model": "glm-5.3"
+}

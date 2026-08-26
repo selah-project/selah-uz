@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Yoav javob berdi va dedi: dunyo yoʻq, dunyo yoʻq menga yutib yuboray va yo vayron qilay deb.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "javob berdi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "dunyo yoʻq"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "dunyo yoʻq"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "...ay"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "yutib yuboray"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "va yo"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "vayron qilay"
+    }
+  ],
+  "timestamp": "2026-08-26T03:17:32.515085118Z",
+  "model": "glm-5.3"
+}

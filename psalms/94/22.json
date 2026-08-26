@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 94,
+  "translation": "Va Yahve menga baland panoh boʻldi, va Elohimim — boshpana qoyam boʻldi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "baland panoh uchun"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "va Elohimim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "qoya uchun"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "boshpanam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:18.910304079Z",
+  "model": "glm-5.3"
+}

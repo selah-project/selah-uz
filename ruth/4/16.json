@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Naomi ⟨את⟩ bolani oldi va uni koʻkragiga qoʻydi va u unga emizuvchi ona boʻldi.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolani"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "bola"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "koʻkragiga"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "emizuvchi ona"
+    }
+  ],
+  "timestamp": "2026-08-26T07:14:22.186358652Z",
+  "model": "glm-5.3"
+}

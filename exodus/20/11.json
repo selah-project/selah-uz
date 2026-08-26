@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Chunki olti kunda Yahve ⟨את⟩ osmonlarni va ⟨את⟩ yerni, ⟨את⟩ dengizni va ⟨את⟩ ulardagi hamma narsani yaratdi, va yettinchi kunda tinohlandi; shuning uchun Yahve ⟨את⟩ shabbat kunini barakaladi va uni muqaddas qildi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "olti"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yaratdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osmonlarni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dengizni"
+    },
+    {
+      "surface": "הים",
+      "gloss": "dengizni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hamma narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsani"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ulardagi"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "va tinohlandi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yettinchi"
+    },
+    {
+      "surface": "על",
+      "gloss": "shuning"
+    },
+    {
+      "surface": "כן",
+      "gloss": "uchun"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "barakaladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shabbat kunini"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kunini"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "shabbat"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "va uni muqaddas qildi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:56:21.724165855Z",
+  "model": "glm-5.3"
+}

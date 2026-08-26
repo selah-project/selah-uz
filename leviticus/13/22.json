@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Agar u terida yoyilsa, kohin uni pok emas deb eʼlon qilsin — negoh ⟨את⟩ u: u zarardir.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "yoyilsa"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "yoyilsa"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "terida"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "pok emas deb eʼlon qilsin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "zarar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    }
+  ],
+  "timestamp": "2026-08-26T01:16:17.050903788Z",
+  "model": "glm-5.3"
+}

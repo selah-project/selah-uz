@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Yubordi belgilar va moʻjizalarni sening ichingga, ey Misr, Paroʻga va uning barcha xizmatkorlariga.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Yubordi"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "belgilar"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "va moʻjizalarni"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "sening ichingga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ey Misr"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "Paroʻga"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "va ... barcha"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "uning xizmatkorlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:02.571410519Z",
+  "model": "glm-5.3"
+}

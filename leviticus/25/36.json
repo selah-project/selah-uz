@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Undan ⟨את⟩ foiz va oshirma olma, va Elohimingdan qoʻrq, va birodaring sen bilan yashasin.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "olma"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "olmaysan"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "foiz va oshirma"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "foiz"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "va oshirma"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "va qoʻrqasan"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohimingdan"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "va yashasin"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "birodaring"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sen bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T01:22:41.509245689Z",
+  "model": "glm-5.3"
+}

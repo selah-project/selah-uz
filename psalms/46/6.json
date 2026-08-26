@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 46,
+  "translation": "Elohim ⟨uning⟩ ichida — u mutlaqo qimirlamaydi; Elohim uni tong otishida yordamlaydi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "⟨uning⟩ ichida"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mutlaqo"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "qimirlamaydi"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "yordamlaydi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "tong otishida"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tong"
+    }
+  ],
+  "timestamp": "2026-08-26T06:09:56.995979406Z",
+  "model": "glm-5.3"
+}

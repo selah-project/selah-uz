@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 7:25",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va barcha togʻlar ularda ⟨⟩ ketmon bilan ishlov beriladigan joylar — ularga borilmaydi, ular yerni butalar va tikanlar qoʻrqitadi; va u mol qoʻyiladigan va qoʻy-podalar pistirmaydigan joy boʻladi.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ulardaki"
+    },
+    {
+      "surface": "במעדר",
+      "gloss": "ketmon bilan"
+    },
+    {
+      "surface": "יעדרון",
+      "gloss": "ishlov beriladi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "borilmaydi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "qoʻrquvi"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "tikanbutaning"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "va tikanlarning"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "va boʻladi"
+    },
+    {
+      "surface": "למשלח",
+      "gloss": "oʻtlatish uchun"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mol"
+    },
+    {
+      "surface": "ולמרמס",
+      "gloss": "ichoqlash uchun"
+    },
+    {
+      "surface": "שה",
+      "gloss": "qoʻy"
+    }
+  ],
+  "timestamp": "2026-08-26T04:07:33.523538830Z",
+  "model": "glm-5.3"
+}

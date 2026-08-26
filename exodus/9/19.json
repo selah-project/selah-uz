@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Endi esa yigʻib ol ⟨את⟩ mol-qoramni va ⟨את⟩ dalada boʻlgan hammasini — har bir odam va hayvon, kim dalada topilsa va uyga yigʻib olinmasa, ularga doʻl tushadi va ular oʻladi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "endi esa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yigʻib ol"
+    },
+    {
+      "surface": "העז",
+      "gloss": "shoshil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mol-qoramni"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "mol-qoram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hammasini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga tegishli"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dalada"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "va hayvon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "topilsa"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "dalada"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ...masa"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "yigʻib olin"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "uyga"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "va ...tushadi"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "doʻl"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "va ular oʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:52:29.629099467Z",
+  "model": "glm-5.3"
+}

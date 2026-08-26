@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Sen insonni changgacha qaytarasan va aytasan: „Qayting, odam bolalari!“",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "qaytarasan"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "insonni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "chang"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "va aytasan"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "qayting"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bolalari"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:02.156475072Z",
+  "model": "glm-5.3"
+}

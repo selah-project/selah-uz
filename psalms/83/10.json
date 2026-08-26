@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 83,
+  "translation": "Ularga Midyan qilib bergin, Sisera qilib, Yabin qilib, Kishon daryosi boʻyida.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "qilib bergin"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "Midyan kabi"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "Sisera kabi"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "Yabin kabi"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "daryosi boʻyida"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:09.393027690Z",
+  "model": "glm-5.3"
+}

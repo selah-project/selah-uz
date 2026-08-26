@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Har qanday beva va yetimni qiynamanglar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "beva"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "va yetim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "qiynamanglar — yoʻq"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "qiynamanglar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:57:28.138594104Z",
+  "model": "glm-5.3"
+}

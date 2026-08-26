@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Odam ⟨-⟩ shon-sharafda, lekin tushunmasa, hayvonlar kabi oʻxshatilgan — ular yoʻq boʻlgandek.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Odam"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "shon-sharafda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin ... emas"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "tushunmasa"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "oʻxshatilgan"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "hayvonlar kabi"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "yoʻq boʻlgandek"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:10.468193382Z",
+  "model": "glm-5.3"
+}

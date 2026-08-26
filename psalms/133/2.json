@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 133,
+  "translation": "Xuddi bosh ustiga quyilib tushgan yaxshi moydek — soqol ustiga tushadi, Aharonning soqoli ustiga, kiyimlarining ogʻziga yetib tushadigan.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "xuddi moydek"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "bosh"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "quyilib tushgan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "soqol"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "soqoli"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharonning"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "yetib tushadigan"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ogʻziga"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "kiyimlarining"
+    }
+  ],
+  "timestamp": "2026-08-26T06:34:56.117385717Z",
+  "model": "glm-5.3"
+}

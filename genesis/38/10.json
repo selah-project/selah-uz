@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Yahve koʻzlarida u qilgan ⟨narsa⟩ yomon boʻldi, va U ⟨את⟩ uni ham oʻldirdi.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "yomon boʻldi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzlarida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "oʻldirdi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (Oʻnanni)"
+    }
+  ],
+  "timestamp": "2026-08-26T00:45:04.535836841Z",
+  "model": "glm-5.3"
+}

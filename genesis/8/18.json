@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va Noax chiqdi, va uning oʻgʻillari, va uning xotini, va uning oʻgʻillarining xotinlari ⟨את⟩ u bilan.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "va u chiqdi"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noax"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "va uning oʻgʻillari"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "va uning xotini"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "va xotinlari"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "uning oʻgʻillarining"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ u bilan",
+      "marks": "u bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:53.728460099Z",
+  "model": "glm-5.3"
+}

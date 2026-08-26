@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Va boʻladiki, agar shulardan birida aybdor boʻlsa, u oʻz gunohi ustidan — niki qilgan boʻlsa — eʼtirof etsin.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Va boʻladiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "aybdor boʻlsa"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "birida"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "shulardan"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "eʼtirof etsin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niki"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "gunoh qilgan"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:12:19.631477037Z",
+  "model": "glm-5.3"
+}

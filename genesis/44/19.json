@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Janobim qullaridan soʻradi: ⟨את⟩ „Sizlarda ota yoki aka bormi?“ — deb.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Janobim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "soʻradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qullaridan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "qullaridan"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "— deb"
+    },
+    {
+      "surface": "היש",
+      "gloss": "bormi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "sizlarda"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ota"
+    },
+    {
+      "surface": "או",
+      "gloss": "yoki"
+    },
+    {
+      "surface": "אח",
+      "gloss": "aka"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:49.571199806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Chunki hatto oʻlim soyasi vodiysidan oʻtsam ham, yovuzlikdan qoʻrqmayman — chunki Sen mening yonimdasan; Sening tayoqlaring va tayogʻing — ular taskin beradi menga.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "oʻtsam"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "vodiysidan"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "oʻlim soyasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "qoʻrqmayman"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yovuzlikdan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yonimdasan"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "tayoqlaring"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "va tayogʻing"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "taskin beradi menga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:57.153674171Z",
+  "model": "glm-5.3"
+}

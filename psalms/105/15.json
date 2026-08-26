@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 105,
+  "translation": "„Moylanganlarimga tegmang va paygʻambarlarimga yomonlik qilmang.“",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "yomonlik qilmang"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "teg"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Moylanganlarimga"
+    },
+    {
+      "surface": "ו",
+      "gloss": "va"
+    },
+    {
+      "surface": "לנביאי",
+      "gloss": "paygʻambarlarimga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teg"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "yomonlik qilmang"
+    }
+  ],
+  "timestamp": "2026-08-26T06:27:45.258080106Z",
+  "model": "glm-5.3"
+}

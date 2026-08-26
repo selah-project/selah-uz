@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va ⟨את⟩ ichki hovlini qurdi: kesib tayyorlangan toshdan uch qator va kesib tayyorlangan sadr yogʻochidan bir qator.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "va qurdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ichki hovlini"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hovli"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ichki"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "uch"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "qator"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "kesib tayyorlangan tosh"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "va bir qator"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "kesib tayyorlangan yogʻoch"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sadr"
+    }
+  ],
+  "timestamp": "2026-08-26T03:29:06.516819328Z",
+  "model": "glm-5.3"
+}

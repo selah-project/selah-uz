@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Shuning uchun seni kutib chiqdim, yuzingni izladim va seni topdim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "shuning uchun — sababi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "chiqdim"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "seni kutib"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "izladim — erta"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingni"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "va seni topdim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:40:38.563853970Z",
+  "model": "glm-5.3"
+}

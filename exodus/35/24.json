@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 35:24",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 35,
+  "translation": "Har kim kumush va mis tuhsisini koʻtarar edi — keltirdilar ⟨את⟩ Yahve tuhsisini; va har kimda ⟨את⟩ bilan topilardi akatsiya yogʻochi — xizmatning har qanday ishi uchun — keltirdilar ⟨uni⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har kim"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "koʻtarar edi"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "tuhsisini"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "va mis"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "keltirdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve tuhsisini"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "tuhsisini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va har kim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kim"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "topilardi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "u bilan (topilardi)"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsiyaning"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ishi uchun"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "xizmatning"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "keltirdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:43.437246005Z",
+  "model": "glm-5.3"
+}

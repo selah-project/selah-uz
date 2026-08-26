@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va oʻsha kuni Esav oʻz yoʻli bilan Seirga qaytdi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "qaytdi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "oʻz yoʻli bilan"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:58.558066433Z",
+  "model": "glm-5.3"
+}

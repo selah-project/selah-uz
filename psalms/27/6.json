@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va endi mening boshim dushmanlarim ustidan — atrofimdagilar ustidan koʻtariladi; va Uning chodirida shodlik qurbonlarilarini soʻyaman, kuylayman va Yahvega madhiya aytaman.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "va endi"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "koʻtariladi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "boshim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "atrofimdagilar"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "va soʻyman"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "chodirida Uning"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "qurbonlarni"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "shodlik nolasining"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "kuylayman"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "va chalaman"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:31.430125521Z",
+  "model": "glm-5.3"
+}

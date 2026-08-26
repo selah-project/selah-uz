@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "U holda xijolat boʻlmayman, barcha buyruqlaringga nazar solganimda.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "U holda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "xijolat boʻlaman"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "nazar solganimda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "buyruqlaringga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:15.639978560Z",
+  "model": "glm-5.3"
+}

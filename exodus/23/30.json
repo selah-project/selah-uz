@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 23,
+  "translation": "Oz-oz, oz-oz uni yuzing oldidan quvib chiqarurman — to ki sen koʻpayguncha va ⟨את⟩ yerni meros qilib olguncha.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "oz"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "oz"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "quvib chiqarur uni"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "yuzing oldidan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-gacha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "to ki"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "koʻpayursan"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "va meros olursan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T00:59:07.800110338Z",
+  "model": "glm-5.3"
+}

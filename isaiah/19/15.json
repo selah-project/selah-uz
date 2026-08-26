@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va Misrga hech qanday ish boʻlmaydi — boshi ham, dumi ham, palma shoxi ham, qamishi ham qila oladigan.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlmaydi"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "Misrga"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ish"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "qila oladigan"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "dumi ham"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "palma shoxi"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "qamishi ham"
+    }
+  ],
+  "timestamp": "2026-08-26T04:15:09.005459680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Aytingiz oʻz birodarlaringizga: «Ammi», va oʻz opa-singillaringizga: «Ruhama».",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Aytingiz"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "oʻz birodarlaringizga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "«Ammi»"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "va oʻz opa-singillaringizga"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "«Ruhama»"
+    }
+  ],
+  "timestamp": "2026-08-26T05:34:47.343507094Z",
+  "model": "glm-5.3"
+}

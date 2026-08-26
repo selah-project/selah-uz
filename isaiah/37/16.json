@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 37,
+  "translation": "Yahve Sebaot, Isroilning Elohimi, kerublar ustida oʻtirgan — Sen borsan ⟨the⟩ Elohim, yolgʻiz Sen, yer yuzidagi barcha podshohliklar ustida; Sen ⟨את⟩ osmonlarni va ⟨את⟩ yerni yaratding.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Sebaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohimi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oʻtirgan"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "kerublar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "borsan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yolgʻiz Sen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "podshohliklar"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "yaratding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osmonlarni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:23:55.735515492Z",
+  "model": "glm-5.3"
+}

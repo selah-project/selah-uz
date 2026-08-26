@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Yahve ga aytdim: Sen mening Adonay imsан, mening yaxshiligim Senga tegishli emas ⟨bal⟩ — Sendan boshqa yaxshiligim yoʻq.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "aytdim"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahve ga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "yaxshiligim"
+    },
+    {
+      "surface": "בל",
+      "gloss": "emas"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "Sendan boshqa"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:40.820184468Z",
+  "model": "glm-5.3"
+}

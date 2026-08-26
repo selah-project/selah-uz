@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 2:9",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "U oshiqlarining ortidan quvaladi, lekin ⟨את⟩ ularni yetolmaydi; ularni izlaydi, lekin topolmaydi; va u deydi: «Borib birinchi erimga qaytaman, chunki u paytda menga hozirgidan yaxshi edi.»",
+  "tokens": [
+    {
+      "surface": "ורדפה",
+      "gloss": "quvaladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oshiqlarining"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "oshiqlarining"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "yetolmaydi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "izlaydi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lekin"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "topolmaydi"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "va u deydi"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "boraman"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "qaytaman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–ga"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "erim"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "birinchi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אז",
+      "gloss": "u paytda"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "hozirgidan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:33:58.713742520Z",
+  "model": "glm-5.3"
+}

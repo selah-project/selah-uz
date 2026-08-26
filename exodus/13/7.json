@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Yetti kun davomida matsu ye­tiladi, xamirturushli non sendan koʻrinmasin, hamda sendan barcha chegarang ichida xamirturush koʻrinmasin.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "matsu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "yetiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yetti kunni"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kunni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …mas"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "koʻrinmasin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sendan"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "xamirturushli non"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …mas"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "koʻrinmasin"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sendan"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "xamirturush"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "chegarangda"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:07.562225134Z",
+  "model": "glm-5.3"
+}

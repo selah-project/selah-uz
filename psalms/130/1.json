@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 130,
+  "translation": "Marotib qoʻshiqlaridan. Chuqurliklardan Senga chaqirdiman, ey Yahve.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "qoʻshiq"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "marotib (koʻtarilishlar)dan"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "chuqurliklardan"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "Senga chaqirdiman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:06.936827889Z",
+  "model": "glm-5.3"
+}

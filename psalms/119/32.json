@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Buyruqlaring yoʻlida yuguraman, chunki Sen yuragimni kengaytirasansan.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "yoʻlida"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "buyruqlaring"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "yuguraman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "kengaytirasansan"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yuragimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:43.633334872Z",
+  "model": "glm-5.3"
+}

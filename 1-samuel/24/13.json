@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Yahve dudiq qilsin meni va seni oʻrtamda, va Yahve mendan oʻchimni olsin sendan, lekin qoʻlim sen ustida boʻlmasin.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "dudiq qilsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "meni"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "va seni oʻrtamda"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "va oʻchimni olsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "sendan"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "lekin qoʻlim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:54:34.309259095Z",
+  "model": "glm-5.3"
+}

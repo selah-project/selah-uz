@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Chunki yolgʻiz maqtanadi nefesh orzusida, oladirgan bu oʻzini olqilaydi — Yahveni mensimaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "maqtanadi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yolgʻiz"
+    },
+    {
+      "surface": "על",
+      "gloss": "—da"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "orzusida"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "oladirgan"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "olqilaydi"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "mensimaydi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:43.816930855Z",
+  "model": "glm-5.3"
+}

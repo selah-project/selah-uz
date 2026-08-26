@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Boylik va ulugʻvorlik ⟨את⟩ ⟨bilan⟩ ⟨men⟩ ⟨bor⟩; boylik — qadim-qadim qadrlangan, va solihlik.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "boylik"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "va ulugʻvorlik"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨bilan⟩ men",
+      "marks": "boylik va ulugʻvorlik"
+    },
+    {
+      "surface": "הון",
+      "gloss": "boylik"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "qadim-qadim qadrlangan"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "va solihlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:41:19.585656987Z",
+  "model": "glm-5.3"
+}

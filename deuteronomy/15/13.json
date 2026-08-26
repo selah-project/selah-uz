@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Va qachon uni ozingdan ozod qilib yuborsang, uni boʻsh qilib yubormasang —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "va qachon"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "uni yuborsang"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ozod"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "ozingdan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yubormasang —"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "uni yubormasang"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "boʻsh qilib"
+    }
+  ],
+  "timestamp": "2026-08-26T01:55:42.731963928Z",
+  "model": "glm-5.3"
+}

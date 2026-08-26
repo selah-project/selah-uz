@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 68,
+  "translation": "Muqaddas saroyingdan — Yerushalaim ustidan — podshohlar senga sovgʻalar keltiradi.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "saroyingdan"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "keltiradi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "podshohlar"
+    },
+    {
+      "surface": "שי",
+      "gloss": "sovgʻalar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:15:37.225037458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 112,
+  "translation": "Kuchli ⟨boʻlur⟩ yerdagi uning nasli; toʻgʻri avlod ⟨–⟩ barakot topur.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Kuchli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "yerdagi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "boʻlur"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "uning nasli"
+    },
+    {
+      "surface": "דור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "toʻgʻri"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "barakot topur"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:05.523486283Z",
+  "model": "glm-5.3"
+}

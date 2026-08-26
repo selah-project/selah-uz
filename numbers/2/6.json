@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va uning qoʻshini va hisoblanganlari — oltmish toʻrt ming toʻrt yuz.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "va uning qoʻshini"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "va hisoblanganlari"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "toʻrt"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "va ellik"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ming"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "va toʻrt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    }
+  ],
+  "timestamp": "2026-08-26T01:25:33.379359568Z",
+  "model": "glm-5.3"
+}

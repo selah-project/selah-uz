@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Toki keyingi avlod bilsin, tugʻiladigan oʻgʻillar qoʻzgonsin va oʻz oʻgʻillariga soʻzlab bersinlar.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "toki"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bilsin"
+    },
+    {
+      "surface": "דור",
+      "gloss": "avlod"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "keyingi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oʻgʻillar"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "tugʻiladigan"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "qoʻzgonsin"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "va soʻzlab bersinlar"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "oʻz oʻgʻillariga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:15.815147449Z",
+  "model": "glm-5.3"
+}

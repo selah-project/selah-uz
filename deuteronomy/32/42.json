@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 32:42",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Oʻqlarimni qondan mast qilaman, va qilichim goʻshtni yeydi — oʻldirilganlarning qonidan va asirlardan, dushman boshliqlarining soch-tolalaridan boshlab.",
+  "tokens": [
+    {
+      "surface": "אשכיר",
+      "gloss": "mast qilaman"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "oʻqlarimni"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "qondan"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "va qilichim"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yeydi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "goʻshtni"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "qonidan"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "oʻldirilganlarning"
+    },
+    {
+      "surface": "ושביה",
+      "gloss": "va asirlardan"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "bosh(idan)"
+    },
+    {
+      "surface": "פרעות",
+      "gloss": "soch-tolalari (boshliqlari)"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "dushman"
+    }
+  ],
+  "timestamp": "2026-08-26T02:06:23.430753605Z",
+  "model": "glm-5.3"
+}

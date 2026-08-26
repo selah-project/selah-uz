@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "va ⟨את⟩ laylakni, baloqchini — oʻz turiga koʻra — va ⟨את⟩ kupakni, va ⟨את⟩ yarqanatni",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "laylak"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "laylak"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "baloqchi"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "oʻz turiga koʻra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "kupak"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "kupak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yarqanat"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "yarqanat"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:58.939701296Z",
+  "model": "glm-5.3"
+}

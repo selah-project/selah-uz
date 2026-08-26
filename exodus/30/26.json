@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 30,
+  "translation": "Va uni surtasan ⟨את⟩ uchrashuv chodigʻiga va ⟨את⟩ guvohlik sandigʻiga.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "surtasan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "uni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uchrashuv chodigʻiga"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "chodigʻiga"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "guvohlik sandigʻiga"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandigʻiga"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "guvohlik"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:31.166280739Z",
+  "model": "glm-5.3"
+}

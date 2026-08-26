@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 25:8",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Oʻz yigitinglardan soʻra, ular senga xabar beradi; va yigitlar koʻzingda marhamat topsinlar, chunki yaxshi kunda keldik; iltijo, qoʻling narsa topsa, ⟨את⟩ shuni xizmatkorlaringga va oʻgʻling Dovudga bergin.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "soʻra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oʻz yigitinglardan"
+    },
+    {
+      "surface": "נעריך",
+      "gloss": "yigitinglardan"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "va xabar beradi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "va topsinlar"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "yigitlar"
+    },
+    {
+      "surface": "חן",
+      "gloss": "marhamat"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "koʻzingda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "על",
+      "gloss": "-da"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kunda"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "keldik"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "bergin"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltijo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "shuni (אשר תמצא ידך)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "topsa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "qoʻling"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "xizmatkorlaringga"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "va oʻgʻlingga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:57:28.428654909Z",
+  "model": "glm-5.3"
+}

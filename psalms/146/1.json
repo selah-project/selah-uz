@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 146,
+  "translation": "Maqtabanglar Yahni, maqtabanglar, ey mening jonim, ⟨את⟩ Yahveni.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Maqtabanglar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yahni"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "maqtabanglar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ey mening jonim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahveni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:55.950061623Z",
+  "model": "glm-5.3"
+}

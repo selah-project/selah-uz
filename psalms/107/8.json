@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Yahvega Uning xesedi uchun va odam bolilariga qilgan moʻjizalari uchun shukur aytsinlar.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "shukur aytsinlar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Uning xesedi uchun"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "va Uning moʻjizalari"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bolalariga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:36.965163547Z",
+  "model": "glm-5.3"
+}

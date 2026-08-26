@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 79,
+  "translation": "Toʻk gʻashingni xalqlar ustiga — seni tanimaganlarga, va shohliklar ustiga — sening Ismingni chaqirmaganlarga.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Toʻk"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "gʻashingni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "seni tanimaganlarga"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ... ustiga"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "shohliklar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "sening Ismingni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "chaqirmaganlarga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:14.720887928Z",
+  "model": "glm-5.3"
+}

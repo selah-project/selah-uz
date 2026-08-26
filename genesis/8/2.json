@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va chuqurlik buloqlari va osmonlar ochiqlari yopildi, va yomgʻir osmonlardan tiyildi.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "yopildi"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "buloqlari"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "chuqurlik"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "va ochiqlari"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "tiyildi"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "yomgʻir"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlardan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:32:33.756705439Z",
+  "model": "glm-5.3"
+}

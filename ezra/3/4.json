@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va ⟨את⟩ kulbalar bayramini yozilgandek bajardilar, va kunning kunga qurbonligini — soni boʻyicha, qoidaga muvofiq, har kunning ishini oʻz kunida.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "bajardilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kulbalar bayramini"
+    },
+    {
+      "surface": "חג",
+      "gloss": "bayramini"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "kulbalar"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "yozilgandek"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "qurbonligini"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kunning"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunga"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "soni boʻyicha"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "qoidaga muvofiq"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ishini"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kunning"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "oʻz kunida"
+    }
+  ],
+  "timestamp": "2026-08-26T07:37:48.514596313Z",
+  "model": "glm-5.3"
+}

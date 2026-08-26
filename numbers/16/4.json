@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va Moshe ⟨buni⟩ eshitdi va yuzining ustiga yiqildi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "va yiqildi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustiga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzining"
+    }
+  ],
+  "timestamp": "2026-08-26T08:23:08.058673222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 8,
+  "translation": "Va shoh xotindan soʻradi, va u unga soʻzlab berdi; va shoh unga bitta saris tayinladi, deyib: ⟨את⟩ unga tegishli hamma narsani va ⟨את⟩ dalaning barcha hosilini qaytar — yerni tark etgan kunidan hozirgi vaqtgacha.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "va soʻradi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "xotindan"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "va u soʻzlab berdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va tayinladi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "saris"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bitta"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyib"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "qaytar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hamma narsani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hamma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "narsani ki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga tegishli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dalaning barcha hosilini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "hosilini"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "dalaning"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kundan"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "tark etgan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va … gacha"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "hozirgi vaqt"
+    }
+  ],
+  "timestamp": "2026-08-26T08:32:54.940445507Z",
+  "model": "glm-5.3"
+}

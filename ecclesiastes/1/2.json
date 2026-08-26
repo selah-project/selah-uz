@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Havel havelim, dedi Kohelet; havel havelim, hammasi havel.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "havel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "havelim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "havel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "havelim"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "havel"
+    }
+  ],
+  "timestamp": "2026-08-26T07:17:48.009900449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va has-satan Yahveni ⟨את⟩ javob berdi va dedi: „Bekorgami Iyov Elohimdan qoʻrqadi?“",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "has-satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "bekorgami"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qoʻrqadi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyov"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimdan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:53:38.109075113Z",
+  "model": "glm-5.3"
+}

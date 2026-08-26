@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Yahvega minnatdorlik ayting chertmalilar bilan, oʻn torli navoda Unga chalingilar.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "minnatdorlik ayting"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "chertmalilar bilan"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "navoda"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "oʻn torli"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "chalingilar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Unga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:04:52.685532263Z",
+  "model": "glm-5.3"
+}

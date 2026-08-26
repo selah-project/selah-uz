@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 64,
+  "translation": "Sen ⟨את⟩ xursand boʻlgan va adolat ishlaganni, Seni yoʻllaringda eslab yurganlarni uchrattirding; mana, Sen gʻazablanding va biz gunoh qildik; ularda ⟨biz⟩ qadimdan ⟨turib⟩ qutqarildik.",
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "uchrattirding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xursand boʻlgan va adolat ishlaganni"
+    },
+    {
+      "surface": "שש",
+      "gloss": "xursand boʻlgan"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "va ishlagan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "Seni yoʻllaringda"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "eslab yurganlarni"
+    },
+    {
+      "surface": "הן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "gʻazablanding"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "va biz gunoh qildik"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ularda"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "qadimdan"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "va qutqarildik"
+    }
+  ],
+  "timestamp": "2026-08-26T08:36:48.725572408Z",
+  "model": "glm-5.3"
+}

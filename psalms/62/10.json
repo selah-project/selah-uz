@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 62,
+  "translation": "Albatta havodan iborat odam bolalari, yolgʻondan iborat odam oʻgʻillari — tarozida ⟨koʻtarilganda⟩ ular hammasi havodan yengilroqdir.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Albatta"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "havodan iborat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bolalari"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "yolgʻondan iborat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "tarozida"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "⟨koʻtarilganda⟩"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "havodan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "hammasi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:23.944611962Z",
+  "model": "glm-5.3"
+}

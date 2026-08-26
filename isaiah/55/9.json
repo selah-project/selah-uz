@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Chunki osmonlar yerdan baland boʻlganidek, Mening yoʻllarim sizlarning yoʻllaringizdan, va Mening oʻylarim sizlarning oʻylaringizdan shunday baland.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "baland"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "osmonlar"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "baland"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "yoʻllarim"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "yoʻllaringizdan"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "va-oʻylarim"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "oʻylaringizdan"
+    }
+  ],
+  "timestamp": "2026-08-26T04:31:47.228729710Z",
+  "model": "glm-5.3"
+}

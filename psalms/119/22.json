@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Men ustidan haqorat va mensimilikni olib tashla, chunki Sening guvohliklaringni saqladim.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "olib tashla (yumib)"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "men ustidan"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "haqorat"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "va mensimilikni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Sening guvohliklaringni"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "saqladim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:32:05.806290983Z",
+  "model": "glm-5.3"
+}

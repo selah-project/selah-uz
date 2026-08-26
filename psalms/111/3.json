@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 111,
+  "translation": "Ulugʻlik va shuhrat ⟨dir⟩ uning amali, va uning solihligi abadiy turadi.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "ulugʻlik"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "va shuhrat"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "uning amali"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "va uning solihligi"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "turadi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:29:48.408396167Z",
+  "model": "glm-5.3"
+}

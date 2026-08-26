@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va u elchi bilan kurashdi va gʻolib boʻldi; yigʻladi va unga yolvordi; Beit-El ⟨uni⟩ topadi va u yerda biz bilan gapiradi.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "kurashdi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bilan"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "elchi"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "gʻolib boʻldi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "yigʻladi"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "yolvordi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "topadi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "va u yerda"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "gapiradi"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "biz bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:37:30.251558286Z",
+  "model": "glm-5.3"
+}

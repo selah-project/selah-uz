@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 39,
+  "translation": "Yahve Moshega buyurganidek, barchasini Yisroel oʻgʻillari shunday qildilar — ⟨את⟩ butun ishni.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "barchasini ... deganidek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niki"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "buyurganidek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshega"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qildilar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisroel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "butun ishni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ishni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:01.578761817Z",
+  "model": "glm-5.3"
+}

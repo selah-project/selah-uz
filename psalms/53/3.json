@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 53,
+  "translation": "Elohim osmonlardan odam bolalariga qarab tushdi, aqlli, Elohimni ⟨את⟩ izlagan bormi, deb koʻrish uchun.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "osmonlardan"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "qarab tushdi"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga qarab"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…bolalariga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "koʻrish uchun"
+    },
+    {
+      "surface": "היש",
+      "gloss": "bormi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "aqlli"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "izlagan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohimni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:11.614424098Z",
+  "model": "glm-5.3"
+}

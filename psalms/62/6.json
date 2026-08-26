@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 62,
+  "translation": "Faqat Elohimga sokin intil, ey nefeshim, chunki Udan ⟨keladi⟩ umidim.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohimga"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "sokin intil"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ey nefeshim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "Udan"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "umidim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:06.588665348Z",
+  "model": "glm-5.3"
+}

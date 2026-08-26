@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Chunki podshoh Yahvega tayanadi va Elyonning xesedida u mutlaqo qimirlamaydi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tayanadi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "va ... xesedida"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyonning"
+    },
+    {
+      "surface": "בל",
+      "gloss": "mutlaqo"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "qimirlamaydi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:41:58.127069363Z",
+  "model": "glm-5.3"
+}

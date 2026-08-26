@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Ogʻzi laʼnat, firibgarlik va zoʻravonlik bilan toʻla; tili ostida mehnat va gunoh yotadi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "laʼnat"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ogʻzi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "toʻla"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "firibgarlik"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "zoʻravonlik"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "tili"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mehnat"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "gunoh"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:48.181869939Z",
+  "model": "glm-5.3"
+}

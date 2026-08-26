@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "va ⟨את⟩ hovonlarni atrofdagi hovli uchun, va ⟨את⟩ hovli darvozasi hovonlarini, va ⟨את⟩ Mishkan butun qoziqlarini va ⟨את⟩ hovli butun qoziqlarini atrofdan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hovonlar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "hovonlarni"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hovli"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofdagi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "hovonlar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "hovonlarini"
+    },
+    {
+      "surface": "שער",
+      "gloss": "darvozasi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hovli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun qoziqlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "qoziqlarini"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "butun qoziqlar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "qoziqlarini"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hovli"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "atrofdan"
+    }
+  ],
+  "timestamp": "2026-08-26T08:20:39.111022200Z",
+  "model": "glm-5.3"
+}

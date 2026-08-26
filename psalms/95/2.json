@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 95,
+  "translation": "Yuzining oldiga minnatdorchilik bilan kirib boraylik, unga z沫irlar bilan baqiraylik.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "kirib boraylik"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "yuzining oldiga"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "minnatdorchilik bilan"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "z沫irlar bilan"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "baqiraylik"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:33.611608890Z",
+  "model": "glm-5.3"
+}

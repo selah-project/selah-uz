@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 80,
+  "translation": "Olovda kuydirilgan, kesib tashlangan — Sening yuzingning tanbehidan ular yoʻq boʻlib ketadi.",
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "kuydirilgan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovda"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "kesib tashlangan"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "tanbehidan"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzingning"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "yoʻq boʻlib ketadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:29.733284487Z",
+  "model": "glm-5.3"
+}

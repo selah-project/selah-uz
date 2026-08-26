@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va Xazael, Aram podshohi, Yehoaxazning barcha kunlarida ⟨את⟩ Isroilni ezib qiynadi.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Va Xazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ezib qiynadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroilni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kunlarida"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoaxazning"
+    }
+  ],
+  "timestamp": "2026-08-26T03:56:16.735533477Z",
+  "model": "glm-5.3"
+}

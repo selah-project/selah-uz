@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 26,
+  "translation": "Chunki Avraham ovozimga quloq soldi va parvarishimga qaradi — buyruqlarimga, farmonlarimga va Tavrotlarimga.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "quloq soldi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ovozimga"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "va qaradi"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "parvarishimga"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "buyruqlarimga"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "farmonlarimga"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "va Tavrotlarimga"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:51.819282856Z",
+  "model": "glm-5.3"
+}

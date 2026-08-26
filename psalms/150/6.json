@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 150,
+  "translation": "Har bir nafas egasi Yahni madh etsin, madh etinglar Yahni!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "nafas egasi"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "madh etsin"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "madh etinglar"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:02.374909904Z",
+  "model": "glm-5.3"
+}

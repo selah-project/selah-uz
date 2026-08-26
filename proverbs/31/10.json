@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 31,
+  "translation": "Qadrli ayolni topish mumkinmi? Uning qadrmaroshi marvaridlardan ham uzoqdan balanddir.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "qadrli"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "topadi"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "va balanddir"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "marvaridlardan"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "uning qadrmaroshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:52:40.393393590Z",
+  "model": "glm-5.3"
+}

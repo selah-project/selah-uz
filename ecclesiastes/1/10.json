@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Bormi bir narsa — deb aytiladigan: Koʻr, bu — yangi! — u allaqachon boʻlgan abadiylar davomida, u bizdan oldin boʻlgan.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "bormi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bir narsa"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "deb aytiladigan"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "koʻr"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "yangi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "allaqachon"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "abadiylar davomida"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "bizdan oldin"
+    }
+  ],
+  "timestamp": "2026-08-26T07:19:06.780321036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 55,
+  "translation": "Kech va tong, va peshinda — mulohaza yuritaman va shivillayman, va ⟨u⟩ mening ovozimni eshitdi.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Kech"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "va tong"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "va peshinda"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "mulohaza yuritaman"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "va shivillayman"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mening ovozimni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:12:37.346238261Z",
+  "model": "glm-5.3"
+}

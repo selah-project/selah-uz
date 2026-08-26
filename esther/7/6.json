@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Va Ester aytdi: „Dushman va adovatli odam — bu yovil Haman.“ Va Haman shoh va malika yuzasidan qoʻrquvga tushdi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dushman"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "va adovatli"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "yovil"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "va Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "qoʻrquvga tushdi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "yuzasidan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "va malika"
+    }
+  ],
+  "timestamp": "2026-08-26T07:26:29.804689988Z",
+  "model": "glm-5.3"
+}

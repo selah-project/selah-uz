@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Ular shoshildilar va har biri ⟨את⟩ xaltasini yerga tushirdi, va har biri oʻz xaltasini ochdi.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "shoshildilar"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "tushirdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xaltasini"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "xaltasini"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "ochdi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har biri"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "oʻz xaltasini"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:19.629576690Z",
+  "model": "glm-5.3"
+}

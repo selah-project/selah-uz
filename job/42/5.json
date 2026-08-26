@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 42,
+  "translation": "Quloq bilan eshitganman seni, ammo endi koʻzim koʻrdi seni.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "eshitish bilan"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "quloq"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "eshitganman seni"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "ammo endi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻzim"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "koʻrdi seni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:12:20.871247521Z",
+  "model": "glm-5.3"
+}

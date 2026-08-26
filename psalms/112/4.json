@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 112,
+  "translation": "Zulmatda toʻgʻri odamlarga nur tutib ⟨–⟩: rahmli va mehribon va odil.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "tutib"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "zulmatda"
+    },
+    {
+      "surface": "אור",
+      "gloss": "nur"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "toʻgʻri odamlarga"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "rahmli"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "va mehribon"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "va odil"
+    }
+  ],
+  "timestamp": "2026-08-26T06:30:05.523821339Z",
+  "model": "glm-5.3"
+}

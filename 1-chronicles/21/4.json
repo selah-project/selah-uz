@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Ammo shohning so'zi Yoav ustidan kuchli bo'ldi, va Yoav chiqdi va butun Isroil bo'ylab yurdi va Yerushalaimga keldi.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "so'zi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shohning"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kuchli bo'ldi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "chiqdi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "yurdi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "butun ... bo'ylab"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "keldi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-08-26T08:00:39.613804152Z",
+  "model": "glm-5.3"
+}

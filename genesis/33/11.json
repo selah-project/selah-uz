@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Oling, iltimos, ⟨את⟩ duomni — sen uchun keltirilgan — chunki inoyat qildi menga Elohim, va chunki bor menga hammasi. Va u unda turdi va u oldi.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "oling"
+    },
+    {
+      "surface": "נא",
+      "gloss": "iltimos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "duomni"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "duom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "keltirilgan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sen uchun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "inoyat qildi menga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "va chunki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hammasi"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "va turdi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "unda"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "va oldi"
+    }
+  ],
+  "timestamp": "2026-08-26T00:41:24.526799649Z",
+  "model": "glm-5.3"
+}

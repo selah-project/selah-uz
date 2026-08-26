@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 78,
+  "translation": "Va ular sinadilar va ⟨את⟩ Elohim Elyonga isyon koʻtardilar, va uning guvohliklarini saqlamadilar.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "sinadilar"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ison koʻtardilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyonni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "va uning guvohliklarini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "saqladilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:20:05.670126489Z",
+  "model": "glm-5.3"
+}

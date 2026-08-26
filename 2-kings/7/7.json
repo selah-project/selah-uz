@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Ular turdilar va qorongʻu paytda qochdilar, va ⟨את⟩ chodirlarini, va ⟨את⟩ otlarini va ⟨את⟩ eshaklarini tashlab — lagerni xuddi shu holicha — va jonlarini saqlash uchun qochdilar.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "turdilar"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "qochdilar"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "qorongʻu paytda"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "tashlab ketdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chodirlarini"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "chodirlarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "otlarini"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "otlarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "eshaklarini"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "eshaklarini"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lager"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "xuddi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "shu holicha"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "qochdilar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-tomon"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "jonlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T03:51:42.655730645Z",
+  "model": "glm-5.3"
+}

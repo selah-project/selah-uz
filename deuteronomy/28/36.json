@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "deuteronomy 28:36",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Yahve seni va ustingga qo'ygan shohingni sen ham, otalaring ham tanimagan xalqga olib boradi, va u yerda boshqa elohlarga — yog'ochga va toshga — xizmat qilasiz.",
+  "tokens": [
+    {
+      "surface": "יולך",
+      "gloss": "olib boradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "seni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "shohingni"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "shohingni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "qo'ygan"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ustingga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tomon"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "xalqga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yo'q"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tanimagan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "ואבתיך",
+      "gloss": "va otalaring"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "va xizmat qilasiz"
+    },
+    {
+      "surface": "שם",
+      "gloss": "u yerda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "elohlarga"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yog'ochga"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "va toshga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:04:42.982601121Z",
+  "model": "glm-5.3"
+}

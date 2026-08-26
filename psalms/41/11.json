@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va Sen, Yahve, menga rahm qil va meni koʻtargil, va ularga qarshi toʻlayman.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "va Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "menga rahm qil"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "va meni koʻtargil"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "va ... toʻlayman"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularning ustiga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:08:43.912762514Z",
+  "model": "glm-5.3"
+}

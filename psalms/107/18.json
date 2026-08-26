@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 107,
+  "translation": "Har qanday ovqatni nefeshlari yomon koʻradi, va ular oʻlim darvozalarigacha yetib keladilar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ovqat"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "yomon koʻradi"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefeshlari"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "va yetib keladilar"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "darvozalari"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:28:41.391266777Z",
+  "model": "glm-5.3"
+}

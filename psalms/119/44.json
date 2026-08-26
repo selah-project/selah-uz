@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 119,
+  "translation": "Va saqlayman Sening Toringni doim, abadiy va batamom.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "va saqlayman"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Sening Toringni"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "va batamom"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:44.870169997Z",
+  "model": "glm-5.3"
+}

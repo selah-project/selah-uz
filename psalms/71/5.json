@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 71,
+  "translation": "Chunki Sen ⟨ésan⟩ umidim, Adonay Yahve, ishonchim yoshligimdan boshlab.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "umidim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ishonchim"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "yoshligimdan boshlab"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:42.791216790Z",
+  "model": "glm-5.3"
+}

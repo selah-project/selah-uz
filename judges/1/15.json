@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va u unga aytdi: Menga sovga ber, chunki mengi qurgʻoqchil Janub yerini berding — menga suv buloqlarini ham ber. Va Kalev unga ⟨את⟩ yuqori buloqlar va ⟨את⟩ quyi buloqlarni berdi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Va u aytdi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "ber"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "sovga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Janub (Negev)"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "berding menga"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "va ber"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "buloq"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va berdi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "unga"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuqori buloqlar"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "buloqlar"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "yuqori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "quyi buloqlar"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "buloqlar"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "quyi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:24:58.883525573Z",
+  "model": "glm-5.3"
+}

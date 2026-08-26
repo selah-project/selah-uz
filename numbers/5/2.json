@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Buyur ⟨את⟩ Isroil oʻgʻillariga va ular lagerdan chiqarsinlar har bir mossadorangni va har bir oqizuvchini va har bir nefesh uchun nopokni.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "buyur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isroil oʻgʻillari"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "va ular chiqarsinlar"
+    },
+    {
+      "surface": "מן",
+      "gloss": "dan"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "lager"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "mossadorang"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va har bir"
+    },
+    {
+      "surface": "זב",
+      "gloss": "oqizuvchi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va har bir"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "nopok"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "nefesh uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:28:22.434629845Z",
+  "model": "glm-5.3"
+}

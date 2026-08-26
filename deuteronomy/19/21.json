@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Va koʻzing ayamasin: nefesh ⟨uning uchun⟩ nefesh, koʻz koʻz uchun, tish tish uchun, qoʻl qoʻl uchun, oyoq oyoq uchun.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "va ... -mas"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ayamasin"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "koʻzing"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "nefesh ⟨uchun⟩"
+    },
+    {
+      "surface": "עין",
+      "gloss": "koʻz"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "koʻz ⟨uchun⟩"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tish"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "tish ⟨uchun⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "qoʻl"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "qoʻl ⟨uchun⟩"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "oyoq"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "oyoq ⟨uchun⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T01:57:29.268702191Z",
+  "model": "glm-5.3"
+}

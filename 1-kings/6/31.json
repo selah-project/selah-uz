@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Devir ⟨the⟩ kirish joyiga esa u zaytun yogʻochidan eshiklar yasadi — toʻsin va ustunlar besh qirrali ⟨edi⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "kirish joyi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "kirish joyi"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yasadi"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "eshiklar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zaytun"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "toʻsin"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "ustunlar"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "besh qirrali"
+    }
+  ],
+  "timestamp": "2026-08-26T08:31:35.549285700Z",
+  "model": "glm-5.3"
+}

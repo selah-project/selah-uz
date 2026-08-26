@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "uz",
+  "chapter": 24,
+  "translation": "Va Yehoshua oʻsha kuni xalq uchun ahd kesdi va unga Shexemda farz va hukm qoʻydi.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "kesdi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ahd"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "xalq uchun"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oʻsha"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "va qoʻydi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "חק",
+      "gloss": "farz"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "va hukm"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "Shexemda"
+    }
+  ],
+  "timestamp": "2026-08-26T02:23:13.525382148Z",
+  "model": "glm-5.3"
+}

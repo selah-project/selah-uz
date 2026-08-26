@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va agar bir odam kelini bilan yotsa — ikkalasi ham albatta oʻlimga mahkum etilsin; ular chiralashtirish qilganlar; ularning qoni oʻzlarining boʻlsin.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Va agar bir odam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "yotsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kelini"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "kelini"
+    },
+    {
+      "surface": "מות",
+      "gloss": "oʻlimga"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mahkum etilsin"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ikkalasi ham"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "chiralashtirish"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qilganlar"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "ularning qoni"
+    },
+    {
+      "surface": "בם",
+      "gloss": "oʻzlarining boʻlsin"
+    }
+  ],
+  "timestamp": "2026-08-26T08:21:55.784809436Z",
+  "model": "glm-5.3"
+}

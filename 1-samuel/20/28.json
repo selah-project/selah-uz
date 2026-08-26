@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 20:28",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va Yehonatan ⟨את⟩ Shaulga javob berdi: «Dovud mendan soʻrab-soʻradi Bet-Lexemgacha ⟨ketish uchun».",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "javob berdi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "soʻrab"
+    },
+    {
+      "surface": "נשאל",
+      "gloss": "soʻradi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dovud"
+    },
+    {
+      "surface": "מעמדי",
+      "gloss": "mendan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…gacha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lexem"
+    }
+  ],
+  "timestamp": "2026-08-26T02:54:34.232850909Z",
+  "model": "glm-5.3"
+}

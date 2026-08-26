@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 16:15",
+  "book": "ezekiel",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Va chiroylingga ishonding va noming sababli zino qilding va zinoingni ⟨את⟩ har bir oʻtuvchiga toʻkding — u unga boʻldi.",
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "ishonding"
+    },
+    {
+      "surface": "ביפיך",
+      "gloss": "chiroylingga"
+    },
+    {
+      "surface": "ותזני",
+      "gloss": "va zino qilding"
+    },
+    {
+      "surface": "על",
+      "gloss": "sababli"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "noming"
+    },
+    {
+      "surface": "ותשפכי",
+      "gloss": "va toʻkding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zinoingni"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "zinoingni"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "har bir"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "oʻtuvchiga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "unga"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "boʻldi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:14:43.641085376Z",
+  "model": "glm-5.3"
+}

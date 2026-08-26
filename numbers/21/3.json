@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Va Yahve Isroilning ovozini eshitdi va kanaanlikni ⟨את⟩ taslim qildi; va ⟨ular⟩ ⟨את⟩ ularni va ⟨את⟩ ularning shaharlarini cherimga bagʻishladi va joyning nomini Horma deb atadi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "va eshitdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ovozini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroilning"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va taslim qildi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kanaanlikni"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kanaanlik"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "va cherimga bagʻishladi"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "ularning shaharlarini"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "ularning shaharlari"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "va atadi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomini"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "joyning"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Horma"
+    }
+  ],
+  "timestamp": "2026-08-26T01:37:46.091952717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va Yahve ⟨את⟩ odamni uzoqlashtiradi, va tashlab ketilgan ⟨oʻrin⟩ yerning oʻrtasida koʻpayadi.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "uzoqlashtiradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odamni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odamni"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "koʻpayadi"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "tashlab ketilgan"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "oʻrtasida"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    }
+  ],
+  "timestamp": "2026-08-26T04:09:42.948301900Z",
+  "model": "glm-5.3"
+}

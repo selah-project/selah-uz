@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 5:3",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Yoki agar odam nopokligiga — u nopok boʻladigan har qanday nopokligiga tegsa va bu undan yashirin boʻlsa, soʻng u bilsa — aybdor.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Yoki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "tegsa"
+    },
+    {
+      "surface": "בטמאת",
+      "gloss": "nopokligiga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "har qanday"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "uning nopokligi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "nopok boʻladi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "unda"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "va yashirin boʻldi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "va u"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bildi"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "va aybdor"
+    }
+  ],
+  "timestamp": "2026-08-26T01:11:59.543094607Z",
+  "model": "glm-5.3"
+}

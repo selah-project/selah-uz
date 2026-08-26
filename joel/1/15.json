@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Voy bu kunga! Chunki yaqin Yahve kuni, va u Shaddaydan ⟨keladigan⟩ halokatdek keladi.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "Voy"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bu kunga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "yaqin"
+    },
+    {
+      "surface": "יום",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "va halokatdek"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "Shadday"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "keladi"
+    }
+  ],
+  "timestamp": "2026-08-26T05:38:52.258548888Z",
+  "model": "glm-5.3"
+}

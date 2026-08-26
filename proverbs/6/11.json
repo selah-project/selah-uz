@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Va keladi qashshoqliging yoʻlovchi kabi, va ehtiyojing qalqonli odam kabi.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "va keladi"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "yoʻlovchi kabi"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "qashshoqliging"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "va ehtiyojing"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "odam kabi"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "qalqonli"
+    }
+  ],
+  "timestamp": "2026-08-26T08:45:49.646918611Z",
+  "model": "glm-5.3"
+}

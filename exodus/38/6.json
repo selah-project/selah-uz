@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 38,
+  "translation": "Va u ⟨את⟩ choʻzzallarni — akatsiya daraxti yogʻochidan — yasadi va ⟨את⟩ ularni mis bilan qopladi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "va u yasadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "choʻzzallarni"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "choʻzzallarni"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yogʻochidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akatsiya"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "va u qopladi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni (mis bilan qoplandi)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mis"
+    }
+  ],
+  "timestamp": "2026-08-26T01:06:02.358348557Z",
+  "model": "glm-5.3"
+}

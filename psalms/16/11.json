@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 16,
+  "translation": "Sen menga hayot yoʻlini bildirasan; Sening yuzing ⟨את⟩ oldida toʻqlarcha quvonchlar, oʻng qoʻlingda esa abadiylik neʼmatlari ⟨bor⟩.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Sen menga ... bildirasan"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "yoʻlini"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "hayot"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "toʻqlarcha"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "quvonchlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yuzing"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzing"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "neʼmatlari"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "oʻng qoʻlingda"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "abadiylik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:16.500406555Z",
+  "model": "glm-5.3"
+}

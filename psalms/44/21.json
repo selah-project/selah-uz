@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 44,
+  "translation": "Agar bizning Elohimning ismini unutgan boʻlsak va qoʻllarimizni begona elga yozgan boʻlsak —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "unutgan boʻlsak"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ismni"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohimning"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "va yozgan boʻlsak"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "qoʻllarimizni"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "elga"
+    },
+    {
+      "surface": "זר",
+      "gloss": "begona"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:00.426844185Z",
+  "model": "glm-5.3"
+}

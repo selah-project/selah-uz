@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 40,
+  "translation": "Bir marta gapirdim va javob bermayman, ikki marta va qoʻshmayman.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "bir marta"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "gapirdim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "javob bermayman"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "ikki marta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va ... emas"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "qoʻshmayman"
+    }
+  ],
+  "timestamp": "2026-08-26T07:09:04.116191453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 28,
+  "translation": "Yahve senga ⟨את⟩ vaboni yopishtiradi, ⟨את⟩ seni tugatmaguncha — ⟨the⟩ yerning ustidan, qaysi yerga sen kirmoqdasan uni egallash uchun.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "yopishtiradi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vaboni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "vaboni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "–guncha"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "tugatmaguncha"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ seni"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "qaysi yerga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kirmoqdasan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "u yerga"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "uni egallash uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T02:03:29.420880487Z",
+  "model": "glm-5.3"
+}

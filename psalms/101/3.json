@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 101,
+  "translation": "Koʻz oldimga Belial ishini qoʻymayman; adashayotganlarning ishini yomon koʻraman — menga yopishmaydi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "qoʻymayman"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "oldimga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "koʻz"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ish"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qiluvchilarning"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "adashayotganlarning"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "yomon koʻraman"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "yopishmaydi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "menga"
+    }
+  ],
+  "timestamp": "2026-08-26T06:25:32.584239259Z",
+  "model": "glm-5.3"
+}

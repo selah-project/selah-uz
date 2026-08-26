@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Rahshiy yuzidan — shular meni talon-taroj qildi — dushmanlarim jon uchun atrofimda aylanib yuradilar.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "yuzidan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "rahshiy"
+    },
+    {
+      "surface": "זו",
+      "gloss": "shular"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "meni talon-taroj qildi"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "dushmanlarim"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "jon uchun"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "atrofimda aylanib yuradilar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga qarshi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:45.135330982Z",
+  "model": "glm-5.3"
+}

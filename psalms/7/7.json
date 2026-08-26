@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 7,
+  "translation": "Tur - ko'taril, Yahve, g'azabingda; ko'taril dushmanlarimning g'azablari - yuzidan va uyg'on menga - qarshi: hukmni buyurgansan.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tur - ko'taril"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "g'azabingda"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "ko'taril"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "g'azablari - yuzidan"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "dushmanlarimning"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "va uyg'on"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga - qarshi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "hukmni"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "buyurgansan"
+    }
+  ],
+  "timestamp": "2026-08-26T05:59:13.317016516Z",
+  "model": "glm-5.3"
+}

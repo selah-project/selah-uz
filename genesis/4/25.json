@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "Va Adam yana xotinini ⟨oddiy⟩ bildi — u yana ⟨את⟩ xotiniga yaqin boʻldi va u oʻgʻil tuğdi va ⟨את⟩ uning ismini Shet deb atadi, chunki Elohim meniga Hebel oʻrniga boshqa urugʻ qoʻydi, chunki uni Qayin oʻldirgan edi.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "bildi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "yana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "xotinini"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "xotinini"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "va u tuğdi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "va u atadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning ismini"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "uning ismini"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "שת",
+      "gloss": "qoʻydi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meniga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "urugʻ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "oʻrniga"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "uni oʻldirgan edi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Qayin"
+    }
+  ],
+  "timestamp": "2026-08-26T00:30:51.027541244Z",
+  "model": "glm-5.3"
+}

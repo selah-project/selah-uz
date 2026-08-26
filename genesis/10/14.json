@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va ⟨את⟩ Patrusim va ⟨את⟩ Kasluxim — ulardan Pelishtimlar chiqdi — va ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Kasluxim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluxim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ulardan chiqdi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ulardan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtimlar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:07.370163450Z",
+  "model": "glm-5.3"
+}

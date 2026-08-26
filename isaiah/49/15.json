@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 49:15",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Ayol emizikli chaqalogʻini, qornining oʻgʻlini unutadimi? Agar hatto bular unutsa ham, Men seni unutmayman.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "unutadimi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "emizikli chaqalogʻini"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "rahm qilib"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻlini"
+    },
+    {
+      "surface": "בטנה",
+      "gloss": "qornining"
+    },
+    {
+      "surface": "גם",
+      "gloss": "hatto"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bular"
+    },
+    {
+      "surface": "תשכחנה",
+      "gloss": "unutsa ham"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "va Men"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "seni unutmayman"
+    }
+  ],
+  "timestamp": "2026-08-26T04:29:29.463844623Z",
+  "model": "glm-5.3"
+}

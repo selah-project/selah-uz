@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Yurtlaringiz vayrona, shaharlaringingiz oʻt bilan kuydirilgan, tuprogʻingizni — koʻzingiz oldida yodlar yeb ⟨את⟩ uni, vayrona, yodlarning agʻdarilganidek.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "yurtlaringiz"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "vayrona"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "shaharlaringingiz"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "kuydirilgan"
+    },
+    {
+      "surface": "אש",
+      "gloss": "oʻt bilan"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "tuprogʻingizni"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "koʻzingiz oldida"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yodlar"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "yeb"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uni"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "vayrona"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "agʻdarilganidek"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yodlarning"
+    }
+  ],
+  "timestamp": "2026-08-26T08:33:40.506403137Z",
+  "model": "glm-5.3"
+}

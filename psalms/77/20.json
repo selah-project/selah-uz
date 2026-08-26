@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 77,
+  "translation": "Dengizda ⟨bor⟩ yoʻling va izlaring koʻp suvlarda, ammo oyoq izlaring bilinmadi.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "dengizda"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "yoʻling"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "va izlaring"
+    },
+    {
+      "surface": "במים",
+      "gloss": "suvlarda"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "va oyoq izlaring"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "bilinmadi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:19:32.269280212Z",
+  "model": "glm-5.3"
+}

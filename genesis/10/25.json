@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Everga ikki oʻgʻil tugʻildi: birining nomi Peleg, chunki uning kunlarida yer boʻlindi, va ukasining nomi Yoktan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "Va Everga"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "tugʻildi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "oʻgʻil"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nomi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "birining"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "uning kunlarida"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "boʻlindi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "va nomi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ukasining"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Yoktan"
+    }
+  ],
+  "timestamp": "2026-08-26T00:33:06.482378043Z",
+  "model": "glm-5.3"
+}

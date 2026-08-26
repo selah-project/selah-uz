@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 17:2",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 17,
+  "translation": "Shaol va Isroil erlari yigʻildilar va Elah vodiysida qarorgoh qurdilar va Pelishtilarga qarshi jangga saf tortdilar.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Shaol"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "va ... erlari"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Isroil"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "yigʻildilar"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "qarorgoh qurdilar"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "vodiysida"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Elah"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "saf tortdilar"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "jangga"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "qarshi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtilarga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:48:55.313795361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 6,
+  "translation": "Yana quyosh ⟨ni⟩ koʻrmagan va bilmagan; shunga boshqasidan ortiq tinchlik ⟨bor⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "yana"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "koʻrmagan"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "koʻrmagan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va bilmagan"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bilmagan"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "tinchlik"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "shunga"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "boshqasidan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:34.794872057Z",
+  "model": "glm-5.3"
+}

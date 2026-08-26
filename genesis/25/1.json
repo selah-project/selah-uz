@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Avraham yana qo‘shib ayol oldi, uning ismi Qeturah edi.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "yana qo‘shib"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "oldi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "uning ismi"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Qeturah"
+    }
+  ],
+  "timestamp": "2026-08-26T00:38:36.487699972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 64,
+  "translation": "Va Elohim ularga oʻq bilan otadi — toʻsatdan ularning zararlari boʻladi.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "otadi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "oʻq bilan"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "toʻsatdan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "boʻladi"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ularning zararlari"
+    }
+  ],
+  "timestamp": "2026-08-26T06:14:35.552769257Z",
+  "model": "glm-5.3"
+}

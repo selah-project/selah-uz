@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Noningni suvning yuziga yubor, chunki koʻp kunlarda sen uni topasan.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "yubor"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "noningni"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuziga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "suvning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "koʻp"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kunlarda"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "sen uni topasan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:22:29.941462051Z",
+  "model": "glm-5.3"
+}

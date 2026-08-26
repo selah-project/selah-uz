@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Va Yitsxak ⟨את⟩ Esavni sevardi, chunki ov uning ogʻzida ⟨bor⟩ edi; Rivqa esa ⟨את⟩ Yaakovni sevardi.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "va sevardi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitsxak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esavni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "ov"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "uning ogʻzida"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "va Rivqa"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "sevardi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakovni"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-26T00:37:50.556590304Z",
+  "model": "glm-5.3"
+}

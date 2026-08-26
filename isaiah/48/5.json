@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 48,
+  "translation": "Va sen-ga bildirdim oʻshandan beri, sen kelishingdan ilgʻari seni eshittirdim — sen: „Butlarim qildi buni, va oʻyma haykallarim va quyirma haykallarim buyurdi ularni“ desang deb.",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "bildirdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sen-ga"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "oʻshandan beri"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ilgʻari"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "sen kelishingdan"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "seni eshittirdim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "— desang deb"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sen desang"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "butlarim"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "qildi buni"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "va oʻyma haykallarim"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "va quyirma haykallarim"
+    },
+    {
+      "surface": "צום",
+      "gloss": "buyurdi ularni"
+    }
+  ],
+  "timestamp": "2026-08-26T04:29:01.581526911Z",
+  "model": "glm-5.3"
+}

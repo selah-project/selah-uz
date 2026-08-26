@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va Reuven oʻgʻillari ⟨את⟩ Cheshbonni va ⟨את⟩ Elaleeni va ⟨את⟩ Kiryataimni qurdilar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Va ... oʻgʻillari"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "qurdilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Cheshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbonni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elaleeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "Kiryataim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiryataimni"
+    }
+  ],
+  "timestamp": "2026-08-26T01:44:13.322969037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Va ⟨את⟩ tomlarda osmon sahnaviga sajda qiluvchilarni, va ⟨את⟩ Yahvega qasam ichuvchi hamda oʻz malxlariga qasam ichuvchilarni ⟨⟨qirib tashlayman⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tomlarda sajda qiluvchilarni"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "sajda qiluvchilarni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "tomlarda"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "sahnaviga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "qasam ichuvchilarni"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "sajda qiluvchilarni"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "qasam ichuvchilarni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvega"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "va qasam ichuvchilar"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "oʻz malxlariga"
+    }
+  ],
+  "timestamp": "2026-08-26T05:49:11.731299469Z",
+  "model": "glm-5.3"
+}

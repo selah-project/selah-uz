@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Chunki kulni non kabi yedim va ichimni koʻz yoshlar bilan aralashtirdim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "kul"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "non kabi"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "yedim"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "va ichimni"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "koʻz yosh bilan"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "aralashtirdim"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:23.193842455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 70,
+  "translation": "Xorchiga, Dovudga, eslatish uchun.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "xorchiga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dovudga"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "eslatish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:16.097810281Z",
+  "model": "glm-5.3"
+}

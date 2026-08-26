@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 135,
+  "translation": "Yahve, isming abadiyat uchun; Yahve, zikring avlod va avlod uchun.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "isming"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiyat uchun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "zikring"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "avlod uchun"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "va avlod"
+    }
+  ],
+  "timestamp": "2026-08-26T06:35:01.416734848Z",
+  "model": "glm-5.3"
+}

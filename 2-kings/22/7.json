@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Faqat qoʻllariga berilgan kumush ⟨את⟩ ular bilan hisoblanmaydi, chunki ular sadoqat bilan ish qilmoqdalar.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "faqat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "hisoblanadi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ular bilan"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "berilgan"
+    },
+    {
+      "surface": "על",
+      "gloss": "elda"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "qoʻllari"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "sadoqat bilan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ular"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ish qilmoqdalar"
+    }
+  ],
+  "timestamp": "2026-08-26T04:03:06.782814395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 9,
+  "translation": "Va yaqinlashdi Ahron qurbongohga, va soʻydi ⟨את⟩ buzoqni — gunoh qurboni, ki uning uchun edi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "va yaqinlashdi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ahron"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "qurbongoh"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "va soʻydi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buzoqni"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "buzoq"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "gunoh qurboni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uning uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T01:13:29.089104071Z",
+  "model": "glm-5.3"
+}

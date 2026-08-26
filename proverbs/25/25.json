@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "uz",
+  "chapter": 25,
+  "translation": "Sovuq suvlar charchagan nefeshga — va uzoq yerdan kelgan yaxshi xabar ⟨uning uchun shundaydir⟩.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "sovuq"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga (ustiga)"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nefesh"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "charchagan"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "va xabar"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yaxshi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdan"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "uzoq"
+    }
+  ],
+  "timestamp": "2026-08-26T06:50:01.214159828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va u tunning o'rtasida turdi va ⟨את⟩ mening o'g'limni yonimdan — sening chol... cho'riying uxlayotgan edi — oldi, va uni o'z ko'ksiga yotqizdi, va ⟨את⟩ o'lgan o'g'lini mening ko'ksimga yotqizdi.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Va ... turdi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "o'rtasida"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tunning"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "va ... oldi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mening o'g'limni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "o'g'limni"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "yonimdan"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "sening cho'riying"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "uxlayotgan edi"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "va ... yotqizdi"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "o'z ko'ksiga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "o'lgan o'g'lini"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "o'g'lini"
+    },
+    {
+      "surface": "המת",
+      "gloss": "o'lgan"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "yotqizdi"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "ko'ksimga"
+    }
+  ],
+  "timestamp": "2026-08-26T03:31:25.274081557Z",
+  "model": "glm-5.3"
+}

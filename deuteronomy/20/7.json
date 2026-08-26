@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "uz",
+  "chapter": 20,
+  "translation": "Va kim ⟨the⟩ odam, ki ayolni unashtirgan va uni olmagan? borsin va uyiga qaytsin; aks holda jangda o'lib qolsin va boshqa odam uni olsin.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "va kim"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "unashtirgan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …magan"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "olgan"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "borsin"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "va qaytsin"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "פן",
+      "gloss": "aks holda"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o'lib qolsin"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "jangda"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "va odam"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "boshqa"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "uni olsin"
+    }
+  ],
+  "timestamp": "2026-08-26T02:00:05.985212799Z",
+  "model": "glm-5.3"
+}

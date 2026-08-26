@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va ⟨u⟩ aytdi: Men barcha yaxshiligimni yuzing oldidan oʻtkazaman va Yahve ismini yuzing oldida e'lon qilaman; va marhamat qilganimga — ⟨את⟩ — marhamat qilaman, va rahm qilganimga — ⟨את⟩ — rahm qilaman.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va aytdi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Men"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "oʻtkazaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "yaxshiligimni"
+    },
+    {
+      "surface": "על",
+      "gloss": "uzra"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "yuzing"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "va e'lon qilaman"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ismni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "yuzing oldida"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "va marhamat qilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "marhamat qilganimga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimga"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "marhamat qilganimga"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "va rahm qilaman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "rahm qilganimga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kimga"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "rahm qilganimga"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:57.080253256Z",
+  "model": "glm-5.3"
+}

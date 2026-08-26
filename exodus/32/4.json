@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va u ularning qoʻlidan oldi va ⟨את⟩ uni oʻyma asbob bilan shaklladi va uni quyirma buzoqqa aylantirdi; va aytdilar: „Mana bular sening Elohimlaring, ey Isroil, seni Misr yeridan olib chiqqanlar!“",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Va oldi"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ularning qoʻlidan"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "va shaklladi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uni (oltin)"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "oʻyma asbob bilan"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "va uni aylantirdi"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "buzoq"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "quyirma"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va aytdilar"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "mana bular"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "sening Elohimlaring"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ey Isroil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "seni olib chiqqan"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yeridan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:47.681904055Z",
+  "model": "glm-5.3"
+}

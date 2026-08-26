@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Shunday dedi Yahve: Agar siz Mening kunduzgi ahdimni va Mening tungi ahdimni bekor qilsangiz, kunlaru tunning oʻz vaqtida boʻlmasligi uchun —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "shunday"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "dedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "bekor qilsangiz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mening kunduzgi ahdimni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Mening ahdim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kunduzgi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Mening tungi ahdimni"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "Mening ahdim"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tungi"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "uchun —mas"
+    },
+    {
+      "surface": "היות",
+      "gloss": "boʻlmasligi"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "kunlar"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "va tunning"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "oʻz vaqtida"
+    }
+  ],
+  "timestamp": "2026-08-26T04:56:10.026416950Z",
+  "model": "glm-5.3"
+}

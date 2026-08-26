@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 27,
+  "translation": "Va mehrobxona uchun tayoqlar yasaysiz, shitim daraxtidan yasalgan tayoqlar, va ularni ⟨את⟩ mis bilan qoplaysiz.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "va yasaysiz"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "tayoqlar"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mehrobxona uchun"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "tayoqlar"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "daraxtidan"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "va qoplaysiz"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mis"
+    }
+  ],
+  "timestamp": "2026-08-26T00:59:53.671169949Z",
+  "model": "glm-5.3"
+}

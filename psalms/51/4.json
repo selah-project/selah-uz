@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 51,
+  "translation": "Koʻp yu meni aybimdan, va xatomamdan pokla meni.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Koʻp"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "yu meni"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "aybimdan"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "va xatomamdan"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "pokla meni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:47.798960972Z",
+  "model": "glm-5.3"
+}

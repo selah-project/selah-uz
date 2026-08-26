@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Adad qochdi — u va otasining qullaridan baʼzi edomlik kishilar u ⟨את⟩ bilan — Misrga kirish uchun; va Hadad ⟨edi⟩ kichkina yigʻcha.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "qochdi"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Adad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "u"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "va kishilar"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "edomliklar"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "qullaridan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "otasining"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "u ⟨את⟩ bilan",
+      "marks": "Adad va edomliklar bilan birga"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kirish uchun"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misr"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "va Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "yigʻcha"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kichkina"
+    }
+  ],
+  "timestamp": "2026-08-26T03:37:43.151494180Z",
+  "model": "glm-5.3"
+}

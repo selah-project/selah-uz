@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 1,
+  "translation": "Boshlanishda Elohim ⟨את⟩ osmonlarni va ⟨את⟩ yerni yaratdi.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Boshlanishda"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "yaratdi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "osmonlarni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "osmonlarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "yerni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:29:52.492245402Z",
+  "model": "glm-5.3"
+}

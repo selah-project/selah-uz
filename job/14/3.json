@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va bunaqasi ustidan koʻzingni ochasanmi, va ⟨את⟩ meni oʻzing bilan sudga kiritasanmi?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Va ... -mi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bunaqasi"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "ochasan"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "koʻzingni"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "va ⟨את⟩",
+      "marks": "meni"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "kiritasan"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "sudga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "oʻzing bilan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:58:28.401675683Z",
+  "model": "glm-5.3"
+}

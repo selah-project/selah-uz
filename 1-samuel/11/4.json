@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "uz",
+  "chapter": 11,
+  "translation": "Va elchilar Shaulning Givʼasiga kelishdi va soʻzlarni xalqning qulogʻiga soʻzladi; va butun xalq ⟨את⟩ ovozlarini koʻtardi va yigʻladi.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "va kelishdi"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "elchilar"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Givʼa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaulning"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "va soʻzladi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "soʻzlarni"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "qulogʻiga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalqning"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "va koʻtardi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ovozlarini"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ovozlarini"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "va yigʻladi"
+    }
+  ],
+  "timestamp": "2026-08-26T02:47:29.898065779Z",
+  "model": "glm-5.3"
+}

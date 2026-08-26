@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 48,
+  "translation": "⟨Ular⟩ koʻrdi — shuning uchun hayron boʻldilar, dahshatga tushdilar, shoshilib qochdilar.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "⟨Ular⟩"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "hayron boʻldilar"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "dahshatga tushdilar"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "shoshilib qochdilar"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:23.252466547Z",
+  "model": "glm-5.3"
+}

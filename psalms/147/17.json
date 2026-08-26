@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 147,
+  "translation": "U muzini boʻlakchalardek sochib yuboradi; Uning sovuqligi oldidan kim turib oladi?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "sochib yuboradi"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "muzini"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "boʻlakchalardek"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "oldidan"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "sovuqligi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "turib oladi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:38:09.741196968Z",
+  "model": "glm-5.3"
+}

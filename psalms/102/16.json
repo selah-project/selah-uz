@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Va xalqlar Yahve ⟨את⟩ ismidan qoʻrqadilar va yerning barcha shohlari ⟨את⟩ ulugʻvorligingdan.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Va qoʻrqadilar"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "xalqlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ismidan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ismi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "va barcha"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "shohlari"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulugʻvorligingdan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ulugʻvorliging"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:27.566890476Z",
+  "model": "glm-5.3"
+}

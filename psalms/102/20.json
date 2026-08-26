@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 102,
+  "translation": "Chunki u oʻz muqaddas balandligidan tashqariga boqdi, Yahve osmondan yerga qaradi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "tashqariga boqdi"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "balandlikdan"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "oʻz muqaddas ⟨joyi⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "osmondan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "qaradi"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:04.558242373Z",
+  "model": "glm-5.3"
+}

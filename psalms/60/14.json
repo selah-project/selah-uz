@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 60,
+  "translation": "Elohim bilan jasorat qilamiz, va ⟨u⟩ dushmanlarimizni yoʻq qiladi.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim bilan"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "qilamiz"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "jasorat"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "va ⟨u⟩"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "yoʻq qiladi (bosib tashlaydi)"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "dushmanlarimizni"
+    }
+  ],
+  "timestamp": "2026-08-26T06:13:24.089153884Z",
+  "model": "glm-5.3"
+}

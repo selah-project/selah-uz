@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 118,
+  "translation": "Kuchim va madhim Yah ⟨dir⟩, va ⟨u⟩ menga najot boʻldi.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "kuchim"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "va madhim"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "va boʻldi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "najot uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:31:03.880253442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 104,
+  "translation": "Hayvon uchun oʻt oʻstiradi va odam xizmati uchun koʻkatni — yerdan non chiqarish uchun.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "oʻstiradi"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "oʻt"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "hayvon uchun"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "va koʻkatni"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "xizmati uchun"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "chiqarish uchun"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "non"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…dan"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T06:26:56.527051290Z",
+  "model": "glm-5.3"
+}

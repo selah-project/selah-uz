@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 18:21",
+  "book": "judges",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Ular yuz oʻgirdilar va ketdilar, va ⟨את⟩ bolalarni, va ⟨את⟩ mollarni, va ⟨את⟩ boyligni oʻz oldilariga qoʻydilar.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "yuz oʻgirdilar"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ketdilar"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "qoʻydilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolalarni"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "bolalarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "mollarni"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "mollarni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "boyligni"
+    },
+    {
+      "surface": "הכבודה",
+      "gloss": "boyligni"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "oʻz oldilariga"
+    }
+  ],
+  "timestamp": "2026-08-26T02:37:09.526993875Z",
+  "model": "glm-5.3"
+}

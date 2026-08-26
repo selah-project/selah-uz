@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 19:11",
+  "book": "2-kings",
+  "lang": "uz",
+  "chapter": 19,
+  "translation": "Mana, sen Ashshur qirollari barcha mamlakatlarga ⟨את⟩ nima qilganini — ularni butunlay yoʻq qilganini — eshitding; va senmi qutqarilasan?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "mana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "sen"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "eshitding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nima qilganini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "qilgan"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "qirollari"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashshur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "mamlakatlarga"
+    },
+    {
+      "surface": "להחרימם",
+      "gloss": "ularni butunlay yoʻq qilish"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "va sen"
+    },
+    {
+      "surface": "תנצל",
+      "gloss": "qutqarilasan"
+    }
+  ],
+  "timestamp": "2026-08-26T03:59:39.629851708Z",
+  "model": "glm-5.3"
+}

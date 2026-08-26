@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 29,
+  "translation": "Va ⟨את⟩ tayinlash qoʻchqorini olasan, va goʻshtini ⟨את⟩ muqaddas joyda pishirasan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "tayinlash qoʻchqorini"
+    },
+    {
+      "surface": "איל",
+      "gloss": "qoʻchqor"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "tayinlash"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "olasan"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "va pishirasan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "goʻshtini"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "goʻshtini"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "joyda"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "muqaddas"
+    }
+  ],
+  "timestamp": "2026-08-26T01:01:50.337362121Z",
+  "model": "glm-5.3"
+}

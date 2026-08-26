@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Ogʻizlarini menga qarshi ochdilar, yirtuvchi va boʻkirayotgan sher ⟨sifatida⟩.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "ochdilar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "menga qarshi"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ogʻizlarini"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "sher"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "yirtuvchi"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "va boʻkirayotgan"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:47.198419786Z",
+  "model": "glm-5.3"
+}

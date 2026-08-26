@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va sen — Elohimingga qayt; xesed va mishpatni saqla va Elohimingga doim umid bilan kut.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Va sen"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "Elohimingga"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "qayt"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "xesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "va mishpat"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "saqla"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "va umid bilan kut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ga⟩"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohiming"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    }
+  ],
+  "timestamp": "2026-08-26T05:37:30.251937720Z",
+  "model": "glm-5.3"
+}

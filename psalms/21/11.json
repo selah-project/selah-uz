@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 21,
+  "translation": "Ularning mevasini yerdan yoʻq qilasan, va urugʻini odam bolalaridan.",
+  "tokens": [
+    {
+      "surface": "פרימו",
+      "gloss": "ularning mevasini"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "yerdan"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "yoʻq qilasan"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "va urugʻini"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "…bolalaridan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:31.171835588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 90,
+  "translation": "Togʻlar tugʻilmasidan oldin, Sen yer va olamni shakllantirmasdan turib, abaddan abadgacha Sen — El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "oldin"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlar"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "tugʻilmasidan"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "va shakllantirmasdan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "va olam"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "abaddan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "abad"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-08-26T06:24:02.156309919Z",
+  "model": "glm-5.3"
+}

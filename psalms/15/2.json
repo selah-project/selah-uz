@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 15,
+  "translation": "Toʻliq pok yuragangan, adolat qilgan va qalbida haqiqat soʻylagan ⟨kishi⟩ —",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "yuragangan"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "toʻliq pok"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "va qilgan"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "adolat"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "va soʻylagan"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "haqiqat"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "qalbida"
+    }
+  ],
+  "timestamp": "2026-08-26T06:00:29.460462360Z",
+  "model": "glm-5.3"
+}

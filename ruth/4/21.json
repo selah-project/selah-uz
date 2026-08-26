@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "uz",
+  "chapter": 4,
+  "translation": "va Salmon ⟨את⟩ Boazni dunyoga keltirdi, va Boaz ⟨את⟩ Obedni dunyoga keltirdi.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "va Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boazni"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boazni"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "va Boaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "dunyoga keltirdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obedni"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obedni"
+    }
+  ],
+  "timestamp": "2026-08-26T07:13:44.008093129Z",
+  "model": "glm-5.3"
+}

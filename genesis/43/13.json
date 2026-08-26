@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 43,
+  "translation": "Va ⟨את⟩ akangizni oling, turib, ⟨the⟩ odamning oldiga qayting.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "akangizni"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "akangiz"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "oling"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "turib"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "qayting"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oldiga"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odam"
+    }
+  ],
+  "timestamp": "2026-08-26T00:46:49.650254659Z",
+  "model": "glm-5.3"
+}

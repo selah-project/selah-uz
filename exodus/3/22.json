@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 3,
+  "translation": "Va har bir ayol oʻz qoʻshnisidan va oʻz uyida yashovchi mehmondan kumush idishlar, oltin idishlar va kiyimlar soʻraydi, va ularni oʻgʻillaringizga va qizlaringizga kiydirasizlar, va ⟨את⟩ Misrni talaydigan boʻlasizlar.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "va soʻraydi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ayol"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "oʻz qoʻshnisidan"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "va mehmondan"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "oʻz uyida yashovchi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "idishlar"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kumush"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "va idishlar"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "oltin"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "va kiyimlar"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "va kiydirasizlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ga"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "oʻgʻillaringiz"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va …ga"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "qizlaringiz"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "va talaydigan boʻlasizlar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrni"
+    }
+  ],
+  "timestamp": "2026-08-26T00:50:11.058224606Z",
+  "model": "glm-5.3"
+}

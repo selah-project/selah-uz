@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Ham odam bolalari, ham odam(oʻgʻil) bolalari — birga, boy ham, kambeğal ham.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bolalari"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "odam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bolalari"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam(oʻgʻil)"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "birga"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "boy"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "va kambeğal"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:40.409280754Z",
+  "model": "glm-5.3"
+}

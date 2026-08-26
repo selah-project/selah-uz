@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 89,
+  "translation": "Uni yoʻldan oʻtuvchilarining barchasi talon-taroj qildi, u qoʻshnilari uchun masxara boʻldi.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "talon-taroj qildi uni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barchasi"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "oʻtuvchilari"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "yoʻldan"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻldi"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "masxara"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "qoʻshnilari uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T06:23:08.210868259Z",
+  "model": "glm-5.3"
+}

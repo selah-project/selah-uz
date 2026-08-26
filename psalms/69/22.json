@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Va ovqatimga oʻt berishdi, chanqogʻimga esa meni sirka ichirdilar.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "va berishdi"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "ovqatimga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "oʻt (zahar)"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "va chanqogʻimga"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "meni ichirdilar"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "sirka"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:05.615671857Z",
+  "model": "glm-5.3"
+}

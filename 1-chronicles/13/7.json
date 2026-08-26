@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 13:7",
+  "book": "1-chronicles",
+  "lang": "uz",
+  "chapter": 13,
+  "translation": "Va ular Elohim sandigʻini yangi aravaga joyladilar, Avinadav uyidan; Uzza va uning ukasi aravani haydab kelishardi.",
+  "tokens": [
+    {
+      "surface": "וירכיבו",
+      "gloss": "joyladilar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sandigʻini"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sandigʻini"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "aravaga"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "yangi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uyidan"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadav"
+    },
+    {
+      "surface": "ועזא",
+      "gloss": "Uzza"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "va uning ukasi"
+    },
+    {
+      "surface": "נהגים",
+      "gloss": "haydab kelishardi"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "aravani"
+    }
+  ],
+  "timestamp": "2026-08-26T07:58:35.290634894Z",
+  "model": "glm-5.3"
+}

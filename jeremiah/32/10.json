@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "uz",
+  "chapter": 32,
+  "translation": "Va men kitobga yozdim, muhrledim, guvohlarni guvoh qildim va kumushni tarozida tortdim.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "Va men yozdim"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "kitobga"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "va muhrledim"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "va guvoh qildim"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "guvohlarni"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "va tortdim"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "kumushni"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "tarozida"
+    }
+  ],
+  "timestamp": "2026-08-26T04:55:59.512607029Z",
+  "model": "glm-5.3"
+}

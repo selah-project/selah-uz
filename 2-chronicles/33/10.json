@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va Yahve Menashsheh va uning xalqiga gapirdi, ammo ular quloq solmadi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gapirdi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "va"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uning xalqiga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ammo… emas"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "quloq solmadi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:15:38.640229109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 73,
+  "translation": "Va butun kun davomida ozor chekdim, va qayta-qayta tong otarida tanbeh oldim.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "va boʻldim"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "ozor chekkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "היום",
+      "gloss": "kun davomida"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "va tanbehim"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "tong otarida (qayta-qayta)"
+    }
+  ],
+  "timestamp": "2026-08-26T06:17:37.788919182Z",
+  "model": "glm-5.3"
+}

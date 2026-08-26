@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 50,
+  "translation": "Men bilaman togʻlardagi barcha qushlarni, va dalaning jonivorlari Menda ⟨dir⟩.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Men bilaman"
+    },
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "qushlarni"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "togʻlardagi"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "va jonivorlari"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "dalaning"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "Menda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:11:07.222442794Z",
+  "model": "glm-5.3"
+}

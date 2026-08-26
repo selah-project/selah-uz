@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Ularni izlaysan va ularni topolmaysan — sening janjal kishilaring; hech narsa va nol kabi boʻladilar — sening urushing kishilari.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "ularni izlaysan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va … emas"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "ularni topolmaysan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…kishilari"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "sening janjal"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "boʻladilar"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "hech narsa kabi"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "va nol kabi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "…kishilari"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "sening urushing"
+    }
+  ],
+  "timestamp": "2026-08-26T04:25:41.934807859Z",
+  "model": "glm-5.3"
+}

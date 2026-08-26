@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "uz",
+  "chapter": 18,
+  "translation": "Va Axav Obadyahuni chaqirdi — u ⟨the⟩ uy ustidan edi; va Obadyahu Yahvedan ⟨את⟩ juda ham qoʻrqar edi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Va chaqirdi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Axav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ni"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "uy"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "va Obadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻlgan"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qoʻrqar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "juda ham"
+    }
+  ],
+  "timestamp": "2026-08-26T03:41:10.000354908Z",
+  "model": "glm-5.3"
+}

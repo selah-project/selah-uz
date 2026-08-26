@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 2,
+  "translation": "Va kohin minxadan ⟨את⟩ uning eslatma qismini koʻtarib olsin va qurbongohda tutatib yuborsin — olov qurboni, Yahvegʻa yoqimli hid.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "va koʻtarib olsin"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-dan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minxa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uning eslatma qismi"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "uning eslatma qismi"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "va tutatib yuborsin"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "qurbongohda"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "olov qurboni"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "hid"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "yoqimli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahvegʻa"
+    }
+  ],
+  "timestamp": "2026-08-26T01:08:52.580295831Z",
+  "model": "glm-5.3"
+}

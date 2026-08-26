@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 88,
+  "translation": "Va men, senga, ey Yahve, nola qildim, va ertalab duom seni ⟨oldin⟩ kutadi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "va men"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nola qildim"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "va ertalab"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "duom"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "seni oldin kutadi"
+    }
+  ],
+  "timestamp": "2026-08-26T08:43:58.365514097Z",
+  "model": "glm-5.3"
+}

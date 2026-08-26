@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "uz",
+  "chapter": 5,
+  "translation": "Yaxshiroqki nazr qilmasang, nazr qilib toʻlamagandan ⟨koʻra⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "yaxshiroqki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "…ma"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "nazr qilsang"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "nazr qilib"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va …ma"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "toʻlamagandan"
+    }
+  ],
+  "timestamp": "2026-08-26T07:20:20.460888447Z",
+  "model": "glm-5.3"
+}

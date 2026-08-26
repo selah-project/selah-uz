@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 86,
+  "translation": "Menga yaxshilik uchun belgi qil, va meni yomon koʻruvchilar koʻrsinlar va uyalsinlar, chunki Sen, Yahve, menga yordam berding va meni tasalli berding.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "qil"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אות",
+      "gloss": "belgi"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "yaxshilik uchun"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "va koʻrsinlar"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "meni yomon koʻruvchilar"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "va uyalsinlar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Sen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "menga yordam berding"
+    },
+    {
+      "surface": "וינחמתני",
+      "gloss": "va meni tasalli berding"
+    }
+  ],
+  "timestamp": "2026-08-26T06:21:11.161201175Z",
+  "model": "glm-5.3"
+}

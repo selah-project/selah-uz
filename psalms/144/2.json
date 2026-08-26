@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 144,
+  "translation": "Mening xesedim va qalʼam, panohim va qutqaruvchim, U — qalqonim va Unga sigʻindim; xalqimni oyoq ostimda boʻysundirgan Zot.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "mening xesedim"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "va qalʼam"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "panohim"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "va qutqaruvchim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "qalqonim"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "va Unga"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "sigʻindim"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "boʻysundirgan Zot"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "xalqimni"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "oyoq ostimda"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:58.703750717Z",
+  "model": "glm-5.3"
+}

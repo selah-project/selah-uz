@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va Yahve urish uchun ⟨את⟩ Misrni oʻtganda, eshik ustunidagi va ikki yon ustundagi ⟨את⟩ qonni koʻradi, va Yahve eshik ogʻzining ustidan oʻtib ketadi, va halok qiluvchiga sizning uylaringizga kirib urish uchun yoʻl qoʻymaydi.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "Va oʻtadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "urish uchun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Misrni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Misrni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "va koʻradi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "qonni"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "qonni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "eshik ustunining"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "va ustida"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "yon ustunlarning"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "va oʻtib ketadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "eshik ogʻzining"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "va yoʻq"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "beradi"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "halok qiluvchiga"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "kirishga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ga"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "uylaringiz"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "urish uchun"
+    }
+  ],
+  "timestamp": "2026-08-26T00:54:51.283478881Z",
+  "model": "glm-5.3"
+}

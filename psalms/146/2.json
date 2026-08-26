@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 146,
+  "translation": "Yahveni hayotim davomida maqtab turaman, Elohimimga boʻlganimcha chertib kuylayman.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "maqtab turaman"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahveni"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "hayotim davomida"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "chertib kuylayman"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohimimga"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "boʻlganimcha"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:55.950280902Z",
+  "model": "glm-5.3"
+}

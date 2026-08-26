@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 49,
+  "translation": "Va nefashlarining fidyosi juda qimmat — ⟨u⟩ abadiy toʻxtaydi.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Va juda qimmat"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "fidyosi"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "nefashlarining"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "va toʻxtaydi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "abadiy"
+    }
+  ],
+  "timestamp": "2026-08-26T06:10:58.126961124Z",
+  "model": "glm-5.3"
+}

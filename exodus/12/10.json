@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 12,
+  "translation": "Va undan tonggacha qoldirmanglar; undan tonggacha qolgan narsani esa olovda yoqib yuboringlar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Va qoldirmanglar"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "qoldirmanglar-"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "qolgan"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "undan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "באש",
+      "gloss": "olovda"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "yoqib yuboringlar"
+    }
+  ],
+  "timestamp": "2026-08-26T00:53:08.254610081Z",
+  "model": "glm-5.3"
+}

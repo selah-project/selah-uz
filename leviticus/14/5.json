@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "uz",
+  "chapter": 14,
+  "translation": "Va kohin buyuradi, va ⟨את⟩ bir qushni sopol idish ichida, tirik suv ustida soʻyadi.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "va buyuradi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohin"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "va soʻyadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bir qush"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "qush"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "bir"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ichiga"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "idish"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sopol"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustida"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suv"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "tirik"
+    }
+  ],
+  "timestamp": "2026-08-26T01:16:06.361720756Z",
+  "model": "glm-5.3"
+}

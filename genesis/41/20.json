@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 41,
+  "translation": "Va qurigan va yomon sigirlar ⟨את⟩ birinchi yetti semiz sigirni yeb qoʻydi.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "yeb qoʻydi"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "sigirlar"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "qurigan"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "va yomon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "birinchi yetti semiz sigirni"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "sigirni"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "birinchi"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "semiz"
+    }
+  ],
+  "timestamp": "2026-08-26T00:44:45.149162162Z",
+  "model": "glm-5.3"
+}

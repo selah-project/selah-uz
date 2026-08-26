@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 121,
+  "translation": "Kunduzi quyosh seni urmaydi, oy ham tunda ⟨urmaydi⟩.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "kunduzi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...maydi"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "urmaydi"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "va oy"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "tunda"
+    }
+  ],
+  "timestamp": "2026-08-26T06:33:50.899764940Z",
+  "model": "glm-5.3"
+}

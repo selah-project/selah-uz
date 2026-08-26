@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "uz",
+  "chapter": 33,
+  "translation": "Va sening oldinga elchi yuboraman, va ⟨את⟩ kennoniylikni, emoriylikni, xittiylikni, perizziylikni, xivviylikni va yevussiylikni quvib chiqarman.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "yuboraman"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "sening oldinga"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "elchi"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "quvib chiqarman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kennoniylik"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "kennoniylik"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "emoriylik"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "va xitriylik"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "va perizziylik"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "xivviylik"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "va yevussiylik"
+    }
+  ],
+  "timestamp": "2026-08-26T01:04:57.481527157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "uz",
+  "chapter": 10,
+  "translation": "Va Arpaxshad ⟨את⟩ Shalaxni tugʻdi, va Shalax ⟨את⟩ Everni tugʻdi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "va Arpaxshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalax"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shalaxni"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "va Shalax"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Everni"
+    }
+  ],
+  "timestamp": "2026-08-26T08:18:02.292373286Z",
+  "model": "glm-5.3"
+}

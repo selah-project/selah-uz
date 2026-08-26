@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 69,
+  "translation": "Darvoza oʻtiruvchilari men haqida soʻzlaydilar, va kuchli ichimlik ichuvchilari neginalar ⟨chali shadi⟩.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "soʻzlaydilar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "men haqida"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oʻtiruvchilari"
+    },
+    {
+      "surface": "שער",
+      "gloss": "darvoza"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "va neginalar"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "ichuvchilari"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "kuchli ichimlik"
+    }
+  ],
+  "timestamp": "2026-08-26T06:16:43.237003504Z",
+  "model": "glm-5.3"
+}

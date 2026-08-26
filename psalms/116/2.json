@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 116,
+  "translation": "Chunki ⟨U⟩ qulogʻini menga egibdi, va kunlarim davomida chaqiraman.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Chunki"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "egibdi"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "qulogʻini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "va kunlarim davomida"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "chaqiraman"
+    }
+  ],
+  "timestamp": "2026-08-26T08:44:37.562667706Z",
+  "model": "glm-5.3"
+}

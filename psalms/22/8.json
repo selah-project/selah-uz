@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "uz",
+  "chapter": 22,
+  "translation": "Mening barcha koʻruvchilarim meni masxara qiladilar; labini ochib qoldiradilar, boshlarini chayqaydilar —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "koʻruvchilarim"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "masxara qiladilar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "meni"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "ochib qoldiradilar"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "labini"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "chayqaydilar"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "boshlarini"
+    }
+  ],
+  "timestamp": "2026-08-26T06:02:22.359265970Z",
+  "model": "glm-5.3"
+}

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 52,
-  "translation": "Va ⟨את⟩ qozonlarni va ⟨את⟩ kuraklarni va ⟨את⟩ qaychiqilarni va ⟨את〕 toshqin kosalarni va ⟨את⟩ choyshablarni va ⟨את⟩ xizmatda ishlatiladigan barcha mis buyumlarni olib ketdilar.",
+  "translation": "Va ⟨את⟩ qozonlarni, ⟨את⟩ belkuraklarni, ⟨את⟩ qirqgʻichlarni, ⟨את⟩ choyish idishlarini, ⟨את⟩ piyolalarni va ⟨את⟩ xizmatda foydalanilgan barcha mis buyumlarni olib ketdilar.",
   "tokens": [
     {
       "surface": "ואת",
@@ -14,48 +14,48 @@
     },
     {
       "surface": "הסרות",
-      "gloss": "qozonlarni"
+      "gloss": "qozonlar"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kuraklarni"
+      "marks": "belkuraklarni"
     },
     {
       "surface": "היעים",
-      "gloss": "kuraklarni"
+      "gloss": "belkuraklar"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "qaychiqilarni"
+      "marks": "qirqgʻichlarni"
     },
     {
       "surface": "המזמרות",
-      "gloss": "qaychiqilarni"
+      "gloss": "qirqgʻichlar"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "toshqin kosalarni"
+      "marks": "choyish idishlarini"
     },
     {
       "surface": "המזרקת",
-      "gloss": "toshqin kosalarni"
+      "gloss": "choyish idishlari"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "choyshablarni"
+      "marks": "piyolalarni"
     },
     {
       "surface": "הכפות",
-      "gloss": "choyshablarni"
+      "gloss": "piyolalar"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "barchasi"
+      "marks": "barcha mis buyumlarni"
     },
     {
       "surface": "כל",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "כלי",
-      "gloss": "buyumlarni"
+      "gloss": "buyumlar"
     },
     {
       "surface": "הנחשת",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "ישרתו",
-      "gloss": "xizmatda ishlatiladigan"
+      "gloss": "xizmatda foydalanilgan"
     },
     {
       "surface": "בהם",
@@ -86,6 +86,6 @@
       "gloss": "olib ketdilar"
     }
   ],
-  "timestamp": "2026-08-26T05:08:24.975546561Z",
+  "timestamp": "2026-08-26T09:56:44.498085744Z",
   "model": "glm-5.3"
 }

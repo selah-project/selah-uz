@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va sen bilan ⟨the⟩ ayol oʻrtasiga, va sening urugʻing bilan uning urugʻi oʻrtasiga adovat qoʻyaman; u sening boshingni bosadi va sen uning toʻpigʻini chaqarsan.",
+  "translation": "Va dushmanlik qoʻyaman sening bilan ⟨את⟩ ayol oʻrtasida, va sening urugʻing bilan uning urugʻi oʻrtasida: u boshingni ezadi, va sen uning toʻpigʻini tishlaysan.",
   "tokens": [
     {
       "surface": "ואיבה",
-      "gloss": "Va adovat"
+      "gloss": "Va dushmanlik"
     },
     {
       "surface": "אשית",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "בינך",
-      "gloss": "sen bilan ... oʻrtasiga"
+      "gloss": "sening bilan ... oʻrtasida"
     },
     {
       "surface": "ובין",
-      "gloss": "va ... bilan ... oʻrtasiga"
+      "gloss": "va ... oʻrtasida"
     },
     {
       "surface": "האשה",
-      "gloss": "⟨the⟩ ayol"
+      "gloss": "ayol"
     },
     {
       "surface": "ובין",
-      "gloss": "va ... bilan ... oʻrtasiga"
+      "gloss": "va ... oʻrtasida"
     },
     {
       "surface": "זרעך",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ובין",
-      "gloss": "va ... bilan ... oʻrtasiga"
+      "gloss": "va ... oʻrtasida"
     },
     {
       "surface": "זרעה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ישופך",
-      "gloss": "sening ... ni bosadi"
+      "gloss": "boshingni ezadi"
     },
     {
       "surface": "ראש",
-      "gloss": "boshing"
+      "gloss": "bosh"
     },
     {
       "surface": "ואתה",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "תשופנו",
-      "gloss": "uning ... ni chaqarsan"
+      "gloss": "tishlaysan uni"
     },
     {
       "surface": "עקב",
-      "gloss": "toʻpigʻini"
+      "gloss": "toʻpiq"
     }
   ],
-  "timestamp": "2026-08-26T00:31:30.599295404Z",
+  "timestamp": "2026-08-26T09:43:31.085780219Z",
   "model": "glm-5.3"
 }

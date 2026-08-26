@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 43,
-  "translation": "Va ular aytdilar: ⟨the⟩ odam bizni va tugʻilgan-joyimizni soʻrab soʻradi: Otangiz tirimi, ukangiz bormi deb. Va biz unga bu soʻzlar ogʻzicha xabar berdik. U „ukangizni tushuringlar“ deyishini bilib boʻlarmidi?",
+  "translation": "Ular aytdilar: Odam bizdan va tugʻilganlarimizdan qatʼiy ravishda soʻradi, deb: Otangiz hanuz tirikmi? Sizga aka bormi? Va biz unga bu soʻzlarning ogʻziga muvofiq xabar berdik; biz bilib edikmiki, u „Akangizni tushirib kelinglar“ deydi?",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "va ular aytdilar"
+      "gloss": "aytdilar"
     },
     {
       "surface": "שאול",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "האיש",
-      "gloss": "the odam"
+      "gloss": "odam"
     },
     {
       "surface": "לנו",
-      "gloss": "bizni"
+      "gloss": "bizdan"
     },
     {
       "surface": "ולמולדתנו",
-      "gloss": "va tugʻilgan-joyimizni"
+      "gloss": "va tugʻilganlarimizdan"
     },
     {
       "surface": "לאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "העוד",
-      "gloss": "yana"
+      "gloss": "hanuzmi"
     },
     {
       "surface": "אביכם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "tirimi"
+      "gloss": "tirik"
     },
     {
       "surface": "היש",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "לכם",
-      "gloss": "sizlarda"
+      "gloss": "sizga"
     },
     {
       "surface": "אח",
-      "gloss": "uka"
+      "gloss": "aka"
     },
     {
       "surface": "ונגד",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "soʻzlari"
+      "gloss": "soʻzlarning"
     },
     {
       "surface": "האלה",
@@ -85,34 +85,34 @@
     },
     {
       "surface": "הידוע",
-      "gloss": "bilib boʻlarmidi"
+      "gloss": "bilib"
     },
     {
       "surface": "נדע",
-      "gloss": "bilarmidik"
+      "gloss": "edikmi"
     },
     {
       "surface": "כי",
-      "gloss": "…ishini"
+      "gloss": "ki"
     },
     {
       "surface": "יאמר",
-      "gloss": "aytmoq"
+      "gloss": "deydi"
     },
     {
       "surface": "הורידו",
-      "gloss": "tushuringlar"
+      "gloss": "tushirib kelinglar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ukangizni"
+      "marks": "akangiz"
     },
     {
       "surface": "אחיכם",
-      "gloss": "ukangizni"
+      "gloss": "akangiz"
     }
   ],
-  "timestamp": "2026-08-26T00:46:49.491408049Z",
+  "timestamp": "2026-08-26T09:44:54.143170055Z",
   "model": "glm-5.3"
 }

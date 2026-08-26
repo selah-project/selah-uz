@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Yahvegʻa yomon koʻrilgan ⟨is⟩ har qanday baland qalbli; qoʻl qoʻlga qoʻshilsa ham, ⟨u⟩ ozod qilinmaydi.",
+  "translation": "Yahve uchun yolgʻizdir har qanday baland yurakli ⟨odam⟩ ogʻir gunoh; qoʻl qoʻlga ⟨qoʻshilsa ham⟩, u jazosiz qolmaydi.",
   "tokens": [
     {
       "surface": "תועבת",
-      "gloss": "yomon koʻrilgan"
+      "gloss": "ogʻir gunoh"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahvegʻa"
+      "gloss": "Yahve"
     },
     {
       "surface": "כל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לב",
-      "gloss": "qalbli"
+      "gloss": "yurakli"
     },
     {
       "surface": "יד",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "ליד",
-      "gloss": "qoʻlga qoʻshilsa ham"
+      "gloss": "qoʻlga"
     },
     {
       "surface": "לא",
-      "gloss": "...-maydi"
+      "gloss": "⟨emas⟩ — jinoyat"
     },
     {
       "surface": "ינקה",
-      "gloss": "ozod qilinmaydi"
+      "gloss": "jazosiz qolmaydi"
     }
   ],
-  "timestamp": "2026-08-26T06:45:20.479984787Z",
+  "timestamp": "2026-08-26T10:01:55.927887219Z",
   "model": "glm-5.3"
 }

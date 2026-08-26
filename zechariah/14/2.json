@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va men yigʻaman ⟨את⟩ barcha xalqlarni Yerushalaimga urushga; va qoʻlga olinadi ⟨the⟩ shahar, va talon-taroj qilinadi uylar, va ayollar zoʻrlanadi; va chiqadi shaharning yarimi surgunga, va qolgan xalq shahardan qirib tashlanmaydi.",
+  "translation": "Va men barcha xalqlarni Yerushalaimga urushga yigʻaman; shahar bosib olinadi, uylar talon-taroj qilinadi, ayollar zoʻrlanadi; shaharning yarmi surgunga chiqadi, xalqning qolgani esa shahardan kesib tashlanmaydi.",
   "tokens": [
     {
       "surface": "ואספתי",
-      "gloss": "Va men yigʻaman"
+      "gloss": "va men yigʻaman"
     },
     {
       "surface": "את",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "הגוים",
-      "gloss": "xalqlar"
+      "gloss": "xalqlarni"
     },
     {
       "surface": "אל",
-      "gloss": "…ga"
+      "gloss": "-ga"
     },
     {
       "surface": "ירושלם",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ונלכדה",
-      "gloss": "va qoʻlga olinadi"
+      "gloss": "bosib olinadi"
     },
     {
       "surface": "העיר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "ונשסו",
-      "gloss": "va talon-taroj qilinadi"
+      "gloss": "talon-taroj qilinadi"
     },
     {
       "surface": "הבתים",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "ויצא",
-      "gloss": "va chiqadi"
+      "gloss": "chiqadi"
     },
     {
       "surface": "חצי",
-      "gloss": "yarimi"
+      "gloss": "yarmi"
     },
     {
       "surface": "העיר",
@@ -78,29 +78,29 @@
     },
     {
       "surface": "ויתר",
-      "gloss": "va qolgani"
+      "gloss": "qolgani"
     },
     {
       "surface": "העם",
-      "gloss": "xalq"
+      "gloss": "xalqning"
     },
     {
       "surface": "לא",
-      "gloss": "…maydi"
+      "gloss": "yoʻq"
     },
     {
       "surface": "יכרת",
-      "gloss": "qirib tashlanadi"
+      "gloss": "kesib tashlanmaydi"
     },
     {
       "surface": "מן",
-      "gloss": "…dan"
+      "gloss": "dan"
     },
     {
       "surface": "העיר",
       "gloss": "shahar"
     }
   ],
-  "timestamp": "2026-08-26T05:56:34.781129574Z",
+  "timestamp": "2026-08-26T10:23:56.776630271Z",
   "model": "glm-5.3"
 }

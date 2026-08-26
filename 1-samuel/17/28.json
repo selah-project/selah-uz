@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Va Eliyov, uning katta akasi, ⟨the⟩ odamlarga gapirayotganida eshitdi; va Eliyovning gʻazabi Dovudga qaynadi va aytdi: nega bu — tushmisan? va kim uchun tashlab ketding ⟨the⟩ oz ⟨the⟩ qoʻylarni, ⟨the⟩ ana shularni, choʻlda? Men bilaman ⟨את⟩ magʻrurligingni va ⟨את⟩ yuragingning yomonligini, zero ⟨the⟩ jangni koʻrish uchun tushgansan.",
+  "translation": "Va Eliav, uning katta akasi, u odamlarga gapirayotganini eshitdi; va Eliavning gʻazabi Dovudga qaynadi, va u aytdi: «Nega tushding? Va oʻsha ozgina podani choʻlda kimga tashlab ketding? Men bilaman ⟨את⟩ sening tavakkalciligingni va ⟨את⟩ yuragingning yomonligini, chunki jangni koʻrish uchun tushgansan.»",
   "tokens": [
     {
       "surface": "וישמע",
-      "gloss": "Va eshitdi"
+      "gloss": "eshitdi"
     },
     {
       "surface": "אליאב",
-      "gloss": "Eliyov"
+      "gloss": "Eliav"
     },
     {
       "surface": "אחיו",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "בדברו",
-      "gloss": "gapirayotganida"
+      "gloss": "gapirayotganini"
     },
     {
       "surface": "אל",
-      "gloss": "…ga"
+      "gloss": "ga"
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨the⟩ odamlar"
+      "gloss": "odamlarga"
     },
     {
       "surface": "ויחר",
-      "gloss": "va qaynadi"
+      "gloss": "qaynadi"
     },
     {
       "surface": "אף",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אליאב",
-      "gloss": "Eliyovning"
+      "gloss": "Eliav"
     },
     {
       "surface": "בדוד",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "va aytdi"
+      "gloss": "aytdi"
     },
     {
       "surface": "למה",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "ירדת",
-      "gloss": "tushmisan"
+      "gloss": "tushding"
     },
     {
       "surface": "ועל",
-      "gloss": "va … uchun"
+      "gloss": "va"
     },
     {
       "surface": "מי",
-      "gloss": "kim"
+      "gloss": "kimga"
     },
     {
       "surface": "נטשת",
@@ -81,15 +81,15 @@
     },
     {
       "surface": "מעט",
-      "gloss": "oz"
+      "gloss": "ozgina"
     },
     {
       "surface": "הצאן",
-      "gloss": "⟨the⟩ qoʻylarni"
+      "gloss": "podani"
     },
     {
       "surface": "ההנה",
-      "gloss": "⟨the⟩ ana shularni"
+      "gloss": "oʻsha"
     },
     {
       "surface": "במדבר",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "Men"
+      "gloss": "men"
     },
     {
       "surface": "ידעתי",
@@ -106,16 +106,16 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "magʻrurliging"
+      "marks": "sening tavakkalciligingni"
     },
     {
       "surface": "זדנך",
-      "gloss": "magʻrurligingni"
+      "gloss": "tavakkalciligingni"
     },
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
-      "marks": "yuragingning yomonligi"
+      "gloss": "⟨את⟩",
+      "marks": "yuragingning yomonligini"
     },
     {
       "surface": "רע",
@@ -127,7 +127,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "zero"
+      "gloss": "chunki"
     },
     {
       "surface": "למען",
@@ -139,13 +139,13 @@
     },
     {
       "surface": "המלחמה",
-      "gloss": "⟨the⟩ jangni"
+      "gloss": "jangni"
     },
     {
       "surface": "ירדת",
       "gloss": "tushgansan"
     }
   ],
-  "timestamp": "2026-08-26T02:53:47.057570716Z",
+  "timestamp": "2026-08-26T09:52:57.656561565Z",
   "model": "glm-5.3"
 }

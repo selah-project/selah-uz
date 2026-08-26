@@ -5,8 +5,34 @@
   "book": "lamentations",
   "lang": "uz",
   "chapter": 3,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-26T08:49:10.544223238Z",
+  "translation": "Suvlar boshim ustidan oshdi; men dedim: kesib tashlandim.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "oshdi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "suvlar"
+    },
+    {
+      "surface": "על",
+      "gloss": "ustidan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "boshim"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "men dedim"
+    },
+    {
+      "surface": "נגזרתי",
+      "rationale": "",
+      "gloss": "kesib tashlandim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:02:50.521228175Z",
   "model": "glm-5.3"
 }

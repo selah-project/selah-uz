@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 42,
-  "translation": "Va barcha odamlar — yuzlarini Misrga borib, u yerda muhojir boʻlishga qoʻyganlar — qilichdan, ochlikdan va vabodan oʻlajaklar; ularga hech qanday qolgan qutuluvchi boʻlmaydi, ularga keltirayotgan yomonlik yuzidan ⟨the⟩ qochqin ham chiqmaydi.",
+  "translation": "Va boʻladi: barcha odamlar ki, yuzlarini ⟨את⟩ Misrga kirib, u yerda muhojir boʻlib yashashga qaratdilar — qilichdan, ochlikdan va vabodan oʻlajaklar, ulardan qolgan ham, qochib qutulgan ham boʻlmaydi, oʻsha yomonlikdan ki, Men ular ustiga keltirmoqdaman.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "Va boʻlajak"
+      "gloss": "Va boʻladi"
     },
     {
       "surface": "כל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שמו",
-      "gloss": "qoʻyganlar"
+      "gloss": "qaratdilar"
     },
     {
       "surface": "את",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "לבוא",
-      "gloss": "borishga"
+      "gloss": "kirishga"
     },
     {
       "surface": "מצרים",
-      "gloss": "Misrga"
+      "gloss": "Misr"
     },
     {
       "surface": "לגור",
-      "gloss": "muhojir boʻlishga"
+      "gloss": "muhojir boʻlib yashashga"
     },
     {
       "surface": "שם",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "va… emas"
+      "gloss": "va ... boʻlmaydi"
     },
     {
       "surface": "יהיה",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "ularga"
+      "gloss": "ulardan"
     },
     {
       "surface": "שריד",
@@ -86,15 +86,15 @@
     },
     {
       "surface": "ופליט",
-      "gloss": "va qochqin"
+      "gloss": "va qochib qutulgan"
     },
     {
       "surface": "מפני",
-      "gloss": "yuzidan"
+      "gloss": "oldidan"
     },
     {
       "surface": "הרעה",
-      "gloss": "yomonlik"
+      "gloss": "oʻsha yomonlik"
     },
     {
       "surface": "אשר",
@@ -102,17 +102,17 @@
     },
     {
       "surface": "אני",
-      "gloss": "men"
+      "gloss": "Men"
     },
     {
       "surface": "מביא",
-      "gloss": "keltirayotgan"
+      "gloss": "keltirmoqdaman"
     },
     {
       "surface": "עליהם",
       "gloss": "ular ustiga"
     }
   ],
-  "timestamp": "2026-08-26T05:02:46.814340389Z",
+  "timestamp": "2026-08-26T09:56:27.210458731Z",
   "model": "glm-5.3"
 }

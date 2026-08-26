@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 48,
-  "translation": "Janubiy tomonda esa besh yuz va toʻrt ming oʻlcham, darvozalari uchta: Shimʼon darvozasi bittа, Yissasxar darvozasi bitta, Zevulun darvozasi bitta.",
+  "translation": "Va janubiy tomoni — besh yuz va toʻrt ming oʻlchov ⟨⟩, va darvozalar uchta: Shimʼon darvozasi bitta, Yissaxar darvozasi bitta, Zevulun darvozasi bitta.",
   "tokens": [
     {
       "surface": "ופאת",
-      "gloss": "va tomonda"
+      "gloss": "va tomoni"
     },
     {
       "surface": "נגבה",
-      "gloss": "janub"
+      "gloss": "janubiy"
     },
     {
       "surface": "חמש",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מדה",
-      "gloss": "oʻlcham"
+      "gloss": "oʻlchov"
     },
     {
       "surface": "ושערים",
-      "gloss": "va darvozalari"
+      "gloss": "va darvozalar"
     },
     {
       "surface": "שלשה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "שער",
-      "gloss": "darvoza"
+      "gloss": "darvozasi"
     },
     {
       "surface": "שמעון",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "שער",
-      "gloss": "darvoza"
+      "gloss": "darvozasi"
     },
     {
       "surface": "יששכר",
-      "gloss": "Yissasxar"
+      "gloss": "Yissaxar"
     },
     {
       "surface": "אחד",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "שער",
-      "gloss": "darvoza"
+      "gloss": "darvozasi"
     },
     {
       "surface": "זבולן",
@@ -80,6 +80,6 @@
       "gloss": "bitta"
     }
   ],
-  "timestamp": "2026-08-26T05:33:19.551029681Z",
+  "timestamp": "2026-08-26T09:57:37.494287686Z",
   "model": "glm-5.3"
 }

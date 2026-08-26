@@ -5,7 +5,7 @@
   "book": "esther",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Chunki sotildik men va xalqim — yoʻq qilinishga, oʻldirilishga va qirilishga; ammo qullarga va choʻrilarga sotilganimizda edi — jim turardim; chunki dushman teng emas qirol zarariga.",
+  "translation": "Chunki sotilganmiz — men va xalqim — yoʻq qilinishga, oʻldirilishga va qirilishga; agar qullar va chori ayollarga sotilganimizda edi, jim turardim, chunki dushman qiynalish podshohning zarariga teng kelmas.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נמכרנו",
-      "gloss": "sotildik"
+      "gloss": "sotilganmiz"
     },
     {
       "surface": "אני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ואלו",
-      "gloss": "ammo… edi"
+      "gloss": "agar… edi"
     },
     {
       "surface": "לעבדים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ולשפחות",
-      "gloss": "va choʻrilarga"
+      "gloss": "va chori ayollarga"
     },
     {
       "surface": "נמכרנו",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "הצר",
-      "gloss": "⟨the⟩ dushman"
+      "gloss": "dushman"
     },
     {
       "surface": "שוה",
-      "gloss": "teng"
+      "gloss": "teng kelmas"
     },
     {
       "surface": "בנזק",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ qirol"
+      "gloss": "podshohning"
     }
   ],
-  "timestamp": "2026-08-26T07:25:49.626964134Z",
+  "timestamp": "2026-08-26T10:04:03.285351162Z",
   "model": "glm-5.3"
 }

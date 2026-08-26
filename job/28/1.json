@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Chunki kumush uchun chiqish joyi bor, va oltin eritiladigan ⟨the⟩ joy mavjud.",
+  "translation": "Albatta kumush uchun ⟨bor⟩ bir chiqarish joyi, va oltin quyiladir ⟨shu⟩ joyga.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "chunki"
+      "gloss": "Albatta"
     },
     {
       "surface": "יש",
-      "gloss": "bor"
+      "gloss": "⟨bor⟩"
     },
     {
       "surface": "לכסף",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מוצא",
-      "gloss": "chiqish joyi (manba)"
+      "gloss": "chiqarish joyi"
     },
     {
       "surface": "ומקום",
@@ -32,10 +32,10 @@
       "gloss": "oltin uchun"
     },
     {
-      "surface": "יזקקו",
-      "gloss": "eritiladi"
+      "surface": "יזזקו",
+      "gloss": "quyiladir"
     }
   ],
-  "timestamp": "2026-08-26T08:48:13.787212081Z",
+  "timestamp": "2026-08-26T10:07:19.099743060Z",
   "model": "glm-5.3"
 }

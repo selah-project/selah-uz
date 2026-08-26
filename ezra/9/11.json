@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "uz",
   "chapter": 9,
-  "translation": "ki buyruq bergan eding qullaring — paygʻambarlar — qoʻli bilan, deb: ⟨the⟩ yer, sizlar unga kirib uni egallamoqchisizlar, — ayratilgan- nopok yerdir ⟨u⟩, yerlar xalqlarining nopokligi bilan, ularning yolgʻiz ogʻizdan ogʻizgacha toʻldirgan dahshatli odatlari bilan, oʻz nopokligida.",
+  "translation": "ki sen oʻz bandalaring nebiylar qoʻli orqali buyurgansan: «Yer — sizlar egal qilish uchun kelayotgan yer — nidda yeridir, ⟨u⟩ yer xalqlarining niddasi bilan, ularning yigʻnishlari bilan — ular uni ogʻizdan ogʻizgacha oʻz iflosliklarida toʻldirganlar»",
   "tokens": [
     {
       "surface": "אשר",
@@ -13,27 +13,27 @@
     },
     {
       "surface": "צוית",
-      "gloss": "buyruq bergan eding"
+      "gloss": "buyurgansan"
     },
     {
       "surface": "ביד",
-      "gloss": "qoʻli bilan"
+      "gloss": "qoʻli orqali"
     },
     {
       "surface": "עבדיך",
-      "gloss": "qullaring"
+      "gloss": "oʻz bandalaring"
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nebiylar"
     },
     {
       "surface": "לאמר",
-      "gloss": "deb"
+      "gloss": "deyib"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ yer"
+      "gloss": "yer"
     },
     {
       "surface": "אשר",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "באים",
-      "gloss": "kirib kelasizlar"
+      "gloss": "kelayotgan"
     },
     {
       "surface": "לרשתה",
-      "gloss": "uni egallamoqchisizlar"
+      "gloss": "egal qilish uchun unga"
     },
     {
       "surface": "ארץ",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "נדה",
-      "gloss": "ayratilgan-nopok"
+      "gloss": "nidda"
     },
     {
       "surface": "היא",
-      "gloss": "⟨u⟩"
+      "gloss": "u"
     },
     {
       "surface": "בנדת",
-      "gloss": "nopokligi bilan"
+      "gloss": "niddasi bilan"
     },
     {
       "surface": "עמי",
@@ -73,19 +73,19 @@
     },
     {
       "surface": "הארצות",
-      "gloss": "yerlar"
+      "gloss": "⟨the⟩ yerning"
     },
     {
       "surface": "בתועבתיהם",
-      "gloss": "dahshatli odatlari bilan"
+      "gloss": "ularning yigʻnishlari bilan"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "מלאוה",
-      "gloss": "uni toʻldirgan"
+      "gloss": "uni toʻldirganlar"
     },
     {
       "surface": "מפה",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": "gacha"
     },
     {
       "surface": "פה",
@@ -101,9 +101,9 @@
     },
     {
       "surface": "בטמאתם",
-      "gloss": "oʻz nopokligida"
+      "gloss": "oʻz iflosliklarida"
     }
   ],
-  "timestamp": "2026-08-26T08:50:33.784861987Z",
+  "timestamp": "2026-08-26T10:24:48.649274557Z",
   "model": "glm-5.3"
 }

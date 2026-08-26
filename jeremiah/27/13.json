@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Nega oʻlasizlar — sen va xalqing — qilich bilan, ochlik bilan va vabo bilan, xuddi Yahve oʻsha xalqga gapirgandek, ki u ⟨את⟩ Bobil shohiga xizmat qilmaydi?",
+  "translation": "Nega oʻlasiz — sen va xalqing — qilich bilan, ochlik bilan va vabo bilan, xuddi Yahve ⟨את⟩ xalqga gapirganidek, u Bobil podshohiga xizmat qilmaydigan?",
   "tokens": [
     {
       "surface": "למה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תמותו",
-      "gloss": "oʻlasizlar"
+      "gloss": "oʻlasiz"
     },
     {
       "surface": "אתה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "xuddi shunday…gandek"
+      "gloss": "xuddi …idek"
     },
     {
       "surface": "דבר",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "…ga"
     },
     {
       "surface": "הגוי",
-      "gloss": "⟨the⟩ xalq"
+      "gloss": "xalq(ga)"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "u"
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "-ma"
     },
     {
       "surface": "יעבד",
@@ -70,17 +70,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Bobil shohi"
+      "marks": "Bobil podshohi"
     },
     {
       "surface": "מלך",
-      "gloss": "shohi"
+      "gloss": "podshohi"
     },
     {
       "surface": "בבל",
       "gloss": "Bobil"
     }
   ],
-  "timestamp": "2026-08-26T04:52:20.632103005Z",
+  "timestamp": "2026-08-26T09:56:36.984553148Z",
   "model": "glm-5.3"
 }

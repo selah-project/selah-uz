@@ -5,31 +5,31 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va suvlarda, dengizlarda va soy-boylarda surgʻasi ham, qisqiri ham boʻlmagan hamma narsa — suvlardagi sulaygonlarning hammasidan va suvlardagi jonli nefushning hammasidan — yomon narsadir sizlar uchun.",
+  "translation": "Va suzgichi va qovoqchasi yo‘q hamma narsa — dengizlarda va oqar soylarda, suvlarda sudralib yuruvchi barcha jonzotdan va suvlardagi jonli nefeshtan — hammasi sizlar uchun yiqitlidir.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "va hamma narsa"
+      "gloss": "va hamma"
     },
     {
       "surface": "אשר",
-      "gloss": "<niki>"
+      "gloss": "…shtagi"
     },
     {
       "surface": "אין",
-      "gloss": "yoʻq"
+      "gloss": "yo‘q"
     },
     {
       "surface": "לו",
-      "gloss": "unga"
+      "gloss": "uning"
     },
     {
       "surface": "סנפיר",
-      "gloss": "surgʻa"
+      "gloss": "suzgich"
     },
     {
       "surface": "וקשקשת",
-      "gloss": "va qisqir"
+      "gloss": "va qovoqcha"
     },
     {
       "surface": "בימים",
@@ -37,43 +37,43 @@
     },
     {
       "surface": "ובנחלים",
-      "gloss": "va soy-boylarda"
+      "gloss": "va oqar soylarda"
     },
     {
       "surface": "מכל",
-      "gloss": "hammasidan"
+      "gloss": "…dan barcha"
     },
     {
       "surface": "שרץ",
-      "gloss": "sulaygon"
+      "gloss": "sudralib yuruvchi (hayvonot oqimi)"
     },
     {
       "surface": "המים",
-      "gloss": "suvlardagi"
+      "gloss": "suvlarning"
     },
     {
       "surface": "ומכל",
-      "gloss": "va hammasidan"
+      "gloss": "va …dan barcha"
     },
     {
       "surface": "נפש",
-      "gloss": "nefush"
+      "gloss": "jonli nefesh (nafas oluvchi jon)"
     },
     {
       "surface": "החיה",
-      "gloss": "jonli"
+      "gloss": "tirik"
     },
     {
       "surface": "אשר",
-      "gloss": "<niki>"
+      "gloss": "…shtagi"
     },
     {
       "surface": "במים",
-      "gloss": "suvlardagi"
+      "gloss": "suvlarda"
     },
     {
       "surface": "שקץ",
-      "gloss": "yomon narsa"
+      "gloss": "yiqitli (jirkanchich narsa)"
     },
     {
       "surface": "הם",
@@ -84,6 +84,6 @@
       "gloss": "sizlar uchun"
     }
   ],
-  "timestamp": "2026-08-26T01:12:44.773360550Z",
+  "timestamp": "2026-08-26T10:06:48.565580237Z",
   "model": "glm-5.3"
 }

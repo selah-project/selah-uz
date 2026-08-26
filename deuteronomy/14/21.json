@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Har qanday oʻlik goʻshtni yemang; uni shaharlar ichidagi musofirga beringki, u yesin, yoki chet ellikga sotib yuboring; chunki sen Yahve, Elohiming uchun muqaddas xalqsan. Ulоʻchani onasining sutida pishitmang.",
+  "translation": "Har qanday oʻlik nimarsani yemang — shahar eshiklaringizdagi musofirga beringki, u yesin, yoki chet ellikga sotib yuboring; chunki sen Yahve, Elohiming uchun muqaddas xonsan. Ulougʻni onasining sutida qaynatmang.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "yemang (emas)"
+      "gloss": "yemang —"
     },
     {
       "surface": "תאכלו",
-      "gloss": "yesangiz"
+      "gloss": "siz yemaysiz"
     },
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נבלה",
-      "gloss": "oʻlik goʻshtni"
+      "gloss": "oʻlik nimarsa (oʻzi oʻlgan hayvon)"
     },
     {
       "surface": "לגר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki u"
+      "gloss": "ki"
     },
     {
       "surface": "בשעריך",
-      "gloss": "shaharlaring ichida"
+      "gloss": "eshiklaringizda"
     },
     {
       "surface": "תתננה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ואכלה",
-      "gloss": "va u yesin"
+      "gloss": "va u yer"
     },
     {
       "surface": "או",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "sen"
+      "gloss": "san"
     },
     {
       "surface": "ליהוה",
@@ -81,15 +81,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "yoʻq — qaynatmang"
     },
     {
       "surface": "תבשל",
-      "gloss": "pishitmang"
+      "gloss": "qaynatmoq"
     },
     {
       "surface": "גדי",
-      "gloss": "ulоʻchani"
+      "gloss": "ulogʻ (yosh echki)"
     },
     {
       "surface": "בחלב",
@@ -100,6 +100,6 @@
       "gloss": "onasi"
     }
   ],
-  "timestamp": "2026-08-26T08:59:39.656355540Z",
+  "timestamp": "2026-08-26T10:21:57.716604592Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 34,
-  "translation": "Va Yahve unga dedi: «Mana shu ⟨the⟩ yer — Avrahimga, Yitsxakka va Yaakovga qasam ichganman: „Zurriyatingga beraman“ deb. Sen uni koʻzing bilan koʻrding, lekin u yerga oʻtolmaysan.»",
+  "translation": "Va Yahve unga aytdi: „Bu yer — Avrahamga, Yitsxakka va Yaakovga qasam ichgan yerim, ⟨deb⟩: „Naslinga uni beraman“; uni koʻzlaring bilan koʻrsatdim, lekin u yerga sen oʻtmaysan.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "va dedi"
+      "gloss": "aytdi"
     },
     {
       "surface": "יהוה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "mana shu"
+      "gloss": "bu"
     },
     {
       "surface": "הארץ",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "נשבעתי",
-      "gloss": "qasam ichganman"
+      "gloss": "qasam ichdim"
     },
     {
       "surface": "לאברהם",
-      "gloss": "Avrahimga"
+      "gloss": "Avrahamga"
     },
     {
       "surface": "ליצחק",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לזרעך",
-      "gloss": "zurriyatingga"
+      "gloss": "naslinga"
     },
     {
       "surface": "אתננה",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "בעיניך",
-      "gloss": "koʻzing bilan"
+      "gloss": "koʻzlaring bilan"
     },
     {
       "surface": "ושמה",
-      "gloss": "lekin u yerga"
+      "gloss": "va u yerga"
     },
     {
       "surface": "לא",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "תעבר",
-      "gloss": "oʻtolmaysan"
+      "gloss": "oʻtmaysan"
     }
   ],
-  "timestamp": "2026-08-26T02:08:42.167666170Z",
+  "timestamp": "2026-08-26T10:25:38.603025228Z",
   "model": "glm-5.3"
 }

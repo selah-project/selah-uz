@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 31,
-  "translation": "Va ularning oʻgʻillari, bilmaganlar, eshitsinlar va Yahve ⟨את⟩, sizning Elohimingizdan qoʻrqsinlarni oʻrganishsinlar — ⟨the⟩ barcha kunlar davomida, qachonki sizlar tiriksizlar ⟨the⟩ tuproq ustida, undan sizlar Iordonni ⟨the⟩ narigi tomonga kesib oʻtayotirlar, uni meros qilib olish uchun.",
+  "translation": "Va ularning oʻgʻillari, ⟨ular⟩ bilmas ⟨avlod⟩, eshitsin va Yahve ⟨את⟩, sizlarning Elohimlaringizdan qoʻrqqanni oʻrgansinlar — barcha kunlar, qachonki sizlar tirik boʻlsangizlar ⟨oʻsha⟩ tuproq ustida, qaysisiga sizlar ⟨u yonga⟩ oʻtayotganlaringiz — ⟨את⟩ Yardenni — uni egallash uchun.",
   "tokens": [
     {
       "surface": "ובניהם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "kimki"
     },
     {
       "surface": "לא",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ידעו",
-      "gloss": "bilmaganlar"
+      "gloss": "bilmagan"
     },
     {
       "surface": "ישמעו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ולמדו",
-      "gloss": "va oʻrganishsinlar"
+      "gloss": "va oʻrgansinlar"
     },
     {
       "surface": "ליראה",
-      "gloss": "qoʻrquv uchun"
+      "gloss": "qoʻrqqanni"
     },
     {
       "surface": "את",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "sizning Elohimingiz"
+      "gloss": "sizlarning Elohimlaringiz"
     },
     {
       "surface": "כל",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "qachonki"
+      "gloss": "kimki"
     },
     {
       "surface": "אתם",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "חיים",
-      "gloss": "tiriksizlar"
+      "gloss": "tirik"
     },
     {
       "surface": "על",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "tuproq"
+      "gloss": "⟨oʻsha⟩ tuproq"
     },
     {
       "surface": "אשר",
-      "gloss": "undan"
+      "gloss": "qaysisiga"
     },
     {
       "surface": "אתם",
@@ -86,26 +86,26 @@
     },
     {
       "surface": "עברים",
-      "gloss": "kesib oʻtayotirlar"
+      "gloss": "oʻtayotganlaringiz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Iordon"
+      "marks": "Yarden"
     },
     {
       "surface": "הירדן",
-      "gloss": "Iordonni"
+      "gloss": "Yardenni"
     },
     {
       "surface": "שמה",
-      "gloss": "narigi tomonga"
+      "gloss": "u yonga"
     },
     {
       "surface": "לרשתה",
-      "gloss": "uni meros qilib olish uchun"
+      "gloss": "uni egallash uchun"
     }
   ],
-  "timestamp": "2026-08-26T08:25:33.231627412Z",
+  "timestamp": "2026-08-26T10:22:09.694944249Z",
   "model": "glm-5.3"
 }

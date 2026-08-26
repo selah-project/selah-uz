@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va Sedom qiroli uning oldiga chiqdi, u Kedorlaomerni va uning bilan boʻlgan shohlarni yengib qaytganidan keyin, Shaveh vodiysiga — u ⟨the⟩ qirol vodiysidir.",
+  "translation": "Va Sedom qirochi chiqdi uning qarshisiga, Kedorlaomerni ⟨את⟩ va u bilan ⟨את⟩ boʻlgan qirollarni yengib qaytganidan keyin, Shaveh vodiysiga — u Shoh vodiysidir.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "chiqdi"
+      "gloss": "va chiqdi"
     },
     {
       "surface": "מלך",
-      "gloss": "qiroli"
+      "gloss": "qirochi"
     },
     {
       "surface": "סדם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לקראתו",
-      "gloss": "uning oldiga"
+      "gloss": "uning qarshisiga"
     },
     {
       "surface": "אחרי",
@@ -38,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Kedorlaomer"
+      "marks": "Kedorlaomerni"
     },
     {
       "surface": "כדרלעמר",
@@ -47,11 +47,11 @@
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "shohlar"
+      "marks": "qirollarni"
     },
     {
       "surface": "המלכים",
-      "gloss": "shohlarni"
+      "gloss": "qirollarni"
     },
     {
       "surface": "אשר",
@@ -83,9 +83,9 @@
     },
     {
       "surface": "המלך",
-      "gloss": "qirolining"
+      "gloss": "Shoh"
     }
   ],
-  "timestamp": "2026-08-26T00:33:21.901148012Z",
+  "timestamp": "2026-08-26T09:43:44.067791373Z",
   "model": "glm-5.3"
 }

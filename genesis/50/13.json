@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 50,
-  "translation": "Va uning oʻgʻillari uni Kanaan yurtiga olib bordilar va uni Maxpela dalasining gʻorida dafn etdilar — qaysi ⟨את⟩ daloni Avraham qabul egallashi uchun sotib olgan ⟨את⟩ Efron Xittiydan, Mamre yuzida.",
+  "translation": "Va uning oʻgʻillari uni Kenaan yeriga olib bordilar va uni Maxpela dalasidagi gʻorda dafn etdilar — ⟨את⟩ dala bilan birga Avraham tomonidan qabrxona egaligi uchun sotib olingan, Khitlik Efrondan, Mamre yuzida.",
   "tokens": [
     {
       "surface": "וישאו",
@@ -13,8 +13,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩u",
-      "marks": "uni (oʻgʻillari tomonidan koʻtarilgan Yaakov)"
+      "gloss": "⟨את⟩",
+      "marks": "uni (Yaakovni)"
     },
     {
       "surface": "בניו",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "ארצה",
-      "gloss": "yurtiga"
+      "gloss": "yerga"
     },
     {
       "surface": "כנען",
-      "gloss": "Kanaan"
+      "gloss": "Kenaan"
     },
     {
       "surface": "ויקברו",
@@ -34,8 +34,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩u",
-      "marks": "uni (dafn etilgan Yaakov)"
+      "gloss": "⟨את⟩",
+      "marks": "uni"
     },
     {
       "surface": "במערת",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "שדה",
-      "gloss": "dalasi"
+      "gloss": "dalasining"
     },
     {
       "surface": "המכפלה",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "קנה",
-      "gloss": "sotib oldi"
+      "gloss": "sotib olgan"
     },
     {
       "surface": "אברהם",
@@ -64,23 +64,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dalo(ni)"
+      "marks": "dalani"
     },
     {
       "surface": "השדה",
-      "gloss": "⟨the⟩ dala"
+      "gloss": "dala"
     },
     {
       "surface": "לאחזת",
-      "gloss": "egallash uchun"
+      "gloss": "eegaligi uchun"
     },
     {
       "surface": "קבר",
-      "gloss": "qabul"
+      "gloss": "qabrxona"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩dan"
+      "gloss": "⟨את⟩ dan"
     },
     {
       "surface": "עפרן",
@@ -88,21 +88,21 @@
     },
     {
       "surface": "החתי",
-      "gloss": "Xittiy"
+      "gloss": "Khitlik"
     },
     {
       "surface": "על",
-      "gloss": "oldida"
+      "gloss": "yuzida"
     },
     {
       "surface": "פני",
-      "gloss": "yuzi"
+      "gloss": "oldida"
     },
     {
       "surface": "ממרא",
       "gloss": "Mamre"
     }
   ],
-  "timestamp": "2026-08-26T00:49:32.027328871Z",
+  "timestamp": "2026-08-26T10:20:57.798082118Z",
   "model": "glm-5.3"
 }

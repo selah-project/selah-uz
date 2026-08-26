@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va bu ⟨is⟩ soʻz — u qoʻlini koʻtargani shohga qarshi: Shelomo ⟨את⟩ Milloga qurdi, yopdi ⟨את⟩ shaharning - Dog, otasi, shahri yoriqini.",
+  "translation": "Va bu ⟨edi⟩ ⟨asu⟩ ishkim, u qoʻl koʻtardi — podshoh Shelomohga qarshi: Shelomoh ⟨את⟩ Milloga qurdi, ⟨את⟩ Dogʻ shahri — otasi Dovudnikining — yoriligʻini yopdi.",
   "tokens": [
     {
       "surface": "וזה",
@@ -13,27 +13,27 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "soʻz"
+      "gloss": "ish"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "kimiki"
     },
     {
       "surface": "הרים",
-      "gloss": "koʻtargani"
+      "gloss": "koʻtardi"
     },
     {
       "surface": "יד",
-      "gloss": "qoʻlini"
+      "gloss": "qoʻl"
     },
     {
       "surface": "במלך",
-      "gloss": "shohga qarshi"
+      "gloss": "podshohga qarshi"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "בנה",
@@ -55,15 +55,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yoriq"
+      "marks": "yoriligʻi"
     },
     {
       "surface": "פרץ",
-      "gloss": "yoriq"
+      "gloss": "yoriligʻini"
     },
     {
       "surface": "עיר",
-      "gloss": "shahar"
+      "gloss": "shahri"
     },
     {
       "surface": "דוד",
@@ -74,6 +74,6 @@
       "gloss": "otasi"
     }
   ],
-  "timestamp": "2026-08-26T03:37:06.382045345Z",
+  "timestamp": "2026-08-26T09:53:52.996930567Z",
   "model": "glm-5.3"
 }

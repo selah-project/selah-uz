@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 30,
-  "translation": "Va agar eri ⟨uni⟩ eshitgan kunda man etsa, u ⟨את⟩ uning ustidagi nazrini va ⟨את⟩ lablarining shoshilinch soʻzini — joniga bogʻlagan narsasini — bekor qiladi, va Yahve unga kechiradi.",
+  "translation": "Agar eri eshitgan kuni uni man qilsa, u uning ustidagi nazrini va lablari bilan oʻz nefeshini bogʻlagan shoshilinch soʻzini bekor qiladi — Yahve ⟨uni⟩ kechiradi.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Va agar"
+      "gloss": "agar"
     },
     {
       "surface": "ביום",
-      "gloss": "kundа"
+      "gloss": "kuni"
     },
     {
       "surface": "שמע",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "יניא",
-      "gloss": "man etsa"
+      "gloss": "man qilsa"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩ uni",
-      "marks": "uni"
+      "marks": "uni (xotini)"
     },
     {
       "surface": "והפר",
@@ -39,7 +39,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uning ustidagi nazrini"
+      "marks": "nazrini"
     },
     {
       "surface": "נדרה",
@@ -56,7 +56,7 @@
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "lablarining shoshilinch soʻzini"
+      "marks": "shoshilinch soʻzini"
     },
     {
       "surface": "מבטא",
@@ -76,11 +76,11 @@
     },
     {
       "surface": "על",
-      "gloss": "uzra"
+      "gloss": "ustiga"
     },
     {
       "surface": "נפשה",
-      "gloss": "jonini"
+      "gloss": "oʻz nefeshini"
     },
     {
       "surface": "ויהוה",
@@ -92,9 +92,9 @@
     },
     {
       "surface": "לה",
-      "gloss": "unga"
+      "gloss": "⟨uni⟩"
     }
   ],
-  "timestamp": "2026-08-26T01:44:23.528067803Z",
+  "timestamp": "2026-08-26T09:49:22.804073257Z",
   "model": "glm-5.3"
 }

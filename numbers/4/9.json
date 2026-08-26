@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va olib kelgil matoni tanib, ⟨את⟩ chiroqning — maʼnodorning ⟨את⟩ chirogʻini, ⟨את⟩ chiroqlarini, ⟨את⟩ gʻishtlarini, ⟨את⟩ moʻrilarini, ⟨את⟩ moy idishlarini — barchasini yopdilar, ular bilan unga xizmat qiladigan barcha moy idishlarini yopdilar.",
+  "translation": "Va moviy mato olib, ⟨את⟩ nur beruvchi chiroqni, ⟨את⟩ uning lampalarini, ⟨את⟩ chimchularini va ⟨את⟩ kuldonlarini va ⟨את⟩ ularda unga xizmat qilinadigan moy idishlarining hammasini yopadilar.",
   "tokens": [
     {
-      "surface": "ויקחו",
-      "gloss": "va olishdi"
+      "surface": "ולקחו",
+      "gloss": "oladilar"
     },
     {
       "surface": "בגד",
@@ -17,65 +17,64 @@
     },
     {
       "surface": "תכלת",
-      "gloss": "havoriy"
+      "gloss": "moviy"
     },
     {
-      "surface": "ויכסו",
-      "gloss": "va yopdilar"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "menora"
+      "surface": "וכסו",
+      "gloss": "yopadilar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "menora"
+      "marks": "nur beruvchi chiroqni"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "chiroqni"
     },
     {
       "surface": "המאור",
-      "gloss": "yorugʻlik"
+      "gloss": "nur beruvchi"
     },
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
-      "marks": "neroteyha"
+      "gloss": "⟨את⟩",
+      "marks": "uning lampalarini"
     },
     {
-      "surface": "neroteha",
-      "gloss": "uning chiroqlari"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "va ⟨את⟩",
-      "marks": "malqacheyha"
-    },
-    {
-      "surface": "malqacheyha",
-      "gloss": "uning gʻishtlari (oʻchirgʻichlari)"
+      "surface": "נרתיה",
+      "gloss": "lampalarini"
     },
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
-      "marks": "maxtoteyha"
+      "gloss": "⟨את⟩",
+      "marks": "chimchularini"
     },
     {
-      "surface": "maxtoteyha",
-      "gloss": "uning moʻrilarini"
+      "surface": "מלקחיה",
+      "gloss": "chimchularini"
     },
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
-      "marks": "kol"
+      "gloss": "⟨את⟩",
+      "marks": "kuldonlarini"
+    },
+    {
+      "surface": "מחתתיה",
+      "gloss": "kuldonlarini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hammasini"
     },
     {
       "surface": "כל",
-      "gloss": "barchasi"
+      "gloss": "hammasini"
     },
     {
       "surface": "כלי",
-      "gloss": "idishlari"
+      "gloss": "idishlarini"
     },
     {
       "surface": "שמנה",
@@ -87,7 +86,7 @@
     },
     {
       "surface": "ישרתו",
-      "gloss": "xizmat qiladilar"
+      "gloss": "xizmat qilinadigan"
     },
     {
       "surface": "לה",
@@ -98,6 +97,6 @@
       "gloss": "ularda"
     }
   ],
-  "timestamp": "2026-08-26T01:26:17.471771325Z",
+  "timestamp": "2026-08-26T09:48:05.398315032Z",
   "model": "glm-5.3"
 }

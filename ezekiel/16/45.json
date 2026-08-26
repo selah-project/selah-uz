@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Onangning qizi ⟨את⟩ ⟨siz⟩ — erini va oʻgʻillarini yomon koʻrgan; va opa-singillaringning singillisi ⟨את⟩ ⟨siz⟩ — ularning erlari va oʻgʻillarini yomon koʻrgan; onalaring ⟨xittoy⟩, otalaring esa ⟨emoriy⟩.",
+  "translation": "Sen onangning qizisan, erini va oʻgʻillarini yomon koʻrgan; va opa-singillaringning opasisan, ⟨kimki⟩ erlarini va oʻgʻillarini yomon koʻrganlar; onalaring xittiy, otalaring esa emoriy.",
   "tokens": [
     {
       "surface": "בת",
@@ -17,8 +17,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "siz"
+      "gloss": "sen",
+      "marks": "yomon koʻrgan"
     },
     {
       "surface": "געלת",
@@ -34,32 +34,32 @@
     },
     {
       "surface": "ואחות",
-      "gloss": "va singil"
+      "gloss": "va opasi"
     },
     {
       "surface": "אחותך",
-      "gloss": "opa-singillaringning"
+      "gloss": "singillaringning"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "siz"
+      "gloss": "sen",
+      "marks": "kimki — yomon koʻrganlar"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "kimki"
     },
     {
       "surface": "געלו",
-      "gloss": "yomon koʻrgan"
+      "gloss": "yomon koʻrganlar"
     },
     {
       "surface": "אנשיהן",
-      "gloss": "ularning erlari"
+      "gloss": "erlarini"
     },
     {
       "surface": "ובניהן",
-      "gloss": "va oʻgʻillari"
+      "gloss": "va oʻgʻillarini"
     },
     {
       "surface": "אמכן",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "חתית",
-      "gloss": "xittoy"
+      "gloss": "xittiy"
     },
     {
       "surface": "ואביכן",
@@ -78,6 +78,6 @@
       "gloss": "emoriy"
     }
   ],
-  "timestamp": "2026-08-26T05:15:34.468452913Z",
+  "timestamp": "2026-08-26T10:23:40.792493439Z",
   "model": "glm-5.3"
 }

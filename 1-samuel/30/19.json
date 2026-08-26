@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 30,
-  "translation": "Va ulardan hech narsa kam boʻlmadi — kichigidan buyigacha, oʻgʻillari va qizlarigacha, oʻljasigacha, ular oʻzlari uchun olgan hamma narsagacha; Dovud ⟨the⟩ hammasini qaytarib berdi.",
+  "translation": "Ulardan hech narsa yetishmadi — kichigidan kattagacha, oʻgʻillargacha va qizlargacha, oʻljagacha, olganlari hamma narsagacha; barchasini Dovud qaytarib keldi.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "va ... emas"
+      "gloss": "va... emas"
     },
     {
       "surface": "נעדר",
-      "gloss": "kam boʻldi"
+      "gloss": "yetishmadi"
     },
     {
       "surface": "להם",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "מן",
-      "gloss": "—dan"
+      "gloss": "—"
     },
     {
       "surface": "הקטן",
-      "gloss": "kichigi"
+      "gloss": "kichigining"
     },
     {
       "surface": "ועד",
-      "gloss": "va ... gacha"
+      "gloss": "gacha"
     },
     {
       "surface": "הגדול",
-      "gloss": "buyigi"
+      "gloss": "kattasiga"
     },
     {
       "surface": "ועד",
-      "gloss": "va ... gacha"
+      "gloss": "va... gacha"
     },
     {
       "surface": "בנים",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ועד",
-      "gloss": "va ... gacha"
+      "gloss": "va... gacha"
     },
     {
       "surface": "כל",
-      "gloss": "hamma"
+      "gloss": "hamma narsa"
     },
     {
       "surface": "אשר",
@@ -65,25 +65,25 @@
     },
     {
       "surface": "לקחו",
-      "gloss": "olgan"
+      "gloss": "olgan edilar"
     },
     {
       "surface": "להם",
-      "gloss": "oʻzlari uchun"
+      "gloss": "oʻzlariga"
     },
     {
       "surface": "הכל",
-      "gloss": "hammasi"
+      "gloss": "barchasini"
     },
     {
       "surface": "השיב",
-      "gloss": "qaytarib berdi"
+      "gloss": "qaytarib keldi"
     },
     {
       "surface": "דוד",
       "gloss": "Dovud"
     }
   ],
-  "timestamp": "2026-08-26T03:00:44.774517675Z",
+  "timestamp": "2026-08-26T09:52:54.047566896Z",
   "model": "glm-5.3"
 }

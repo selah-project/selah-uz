@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Va Yahve oʻz soʻzini — u gapirgan ⟨את⟩ soʻzini oʻrinladi va men otam Dovud oʻrniga turdim va Isroil taxtiga oʻtirdim, Yahve gapirganidek, va Yahve, Isroil Elohimining nomi uchun ⟨את⟩ uyni qurdim.",
+  "translation": "Va Yahve oʻz soʻzini — gapirganini — roʻyobga chiqardi; men Dovud otamning oʻrniga turdim va Yahve gapirganidek Isroil taxtiga oʻtirdim va Yahve, Isroilning Elohimining nomi uchun ⟨the⟩ uyni qurdim.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "va oʻrinladi"
+      "gloss": "Va … roʻyobga chiqardi"
     },
     {
       "surface": "יהוה",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "u gapirgan"
+      "gloss": "gapirganini"
     },
     {
       "surface": "ואקום",
-      "gloss": "va men turdim"
+      "gloss": "men … turdim"
     },
     {
       "surface": "תחת",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "ואשב",
-      "gloss": "va oʻtirdim"
+      "gloss": "va … oʻtirdim"
     },
     {
       "surface": "על",
-      "gloss": "üzeriga"
+      "gloss": "…ga"
     },
     {
       "surface": "כסא",
-      "gloss": "taxt"
+      "gloss": "taxti"
     },
     {
       "surface": "ישראל",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "...dek"
+      "gloss": "…dek"
     },
     {
       "surface": "דבר",
-      "gloss": "gapirgan"
+      "gloss": "gapirgani"
     },
     {
       "surface": "יהוה",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "ואבנה",
-      "gloss": "va qurdim"
+      "gloss": "va … qurdim"
     },
     {
       "surface": "הבית",
@@ -101,6 +101,6 @@
       "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T08:05:42.433822340Z",
+  "timestamp": "2026-08-26T10:25:19.006025070Z",
   "model": "glm-5.3"
 }

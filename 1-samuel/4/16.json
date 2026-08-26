@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va odam Eliga aytdi: „Men — safdan kelganman, va men bugun safdan qochdim.“ Va u aytdi: „Nima boʻldi, oʻgʻlim?“",
+  "translation": "Va odam Eliga dedi: men ⟨⟩ jang safigidan kelganman, va men bugun jang safigidan qochdim. Va u dedi: nima boʻldi, oʻgʻlim?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "va aytdi"
+      "gloss": "Va dedi"
     },
     {
       "surface": "האיש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "-ga"
     },
     {
       "surface": "עלי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "...dan"
+      "gloss": "-dan"
     },
     {
       "surface": "המערכה",
-      "gloss": "saf"
+      "gloss": "jang safi"
     },
     {
       "surface": "ואני",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "...dan"
+      "gloss": "-dan"
     },
     {
       "surface": "המערכה",
-      "gloss": "saf"
+      "gloss": "jang safigidan"
     },
     {
       "surface": "נסתי",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "va aytdi"
+      "gloss": "Va dedi"
     },
     {
       "surface": "מה",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "gap\/is"
+      "gloss": "⟨gap⟩"
     },
     {
       "surface": "בני",
       "gloss": "oʻgʻlim"
     }
   ],
-  "timestamp": "2026-08-26T02:43:04.955341840Z",
+  "timestamp": "2026-08-26T09:52:19.183487449Z",
   "model": "glm-5.3"
 }

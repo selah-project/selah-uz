@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Bular — farzlar va hukmlar borki, sizlar ularga amal qilish uchun saqlaysizlar, ⟨the⟩ erda, oʻsha erda Yahve, otalaringizning Elohimi, sizlarga uni meros qilib olish uchun bergan, barcha kunlar davomida — sizlar tirik boʻlganingizcha ⟨the⟩ tuproq ustida.",
+  "translation": "Bular — qonunlar va hukmlar sizlar saqlashingiz uchun, bajarishga ⟨the⟩ erda, ki Yahve, otalaringizning Elohim, sizga berdi uni egallash uchun, barcha kunlar ki sizlar tirisiz ⟨the⟩ tuproq ustida.",
   "tokens": [
     {
       "surface": "אלה",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "החקים",
-      "gloss": "farzlar"
+      "gloss": "qonunlar"
     },
     {
-      "surface": "והמשפטים",
+      "surface": "ו המשפטים",
       "gloss": "va hukmlar"
     },
     {
       "surface": "אשר",
-      "gloss": "borki"
+      "gloss": "ki"
     },
     {
       "surface": "תשמרון",
-      "gloss": "saqlaysizlar"
+      "gloss": "saqlashingiz uchun"
     },
     {
       "surface": "לעשות",
-      "gloss": "amal qilish uchun"
+      "gloss": "bajarishga"
     },
     {
       "surface": "בארץ",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "oʻsha"
+      "gloss": "ki"
     },
     {
       "surface": "נתן",
-      "gloss": "bergan"
+      "gloss": "berdi"
     },
     {
       "surface": "יהוה",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim...i"
+      "gloss": "Elohim"
     },
     {
       "surface": "אבתיך",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "sizlarga"
+      "gloss": "sizga"
     },
     {
       "surface": "לרשתה",
-      "gloss": "uni meros qilib olish uchun"
+      "gloss": "uni egallash uchun"
     },
     {
       "surface": "כל",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "— davomida"
+      "gloss": "ki"
     },
     {
       "surface": "אתם",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "חיים",
-      "gloss": "tirik"
+      "gloss": "tirisiz"
     },
     {
       "surface": "על",
@@ -92,6 +92,6 @@
       "gloss": "⟨the⟩ tuproq"
     }
   ],
-  "timestamp": "2026-08-26T01:55:54.114286992Z",
+  "timestamp": "2026-08-26T10:21:59.530494767Z",
   "model": "glm-5.3"
 }

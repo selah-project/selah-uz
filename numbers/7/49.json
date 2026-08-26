@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Uning karonbani: bitta kumush kosа, ogʻirligi oʻttiz va yuuz shеkеl, bitta kumush choʻmich, yеttmish shеkеl, muqaddas shеkеli bilan, ikkalasi ham solta uniga moy qorishtirilgan holda toʻldirilgan, minxa uchun.",
+  "translation": "Qurbonligi — kumushdan bitta vatza, oʻttiz va yuz shakel ogʻirligida, bitta kumush choʻqib purkash idishi, muqaddas shakelida yetmish shakel, ikkalasi ham sochilgan unga toʻldirilgan, moyga aralashtirilgan, nonqurbonligi uchun.",
   "tokens": [
     {
       "surface": "קרבנו",
-      "gloss": "uning karonbani"
+      "gloss": "qurbonligi"
     },
     {
       "surface": "קערת",
-      "gloss": "kosа"
+      "gloss": "vatza"
     },
     {
       "surface": "כסף",
-      "gloss": "kumush"
+      "gloss": "kumushdan"
     },
     {
       "surface": "אחת",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ומאה",
-      "gloss": "va yuuz"
+      "gloss": "va yuz"
     },
     {
       "surface": "משקלה",
-      "gloss": "ogʻirligi"
+      "gloss": "ogʻirligida shakel"
     },
     {
       "surface": "מזרק",
-      "gloss": "choʻmich"
+      "gloss": "purkash idishi"
     },
     {
       "surface": "אחד",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "שבעים",
-      "gloss": "yеttmish"
+      "gloss": "yetmish"
     },
     {
       "surface": "שקל",
-      "gloss": "shеkеl"
+      "gloss": "shakel"
     },
     {
       "surface": "בשקל",
-      "gloss": "shеkеli bilan"
+      "gloss": "shakelida"
     },
     {
       "surface": "הקדש",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "שניהם",
-      "gloss": "ikkalasi"
+      "gloss": "ikkalasi ham"
     },
     {
       "surface": "מלאים",
@@ -73,21 +73,21 @@
     },
     {
       "surface": "סלת",
-      "gloss": "solta uni"
+      "gloss": "sochilgan un"
     },
     {
       "surface": "בלולה",
-      "gloss": "qorishtirilgan"
+      "gloss": "aralashtirilgan"
     },
     {
       "surface": "בשמן",
-      "gloss": "moy bilan"
+      "gloss": "moy"
     },
     {
       "surface": "למנחה",
-      "gloss": "minxa uchun"
+      "gloss": "nonqurbonligi uchun"
     }
   ],
-  "timestamp": "2026-08-26T01:27:44.710067125Z",
+  "timestamp": "2026-08-26T09:48:02.535241284Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 50,
-  "translation": "Shunday deydi Yahve: qayerda ⟨the⟩ onangizning taloq varaqasi — uni men qo'yib yuborganman? Yoki qaysi qarz beruvchiga men ⟨את⟩ sizni sotdim? Ma'qul, jinoyatlaringiz tufayli siz sotildingiz va isyonlaringiz tufayli onangiz qo'yib yuborildi.",
+  "translation": "Shunday deydi Yahve: Qayerda ⟨bu⟩ onangizning taloq yozuvi, kim uni yubordi? Yoki qarzdorlarimdan qaysi biriga ⟨את⟩ sizni sotdim? Maʼlum, oʻz gunohlaringiz uchun sotildingiz, va oʻz jinoyatlaringiz uchun onangiz yuborildi.",
   "tokens": [
     {
       "surface": "כה",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "אי",
-      "gloss": "qayerda"
+      "gloss": "Qayerda"
     },
     {
       "surface": "זה",
-      "gloss": "⟨the⟩"
+      "gloss": "⟨bu⟩"
     },
     {
       "surface": "ספר",
-      "gloss": "varaqa"
+      "gloss": "yozuvi"
     },
     {
       "surface": "כריתות",
-      "gloss": "taloq"
+      "gloss": "taloq (kesuv) yozuvi"
     },
     {
       "surface": "אמכם",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "kim"
     },
     {
       "surface": "שלחתיה",
-      "gloss": "uni qo'yib yuborganman"
+      "gloss": "uni yubordi"
     },
     {
       "surface": "או",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "מנושי",
-      "gloss": "qarz beruvchim"
+      "gloss": "qarzdorlarimdan"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "biriga"
     },
     {
       "surface": "מכרתי",
@@ -69,7 +69,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sizni"
+      "gloss": "⟨את⟩",
+      "marks": "sizni"
     },
     {
       "surface": "לו",
@@ -77,11 +78,11 @@
     },
     {
       "surface": "הן",
-      "gloss": "Ma'qul"
+      "gloss": "Maʼlum"
     },
     {
       "surface": "בעונתיכם",
-      "gloss": "jinoyatlaringiz tufayli"
+      "gloss": "gunohlaringiz uchun"
     },
     {
       "surface": "נמכרתם",
@@ -89,17 +90,17 @@
     },
     {
       "surface": "ובפשעיכם",
-      "gloss": "va isyonlaringiz tufayli"
+      "gloss": "va jinoyatlaringiz uchun"
     },
     {
       "surface": "שלחה",
-      "gloss": "qo'yib yuborildi"
+      "gloss": "yuborildi"
     },
     {
       "surface": "אמכם",
       "gloss": "onangiz"
     }
   ],
-  "timestamp": "2026-08-26T04:32:02.264068134Z",
+  "timestamp": "2026-08-26T09:55:33.602095716Z",
   "model": "glm-5.3"
 }

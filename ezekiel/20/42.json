@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va bilursizlar kimki Men Yahveman, keltirganimda ⟨את⟩ sizlarni Isroil tuprogʻiga, ⟨the⟩ oʻsha yerga qaysiga koʻtardiman ⟨את⟩ qoʻlimni berish uchun uni ota-bovilaringizga.",
+  "translation": "Va bilursizlar-ki Men Yahve ⟨man⟩, ⟨את⟩ sizlarni Isroil tuprogʻiga, otalaringizga berish uchun qoʻlimni ⟨את⟩ koʻtargan ⟨man⟩ oʻsha ⟨the⟩ yerga keltirganimda.",
   "tokens": [
     {
       "surface": "וידעתם",
-      "gloss": "va bilursizlar"
+      "gloss": "Va bilursizlar"
     },
     {
       "surface": "כי",
-      "gloss": "kimki"
+      "gloss": "-ki"
     },
     {
       "surface": "אני",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "בהביאי",
-      "gloss": "keltirganimda"
+      "gloss": "sizlarni keltirganimda"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "sizlarni"
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni (Isroil tuprogʻiga olib kelinish)"
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "-ga"
     },
     {
       "surface": "אדמת",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "yerga"
+      "gloss": "oʻsha yerga"
     },
     {
       "surface": "אשר",
-      "gloss": "qaysiga"
+      "gloss": "oʻsha"
     },
     {
       "surface": "נשאתי",
-      "gloss": "koʻtardiman"
+      "gloss": "koʻtargan ⟨man⟩"
     },
     {
       "surface": "את",
@@ -75,14 +75,14 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "uni"
+      "gloss": "⟨את⟩ uni",
+      "marks": "oʻsha yerni"
     },
     {
       "surface": "לאבותיכם",
-      "gloss": "ota-bovilaringizga"
+      "gloss": "otalaringizga"
     }
   ],
-  "timestamp": "2026-08-26T05:18:14.254054531Z",
+  "timestamp": "2026-08-26T10:23:30.965004040Z",
   "model": "glm-5.3"
 }

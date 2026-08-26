@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va qirol ularga kun sayin — oʻz kuniga — qirolning noz-neʼmatidan va ichimligi sharobidan paʼyni belgiladi, va ularni uch yil boqish uchun, va shundan ularning ayrimlari qirol oldida turishi uchun.",
+  "translation": "Va qrol ularga kunma-kun kunlik pajomni — qrolning noz-ne’matidan va uning ichimliklar sharobidan — belgiladi; va ularni uch yil boqish uchun, shundan keyin ularning ba’zilari qrolning huzurida turishi uchun.",
   "tokens": [
     {
       "surface": "וימן",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "qirol"
+      "gloss": "qrol"
     },
     {
       "surface": "דבר",
-      "gloss": "paʼy"
+      "gloss": "pajom"
     },
     {
       "surface": "יום",
@@ -29,33 +29,57 @@
     },
     {
       "surface": "ביומו",
-      "gloss": "kuniga"
+      "gloss": "kunma-kun"
     },
     {
       "surface": "מפת",
-      "gloss": "qismi"
+      "gloss": "—"
     },
     {
       "surface": "בג",
-      "gloss": "noz-neʼmat"
+      "gloss": "noz-ne’mat"
     },
     {
       "surface": "המלך",
-      "gloss": "qirolning"
+      "gloss": "qrolning"
     },
     {
-      "surface": "וימן... ומיין",
-      "gloss": ""
+      "surface": "ומיין",
+      "gloss": "va sharob"
     },
     {
-      "surface": "וימן ... ומיין",
-      "gloss": ""
+      "surface": "משתיו",
+      "gloss": "uning ichimliklaridan"
     },
     {
-      "surface": "",
-      "gloss": ""
+      "surface": "ולגדלם",
+      "gloss": "ularni boqish uchun"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "uch"
+    },
+    {
+      "surface": "ומקצתם",
+      "gloss": "ularning ba’zilari"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "turishi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "huzurida"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "qrolning"
     }
   ],
-  "timestamp": "2026-08-26T07:26:57.231370459Z",
+  "timestamp": "2026-08-26T10:03:33.118402053Z",
   "model": "glm-5.3"
 }

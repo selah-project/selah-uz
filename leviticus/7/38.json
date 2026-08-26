@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Buni Yahve Sina togʻida Moyshega buyurgan — ⟨the⟩ kunda, oʻsha kuni ⟨u⟩ Isroil oʻgʻillariga ⟨את⟩ ularning qurbonliklarini Yahvega yaqinlashtirib keltirishlarini buyurganda, Sina choʻlida.",
+  "translation": "Buni Yahve Sina togʻida Moshega buyurgan — oʻsha kuni Isroil oʻgʻillariga Sina choʻlida qurbonlarini Yahvega taqdim etishni buyurgan edi.",
   "tokens": [
     {
       "surface": "אשר",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Moyshe"
+      "marks": "Moshe"
     },
     {
       "surface": "משה",
-      "gloss": "Moyshe"
+      "gloss": "Moshe"
     },
     {
       "surface": "בהר",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "ביום",
-      "gloss": "kunda"
+      "gloss": "oʻsha kuni"
     },
     {
       "surface": "צותו",
-      "gloss": "oʻsha kuni buyurganda"
+      "gloss": "buyurganida"
     },
     {
       "surface": "את",
@@ -59,16 +59,16 @@
     },
     {
       "surface": "להקריב",
-      "gloss": "yaqinlashtirib keltirishlarini"
+      "gloss": "taqdim etishga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ularning qurbonliklari"
+      "marks": "qurbonlari"
     },
     {
       "surface": "קרבניהם",
-      "gloss": "ularning qurbonliklari"
+      "gloss": "qurbonlarini"
     },
     {
       "surface": "ליהוה",
@@ -83,6 +83,6 @@
       "gloss": "Sina"
     }
   ],
-  "timestamp": "2026-08-26T01:09:45.194913462Z",
+  "timestamp": "2026-08-26T09:46:40.972305854Z",
   "model": "glm-5.3"
 }

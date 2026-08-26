@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Kim biladi — odam oʻgʻillarining ruxi yuqoriga koʻtariladimi, hayvonning ruxi yer ostiga tushadimi?",
+  "translation": "Kim biladi — odam oʻgʻillarining ruxi yuqoriga koʻtariladiganmi, va hayvonning ruxi pastga, yerga tushadiganmi?",
   "tokens": [
     {
       "surface": "מי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "העלה",
-      "gloss": "yuqoriga koʻtariladimi"
+      "gloss": "yuqoriga koʻtariladigan"
     },
     {
       "surface": "היא",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "למעלה",
-      "gloss": "tepagа"
+      "gloss": "yuqoriga"
     },
     {
       "surface": "ורוח",
-      "gloss": "va ruhi"
+      "gloss": "va … ruxi"
     },
     {
       "surface": "הבהמה",
@@ -64,6 +64,6 @@
       "gloss": "yerga"
     }
   ],
-  "timestamp": "2026-08-26T07:19:05.448987027Z",
+  "timestamp": "2026-08-26T10:07:23.580550959Z",
   "model": "glm-5.3"
 }

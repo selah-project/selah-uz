@@ -5,8 +5,58 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 37,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-26T04:21:51.372641921Z",
+  "translation": "Va boʻldi: Xizqiyo shoh eshitganda, u ⟨את⟩ kiyimlarini yirtdi va saksoqul bilan oʻrandi va Yahve uyiga kirdi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Va boʻldi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "eshitganda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "shoh"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Xizqiyo"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "yirtdi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiyimlarini"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "kiyimlarini"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "oʻrandi"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "saksoqul bilan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "kirdi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    }
+  ],
+  "timestamp": "2026-08-26T09:55:14.913363291Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 31,
-  "translation": "Senga oʻxshagan kim bor — shu shon-sharat va ulugʻvorlikda, Edn daraxtlari orasida? Va sen ⟨את⟩ Edn daraxtlari bilan tub yerга tushirilasan; sunnatlanmaganlar orasida yotursan, qilich bilan yaralanganlar bilan. U — Paro va uning butun olomoni, deydi Adonay Yahve.",
+  "translation": "Kimga sen shunday oʻxshatilding — shon-sharafda va ulugʻlikda Aden daraxtlari orasida? Va sen Aden daraxtlari bilan birga pastki yerga tushirilding; sunnatlanmaganlar orasida qilich bilan oʻldirilganlar yonida yotasan. U — Farʼon va uning butun olomoni, — deydi Adonay Yahve.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "sga"
+      "gloss": "kimga"
     },
     {
       "surface": "מי",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בכבוד",
-      "gloss": "shon-sharatda"
+      "gloss": "shon-sharafda"
     },
     {
       "surface": "ובגדל",
-      "gloss": "va ulugʻvorlikda"
+      "gloss": "va ulugʻlikda"
     },
     {
       "surface": "בעצי",
@@ -37,16 +37,16 @@
     },
     {
       "surface": "עדן",
-      "gloss": "Edn"
+      "gloss": "Aden"
     },
     {
       "surface": "והורדת",
-      "gloss": "va tushirilasan"
+      "gloss": "va tushirilding"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Edn daraxtlari"
+      "marks": "Aden daraxtlari"
     },
     {
       "surface": "עצי",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "עדן",
-      "gloss": "Edn"
+      "gloss": "Aden"
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "…ga"
     },
     {
       "surface": "ארץ",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "תחתית",
-      "gloss": "tub"
+      "gloss": "pastki"
     },
     {
       "surface": "בתוך",
@@ -78,20 +78,20 @@
     },
     {
       "surface": "תשכב",
-      "gloss": "yotursan"
+      "gloss": "yotasan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qilich bilan yaralanganlar"
+      "marks": "qilich bilan oʻldirilganlar"
     },
     {
       "surface": "חללי",
-      "gloss": "yaralanganlar"
+      "gloss": "oʻldirilganlar"
     },
     {
       "surface": "חרב",
-      "gloss": "qilich bilan"
+      "gloss": "qilich"
     },
     {
       "surface": "הוא",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "Paro"
+      "gloss": "Farʼon"
     },
     {
       "surface": "וכל",
@@ -107,7 +107,7 @@
     },
     {
       "surface": "המונה",
-      "gloss": "uning olomoni"
+      "gloss": "olomoni"
     },
     {
       "surface": "נאם",
@@ -122,6 +122,6 @@
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-26T05:24:05.430859008Z",
+  "timestamp": "2026-08-26T09:57:08.375458303Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 22,
-  "translation": "Balki bu ishni bir gapdan qoʻrqqanimiz uchun qildik, dedik: ertaga sizning oʻgʻillarimizga aytadilar: „Sizlarga nima aloqadorlik bor bor Yahve bilan, Isroilning Elohim bilan?“",
+  "translation": "Va agar ⟨bu⟩ ishni qoʻrquvdan, masaladan ⟨dolzarb⟩ qilmagan boʻlsak, deb: ertaga oʻgʻillaringiz oʻgʻillarimizga aytib: „Sizlarga nima, Yahve bilan, Isroilning Elohimiga?“ —",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "balki agar"
+      "gloss": "va agar"
     },
     {
       "surface": "לא",
-      "gloss": "…mas"
+      "gloss": "emas"
     },
     {
       "surface": "מדאגה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "מדבר",
-      "gloss": "bir gapdan"
+      "gloss": "masaladan"
     },
     {
       "surface": "עשינו",
-      "gloss": "qildik"
+      "gloss": "qilmagan boʻlsak"
     },
     {
       "surface": "את",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "זאת",
-      "gloss": "bu (ish)"
+      "gloss": "bu"
     },
     {
       "surface": "לאמר",
-      "gloss": "dedik"
+      "gloss": "deb"
     },
     {
       "surface": "מחר",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "יאמרו",
-      "gloss": "aytadilar"
+      "gloss": "aytib"
     },
     {
       "surface": "בניכם",
-      "gloss": "sizning oʻgʻillaringiz"
+      "gloss": "oʻgʻillaringiz"
     },
     {
       "surface": "לבנינו",
-      "gloss": "bizning oʻgʻillarimizga"
+      "gloss": "oʻgʻillarimizga"
     },
     {
       "surface": "לאמר",
@@ -69,22 +69,18 @@
       "gloss": "sizlarga"
     },
     {
-      "surface": "ו",
-      "gloss": "va"
-    },
-    {
-      "surface": "ליהוה",
+      "surface": "וליהוה",
       "gloss": "Yahve bilan"
     },
     {
       "surface": "אלהי",
-      "gloss": "…ning Elohim"
+      "gloss": "Elohimiga"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil"
+      "gloss": "Isroilning"
     }
   ],
-  "timestamp": "2026-08-26T02:22:25.140207657Z",
+  "timestamp": "2026-08-26T09:51:37.243759966Z",
   "model": "glm-5.3"
 }

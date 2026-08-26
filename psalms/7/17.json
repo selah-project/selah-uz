@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Uning mehnati oʻz boshiga qaytadi, va oʻz tugʻru(choqqi)sigа uning zoʻravonligi tushadi.",
+  "translation": "Yomonligʻi oʻz boshiga qaytadi, va oʻz tojiga ⟨uning⟩ zoʻravonligʻi tushadi.",
   "tokens": [
     {
       "surface": "ישוב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "עמלו",
-      "gloss": "uning mehnati"
+      "gloss": "yomonligʻi"
     },
     {
       "surface": "בראשו",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "ועל",
-      "gloss": "va oʻz ... -ga"
+      "gloss": "va oʻz tojiga"
     },
     {
       "surface": "קדקדו",
-      "gloss": "tugʻru(choqqi)si"
+      "gloss": "⟨uning⟩ tojiga"
     },
     {
       "surface": "חמסו",
-      "gloss": "uning zoʻravonligi"
+      "gloss": "zoʻravonligʻi"
     },
     {
       "surface": "ירד",
       "gloss": "tushadi"
     }
   ],
-  "timestamp": "2026-08-26T05:58:26.048901873Z",
+  "timestamp": "2026-08-26T09:59:56.286175883Z",
   "model": "glm-5.3"
 }

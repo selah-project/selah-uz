@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Va uchlatuvchi chodirining ogʻziga uni Yahvegа ⟨את⟩ni qilish uchun keltirmasa — oʻsha odam oʻz xalqi orasidan qirib tashlanadi.",
+  "translation": "Va ⟨u⟩ uni Yahve uchun qilish uchun uchrashuv chodirining kirish eshigiga keltirmasa — oʻsha odam oʻz xalqi ichidan kesib tashlanadi.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "va ... ga"
+      "gloss": "va … ga"
     },
     {
       "surface": "פתח",
-      "gloss": "ogʻiz\/eshik"
+      "gloss": "kirish eshigi"
     },
     {
       "surface": "אהל",
-      "gloss": "chodir"
+      "gloss": "chodor"
     },
     {
       "surface": "מועד",
-      "gloss": "uchratuv"
+      "gloss": "ucrashuv"
     },
     {
       "surface": "לא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "יביאנו",
-      "gloss": "keltirmasa"
+      "gloss": "keltirmasa uni"
     },
     {
       "surface": "לעשות",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "uni"
+      "gloss": "⟨את⟩uni",
+      "marks": "qurbonlikni (yaʼni keltirilgan qurbonni)"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahve uchun"
     },
     {
       "surface": "ונכרת",
-      "gloss": "va qirib tashlanadi"
+      "gloss": "va kesib tashlanadi"
     },
     {
       "surface": "האיש",
-      "gloss": "oʻsha odam"
+      "gloss": "odam"
     },
     {
       "surface": "ההוא",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "מעמיו",
-      "gloss": "oʻz xalqi orasidan"
+      "gloss": "oʻz xalqi ichidan"
     }
   ],
-  "timestamp": "2026-08-26T01:17:21.197223992Z",
+  "timestamp": "2026-08-26T09:47:03.935417848Z",
   "model": "glm-5.3"
 }

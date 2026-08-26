@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va Gershon oʻgʻillarining qoʻriqlanishi ⟨the⟩ majlis chodrida: ⟨the⟩ maskan va ⟨the⟩ chodir, uning yopinchigʻi va majlis chodiri eshigining pardasi.",
+  "translation": "Va Gershon oʻgʻillarining majboniyati — uchrashuv chodirida ⟨boʻladi⟩: ⟨the⟩ maskan, va ⟨the⟩ chodir, uning yopinchigʻi, va uchrashuv chodiri eshigining parda — parda",
   "tokens": [
     {
       "surface": "ומשמרת",
-      "gloss": "Va qoʻriqlanishi"
+      "gloss": "va majboniyati"
     },
     {
       "surface": "בני",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "באהל",
-      "gloss": "chodrida"
+      "gloss": "chodirda"
     },
     {
       "surface": "מועד",
-      "gloss": "majlis"
+      "gloss": "uchrashuv"
     },
     {
       "surface": "המשכן",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ומסך",
-      "gloss": "va pardasi"
+      "gloss": "va parda"
     },
     {
       "surface": "פתח",
-      "gloss": "eshigi"
+      "gloss": "eshigining"
     },
     {
       "surface": "אהל",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "מועד",
-      "gloss": "majlis"
+      "gloss": "uchrashuv"
     }
   ],
-  "timestamp": "2026-08-26T01:25:49.489076501Z",
+  "timestamp": "2026-08-26T10:21:17.269279609Z",
   "model": "glm-5.3"
 }

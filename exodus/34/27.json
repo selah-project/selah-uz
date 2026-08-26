@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 34,
-  "translation": "Va dedi Yahve Moshega: yoz oʻzing uchun ⟨את⟩ ⟨the⟩ soʻzlarni bu soʻzlarni, chunki ogʻiz boʻyicha soʻzlarning bu soʻzlarning kesdim ⟨את⟩ bilan sen ahdni va ⟨את⟩ Isroil bilan.",
+  "translation": "Va Yahve Moshega aytdi: oʻzing uchun ⟨את⟩ bu soʻzlarni yoz, chunki ana shu soʻzlarning ogʻziga koʻra men sen ⟨את⟩ bilan ahd qurdman va ⟨את⟩ Yisroel bilan.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Va dedi"
+      "gloss": "va aytdi"
     },
     {
       "surface": "יהוה",
@@ -34,7 +34,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "soʻzlarni"
+      "marks": "bu soʻzlarni"
     },
     {
       "surface": "הדברים",
@@ -62,15 +62,15 @@
     },
     {
       "surface": "האלה",
-      "gloss": "bu"
+      "gloss": "shu"
     },
     {
       "surface": "כרתי",
-      "gloss": "kesdim"
+      "gloss": "qurdim (kesib)"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ bilan"
+      "gloss": "⟨את⟩ bilan — sen"
     },
     {
       "surface": "ברית",
@@ -79,13 +79,13 @@
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "Isroil bilan"
+      "marks": "Yisroel bilan"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil bilan"
+      "gloss": "Yisroel"
     }
   ],
-  "timestamp": "2026-08-26T01:04:30.587628842Z",
+  "timestamp": "2026-08-26T09:45:59.202736365Z",
   "model": "glm-5.3"
 }

@@ -5,10 +5,10 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Va aytinglar: Podshoh shunday deydi — bu kishini qamoq uyiga soling va unga siqilgan的非 non va siqilgan suv bering, men tinchlik bilan qaytmagunimcha.",
+  "translation": "va aytinglar: Shunday deydi podshoh: Bu ⟨את⟩ kishini qamoq xonasinga qoʻyinglar va unga siqilgan non bilan siqilgan suv berib turinglar, men tinchlik bilan qaytguncha.",
   "tokens": [
     {
-      "surface": "ו אמרתם",
+      "surface": "ואמרתם",
       "gloss": "va aytinglar"
     },
     {
@@ -25,15 +25,15 @@
     },
     {
       "surface": "שימו",
-      "gloss": "soling"
+      "gloss": "qoʻyinglar"
     },
     {
       "surface": "זה",
-      "gloss": "bu kishini"
+      "gloss": "bu"
     },
     {
       "surface": "בית",
-      "gloss": "uy"
+      "gloss": "xona"
     },
     {
       "surface": "הכלא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "והאכלהו",
-      "gloss": "va unga non bering"
+      "gloss": "va unga berib turinglar"
     },
     {
       "surface": "לחם",
@@ -61,17 +61,17 @@
     },
     {
       "surface": "עד",
-      "gloss": "gacha"
+      "gloss": "qaytguncha"
     },
     {
       "surface": "שובי",
-      "gloss": "qaytmagunimcha"
+      "gloss": "men qaytaman"
     },
     {
       "surface": "בשלום",
       "gloss": "tinchlik bilan"
     }
   ],
-  "timestamp": "2026-08-26T08:10:15.478789148Z",
+  "timestamp": "2026-08-26T10:05:39.848266402Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 127,
-  "translation": "Baxtlidir odam, whose quvosini ular bilan toʻldirgan: ular uyalmaydilar, chunki ular ⟨the⟩ dushmanlar bilan ⟨the⟩ darvozada soʻzlashadilar.",
+  "translation": "Baxtlidir ⟨⟨the⟩⟩ kuchli odamki, oʻqdonini ulardan toʻldirdi; ular dushmanlar bilan darvozada gaplashganda xijolat boʻlmaydilar.",
   "tokens": [
     {
       "surface": "אשרי",
@@ -13,24 +13,24 @@
     },
     {
       "surface": "הגבר",
-      "gloss": "odam"
+      "gloss": "⟨the⟩ kuchli odam"
     },
     {
       "surface": "אשר",
-      "gloss": "kimki"
+      "gloss": "ki"
     },
     {
       "surface": "מלא",
-      "gloss": "toʻldirgan"
+      "gloss": "toʻldirdi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "quvosini"
+      "marks": "oʻqdonini"
     },
     {
       "surface": "אשפתו",
-      "gloss": "quvosini"
+      "gloss": "oʻqdonini"
     },
     {
       "surface": "מהם",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "... emas"
     },
     {
       "surface": "יבשו",
-      "gloss": "uyalmaydilar"
+      "gloss": "xijolat boʻlmaydilar"
     },
     {
       "surface": "כי",
@@ -50,12 +50,12 @@
     },
     {
       "surface": "ידברו",
-      "gloss": "soʻzlashadilar"
+      "gloss": "gaplashganda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dushmanlar bilan"
+      "marks": "dushmanlar"
     },
     {
       "surface": "אויבים",
@@ -66,6 +66,6 @@
       "gloss": "darvozada"
     }
   ],
-  "timestamp": "2026-08-26T06:33:36.351502385Z",
+  "timestamp": "2026-08-26T10:24:03.487746830Z",
   "model": "glm-5.3"
 }

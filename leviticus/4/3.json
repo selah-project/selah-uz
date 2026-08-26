@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Agar moylangan kohin xalq aybiga sabab boʻladigan gunoh qilsa, oʻz gunohi uchun — qilgan gunohi uchun — Yahvegа gunoh qurboni sifatida nuqsonsiz buzoq, qoramol bolasini keltirsin.",
+  "translation": "Agar moylangan kohin gunoh qilib xalqning aybiga sabab boʻlsa, u oʻz gunohi ustidan — qilib qoʻygan gunohi uchun — Yahvegʻa mol buzoqʻini, nuqsonsizini, gunoh qurbonligi sifatida keltirsin:",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "Agar"
+      "gloss": "agar"
     },
     {
       "surface": "הכהן",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לאשמת",
-      "gloss": "aybiga sabab boʻladigan"
+      "gloss": "aybiga sabab boʻlsa"
     },
     {
       "surface": "העם",
-      "gloss": "xalq"
+      "gloss": "xalqning"
     },
     {
       "surface": "והקריב",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "על",
-      "gloss": "uchun"
+      "gloss": "ustidan"
     },
     {
       "surface": "חטאתו",
-      "gloss": "gunohi"
+      "gloss": "oʻz gunohi"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "חטא",
-      "gloss": "gunoh qildi"
+      "gloss": "qilib qoʻygan"
     },
     {
       "surface": "פר",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "בקר",
-      "gloss": "qoramol"
+      "gloss": "molning"
     },
     {
       "surface": "תמים",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahvegʻa"
     },
     {
       "surface": "לחטאת",
-      "gloss": "gunoh qurboni sifatida"
+      "gloss": "gunoh qurbonligi sifatida"
     }
   ],
-  "timestamp": "2026-08-26T01:09:35.781233690Z",
+  "timestamp": "2026-08-26T09:46:59.485659948Z",
   "model": "glm-5.3"
 }

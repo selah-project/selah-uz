@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Va Ram ⟨את⟩ Amminadabni dunyoga keltirdi, va Amminadab ⟨את》 Nachshonni dunyoga keltirdi — Yahudo oʻgʻillarining sardori.",
+  "translation": "Va Ram ⟨את⟩ Aminadabni dunyoga keltirdi, va Aminadab ⟨את⟩ Naxshonni dunyoga keltirdi — Yehuda oʻgʻillari orasida sardor.",
   "tokens": [
     {
       "surface": "ורם",
@@ -18,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Amminadabni"
+      "marks": "Aminadabni"
     },
     {
       "surface": "עמינדב",
-      "gloss": "Amminadabni"
+      "gloss": "Aminadab"
     },
     {
       "surface": "ועמינדב",
-      "gloss": "va Amminadab"
+      "gloss": "va Aminadab"
     },
     {
       "surface": "הוליד",
@@ -35,25 +35,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Nachshonni"
+      "marks": "Naxshonni"
     },
     {
       "surface": "נחשון",
-      "gloss": "Nachshonni"
+      "gloss": "Naxshon"
     },
     {
       "surface": "נשיא",
-      "gloss": "sardori"
+      "gloss": "sardor"
     },
     {
       "surface": "בני",
-      "gloss": "oʻgʻillarining"
+      "gloss": "oʻgʻillari"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yahudo"
+      "gloss": "Yehuda"
     }
   ],
-  "timestamp": "2026-08-26T07:53:40.147750010Z",
+  "timestamp": "2026-08-26T10:04:29.471720247Z",
   "model": "glm-5.3"
 }

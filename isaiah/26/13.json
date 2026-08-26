@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Yahve, Elohimimiz — Sendan boshqa hukmdorlar bizga egа boʻldilar; faqat Senda ⟨⟨borib⟩⟩ Sening ismingni eslaymiz.",
+  "translation": "Yahve, Elohimimiz, Sendan boshqa adonaylar bizga egalik qildilar; faqat Sendagina ⟨את⟩ Sening ismingni eslaymiz.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "בעלונו",
-      "gloss": "bizga ega boʻldilar"
+      "gloss": "bizga egalik qildilar"
     },
     {
       "surface": "אדנים",
-      "gloss": "hukmdorlar"
+      "gloss": "adonaylar"
     },
     {
       "surface": "זולתך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בך",
-      "gloss": "Senda"
+      "gloss": "Sendagina"
     },
     {
       "surface": "נזכיר",
@@ -44,6 +44,6 @@
       "gloss": "Sening ismingni"
     }
   ],
-  "timestamp": "2026-08-26T04:17:16.994571592Z",
+  "timestamp": "2026-08-26T10:06:53.456069327Z",
   "model": "glm-5.3"
 }

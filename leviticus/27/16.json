@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Agar bir kishi mulkidan bir dalani Yahvegа muqaddas qilsa, bahosing uning urugʻiga qarab boʻladi: arpa urugʻidan bir xomer — ellik shekel kumushda.",
+  "translation": "Agar bir kishi mulkiga tegishli daladan bir qismini Yahve uchun muqaddaslasa, ⟨u holda⟩ bahoying uning urugʻiga qarab boʻladi: arpa urugʻidan bir xomer — ellik shekel kumush ⟨narxida⟩.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Agar"
+      "gloss": "agar"
     },
     {
       "surface": "משדה",
-      "gloss": "dalandan"
+      "gloss": "daladan"
     },
     {
       "surface": "אחזתו",
-      "gloss": "uning mulki"
+      "gloss": "mulkiga tegishli"
     },
     {
       "surface": "יקדיש",
-      "gloss": "muqaddas qilsa"
+      "gloss": "muqaddaslasa"
     },
     {
       "surface": "איש",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahve uchun"
     },
     {
       "surface": "והיה",
-      "gloss": "boʻladi"
+      "gloss": "⟨u holda⟩ boʻladi"
     },
     {
       "surface": "ערכך",
-      "gloss": "bahosing"
+      "gloss": "bahoying"
     },
     {
       "surface": "לפי",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "זרע",
-      "gloss": "urugʻi"
+      "gloss": "urugʻidan"
     },
     {
       "surface": "חמר",
@@ -72,6 +72,6 @@
       "gloss": "kumush"
     }
   ],
-  "timestamp": "2026-08-26T01:25:13.463216942Z",
+  "timestamp": "2026-08-26T09:47:24.436863238Z",
   "model": "glm-5.3"
 }

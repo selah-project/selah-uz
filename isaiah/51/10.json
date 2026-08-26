@@ -5,20 +5,19 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 51,
-  "translation": "Sen ⟨את⟩ emasmisan u — dengizni, buyuk tubanning suvlarini quritgan, dengiz tubliklarini qutqarilganlar oʻtadigan yoʻl qilgan?",
+  "translation": "Sen emasmisan ⟨⟨u⟩⟩ — dengizni, buyuk chuqurlik suvlarini quritgan, chuqurliklar dengizidan oʻtganlar — qutqarilganlar uchun yoʻl qilgan?",
   "tokens": [
     {
       "surface": "הלוא",
-      "gloss": "emasmi"
+      "gloss": "emasmisan"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "sen u (dengizni quritgan)"
+      "gloss": "sen"
     },
     {
       "surface": "היא",
-      "gloss": "u"
+      "gloss": "⟨u⟩"
     },
     {
       "surface": "המחרבת",
@@ -34,7 +33,7 @@
     },
     {
       "surface": "תהום",
-      "gloss": "tubanning"
+      "gloss": "chuqurlik"
     },
     {
       "surface": "רבה",
@@ -42,15 +41,15 @@
     },
     {
       "surface": "השמה",
-      "gloss": "yoʻl qilgan"
+      "gloss": "qilgan"
     },
     {
       "surface": "מעמקי",
-      "gloss": "tubliklarini"
+      "gloss": "chuqurliklar"
     },
     {
       "surface": "ים",
-      "gloss": "dengizning"
+      "gloss": "dengizidan"
     },
     {
       "surface": "דרך",
@@ -58,13 +57,13 @@
     },
     {
       "surface": "לעבר",
-      "gloss": "oʻtish uchun"
+      "gloss": "oʻtganlar uchun"
     },
     {
       "surface": "גאולים",
       "gloss": "qutqarilganlar"
     }
   ],
-  "timestamp": "2026-08-26T04:31:08.145562924Z",
+  "timestamp": "2026-08-26T10:23:15.300016014Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va endi ⟨the⟩ odamning xotinini qaytar, chunki u nabiydir, va u sen uchun ibodat qiladi, va sen yashaysan; va agar sen qaytarmasang, bilki, sen albatta oʻlasan, sen va senga tegishli boʻlgan hamma narsa.",
+  "translation": "Va endi ⟨את⟩ odamning xotinini qaytar, chunki u nabiydir, va u sen uchun ibodat qiladi, va sen tiril〈qol〉san; agar qaytarmasang, bilginki, albatta oʻlasan — sen va senga tegishli boʻlgan hamma narsa.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -16,12 +16,17 @@
       "gloss": "qaytar"
     },
     {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odamning xotinini"
+    },
+    {
       "surface": "אשת",
       "gloss": "xotinini"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨the⟩ odamning"
+      "gloss": "odamning"
     },
     {
       "surface": "כי",
@@ -45,7 +50,7 @@
     },
     {
       "surface": "וחיה",
-      "gloss": "va yashaysan"
+      "gloss": "va tirilqolsan"
     },
     {
       "surface": "ואם",
@@ -53,7 +58,7 @@
     },
     {
       "surface": "אינך",
-      "gloss": "sen ... masang"
+      "gloss": "emasan"
     },
     {
       "surface": "משיב",
@@ -61,19 +66,19 @@
     },
     {
       "surface": "דע",
-      "gloss": "bil"
+      "gloss": "bilginki"
     },
     {
       "surface": "כי",
-      "gloss": "ki"
+      "gloss": "chunki"
     },
     {
       "surface": "מות",
-      "gloss": "oʻlasan"
+      "gloss": "albatta oʻlasan"
     },
     {
       "surface": "תמות",
-      "gloss": "albatta oʻlasan"
+      "gloss": "oʻlishdan oʻlasan"
     },
     {
       "surface": "אתה",
@@ -81,17 +86,17 @@
     },
     {
       "surface": "וכל",
-      "gloss": "va hamma"
+      "gloss": "va hamma narsa"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "boʻlgan"
     },
     {
       "surface": "לך",
       "gloss": "senga tegishli"
     }
   ],
-  "timestamp": "2026-08-26T08:18:42.987501430Z",
+  "timestamp": "2026-08-26T10:20:38.876850211Z",
   "model": "glm-5.3"
 }

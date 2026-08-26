@@ -5,12 +5,12 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 4,
-  "translation": "⟨את⟩ bitta dengizni va ⟨את]] uning ostidagi oʻn ikki buqani.",
+  "translation": "⟨את⟩ yagona dengizni, va ⟨את⟩ oʻn ikki hoʻkizni uning ostiga.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bitta dengiz"
+      "marks": "dengizni"
     },
     {
       "surface": "הים",
@@ -18,30 +18,30 @@
     },
     {
       "surface": "אחד",
-      "gloss": "bitta"
+      "gloss": "yagona"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "oʻn ikki buqa"
+      "marks": "hoʻkizlarni"
     },
     {
       "surface": "הבקר",
-      "gloss": "buqalar"
+      "gloss": "hoʻkizlar"
     },
     {
       "surface": "שנים",
-      "gloss": "oʻn ikki (2)"
+      "gloss": "oʻn ikki (ikki)"
     },
     {
       "surface": "עשר",
-      "gloss": "oʻn ikki (10)"
+      "gloss": "oʻn ikki (-oʻn)"
     },
     {
       "surface": "תחתיו",
-      "gloss": "uning ostida"
+      "gloss": "uning ostiga"
     }
   ],
-  "timestamp": "2026-08-26T08:04:34.755075349Z",
+  "timestamp": "2026-08-26T10:05:25.772869867Z",
   "model": "glm-5.3"
 }

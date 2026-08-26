@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Bor baʼzi yahudiy erkaklar, kini sen tayinlagansan ⟨את⟩ ularni Bobil viloyati ishlari ustiga: Shadrax, Meyshax va Oved-Nego — bu erkaklar, shoh, sening farmoningni hisobga olmaganlar: xudolaringga xizmat qilmoqdalar emas va oltin haykalga, kini sen koʻtargansan, sajda qilmoqdalar emas.",
+  "translation": "Bor, yahudiy erkaklar seniki — Bobil viloyatining ishlari ustiga ⟨את⟩ ularni tayinlagansan: Shadrax, Meyshax va Avad-Nego; bu erkaklar, ey podshoh, sening buyrugʻingga eʼtibor bermaganlar, sening xudolaringga xizmat qilmaydilar va sen tikqan oltin haykalga sajda qilmaydilar.",
   "tokens": [
     {
       "surface": "איתי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "די",
-      "gloss": "kini"
+      "gloss": "seniki"
     },
     {
       "surface": "מנית",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "מדינת",
-      "gloss": "viloyati"
+      "gloss": "viloyatining"
     },
     {
       "surface": "בבל",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "ועבד",
-      "gloss": "va Oved-"
+      "gloss": "va"
     },
     {
       "surface": "נגו",
-      "gloss": "Nego"
+      "gloss": "Avad-Nego"
     },
     {
       "surface": "גבריא",
@@ -78,19 +78,19 @@
     },
     {
       "surface": "שמו",
-      "gloss": "hisobga olganlar"
+      "gloss": "eʼtibor bermaganlar"
     },
     {
       "surface": "עליך",
-      "gloss": "senga"
+      "gloss": "sening"
     },
     {
       "surface": "מלכא",
-      "gloss": "shoh"
+      "gloss": "ey podshoh"
     },
     {
       "surface": "טעם",
-      "gloss": "farmon"
+      "gloss": "buyrugʻingga"
     },
     {
       "surface": "לאלהיך",
@@ -102,11 +102,11 @@
     },
     {
       "surface": "פלחין",
-      "gloss": "xizmat qilmoqdalar"
+      "gloss": "xizmat qilmaydilar"
     },
     {
       "surface": "ולצלם",
-      "gloss": "va haykalga"
+      "gloss": "va ... haykalga"
     },
     {
       "surface": "דהבא",
@@ -114,11 +114,11 @@
     },
     {
       "surface": "די",
-      "gloss": "kini"
+      "gloss": "sen"
     },
     {
       "surface": "הקימת",
-      "gloss": "koʻtargansan"
+      "gloss": "tikqan"
     },
     {
       "surface": "לא",
@@ -126,9 +126,9 @@
     },
     {
       "surface": "סגדין",
-      "gloss": "sajda qilmoqdalar"
+      "gloss": "sajda qilmaydilar"
     }
   ],
-  "timestamp": "2026-08-26T07:29:10.165684961Z",
+  "timestamp": "2026-08-26T10:24:50.778602846Z",
   "model": "glm-5.3"
 }

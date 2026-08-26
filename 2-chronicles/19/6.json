@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Va sudyalarga aytdi: koʻringiz, nima qilayotganingizni, chunki odamlar uchun emas, balki Yahve uchun hukm chiqarasizlar — va U sizlar bilan ⟨is⟩ hukm ishida.",
+  "translation": "Va hakamlarga aytdi: Koʻringiz-chi, nima qilayotganingizni, chunki odam uchun emas, balki Yahve uchun hukm chiqarasizlar — va U hukm ishida sizlar bilan ⟨bor⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "sudyalarga"
+      "gloss": "ga"
     },
     {
       "surface": "השפטים",
-      "gloss": "sudyalar"
+      "gloss": "hakamlarga"
     },
     {
       "surface": "ראו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מה",
-      "gloss": "nimani"
+      "gloss": "nima"
     },
     {
       "surface": "אתם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לאדם",
-      "gloss": "odamlar uchun"
+      "gloss": "odam uchun"
     },
     {
       "surface": "תשפטו",
@@ -61,17 +61,17 @@
     },
     {
       "surface": "ועמכם",
-      "gloss": "va U sizlar bilan"
+      "gloss": "va sizlar bilan"
     },
     {
       "surface": "בדבר",
-      "gloss": "ishida"
+      "gloss": "ishda"
     },
     {
       "surface": "משפט",
       "gloss": "hukm"
     }
   ],
-  "timestamp": "2026-08-26T08:11:16.412780235Z",
+  "timestamp": "2026-08-26T10:05:52.784372587Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Va endi mana ⟨⟨the⟩⟩ podshoh — sizlar tanlagan, sizlar soʻragan; va mana Yahve sizlar ustiga podshoh qoʻydi.",
+  "translation": "Endi mana podshoh, kimni tanladingizlar, kimni soʻragansizlar — va mana, Yahve ustingizga podshoh qoʻydi.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "va endi"
+      "gloss": "Endi"
     },
     {
       "surface": "הנה",
@@ -17,23 +17,23 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ podshoh"
+      "gloss": "podshoh"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "kimni"
     },
     {
       "surface": "בחרתם",
-      "gloss": "sizlar tanlagan"
+      "gloss": "tanladingizlar"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "kimni"
     },
     {
       "surface": "שאלתם",
-      "gloss": "sizlar soʻragan"
+      "gloss": "soʻragansizlar"
     },
     {
       "surface": "והנה",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "sizlar ustiga"
+      "gloss": "ustingizga"
     },
     {
       "surface": "מלך",
       "gloss": "podshoh"
     }
   ],
-  "timestamp": "2026-08-26T02:45:35.020164162Z",
+  "timestamp": "2026-08-26T10:07:19.359557732Z",
   "model": "glm-5.3"
 }

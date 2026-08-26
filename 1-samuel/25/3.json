@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va odamning nomi Naval, va xotinining nomi Avigayil edi; va ⟨the⟩ ayol yaxshi aqlli va goʻzal koʻrinishli edi, va ⟨the⟩ odam qattiqqoʻl va amallarida yomon edi; va u Kalib avlodidan edi.",
+  "translation": "Va oʻsha odamning nomi Nabal edi, va uning xotinining nomi Avigayil; va oʻsha xotin aql-idrokda yaxshi va tashqi koʻrinishda goʻzal ⟨edi⟩, va oʻsha odam qattiqqoʻl va ishlarda yomon ⟨edi⟩; va u kaleblikdan ⟨edi⟩.",
   "tokens": [
     {
       "surface": "ושם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "האיש",
-      "gloss": "odamning"
+      "gloss": "oʻsha odamning"
     },
     {
       "surface": "נבל",
-      "gloss": "Naval"
+      "gloss": "Nabal"
     },
     {
       "surface": "ושם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אשתו",
-      "gloss": "xotinining"
+      "gloss": "uning xotinining"
     },
     {
       "surface": "אבגיל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "והאשה",
-      "gloss": "va ayol"
+      "gloss": "va oʻsha xotin"
     },
     {
       "surface": "טובת",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "שכל",
-      "gloss": "aql"
+      "gloss": "aql-idrokda"
     },
     {
       "surface": "ויפת",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "תאר",
-      "gloss": "koʻrinish"
+      "gloss": "tashqi koʻrinishda"
     },
     {
       "surface": "והאיש",
-      "gloss": "va odam"
+      "gloss": "va oʻsha odam"
     },
     {
       "surface": "קשה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "מעללים",
-      "gloss": "amallarida"
+      "gloss": "ishlarda"
     },
     {
       "surface": "והוא",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "כלבו",
-      "gloss": "Kalib avlodidan"
+      "gloss": "kaleblikdan"
     }
   ],
-  "timestamp": "2026-08-26T02:57:16.233424052Z",
+  "timestamp": "2026-08-26T09:53:10.974539500Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 11,
-  "translation": "⟨את⟩ buni yeysizlar, suvlardagi barcha ⟨jonlivardan⟩: suvlarda, dengizlarda va soy-boylarda surgʻali va qisqirli hamma narsani — ⟨את⟩ ularni yeyishingiz mumkin.",
+  "translation": "⟨את⟩ buni yeysizlar, suvlardagi barcha ⟨jonzot⟩dan — suvlarda, dengizlarda va oqar soylarda suzgich va qovoqchasi bor hamma narsani, ⟨את⟩ ularni yeysizlar.",
   "tokens": [
     {
       "surface": "את",
@@ -22,35 +22,35 @@
     },
     {
       "surface": "מכל",
-      "gloss": "barcha"
+      "gloss": "…dan barcha"
     },
     {
       "surface": "אשר",
-      "gloss": "<jonlivardan>"
+      "gloss": "…shtagi"
     },
     {
       "surface": "במים",
-      "gloss": "suvlardagi"
+      "gloss": "suvlarda"
     },
     {
       "surface": "כל",
-      "gloss": "hamma narsa"
+      "gloss": "hamma"
     },
     {
       "surface": "אשר",
-      "gloss": "<niki>"
+      "gloss": "…shtagi"
     },
     {
       "surface": "לו",
-      "gloss": "unga bor"
+      "gloss": "uning"
     },
     {
       "surface": "סנפיר",
-      "gloss": "surgʻa"
+      "gloss": "suzgich (suyak qanoti)"
     },
     {
       "surface": "וקשקשת",
-      "gloss": "va qisqir"
+      "gloss": "va qovoqcha"
     },
     {
       "surface": "במים",
@@ -62,18 +62,18 @@
     },
     {
       "surface": "ובנחלים",
-      "gloss": "va soy-boylarda"
+      "gloss": "va oqar soylarda"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "ulani"
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni"
     },
     {
       "surface": "תאכלו",
-      "gloss": "yeyishingiz mumkin"
+      "gloss": "yeysizlar"
     }
   ],
-  "timestamp": "2026-08-26T01:12:44.772979513Z",
+  "timestamp": "2026-08-26T10:06:48.565242688Z",
   "model": "glm-5.3"
 }

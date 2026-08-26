@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Yuzing teri bilan non ⟨⟨the⟩⟩ yeyesan, tuproqqa qaytguninga qadar, chunki undan olingansan, chunki changsan va changga qaytasan.",
+  "translation": "Yuzing teri bilan non yeysan, tuproqqa qaytguninga qadar, chunki undan olingansan, chunki chang sen san va changga qaytasan.",
   "tokens": [
     {
       "surface": "בזעת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תאכל",
-      "gloss": "yeyesan"
+      "gloss": "yeysan"
     },
     {
       "surface": "לחם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שובך",
-      "gloss": "qaytishing"
+      "gloss": "qaytguninga"
     },
     {
       "surface": "אל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "tuproq"
+      "gloss": "⟨the⟩ tuproq"
     },
     {
       "surface": "כי",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "אתה",
-      "gloss": "sansan"
+      "gloss": "sen"
     },
     {
       "surface": "ואל",
-      "gloss": "va ... ga"
+      "gloss": "va changga"
     },
     {
       "surface": "עפר",
@@ -76,6 +76,6 @@
       "gloss": "qaytasan"
     }
   ],
-  "timestamp": "2026-08-26T00:31:30.627607168Z",
+  "timestamp": "2026-08-26T10:20:51.266918920Z",
   "model": "glm-5.3"
 }

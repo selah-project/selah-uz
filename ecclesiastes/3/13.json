@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va ham ⟨the⟩ har bir odam yesin va ichsin va mehnatining barchasida yaxshilikni ko'rsin — bu Elohimning tuhfasi ⟨is⟩ u.",
+  "translation": "Va ham har bir odam yesa va ichsa va barcha mehnatida yaxshilikni koʻrsa — bu Elohimning ⟨sovgʻasi⟩dir.",
   "tokens": [
     {
       "surface": "וגם",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "שיאכל",
-      "gloss": "yesin"
+      "gloss": "yesa"
     },
     {
       "surface": "ושתה",
-      "gloss": "va ichsin"
+      "gloss": "va ichsa"
     },
     {
       "surface": "וראה",
-      "gloss": "va ko'rsin"
+      "gloss": "va koʻrsa"
     },
     {
       "surface": "טוב",
@@ -37,25 +37,25 @@
     },
     {
       "surface": "בכל",
-      "gloss": "barchasida"
+      "gloss": "barcha"
     },
     {
       "surface": "עמלו",
-      "gloss": "mehnatining"
+      "gloss": "mehnatida"
     },
     {
       "surface": "מתת",
-      "gloss": "tuhfasi"
+      "gloss": "sovgʻasi"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohimning"
+      "gloss": "Elohim"
     },
     {
       "surface": "היא",
-      "gloss": "u"
+      "gloss": "bu ⟨–⟩dir"
     }
   ],
-  "timestamp": "2026-08-26T07:19:47.776109642Z",
+  "timestamp": "2026-08-26T10:02:49.273809164Z",
   "model": "glm-5.3"
 }

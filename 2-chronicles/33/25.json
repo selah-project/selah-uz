@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 33,
-  "translation": "Va ⟨the⟩ yer xalqi ⟨את⟩ qiyoatning barchasini — qiyoat qilganchilar Amon shohga qarshi — oʻldirdi, va yer xalqi ⟨את⟩ uning oʻgʻli Yoshiyahuni oʻrniga shoh qildi.",
+  "translation": "Va yer xalqi qirol Amonga qarshi fitna uyttirgan barcha kishilarni ⟨את⟩ oʻldirdi, va yer xalqi uning oʻgʻli Yoashiyohni ⟨את⟩ uning oʻrniga qoʻyib podshoh qildi.",
   "tokens": [
     {
       "surface": "ויכו",
-      "gloss": "oʻldirdi (urdi)"
+      "gloss": "oʻldirdi"
     },
     {
       "surface": "עם",
@@ -22,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qiyoatning barchasi"
+      "marks": "barcha kishilarni"
     },
     {
       "surface": "כל",
-      "gloss": "barchasini"
+      "gloss": "barcha"
     },
     {
       "surface": "הקשרים",
-      "gloss": "qiyoat qilganchilar"
+      "gloss": "fitna uyttirganlar"
     },
     {
       "surface": "על",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "shoh"
+      "gloss": "qirol"
     },
     {
       "surface": "אמון",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "וימליכו",
-      "gloss": "shoh qildi"
+      "gloss": "podshoh qildilar"
     },
     {
       "surface": "עם",
@@ -59,11 +59,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yoshiyahu"
+      "marks": "Yoashiyohni"
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Yoshiyahu"
+      "gloss": "Yoashiyo"
     },
     {
       "surface": "בנו",
@@ -71,9 +71,9 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "oʻrniga"
+      "gloss": "uning oʻrniga"
     }
   ],
-  "timestamp": "2026-08-26T08:15:40.232103699Z",
+  "timestamp": "2026-08-26T10:07:48.360372164Z",
   "model": "glm-5.3"
 }

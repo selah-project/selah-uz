@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 40,
-  "translation": "Va qassoblar sardori Yirmeyahunі olib, unga aytdi: Yahve, sening Elohiming, ⟨את⟩ bu yomonlikni bu joy ustiga aytdi.",
+  "translation": "Va qassoblar sardori Yirmyahuni oldi va unga aytdi: Yahve, Elohiming, ⟨את⟩ bu yomonlikni bu joy haqida aytdi",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "va … olib"
+      "gloss": "oldi"
     },
     {
       "surface": "רב",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לירמיהו",
-      "gloss": "Yirmeyahunі"
+      "gloss": "Yirmyahuni"
     },
     {
       "surface": "ויאמר",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "bu yomonlikni"
     },
     {
       "surface": "הרעה",
-      "gloss": "bu yomonlikni",
-      "marks": "bu yomonlik"
+      "gloss": "bu yomonlikni"
     },
     {
       "surface": "הזאת",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "… ustiga"
+      "gloss": "haqida"
     },
     {
       "surface": "המקום",
@@ -69,6 +69,6 @@
       "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-26T05:00:57.284773924Z",
+  "timestamp": "2026-08-26T09:56:25.269677017Z",
   "model": "glm-5.3"
 }

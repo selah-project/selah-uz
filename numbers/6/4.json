@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Oʻz nazirlik kunlarining hammasida uzum tokidan yasalgan hech narsadan — gʻuddasidan tortib qobigʻigacha — yemasin.",
+  "translation": "Barcha nazirlik kunlarida uzum tokidan ⟨את⟩ yasalgan hech narsadan — siqilgan uzumdan tortib toʻqumgacha — yemaydi.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "hammasida"
+      "gloss": "Barcha"
     },
     {
       "surface": "ימי",
-      "gloss": "kunlarining"
+      "gloss": "kunlarida"
     },
     {
       "surface": "נזרו",
-      "gloss": "oʻz nazirligi"
+      "gloss": "nazirlik"
     },
     {
       "surface": "מכל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "narsadan"
     },
     {
       "surface": "יעשה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "היין",
-      "gloss": "⟨the⟩ vino"
+      "gloss": "tok"
     },
     {
       "surface": "מחרצנים",
-      "gloss": "gʻuddasidan"
+      "gloss": "siqilgan uzumdan"
     },
     {
       "surface": "ועד",
@@ -49,17 +49,17 @@
     },
     {
       "surface": "זג",
-      "gloss": "qobigʻigacha"
+      "gloss": "toʻqumgacha"
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "yemaydi"
     },
     {
       "surface": "יאכל",
-      "gloss": "yesin"
+      "gloss": "yemaydi"
     }
   ],
-  "timestamp": "2026-08-26T01:28:28.264979969Z",
+  "timestamp": "2026-08-26T09:47:44.571446273Z",
   "model": "glm-5.3"
 }

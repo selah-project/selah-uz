@@ -5,19 +5,19 @@
   "book": "ecclesiastes",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Odam borki, Elohim unga boylik, mol-mulk va shon-shuhrat beradi, va uning nefeshi istagan hamma narsadan mahrum emas, ammo Elohim undan uni isteʼmol qilishga iqtidor bermaydi — begona odam uni yer. Bu hevel va yomon kasallikdir ⟨u⟩.",
+  "translation": "Odambiki, Elohim unga boylik va mulk va shon-sharaf bergan, va nefushi hohlagan hamma narsadan kam emas, ammo Elohim uni undan yeyishga qodir qilmaydi — chunki begona odam uni yeydi. Bu hebel va yomon darddir u.",
   "tokens": [
     {
       "surface": "איש",
-      "gloss": "Odam"
+      "gloss": "odam"
     },
     {
       "surface": "אשר",
-      "gloss": "borki"
+      "gloss": "kimiki"
     },
     {
       "surface": "יתן",
-      "gloss": "beradi"
+      "gloss": "bergan"
     },
     {
       "surface": "לו",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ונכסים",
-      "gloss": "va mol-mulk"
+      "gloss": "va mulk"
     },
     {
       "surface": "וכבוד",
-      "gloss": "va shon-shuhrat"
+      "gloss": "va shon-sharaf"
     },
     {
       "surface": "ואיננו",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "חסר",
-      "gloss": "mahrом"
+      "gloss": "kam"
     },
     {
       "surface": "לנפשו",
-      "gloss": "uning nefeshi"
+      "gloss": "nefushi uchun"
     },
     {
       "surface": "מכל",
@@ -57,19 +57,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "narsadan"
+      "gloss": "niki"
     },
     {
       "surface": "יתאוה",
-      "gloss": "istagan"
+      "gloss": "hohlagan"
     },
     {
       "surface": "ולא",
-      "gloss": "ammo"
+      "gloss": "ammo... yoʻq"
     },
     {
       "surface": "ישליטנו",
-      "gloss": "iqtidor bermaydi"
+      "gloss": "uni hukmron qilmaydi"
     },
     {
       "surface": "האלהים",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "לאכל",
-      "gloss": "isteʼmol qilishga"
+      "gloss": "yeyishga"
     },
     {
       "surface": "ממנו",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "chunki"
     },
     {
       "surface": "איש",
@@ -97,19 +97,19 @@
     },
     {
       "surface": "יאכלנו",
-      "gloss": "uni yer"
+      "gloss": "uni yeydi"
     },
     {
       "surface": "זה",
-      "gloss": "Bu"
+      "gloss": "bu"
     },
     {
       "surface": "הבל",
-      "gloss": "hevel"
+      "gloss": "hebel"
     },
     {
       "surface": "וחלי",
-      "gloss": "va kasallik"
+      "gloss": "va dard"
     },
     {
       "surface": "רע",
@@ -120,6 +120,6 @@
       "gloss": "u"
     }
   ],
-  "timestamp": "2026-08-26T07:21:14.380944215Z",
+  "timestamp": "2026-08-26T10:03:13.185508302Z",
   "model": "glm-5.3"
 }

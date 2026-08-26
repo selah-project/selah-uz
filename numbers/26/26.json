@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Zevulunning oʻgʻillari — urugʻlari boʻyicha: ⟨the⟩ Sered urugʻi — seredliklar, ⟨the⟩ Elon urugʻi — elonliklar, ⟨the⟩ Yaxleel urugʻi — yaxleellijlar.",
+  "translation": "Zevulun oʻgʻillari — urugʻlaricha: Sereddan Sered urugʻi, Elondan Elon urugʻi, Yaxleeldan Yaxleel urugʻi.",
   "tokens": [
     {
       "surface": "בני",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "למשפחתם",
-      "gloss": "urugʻlari boʻyicha"
+      "gloss": "urugʻlaricha"
     },
     {
       "surface": "לסרד",
-      "gloss": "Seredga"
+      "gloss": "Sereddan"
     },
     {
       "surface": "משפחת",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הסרדי",
-      "gloss": "seredliklar"
+      "gloss": "Sered"
     },
     {
       "surface": "לאלון",
-      "gloss": "Elonga"
+      "gloss": "Elondan"
     },
     {
       "surface": "משפחת",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "האלני",
-      "gloss": "elonliklar"
+      "gloss": "Elon"
     },
     {
       "surface": "ליחלאל",
-      "gloss": "Yaxleelga"
+      "gloss": "Yaxleeldan"
     },
     {
       "surface": "משפחת",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "היחלאלי",
-      "gloss": "yaxleelijlar"
+      "gloss": "Yaxleel"
     }
   ],
-  "timestamp": "2026-08-26T01:40:08.144258935Z",
+  "timestamp": "2026-08-26T09:48:34.147806338Z",
   "model": "glm-5.3"
 }

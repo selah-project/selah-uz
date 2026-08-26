@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Yahve senga ⟨את⟩ vaboni yopishtiradi, ⟨את⟩ seni tugatmaguncha — ⟨the⟩ yerning ustidan, qaysi yerga sen kirmoqdasan uni egallash uchun.",
+  "translation": "Yahve senga ⟨את⟩ vaboni yopishtiradi, seni qirib tugatmaguncha — sen egalik qilish uchun kirib borgan oʻsha tuproqdan ⟨את⟩ ⟨seni⟩ yoʻq qilguncha.",
   "tokens": [
     {
       "surface": "ידבק",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "–guncha"
+      "gloss": "qirib tugatmaguncha"
     },
     {
       "surface": "כלתו",
@@ -38,19 +38,19 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ seni"
+      "gloss": "⟨את⟩ ⟨seni⟩"
     },
     {
       "surface": "מעל",
-      "gloss": "ustidan"
+      "gloss": "yoʻq qilguncha"
     },
     {
       "surface": "האדמה",
-      "gloss": "yerning"
+      "gloss": "tuproqdan"
     },
     {
       "surface": "אשר",
-      "gloss": "qaysi yerga"
+      "gloss": "oʻsha"
     },
     {
       "surface": "אתה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "בא",
-      "gloss": "kirmoqdasan"
+      "gloss": "kirib borgan"
     },
     {
       "surface": "שמה",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "לרשתה",
-      "gloss": "uni egallash uchun"
+      "gloss": "egalik qilish uchun"
     }
   ],
-  "timestamp": "2026-08-26T02:03:29.420880487Z",
+  "timestamp": "2026-08-26T09:51:02.778874237Z",
   "model": "glm-5.3"
 }

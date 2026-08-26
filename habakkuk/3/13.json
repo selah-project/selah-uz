@@ -5,7 +5,7 @@
   "book": "habakkuk",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Sen chiqding xalqingning najoti uchun, najot uchun ⟨את⟩ Mashiaxingni bilan; yanchib tashlading yov uyining boshini, yalangʻochlading ⟨the⟩ poydevorni boʻynigacha. Selah.",
+  "translation": "Sen xalqingni qutqarish uchun chiqding, Mashiaxingni qutqarish uchun; Sen yov uyining boshini choʻchitding, poydevorni boʻynigacha yalang qilding. Sela.",
   "tokens": [
     {
       "surface": "יצאת",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "לישע",
-      "gloss": "najoti uchun"
+      "gloss": "qutqarish uchun"
     },
     {
       "surface": "עמך",
-      "gloss": "xalqingning"
+      "gloss": "xalqingni"
     },
     {
       "surface": "לישע",
-      "gloss": "najot uchun"
+      "gloss": "qutqarish uchun"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "מחצת",
-      "gloss": "yanchib tashlading"
+      "gloss": "choʻchitding"
     },
     {
       "surface": "ראש",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ערות",
-      "gloss": "yalangʻochlading"
+      "gloss": "yalang qilding"
     },
     {
       "surface": "יסוד",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "עד",
-      "gloss": "gacha"
-    },
-    {
-      "surface": "צואר",
       "gloss": "boʻynigacha"
     },
     {
+      "surface": "צואר",
+      "gloss": "boʻyni"
+    },
+    {
       "surface": "סלה",
-      "gloss": "Selah"
+      "gloss": "Sela"
     }
   ],
-  "timestamp": "2026-08-26T08:41:11.404364256Z",
+  "timestamp": "2026-08-26T09:58:41.930103783Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va ⟨את⟩ menga — oʻsha vaqtda — Yahve buyruq berdi: sizlarga qonunlar va hukmlarni oʻrgatish uchun, sizlarga ⟨את⟩ ularni bajarish uchun — oʻsha yerda, siz oʻtib borgan, uni meros qilib olish uchun.",
+  "translation": "Va meni Yahve oʻsha vaqtda buyurdi — sizlarga xukkimlar va mishpatlarni oʻrgatish uchun, ularni oʻsha yerda bajarishingiz uchun, sizlar oʻtib borgan, uni egallash uchun boʻlgan yerdа.",
   "tokens": [
     {
       "surface": "ואתי",
-      "gloss": "va ⟨את⟩ meni",
-      "marks": "buyruq berdi"
+      "gloss": "⟨את⟩ va meni",
+      "marks": "meni (buyruq obyekti)"
     },
     {
       "surface": "צוה",
-      "gloss": "buyruq berdi"
+      "gloss": "buyurdi"
     },
     {
       "surface": "יהוה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "בעת",
-      "gloss": "vaqtda"
+      "gloss": "oʻsha vaqtda (–da)"
     },
     {
       "surface": "ההוא",
@@ -35,50 +35,50 @@
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩ sizlarga",
-      "marks": "qonunlar va hukmlarni"
+      "marks": "xukkimlar va mishpatlar"
     },
     {
       "surface": "חקים",
-      "gloss": "qonunlar"
+      "gloss": "xukkimlar"
     },
     {
       "surface": "ומשפטים",
-      "gloss": "va hukmlar"
+      "gloss": "va mishpatlar"
     },
     {
       "surface": "לעשתכם",
-      "gloss": "sizlarga bajarish uchun"
+      "gloss": "sizlarning qilishingiz uchun"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "ularni"
+      "gloss": "⟨את⟩ ularni",
+      "marks": "oʻsha yerda"
     },
     {
       "surface": "בארץ",
-      "gloss": "yerdа"
+      "gloss": "yerda (–da)"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki (qaysi ki)"
     },
     {
       "surface": "אתם",
-      "gloss": "siz"
+      "gloss": "sizlar"
     },
     {
       "surface": "עברים",
-      "gloss": "oʻtib borgan"
+      "gloss": "oʻtib bormoqdasizlar"
     },
     {
       "surface": "שמה",
-      "gloss": "u yerga"
+      "gloss": "u yonga"
     },
     {
       "surface": "לרשתה",
-      "gloss": "uni meros qilib olish uchun"
+      "gloss": "uni egallash uchun"
     }
   ],
-  "timestamp": "2026-08-26T01:50:05.071533785Z",
+  "timestamp": "2026-08-26T10:21:51.487947594Z",
   "model": "glm-5.3"
 }

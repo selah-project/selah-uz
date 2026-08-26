@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va Xanna turdi, Shiloda yegandan keyin va ichgandan keyin; va Eli kohin ⟨the⟩ taxtda oʻtir edi, Yahve ibodatxonasining eshik ustunida.",
+  "translation": "Xanna Shiloda ovqatlangandan keyin va ichganidan keyin turdi; Elining oʻrniga turgan koha — «kohani yozdim» emas",
   "tokens": [
     {
       "surface": "ותקם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אכלה",
-      "gloss": "yegandan"
+      "gloss": "ovqatlangan"
     },
     {
       "surface": "בשלה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "שתה",
-      "gloss": "ichgandan"
+      "gloss": "ichgan"
     },
     {
       "surface": "ועלי",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kohin"
+      "gloss": "kohain"
     },
     {
       "surface": "ישב",
-      "gloss": "oʻtir edi"
+      "gloss": "oʻtirgan edi"
     },
     {
       "surface": "על",
-      "gloss": "ustida"
+      "gloss": "ustiga"
     },
     {
       "surface": "הכסא",
-      "gloss": "taxt"
+      "gloss": "oʻrindiqning"
     },
     {
       "surface": "על",
@@ -61,17 +61,17 @@
     },
     {
       "surface": "מזוזת",
-      "gloss": "eshik ustuni"
+      "gloss": "eshik ustunining"
     },
     {
       "surface": "היכל",
-      "gloss": "ibodatxonasi"
+      "gloss": "saroy"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahvening"
     }
   ],
-  "timestamp": "2026-08-26T02:39:23.139213306Z",
+  "timestamp": "2026-08-26T09:52:14.067418591Z",
   "model": "glm-5.3"
 }

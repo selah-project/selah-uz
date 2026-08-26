@@ -5,8 +5,97 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Bugun bugʻdoy oʻrim-yigʻimi emasmi? Men Yahvega chorlayman, va U ovozlar va yomgʻir beradi; va bilib koʻringlar ⟨⟨ki⟩⟩, koʻzlarida Yahve sizlar uchun oyat soʻrash orqali qilgan yovuzligingiz qanchalik katta ekanini.",
-  "tokens": [],
-  "timestamp": "2026-08-26T02:47:51.528802828Z",
+  "translation": "Bugun bugʻdoy oʻrimi-ku? Men Yahve ga chaqiraman va ⟨u⟩ ovozlarni va yomgʻirni beradi; va bilinki va koʻrunki, sizlarning yovuzligingiz qanchalik buyukdurki, Yahve ning koʻzlari oldida oʻzlaringizga podshoh soʻrab qildingiz.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "-mi-ku"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "oʻrim"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "bugʻdoy"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "chaqiraman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "va beradi"
+    },
+    {
+      "surface": "קלות",
+      "gloss": "ovozlarni"
+    },
+    {
+      "surface": "ומטר",
+      "gloss": "va yomgʻirni"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "va bilinki"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "va koʻrunki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "רעתכם",
+      "gloss": "yovuzligingiz"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "buyuk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "niki"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "qildingiz"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "koʻzlari oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "soʻrab"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "oʻzlaringizga"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshoh"
+    }
+  ],
+  "timestamp": "2026-08-26T09:52:33.016060910Z",
   "model": "glm-5.3"
 }

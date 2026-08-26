@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 97,
-  "translation": "Oldin — <need>",
-  "tokens": [],
-  "timestamp": "2026-08-26T08:44:28.472500317Z",
+  "translation": "Uning chaqmoqlari ⟨olamni⟩ yoritdi; yer koʻrdi va qaltiradi.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "yoritdi"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "Uning chaqmoqlari"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "olam"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "koʻrdi"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "va qaltiradi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    }
+  ],
+  "timestamp": "2026-08-26T10:00:54.434988645Z",
   "model": "glm-5.3"
 }

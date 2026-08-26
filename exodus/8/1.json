@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Va Yahve Moshega aytdi: Ahoronga ayt: qoʻlingni tayoqing bilan choʻz — ⟨the⟩ nahrlar ustiga, ⟨the⟩ kanallar ustiga va ⟨the⟩ hovuzlar ustiga — va baqalarni Misr yerining ustiga chiqargin.",
+  "translation": "Va Yahve Moshega dedi: Ahoronga ayting — qoʻlingni tayoqing bilan ⟨את⟩ daryolar ustiga, irmoqlar ustiga va hovuzlar ustiga choʻz va qurbaqalarni Misr yeri ustiga chiqar.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "va aytdi"
+      "gloss": "va dedi"
     },
     {
       "surface": "יהוה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "ayt"
+      "gloss": "ayting"
     },
     {
       "surface": "אל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "נטה",
-      "gloss": "choʻzgʻin"
+      "gloss": "choʻz"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הנהרת",
-      "gloss": "⟨the⟩ nahrlar"
+      "gloss": "daryolar"
     },
     {
       "surface": "על",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "היארים",
-      "gloss": "⟨the⟩ kanallar"
+      "gloss": "irmoqlar"
     },
     {
       "surface": "ועל",
@@ -74,20 +74,20 @@
     },
     {
       "surface": "האגמים",
-      "gloss": "⟨the⟩ hovuzlar"
+      "gloss": "hovuzlar"
     },
     {
-      "surface": "והעל",
-      "gloss": "va chiqargin"
+      "surface": "ווהעל",
+      "gloss": "va chiqar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "baqalarni"
+      "marks": "qurbaqalarni"
     },
     {
       "surface": "הצפרדעים",
-      "gloss": "baqalarni"
+      "gloss": "qurbaqalarni"
     },
     {
       "surface": "על",
@@ -95,13 +95,13 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "yering"
+      "gloss": "yeri"
     },
     {
       "surface": "מצרים",
       "gloss": "Misr"
     }
   ],
-  "timestamp": "2026-08-26T00:52:38.611018431Z",
+  "timestamp": "2026-08-26T09:45:01.400751511Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 18,
-  "translation": "According to all that you soʻrading Yahve, Elohim of you hujayrasidan ⟨at⟩ Xorevda, jam kuni: „Let me not again hear ⟨את⟩ ovozini Yahve, Elohim of me, and ⟨את⟩ bu ulugʻ olov — not koʻrarmen yana, and not oʻlarmen“.",
+  "translation": "Yahve, Elohimingdan Xoribda, yigʻin kunida soʻragan barcha narsangga muvofiq — deding: „Yahve, Elohimimning ovozini ⟨את⟩ yana eshitmayman va bu ulugʻ otni ⟨את⟩ boshqa koʻrmayman, va oʻlmayman.“",
   "tokens": [
     {
       "surface": "ככל",
-      "gloss": "…ga koʻra, barchasiga"
+      "gloss": "barcha narsangga muvofiq"
     },
     {
       "surface": "אשר",
-      "gloss": "…ni"
+      "gloss": "ki"
     },
     {
       "surface": "שאלת",
-      "gloss": "soʻrading"
+      "gloss": "soʻragan"
     },
     {
       "surface": "מעם",
-      "gloss": "…dan"
+      "gloss": "—dan"
     },
     {
       "surface": "יהוה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim of you"
+      "gloss": "Elohiming"
     },
     {
       "surface": "בחרב",
-      "gloss": "Xorevda"
+      "gloss": "Xoribda"
     },
     {
       "surface": "ביום",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הקהל",
-      "gloss": "jamning"
+      "gloss": "yigʻin"
     },
     {
       "surface": "לאמר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "not"
+      "gloss": "yoʻq"
     },
     {
       "surface": "אסף",
@@ -57,16 +57,16 @@
     },
     {
       "surface": "לשמע",
-      "gloss": "eshitmoq"
+      "gloss": "eshitishga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ovoz"
+      "marks": "ovozni"
     },
     {
       "surface": "קול",
-      "gloss": "ovoz"
+      "gloss": "ovozni"
     },
     {
       "surface": "יהוה",
@@ -74,16 +74,16 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim of me"
+      "gloss": "Elohimimning"
     },
     {
       "surface": "ואת",
-      "gloss": "and ⟨את⟩",
-      "marks": "olov"
+      "gloss": "⟨את⟩",
+      "marks": "otni"
     },
     {
       "surface": "האש",
-      "gloss": "olov"
+      "gloss": "otni"
     },
     {
       "surface": "הגדלה",
@@ -95,7 +95,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "not"
+      "gloss": "yoʻq"
     },
     {
       "surface": "אראה",
@@ -103,17 +103,17 @@
     },
     {
       "surface": "עוד",
-      "gloss": "yana"
+      "gloss": "boshqa"
     },
     {
       "surface": "ולא",
-      "gloss": "and not"
+      "gloss": "va yoʻq"
     },
     {
       "surface": "אמות",
-      "gloss": "oʻlarmen"
+      "gloss": "oʻlmayman"
     }
   ],
-  "timestamp": "2026-08-26T01:58:41.289315016Z",
+  "timestamp": "2026-08-26T09:51:00.800409987Z",
   "model": "glm-5.3"
 }

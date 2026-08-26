@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 41,
-  "translation": "Va yon xonalar — xona yonidan xonaga, uch va oʻttiz marta; va ular ⟨the⟩ devorga kirar edilar — u devor ⟨the⟩ uyga tegishli, yon xonalar uchun — atrofida atrofda, ushlab turish uchun; lekin ular ⟨the⟩ uyning devorida ushlab turilmas edilar.",
+  "translation": "Va yon xonalar — xona ustiga xona, oltmish ⟨marta⟩ uch qavat, va ⟨ular⟩ uy devoridagi, yon xonalar uchun atrofda aylana ⟨boʻlgan joyga⟩ kirar edilar — ushlab turilsin deb, lekin uyning devoriga ushlanmaslar edi.",
   "tokens": [
     {
       "surface": "והצלעות",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "yonidan"
+      "gloss": "ustiga"
     },
     {
       "surface": "צלע",
-      "gloss": "xonaga"
+      "gloss": "xona"
     },
     {
       "surface": "שלוש",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ובאות",
-      "gloss": "va ular kirar edilar"
+      "gloss": "va kirar edilar"
     },
     {
       "surface": "בקיר",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "לבית",
-      "gloss": "⟨the⟩ uyga tegishli"
+      "gloss": "uy"
     },
     {
       "surface": "לצלעות",
@@ -57,41 +57,41 @@
     },
     {
       "surface": "סביב",
-      "gloss": "atrofida"
-    },
-    {
-      "surface": "סביב",
       "gloss": "atrofda"
     },
     {
+      "surface": "סביב",
+      "gloss": "aylana"
+    },
+    {
       "surface": "להיות",
-      "gloss": "boʻlish uchun"
+      "gloss": "boʻlsin deb"
     },
     {
       "surface": "אחוזים",
-      "gloss": "ushlab turilgan"
+      "gloss": "ushlangan"
     },
     {
       "surface": "ולא",
-      "gloss": "lekin ular"
+      "gloss": "lekin"
     },
     {
       "surface": "יהיו",
-      "gloss": "boʻlmas edilar"
+      "gloss": "boʻlmaslar"
     },
     {
       "surface": "אחוזים",
-      "gloss": "ushlab turilgan"
+      "gloss": "ushlangan"
     },
     {
       "surface": "בקיר",
-      "gloss": "devorida"
+      "gloss": "devorga"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ uyning"
+      "gloss": "uyning"
     }
   ],
-  "timestamp": "2026-08-26T05:30:31.197824084Z",
+  "timestamp": "2026-08-26T09:58:05.207270895Z",
   "model": "glm-5.3"
 }

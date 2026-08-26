@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Uchrashuv chodirida, guvohlik ustidagi ⟨the⟩ parda tashqarisida ⟨את⟩ uni Aharon va uning oʻgʻillari tartibga keltirsinlar, kechdan tonggacha Yahve huzurida; bu — abadiy farz, ularning avlodlari uchun, Isroil oʻgʻillaridan ⟨את⟩.",
+  "translation": "Uchrashuv chodirida, guvohlik ustidagi parda tashqarisida uni Aharon va oʻgʻillari tartibga keltirsinlar — kechdan tonggacha, Yahve huzurida; bu ularning avlodlari uchun abadiy farq, Isroil oʻgʻillaridan ⟨את⟩ ⟨olgan⟩.",
   "tokens": [
     {
       "surface": "באהל",
-      "gloss": "chodirida"
+      "gloss": "chodirda"
     },
     {
       "surface": "מועד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לפרכת",
-      "gloss": "parda"
+      "gloss": "pardadan"
     },
     {
       "surface": "אשר",
@@ -37,12 +37,12 @@
     },
     {
       "surface": "יערך",
-      "gloss": "tartibga keltirsinlar"
+      "gloss": "tartibga keltirsin"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "uni (chiroqni)"
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni (chiroq)"
     },
     {
       "surface": "אהרן",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ובניו",
-      "gloss": "va uning oʻgʻillari"
+      "gloss": "va oʻgʻillari"
     },
     {
       "surface": "מערב",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "חקת",
-      "gloss": "farz"
+      "gloss": "farq"
     },
     {
       "surface": "עולם",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩ ⟨olgan⟩",
       "marks": "Isroil oʻgʻillaridan"
     },
     {
@@ -98,6 +98,6 @@
       "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T00:59:32.642365746Z",
+  "timestamp": "2026-08-26T09:45:41.981776162Z",
   "model": "glm-5.3"
 }

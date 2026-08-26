@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va Shoul ham oʻz uyiga, Givʼaga ketdi; va u bilan bordilar ⟨the⟩ jasurlar — ularki, Elohim ularning yuraglariga teggan edi.",
+  "translation": "Va Shaul ham oʻz uyiga, Givʼaga ketti; undan oldin oʻtgan qahramonlar — Elohim ularning yuragiga tegib qoʻyganlar — u bilan birga ketdilar.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "va ham"
+      "gloss": "va ... ham"
     },
     {
       "surface": "שאול",
-      "gloss": "Shoul"
+      "gloss": "Shaul"
     },
     {
       "surface": "הלך",
-      "gloss": "ketdi"
+      "gloss": "ketti"
     },
     {
       "surface": "לביתו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "va bordilar"
+      "gloss": "va ... ketdilar"
     },
     {
       "surface": "עמו",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "החיל",
-      "gloss": "jasurlar"
+      "gloss": "qahramonlar"
     },
     {
       "surface": "אשר",
-      "gloss": "ularki"
+      "gloss": "—"
     },
     {
       "surface": "נגע",
-      "gloss": "tegan edi"
+      "gloss": "tegib qoʻygan"
     },
     {
       "surface": "אלהים",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "בלבם",
-      "gloss": "ularning yuraglariga"
+      "gloss": "ulardan yuragiga teginib"
     }
   ],
-  "timestamp": "2026-08-26T02:45:16.187495070Z",
+  "timestamp": "2026-08-26T09:52:19.472705045Z",
   "model": "glm-5.3"
 }

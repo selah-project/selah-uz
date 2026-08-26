@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Va sen uni tosh qadash bilan toʻldirasan — toshlarning toʻrt qatori: qator — odem, pitda va baraket: birinchi ⟨the⟩ qator.",
+  "translation": "Va uni toshlar qoʻyiladigan oʻrinlar bilan toʻldirasan — toʻrt qator tosh: birinchi qatorda odem ⟨(qizil sard)⟩, pitda ⟨(topaz)⟩ va bareqet ⟨(karbunkul)⟩ boʻlsin — ⟨bu⟩ birinchi qatordir.",
   "tokens": [
     {
       "surface": "ומלאת",
-      "gloss": "va sen ... toʻldirasan"
+      "gloss": "va toʻldirasan"
     },
     {
       "surface": "בו",
-      "gloss": "uni"
+      "gloss": "unda"
     },
     {
       "surface": "מלאת",
-      "gloss": "qadash"
+      "gloss": "qoʻyiladigan oʻrinlar"
     },
     {
       "surface": "אבן",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "טורים",
-      "gloss": "qatorlari"
+      "gloss": "qatorlar"
     },
     {
       "surface": "אבן",
-      "gloss": "toshlarning"
+      "gloss": "tosh"
     },
     {
       "surface": "טור",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "אדם",
-      "gloss": "odem"
+      "gloss": "odem (qizil sard)"
     },
     {
       "surface": "פטדה",
-      "gloss": "pitda"
+      "gloss": "pitda (topaz)"
     },
     {
       "surface": "וברקת",
-      "gloss": "va baraket"
+      "gloss": "va bareqet (karbunkul)"
     },
     {
       "surface": "הטור",
@@ -60,6 +60,6 @@
       "gloss": "birinchi"
     }
   ],
-  "timestamp": "2026-08-26T01:00:39.807080704Z",
+  "timestamp": "2026-08-26T09:46:10.842220509Z",
   "model": "glm-5.3"
 }

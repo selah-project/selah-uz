@@ -5,11 +5,11 @@
   "book": "nehemiah",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va yer xalqlaridan — ⟨those⟩ savatlarini va barcha donni shanba kunida sotishga keltirganlardan — shanbada va muqaddes kunda ulardan olmaymiz, va ⟨the⟩ yettinchi yilni tashlab qoʻyamiz va har qoʻl ⟨debt⟩ yukini.",
+  "translation": "Va yer xalqlaridan — shanba kuni sotish uchun mollarni va ⟨את⟩ har qanday donlarni keltiradiganlardan — shanba kuni va muqaddas kuni ulardan olmaymiz; va ⟨את⟩ yettinchi yilni tashlab qoʻyamiz va ⟨har⟩ qarz talabini.",
   "tokens": [
     {
       "surface": "ועמי",
-      "gloss": "Va xalqlaridan"
+      "gloss": "va xalqlaridan"
     },
     {
       "surface": "הארץ",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "המביאים",
-      "gloss": "keltirganlardan"
+      "gloss": "keltiradiganlardan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "savatlarini"
+      "marks": "mollarni"
     },
     {
       "surface": "המקחות",
-      "gloss": "savatlarini"
+      "gloss": "mollarni"
     },
     {
       "surface": "וכל",
-      "gloss": "va barcha"
+      "gloss": "va har"
     },
     {
       "surface": "שבר",
-      "gloss": "donni"
+      "gloss": "don"
     },
     {
       "surface": "ביום",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "למכור",
-      "gloss": "sotishga"
+      "gloss": "sotish uchun"
     },
     {
       "surface": "לא",
@@ -70,16 +70,16 @@
     },
     {
       "surface": "קדש",
-      "gloss": "muqaddes"
+      "gloss": "muqaddas"
     },
     {
       "surface": "ונטש",
-      "gloss": "tashlab qoʻyamiz"
+      "gloss": "va tashlaymiz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yilni"
+      "marks": "yettinchi yilni"
     },
     {
       "surface": "השנה",
@@ -91,7 +91,7 @@
     },
     {
       "surface": "ומשא",
-      "gloss": "yukini"
+      "gloss": "va talab"
     },
     {
       "surface": "כל",
@@ -99,9 +99,9 @@
     },
     {
       "surface": "יד",
-      "gloss": "qoʻl"
+      "gloss": "qoʻl (qarz)"
     }
   ],
-  "timestamp": "2026-08-26T07:49:14.522959796Z",
+  "timestamp": "2026-08-26T10:07:42.947122532Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Va mana, kohonlar va levilarning boʻlimlari — Elohim uyining barcha xizmati uchun, va har qanday ishda senga ⟨élgan⟩ — donishmandlikdagi har bir ixtiyoriy kishi, har qanday xizmat uchun; va sarkardalar va butun xalq — barcha soʻzlaring uchun ⟨tayyor⟩.",
+  "translation": "Va mana, kavushlar — kohanimlar va levilar — Elohim uyining barcha xizmati uchun, va ⟨sening bilan⟩ barcha ishda, donolikda har bir ixtiyoriy ⟨kishi⟩, har qanday xizmat uchun; va sardorlar va butun xalq — barcha soʻzlaringga ⟨boʻysunadilar⟩.",
   "tokens": [
     {
       "surface": "והנה",
-      "gloss": "Va mana"
+      "gloss": "va mana"
     },
     {
       "surface": "מחלקות",
-      "gloss": "boʻlimlari"
+      "gloss": "kavushlar"
     },
     {
       "surface": "הכהנים",
-      "gloss": "kohonlar"
+      "gloss": "kohanimlar"
     },
     {
       "surface": "והלוים",
@@ -25,59 +25,55 @@
     },
     {
       "surface": "לכל",
-      "gloss": "barcha"
+      "gloss": "barcha … uchun"
     },
     {
       "surface": "עבודת",
-      "gloss": "xizmati uchun"
+      "gloss": "xizmati"
     },
     {
       "surface": "בית",
-      "gloss": "uyining"
+      "gloss": "uyi"
     },
     {
       "surface": "האלהים",
       "gloss": "Elohim"
     },
     {
-      "surface": "ו",
-      "gloss": "va"
-    },
-    {
-      "surface": "עמך",
-      "gloss": "senga"
+      "surface": "ועמך",
+      "gloss": "va ⟨sening bilan⟩"
     },
     {
       "surface": "בכל",
-      "gloss": "har"
+      "gloss": "barcha …da"
     },
     {
       "surface": "מלאכה",
-      "gloss": "ishda"
+      "gloss": "ish"
     },
     {
       "surface": "לכל",
-      "gloss": "har bir"
+      "gloss": "har bir … uchun"
     },
     {
       "surface": "נדיב",
-      "gloss": "ixtiyoriy kishi"
+      "gloss": "ixtiyoriy ⟨kishi⟩"
     },
     {
       "surface": "בחכמה",
-      "gloss": "donishmandlikda"
+      "gloss": "donolikda"
     },
     {
       "surface": "לכל",
-      "gloss": "har qanday"
+      "gloss": "har qanday … uchun"
     },
     {
       "surface": "עבודה",
-      "gloss": "xizmat uchun"
+      "gloss": "xizmat"
     },
     {
       "surface": "והשרים",
-      "gloss": "va sarkardalar"
+      "gloss": "va sardorlar"
     },
     {
       "surface": "וכל",
@@ -89,13 +85,13 @@
     },
     {
       "surface": "לכל",
-      "gloss": "barcha"
+      "gloss": "barcha …ga"
     },
     {
       "surface": "דבריך",
       "gloss": "soʻzlaring"
     }
   ],
-  "timestamp": "2026-08-26T08:02:56.259710133Z",
+  "timestamp": "2026-08-26T10:05:20.873049329Z",
   "model": "glm-5.3"
 }

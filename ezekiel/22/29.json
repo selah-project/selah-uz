@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 22,
-  "translation": "Yer xalqi zoʻravonlik zoʻravonlik qildi va talon-taroj talon qildi, beva va miskinni kamsitdi va ⟨את⟩ musofirni adolatsiz zoʻrladi.",
+  "translation": "Mamlakat xalqi zoʻravonlik qildi va talon-taroj qildi, kambagʻal va miskinni ezdi, va ⟨את⟩ musofirni adolatsiz zoʻrladi.",
   "tokens": [
     {
       "surface": "עם",
-      "gloss": "xalq"
+      "gloss": "xalqi"
     },
     {
       "surface": "הארץ",
-      "gloss": "yer ⟨the⟩"
+      "gloss": "mamlakat"
     },
     {
       "surface": "עשקו",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "גזל",
-      "gloss": "talon"
+      "gloss": "talon-taroj"
     },
     {
       "surface": "ועני",
-      "gloss": "va beva"
+      "gloss": "va kambagʻal"
     },
     {
       "surface": "ואביון",
@@ -41,12 +41,12 @@
     },
     {
       "surface": "הונו",
-      "gloss": "kamsitdi"
+      "gloss": "ezdi"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "musofir"
+      "marks": "musofirni"
     },
     {
       "surface": "הגר",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "בלא",
-      "gloss": "soʻzsiz"
+      "gloss": "adolatsiz"
     },
     {
       "surface": "משפט",
       "gloss": "adolat"
     }
   ],
-  "timestamp": "2026-08-26T05:19:07.937012143Z",
+  "timestamp": "2026-08-26T09:57:06.779300213Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va bilgin bugun va yuragingga qaytarib olginki, Yahve — U ⟨is⟩ osmonlar tepasida Elohim va yer yuzida ⟨is⟩ pastda; boshqasi ⟨is⟩ yoʻq.",
+  "translation": "Va bil bu kuni, va yuragingizga qaytarib qoʻyginki, Yahve — U ⟨⟨u⟩⟩ osmonlarda yuqorida va yerda pastda Elohimdir, boshqasi yoʻq.",
   "tokens": [
     {
       "surface": "וידעת",
-      "gloss": "Va bilgin"
+      "gloss": "Va bil"
     },
     {
       "surface": "היום",
-      "gloss": "bugun"
+      "gloss": "bu kuni"
     },
     {
       "surface": "והשבת",
-      "gloss": "va qaytarib olgin"
+      "gloss": "va qaytarib qoʻy"
     },
     {
       "surface": "אל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לבבך",
-      "gloss": "yuragingga"
+      "gloss": "yuragingiz"
     },
     {
       "surface": "כי",
-      "gloss": "miki"
+      "gloss": "kinki"
     },
     {
       "surface": "יהוה",
@@ -41,23 +41,23 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohimdir"
     },
     {
       "surface": "בשמים",
-      "gloss": "osmonlar"
+      "gloss": "osmonlarda"
     },
     {
       "surface": "ממעל",
-      "gloss": "tepasida"
+      "gloss": "yuqorida"
     },
     {
       "surface": "ועל",
-      "gloss": "va ustida"
+      "gloss": "va ... ustida"
     },
     {
       "surface": "הארץ",
-      "gloss": "yer yuzida"
+      "gloss": "yer"
     },
     {
       "surface": "מתחת",
@@ -72,6 +72,6 @@
       "gloss": "boshqasi"
     }
   ],
-  "timestamp": "2026-08-26T01:49:50.746008378Z",
+  "timestamp": "2026-08-26T09:49:12.583879372Z",
   "model": "glm-5.3"
 }

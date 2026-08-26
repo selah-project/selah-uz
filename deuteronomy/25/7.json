@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va agar erkak qaynoqasini olishni xohlamasa, qaynoqasi darvozaga, oqsoqollar huzuriga chiqib aytsin: «Qaynog‘im birodariga Isroilda nom ko‘tarishni rad qildi; qaynog‘im rozi bo‘lmadi ⟨את⟩ qaynoqamni ⟨the⟩ olishga».",
+  "translation": "Va agar odam o'z yevmatini olishni xohlamasa, yevmati shahar darvozasi huzuriga, oqsoqollar oldiga chiqadi va aytdir: „Qaynog'im Isroilda akasi uchun nom ko'tarishdan bosh tortdi — yevmatlik burchini bajarishni istamadi.“",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "...masa"
+      "gloss": "yo'q"
     },
     {
       "surface": "יחפץ",
-      "gloss": "xohlasa"
+      "gloss": "xohlamasa"
     },
     {
       "surface": "האיש",
-      "gloss": "erkak"
+      "gloss": "odam"
     },
     {
       "surface": "לקחת",
@@ -30,23 +30,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qaynoqasini"
+      "marks": "yevmatini"
     },
     {
       "surface": "יבמתו",
-      "gloss": "qaynoqasini"
+      "gloss": "yevmatini"
     },
     {
       "surface": "ועלתה",
-      "gloss": "chiqib"
+      "gloss": "chiqadi"
     },
     {
       "surface": "יבמתו",
-      "gloss": "qaynoqasi"
+      "gloss": "yevmati"
     },
     {
       "surface": "השערה",
-      "gloss": "darvozaga"
+      "gloss": "shahar darvozasi"
     },
     {
       "surface": "אל",
@@ -58,23 +58,23 @@
     },
     {
       "surface": "ואמרה",
-      "gloss": "aytsin"
+      "gloss": "va aytdir"
     },
     {
       "surface": "מאין",
-      "gloss": "rad qildi"
+      "gloss": "bosh tortdi"
     },
     {
       "surface": "יבמי",
-      "gloss": "qaynog‘im"
+      "gloss": "qaynog'im"
     },
     {
       "surface": "להקים",
-      "gloss": "ko‘tarishni"
+      "gloss": "ko'tarish"
     },
     {
       "surface": "לאחיו",
-      "gloss": "birodariga"
+      "gloss": "akasi uchun"
     },
     {
       "surface": "שם",
@@ -86,17 +86,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "...madi"
+      "gloss": "yo'q"
     },
     {
       "surface": "אבה",
-      "gloss": "rozi bo‘ldi"
+      "gloss": "istamadi"
     },
     {
       "surface": "יבמי",
-      "gloss": "qaynog‘im"
+      "gloss": "yevmatlik burchini bajarishni"
     }
   ],
-  "timestamp": "2026-08-26T02:02:19.720299952Z",
+  "timestamp": "2026-08-26T09:50:34.941698941Z",
   "model": "glm-5.3"
 }

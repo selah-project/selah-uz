@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Bu — tora: ⟨the⟩ olon qurbonligi uchun, minxa uchun, xato qurbonligi uchun va ayb qurbonligi uchun, va tayinlash qurbonliklari uchun va shalom-qurbonliklari qurboni uchun.",
+  "translation": "Bu — yoqilgan qurbon, uning taqdimoti, xato qurboni va ayb qurboni, bagʻishlash qurbonlari hamda tinchlik qurbonlari haqidagi tora.",
   "tokens": [
     {
       "surface": "זאת",
@@ -13,37 +13,37 @@
     },
     {
       "surface": "התורה",
-      "gloss": "tora"
+      "gloss": "tora ⟨–ning qonuni⟩"
     },
     {
       "surface": "לעלה",
-      "gloss": "olon qurbonligi uchun"
+      "gloss": "yoqilgan qurbon uchun"
     },
     {
       "surface": "למנחה",
-      "gloss": "minxa uchun"
+      "gloss": "taqdimot uchun"
     },
     {
       "surface": "ולחטאת",
-      "gloss": "xato qurbonligi uchun va"
+      "gloss": "va xato qurboni uchun"
     },
     {
       "surface": "ולאשם",
-      "gloss": "ayb qurbonligi uchun va"
+      "gloss": "va ayb qurboni uchun"
     },
     {
       "surface": "ולמלואים",
-      "gloss": "tayinlash qurbonliklari uchun va"
+      "gloss": "va bagʻishlash qurbonlari uchun"
     },
     {
       "surface": "ולזבח",
-      "gloss": "qurboni uchun va"
+      "gloss": "va qurboni uchun"
     },
     {
       "surface": "השלמים",
-      "gloss": "shalom-qurbonliklari"
+      "gloss": "tinchlik qurbonlarining"
     }
   ],
-  "timestamp": "2026-08-26T01:09:45.194649795Z",
+  "timestamp": "2026-08-26T09:46:40.972045002Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,57 @@
   "book": "2-samuel",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Ehtimol Yahvekam bagʻrimdagi❌",
-  "tokens": [],
-  "timestamp": "2026-08-26T08:31:18.453174118Z",
+  "translation": "Shoyadki Yahve mening tangligimga qaray, va Yahve uning bugungi laʼnati oʻrniga menga yaxshilik qaytarsin.",
+  "tokens": [
+    {
+      "surface": "אולי",
+      "gloss": "shoyadki"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "qaray"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "tangligimga"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "qaytarsin"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "yaxshilik"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "oʻrniga"
+    },
+    {
+      "surface": "קללתו",
+      "gloss": "uning laʼnati"
+    },
+    {
+      "surface": "היום",
+      "gloss": "bugun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "shu"
+    }
+  ],
+  "timestamp": "2026-08-26T09:53:06.304026244Z",
   "model": "glm-5.3"
 }

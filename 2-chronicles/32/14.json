@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 32,
-  "translation": "Shu xalqlarning barcha xudolaridan — otalarim cherim qilganlardan — qaysi biri ⟨את⟩ oʻz xalqini qoʻlimdan qutqara olgan, ki sizning Elohimingiz ⟨את⟩ sizni qoʻlimdan qutqara oladi?",
+  "translation": "Kim ⟨bor⟩ barcha shu xalqlar xudolaridan — otalarim ularni ⟨bagʻishlab yoʻq qilgan⟩ — kim qodir ⟨boʻlgan⟩ oʻz xalqini qoʻlimdan qutqarmoga? Chunki sizlarning Elohimlaringiz ham sizlarni qoʻlimdan qutqara oladimi?",
   "tokens": [
     {
       "surface": "מי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "barcha"
+      "gloss": "barcha…dan"
     },
     {
       "surface": "אלהי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "kim(atoki)"
     },
     {
       "surface": "החרימו",
-      "gloss": "cherim qilganlar"
+      "gloss": "bagʻishlab yoʻq qilgan"
     },
     {
       "surface": "אבותי",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kim"
+      "gloss": "—"
     },
     {
       "surface": "יכול",
-      "gloss": "olgan"
+      "gloss": "qodir"
     },
     {
       "surface": "להציל",
-      "gloss": "qutqarishga"
+      "gloss": "qutqarmoga"
     },
     {
       "surface": "את",
@@ -66,30 +66,29 @@
     },
     {
       "surface": "כי",
-      "gloss": "ki"
+      "gloss": "chunki"
     },
     {
       "surface": "יוכל",
-      "gloss": "oladi"
+      "gloss": "qodir"
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohimingiz"
+      "gloss": "Elohimlaringiz"
     },
     {
       "surface": "להציל",
-      "gloss": "qutqarishga"
+      "gloss": "qutqarmoga"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "sizni"
+      "gloss": "⟨את⟩ sizlarni"
     },
     {
       "surface": "מידי",
-      "gloss": "qo׌limdan"
+      "gloss": "qoʻlimdan"
     }
   ],
-  "timestamp": "2026-08-26T08:15:55.367800176Z",
+  "timestamp": "2026-08-26T10:06:15.305356127Z",
   "model": "glm-5.3"
 }

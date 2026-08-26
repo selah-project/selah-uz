@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Chunki mana homiladorsan va oʻgʻil tugʻasan, va ustara uning boshiga chiqmaydi, chunki ⟨the⟩ yigit Elohimning naziri boʻladi qorindanoq, va u Yisroelni ⟨את⟩ plishtimlarning qoʻlidan qutqarishni boshlaydi.",
+  "translation": "Chunki mana sen homiladorsan va oʻgʻil tugʻasan, va ustara uning boshiga chiqmaydi, chunki nazir — Elohim uchun boʻladi yigit bachadondan, va u boshlaydi ⟨את⟩ Yisroelni qutqarishni pelishtilar qoʻlidan.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וילדת",
-      "gloss": "tugʻasan"
+      "gloss": "va-tugʻasan"
     },
     {
       "surface": "בן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ומורה",
-      "gloss": "ustara"
+      "gloss": "va-ustara"
     },
     {
       "surface": "לא",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "יעלה",
-      "gloss": "chiqadi"
+      "gloss": "chiqmaydi"
     },
     {
       "surface": "על",
-      "gloss": "-ga"
+      "gloss": "ustiga"
     },
     {
       "surface": "ראשו",
-      "gloss": "uning boshiga"
+      "gloss": "uning-boshi"
     },
     {
       "surface": "כי",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "נזיר",
-      "gloss": "naziri"
+      "gloss": "nazir"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohimning"
+      "gloss": "Elohim"
     },
     {
       "surface": "יהיה",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "-dan"
+      "gloss": "dan"
     },
     {
       "surface": "הבטן",
-      "gloss": "qorin"
+      "gloss": "bachadon"
     },
     {
       "surface": "והוא",
-      "gloss": "va u"
+      "gloss": "va-u"
     },
     {
       "surface": "יחל",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisroelni"
+      "gloss": "Yisroel"
     },
     {
       "surface": "מיד",
@@ -102,9 +102,9 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "plishtimlarning"
+      "gloss": "pelishtilar"
     }
   ],
-  "timestamp": "2026-08-26T02:33:16.024579243Z",
+  "timestamp": "2026-08-26T09:52:37.246355106Z",
   "model": "glm-5.3"
 }

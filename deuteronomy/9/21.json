@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va ⟨את⟩ gunohingizni — bu buzulgan yoʻlni, — mollni qildigiz, olib, uni olovdа kuyirdim va uni maydalab, juda yaxshi tortib, chang boʻlguncha maydaladim, va uning changini togʻdan oqib tushadigan soyaga tashladim.",
+  "translation": "Va ⟨את⟩ gunohingizni — ⟨את⟩ buzoqni, ki siz qilgan edingiz — oldim, va ⟨את⟩ni olovida kuyirdim, va ⟨את⟩ni maydalab, yaxshilab tugʻorib, changga aylanguncha maydaladim, va uning changini togʻdan oqib tushuvchi soylaga tashladim.",
   "tokens": [
     {
       "surface": "ואת",
@@ -18,74 +18,74 @@
     },
     {
       "surface": "אשר",
-      "gloss": "buzulgan yoʻlni, — mollni qildigiz"
+      "gloss": "ki"
     },
     {
       "surface": "עשיתם",
-      "gloss": "qildigiz"
+      "gloss": "qilgan edingiz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mollni"
+      "marks": "buzoqni"
     },
     {
       "surface": "העגל",
-      "gloss": "mollni"
+      "gloss": "buzoqni"
     },
     {
       "surface": "לקחתי",
-      "gloss": "olib"
+      "gloss": "oldim"
     },
     {
       "surface": "ואשרף",
-      "gloss": "kuyirdim"
+      "gloss": "va kuyirdim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "olovdа (uni)"
+      "gloss": "⟨את⟩ni",
+      "marks": "uni"
     },
     {
       "surface": "באש",
-      "gloss": "olovdа"
+      "gloss": "olovida"
     },
     {
       "surface": "ואכת",
-      "gloss": "maydalab"
+      "gloss": "va maydaladim"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "tortib (uni)"
+      "gloss": "⟨את⟩ni",
+      "marks": "uni"
     },
     {
       "surface": "טחון",
-      "gloss": "tortib"
+      "gloss": "tugʻorib"
     },
     {
       "surface": "היטב",
-      "gloss": "juda yaxshi"
+      "gloss": "yaxshilab"
     },
     {
       "surface": "עד",
-      "gloss": "…guncha"
+      "gloss": "—guncha"
     },
     {
       "surface": "אשר",
-      "gloss": "…guncha"
+      "gloss": "—ki"
     },
     {
       "surface": "דק",
-      "gloss": "chang boʻlguncha"
+      "gloss": "maydalangach"
     },
     {
       "surface": "לעפר",
-      "gloss": "chang"
+      "gloss": "changga"
     },
     {
       "surface": "ואשלך",
-      "gloss": "tashladim"
+      "gloss": "va tashladim"
     },
     {
       "surface": "את",
@@ -94,29 +94,29 @@
     },
     {
       "surface": "עפרו",
-      "gloss": "uning changini"
+      "gloss": "changini"
     },
     {
       "surface": "אל",
-      "gloss": "…ga"
+      "gloss": "—ga"
     },
     {
       "surface": "הנחל",
-      "gloss": "soyaga"
+      "gloss": "soylaga"
     },
     {
       "surface": "הירד",
-      "gloss": "oqib tushadigan"
+      "gloss": "oqib tushuvchi"
     },
     {
       "surface": "מן",
-      "gloss": "…dan"
+      "gloss": "—dan"
     },
     {
       "surface": "ההר",
       "gloss": "togʻdan"
     }
   ],
-  "timestamp": "2026-08-26T01:52:20.731048635Z",
+  "timestamp": "2026-08-26T10:22:04.836370997Z",
   "model": "glm-5.3"
 }

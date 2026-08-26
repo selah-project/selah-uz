@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Chunki mana, togʻlarni shakllantiruvchi va shamolni yaratuvchi, odamga uning oʻyini nimа ekanini xabar beruvchi, tongni zulmatga aylantiruvchi va yerning balandliklaridan oʻtuvchi — Yahve, Tsevaot Elohim — Uning nomidir.",
+  "translation": "Chunki mana, togʻlarni shakllantiruvchi va shamolni yaratuvchi, insonga uning mulohazasini bildiruvchi, tongni qorongʻulikni qiluvchi va yerning balandliklari ustidan qadam qoʻyuvchi — Yahve, Tsevaot Elohimi — Uning Ismi.",
   "tokens": [
     {
       "surface": "כי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ומגיד",
-      "gloss": "va xabar beruvchi"
+      "gloss": "va bildiruvchi"
     },
     {
       "surface": "לאדם",
-      "gloss": "odamga"
+      "gloss": "insonga"
     },
     {
       "surface": "מה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "שחו",
-      "gloss": "uning oʻyini"
+      "gloss": "uning mulohazasi"
     },
     {
       "surface": "עשה",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "עיפה",
-      "gloss": "zulmatga"
+      "gloss": "qorongʻulikni"
     },
     {
       "surface": "ודרך",
-      "gloss": "va oʻtuvchi"
+      "gloss": "va qadam qoʻyuvchi"
     },
     {
       "surface": "על",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "במתי",
-      "gloss": "balandliklaridan"
+      "gloss": "balandliklari"
     },
     {
       "surface": "ארץ",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohim"
+      "gloss": "Elohimi"
     },
     {
       "surface": "צבאות",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "שמו",
-      "gloss": "Uning nomi"
+      "gloss": "Uning Ismi"
     }
   ],
-  "timestamp": "2026-08-26T05:40:11.790446487Z",
+  "timestamp": "2026-08-26T09:58:27.820500035Z",
   "model": "glm-5.3"
 }

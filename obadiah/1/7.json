@@ -5,11 +5,11 @@
   "book": "obadiah",
   "lang": "uz",
   "chapter": 1,
-  "translation": "⟨The⟩ chegaragacha seni haydab yubordilar — ahdingning barcha odamlari; seni aldadi, sanga ustun keldilar tinchligingning odamlari; noningni yeganlar ostinga makr qoʻydilar — unda aql-idrok yoʻq.",
+  "translation": "Chegaragacha ⟨senga⟩ — barcha ahd odamlaring ⟨uni⟩ ⟨seni⟩ yubordi; tinchlik odamlaring seni aldadi, senga kuch yetkazdi; noning osti — tuzoq qoʻydilar; ⟨unda⟩ aql-idrok yoʻq.",
   "tokens": [
     {
       "surface": "עד",
-      "gloss": "gacha"
+      "gloss": "chegaragacha...-gacha"
     },
     {
       "surface": "הגבול",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "שלחוך",
-      "gloss": "seni haydab yubordilar"
+      "gloss": "seni yubordi"
     },
     {
       "surface": "כל",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "יכלו",
-      "gloss": "ustun keldilar"
+      "gloss": "kuch yetkazdi"
     },
     {
       "surface": "לך",
-      "gloss": "sanga"
+      "gloss": "senga"
     },
     {
       "surface": "אנשי",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "לחמך",
-      "gloss": "noningni yegan"
+      "gloss": "noning"
     },
     {
       "surface": "ישימו",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "מזור",
-      "gloss": "makr"
+      "gloss": "tuzoq"
     },
     {
       "surface": "תחתיך",
@@ -80,6 +80,6 @@
       "gloss": "unda"
     }
   ],
-  "timestamp": "2026-08-26T05:43:05.296834530Z",
+  "timestamp": "2026-08-26T09:58:37.607742986Z",
   "model": "glm-5.3"
 }

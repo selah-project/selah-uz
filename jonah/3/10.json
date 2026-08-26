@@ -5,7 +5,7 @@
   "book": "jonah",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va koʻrdi Elohim ⟨את⟩ ularning amallarini, chunki qaytdilar oʻz yoʻllaridan — yovuz yoʻldan; va pushmadi Elohim ⟨the⟩ yovuzlikdan ki gapirgan edi qilmoq ularga, va qilmadi.",
+  "translation": "Va Elohim ⟨את⟩ ularning amallarini koʻrdi, chunki ular oʻzlarining yomon yoʻllaridan qaytdilar; va Elohim ularga qilmoqchi boʻlgan yomonlik haqida pushaymon boʻldi va uni qilmadi.",
   "tokens": [
     {
       "surface": "וירא",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "הרעה",
-      "gloss": "yovuz yoʻldan"
+      "gloss": "yomon"
     },
     {
       "surface": "וינחם",
-      "gloss": "va pushmadi"
+      "gloss": "va pushaymon boʻldi"
     },
     {
       "surface": "האלהים",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "על",
-      "gloss": "(-dan)"
+      "gloss": "haqida"
     },
     {
       "surface": "הרעה",
-      "gloss": "yovuzlikdan"
+      "gloss": "yomonlik"
     },
     {
       "surface": "אשר",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "gapirgan edi"
+      "gloss": "aytdi"
     },
     {
       "surface": "לעשות",
-      "gloss": "qilmoq"
+      "gloss": "qilmoqchi"
     },
     {
       "surface": "להם",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "עשה",
-      "gloss": "qilmadi"
+      "gloss": "qildi"
     }
   ],
-  "timestamp": "2026-08-26T05:43:05.212567426Z",
+  "timestamp": "2026-08-26T09:58:40.797285449Z",
   "model": "glm-5.3"
 }

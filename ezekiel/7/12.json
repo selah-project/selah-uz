@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Keldi ⟨the⟩ vaqt, yetdi ⟨the⟩ kun: xaridor quvonmasin, va sotuvchi motam tutmasin; chunki gʻazab butun uning olomoni ustidadir.",
+  "translation": "Vaqt keldi, kun yetib keldi; xaridor xursand boʻlmasin, sotuvchi motam tutmasin, chunki gʻazab uning butun olomoni ustidadir.",
   "tokens": [
     {
       "surface": "בא",
-      "gloss": "Keldi"
+      "gloss": "keldi"
     },
     {
       "surface": "העת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הגיע",
-      "gloss": "yetdi"
+      "gloss": "yetib keldi"
     },
     {
       "surface": "היום",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "quvonmasin"
+      "gloss": "boʻlmasin"
     },
     {
       "surface": "ישמח",
-      "gloss": "quvonmasin"
+      "gloss": "xursand"
     },
     {
-      "surface": "והמוכר",
+      "surface": "ו המוכר",
       "gloss": "va sotuvchi"
     },
     {
       "surface": "אל",
-      "gloss": "motam tutmasin"
+      "gloss": "tutmasin"
     },
     {
       "surface": "יתאבל",
-      "gloss": "motam tutmasin"
+      "gloss": "motam"
     },
     {
       "surface": "כי",
@@ -65,9 +65,9 @@
     },
     {
       "surface": "המונה",
-      "gloss": "uning olomoni"
+      "gloss": "olomoni"
     }
   ],
-  "timestamp": "2026-08-26T05:10:56.144724212Z",
+  "timestamp": "2026-08-26T09:56:46.645545674Z",
   "model": "glm-5.3"
 }

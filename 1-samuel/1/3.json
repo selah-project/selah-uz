@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va bu odam oʻz shahridan yildan-yilga, Yahve Sebaotga Shilohda sajda qilish va qurbonlik keltirish uchun chiqib turardi; va u yerda Elining ikki oʻgʻli — Xofni va Pinehas — Yahvegа kohinlar boʻlib turgan edilar.",
+  "translation": "Va u odam oʻz shahridan yil sayin — yildan yilga — Yahve Tsevaotga Shilohda sajda qilish va qurbonlik kesish uchun koʻtarilib bordi; va u yerda Elining ikki oʻgʻli — Xofni va Pinxas — Yahve uchun kohinlar ⟨edilar⟩.",
   "tokens": [
     {
       "surface": "ועלה",
-      "gloss": "va chiqib turardi"
+      "gloss": "va koʻtarilib bordi"
     },
     {
       "surface": "האיש",
-      "gloss": "bu odam"
+      "gloss": "u odam"
     },
     {
       "surface": "ההוא",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "ולזבח",
-      "gloss": "va qurbonlik keltirish uchun"
+      "gloss": "va qurbonlik kesish uchun"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahvega"
     },
     {
       "surface": "צבאות",
-      "gloss": "Sebaot"
+      "gloss": "Tsevaot"
     },
     {
       "surface": "בשלה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "ופינחס",
-      "gloss": "va Pinehas"
+      "gloss": "va Pinxas"
     },
     {
       "surface": "כהנים",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahve uchun"
     }
   ],
-  "timestamp": "2026-08-26T02:41:43.258539140Z",
+  "timestamp": "2026-08-26T10:06:48.614030083Z",
   "model": "glm-5.3"
 }

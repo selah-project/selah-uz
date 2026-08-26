@@ -5,11 +5,11 @@
   "book": "jonah",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Tur, Nineva — ⟨the⟩ buyuk shaharga bor va uning ustidan qichqirib eʼlon qil, chunki ularning yovuzligi yuzimning oldiga koʻtarildi.",
+  "translation": "Tur, Ninvaga — ⟨the⟩ katta shaharga — bor va uning ustida qichqirib eʼlon qil, chunki ularning yovuzligi yuzimga koʻtarildi.",
   "tokens": [
     {
       "surface": "קום",
-      "gloss": "tur"
+      "gloss": "Tur"
     },
     {
       "surface": "לך",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "-ga"
+      "gloss": "—ga"
     },
     {
       "surface": "נינוה",
-      "gloss": "Nineva"
+      "gloss": "Ninva"
     },
     {
       "surface": "העיר",
-      "gloss": "⟨the⟩ shahar"
+      "gloss": "shahar"
     },
     {
       "surface": "הגדולה",
-      "gloss": "buyuk"
+      "gloss": "katta"
     },
     {
       "surface": "וקרא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עליה",
-      "gloss": "uning ustidan"
+      "gloss": "uning ustida"
     },
     {
       "surface": "כי",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "לפני",
-      "gloss": "yuzimning oldiga"
+      "gloss": "yuzimga"
     }
   ],
-  "timestamp": "2026-08-26T05:44:22.381605176Z",
+  "timestamp": "2026-08-26T10:23:49.258714440Z",
   "model": "glm-5.3"
 }

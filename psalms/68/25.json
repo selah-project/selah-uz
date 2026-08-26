@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 68,
-  "translation": "Koʻrdilar ⟨the⟩ yurishlaringni, Elohim, Elimgina — Menga yurishlar, Mening Qirolim, muqaddaslikda.",
+  "translation": "Koʻrishdi ⟨⟨u⟩⟩ sening yurishlaringni, Elohim — yurishlarni Elining, mening Malikim, muqaddasda.",
   "tokens": [
     {
       "surface": "ראו",
-      "gloss": "Koʻrdilar"
+      "gloss": "koʻrishdi"
     },
     {
       "surface": "הליכותיך",
-      "gloss": "yurishlaringni"
+      "gloss": "sening yurishlaringni"
     },
     {
       "surface": "אלהים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הליכות",
-      "gloss": "yurishlar"
+      "gloss": "yurishlarni"
     },
     {
       "surface": "אלי",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "Qirolim"
+      "gloss": "malikim (mening shohim)"
     },
     {
       "surface": "בקדש",
-      "gloss": "muqaddaslikda"
+      "gloss": "muqaddasda"
     }
   ],
-  "timestamp": "2026-08-26T06:15:44.836880971Z",
+  "timestamp": "2026-08-26T10:00:38.526000290Z",
   "model": "glm-5.3"
 }

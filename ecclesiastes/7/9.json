@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Ruхingda gʻazablanishga shoshma, chunki gʻazab ahmoqlar bagʻrida qoʻnim topadi.",
+  "translation": "RuXingda gʻazablanishga shoshma, chunki gʻazab ahmoqlar bagʻrida qoʻnim topadi.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "ol"
+      "gloss": "shoshma (ol)"
     },
     {
       "surface": "תבהל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ברוחך",
-      "gloss": "ruхingda"
+      "gloss": "ruXingda"
     },
     {
       "surface": "לכעוס",
@@ -44,6 +44,6 @@
       "gloss": "qoʻnim topadi"
     }
   ],
-  "timestamp": "2026-08-26T07:20:48.442548333Z",
+  "timestamp": "2026-08-26T10:03:03.721183997Z",
   "model": "glm-5.3"
 }

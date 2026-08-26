@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 145,
-  "translation": "Madhiya — Dovudnikidir. Seni ulugʻlayman, Eloahim, ⟨the⟩ shohim, va Sening ismingni barakalayman abadiy va但 gʻoyat muddatgacha.",
+  "translation": "Dovudning maqtovi. Seni ulugʻlayman, Elohimim, Shohim, va Ismingni barakalayman abadiy va butunlay.",
   "tokens": [
     {
       "surface": "תהלה",
-      "gloss": "Madhiya"
+      "gloss": "maqtov"
     },
     {
       "surface": "לדוד",
-      "gloss": "Dovudnikidir"
+      "gloss": "Dovudning"
     },
     {
       "surface": "ארוממך",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אלוהי",
-      "gloss": "Eloahim"
+      "gloss": "Elohimim"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ shohim"
+      "gloss": "Shohim"
     },
     {
       "surface": "ואברכה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "שמך",
-      "gloss": "Sening ismingni"
+      "gloss": "Ismingni"
     },
     {
       "surface": "לעולם",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "ועד",
-      "gloss": "va gʻoyat muddatgacha"
+      "gloss": "va butunlay"
     }
   ],
-  "timestamp": "2026-08-26T06:37:58.175029637Z",
+  "timestamp": "2026-08-26T10:01:46.506114544Z",
   "model": "glm-5.3"
 }

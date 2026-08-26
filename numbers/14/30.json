@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Agar sizlar u erga kirsangiz — erga, qaysi er ustiga qoʻlimni koʻtardim ⟨את⟩ sizlarni unda yashatish uchun — Kalev, Yefunne oʻgʻli va Yehoshua, Nun oʻgʻlidan boshqa ⟨he⟩ ⟨is⟩ ⟨emas⟩.",
+  "translation": "Agar sizlar kirsangizlar oʻsha yer ga — qaysi uchun men koʻtardim ⟨את⟩ qoʻlimni sizlarni unda joylashtirish uchun ⟨את⟩sizlarni — faqat Kalev, Yefunne oʻgʻli va Yehoshua, Nun oʻgʻlidan ⟨boshqa⟩.",
   "tokens": [
     {
       "surface": "אם",
@@ -17,40 +17,41 @@
     },
     {
       "surface": "תבאו",
-      "gloss": "kirsangiz"
+      "gloss": "kirsangizlar"
     },
     {
       "surface": "אל",
-      "gloss": "u erga"
+      "gloss": "ga"
     },
     {
       "surface": "הארץ",
-      "gloss": "erga"
+      "gloss": "oʻsha yer"
     },
     {
       "surface": "אשר",
-      "gloss": "qaysi"
+      "gloss": "qaysi uchun"
     },
     {
       "surface": "נשאתי",
-      "gloss": "koʻtardim"
+      "gloss": "men koʻtardim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qoʻlim"
+      "marks": "qoʻlimni"
     },
     {
       "surface": "ידי",
-      "gloss": "qoʻlim"
+      "gloss": "qoʻlimni"
     },
     {
       "surface": "לשכן",
-      "gloss": "yashatish uchun"
+      "gloss": "joylashtirish uchun"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sizlarni"
+      "gloss": "⟨את⟩sizlarni",
+      "marks": "sizlarni"
     },
     {
       "surface": "בה",
@@ -62,7 +63,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "boshqa"
+      "gloss": "faqat"
     },
     {
       "surface": "כלב",
@@ -89,6 +90,6 @@
       "gloss": "Nun"
     }
   ],
-  "timestamp": "2026-08-26T01:32:39.368775099Z",
+  "timestamp": "2026-08-26T09:48:28.220324988Z",
   "model": "glm-5.3"
 }

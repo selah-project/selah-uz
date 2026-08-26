@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Oʻlchov chiziqlari menga yoqimli joylarda tushdi; ha, meros ⟨is⟩ menga goʻzal.",
+  "translation": "Oʻlchov chiziqlari menga yoqimli joylarda tushdi; ha, chiroyli meros ⟨tushdi⟩ ustimga.",
   "tokens": [
     {
       "surface": "חבלים",
@@ -33,13 +33,13 @@
     },
     {
       "surface": "שפרה",
-      "gloss": "goʻzal"
+      "gloss": "chiroyli"
     },
     {
       "surface": "עלי",
-      "gloss": "menga"
+      "gloss": "ustimga"
     }
   ],
-  "timestamp": "2026-08-26T06:00:47.559749385Z",
+  "timestamp": "2026-08-26T10:00:16.391261711Z",
   "model": "glm-5.3"
 }

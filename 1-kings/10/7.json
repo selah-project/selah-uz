@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va soʻzlarga ishonmadim, to ki keldim va koʻzlarim koʻrdilar; va mana, ⟨the⟩ yarmini menga aytilmagan edi — sening donishing va yaxshiliging eshitgan ⟨the⟩ xabardan oshding.",
+  "translation": "Va men soʻzlarga ishonmadim, to ki kelgunimgacha va koʻzlarim koʻrguniga — va mana, yarmi ham menga aytilmagan edi: eshitgan xabarga qaraganda hikmat va yaxshilik qoʻshding.",
   "tokens": [
     {
       "surface": "ולא",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "to ki"
+      "gloss": "to … gacha"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "באתי",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "emas"
     },
     {
       "surface": "הגד",
-      "gloss": "aytilmadi"
+      "gloss": "aytilmagan"
     },
     {
       "surface": "לי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "החצי",
-      "gloss": "⟨the⟩ yarmini"
+      "gloss": "yarmi"
     },
     {
       "surface": "הוספת",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "חכמה",
-      "gloss": "donish"
+      "gloss": "hikmat"
     },
     {
       "surface": "וטוב",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "—ga"
+      "gloss": "…ga"
     },
     {
       "surface": "השמועה",
-      "gloss": "⟨the⟩ xabarga"
+      "gloss": "eshitilgan xabar"
     },
     {
       "surface": "אשר",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "eshitgan"
+      "gloss": "eshitdim"
     }
   ],
-  "timestamp": "2026-08-26T03:35:24.046749820Z",
+  "timestamp": "2026-08-26T09:54:36.501278549Z",
   "model": "glm-5.3"
 }

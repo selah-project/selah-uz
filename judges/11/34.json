@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va Yiftax Mitzpa ⟨the⟩ uyiga keldi, va mana, uning qizi uni kutib chiqdi doʻmbiralar va raqslar bilan; va faqat u ⟨the⟩ yolgʻiz ⟨is⟩ — unga undan oʻgʻil ham yoki qiz ham yoʻq.",
+  "translation": "Va Yiftax Mitspa ga, ⟨uning⟩ uyiga keldi, va mana, uning qizi unga kutib chiqdi, doʻira va raqslar bilan; va faqat u — yolgʻiz ⟨qizi⟩ edi, undan ⟨tashqari⟩ unga oʻgʻil yoki qiz yoʻq edi.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "המצפה",
-      "gloss": "Mitzpa"
+      "gloss": "Mitspa"
     },
     {
       "surface": "אל",
-      "gloss": "tomon"
+      "gloss": "ga"
     },
     {
       "surface": "ביתו",
-      "gloss": "uyiga"
+      "gloss": "uning uyiga"
     },
     {
       "surface": "והנה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בתפים",
-      "gloss": "doʻmbiralar bilan"
+      "gloss": "doʻiralar bilan"
     },
     {
       "surface": "ובמחלות",
@@ -88,6 +88,6 @@
       "gloss": "qiz"
     }
   ],
-  "timestamp": "2026-08-26T02:35:20.626703853Z",
+  "timestamp": "2026-08-26T09:52:12.052307311Z",
   "model": "glm-5.3"
 }

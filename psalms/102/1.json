@@ -5,25 +5,41 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 102,
-  "translation": "Mazmun: boshlangʻich ibora — Ibtido 3:9 bilan bir xil soʻz tartibiga ega; izohsiz.",
+  "translation": "Mazlumning duosi — qachon ⟨u⟩ holdan yiqilsa va Yahve oldida shivoyini toʻkadi.",
   "tokens": [
     {
-      "surface": "וַיֹּ֤אמֶר",
-      "gloss": "va aytdi"
+      "surface": "תפלה",
+      "gloss": "duo"
     },
     {
-      "surface": "אֱלֹהִ֥ים",
-      "gloss": "Elohim"
+      "surface": "לעני",
+      "gloss": "mazlumning"
     },
     {
-      "surface": "אֵ֝לָ֗י",
-      "gloss": "menga"
+      "surface": "כי",
+      "gloss": "qachon"
     },
     {
-      "surface": "אַיֶּ֥כָּה",
-      "gloss": "qayerdasan"
+      "surface": "יעטף",
+      "gloss": "holdan yiqilsa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "oldida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "toʻkadi"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "shivoyini"
     }
   ],
-  "timestamp": "2026-08-26T06:25:44.154183912Z",
+  "timestamp": "2026-08-26T10:01:29.960203342Z",
   "model": "glm-5.3"
 }

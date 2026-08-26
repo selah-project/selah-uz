@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Va uzumzoringni ⟨the⟩ butunlay yalangʻochlama, va uzumzoring ⟨the⟩ singan uzumlarini terma — kambagʻal va muhojir uchun tashlab qoʻy; Men Yahve, Elohimingizman.",
+  "translation": "Va uzumzoringizni butunlay termang ⟨yoʻq⟩, uzumzoringizning tushib qolgan uzumlarini termang ⟨yoʻq⟩; ularni kambagʻal va musofirga qoldiring — Men Yahve, Elohimingizman.",
   "tokens": [
     {
       "surface": "וכרמך",
-      "gloss": "Va uzumzoringni"
+      "gloss": "va uzumzoringizni"
     },
     {
       "surface": "לא",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "תעולל",
-      "gloss": "butunlay yalangʻochlama"
+      "gloss": "butunlay termang"
     },
     {
       "surface": "ופרט",
-      "gloss": "va singan uzumlar (peret)"
+      "gloss": "va tushib qolgan uzum"
     },
     {
       "surface": "כרמך",
-      "gloss": "uzumzoring"
+      "gloss": "uzumzoringizning"
     },
     {
       "surface": "לא",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "תלקט",
-      "gloss": "terma"
+      "gloss": "termang"
     },
     {
       "surface": "לעני",
@@ -41,15 +41,16 @@
     },
     {
       "surface": "ולגר",
-      "gloss": "va muhojir uchun"
+      "gloss": "va musofir uchun"
     },
     {
       "surface": "תעזב",
-      "gloss": "tashlab qoʻy"
+      "gloss": "qoldiring"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ularni"
+      "gloss": "⟨את⟩",
+      "marks": "ularni (sochilgan va tushib qolgan uzumlar)"
     },
     {
       "surface": "אני",
@@ -64,6 +65,6 @@
       "gloss": "Elohimingiz"
     }
   ],
-  "timestamp": "2026-08-26T01:17:16.417995420Z",
+  "timestamp": "2026-08-26T09:47:32.198158226Z",
   "model": "glm-5.3"
 }

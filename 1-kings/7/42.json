@@ -5,16 +5,16 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 7,
-  "translation": "va ⟨את⟩ anorlarni — toʻrt yuzta — ikki toʻr uchun, har bir toʻrda anorlarning ikki qatori, kapitellarning ikki sharini yopish uchun — ⟨the⟩ ustunlarning yuz tomonida turganlarini;",
+  "translation": "va ⟨את⟩ anorlar — toʻrt yuzta, ikki toʻr uchun, har bir toʻrda anorlarning ikki qatori, ustunlar yuz tomonidagi kapitelning ikki kosasini ⟨את⟩ qoplash uchun;",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "anorlarni"
+      "marks": "anorlar"
     },
     {
       "surface": "הרמנים",
-      "gloss": "anorlarni"
+      "gloss": "anorlar"
     },
     {
       "surface": "ארבע",
@@ -38,28 +38,28 @@
     },
     {
       "surface": "טורים",
-      "gloss": "qatorlar"
+      "gloss": "qator"
     },
     {
       "surface": "רמנים",
-      "gloss": "anorlar"
+      "gloss": "anor"
     },
     {
       "surface": "לשבכה",
-      "gloss": "toʻr"
+      "gloss": "toʻr uchun"
     },
     {
       "surface": "האחת",
-      "gloss": "bitta"
+      "gloss": "bir"
     },
     {
       "surface": "לכסות",
-      "gloss": "yopish uchun"
+      "gloss": "qoplash uchun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ikki"
+      "marks": "ikki kosa"
     },
     {
       "surface": "שתי",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "גלת",
-      "gloss": "sharini"
+      "gloss": "kosa"
     },
     {
       "surface": "הכתרת",
-      "gloss": "kapitellarning"
+      "gloss": "kapitelning"
     },
     {
       "surface": "אשר",
@@ -79,17 +79,17 @@
     },
     {
       "surface": "על",
-      "gloss": "oldida"
+      "gloss": "yuz tomonida"
     },
     {
       "surface": "פני",
-      "gloss": "yuz tomoni"
+      "gloss": "yuz"
     },
     {
       "surface": "העמודים",
-      "gloss": "ustunlarning"
+      "gloss": "ustunlar"
     }
   ],
-  "timestamp": "2026-08-26T03:30:36.750324070Z",
+  "timestamp": "2026-08-26T09:53:49.146334677Z",
   "model": "glm-5.3"
 }

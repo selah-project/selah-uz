@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 24,
-  "translation": "Boʻshab-boʻshaydi ⟨the⟩ yer, va talon-taroj qilib talon-taroj boʻladi, chunki Yahve ⟨את⟩ bu soʻzni aytgan.",
+  "translation": "Boʻshatilgan boʻshatiladi ⟨⟨yer⟩⟩, talon-taroj qilinadi, chunki Yahve ⟨את⟩ bu soʻzni aytdi.",
   "tokens": [
     {
       "surface": "הבוק",
-      "gloss": "boʻshab"
+      "gloss": "boʻshatilgan"
     },
     {
       "surface": "תבוק",
-      "gloss": "boʻshaydi"
+      "gloss": "boʻshatiladi"
     },
     {
       "surface": "הארץ",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "והבוז",
-      "gloss": "va talon-taroj qilib"
+      "gloss": "va talon-taroj qilingan"
     },
     {
       "surface": "תבוז",
-      "gloss": "talon-taroj boʻladi"
+      "gloss": "talon-taroj qilinadi"
     },
     {
       "surface": "כי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "aytgan"
+      "gloss": "aytdi"
     },
     {
       "surface": "את",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "soʻz"
+      "gloss": "bu soʻzni"
     },
     {
       "surface": "הזה",
       "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-26T08:34:52.870071278Z",
+  "timestamp": "2026-08-26T09:54:44.726244817Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Laʼnatlangan ⟨boʻlsin⟩ ⟨the⟩ odam — otamga ⟨את⟩ xabar berib: „Senga oʻgʻil tugʻildi, erkak bola“ deb uni quvontirgan odam, uni xursand qilgan.",
+  "translation": "Laʼnatlangan boʻlgʻay odamki, otamga ⟨את⟩ xushxabar berib aytdi: „Senga oʻgʻil tugʻildi, erkak bola“ — uni xursand qildi, quvontirdi.",
   "tokens": [
     {
       "surface": "ארור",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "האיש",
-      "gloss": "⟨the⟩ odam"
+      "gloss": "odam"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "—…ki"
     },
     {
       "surface": "בשר",
-      "gloss": "xabar berib"
+      "gloss": "xushxabar berdi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "otamga"
+      "marks": "otam"
     },
     {
       "surface": "אבי",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "deb"
+      "gloss": "aytib"
     },
     {
       "surface": "ילד",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "שמח",
-      "gloss": "quvontirgan"
+      "gloss": "quvontirdi"
     },
     {
       "surface": "שמחהו",
-      "gloss": "uni xursand qilgan"
+      "gloss": "uni xursand qildi"
     }
   ],
-  "timestamp": "2026-08-26T04:48:02.720305901Z",
+  "timestamp": "2026-08-26T09:56:26.808609360Z",
   "model": "glm-5.3"
 }

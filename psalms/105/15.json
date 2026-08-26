@@ -5,37 +5,33 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 105,
-  "translation": "„Moylanganlarimga tegmang va paygʻambarlarimga yomonlik qilmang.“",
+  "translation": "Moylanganlarimga tegmang va paygʻambarlarimga yomonlik qilmang.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "yomonlik qilmang"
+      "gloss": "tegmang"
     },
     {
       "surface": "תגעו",
-      "gloss": "teg"
+      "gloss": "tegishingiz"
     },
     {
       "surface": "במשיחי",
       "gloss": "Moylanganlarimga"
     },
     {
-      "surface": "ו",
-      "gloss": "va"
-    },
-    {
-      "surface": "לנביאי",
-      "gloss": "paygʻambarlarimga"
+      "surface": "ולנביאי",
+      "gloss": "va paygʻambarlarimga"
     },
     {
       "surface": "אל",
-      "gloss": "teg"
+      "gloss": "qilmang"
     },
     {
       "surface": "תרעו",
-      "gloss": "yomonlik qilmang"
+      "gloss": "yomonlik"
     }
   ],
-  "timestamp": "2026-08-26T06:27:45.258080106Z",
+  "timestamp": "2026-08-26T10:01:13.675016773Z",
   "model": "glm-5.3"
 }

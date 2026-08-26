@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Barchasi qimmatbaho toshlar edi, oʻlchovlariga koʻra yoʻnilgan toshlar, arraban arralangan — ichkaridan ham, tashqaridan ham; poydevordan yakagacha, va tashqaridan ⟨the⟩ katta hovligacha.",
+  "translation": "Barchasi — qimmatbaho toshlar, oʻlchovga koʻra yoʻnilgan toshlar, arra bilan ⟨ Arra bilan ⟩ ichkaridan ham, tashqaridan ham silliq­langan, poydevordan qoplamagacha, tashqarida esa katta hovligacha.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "barchasi"
+      "gloss": "Barchasi"
     },
     {
       "surface": "אלה",
-      "gloss": "bu"
+      "gloss": "—"
     },
     {
       "surface": "אבנים",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "כמדת",
-      "gloss": "oʻlchovlariga koʻra"
+      "gloss": "oʻlchovga koʻra"
     },
     {
       "surface": "גזית",
-      "gloss": "yoʻnilgan toshlar"
+      "gloss": "yoʻnilgan (toshlar)"
     },
     {
       "surface": "מגררות",
-      "gloss": "arralangan"
+      "gloss": "silliq­langan"
     },
     {
       "surface": "במגרה",
-      "gloss": "arraban"
+      "gloss": "arra bilan"
     },
     {
       "surface": "מבית",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "וממסד",
-      "gloss": "va poydevordan"
+      "gloss": "poydevordan"
     },
     {
       "surface": "עד",
-      "gloss": "-gacha"
+      "gloss": "gacha"
     },
     {
       "surface": "הטפחות",
-      "gloss": "yakagacha"
+      "gloss": "qoplamagacha (qadamiy toshlarigacha)"
     },
     {
       "surface": "ומחוץ",
-      "gloss": "va tashqaridan"
+      "gloss": "va tashqarida"
     },
     {
       "surface": "עד",
-      "gloss": "-gacha"
+      "gloss": "gacha"
     },
     {
       "surface": "החצר",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "הגדולה",
-      "gloss": "katta"
+      "gloss": "katta hovli"
     }
   ],
-  "timestamp": "2026-08-26T03:29:11.687309369Z",
+  "timestamp": "2026-08-26T09:53:22.395495041Z",
   "model": "glm-5.3"
 }

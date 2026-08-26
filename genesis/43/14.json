@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 43,
-  "translation": "Va El Shadday sizlarga ⟨the⟩ odamning oldida rahmlar bersin va sizlarga ⟨את⟩ boshqa akangizni va ⟨את⟩ Binjaminni yuborsin; men esa, nima qildim-desam — farzandlarimdan mahrum bo'ldim-ku, mahrum bo'ldim.",
+  "translation": "Va El Shadday sizlarga odam oldida rahmlar bersin, va u sizlarga boshqa akangizni va Binjaminni yuborsin; men esa, farzanddan mahrum boʻlganimday — mahrum boʻldim.",
   "tokens": [
     {
       "surface": "ואל",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "Binjaminni"
     },
     {
@@ -71,17 +71,17 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "-dek"
+      "gloss": "day (sifatida)"
     },
     {
       "surface": "שכלתי",
-      "gloss": "mahrum bo'ldim"
+      "gloss": "mahrum boʻlganim"
     },
     {
       "surface": "שכלתי",
-      "gloss": "mahrum bo'ldim"
+      "gloss": "mahrum boʻldim"
     }
   ],
-  "timestamp": "2026-08-26T00:46:49.650542042Z",
+  "timestamp": "2026-08-26T10:21:09.407469341Z",
   "model": "glm-5.3"
 }

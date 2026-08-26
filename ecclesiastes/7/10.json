@@ -5,19 +5,19 @@
   "book": "ecclesiastes",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Aytmagin: „Nima ediki, avvalgi kunlar bundagilardan yaxshi boʻlgan?“ — chunki hikmatdan ⟨emas⟩ buni soʻrading.",
+  "translation": "Aytyormisan: „Avvalgi kunlar nega bu kunlardan yaxshi edi?“ — chunki sen bu haqda donolikdan soʻramagansan.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "aytmagin"
+      "gloss": "aytma (ol)"
     },
     {
       "surface": "תאמר",
-      "gloss": "sözlama"
+      "gloss": "aytma"
     },
     {
       "surface": "מה",
-      "gloss": "nima"
+      "gloss": "nega"
     },
     {
       "surface": "היה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "שהימים",
-      "gloss": "-ki kunlar"
+      "gloss": "kunlar"
     },
     {
       "surface": "הראשנים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "היו",
-      "gloss": "boʻlgan"
+      "gloss": "edi"
     },
     {
       "surface": "טובים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מאלה",
-      "gloss": "bundagilardan"
+      "gloss": "bu kunlardan"
     },
     {
       "surface": "כי",
@@ -53,21 +53,21 @@
     },
     {
       "surface": "מחכמה",
-      "gloss": "hikmatdan"
+      "gloss": "donolikdan"
     },
     {
       "surface": "שאלת",
-      "gloss": "soʻrading"
+      "gloss": "soʻramagansan"
     },
     {
       "surface": "על",
-      "gloss": "bunга"
+      "gloss": "bu haqda"
     },
     {
       "surface": "זה",
-      "gloss": "buni"
+      "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-26T07:20:48.442793171Z",
+  "timestamp": "2026-08-26T10:03:03.721434064Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,23 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Va Dovud oʻzi bilan turgan ⟨the⟩ odamlarga aytdi: ⟨the⟩ odamga, kimki ⟨את⟩ shu Pelishtini uradi va Isroildan haqoratni olib tashlaydi, nima qilinadi? zero kim bu sunnatsiz Pelishtiy, kimki tirik Elohim saflarini haqoratlagan?",
+  "translation": "Va David u bilan turgan odamlarga: «Bu Plishtiyani urgan va haqoratni Yisroeldan olib tashlagan kishiga nima qilinadi? Zero bu sunnatilmagan Plishtiy kimki, tirilarning Elohimining saflarini haqoratlagan?» deb aytdi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Va aytdi"
+      "gloss": "va dedi"
     },
     {
       "surface": "דוד",
-      "gloss": "Dovud"
+      "gloss": "David"
     },
     {
       "surface": "אל",
-      "gloss": "…ga"
+      "gloss": "ga"
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨the⟩ odamlar"
+      "gloss": "odamlarga"
     },
     {
       "surface": "העמדים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "עמו",
-      "gloss": "oʻzi bilan"
+      "gloss": "u bilan"
     },
     {
       "surface": "לאמר",
-      "gloss": "deyib"
+      "gloss": "deb"
     },
     {
       "surface": "מה",
@@ -45,32 +45,32 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "⟨the⟩ odamga"
+      "gloss": "kishiga"
     },
     {
       "surface": "אשר",
-      "gloss": "kimki"
+      "gloss": "ki"
     },
     {
       "surface": "יכה",
-      "gloss": "uradi"
+      "gloss": "urgan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "shu Pelishti"
+      "marks": "bu Plishtiyani"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "⟨the⟩ Pelishti"
+      "gloss": "Plishtiyani"
     },
     {
       "surface": "הלז",
-      "gloss": "shu"
+      "gloss": "bu"
     },
     {
       "surface": "והסיר",
-      "gloss": "va olib tashlaydi"
+      "gloss": "olib tashlagan"
     },
     {
       "surface": "חרפה",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil"
+      "gloss": "Yisroeldan"
     },
     {
       "surface": "כי",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "הפלשתי",
-      "gloss": "⟨the⟩ Pelishtiy"
+      "gloss": "Plishtiy"
     },
     {
       "surface": "הערל",
-      "gloss": "sunnatsiz"
+      "gloss": "sunnatilmagan"
     },
     {
       "surface": "הזה",
@@ -106,11 +106,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "zero"
+      "gloss": "…ki"
     },
     {
       "surface": "חרף",
-      "gloss": "haqoratladi"
+      "gloss": "haqoratlagan"
     },
     {
       "surface": "מערכות",
@@ -118,13 +118,13 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohimining"
     },
     {
       "surface": "חיים",
-      "gloss": "tirik"
+      "gloss": "tirilarning"
     }
   ],
-  "timestamp": "2026-08-26T02:53:47.057179369Z",
+  "timestamp": "2026-08-26T09:53:01.441963716Z",
   "model": "glm-5.3"
 }

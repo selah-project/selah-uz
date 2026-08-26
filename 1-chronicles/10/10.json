@@ -5,50 +5,51 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va Yavesh-Giladning ⟨את⟩ butun aholisi Filistlarning Shaulga qilgan ⟨את⟩ hamma ishlarini eshitdi.",
+  "translation": "Va ⟨את⟩ uning qurol-yarogʻini oʻz xudolarining uyiga qoʻydilar, ⟨את⟩ uning bosh suyagini Dagonning uyiga mixlab qoʻydilar.",
   "tokens": [
     {
-      "surface": "וישמעו",
-      "gloss": "eshitdi"
-    },
-    {
-      "surface": "כל",
-      "gloss": "⟨את⟩ butun"
-    },
-    {
-      "surface": "יביש",
-      "gloss": "Yavesh"
-    },
-    {
-      "surface": "גלעד",
-      "gloss": "Gilad"
+      "surface": "וישימו",
+      "gloss": "qoʻydilar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hamma ishlarini"
+      "marks": "uning qurol-yarogʻini"
     },
     {
-      "surface": "כל",
-      "gloss": "⟨את⟩ hamma"
+      "surface": "כליו",
+      "gloss": "uning qurol-yarogʻini"
     },
     {
-      "surface": "אשר",
-      "gloss": "ki"
+      "surface": "בית",
+      "gloss": "uyiga"
     },
     {
-      "surface": "עשו",
-      "gloss": "qilgan"
+      "surface": "אלהיהם",
+      "gloss": "oʻz xudolarining"
     },
     {
-      "surface": "פלשתים",
-      "gloss": "Filistlar"
+      "surface": "ואת",
+      "gloss": "va ⟨את⟩",
+      "marks": "uning bosh suyagini"
     },
     {
-      "surface": "לשאול",
-      "gloss": "Shaulga"
+      "surface": "גלגלתו",
+      "gloss": "uning bosh suyagini"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "mixlab qoʻydilar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uyiga"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagonning"
     }
   ],
-  "timestamp": "2026-08-26T07:57:22.018630323Z",
+  "timestamp": "2026-08-26T10:04:45.412223330Z",
   "model": "glm-5.3"
 }

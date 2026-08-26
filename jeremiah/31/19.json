@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 31,
-  "translation": "Chunki qaytganimdan keyin pushaymon boʻldim, va tanilganimdan keyin sonim-<ga urdim; uyaldim, xatta xijolat boʻldim, chunki yoshligimning haqoratini koʻtardim.",
+  "translation": "Chunki qaytganimdan keyin pushmaymon boʻldim va tanilganimdan keyin sonimga urdim; uyaldim va xijolat boʻldim, chunki yoshligimning haqoratini koʻtardim.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "keyin"
+      "gloss": "-dan keyin"
     },
     {
       "surface": "שובי",
-      "gloss": "qaytganimdan"
+      "gloss": "qaytganim"
     },
     {
       "surface": "נחמתי",
-      "gloss": "pushaymon boʻldim"
+      "gloss": "pushmaymon boʻldim"
     },
     {
       "surface": "ואחרי",
-      "gloss": "va keyin"
+      "gloss": "va -dan keyin"
     },
     {
       "surface": "הודעי",
-      "gloss": "tanilganimdan"
+      "gloss": "tanilganim"
     },
     {
       "surface": "ספקתי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "על",
-      "gloss": "<ga"
+      "gloss": "ga"
     },
     {
       "surface": "ירך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "וגם",
-      "gloss": "va xatta"
+      "gloss": "va"
     },
     {
       "surface": "נכלמתי",
@@ -72,6 +72,6 @@
       "gloss": "yoshligimning"
     }
   ],
-  "timestamp": "2026-08-26T08:37:58.534441982Z",
+  "timestamp": "2026-08-26T09:55:56.778131573Z",
   "model": "glm-5.3"
 }

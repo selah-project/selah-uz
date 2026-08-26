@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 24,
-  "translation": "Isroil o'g'illariga ⟨את⟩ buyur — senga zaytun moyi olib kelishsin: toza, maydalangan ⟨the⟩ moy, chiroq uchun, lampani uzluksiz yoqish maqsadida.",
+  "translation": "Yisroil oʻgʻillariga buyur ⟨את⟩, va senga zaytun moyi olib kelsinlar — toza, dövlilgan, chiroq uchun, lampani doim yondirib turish uchun.",
   "tokens": [
     {
       "surface": "צו",
@@ -14,19 +14,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Isroil o'g'ilari"
+      "marks": "Yisroil oʻgʻillari"
     },
     {
       "surface": "בני",
-      "gloss": "o'g'ilari"
+      "gloss": "oʻgʻillari"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil"
+      "gloss": "Yisroil"
     },
     {
       "surface": "ויקחו",
-      "gloss": "olib kelishsin"
+      "gloss": "va olib kelsinlar"
     },
     {
       "surface": "אליך",
@@ -46,25 +46,25 @@
     },
     {
       "surface": "כתית",
-      "gloss": "maydalangan"
+      "gloss": "dövlilgan"
     },
     {
       "surface": "למאור",
       "gloss": "chiroq uchun"
     },
     {
-      "surface": "להעלת",
-      "gloss": "yoqish maqsadida"
+      "surface": "להעללות",
+      "gloss": "yondirib turish uchun"
     },
     {
       "surface": "נר",
-      "gloss": "lampa"
+      "gloss": "lampani"
     },
     {
       "surface": "תמיד",
-      "gloss": "uzluksiz"
+      "gloss": "doim"
     }
   ],
-  "timestamp": "2026-08-26T01:22:07.749284206Z",
+  "timestamp": "2026-08-26T09:47:27.219043697Z",
   "model": "glm-5.3"
 }

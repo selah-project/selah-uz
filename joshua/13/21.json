@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 13,
-  "translation": "va tekislikning barcha shaharlari, va Sixonning — emoriylar shohining, u Xeshbonda hukmronlik qilgan edi — butun podshohligi; uni Moshe ⟨את⟩ urib oʻldirdi, va Midyonning sardorlarini — ⟨את⟩ Evini va ⟨את⟩ Rekемni va ⟨את⟩ Turni va ⟨את⟩ Xurni va ⟨את⟩ Rebani — Sixonning noiblarini, mamlakatda yashovchilarni.",
+  "translation": "va tekislikning barcha shaharlari, va Cheshbonda hukmronlik qilgan Sihon, emoriylar podshohining butun podshohligi — uni Moshe urib oʻldirdi, va Midyan noiblarini: ⟨את⟩ Evi va ⟨את⟩ Rekem va ⟨את⟩ Tsur va ⟨את⟩ Xur va ⟨את⟩ Rebani — Sihonning noiblarini, yerda yashovchilarni.",
   "tokens": [
     {
       "surface": "וכל",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "סיחון",
-      "gloss": "Sixonning"
+      "gloss": "Sihon"
     },
     {
       "surface": "מלך",
-      "gloss": "shohi"
+      "gloss": "podshohi"
     },
     {
       "surface": "האמרי",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "kim"
     },
     {
       "surface": "מלך",
-      "gloss": "hukmronlik qilgan edi"
+      "gloss": "hukmronlik qildi"
     },
     {
       "surface": "בחשבון",
-      "gloss": "Xeshbonda"
+      "gloss": "Cheshbonda"
     },
     {
       "surface": "אשר",
@@ -65,21 +65,21 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "uni (Sixonni)"
+      "gloss": "⟨את⟩ uni",
+      "marks": "Sihon"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "Midyonning sardorlarini"
+      "marks": "Midyan noiblarini"
     },
     {
       "surface": "נשיאי",
-      "gloss": "sardorlari"
+      "gloss": "noiblarini"
     },
     {
       "surface": "מדין",
-      "gloss": "Midyonning"
+      "gloss": "Midyan"
     },
     {
       "surface": "את",
@@ -102,11 +102,11 @@
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "Turni"
+      "marks": "Tsurni"
     },
     {
       "surface": "צור",
-      "gloss": "Tur"
+      "gloss": "Tsur"
     },
     {
       "surface": "ואת",
@@ -132,7 +132,7 @@
     },
     {
       "surface": "סיחון",
-      "gloss": "Sixonning"
+      "gloss": "Sihonning"
     },
     {
       "surface": "ישבי",
@@ -140,9 +140,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "mamlakatda"
+      "gloss": "yerning"
     }
   ],
-  "timestamp": "2026-08-26T02:16:45.956891979Z",
+  "timestamp": "2026-08-26T09:51:23.419311484Z",
   "model": "glm-5.3"
 }

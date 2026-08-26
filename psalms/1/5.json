@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Shuning uchun reshaʼim ⟨the⟩ hukmda turmaydilar, va xato qiluvchilar solihlar jamoasida ⟨turmaydilar⟩.",
+  "translation": "Shu sababli yovuzlar hukmda turmaydilar, gunohkorlar esa solihlar jamoasida ⟨turmagan⟩.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "uning uchun"
+      "gloss": "sababli"
     },
     {
       "surface": "כן",
-      "gloss": "shuning"
+      "gloss": "shu"
     },
     {
       "surface": "לא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "רשעים",
-      "gloss": "reshaʼim"
+      "gloss": "yovuzlar"
     },
     {
       "surface": "במשפט",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וחטאים",
-      "gloss": "va xato qiluvchilar"
+      "gloss": "va gunohkorlar"
     },
     {
       "surface": "בעדת",
@@ -44,6 +44,6 @@
       "gloss": "solihlar"
     }
   ],
-  "timestamp": "2026-08-26T05:56:51.712173220Z",
+  "timestamp": "2026-08-26T09:59:47.603129681Z",
   "model": "glm-5.3"
 }

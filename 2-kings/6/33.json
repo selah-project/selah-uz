@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 6,
-  "translation": "U ularga gapirayotganiyоʻq — hali gapirayotgan edi, mana, elchi unga tushdi va u dedi: Mana, bu yomonlik Yahve ⟨את⟩ tomonidan keldi; Yahve uchun yana nima kutay?",
+  "translation": "U ular bilan gapirayotgan edi-ki, mana elchisi unga tushdi va u dedi: Mana, bu yomonlik Yahvedan ⟨את⟩ ⟨-⟩dir; men Yahve uchun yana nima kutay?",
   "tokens": [
     {
       "surface": "עודנו",
-      "gloss": "hali"
+      "gloss": "hali edi-ki"
     },
     {
       "surface": "מדבר",
-      "gloss": "gapirayotgan edi"
+      "gloss": "gapirayotgan"
     },
     {
       "surface": "עמם",
@@ -53,8 +53,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ tomonidan",
-      "marks": "Yahve — yomonlik manbai sifatida belgilangan"
+      "gloss": "⟨את⟩",
+      "marks": "Yahve"
     },
     {
       "surface": "יהוה",
@@ -77,6 +77,6 @@
       "gloss": "yana"
     }
   ],
-  "timestamp": "2026-08-26T03:47:51.932981239Z",
+  "timestamp": "2026-08-26T09:54:16.029778821Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Va agar har qanday nopok hayvon boʻlsa, kiyikidan Yahvegа qurbonlik yaqinlashtirilmaydi — u hayvonni kohonning oldiga qoʻyadi ⟨הבהמה⟩.",
+  "translation": "Agar ⟨bu⟩ toza boʻlmagan ⟨har qanday⟩ hayvon boʻlsa — undan Yahvegʻa qurbonlik keltirilmaydigan — ⟨u⟩ hayvonni kohenniŋ oldiga qoʻyadi.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Va agar"
+      "gloss": "agar"
     },
     {
       "surface": "כל",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "טמאה",
-      "gloss": "nopok"
+      "gloss": "toza boʻlmagan"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "...maydigan"
     },
     {
       "surface": "יקריבו",
-      "gloss": "yaqinlashtiradilar"
+      "gloss": "keltirilmaydi"
     },
     {
       "surface": "ממנה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahvegʻa"
     },
     {
       "surface": "והעמיד",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "הבהמה",
-      "gloss": "hayvonni"
+      "gloss": "hayvon"
     },
     {
       "surface": "לפני",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kohonning"
+      "gloss": "kohen"
     }
   ],
-  "timestamp": "2026-08-26T01:25:16.796530287Z",
+  "timestamp": "2026-08-26T09:47:23.309470301Z",
   "model": "glm-5.3"
 }

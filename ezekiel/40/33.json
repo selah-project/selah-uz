@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 40,
-  "translation": "Va uning xonalari, ustunlari va peshtoqlari — ⟨the⟩ oʻlchovlar singari; unga oynalar ⟨are⟩ va peshtoqlariga atrofida, atrofda: uzunligi ellik gʻaz, kengligi besh va yigirma gʻaz.",
+  "translation": "Va uning xonalari, va uning ustunlari, va uning ayvonlari — oʻsha oʻlchovlar boʻyicha; va unga derazalar, va uning ayvonlariga atrofida atrofda: uzunligʻi ellik tirsak, va kengligʻi yigirma besh tirsak.",
   "tokens": [
     {
       "surface": "ותאו",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "ואלו",
-      "gloss": "va ustunlari"
+      "gloss": "va uning ustunlari"
     },
     {
       "surface": "ואלמו",
-      "gloss": "va peshtoqlari"
+      "gloss": "va uning ayvonlari"
     },
     {
       "surface": "כמדות",
-      "gloss": "oʻlchovlar singari"
+      "gloss": "oʻsha oʻlchovlar boʻyicha"
     },
     {
       "surface": "האלה",
-      "gloss": "⟨the⟩ bu"
+      "gloss": "oʻsha"
     },
     {
       "surface": "וחלונות",
-      "gloss": "va oynalar"
+      "gloss": "va derazalar"
     },
     {
       "surface": "לו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ולאלמו",
-      "gloss": "va peshtoqlariga"
+      "gloss": "va uning ayvonlariga"
     },
     {
       "surface": "סביב",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ארך",
-      "gloss": "uzunligi"
+      "gloss": "uzunligʻi"
     },
     {
       "surface": "חמשים",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "אמה",
-      "gloss": "gʻaz"
+      "gloss": "tirsak"
     },
     {
       "surface": "ורחב",
-      "gloss": "va kengligi"
+      "gloss": "va kengligʻi"
     },
     {
       "surface": "חמש",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "אמה",
-      "gloss": "gʻaz"
+      "gloss": "tirsak"
     }
   ],
-  "timestamp": "2026-08-26T05:29:04.457320178Z",
+  "timestamp": "2026-08-26T09:57:33.371603855Z",
   "model": "glm-5.3"
 }

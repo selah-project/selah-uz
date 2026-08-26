@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Shemuël ⟨את⟩ moy qutisini oldi va boshiga quydı va uni oʻpdi va dedi: Mi-yoʻq, zero Yahve seni moylagan ⟨the⟩ uning merosi ustiga hukmdor ⟨sifatida⟩.",
+  "translation": "Shemuël moy idishini oldi va uning boshiga quydı va uni oʻpdi va dedi: miloki, Yahve seni moyladi ⟨את⟩ oʻz merosiga boshqaruvchi boʻlishing uchun?",
   "tokens": [
     {
       "surface": "ויקח",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "moy qutisini"
+      "marks": "moy idishini"
     },
     {
       "surface": "פך",
-      "gloss": "qutisini"
+      "gloss": "moy idishi"
     },
     {
       "surface": "השמן",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "boshiga"
+      "gloss": "uning boshi"
     },
     {
       "surface": "וישקהו",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "הלוא",
-      "gloss": "mi-yoʻq"
+      "gloss": "miloki"
     },
     {
       "surface": "כי",
-      "gloss": "zero"
+      "gloss": "chunki"
     },
     {
       "surface": "משחך",
-      "gloss": "seni moylagan"
+      "gloss": "seni moyladi"
     },
     {
       "surface": "יהוה",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ustiga"
+      "gloss": " ustidan"
     },
     {
       "surface": "נחלתו",
@@ -74,9 +74,9 @@
     },
     {
       "surface": "לנגיד",
-      "gloss": "hukmdor"
+      "gloss": "boshqaruvchi boʻlish uchun"
     }
   ],
-  "timestamp": "2026-08-26T02:46:49.074375705Z",
+  "timestamp": "2026-08-26T09:52:47.188572478Z",
   "model": "glm-5.3"
 }

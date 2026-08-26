@@ -5,17 +5,41 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 35,
-  "translation": "Yoxiyo podshohligining oʻn sakkizinchi yilida ⟨bu⟩ Pesax qilindi.",
+  "translation": "Yoshiax hukmronligining oʻn sakkizinchi yilida ⟨bu⟩ Pesax ⟨qilindi⟩.",
   "tokens": [
     {
       "surface": "בשמונה",
-      "gloss": "oʻn sakkizinchi"
+      "gloss": "sakkizinchi yilda"
     },
     {
       "surface": "עשרה",
-      "gloss": "(sakkiz)"
+      "gloss": "oʻn"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yil"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "hukmronligining"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiax"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "qilindi"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesax"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-26T08:17:04.602396960Z",
+  "timestamp": "2026-08-26T10:05:58.962950292Z",
   "model": "glm-5.3"
 }

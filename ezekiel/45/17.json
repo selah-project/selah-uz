@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 45,
-  "translation": "Va nasiy ustida boʻladi ⟨the⟩ olab qurbonliklar, non qurbonligi va ichimlik qurbonligi — bayramlarda, yangi oylarda va shanbalarda, Isroil uyining barcha belgilangan vaqtlarida; u ⟨את⟩ gunoh qurbonligini va ⟨את⟩ non qurbonligini va ⟨את⟩ olab qurbonligini va ⟨את⟩ tinchlik qurbonliklarini qiladi — Isroil uyini yovish uchun.",
+  "translation": "Va nasiq zimmasida boʻladi yoqilgan qurbonliklar va un qurbonligi va ichimlik qurbonligi — bayramlarda, yangi oylarda va shanbalarda, Isroil uyining barcha belgilangan vaqtlarida; u ⟨את⟩ gunoh qurbonligini va ⟨את⟩ un qurbonligini va ⟨את⟩ yoqilgan qurbonlikni va ⟨את⟩ tinchlik qurbonliklarini qiladi, Isroil uyiga kaforat uchun.",
   "tokens": [
     {
       "surface": "ועל",
-      "gloss": "va ustida"
+      "gloss": "va … zimmasida"
     },
     {
       "surface": "הנשיא",
-      "gloss": "nasiy"
+      "gloss": "nasiq"
     },
     {
       "surface": "יהיה",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "העולות",
-      "gloss": "olab qurbonliklar"
+      "gloss": "yoqilgan qurbonliklar"
     },
     {
       "surface": "והמנחה",
-      "gloss": "va non qurbonligi"
+      "gloss": "va un qurbonligi"
     },
     {
       "surface": "והנסך",
@@ -74,25 +74,25 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "gunoh qurbonligi"
+      "gloss": "gunoh qurbonligini"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "non qurbonligini"
+      "marks": "un qurbonligini"
     },
     {
       "surface": "המנחה",
-      "gloss": "non qurbonligi"
+      "gloss": "un qurbonligini"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "olab qurbonligini"
+      "marks": "yoqilgan qurbonlikni"
     },
     {
       "surface": "העולה",
-      "gloss": "olab qurbonligi"
+      "gloss": "yoqilgan qurbonlikni"
     },
     {
       "surface": "ואת",
@@ -101,25 +101,25 @@
     },
     {
       "surface": "השלמים",
-      "gloss": "tinchlik qurbonliklari"
+      "gloss": "tinchlik qurbonliklarini"
     },
     {
       "surface": "לכפר",
-      "gloss": "yovish uchun"
+      "gloss": "kaforat uchun"
     },
     {
       "surface": "בעד",
-      "gloss": "uchun"
+      "gloss": "…ga"
     },
     {
       "surface": "בית",
-      "gloss": "uyini"
+      "gloss": "uyiga"
     },
     {
       "surface": "ישראל",
       "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T05:32:28.688242747Z",
+  "timestamp": "2026-08-26T10:23:51.487232463Z",
   "model": "glm-5.3"
 }

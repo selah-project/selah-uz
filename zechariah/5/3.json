@@ -5,15 +5,11 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 5,
-  "translation": "Va u menga aytdi: Bu butun yer yuzi ustiga chiqayotgan laʼnatdir, chunki undan ⟨oʻgʻirlagan⟩ har bir kishi unga teng ⟨yoʻq qilinadi⟩, va undan soʻgʻingan har bir kishi unga teng ⟨yoʻq qilinadi⟩.",
+  "translation": "Va u menga aytdi: mana ⟨bu⟩ — butun yer yuzi ustiga chiqayotgan laʼnat, chunki har bir oʻgʻir, muningdek, ⟨jazolanadi⟩, va har bir soʻfalsiz qasam ichuvchi, muningdek, ⟨jazolanadi⟩.",
   "tokens": [
     {
-      "surface": "ויאאמר",
-      "gloss": ""
-    },
-    {
       "surface": "ויאמר",
-      "gloss": "Va u aytdi"
+      "gloss": "Va ... aytdi"
     },
     {
       "surface": "אלי",
@@ -57,19 +53,19 @@
     },
     {
       "surface": "הגנב",
-      "gloss": "oʻgʻri"
+      "gloss": "oʻgʻir"
     },
     {
       "surface": "מזה",
-      "gloss": "undan"
+      "gloss": "muningdek"
     },
     {
       "surface": "כמוה",
-      "gloss": "unga teng"
+      "gloss": "uning oʻlchovicha"
     },
     {
       "surface": "נקה",
-      "gloss": "yoʻq qilinadi"
+      "gloss": "⟨jazolanadi⟩"
     },
     {
       "surface": "וכל",
@@ -77,21 +73,21 @@
     },
     {
       "surface": "הנשבע",
-      "gloss": "soʻgʻingan"
+      "gloss": "qasam ichuvchi"
     },
     {
       "surface": "מזה",
-      "gloss": "undan"
+      "gloss": "muningdek"
     },
     {
       "surface": "כמוה",
-      "gloss": "unga teng"
+      "gloss": "uning oʻlchovicha"
     },
     {
       "surface": "נקה",
-      "gloss": "yoʻq qilinadi"
+      "gloss": "⟨jazolanadi⟩"
     }
   ],
-  "timestamp": "2026-08-26T08:42:09.276438128Z",
+  "timestamp": "2026-08-26T09:59:51.678515433Z",
   "model": "glm-5.3"
 }

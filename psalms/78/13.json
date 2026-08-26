@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 78,
-  "translation": "Dengizni yorib yubordi va ularni oʻtkazdi; suvlarni ⟨the⟩ doʻvdek tik qoʻydi.",
+  "translation": "U ⟨את⟩ dengizni yorib ⟨את⟩ ularni oʻtkazdi va suvlarni xuddi uyumday tik qildi.",
   "tokens": [
     {
       "surface": "בקע",
-      "gloss": "yorib yubordi"
+      "gloss": "yorib"
     },
     {
       "surface": "ים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ויצב",
-      "gloss": "va qoʻydi"
+      "gloss": "va qoʻydi\/tik qildi"
     },
     {
       "surface": "מים",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "כמו",
-      "gloss": "kabi"
+      "gloss": "xuddi"
     },
     {
       "surface": "נד",
-      "gloss": "doʻv"
+      "gloss": "uyumday"
     }
   ],
-  "timestamp": "2026-08-26T08:43:30.113755261Z",
+  "timestamp": "2026-08-26T10:00:54.542561052Z",
   "model": "glm-5.3"
 }

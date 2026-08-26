@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 8,
-  "translation": "— Yer yuzidagi barcha xalqlar bilishi uchun: Yahve — U ⟨is⟩ Elohim, boshqasi yoʻq.",
+  "translation": "Shunda barcha — yer xalqlari — Yahve ⟨u⟩ Elohim ekanini, Oʻzgalari yoʻqligini bilsinlar.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "uchun"
+      "gloss": "shunda … uchun"
     },
     {
       "surface": "דעת",
-      "gloss": "bilishi"
+      "gloss": "bilsinlar"
     },
     {
       "surface": "כל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "yerning"
+      "gloss": "yer"
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "-ni"
     },
     {
       "surface": "יהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "U"
+      "gloss": "⟨u⟩"
     },
     {
       "surface": "האלהים",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "עוד",
-      "gloss": "boshqa"
+      "gloss": "oʻzgasi"
     }
   ],
-  "timestamp": "2026-08-26T03:33:57.857156340Z",
+  "timestamp": "2026-08-26T09:53:26.809860496Z",
   "model": "glm-5.3"
 }

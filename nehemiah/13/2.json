@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Chunki ular non va suv bilan Yisroel oʻgʻillarini ⟨את⟩ kutib olmagan edilar va unga qarshi Bilomni ⟨את⟩ laʼnatlash uchun yollagan edilar; bizning Elohim ⟨the⟩ laʼnatni barakaga aylantirdi.",
+  "translation": "Chunki ular ⟨את⟩ Yitsroqning oʻgʻillarini — Yisroel oʻgʻillarini non bilan va suv bilan kutib olishmadi, va u unga qarshi ⟨את⟩ Bilamni uni laʼnatlash uchun yolladi, va Elohimimiz laʼnatni barakaga aylantirdi.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "emas"
     },
     {
       "surface": "קדמו",
-      "gloss": "kutib olmagan edilar"
+      "gloss": "kutib olishmadi"
     },
     {
       "surface": "את",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "וישכר",
-      "gloss": "va yollagan edi"
+      "gloss": "va yolladi"
     },
     {
       "surface": "עליו",
@@ -51,23 +51,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Bilomni"
+      "marks": "Bilamni"
     },
     {
       "surface": "בלעם",
-      "gloss": "Bilom"
+      "gloss": "Bilam"
     },
     {
       "surface": "לקללו",
-      "gloss": "laʼnatlash uchun"
+      "gloss": "uni laʼnatlash uchun"
     },
     {
-      "surface": "והפך אלהינו",
-      "gloss": "va bizning Elohim aylantirdi"
+      "surface": "ויהפך",
+      "gloss": "va aylantirdi"
     },
     {
       "surface": "אלהינו",
-      "gloss": "bizning Elohim"
+      "gloss": "Elohimimiz"
     },
     {
       "surface": "הקללה",
@@ -78,6 +78,6 @@
       "gloss": "barakaga"
     }
   ],
-  "timestamp": "2026-08-26T07:49:39.670253454Z",
+  "timestamp": "2026-08-26T10:04:33.742314600Z",
   "model": "glm-5.3"
 }

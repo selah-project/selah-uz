@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va Yahve oʻsha kunda Yisroelni Misr qoʻlidan qutqardi, va Yisroel koʻrdi ⟨את⟩ Misrni — oʻlik ⟨the⟩ dengiz qirgʻogʻida.",
+  "translation": "Va Yahve oʻsha kunda Isroilni Misr qoʻlidan qutqardi, va Isroil ⟨את⟩ Misrni dengiz boʻyida oʻlik koʻrdi.",
   "tokens": [
     {
       "surface": "ויושע",
-      "gloss": "Va ... qutqardi"
+      "gloss": "va qutqardi"
     },
     {
       "surface": "יהוה",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yisroelni"
+      "marks": "Isroilni"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisroel"
+      "gloss": "Isroilni"
     },
     {
       "surface": "מיד",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "וירא",
-      "gloss": "va ... koʻrdi"
+      "gloss": "va koʻrdi"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisroel"
+      "gloss": "Isroil"
     },
     {
       "surface": "את",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "Misr"
+      "gloss": "Misrni"
     },
     {
       "surface": "מת",
@@ -63,17 +63,17 @@
     },
     {
       "surface": "על",
-      "gloss": "ustida"
+      "gloss": "boʻyida"
     },
     {
       "surface": "שפת",
-      "gloss": "qirgʻogʻi"
+      "gloss": "chegarasida"
     },
     {
       "surface": "הים",
       "gloss": "dengiz"
     }
   ],
-  "timestamp": "2026-08-26T00:54:56.957859753Z",
+  "timestamp": "2026-08-26T09:44:53.573770800Z",
   "model": "glm-5.3"
 }

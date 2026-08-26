@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va hozirgacha ⟨the⟩ podshoh darvozasida, sharq tomonda; ular Levi oʻgʻillarining lagerlari uchun daroqbonlar ⟨edilar⟩.",
+  "translation": "va ⟨shu kungacha⟩ qirol darvozasi sharq tomonda ⟨turib⟩; ular Levi oʻgʻillarining lagerlari ⟨uchun⟩ daroqalardirlar.",
   "tokens": [
     {
       "surface": "ועד",
-      "gloss": "va hozirgacha"
+      "gloss": "va ... gacha"
     },
     {
       "surface": "הנה",
-      "gloss": "⟨shu joygacha⟩"
+      "gloss": "shu kungacha"
     },
     {
       "surface": "בשער",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "podshohning"
+      "gloss": "qirolning"
     },
     {
       "surface": "מזרחה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "השערים",
-      "gloss": "daroqbonlar"
+      "gloss": "daroqalar"
     },
     {
       "surface": "למחנות",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "לוי",
-      "gloss": "Levining"
+      "gloss": "Levi"
     }
   ],
-  "timestamp": "2026-08-26T07:56:56.891375678Z",
+  "timestamp": "2026-08-26T10:25:14.021175329Z",
   "model": "glm-5.3"
 }

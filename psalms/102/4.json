@@ -5,25 +5,41 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 102,
-  "translation": "Ayol aytdi: ilon meni aldadi, va men oldim. U aytdi: nima qilding! ⟨את⟩ ovozga eshituv, ⟨את⟩ hukmronlikka va uyingdan keyin oʻgʻillarining yuziga murojaat — bu hammaga tegishli.",
+  "translation": "Chunki kunlarim tutun kabi tugadi va suyaklarim oʻchoq choʻgʻidek kuydi.",
   "tokens": [
     {
-      "surface": "וַתֹּ֣אמֶר",
-      "gloss": "u aytdi (ayol)"
+      "surface": "כי",
+      "gloss": "Chunki"
     },
     {
-      "surface": "הַנָּחָ֗שׁ",
-      "gloss": "ilon"
+      "surface": "כלו",
+      "gloss": "tugadi"
     },
     {
-      "surface": "הִשִּׁיאַ֤נִי",
-      "gloss": "meni aldadi"
+      "surface": "בעשן",
+      "gloss": "tutun kabi"
     },
     {
-      "surface": "וָאֹכֵֽל",
-      "gloss": "va men yedim"
+      "surface": "ימי",
+      "gloss": "kunlarim"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "suyaklarim"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "oʻchoq"
+    },
+    {
+      "surface": "קד",
+      "gloss": "choʻgʻidek"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "kuydi"
     }
   ],
-  "timestamp": "2026-08-26T06:25:44.154905245Z",
+  "timestamp": "2026-08-26T10:01:29.960680752Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 40,
-  "translation": "Balki, agar senga yaxshi boʻlganda meni ⟨את⟩ eslasang va men bilan xesed — sodiq mehr qilsang, iltijо, meni Parohga eslatib, meni bu hudan chiqarib yuborsang.",
+  "translation": "Faqat agar sen yaxshi boʻlgan paytda meni ⟨את⟩ yoningda eslasang, iltijo, menga xesed qilsang va meni Paroga eslatib, meni shu uydan chiqarsang —",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "balki"
+      "gloss": "faqat"
     },
     {
       "surface": "אם",
@@ -21,7 +21,8 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ bilan"
+      "gloss": "⟨את⟩ yoningda",
+      "marks": "yoningda"
     },
     {
       "surface": "כאשר",
@@ -29,7 +30,7 @@
     },
     {
       "surface": "ייטב",
-      "gloss": "yaxshi boʻlganda"
+      "gloss": "yaxshi boʻlsa"
     },
     {
       "surface": "לך",
@@ -37,7 +38,7 @@
     },
     {
       "surface": "ועשית",
-      "gloss": "va qilsang"
+      "gloss": "qilsang"
     },
     {
       "surface": "נא",
@@ -45,11 +46,11 @@
     },
     {
       "surface": "עמדי",
-      "gloss": "men bilan"
+      "gloss": "menga"
     },
     {
       "surface": "חסד",
-      "gloss": "xesed — sodiq mehr"
+      "gloss": "xesed"
     },
     {
       "surface": "והזכרתני",
@@ -57,15 +58,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "to"
     },
     {
       "surface": "פרעה",
-      "gloss": "Paroh"
+      "gloss": "Paro"
     },
     {
-      "surface": "והוצאתני",
-      "gloss": "va meni chiqarib yuborsang"
+      "surface": "והוציאתני",
+      "gloss": "va meni chiqarsang"
     },
     {
       "surface": "מן",
@@ -73,13 +74,13 @@
     },
     {
       "surface": "הבית",
-      "gloss": "bu uy"
+      "gloss": "uy"
     },
     {
       "surface": "הזה",
       "gloss": "shu"
     }
   ],
-  "timestamp": "2026-08-26T00:44:35.609749739Z",
+  "timestamp": "2026-08-26T09:45:15.088915739Z",
   "model": "glm-5.3"
 }

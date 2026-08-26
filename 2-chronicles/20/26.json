@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va toʻrtinchi kuni ular Baraxa vodiysida yigʻildilar, chunki u yerda ular Yahveni barakaladilar; shuning uchun ular oʻsha joyning nomini Baraxa vodiysi deb atashdi, shu kungacha.",
+  "translation": "Toʻrtinchi kunda ular Barakot vodiysida yigʻildilar, chunki u yerda ular Yahveni barakaladilar; shuning uchun ular oʻsha joyning nomini Barakot vodiysi deb atadilar, shu kungacha.",
   "tokens": [
     {
       "surface": "וביום",
-      "gloss": "va kunda"
+      "gloss": "va … kunda"
     },
     {
       "surface": "הרבעי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ברכה",
-      "gloss": "Baraxa"
+      "gloss": "Barakot"
     },
     {
       "surface": "כי",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "על",
-      "gloss": "shuning uchun (על כן)"
+      "gloss": "shuning"
     },
     {
       "surface": "כן",
-      "gloss": "shuning uchun"
+      "gloss": "uchun"
     },
     {
       "surface": "קראו",
-      "gloss": "atashdi"
+      "gloss": "atadilar"
     },
     {
       "surface": "את",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "joyning"
+      "gloss": "oʻsha joyning"
     },
     {
       "surface": "ההוא",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "ברכה",
-      "gloss": "Baraxa"
+      "gloss": "Barakot"
     },
     {
       "surface": "עד",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "היום",
-      "gloss": "bu kun"
+      "gloss": "shu kun"
     }
   ],
-  "timestamp": "2026-08-26T08:11:06.688189094Z",
+  "timestamp": "2026-08-26T10:05:38.562673935Z",
   "model": "glm-5.3"
 }

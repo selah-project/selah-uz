@@ -5,15 +5,15 @@
   "book": "malachi",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va oʻtiradi singdiruvchi va tozalovchi kumushni, va tozalaydi ⟨את⟩ Levi oʻgʻillarini, va saralaydi ⟨את⟩ ularni oltindek va kumushdek; va boʻladilar Yahvegа minxa keltiruvchilar — solihlikda.",
+  "translation": "Va u — kumushning qaytaruvchisi va tozalovchisi — oʻltiradi, va Levining oʻgʻillarini ⟨את⟩ poklaydi, va ularni ⟨את⟩ oltin va kumushdayak qaytaradi, va ular Yahvegʻa soldiqlikda minxa keltiruvchilar boʻladilar.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "Va oʻtiradi"
+      "gloss": "oʻltiradi"
     },
     {
       "surface": "מצרף",
-      "gloss": "singdiruvchi"
+      "gloss": "qaytaruvchi"
     },
     {
       "surface": "ומטהר",
@@ -21,20 +21,20 @@
     },
     {
       "surface": "כסף",
-      "gloss": "kumushni"
+      "gloss": "kumush"
     },
     {
       "surface": "וטהר",
-      "gloss": "va tozalaydi"
+      "gloss": "va poklaydi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Levi oʻgʻillarini"
+      "marks": "Levining oʻgʻillarini"
     },
     {
       "surface": "בני",
-      "gloss": "oʻgʻillarini"
+      "gloss": "oʻgʻillari"
     },
     {
       "surface": "לוי",
@@ -42,19 +42,20 @@
     },
     {
       "surface": "וזקק",
-      "gloss": "va saralaydi"
+      "gloss": "va qaytaradi"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ularni"
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
     },
     {
       "surface": "כזהב",
-      "gloss": "oltindek"
+      "gloss": "oltindayak"
     },
     {
       "surface": "וככסף",
-      "gloss": "va kumushdek"
+      "gloss": "va kumushdayak"
     },
     {
       "surface": "והיו",
@@ -62,7 +63,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahvegʻa"
     },
     {
       "surface": "מגישי",
@@ -70,13 +71,13 @@
     },
     {
       "surface": "מנחה",
-      "gloss": "minxa"
+      "gloss": "minxa (sotiq)"
     },
     {
       "surface": "בצדקה",
-      "gloss": "solihlikda"
+      "gloss": "soliqlikda"
     }
   ],
-  "timestamp": "2026-08-26T05:58:06.001304606Z",
+  "timestamp": "2026-08-26T10:00:14.841247743Z",
   "model": "glm-5.3"
 }

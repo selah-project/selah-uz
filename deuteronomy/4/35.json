@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Senga koʻrsatildi, bilishing uchun —ki Yahve, ⟨U⟩ ⟨⟨is⟩⟩ Elohim, Undan boshqa yoʻq.",
+  "translation": "Senga koʻrsatildi, bilishing uchun ki Yahve — U ⟨is⟩ Elohim, Undan boshqa yoʻq.",
   "tokens": [
     {
       "surface": "אתה",
-      "gloss": "sen"
+      "gloss": "senga"
     },
     {
       "surface": "הראת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "—ki"
+      "gloss": "ki"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨U⟩"
+      "gloss": "U"
     },
     {
       "surface": "האלהים",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "מלבדו",
-      "gloss": "Undan"
+      "gloss": "Undan boshqa"
     }
   ],
-  "timestamp": "2026-08-26T01:51:01.716823063Z",
+  "timestamp": "2026-08-26T10:21:43.191909225Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,27 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va shelamim qurbonidan olov qurboni sifatida Yahvegа keltirsin: uning yogʻi — dumining yogʻi butun holda, umurtqa yonidan olib tashlansin; va ⟨את⟩ ichaklarni qoplaydigan yogʻni va ⟨את⟩ ichaklar ustidagi barcha yogʻni",
+  "translation": "Va shelamim qurbonidan Yahvegacha olov qurbonligi keltiradi: uning yogʻi — butun dumi yogʻi, dum suyagining qarshisidan olib tashlanadi; va ichki aʼzolarni qoplagan yogʻni ⟨את⟩ va ichki aʼzolar ustidagi barcha yogʻni ⟨את⟩.",
   "tokens": [
     {
       "surface": "והקריב",
-      "gloss": "va keltirsin"
+      "gloss": "keltiradi"
     },
     {
       "surface": "מזבח",
-      "gloss": "qurbonidan"
+      "gloss": "qurbon"
     },
     {
       "surface": "השלמים",
-      "gloss": "shelamim"
+      "gloss": "shelamimning"
     },
     {
       "surface": "אשה",
-      "gloss": "olov qurboni"
+      "gloss": "olov qurbonligi"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahvegacha"
     },
     {
       "surface": "חלבו",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "האליה",
-      "gloss": "dumining yogʻi"
+      "gloss": "dumi yogʻi"
     },
     {
       "surface": "תמימה",
-      "gloss": "butun holda"
+      "gloss": "butun"
     },
     {
       "surface": "לעמת",
-      "gloss": "yonidan"
+      "gloss": "qarshisidan"
     },
     {
       "surface": "העצה",
-      "gloss": "umurtqa"
+      "gloss": "dum suyagi"
     },
     {
       "surface": "יסירנה",
-      "gloss": "olib tashlansin"
+      "gloss": "olib tashlaydi uni"
     },
     {
       "surface": "ואת",
@@ -62,21 +62,21 @@
     },
     {
       "surface": "המכסה",
-      "gloss": "qoplaydigan"
+      "gloss": "qoplovchi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ichaklarni"
+      "marks": "ichki aʼzolarni"
     },
     {
       "surface": "הקרב",
-      "gloss": "ichaklar"
+      "gloss": "ichki aʼzolar"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "barchasini"
+      "marks": "barcha yogʻni"
     },
     {
       "surface": "כל",
@@ -96,9 +96,9 @@
     },
     {
       "surface": "הקרב",
-      "gloss": "ichaklar"
+      "gloss": "ichki aʼzolar"
     }
   ],
-  "timestamp": "2026-08-26T01:08:30.362725491Z",
+  "timestamp": "2026-08-26T09:46:43.226286131Z",
   "model": "glm-5.3"
 }

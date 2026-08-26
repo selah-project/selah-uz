@@ -5,8 +5,73 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Chunki Peratsim togʻidagidek Yahve turadi, Givon vodiysidagidek gʻazablanadi — oʻz ishini qilish uchun, gʻaroyib ⟨⟨⟨dir⟩⟩ ⟨⟨⟨dir⟩⟩ ishini; va oʻz xizmatini bajarish uchun, begona xizmatini.",
-  "tokens": [],
-  "timestamp": "2026-08-26T04:19:20.371215246Z",
+  "translation": "Chunki Yahve Peratsim togʻidagidek koʻtariladi, Givʻon vodiysidagidek gʻazablanadi — oʻz ishini qilish uchun, begonadir uning ishi, va oʻz xizmatini bajarish uchun, begonadir uning xizmati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "…togʻidagidek"
+    },
+    {
+      "surface": "פרצים",
+      "gloss": "Peratsim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "koʻtariladi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "כעמק",
+      "gloss": "…vodiysidagidek"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "Givʻonda"
+    },
+    {
+      "surface": "ירגז",
+      "gloss": "gʻazablanadi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "qilish uchun"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "oʻz ishini"
+    },
+    {
+      "surface": "זר",
+      "gloss": "begonadir"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "uning ishi"
+    },
+    {
+      "surface": "ולעבד",
+      "gloss": "va bajarish uchun"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "oʻz xizmatini"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "begonadir"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "uning xizmati"
+    }
+  ],
+  "timestamp": "2026-08-26T09:55:14.312350491Z",
   "model": "glm-5.3"
 }

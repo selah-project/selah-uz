@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Va olsinlar qondan va surtsinlar ikki ustunga va eshik ustuniga — ⟨the⟩ oʻsha uylarga, ularda yer uni ⟨את⟩.",
+  "translation": "Va qondan olib, uni yeydiganlari uylarning ikki ustuniga va eshik ustki toʻsiniga surtmoqlari ⟨kerak⟩ — אתו ⟨את⟩ shu uylarda yeydilar.",
   "tokens": [
     {
       "surface": "ולקחו",
-      "gloss": "Va olsinlar"
+      "gloss": "va olmoqlari"
     },
     {
       "surface": "מן",
-      "gloss": "dan"
+      "gloss": "—dan"
     },
     {
       "surface": "הדם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "va surtsinlar"
+      "gloss": "va qoʻymoqlari"
     },
     {
       "surface": "על",
-      "gloss": "ga"
+      "gloss": "ustiga"
     },
     {
       "surface": "שתי",
@@ -33,42 +33,42 @@
     },
     {
       "surface": "המזוזת",
-      "gloss": "ustunga"
+      "gloss": "ustunlar"
     },
     {
       "surface": "ועל",
-      "gloss": "va ga"
+      "gloss": "va ustiga"
     },
     {
       "surface": "המשקוף",
-      "gloss": "eshik ustuniga"
+      "gloss": "eshik ustki toʻsini"
     },
     {
       "surface": "על",
-      "gloss": "ga"
+      "gloss": "ustida"
     },
     {
       "surface": "הבתים",
-      "gloss": "oʻsha uylarga"
+      "gloss": "uylar"
     },
     {
       "surface": "אשר",
-      "gloss": "ularda"
+      "gloss": "borki"
     },
     {
       "surface": "יאכלו",
-      "gloss": "yer"
+      "gloss": "yeydilar"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "uni (moʻysiz goʻshti)"
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni (qoʻyni) — «uni shu uylarda yeydilar»"
     },
     {
       "surface": "בהם",
-      "gloss": "ularda"
+      "gloss": "shu uylarda"
     }
   ],
-  "timestamp": "2026-08-26T00:53:07.505624693Z",
+  "timestamp": "2026-08-26T10:20:55.731148736Z",
   "model": "glm-5.3"
 }

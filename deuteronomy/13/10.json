@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Zero, uni albatta oʻldirginsan — qoʻling uni oʻldirishda birinchi boʻlsin, butun ⟨the⟩ xalqning qoʻli esa oxirida.",
+  "translation": "Chunki uni albatta oʻldirishing kerak — qoʻling unga qarshi birinchi boʻlib oʻlimga duchor qilish uchun boʻladi, va butun xalqning qoʻli esa oxirida.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "zero"
+      "gloss": "chunki"
     },
     {
       "surface": "הרג",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תהרגנו",
-      "gloss": "albatta oʻldirginsin"
+      "gloss": "uni albatta oʻldirasan"
     },
     {
       "surface": "ידך",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "boʻlsin"
+      "gloss": "boʻladi"
     },
     {
       "surface": "בו",
-      "gloss": "unda"
+      "gloss": "unga qarshi"
     },
     {
       "surface": "בראשונה",
-      "gloss": "birinchi"
+      "gloss": "birinchi boʻlib"
     },
     {
       "surface": "להמיתו",
-      "gloss": "uni oʻldirishda"
+      "gloss": "uni oʻlimga duchor qilish uchun"
     },
     {
       "surface": "ויד",
@@ -56,6 +56,6 @@
       "gloss": "oxirida"
     }
   ],
-  "timestamp": "2026-08-26T08:24:26.399523599Z",
+  "timestamp": "2026-08-26T09:49:59.442245889Z",
   "model": "glm-5.3"
 }

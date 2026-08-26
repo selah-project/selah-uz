@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va Shoulning amakisi aytdi: iltimos, menga aytib ber, Shemuel sizlarga nimа dedi?",
+  "translation": "Va Shoulning amakisi dedi: „Iltimos, menga aytib ber, Shemuel sizlarga nima dedi?“",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "va aytdi"
+      "gloss": "va dedi"
     },
     {
       "surface": "דוד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הגידה",
-      "gloss": "aitib ber"
+      "gloss": "aytib ber"
     },
     {
       "surface": "נא",
@@ -48,6 +48,6 @@
       "gloss": "Shemuel"
     }
   ],
-  "timestamp": "2026-08-26T02:46:38.687677538Z",
+  "timestamp": "2026-08-26T09:52:27.434128713Z",
   "model": "glm-5.3"
 }

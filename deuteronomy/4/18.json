@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 4,
-  "translation": "tuproqda sudralib yuruvchi ⟨the⟩ har qanday jonlivorning shakli, suvlardagi ⟨the⟩ — yerning ostidagi — ⟨the⟩ har qanday baliqning shakli",
+  "translation": "⟨the⟩ shakl of any sudralib yuruvchi in ⟨the⟩ tuproqda — ⟨the⟩ shakl of any baliq which is in suvlarda, pastda, ⟨the⟩ yerning.",
   "tokens": [
     {
       "surface": "תבנית",
-      "gloss": "shakli"
+      "gloss": "shakl"
     },
     {
       "surface": "כל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "תבנית",
-      "gloss": "shakli"
+      "gloss": "shakl"
     },
     {
       "surface": "כל",
@@ -33,25 +33,25 @@
     },
     {
       "surface": "דגה",
-      "gloss": "baliqning"
+      "gloss": "baliq"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "במים",
-      "gloss": "suvlardagi"
+      "gloss": "suvlarda"
     },
     {
       "surface": "מתחת",
-      "gloss": "ostidagi"
+      "gloss": "pastda"
     },
     {
       "surface": "לארץ",
-      "gloss": "yerning"
+      "gloss": "yerga tegishli"
     }
   ],
-  "timestamp": "2026-08-26T01:50:59.345085012Z",
+  "timestamp": "2026-08-26T10:22:00.247230911Z",
   "model": "glm-5.3"
 }

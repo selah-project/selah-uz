@@ -5,11 +5,11 @@
   "book": "ruth",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va oʻldi ikkalasi ham — Maxlon va Kilyon; va qoldi ⟨the⟩ ayol ikki farzandidan va eridan.",
+  "translation": "Va ikkalari — Maxlon va Kilyon ham oʻldi; va ⟨ayol⟩ oʻz ikki farzandidan va eridan qoldi.",
   "tokens": [
     {
       "surface": "וימותו",
-      "gloss": "va oʻldi"
+      "gloss": "va oʻldilar"
     },
     {
       "surface": "גם",
@@ -17,14 +17,14 @@
     },
     {
       "surface": "שניהם",
-      "gloss": "ikkalasi"
+      "gloss": "ikkalari"
     },
     {
       "surface": "מחלון",
       "gloss": "Maxlon"
     },
     {
-      "surface": "וכליון",
+      "surface": "ווכליון",
       "gloss": "va Kilyon"
     },
     {
@@ -33,11 +33,11 @@
     },
     {
       "surface": "האשה",
-      "gloss": "⟨the⟩ ayol"
+      "gloss": "⟨ayol⟩"
     },
     {
       "surface": "משני",
-      "gloss": "ikki"
+      "gloss": "ikkki"
     },
     {
       "surface": "ילדיה",
@@ -48,6 +48,6 @@
       "gloss": "va eridan"
     }
   ],
-  "timestamp": "2026-08-26T07:13:29.987995586Z",
+  "timestamp": "2026-08-26T10:02:38.051869272Z",
   "model": "glm-5.3"
 }

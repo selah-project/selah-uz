@@ -5,15 +5,15 @@
   "book": "2-samuel",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Va mana ⟨emas⟩mi sening bila u yerda Sadok va Evyatar, ⟨the⟩ kohinlar? Va boʻladiki: butun soʻzni ki eshitsan ⟨the⟩ shoh uyidan, xabar qilasan Sadokka va Evyatarga, ⟨the⟩ kohinlarga.",
+  "translation": "Va-uyoqmi: sening bilan u yerda Tsadok va Evyatar kohinlar bormi? Va boʻladiki, podshoh saroyidan eshitgan barcha soʻzni Tsadok va Evyatar kohinlarga yetkazasan.",
   "tokens": [
     {
       "surface": "והלוא",
-      "gloss": "Va mana emasmi"
+      "gloss": "va-uyoqmi"
     },
     {
       "surface": "עמך",
-      "gloss": "sening bila"
+      "gloss": "sening bilan"
     },
     {
       "surface": "שם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "צדוק",
-      "gloss": "Sadok"
+      "gloss": "Tsadok"
     },
     {
       "surface": "ואביתר",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "והיה",
-      "gloss": "Va boʻladiki"
+      "gloss": "va boʻladiki"
     },
     {
       "surface": "כל",
-      "gloss": "butun"
+      "gloss": "barcha"
     },
     {
       "surface": "הדבר",
-      "gloss": "soʻzni"
+      "gloss": "soʻz"
     },
     {
       "surface": "אשר",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "תשמע",
-      "gloss": "eshitsan"
+      "gloss": "eshitasan"
     },
     {
       "surface": "מבית",
-      "gloss": "uyidan"
+      "gloss": "saroyidan"
     },
     {
       "surface": "המלך",
-      "gloss": "shoh"
+      "gloss": "podshoh"
     },
     {
       "surface": "תגיד",
-      "gloss": "xabar qilasan"
+      "gloss": "yetkazasan"
     },
     {
       "surface": "לצדוק",
-      "gloss": "Sadokka"
+      "gloss": "Tsadokga"
     },
     {
       "surface": "ולאביתר",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "kohinlar"
+      "gloss": "kohinlarga"
     }
   ],
-  "timestamp": "2026-08-26T03:13:10.469124374Z",
+  "timestamp": "2026-08-26T09:53:43.989041796Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Oʻn uchinchi kunda, Adar oyida, ⟨ular⟩ tinch oldi — uning oʻn toʻrtinchisida, va uni ziyofat va quvonch kuni qildi.",
+  "translation": "Oyning oʻn uchinchi kunida — Adar oyida — va oʻn toʻrtinchi kunida ular dam oldilar va uni ziyofat va quvnoch kuni qildilar.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "kundа"
+      "gloss": "kunida"
     },
     {
       "surface": "שלשה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לחדש",
-      "gloss": "oyida"
+      "gloss": "oyga"
     },
     {
       "surface": "אדר",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "ונוח",
-      "gloss": "va tinch oldi"
+      "gloss": "va dam oldilar"
     },
     {
       "surface": "בארבעה",
-      "gloss": "toʻrtinchisida"
+      "gloss": "toʻrtida"
     },
     {
       "surface": "עשר",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "ועשה",
-      "gloss": "va qildi"
+      "gloss": "va qildilar"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "uni (kuni)"
+      "marks": "uni"
     },
     {
       "surface": "יום",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "ושמחה",
-      "gloss": "va quvonch"
+      "gloss": "va quvnoch"
     }
   ],
-  "timestamp": "2026-08-26T07:26:13.058342573Z",
+  "timestamp": "2026-08-26T10:03:21.976686694Z",
   "model": "glm-5.3"
 }

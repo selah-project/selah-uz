@@ -5,19 +5,19 @@
   "book": "esther",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Va qirol oʻz podshohligining barcha viloyatlariga nazoratchilarni tayinlasin, va ular chiroyli koʻrinishli barcha bokira qizlarni ⟨את⟩ Shushan qalʼasiga, ayollar uyiga, qirolning xizmatkori, ayollar qoʻriqchisi Hegay qoʻliga yigʻsinlar; va ularga poklanish vositalari berilsin.",
+  "translation": "Va podshoh oʻz mulkining barcha viloyatlarida nozirlarni tayinlasin, va ular ⟨את⟩ barcha goʻzal koʻrinishli qiz-bokiralarni Shushan qalʼasiga, ayollar uyiga, podshohning saroyi, ayollarning qoʻriqchisi boʻlgan Gʻay soqilining qoʻliga yigʻsinlar, va ularning poklanish vositalari berilsin.",
   "tokens": [
     {
       "surface": "ויפקד",
-      "gloss": "va tayinlasin"
+      "gloss": "tayinlasin"
     },
     {
       "surface": "המלך",
-      "gloss": "qirol"
+      "gloss": "podshoh"
     },
     {
       "surface": "פקידים",
-      "gloss": "nazоratchilarni"
+      "gloss": "nozirlarni"
     },
     {
       "surface": "בכל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מדינות",
-      "gloss": "viloyatlariga"
+      "gloss": "viloyatlarida"
     },
     {
       "surface": "מלכותו",
-      "gloss": "oʻz podshohligining"
+      "gloss": "oʻz mulkining"
     },
     {
       "surface": "ויקבצו",
@@ -38,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "barcha bokira qizlarni"
+      "marks": "barcha goʻzal koʻrinishli qiz-bokiralarni"
     },
     {
       "surface": "כל",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "טובת",
-      "gloss": "chiroyli"
+      "gloss": "goʻzal"
     },
     {
       "surface": "מראה",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "הבירה",
-      "gloss": "qalʼasiga"
+      "gloss": "qalʼasi"
     },
     {
       "surface": "אל",
@@ -86,23 +86,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "qoʻliga"
+      "gloss": "ga"
     },
     {
       "surface": "יד",
-      "gloss": "qoʻl"
+      "gloss": "qoʻli"
     },
     {
       "surface": "הגא",
-      "gloss": "Hegay"
+      "gloss": "Gʻay"
     },
     {
       "surface": "סריס",
-      "gloss": "xizmatkori (sarıs)"
+      "gloss": "soqili"
     },
     {
       "surface": "המלך",
-      "gloss": "qirolning"
+      "gloss": "podshohning"
     },
     {
       "surface": "שמר",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "הנשים",
-      "gloss": "ayollar"
+      "gloss": "ayollarning"
     },
     {
       "surface": "ונתון",
@@ -118,9 +118,9 @@
     },
     {
       "surface": "תמרוקיהן",
-      "gloss": "poklanish vositalari"
+      "gloss": "ularning poklanish vositalari"
     }
   ],
-  "timestamp": "2026-08-26T07:23:45.106283898Z",
+  "timestamp": "2026-08-26T10:02:50.159813785Z",
   "model": "glm-5.3"
 }

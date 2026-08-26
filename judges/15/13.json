@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Unga aytishdi: «Yoʻq, balki seni mustahkam bogʻlaymiz va seni ularning qoʻliga topshiramiz, faqat seni oʻldirmaymiz». Va uni ikki yangi arqon bilan bogʻladilar va uni qoyadan olib chiqdilar.",
+  "translation": "Unga aytishdi: „Yoʻq, biz seni mustahkam bogʻlaymiz va seni ularning qoʻliga topshiramiz, lekin oʻldirmaymiz — yoʻq, seni oʻldirmaymiz“. Uni yangi ikki arqon bilan bogʻladilar va uni qoyadan olib chiqdilar.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "va aytishdi"
+      "gloss": "aytishdi"
     },
     {
       "surface": "לו",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "balki"
+      "gloss": "—"
     },
     {
       "surface": "אסר",
-      "gloss": "bogʻlaymiz"
+      "gloss": "bogʻlamoq"
     },
     {
       "surface": "נאסרך",
-      "gloss": "seni mustahkam bogʻlab"
+      "gloss": "seni bogʻlaymiz"
     },
     {
       "surface": "ונתנוך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "והמת",
-      "gloss": "va oʻldirish"
+      "gloss": "va oʻldirmoq"
     },
     {
       "surface": "לא",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "מן",
-      "gloss": "–dan"
+      "gloss": "dan"
     },
     {
       "surface": "הסלע",
-      "gloss": "⟨the⟩ qoyadan"
+      "gloss": "qoyadan"
     }
   ],
-  "timestamp": "2026-08-26T08:27:47.686449987Z",
+  "timestamp": "2026-08-26T09:52:08.007380722Z",
   "model": "glm-5.3"
 }

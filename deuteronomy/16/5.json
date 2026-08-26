@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Yoʻq ⟨senda⟩ qila olmaysan ⟨את⟩ Pesax qurbonini sochlab, ⟨bironta⟩ darvozalaringdan,俏ki Yahve Elohiming senga beradi",
+  "translation": "Pesaxni ⟨את⟩ qurbon qilib soʻyishga ⟨⟩qodir boʻlmaysan ⟨⟩ emas, balki — ⟨את⟩ Pesaxni bitta darvozangiz ichida, bittasida soʻyib boʻlmaydi — senga Yahve Elohiming berayotgan darvozalaringning birortasida ⟨את⟩ Pesaxni soʻya olmaysan.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "תוכל",
-      "gloss": "qila olmaysan"
+      "gloss": "qodir boʻlmaysan"
     },
     {
-      "surface": "לזבבח",
-      "gloss": "sochib"
+      "surface": "לזבח",
+      "gloss": "soʻyishga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Pesax qurbonini"
+      "marks": "Pesaxni"
     },
     {
       "surface": "הפסח",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "באחד",
-      "gloss": "birontasida"
+      "gloss": "bittasida"
     },
     {
       "surface": "שעריך",
-      "gloss": "darvozalaringda"
+      "gloss": "darvozalaring"
     },
     {
       "surface": "אשר",
-      "gloss": "buki"
+      "gloss": "ki"
     },
     {
       "surface": "יהוה",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "נתן",
-      "gloss": "beradi"
+      "gloss": "berayotgan"
     },
     {
       "surface": "לך",
       "gloss": "senga"
     }
   ],
-  "timestamp": "2026-08-26T01:56:02.552026154Z",
+  "timestamp": "2026-08-26T09:50:11.705936316Z",
   "model": "glm-5.3"
 }

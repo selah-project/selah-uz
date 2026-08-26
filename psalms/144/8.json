@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 144,
-  "translation": "Ularki, ogʻizlari soʻzma-soʻz yolgʻon gapiradi va oʻng qoʻllari — yolgʻon oʻng qoʻl ⟨is⟩.",
+  "translation": "Ularki ogʻizlari soʻzsiz gapiradi va ularning oʻng qoʻli yolgʻon oʻng qoʻldir.",
   "tokens": [
     {
       "surface": "אשר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "פיהם",
-      "gloss": "ogʻizlari"
+      "gloss": "ularning ogʻizlari"
     },
     {
       "surface": "דבר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "שוא",
-      "gloss": "yolgʻon"
+      "gloss": "boʻsh soʻzsiz"
     },
     {
       "surface": "וימינם",
-      "gloss": "va oʻng qoʻllari"
+      "gloss": "va ularning oʻng qoʻli"
     },
     {
       "surface": "ימין",
@@ -36,6 +36,6 @@
       "gloss": "yolgʻon"
     }
   ],
-  "timestamp": "2026-08-26T06:37:25.266702031Z",
+  "timestamp": "2026-08-26T10:01:14.491582006Z",
   "model": "glm-5.3"
 }

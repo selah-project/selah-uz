@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 30,
-  "translation": "Agur, Yakeh oʻgʻlining soʻzlari — ⟨bu⟩ yuk, odamning vahyi: Itielga, Itielga va Ukalgа.",
+  "translation": "Agur, Yakening oʻgʻlining soʻzlari — ⟨the⟩ mashna; ⟨the⟩ odamning bayoni: Itielga, Itielga va Ukalga.",
   "tokens": [
     {
       "surface": "דברי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "יקה",
-      "gloss": "Yakeh"
+      "gloss": "Yakening"
     },
     {
       "surface": "המשא",
-      "gloss": "yuk"
+      "gloss": "mashna"
     },
     {
       "surface": "נאם",
-      "gloss": "vahyi"
+      "gloss": "bayoni"
     },
     {
       "surface": "הגבר",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "ואכל",
-      "gloss": "va Ukalgа"
+      "gloss": "va Ukalga"
     }
   ],
-  "timestamp": "2026-08-26T06:52:18.034081147Z",
+  "timestamp": "2026-08-26T10:24:16.130004263Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Mana, biz yerга kirganimizda, sen bizni tushirgan derazaga shu qizil ipning arqonini bogʻlaysan, va ⟨את⟩ otangni va ⟨את⟩ onangni va ⟨את⟩ aka-ukalaringni va ⟨את⟩ ota-uyingning butun xonadonini uyingga, oʻzingga toʻplaysan.",
+  "translation": "Mana, biz mamlakatga kelganimizda, ⟨את⟩ bu qizil ip arqonini sen bizni tushirgan derazaga bogʻlaysan, va ⟨את⟩ otangni va ⟨את⟩ onangni va ⟨את⟩ aka-ukalaringni va ⟨את⟩ otangning butun uyini oʻzingga, uyga yigʻaysan.",
   "tokens": [
     {
       "surface": "הנה",
-      "gloss": "mana"
+      "gloss": "Mana"
     },
     {
       "surface": "אנחנו",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "באים",
-      "gloss": "kirganimizda"
+      "gloss": "kelganimizda"
     },
     {
       "surface": "בארץ",
-      "gloss": "yerga"
+      "gloss": "mamlakatga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qizil ipning arqonini"
+      "marks": "bu qizil ip arqonini"
     },
     {
       "surface": "תקות",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "shu"
+      "gloss": "bu"
     },
     {
       "surface": "תקשרי",
@@ -94,7 +94,7 @@
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "ota-uyingning butun xonadonini"
+      "marks": "otangning butun uyini"
     },
     {
       "surface": "כל",
@@ -102,15 +102,15 @@
     },
     {
       "surface": "בית",
-      "gloss": "ota-uyingning"
+      "gloss": "uy"
     },
     {
       "surface": "אביך",
-      "gloss": "otang"
+      "gloss": "otangning"
     },
     {
       "surface": "תאספי",
-      "gloss": "toʻplaysan"
+      "gloss": "yigʻaysan"
     },
     {
       "surface": "אליך",
@@ -118,9 +118,9 @@
     },
     {
       "surface": "הביתה",
-      "gloss": "uyingga"
+      "gloss": "uyga"
     }
   ],
-  "timestamp": "2026-08-26T02:10:42.237595989Z",
+  "timestamp": "2026-08-26T09:51:07.390064532Z",
   "model": "glm-5.3"
 }

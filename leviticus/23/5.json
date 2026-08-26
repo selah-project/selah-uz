@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Birinchi oyda, oyning oʻn toʻrtinchisida, oqshomlar orasida, Pesax — Yahvegа.",
+  "translation": "Birinchi oyda, oyning oʻn toʻrtinchisida, oqshomlar oraligʻida — Pesax, Yahve uchun.",
   "tokens": [
     {
       "surface": "בחדש",
-      "gloss": "birinchi oyda oyda"
+      "gloss": "oyda"
     },
     {
       "surface": "הראשון",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": "(-toʻrt)"
+      "gloss": "…toʻrt"
     },
     {
       "surface": "לחדש",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בין",
-      "gloss": "orasida"
+      "gloss": "oraligʻida"
     },
     {
       "surface": "הערבים",
-      "gloss": "oqshomlarning"
+      "gloss": "oqshomlar"
     },
     {
       "surface": "פסח",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahve uchun"
     }
   ],
-  "timestamp": "2026-08-26T01:20:49.850006589Z",
+  "timestamp": "2026-08-26T09:47:15.632920365Z",
   "model": "glm-5.3"
 }

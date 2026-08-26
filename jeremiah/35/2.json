@@ -5,40 +5,40 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 35,
-  "translation": "Boring Rekablar uyiga va ularga soʻylagin, va ularni Yahve uyiga, ⟨the⟩ xonalardan biriga olib kirgin, va ularga vino ichirgin.",
+  "translation": "Bor, Rechabilar uyiga, va ularga gapir, va ularni Yahvening uyiga, laxtlardan biriga olib kir, va ularga ichish uchun vino ber.",
   "tokens": [
     {
       "surface": "הלוך",
-      "gloss": "Boring"
+      "gloss": "bor"
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "-ga"
     },
     {
       "surface": "בית",
-      "gloss": "uyiga"
+      "gloss": "uy"
     },
     {
       "surface": "הרכבים",
-      "gloss": "Rekablar"
+      "gloss": "Rechabilar"
     },
     {
       "surface": "ודברת",
-      "gloss": "va soʻylagin"
+      "gloss": "va gapir"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ularga",
-      "marks": "ular"
+      "gloss": "⟨את⟩",
+      "marks": "ular (Rechabilar)"
     },
     {
       "surface": "והבאותם",
-      "gloss": "va olib kirgin"
+      "gloss": "va ularni olib kir"
     },
     {
       "surface": "בית",
-      "gloss": "uyiga"
+      "gloss": "uy"
     },
     {
       "surface": "יהוה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "-ga"
     },
     {
       "surface": "אחת",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "הלשכות",
-      "gloss": "xonalardan"
+      "gloss": "laxtlar"
     },
     {
       "surface": "והשקית",
-      "gloss": "va ichirgin"
+      "gloss": "va ichirasiz"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ularga",
+      "gloss": "⟨את⟩",
       "marks": "ular"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "vino"
     }
   ],
-  "timestamp": "2026-08-26T04:57:21.964885795Z",
+  "timestamp": "2026-08-26T09:56:05.005767568Z",
   "model": "glm-5.3"
 }

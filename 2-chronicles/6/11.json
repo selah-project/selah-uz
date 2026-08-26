@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Va u yerga ⟨את⟩ sandiqni qoʻydim — unda Yahvening ahdidir, u Isroil oʻgʻillari bilan olgan.",
+  "translation": "Va u yerga ⟨את⟩ Aronni qoʻydim — u yerda Yahve ahdidir, u Isroil oʻgʻillari bilan kesgan ahddir.",
   "tokens": [
     {
       "surface": "ואשים",
-      "gloss": "va qoʻydim"
+      "gloss": "Va qoʻydim"
     },
     {
       "surface": "שם",
@@ -18,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sandiqni"
+      "marks": "Aron"
     },
     {
       "surface": "הארון",
-      "gloss": "⟨the⟩ sandiqni"
+      "gloss": "Aron"
     },
     {
       "surface": "אשר",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "שם",
-      "gloss": "unda"
+      "gloss": "u yerda"
     },
     {
       "surface": "ברית",
-      "gloss": "ahdi"
+      "gloss": "ahd"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahvening"
+      "gloss": "Yahve"
     },
     {
       "surface": "אשר",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "כרת",
-      "gloss": "u olgan"
+      "gloss": "kesdi"
     },
     {
       "surface": "עם",
@@ -61,6 +61,6 @@
       "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T08:05:42.434014666Z",
+  "timestamp": "2026-08-26T10:07:25.519690975Z",
   "model": "glm-5.3"
 }

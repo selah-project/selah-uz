@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Qaytib chekingan yurak oʻz yoʻllaridan toʻyadi, va yaxshi odam ⟨is⟩ oʻz ustidan ⟨toʻyadi⟩.",
+  "translation": "Oʻz yoʻllaridan ⟨toʻyadi⟩ orqaga chekinuvchi yurak, va oʻzi ustidan ⟨toʻyadi⟩ yaxshi odam.",
   "tokens": [
     {
       "surface": "מדרכיו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "סוג",
-      "gloss": "chekingan (yurak)"
+      "gloss": "chetkinuvchi"
     },
     {
       "surface": "לב",
@@ -25,10 +25,10 @@
     },
     {
       "surface": "ומעליו",
-      "gloss": "va oʻz ustidan"
+      "gloss": "va oʻzi ustidan"
     },
     {
-      "surface": "אישׁ",
+      "surface": "איש",
       "gloss": "odam"
     },
     {
@@ -36,6 +36,6 @@
       "gloss": "yaxshi"
     }
   ],
-  "timestamp": "2026-08-26T06:44:12.386149245Z",
+  "timestamp": "2026-08-26T10:01:58.989077681Z",
   "model": "glm-5.3"
 }

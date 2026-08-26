@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Chunki siz hozirgacha tinchlik maskaniga va merosga kelgansiz emas — Yahve Elohimingiz sizga bergan ⟨the⟩ merosga.",
+  "translation": "Chunki siz hozirgacha tinchlik-moningizga va merosga kelmagansiz — ⟨את⟩ ulardir — sizi Yahve, Elohimingiz sizga beradi.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "yoʻq"
     },
     {
       "surface": "באתם",
-      "gloss": "kelgansiz"
+      "gloss": "kelmagansiz"
     },
     {
       "surface": "עד",
-      "gloss": "hozirgacha"
+      "gloss": "–gacha"
     },
     {
       "surface": "עתה",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "–ga"
     },
     {
       "surface": "המנוחה",
-      "gloss": "⟨the⟩ tinchlik maskani"
+      "gloss": "tinchlik-monish"
     },
     {
       "surface": "ואל",
-      "gloss": "va...ga"
+      "gloss": "va –ga"
     },
     {
       "surface": "הנחלה",
-      "gloss": "⟨the⟩ meros"
+      "gloss": "meros"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "buni"
     },
     {
       "surface": "יהוה",
@@ -64,6 +64,6 @@
       "gloss": "sizga"
     }
   ],
-  "timestamp": "2026-08-26T01:56:58.464119542Z",
+  "timestamp": "2026-08-26T09:50:02.167978861Z",
   "model": "glm-5.3"
 }

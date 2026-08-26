@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Endi ⟨the⟩ oxir sen ustinga, va gʻazabimni sen ustiga yuboraman, va seni yoʻllaring boʻyicha hukm qilaman, va sen ustiga ⟨את⟩ barcha jirkanchliklaringni qoʻyaman.",
+  "translation": "Endi oxir sen ustinga keldi, va gʻazabimni sen ustinga yubordim, va seni yoʻllaring boʻyicha hukm qildim, va ⟨את⟩ barcha yominlaringni sen ustinga qoʻydimga.",
   "tokens": [
     {
       "surface": "עתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ושלחתי",
-      "gloss": "va yuboraman"
+      "gloss": "va yubordim"
     },
     {
       "surface": "אפי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בך",
-      "gloss": "sen ustiga"
+      "gloss": "senga"
     },
     {
       "surface": "ושפטתיך",
-      "gloss": "va seni hukm qilaman"
+      "gloss": "va seni hukm qildim"
     },
     {
       "surface": "כדרכיך",
@@ -41,16 +41,16 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "va qoʻyaman"
+      "gloss": "va qoʻydimga"
     },
     {
       "surface": "עליך",
-      "gloss": "sen ustiga"
+      "gloss": "sen ustinga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "barcha jirkanchliklaringni"
+      "marks": "barcha yominlaringni"
     },
     {
       "surface": "כל",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "תועבתיך",
-      "gloss": "jirkanchliklaringni"
+      "gloss": "yominlaringni"
     }
   ],
-  "timestamp": "2026-08-26T05:10:42.047755237Z",
+  "timestamp": "2026-08-26T09:56:45.837447878Z",
   "model": "glm-5.3"
 }

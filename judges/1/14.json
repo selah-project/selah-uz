@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va boʻldi, u kelganda, u otasidan ⟨את⟩ dalani soʻrashga erini koʻndirdi; va u eshakdan tushdi; va Kalev unga aytdi: Senga nima?",
+  "translation": "Va boʻldi: u kelganda, u uni otasidan ⟨את⟩ dalani soʻrashga koʻndirdi, va u eshakdan tushdi, va Kalev unga aytdi: „Senga nima boʻldi?“",
   "tokens": [
     {
       "surface": "ויהי",
@@ -25,8 +25,8 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ ... dan",
-      "marks": "dala (otasidan)"
+      "gloss": "⟨את⟩",
+      "marks": "dala (otasi tegidan)"
     },
     {
       "surface": "אביה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "השדה",
-      "gloss": "⟨the⟩ dalani"
+      "gloss": "dalani"
     },
     {
       "surface": "ותצנח",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "va aytdi"
+      "gloss": "va u aytdi"
     },
     {
       "surface": "לה",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "מה",
-      "gloss": "Nima"
+      "gloss": "nima"
     },
     {
       "surface": "לך",
       "gloss": "senga"
     }
   ],
-  "timestamp": "2026-08-26T02:24:58.883356322Z",
+  "timestamp": "2026-08-26T09:51:44.893633612Z",
   "model": "glm-5.3"
 }

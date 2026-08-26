@@ -5,7 +5,7 @@
   "book": "hosea",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Agar sen, Isroil, zino qilsang — Yehuda aybdor boʻlmasin; va Gilgalga bormanglar va Beyt-Avenga koʻtarilmanglar va „Yahve tirik“ deb qasam ichmanglar.",
+  "translation": "Agar sen zino qilsang, Yisroel, Yehuda aybdor boʻlmasin; va Gilgalga kirmanglar va Bet-Avenga chiqmanglar va «Yahve tirik» deb qasam ichmanglar.",
   "tokens": [
     {
       "surface": "אם",
@@ -21,27 +21,27 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil"
+      "gloss": "Yisroel"
     },
     {
       "surface": "אל",
-      "gloss": "boʻlmasin"
+      "gloss": "…masin"
     },
     {
       "surface": "יאשם",
-      "gloss": "aybdor boʻlsin"
+      "gloss": "aybdor boʻl-"
     },
     {
       "surface": "יהודה",
       "gloss": "Yehuda"
     },
     {
-      "surface": "ואל",
-      "gloss": "va"
+      "surface": "וואל",
+      "gloss": "va …manglar"
     },
     {
       "surface": "תבאו",
-      "gloss": "bormanglar"
+      "gloss": "kirmanglar"
     },
     {
       "surface": "הגלגל",
@@ -49,23 +49,23 @@
     },
     {
       "surface": "ואל",
-      "gloss": "va"
+      "gloss": "va …manglar"
     },
     {
       "surface": "תעלו",
-      "gloss": "koʻtarilmanglar"
+      "gloss": "chiqmanglar"
     },
     {
       "surface": "בית",
-      "gloss": "uy"
+      "gloss": "Bet-"
     },
     {
       "surface": "און",
-      "gloss": "Avengа"
+      "gloss": "Aven"
     },
     {
       "surface": "ואל",
-      "gloss": "va"
+      "gloss": "va …manglar"
     },
     {
       "surface": "תשבעו",
@@ -80,6 +80,6 @@
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-26T05:35:58.342172133Z",
+  "timestamp": "2026-08-26T09:57:50.327695249Z",
   "model": "glm-5.3"
 }

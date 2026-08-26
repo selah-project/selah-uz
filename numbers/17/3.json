@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 17,
-  "translation": "⟨את⟩ olov idishlari — ⟨the⟩ shu gunohkorlarning, oʻz jonlari evaziga — va ulardan qilsinlar surilgan ⟨the⟩ mis plitalarni, ⟨the⟩ taxtani qoplash uchun, chunki ⟨את⟩ ularni Yahve huzuriga keltirdilar va ular muqaddas boʻldilar, va Isroil oʻgʻillariga belgi boʻlsinlar.",
+  "translation": "⟨את⟩ Olov gabaritlari shu gunohkorlarning — oʻz jonlari bahosida — va qilsinlar ularni ⟨את⟩ qorga urilgan plitalardan, qoplama sifatida altarga, chunki keltirilgan ular Yahve huzuriga va muqaddas boʻldilar; va boʻlsinlar belgi Isroil oʻgʻillariga.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olov idishlari"
+      "marks": "olov gabaritlarini"
     },
     {
       "surface": "מחתות",
-      "gloss": "olov idishlari"
+      "gloss": "olov gabaritlari"
     },
     {
       "surface": "החטאים",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "בנפשתם",
-      "gloss": "oʻz jonlari evaziga"
+      "gloss": "oʻz jonlari bahosida"
     },
     {
       "surface": "ועשו",
@@ -34,23 +34,24 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ularni"
+      "gloss": "⟨את⟩ ularni",
+      "marks": "qorga urilgan plitalarni"
     },
     {
       "surface": "רקעי",
-      "gloss": "surilgan plitalarni"
+      "gloss": "qorga urilgan plitalar"
     },
     {
       "surface": "פחים",
-      "gloss": "mis plitalarni"
+      "gloss": "plitalar"
     },
     {
       "surface": "צפוי",
-      "gloss": "qoplash uchun"
+      "gloss": "qoplama"
     },
     {
       "surface": "למזבח",
-      "gloss": "taxtani"
+      "gloss": "altarga"
     },
     {
       "surface": "כי",
@@ -58,7 +59,7 @@
     },
     {
       "surface": "הקריבם",
-      "gloss": "keltirdilar ularni"
+      "gloss": "keltirilgan"
     },
     {
       "surface": "לפני",
@@ -89,6 +90,6 @@
       "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T01:36:03.783141472Z",
+  "timestamp": "2026-08-26T09:49:00.799492609Z",
   "model": "glm-5.3"
 }

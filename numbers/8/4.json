@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Va bu ⟨is⟩ menoraning ishlanishi: suyok qilib urilgan oltin — sonigacha, gulgunchagigacha — suyok qilingan; Yahve Moshega ⟨את⟩ koʻrsatgan koʻrinishdagidek, shunday qilib menorani ⟨את⟩ yasadi.",
+  "translation": "Va bu — menoraning ishi: urib yasalgan oltin, tagidan gullarigacha urib yasalgandir ⟨u⟩; Yahve Moshega koʻrsatgan manzaradayoq, shunday qilib ⟨u⟩ menorani yasadi.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "va bu"
+      "gloss": "Va bu"
     },
     {
       "surface": "מעשה",
-      "gloss": "ishlanishi"
+      "gloss": "ishi"
     },
     {
       "surface": "המנרה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מקשה",
-      "gloss": "suyok qilingan"
+      "gloss": "urib yasalgan"
     },
     {
       "surface": "זהב",
@@ -29,35 +29,35 @@
     },
     {
       "surface": "עד",
-      "gloss": "—gacha"
+      "gloss": "tagidan"
     },
     {
       "surface": "ירכה",
-      "gloss": "sonigacha"
+      "gloss": "uning tagigacha"
     },
     {
       "surface": "עד",
-      "gloss": "—gacha"
+      "gloss": "gullarigacha"
     },
     {
       "surface": "פרחה",
-      "gloss": "gulgunchagigacha"
+      "gloss": "uning gullarigacha"
     },
     {
       "surface": "מקשה",
-      "gloss": "suyok qilingan"
+      "gloss": "urib yasalgan"
     },
     {
       "surface": "הוא",
-      "gloss": "u"
+      "gloss": "⟨u⟩"
     },
     {
       "surface": "כמראה",
-      "gloss": "koʻrinishdagidek"
+      "gloss": "manzaradayoq"
     },
     {
       "surface": "אשר",
-      "gloss": "…gan"
+      "gloss": "ki"
     },
     {
       "surface": "הראה",
@@ -70,11 +70,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Moshega"
+      "marks": "Moshe"
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Moshega"
     },
     {
       "surface": "כן",
@@ -87,13 +87,13 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "menorani"
+      "marks": "menora"
     },
     {
       "surface": "המנרה",
       "gloss": "menorani"
     }
   ],
-  "timestamp": "2026-08-26T01:29:50.378031382Z",
+  "timestamp": "2026-08-26T09:48:12.493228593Z",
   "model": "glm-5.3"
 }

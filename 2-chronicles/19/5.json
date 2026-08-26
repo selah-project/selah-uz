@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Va u Yehudaning ⟨the⟩ mustahkamlangan shaharlarining barchasida, shaharlab, mamlakatda sudyalarni tayinladi.",
+  "translation": "Va u Yehudaning barcha mustahkam shaharlarida, shahar-shahar, mamlakatda hakamlarni tayinladi.",
   "tokens": [
     {
       "surface": "ויעמד",
-      "gloss": "va tayinladi"
+      "gloss": "va u tayinladi"
     },
     {
       "surface": "שפטים",
-      "gloss": "sudyalar"
+      "gloss": "hakamlarni"
     },
     {
       "surface": "בארץ",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בכל",
-      "gloss": "barchasida"
+      "gloss": "barcha"
     },
     {
       "surface": "ערי",
-      "gloss": "shaharlari"
+      "gloss": "shaharlarida"
     },
     {
       "surface": "יהודה",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "הבצרות",
-      "gloss": "mustahkamlangan"
+      "gloss": "mustahkam"
     },
     {
       "surface": "לעיר",
-      "gloss": "shaharlab"
+      "gloss": "shahar"
     },
     {
       "surface": "ועיר",
-      "gloss": "har bir shaharga"
+      "gloss": "-shahar"
     }
   ],
-  "timestamp": "2026-08-26T08:11:16.412507441Z",
+  "timestamp": "2026-08-26T10:05:52.784120635Z",
   "model": "glm-5.3"
 }

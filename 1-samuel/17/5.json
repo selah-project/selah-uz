@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Va boshida misr dubulgʻa, u esa qalqonli zirih ⟨edi⟩ kiygan, va ⟨the⟩ zirihning ogʻirligi besh ming shikel misr ⟨edi⟩.",
+  "translation": "Va boshida mis dubulgʻa bor edi, u qoʻrgʻoshin tangachali zirh kiygan edi, zirhning ogʻirligi esa besh ming shikel mis edi.",
   "tokens": [
     {
       "surface": "וכובע",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "misr"
+      "gloss": "mis"
     },
     {
       "surface": "על",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "boshining"
+      "gloss": "boshi"
     },
     {
       "surface": "ושריון",
-      "gloss": "va zirih"
+      "gloss": "va zirh"
     },
     {
       "surface": "קשקשים",
-      "gloss": "qalqon-tangalardan"
+      "gloss": "tangachali"
     },
     {
       "surface": "הוא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לבוש",
-      "gloss": "kiygan edi"
+      "gloss": "kiygan"
     },
     {
       "surface": "ומשקל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "השריון",
-      "gloss": "zirihning"
+      "gloss": "zirhning"
     },
     {
       "surface": "חמשת",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "misr"
+      "gloss": "mis"
     }
   ],
-  "timestamp": "2026-08-26T02:50:37.869032052Z",
+  "timestamp": "2026-08-26T09:52:19.668159689Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Qoʻldan qoʻlga — yovuz <⟨he⟩> jazosiz qolmaydi, solihlarning nasli esa qutuladi.",
+  "translation": "Qoʻldan qoʻlga yomon jazosiz qolmaydi, ammo solihlarning nasli qutuladi.",
   "tokens": [
     {
       "surface": "יד",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "רע",
-      "gloss": "yovuz"
+      "gloss": "yomon"
     },
     {
       "surface": "וזרע",
-      "gloss": "va nasli"
+      "gloss": "va…ning nasli"
     },
     {
       "surface": "צדיקים",
@@ -40,6 +40,6 @@
       "gloss": "qutuladi"
     }
   ],
-  "timestamp": "2026-08-26T08:45:47.093062192Z",
+  "timestamp": "2026-08-26T10:07:09.922623763Z",
   "model": "glm-5.3"
 }

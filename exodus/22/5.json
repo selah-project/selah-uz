@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 22,
-  "translation": "Agar olov chiqsa va tikanlarni topsa, va boshoq davrasi yoki tikka ekin yoki ⟨the⟩ dala yeyib yuborilsa — olov yoqqan kishi toʻliq qoplaydi ⟨את⟩ yondirishni.",
+  "translation": "Agar olov chiqib, tikanlarni yopib olsa va don damoni yoki boʻlgʻan don yoki ⟨the⟩ dala yonib ketsa, oʻt yoqqan kishi ⟨את⟩ yoqqan olovining zararini toʻliq qoplasin.",
   "tokens": [
     {
       "surface": "כי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "תצא",
-      "gloss": "chiqsa"
+      "gloss": "chiqib"
     },
     {
       "surface": "אש",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "ומצאה",
-      "gloss": "va topsa"
+      "gloss": "va yopib olsa"
     },
     {
       "surface": "קצים",
-      "gloss": "tikanlar"
+      "gloss": "tikanlarni"
     },
     {
       "surface": "ונאכל",
-      "gloss": "va yeyilsa"
+      "gloss": "va yonib ketsa"
     },
     {
       "surface": "גדיש",
-      "gloss": "boshoq davrasi"
+      "gloss": "don damoni"
     },
     {
       "surface": "או",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הקמה",
-      "gloss": "tikka ekin"
+      "gloss": "boʻlgʻan don"
     },
     {
       "surface": "או",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "השדה",
-      "gloss": "dala"
+      "gloss": "⟨the⟩ dala"
     },
     {
       "surface": "שלם",
@@ -57,22 +57,22 @@
     },
     {
       "surface": "ישלם",
-      "gloss": "qoplaydi"
+      "gloss": "qoplasin"
     },
     {
       "surface": "המבער",
-      "gloss": "olov yoqqan kishi"
+      "gloss": "oʻt yoqqan kishi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yondirishni"
+      "marks": "yoqqan olovining zararini"
     },
     {
       "surface": "הבערה",
-      "gloss": "yondirish"
+      "gloss": "yoqqan olovining zararini"
     }
   ],
-  "timestamp": "2026-08-26T00:58:24.460189408Z",
+  "timestamp": "2026-08-26T10:21:05.409134148Z",
   "model": "glm-5.3"
 }

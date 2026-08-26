@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Va eshitsa kan'oniylar va yerning barcha yashovchilari, va bizning ustimizga yurishsa, va ⟨את⟩ nomimizni yerdan kesib tashlasalar — ⟨u⟩ buyuk Ismingga nima qilursan?",
+  "translation": "Va kashshoklar va yerning barcha yashovchilari eshitsa, bizning atrofimizni oʻrab, ⟨את⟩ bizning nomimizni yerdan qirib tashlasalar — Sendan Buyuk Isming uchun nima qilasan?»",
   "tokens": [
     {
       "surface": "וישמעו",
@@ -13,11 +13,7 @@
     },
     {
       "surface": "הכנעני",
-      "gloss": "kan'oniylar"
-    },
-    {
-      "surface": "ויכל",
-      "gloss": ""
+      "gloss": "kashshoklar"
     },
     {
       "surface": "וכל",
@@ -33,7 +29,7 @@
     },
     {
       "surface": "ונסבו",
-      "gloss": "va ustimizga yurishsa"
+      "gloss": "va oʻrashsa"
     },
     {
       "surface": "עלינו",
@@ -41,16 +37,16 @@
     },
     {
       "surface": "והכריתו",
-      "gloss": "⟨את⟩ va kesib tashlasalar"
+      "gloss": "va qirib tashlasa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nomimizni"
+      "marks": "bizning nomimizni"
     },
     {
       "surface": "שמנו",
-      "gloss": "nomimizni"
+      "gloss": "bizning nomimizni"
     },
     {
       "surface": "מן",
@@ -58,7 +54,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "yerdan"
+      "gloss": "yer"
     },
     {
       "surface": "ומה",
@@ -66,17 +62,17 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "qilursan"
+      "gloss": "qilasan"
     },
     {
       "surface": "לשמך",
-      "gloss": "Ishingga"
+      "gloss": "Sendan Isming uchun"
     },
     {
       "surface": "הגדול",
-      "gloss": "buyuk"
+      "gloss": "Buyuk"
     }
   ],
-  "timestamp": "2026-08-26T02:13:13.206670519Z",
+  "timestamp": "2026-08-26T10:25:32.649720622Z",
   "model": "glm-5.3"
 }

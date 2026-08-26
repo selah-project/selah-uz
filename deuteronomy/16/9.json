@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Yetti hafta sen sanaysan; oʻroq ⟨the⟩ boshoqqa qoʻyilgandan boshlab yetti haftani sanashni boshlaysan.",
+  "translation": "Yetti hafta ⟨את⟩ oʻzingga sanagin; oʻroq dalillarga qoʻyilgandan boshlab yetti haftani sanashga boshlagin.",
   "tokens": [
     {
       "surface": "שבעה",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "תספר",
-      "gloss": "sanaysan"
+      "gloss": "sanagin"
     },
     {
       "surface": "לך",
-      "gloss": "sen"
+      "gloss": "oʻzingga"
     },
     {
       "surface": "מהחל",
-      "gloss": "boshlab"
+      "gloss": "boshlangandan"
     },
     {
       "surface": "חרמש",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "בקמה",
-      "gloss": "boshoqqa"
+      "gloss": "dalillarga"
     },
     {
       "surface": "תחל",
-      "gloss": "boshlaysan"
+      "gloss": "boshlagin"
     },
     {
       "surface": "לספר",
-      "gloss": "sanashni"
+      "gloss": "sanashga"
     },
     {
       "surface": "שבעה",
@@ -52,6 +52,6 @@
       "gloss": "hafta"
     }
   ],
-  "timestamp": "2026-08-26T01:55:30.563507270Z",
+  "timestamp": "2026-08-26T09:50:16.691014214Z",
   "model": "glm-5.3"
 }

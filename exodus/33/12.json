@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 33,
-  "translation": "Va Moshe Yahvega dedi: Qarаygin, Sen menga aytmoqdasan: „Bu xalqni olib chiq“, va Sen menga kimga ⟨את⟩ yuborishingni bildirmading; va Sen aytiding: „Men seni isming bilan bilaman, va Sen ham koʻzlarimda xayr topding“.",
+  "translation": "Va Moshe Yahvegʻa aytdi: qarayotirsan, sen menga aytmoqdasan: „Bu xalqni ⟨את⟩ koʻtarib bor“, ammo sen menga bildirmading sen mening bilan kimni yuborishni; va sen aytding: „Men seni ism bilan bilaman“, va shuningdek, sen koʻzlarimda xesed-favor topding“.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Va dedi"
+      "gloss": "va aytdi"
     },
     {
       "surface": "משה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ראה",
-      "gloss": "Qaraygin"
+      "gloss": "qarayotirsan"
     },
     {
       "surface": "אתה",
-      "gloss": "Sen"
+      "gloss": "sen"
     },
     {
       "surface": "אמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "העל",
-      "gloss": "olib chiq"
+      "gloss": "koʻtarib bor"
     },
     {
       "surface": "את",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "xalq"
+      "gloss": "xalqni"
     },
     {
       "surface": "הזה",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "va Sen"
+      "gloss": "va sen"
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "yoʻq"
     },
     {
       "surface": "הודעתני",
@@ -71,7 +71,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kimga yuborishingni"
+      "marks": "kimni (asher — sen yuboradigan kishi)"
     },
     {
       "surface": "אשר",
@@ -79,19 +79,19 @@
     },
     {
       "surface": "תשלח",
-      "gloss": "yuborishing"
+      "gloss": "yuborasan"
     },
     {
       "surface": "עמי",
-      "gloss": "men bilan"
+      "gloss": "mening bilan"
     },
     {
       "surface": "ואתה",
-      "gloss": "va Sen"
+      "gloss": "va sen"
     },
     {
       "surface": "אמרת",
-      "gloss": "aytiding"
+      "gloss": "aytding"
     },
     {
       "surface": "ידעתיך",
@@ -99,11 +99,11 @@
     },
     {
       "surface": "בשם",
-      "gloss": "isming bilan"
+      "gloss": "ism bilan"
     },
     {
       "surface": "וגם",
-      "gloss": "va ham"
+      "gloss": "va shuningdek"
     },
     {
       "surface": "מצאת",
@@ -111,13 +111,13 @@
     },
     {
       "surface": "חן",
-      "gloss": "xayr"
+      "gloss": "xesed-favor"
     },
     {
       "surface": "בעיני",
       "gloss": "koʻzlarimda"
     }
   ],
-  "timestamp": "2026-08-26T01:05:00.384567798Z",
+  "timestamp": "2026-08-26T09:46:13.742795677Z",
   "model": "glm-5.3"
 }

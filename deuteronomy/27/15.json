@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Laʼnatlangan ⟨⟨the⟩⟩ odamki, u Yahvegʻa yomonlik — xandaqor ustasining qoʻl mehnati boʻlgan oʻyil haykal va quyma tasvirni yasab, uni yashirin joyga qoʻyadi; va butun xalq javob berib: Omin, der.",
+  "translation": "Laʼnatlangan — oʻsha odamki, Yahve nazdida yomatilgan, ustunninging qoʻli mahsuloti boʻlgan, nafratli haykal va quyma tasvirni yasasa va uni pinhonda qoʻysa. Va butun xalim javob berib aytdilar: Omin.",
   "tokens": [
     {
       "surface": "ארור",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "yasab"
+      "gloss": "yasasa"
     },
     {
       "surface": "פסל",
-      "gloss": "oʻyil haykal"
+      "gloss": "haykal"
     },
     {
       "surface": "ומסכה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "תועבת",
-      "gloss": "yomonlik"
+      "gloss": "nafratli"
     },
     {
       "surface": "יהוה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מעשה",
-      "gloss": "mehnati"
+      "gloss": "mahsulot"
     },
     {
       "surface": "ידי",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "חרש",
-      "gloss": "xandaqor usta"
+      "gloss": "ustunining"
     },
     {
       "surface": "ושם",
-      "gloss": "va qoʻyadi"
+      "gloss": "va qoʻysa"
     },
     {
       "surface": "בסתר",
-      "gloss": "yashirin joyda"
+      "gloss": "pinhonda"
     },
     {
       "surface": "וענו",
-      "gloss": "va javob berib"
+      "gloss": "va javob berdilar"
     },
     {
       "surface": "כל",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "ואמרו",
-      "gloss": "der"
+      "gloss": "va aytdilar"
     },
     {
       "surface": "אמן",
       "gloss": "Omin"
     }
   ],
-  "timestamp": "2026-08-26T08:25:12.976248401Z",
+  "timestamp": "2026-08-26T10:22:15.645078709Z",
   "model": "glm-5.3"
 }

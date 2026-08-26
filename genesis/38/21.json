@@ -5,28 +5,28 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 38,
-  "translation": "Va u soʻradi ⟨את⟩ ⟨the⟩ joy odamlaridan, deyib: «Qayerda ⟨the⟩ qodscha — u Enayimda, yoʻl ustida?» Va ular aytdilar: «Yoʻq, bu joyda qodscha boʻlgan emas.»",
+  "translation": "Va u ⟨את⟩ oʻsha joyning odamlaridan soʻradi, deb: «Qayerda qadasha — u Enayimda, yoʻl ustida?» Va ular aytdilar: «Bu yerda qadasha boʻlmagan.»",
   "tokens": [
     {
       "surface": "וישאל",
-      "gloss": "Va u soʻradi"
+      "gloss": "soʻradi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "joy odamlarini"
+      "marks": "oʻsha joyning odamlari"
     },
     {
       "surface": "אנשי",
-      "gloss": "odamlaridan"
+      "gloss": "odamlari"
     },
     {
       "surface": "מקמה",
-      "gloss": "uning joyining"
+      "gloss": "oʻsha joyning"
     },
     {
       "surface": "לאמר",
-      "gloss": "deyib"
+      "gloss": "deb"
     },
     {
       "surface": "איה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הקדשה",
-      "gloss": "qodscha"
+      "gloss": "qadasha"
     },
     {
       "surface": "הוא",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "Va ular aytdilar"
+      "gloss": "va ular aytdilar"
     },
     {
       "surface": "לא",
@@ -62,17 +62,17 @@
     },
     {
       "surface": "היתה",
-      "gloss": "boʻlgan"
+      "gloss": "boʻlmagan"
     },
     {
       "surface": "בזה",
-      "gloss": "bu joyda"
+      "gloss": "bu yerda"
     },
     {
       "surface": "קדשה",
-      "gloss": "qodscha"
+      "gloss": "qadasha"
     }
   ],
-  "timestamp": "2026-08-26T00:45:14.504566261Z",
+  "timestamp": "2026-08-26T09:44:51.483558378Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Ularni mustahkamlash uchun — har yili, yildan-yilga, Adar oyining oʻn toʻrtinchi kunini va ⟨את⟩ shu oyning oʻn beshinchi kunini qilib ⟨the⟩ bayram qilishlari uchun.",
+  "translation": "Ularga mustahkam qilish uchun — ⟨את⟩ oʻn toʻrtinchi kuni Adar oyining va ⟨את⟩ oʻn beshinchi kuni shu oyning, har yili va yili bajaradigan boʻlishlari uchun,",
   "tokens": [
     {
       "surface": "לקים",
-      "gloss": "mustahkamlash uchun"
+      "gloss": "mustahkam qilish uchun"
     },
     {
       "surface": "עליהם",
-      "gloss": "ularni"
+      "gloss": "ularga"
     },
     {
       "surface": "להיות",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "עשים",
-      "gloss": "qilib"
+      "gloss": "bajaradigan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kunini"
+      "marks": "oʻn toʻrtinchi kuni"
     },
     {
       "surface": "יום",
-      "gloss": "kunini"
+      "gloss": "kuni"
     },
     {
       "surface": "ארבעה",
-      "gloss": "oʻn toʻrtinchi"
+      "gloss": "oʻn toʻrtinchi (toʻrt)"
     },
     {
       "surface": "עשר",
-      "gloss": "oʻn toʻrtinchi"
+      "gloss": "(oʻn)"
     },
     {
       "surface": "לחדש",
@@ -51,23 +51,23 @@
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "kunini"
+      "marks": "oʻn beshinchi kuni"
     },
     {
       "surface": "יום",
-      "gloss": "kunini"
+      "gloss": "kuni"
     },
     {
       "surface": "חמשה",
-      "gloss": "oʻn beshinchi"
+      "gloss": "oʻn beshinchi (besh)"
     },
     {
       "surface": "עשר",
-      "gloss": "oʻn beshinchi"
+      "gloss": "(oʻn)"
     },
     {
       "surface": "בו",
-      "gloss": "shu oyning"
+      "gloss": "shu oyda"
     },
     {
       "surface": "בכל",
@@ -79,9 +79,9 @@
     },
     {
       "surface": "ושנה",
-      "gloss": "yildan-yilga"
+      "gloss": "va yili"
     }
   ],
-  "timestamp": "2026-08-26T07:26:46.133020412Z",
+  "timestamp": "2026-08-26T10:03:31.991264981Z",
   "model": "glm-5.3"
 }

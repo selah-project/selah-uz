@@ -5,12 +5,12 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 25,
-  "translation": "va ⟨את⟩ Tsurning barcha podshohlarini, ⟨את⟩ Tsidonning barcha podshohlarini va ⟨את⟩ dengiz naridagi orol ⟨the⟩ podshohlarini,",
+  "translation": "va ⟨את⟩ barcha Tsur podshohlarini, va ⟨את⟩ barcha Tsidon podshohlarini, va ⟨את⟩ dengiz narigi tomonidagi ⟨⟩ orol podshohlarini",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
-      "marks": "Tsur podshohlarini"
+      "gloss": "⟨את⟩ va",
+      "marks": "barcha Tsur podshohlari"
     },
     {
       "surface": "כל",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "podshohlarini"
+      "gloss": "podshohlari"
     },
     {
       "surface": "צר",
@@ -26,8 +26,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
-      "marks": "Tsidon podshohlarini"
+      "gloss": "⟨את⟩ va",
+      "marks": "barcha Tsidon podshohlari"
     },
     {
       "surface": "כל",
@@ -35,38 +35,38 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "podshohlarini"
+      "gloss": "podshohlari"
     },
     {
       "surface": "צידון",
-      "gloss": "Tsidonning"
+      "gloss": "Tsidon"
     },
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
-      "marks": "orol podshohlarini"
+      "gloss": "⟨את⟩ va",
+      "marks": "orol podshohlari"
     },
     {
       "surface": "מלכי",
-      "gloss": "podshohlarini"
+      "gloss": "podshohlari"
     },
     {
       "surface": "האי",
-      "gloss": "orolning"
+      "gloss": "orol"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "בעבר",
-      "gloss": "narida"
+      "gloss": "narigi tomonida"
     },
     {
       "surface": "הים",
       "gloss": "dengiz"
     }
   ],
-  "timestamp": "2026-08-26T04:50:40.106542819Z",
+  "timestamp": "2026-08-26T09:56:02.895539334Z",
   "model": "glm-5.3"
 }

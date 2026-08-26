@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va chinidan, yashaydi Yahve, Yisroelning Elohimi, ki meni ⟨את⟩ seni yomonlikdan tiydi; chunki agar sen shoshilmaganda va menga roʻbaroʻ kelmaganda, albatta Nabalga tong nuri ⟨yetgacha⟩ devorga siyadigan ⟨erkak⟩ qolmasdi.",
+  "translation": "Ammo tirikdir Yahve, Isroilning Elohisi, kim meni seni yomonlik qilishdan tiydi, — chunki agar sen shoshilmagan va menga qarshi kelmagan boʻlsang, albatta Navalgacha tong yorishgacha devorga siyadigan ⟨erkak⟩ qolmasdi.",
   "tokens": [
     {
       "surface": "ואולם",
-      "gloss": "va chinidan"
+      "gloss": "ammo"
     },
     {
       "surface": "חי",
-      "gloss": "yashaydi"
+      "gloss": "tirikdir"
     },
     {
       "surface": "יהוה",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohimi"
+      "gloss": "Elohisi"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisroelning"
+      "gloss": "Isroilning"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "kim"
     },
     {
       "surface": "מנעני",
-      "gloss": "tiydi meni"
+      "gloss": "meni tiydi"
     },
     {
       "surface": "מהרע",
-      "gloss": "yomonlikdan"
+      "gloss": "yomonlik qilishdan"
     },
     {
       "surface": "אתך",
@@ -50,19 +50,19 @@
     },
     {
       "surface": "לולי",
-      "gloss": "agar boʻlmaganda"
+      "gloss": "agar ... boʻlmaganda"
     },
     {
       "surface": "מהרת",
-      "gloss": "shoshilmaganda"
+      "gloss": "sen shoshilmagan"
     },
     {
       "surface": "ותבאתי",
-      "gloss": "va kelmaganda"
+      "gloss": "va kelgan"
     },
     {
       "surface": "לקראתי",
-      "gloss": "menga roʻbaroʻ"
+      "gloss": "menga qarshi"
     },
     {
       "surface": "כי",
@@ -70,9 +70,37 @@
     },
     {
       "surface": "אם",
-      "gloss": "вapащ—"
+      "gloss": "…masdan"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "qolmasdi"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "Navalgacha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "gacha"
+    },
+    {
+      "surface": "אור",
+      "gloss": "yorishigacha"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "tong"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "siyadigan"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "devorga"
     }
   ],
-  "timestamp": "2026-08-26T08:29:49.726161116Z",
+  "timestamp": "2026-08-26T09:52:45.288039094Z",
   "model": "glm-5.3"
 }

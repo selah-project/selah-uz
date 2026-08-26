@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Va oʻn birinchi yilda, Bul oyida — u sakkizinchi oy — bayot uning barcha ishlari va barcha qoidalarigi boʻyicha tamomlandi, va u uni yetti yilda qurdi.",
+  "translation": "Va oʻn birinchi yilda, Bul oyida — u sakkizinchi oy — uy uning barcha ishlari va barcha qoidalari boʻyicha tamom boʻldi, va uni yetti yilda qurdi.",
   "tokens": [
     {
       "surface": "ובשנה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "האחת",
-      "gloss": "bir"
+      "gloss": "oʻn birinchi"
     },
     {
       "surface": "עשרה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כלה",
-      "gloss": "tamomlandi"
+      "gloss": "tamom boʻldi"
     },
     {
       "surface": "הבית",
-      "gloss": "bayot"
+      "gloss": "uy"
     },
     {
       "surface": "לכל",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "דבריו",
-      "gloss": "is hlari"
+      "gloss": "uning ishlari"
     },
     {
       "surface": "ולכל",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "משפטו",
-      "gloss": "qoidalarigi"
+      "gloss": "uning qoidalari"
     },
     {
       "surface": "ויבנהו",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "שנים",
-      "gloss": "yilda"
+      "gloss": "yil"
     }
   ],
-  "timestamp": "2026-08-26T03:28:17.346286310Z",
+  "timestamp": "2026-08-26T09:53:41.428494866Z",
   "model": "glm-5.3"
 }

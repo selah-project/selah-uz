@@ -5,7 +5,7 @@
   "book": "obadiah",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va Yaakov bayti ⟨is⟩ oʻt boʻladi, va Yosef bayti — alanga, va Esav bayti — somon; va ular ularga yonib, ularni yutib yuboradilar, va Esav baytiga qoldiq qolmaydi, chunki Yahve soʻzladi.",
+  "translation": "Va Yaakov uyi olov boʻladi, Yossef uyi — alanga, Esav uyi esa — somon; va ular ⟨ular orasida⟩ yondiriladi va ularni yutib yuboradi, va Esav uyiga qoldiq boʻlmaydi, chunki Yahve soʻzladi.",
   "tokens": [
     {
       "surface": "והיה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "bayti"
+      "gloss": "uyi"
     },
     {
       "surface": "יעקב",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אש",
-      "gloss": "oʻt"
+      "gloss": "olov"
     },
     {
       "surface": "ובית",
-      "gloss": "va ... bayti"
+      "gloss": "va uyi"
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosef"
+      "gloss": "Yossef"
     },
     {
       "surface": "להבה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ובית",
-      "gloss": "va ... bayti"
+      "gloss": "va uyi"
     },
     {
       "surface": "עשו",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "ודלקו",
-      "gloss": "va yonadilar"
+      "gloss": "va yondiriladi"
     },
     {
       "surface": "בהם",
-      "gloss": "ularda"
+      "gloss": "ular orasida"
     },
     {
       "surface": "ואכלום",
-      "gloss": "va ularni yutib yuboradilar"
+      "gloss": "va ularni yutadi"
     },
     {
       "surface": "ולא",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "לבית",
-      "gloss": "...baytiga"
+      "gloss": "uyiga"
     },
     {
       "surface": "עשו",
@@ -92,6 +92,6 @@
       "gloss": "soʻzladi"
     }
   ],
-  "timestamp": "2026-08-26T05:43:02.706237235Z",
+  "timestamp": "2026-08-26T09:58:35.586251443Z",
   "model": "glm-5.3"
 }

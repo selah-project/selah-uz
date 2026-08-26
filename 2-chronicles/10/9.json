@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va u ularga dedi: nimaga maslahatlashyapsizlar, va ⟨את⟩ bu xalqqa javob beraylik — ularki menga shunday dedilar: oting bizning ustimizga qoʻygan ⟨the⟩ boyundan yengillashtir.",
+  "translation": "Va u ularga aytdi: nima ⟨sizlar⟩ maslahat beryapsizlar, va qanday soʻz bilan ⟨את⟩ bu xalqqa javob beraylik — u menga: otang bizning ustimizga qoʻygan boʻyinturuqdan yengillashtir, deb soʻzlagan?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "va u dedi"
+      "gloss": "va u aytdi"
     },
     {
       "surface": "אלהם",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "אתם",
-      "gloss": "sizlar"
+      "gloss": "⟨sizlar⟩"
     },
     {
       "surface": "נועצים",
-      "gloss": "maslahatlashyapsizlar"
+      "gloss": "maslahat beryapsizlar"
     },
     {
-      "surface": "ונשיב",
+      "surface": "וישיב",
       "gloss": "va javob beraylik"
     },
     {
       "surface": "דבר",
-      "gloss": "javob"
+      "gloss": "soʻz"
     },
     {
       "surface": "את",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ularki"
+      "gloss": "ki"
     },
     {
       "surface": "דברו",
-      "gloss": "dedilar"
+      "gloss": "soʻzlagan"
     },
     {
       "surface": "אלי",
@@ -74,11 +74,11 @@
     },
     {
       "surface": "העל",
-      "gloss": "boyundan"
+      "gloss": "boʻyinturuq"
     },
     {
       "surface": "אשר",
-      "gloss": "niki"
+      "gloss": "ki"
     },
     {
       "surface": "נתן",
@@ -86,13 +86,13 @@
     },
     {
       "surface": "אביך",
-      "gloss": "oting"
+      "gloss": "otang"
     },
     {
       "surface": "עלינו",
       "gloss": "bizning ustimizga"
     }
   ],
-  "timestamp": "2026-08-26T08:08:00.508468276Z",
+  "timestamp": "2026-08-26T10:07:55.356276029Z",
   "model": "glm-5.3"
 }

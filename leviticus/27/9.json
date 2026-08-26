@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Va agar hayvon boʻlsa, kimki undan Yahvegа qurbonlik yaqinlashtirsa — undan Yahvegа beriladigan har narsa muqaddas boʻladi.",
+  "translation": "Va agar ⟨bu⟩ hayvon boʻlsa, undan Yahvegʻa qurb olib keladigan ⟨turi⟩ — uni Yahvegʻa beriladigan hamma narsa muqaddas boʻladi.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Va agar"
+      "gloss": "va agar"
     },
     {
       "surface": "בהמה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "יקריבו",
-      "gloss": "yaqinlashtirsa"
+      "gloss": "olib keladigan"
     },
     {
       "surface": "ממנה",
@@ -29,31 +29,31 @@
     },
     {
       "surface": "קרבן",
-      "gloss": "qurbonlik"
+      "gloss": "qurb"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahvegʻa"
     },
     {
       "surface": "כל",
-      "gloss": "har narsa"
+      "gloss": "hamma narsa"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "-ki"
     },
     {
       "surface": "יתן",
-      "gloss": "beradi"
+      "gloss": "beriladigan"
     },
     {
       "surface": "ממנו",
-      "gloss": "undan"
+      "gloss": "uni"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahvegʻa"
     },
     {
       "surface": "יהיה",
@@ -64,6 +64,6 @@
       "gloss": "muqaddas"
     }
   ],
-  "timestamp": "2026-08-26T01:25:16.796083126Z",
+  "timestamp": "2026-08-26T09:47:15.306536803Z",
   "model": "glm-5.3"
 }

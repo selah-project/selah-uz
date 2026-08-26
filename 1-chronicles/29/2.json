@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 29,
-  "translation": "Va butun kuchi bilan Elohimimning uyi uchun tayyorladim: ⟨the⟩ oltin — oltin ⟨buyumlar⟩ uchun, va ⟨the⟩ kumush — kumush uchun, va ⟨the⟩ mis — mis uchun, ⟨the⟩ temir — temir uchun, va ⟨the⟩ yogʻoch — yogʻoch uchun; shoham toshlari va oʻrnatilgan toshlar, boʻyok toshlari va rang-barang toshlar, va har qimmatli tosh, va shayish toshlari — moʻl-koʻl.",
+  "translation": "Va butun kuchiim bilan Elohimning uyi uchun tayyorladim: oltin — oltin uchun, kumush — kumush uchun, mis — mis uchun, temir — temir uchun, daraxt — daraxt uchun, shoham toshlari va toʻldiruvchi toshlar, boʻyoq toshlari va tikilgan ranglar, va har qimmatbaho tosh, va shayish toshlari — moʻl-koʻl.",
   "tokens": [
     {
       "surface": "וככל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "כחי",
-      "gloss": "kuchi bilan"
+      "gloss": "kuchim bilan"
     },
     {
       "surface": "הכינותי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohimimning"
+      "gloss": "Elohimning"
     },
     {
       "surface": "הזהב",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "והעצים",
-      "gloss": "va yogʻoch"
+      "gloss": "va daraxt"
     },
     {
       "surface": "לעצים",
-      "gloss": "yogʻoch uchun"
+      "gloss": "daraxt uchun"
     },
     {
       "surface": "אבני",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "ומלואים",
-      "gloss": "va oʻrnatilgan toshlar"
+      "gloss": "va toʻldiruvchilar"
     },
     {
       "surface": "אבני",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "פוך",
-      "gloss": "boʻyok"
+      "gloss": "boʻyoq"
     },
     {
       "surface": "ורקמה",
-      "gloss": "va rang-barang"
+      "gloss": "va tikilgan rang"
     },
     {
       "surface": "וכל",
@@ -101,7 +101,7 @@
     },
     {
       "surface": "יקרה",
-      "gloss": "qimmatli"
+      "gloss": "qimmatbaho"
     },
     {
       "surface": "ואבני",
@@ -113,9 +113,9 @@
     },
     {
       "surface": "לרב",
-      "gloss": "moʻl-koʻl"
+      "gloss": "moʻl-koʻl uchun"
     }
   ],
-  "timestamp": "2026-08-26T08:04:36.512500722Z",
+  "timestamp": "2026-08-26T10:05:26.528955309Z",
   "model": "glm-5.3"
 }

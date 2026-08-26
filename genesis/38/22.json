@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 38,
-  "translation": "Va u Yehudaga qaytdi va aytdi: «Uni topmadim»; va ham ⟨the⟩ joy odamlari aytdilar: «Yoʻq, bu joyda qodscha boʻlmagan.»",
+  "translation": "Va u Yehudaga qaytdi va aytdi: «Men uni topa olmadim», va ham oʻsha joyning odamlari aytdilar: «Bu yerda qadasha boʻlmagan.»",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "Va u qaytdi"
+      "gloss": "qaytdi"
     },
     {
       "surface": "אל",
-      "gloss": "huzuriga"
+      "gloss": "…ga"
     },
     {
       "surface": "יהודה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "…mading"
     },
     {
       "surface": "מצאתיה",
-      "gloss": "topmadim uni"
+      "gloss": "topa olmadim uni"
     },
     {
       "surface": "וגם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "joyning"
+      "gloss": "oʻsha joyning"
     },
     {
       "surface": "אמרו",
@@ -53,17 +53,17 @@
     },
     {
       "surface": "היתה",
-      "gloss": "boʻlgan"
+      "gloss": "boʻlmagan"
     },
     {
       "surface": "בזה",
-      "gloss": "bu joyda"
+      "gloss": "bu yerda"
     },
     {
       "surface": "קדשה",
-      "gloss": "qodscha"
+      "gloss": "qadasha"
     }
   ],
-  "timestamp": "2026-08-26T00:45:14.504864084Z",
+  "timestamp": "2026-08-26T09:44:51.483824129Z",
   "model": "glm-5.3"
 }

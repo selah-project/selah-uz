@@ -5,8 +5,81 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va, ham undoģī ki soʻramagansiz — senga berdim: ham boylik, ham šukuh, undoģī ki sendek odam podšohlarda boʻlmagan barcha kunlaringda.",
-  "tokens": [],
-  "timestamp": "2026-08-26T03:26:28.051180259Z",
+  "translation": "Va yana nimani soʻramagan boʻlsang, uni ham senga berdim — boylik ham, kavod ham; seniki kabi hech bir odam podshohlar orasida butun kunlaring davomida boʻlmagan.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "va yana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nimani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "...magan"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "soʻramagan boʻlsang"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "berdim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "senga"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "boylik"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ham"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod (ulugʻvorlik)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...ki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "emas"
+    },
+    {
+      "surface": "היה",
+      "gloss": "boʻlmagan"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "seniki kabi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "odam"
+    },
+    {
+      "surface": "במלכים",
+      "gloss": "podshohlar orasida"
+    },
+    {
+      "surface": "כל",
+      "gloss": "butun"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "kunlaring davomida"
+    }
+  ],
+  "timestamp": "2026-08-26T10:06:42.835974186Z",
   "model": "glm-5.3"
 }

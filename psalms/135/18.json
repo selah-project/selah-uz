@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 135,
-  "translation": "Ulargа oʻxshab boʻlurlar ularni yasaganlar — har kimki ularga tayanadi.",
+  "translation": "Ulgulardek ⟨boʻladi⟩ ularni yasaganlari — ularga ishonganlarning hammasi.",
   "tokens": [
     {
       "surface": "כמוהם",
-      "gloss": "ularga oʻxshab"
+      "gloss": "ulardek"
     },
     {
-      "surface": "יהיו",
-      "gloss": "boʻlurlar"
+      "surface": "יהיה",
+      "gloss": "⟨boʻladi⟩"
     },
     {
       "surface": "עשיהם",
-      "gloss": "ularni yasaganlar"
+      "gloss": "ularni yasaganlari"
     },
     {
       "surface": "כל",
-      "gloss": "har kim"
+      "gloss": "hammasi"
     },
     {
       "surface": "אשר",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "בטח",
-      "gloss": "tayanadi"
+      "gloss": "ishonganlarning"
     },
     {
       "surface": "בהם",
       "gloss": "ularga"
     }
   ],
-  "timestamp": "2026-08-26T06:35:18.864200007Z",
+  "timestamp": "2026-08-26T10:01:12.299306001Z",
   "model": "glm-5.3"
 }

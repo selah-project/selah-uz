@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 119,
-  "translation": "Yahve ⟨is⟩ mening ulushim — deb aytdim: soʻzlaringni saqlashga.",
+  "translation": "Meros-ulushim Yahve — deb aytdim ⟨את⟩ soʻzlaringni saqlashga.",
   "tokens": [
     {
       "surface": "חלקי",
-      "gloss": "mening ulushim"
+      "gloss": "meros-ulushim"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמרתי",
-      "gloss": "deb aytdim"
+      "gloss": "aytdim"
     },
     {
       "surface": "לשמר",
@@ -28,6 +28,6 @@
       "gloss": "soʻzlaringni"
     }
   ],
-  "timestamp": "2026-08-26T06:31:51.863297040Z",
+  "timestamp": "2026-08-26T10:01:07.882658246Z",
   "model": "glm-5.3"
 }

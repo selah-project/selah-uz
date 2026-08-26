@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 32,
-  "translation": "Va ⟨the⟩ lavhalar — Elohimning ishi ⟨ular⟩, va ⟨the⟩ yozuv — Elohimning yozuvi ⟨u⟩, lavhalarga oʻyib yozilgan.",
+  "translation": "Lavhalar esa Elohimning ishi ⟨edilar⟩, yozuv — Elohimning yozuvi, lavhalar ustiga oʻyib yozilgan ⟨edi⟩.",
   "tokens": [
     {
       "surface": "והלחת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohimning"
+      "gloss": "Elohim"
     },
     {
       "surface": "המה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohimning"
+      "gloss": "Elohim"
     },
     {
       "surface": "הוא",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "על",
-      "gloss": "—ga"
+      "gloss": "ustiga"
     },
     {
       "surface": "הלחת",
       "gloss": "lavhalarga"
     }
   ],
-  "timestamp": "2026-08-26T01:03:59.781028329Z",
+  "timestamp": "2026-08-26T09:46:12.927848282Z",
   "model": "glm-5.3"
 }

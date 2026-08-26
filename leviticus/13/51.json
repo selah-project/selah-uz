@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va yettinchi kunda koʻrsin ⟨את⟩ zararni: agar zarar yoyilgan boʻlsa kiyimda, yoki arqonda, yoki ariqda, yoki terida — teridan ish uchun qilinadigan har qanday narsada — ⟨u⟩ yemiruvchi moxov, ⟨the⟩ zarar; iflosdir u.",
+  "translation": "Va u yettinchi kunda ⟨את⟩ nuqsonni koʻradi: agar nuqson kiyimda yoki arqonda yoki aʼdoda yoki terida — teridan ish uchun qilinadigan hamma narsada — tarqalgan boʻlsa, nuqson yeyuvchi tsaraatdir; u nopokdir.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "Va koʻrsin"
+      "gloss": "va u koʻradi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "zarar"
+      "marks": "nuqsonni"
     },
     {
       "surface": "הנגע",
-      "gloss": "zararni"
+      "gloss": "nuqson"
     },
     {
       "surface": "ביום",
@@ -30,15 +30,15 @@
     },
     {
       "surface": "כי",
-      "gloss": "agar"
+      "gloss": "chunki"
     },
     {
       "surface": "פשה",
-      "gloss": "yoyilgan boʻlsa"
+      "gloss": "tarqalgan"
     },
     {
       "surface": "הנגע",
-      "gloss": "zarar"
+      "gloss": "nuqson"
     },
     {
       "surface": "בבגד",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "בערב",
-      "gloss": "ariqda"
+      "gloss": "aʼdoda"
     },
     {
       "surface": "או",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "har qanday"
+      "gloss": "hamma"
     },
     {
       "surface": "אשר",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "העור",
-      "gloss": "teri"
+      "gloss": "teridan"
     },
     {
       "surface": "למלאכה",
@@ -90,25 +90,25 @@
     },
     {
       "surface": "צרעת",
-      "gloss": "moxov"
+      "gloss": "tsaraat"
     },
     {
       "surface": "ממארת",
-      "gloss": "yemiruvchi"
+      "gloss": "yeyuvchi"
     },
     {
       "surface": "הנגע",
-      "gloss": "zarar"
+      "gloss": "nuqson"
     },
     {
       "surface": "טמא",
-      "gloss": "iflos"
+      "gloss": "nopok"
     },
     {
       "surface": "הוא",
       "gloss": "u"
     }
   ],
-  "timestamp": "2026-08-26T01:16:13.015279129Z",
+  "timestamp": "2026-08-26T09:47:09.110017186Z",
   "model": "glm-5.3"
 }

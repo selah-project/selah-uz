@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Yovligʻing seni tarbiyalaydi, va qaytmalaring seni qoralaydi; bilgin va koʻrgin: yomon va achchiqdir — Yahve, Elohimingni tark qilganing, va Mening hurmatim ⟨is⟩ senda yoʻq — deydi Adonay, Yahve Tsevaot.",
+  "translation": "Seni yovuzliging tarbiyalaydi, va moyboʻshliklaring seni qoralaydi; bilgin va koʻrgin, chunki yomon va achchiqdir — Yahveni, Elohimingni ⟨את⟩ tark etganing, va Mening ulugʻvor qoʻrqinchim yoʻq senda, — degan Adonay Yahve Tsevaot.",
   "tokens": [
     {
       "surface": "תיסרך",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "רעתך",
-      "gloss": "yovligʻing"
+      "gloss": "yovuzliging"
     },
     {
       "surface": "ומשבותיך",
-      "gloss": "va qaytmalaring"
+      "gloss": "va moyboʻshliklaring"
     },
     {
       "surface": "תוכחך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "ki"
+      "gloss": "chunki"
     },
     {
       "surface": "רע",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "עזבך",
-      "gloss": "tark qilganing"
+      "gloss": "tark etganing"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahve"
+      "marks": "Yahveni"
     },
     {
       "surface": "יהוה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohiming"
+      "gloss": "Elohimingni"
     },
     {
       "surface": "ולא",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "פחדתי",
-      "gloss": "hurmatim"
+      "gloss": "ulugʻvor qoʻrqinchim"
     },
     {
       "surface": "אליך",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "deydi"
+      "gloss": "degan"
     },
     {
       "surface": "אדני",
@@ -89,6 +89,6 @@
       "gloss": "Tsevaot"
     }
   ],
-  "timestamp": "2026-08-26T04:36:52.225895422Z",
+  "timestamp": "2026-08-26T09:56:04.807658987Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Va u uni Shivʼa deb atadi; shuning uchun shahar nomi <b>Beer-Sheva<\/b>, oʻsha kungacha — <b>Bugungacha<\/b>.",
+  "translation": "Va uni Shivʼa deb chaqirdi; shuning uchun shahar nomi Bear-Sheba ⟨boʻldi⟩ — shu kungacha.",
   "tokens": [
     {
       "surface": "ויקרא",
-      "gloss": "va u... atadi"
+      "gloss": "va chaqirdi"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "Shivʼa"
+      "marks": "uni (Shivʼani)"
     },
     {
       "surface": "שבעה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "על",
-      "gloss": "shuning ustidan"
+      "gloss": "shuning uchun"
     },
     {
       "surface": "כן",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "העיר",
-      "gloss": "shaharning"
+      "gloss": "shahar"
     },
     {
       "surface": "באר",
-      "gloss": "quduq — <b>Beer-<\/b>"
+      "gloss": "Bear"
     },
     {
       "surface": "שבע",
-      "gloss": "<b>-Sheva<\/b>"
+      "gloss": "Sheba"
     },
     {
       "surface": "עד",
@@ -50,13 +50,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "oʻsha kun"
+      "gloss": "kun"
     },
     {
       "surface": "הזה",
-      "gloss": "bu"
+      "gloss": "shu"
     }
   ],
-  "timestamp": "2026-08-26T00:38:22.988349542Z",
+  "timestamp": "2026-08-26T09:44:23.618190674Z",
   "model": "glm-5.3"
 }

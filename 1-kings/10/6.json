@@ -5,19 +5,19 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va u podshohga aytdi: ⟨the⟩ soʻz rost boʻlgan edi, ki men oʻz yurtimda eshitganman — sening soʻzlaring va sening donishing toʻgʻrisida.",
+  "translation": "Va u malikka aytdi: soʻz roʻy chiqdi — mamlakatimda sening soʻzlaring va sening hikmating haqida eshitganlarim ⟨roʻy chiqdi⟩.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "va aytdi"
+      "gloss": "va u aytdi"
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "…ga"
     },
     {
       "surface": "המלך",
-      "gloss": "podshoh"
+      "gloss": "malik"
     },
     {
       "surface": "אמת",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "היה",
-      "gloss": "boʻlgan edi"
+      "gloss": "boʻldi"
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨the⟩ soʻz"
+      "gloss": "soʻz"
     },
     {
       "surface": "אשר",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "eshitganman"
+      "gloss": "eshitdim"
     },
     {
       "surface": "בארצי",
-      "gloss": "oʻz yurtimda"
+      "gloss": "mamlakatimda"
     },
     {
       "surface": "על",
-      "gloss": "toʻgʻrisida"
+      "gloss": "haqida"
     },
     {
       "surface": "דבריך",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "ועל",
-      "gloss": "va toʻgʻrisida"
+      "gloss": "va … haqida"
     },
     {
       "surface": "חכמתך",
-      "gloss": "sening donishing"
+      "gloss": "sening hikmating"
     }
   ],
-  "timestamp": "2026-08-26T03:35:24.046567122Z",
+  "timestamp": "2026-08-26T09:54:36.501135378Z",
   "model": "glm-5.3"
 }

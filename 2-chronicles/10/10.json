@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va ⟨את⟩ u bilan birga katta boʻlgan yoshlar unga shunday deb gapirdilar: shunday de ⟨the⟩ oʻsha xalqqa — ularki senga shunday dedilar: otang ⟨את⟩ boyinimizni ogʻirlashtirdi, sen esa bizning ustimizdan yengillashtir; ularga shunday de: mening kichik barmogʻim otamning belidan qalinroq.",
+  "translation": "Va u bilan ⟨את⟩ birga ulgʻaygan yoshlar unga ⟨את⟩ bilan soʻzladilar, deb: bunday aytasan xalqga — ki senga: otang ⟨את⟩ bizning boʻyinturuqni ogʻir qildi, va sen bizning ustimizdan yengillashtir, deb soʻzlagan — bunday deysan ularga: kichik barmogʻim otamning belidan qalinroqdir.",
   "tokens": [
     {
       "surface": "וידברו",
-      "gloss": "va gapirdilar"
+      "gloss": "va soʻzladilar"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ u bilan"
+      "gloss": "⟨את⟩ bilan"
     },
     {
       "surface": "הילדים",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "niki"
+      "gloss": "ki"
     },
     {
       "surface": "גדלו",
-      "gloss": "katta boʻlgan"
+      "gloss": "ulgʻaygan"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ u bilan"
+      "gloss": "⟨את⟩ bilan"
     },
     {
       "surface": "לאמר",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "כה",
-      "gloss": "shunday"
+      "gloss": "bunday"
     },
     {
       "surface": "תאמר",
-      "gloss": "de"
+      "gloss": "aytasan"
     },
     {
       "surface": "לעם",
-      "gloss": "xalqqa"
+      "gloss": "xalqga"
     },
     {
       "surface": "אשר",
-      "gloss": "ularki"
+      "gloss": "ki"
     },
     {
       "surface": "דברו",
-      "gloss": "dedilar"
+      "gloss": "soʻzlagan"
     },
     {
       "surface": "אליך",
@@ -69,16 +69,16 @@
     },
     {
       "surface": "הכביד",
-      "gloss": "ogʻirlashtirdi"
+      "gloss": "ogʻir qildi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "boyinimizni"
+      "marks": "bizning boʻyinturuq"
     },
     {
       "surface": "עלנו",
-      "gloss": "boyinimiz"
+      "gloss": "bizning boʻyinturuq"
     },
     {
       "surface": "ואתה",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "shunday"
+      "gloss": "bunday"
     },
     {
       "surface": "תאמר",
-      "gloss": "de"
+      "gloss": "deysan"
     },
     {
       "surface": "אלהם",
@@ -114,13 +114,13 @@
     },
     {
       "surface": "ממתני",
-      "gloss": "belidan"
+      "gloss": "otamning belidan"
     },
     {
       "surface": "אבי",
       "gloss": "otamning"
     }
   ],
-  "timestamp": "2026-08-26T08:08:00.508761210Z",
+  "timestamp": "2026-08-26T10:07:55.356599451Z",
   "model": "glm-5.3"
 }

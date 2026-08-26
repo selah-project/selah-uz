@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 19,
-  "translation": "U ⟨את⟩ ayb qurbonligini Yahvegа, uchrashuv chodirining eshigi oldiga keltirsin — qoʻchqor, ayb qurbonligi.",
+  "translation": "Va u ⟨את⟩ ayb-qurbonligini Yahve uchun — uchrashuv chodirining eshigi oldiga olib keladi: ayb-qurbonlik sifatida bir qoʻchqor.",
   "tokens": [
     {
       "surface": "והביא",
-      "gloss": "keltirsin"
+      "gloss": "Va u olib keladi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ayb qurbonligini"
+      "marks": "ayb-qurbonligini"
     },
     {
       "surface": "אשמו",
-      "gloss": "ayb qurbonligini"
+      "gloss": "ayb-qurbonligini"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahve uchun"
     },
     {
       "surface": "אל",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "פתח",
-      "gloss": "eshigi"
+      "gloss": "eshigi oldiga"
     },
     {
       "surface": "אהל",
-      "gloss": "chodiri"
+      "gloss": "chodirining"
     },
     {
       "surface": "מועד",
@@ -46,9 +46,9 @@
     },
     {
       "surface": "אשם",
-      "gloss": "ayb qurbonligi"
+      "gloss": "ayb-qurbonlik"
     }
   ],
-  "timestamp": "2026-08-26T01:19:26.118878019Z",
+  "timestamp": "2026-08-26T09:47:04.876449500Z",
   "model": "glm-5.3"
 }

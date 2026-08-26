@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Uning qurbonligi — bitta kumush dasturxon-tovoq, ogʻirligi oʻttiz va yuz ⟨⟨shekel⟩>, bitta kumush choʻmich, yetmish shekel muqaddas shekelida ⟨boʻyicha⟩, ikkalasi ham sochilgan unga moy aralashtirilgan holda toʻldirilgan, mincha uchun.",
+  "translation": "Va uning qurbonligi — bitta kumush taxta, ogʻirligi bir yuz oʻttiz shikel, bitta kumush sopol idish, yetmish shikel, muqaddas shikel boʻyicha; ikkalasi ham soya uniga moʻy moy bilan aralashtirib toʻldirilgan, minxa uchun.",
   "tokens": [
     {
-      "surface": "וקרבנו",
-      "gloss": "uning qurbonligi"
+      "surface": "וקקרבנו",
+      "gloss": "va uning qurbonligi"
     },
     {
       "surface": "קערת",
-      "gloss": "dasturxon-tovoq"
+      "gloss": "taxta"
     },
     {
       "surface": "כסף",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ומאה",
-      "gloss": "va yuz"
+      "gloss": "va bir yuz"
     },
     {
       "surface": "משקלה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מזרק",
-      "gloss": "choʻmich"
+      "gloss": "sopol idish"
     },
     {
       "surface": "אחד",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "שקל",
-      "gloss": "shekel"
+      "gloss": "shikel"
     },
     {
       "surface": "בשקל",
-      "gloss": "shekel boʻyicha"
+      "gloss": "shikel boʻyicha"
     },
     {
       "surface": "הקדש",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "שניהם",
-      "gloss": "ikkalasi ham"
+      "gloss": "ikkalasi"
     },
     {
       "surface": "מלאים",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "סלת",
-      "gloss": "sochilgan un"
+      "gloss": "soya uni"
     },
     {
       "surface": "בלולה",
@@ -81,13 +81,13 @@
     },
     {
       "surface": "בשמן",
-      "gloss": "moyda"
+      "gloss": "moy bilan"
     },
     {
       "surface": "למנחה",
-      "gloss": "mincha uchun"
+      "gloss": "minxa uchun"
     }
   ],
-  "timestamp": "2026-08-26T01:27:23.353840099Z",
+  "timestamp": "2026-08-26T10:21:31.318323749Z",
   "model": "glm-5.3"
 }

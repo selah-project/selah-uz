@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 57,
-  "translation": "Chunki shunday dedi baland va yuksalgan, abadiyatda yashovchi, uning nomi Muqaddas: baland va muqaddas makonda yashayman, ⟨את⟩ singan va ruhi past bilan — pastlar ruхini jonlantirish uchun va singanlar qalbini jonlantirish uchun.",
+  "translation": "Chunki shunday degan baland va koʻtarilgan, abadiyatda yashovchi, ismi Muqaddas boʻlgan: baland va muqaddas makonda yashayman va ⟨את⟩ singan va ruxi kamsukni — kamsuklar ruxini jonlantirish va singanlar qalbini jonlantirish uchun.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Chunki"
+      "gloss": "chunki"
     },
     {
       "surface": "כה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "dedi"
+      "gloss": "degan"
     },
     {
       "surface": "רם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ונשא",
-      "gloss": "va yuksalgan"
+      "gloss": "va koʻtarilgan"
     },
     {
       "surface": "שכן",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "וקדוש",
-      "gloss": "va Muqaddas"
+      "gloss": "va muqaddas"
     },
     {
       "surface": "שמו",
-      "gloss": "uning nomi"
+      "gloss": "ismi"
     },
     {
       "surface": "מרום",
-      "gloss": "baland joyda"
+      "gloss": "baland makonda"
     },
     {
       "surface": "וקדוש",
@@ -58,7 +58,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "singan va ruhi past bilan"
+      "marks": "singan va ruhi kamsuk"
     },
     {
       "surface": "דכא",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "ושפל",
-      "gloss": "va past"
+      "gloss": "va kamsuk"
     },
     {
       "surface": "רוח",
-      "gloss": "ruh"
+      "gloss": "rux"
     },
     {
       "surface": "להחיות",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "רוח",
-      "gloss": "ruhni"
+      "gloss": "rux"
     },
     {
       "surface": "שפלים",
-      "gloss": "pastlarning"
+      "gloss": "kamsuklar"
     },
     {
       "surface": "ולהחיות",
@@ -90,13 +90,13 @@
     },
     {
       "surface": "לב",
-      "gloss": "qalbini"
+      "gloss": "qalb"
     },
     {
       "surface": "נדכאים",
-      "gloss": "singanlarning"
+      "gloss": "singanlar"
     }
   ],
-  "timestamp": "2026-08-26T04:33:46.720738526Z",
+  "timestamp": "2026-08-26T10:23:06.461026161Z",
   "model": "glm-5.3"
 }

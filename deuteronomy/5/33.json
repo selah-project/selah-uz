@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 5,
-  "translation": "Butun yoʻlda, uni ki Yahve, sizning Elohimingiz, sizga buyurgan, yurursizlar — zero yashashingiz uchun va sizga yaxshi boʻlishi uchun, va kunlaringizni uzaytirasizlar ⟨⟨the⟩⟩ yerda, uni meros qilib olasizlar.",
+  "translation": "Butun yoʻlda, ki Yahve Elohim sizlarni buyurgan — ⟨את⟩ sizlarni — yurursizlar, shunda yashaysizlar va sizlarga yaxshi boʻlur, va kunlarni uzaytirasizlar oʻzbek yoʻq — yurtda, ki uni egallaysizlar.",
   "tokens": [
     {
       "surface": "בכל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "uni ki"
+      "gloss": "ki"
     },
     {
       "surface": "צוה",
@@ -29,12 +29,12 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "sizning Elohimingiz"
+      "gloss": "Elohim"
     },
     {
       "surface": "אתכם",
       "gloss": "⟨את⟩",
-      "marks": "sizga"
+      "marks": "sizlarni"
     },
     {
       "surface": "תלכו",
@@ -42,11 +42,11 @@
     },
     {
       "surface": "למען",
-      "gloss": "zero"
+      "gloss": "shunda"
     },
     {
       "surface": "תחיון",
-      "gloss": "yashashingiz uchun"
+      "gloss": "yashaysizlar"
     },
     {
       "surface": "וטוב",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "sizga"
+      "gloss": "sizlarga"
     },
     {
       "surface": "והארכתם",
@@ -62,21 +62,21 @@
     },
     {
       "surface": "ימים",
-      "gloss": "kunlaringizni"
+      "gloss": "kunlarni"
     },
     {
       "surface": "בארץ",
-      "gloss": "yerda"
+      "gloss": "yurtda"
     },
     {
       "surface": "אשר",
-      "gloss": "uni"
+      "gloss": "ki"
     },
     {
       "surface": "תירשון",
-      "gloss": "meros qilib olasizlar"
+      "gloss": "egallaysizlar"
     }
   ],
-  "timestamp": "2026-08-26T01:48:46.954799630Z",
+  "timestamp": "2026-08-26T09:49:39.571638332Z",
   "model": "glm-5.3"
 }

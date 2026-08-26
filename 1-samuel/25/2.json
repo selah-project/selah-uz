@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va Maonda bir odam bor edi, va uning mulki Karmelda edi; va ⟨the⟩ odam juda buyuk edi, va uning uch ming qoʻysi va ming echkisi bor edi; va u Karmelda ⟨את⟩ podasini qirqayotganda boʻldi.",
+  "translation": "Va Maʻonda ⟨bir⟩ odam ⟨edi⟩, uning mulki Karmelda; va oʻsha odam juda buyuk ⟨edi⟩, va uning uch ming qoʻyi va ming echkisi ⟨bor edi⟩; va boʻldi, ⟨u⟩ Karmelda ⟨את⟩ podasini qirqayotganda.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "במעון",
-      "gloss": "Maonda"
+      "gloss": "Maʻonda"
     },
     {
       "surface": "ומעשהו",
-      "gloss": "va uning mulki"
+      "gloss": "uning mulki"
     },
     {
       "surface": "בכרמל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "והאיש",
-      "gloss": "va odam"
+      "gloss": "va oʻsha odam"
     },
     {
       "surface": "גדול",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "צאן",
-      "gloss": "qoʻylar"
+      "gloss": "qoʻylari"
     },
     {
       "surface": "שלשת",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "עזים",
-      "gloss": "echkilar"
+      "gloss": "echki"
     },
     {
       "surface": "ויהי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "בגזז",
-      "gloss": "qirqayotganda"
+      "gloss": "qirqish vaqtida"
     },
     {
       "surface": "את",
@@ -81,6 +81,6 @@
       "gloss": "Karmelda"
     }
   ],
-  "timestamp": "2026-08-26T02:57:16.233231965Z",
+  "timestamp": "2026-08-26T09:53:10.974238660Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 5,
-  "translation": "Va Isroilning Elohimiga Ashur shohi Pulning ruхini va Ashur shohi Tilgat-Pilneserning ruхini qo'zg'atdi, va ularni — Rubenliklarni, Gadliklarni va Menashshe qabilasining yarmini surgun qildi va ularni Xalax, Xavor, Xara va Gozan daryosigacha olib bordi — shu kungacha.",
+  "translation": "Va Isroilning Elohimi Ossur shohi Pulning ruhinining — ⟨את⟩ ruhi — va Ossur shohi Tiglat-Pilneserning — ⟨את⟩ ruhi — ichini qoʻzgʻatdi, va Rubenliklarni, Gadliklarni va Menaşe qabilasining yarmini surgun qildi va ularni Halaxga, Xavorga, Horaga va Gozon daryosigacha olib bordi — shu kungacha.",
   "tokens": [
     {
       "surface": "ויער",
-      "gloss": "qo'zg'atdi"
+      "gloss": "qoʻzgʻatdi"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohimiga"
+      "gloss": "Elohimi"
     },
     {
       "surface": "ישראל",
@@ -22,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ruхini"
+      "marks": "ruhi"
     },
     {
       "surface": "רוח",
-      "gloss": "ruхini"
+      "gloss": "ruhi"
     },
     {
       "surface": "פול",
@@ -38,20 +38,20 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashur"
+      "gloss": "Ossur"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ruхini"
+      "marks": "ruhi"
     },
     {
       "surface": "רוח",
-      "gloss": "ruхini"
+      "gloss": "ruhi"
     },
     {
       "surface": "תלגת",
-      "gloss": "Tilgat"
+      "gloss": "Tiglat"
     },
     {
       "surface": "פלנסר",
@@ -63,11 +63,11 @@
     },
     {
       "surface": "אשור",
-      "gloss": "Ashur"
+      "gloss": "Ossur"
     },
     {
       "surface": "ויגלם",
-      "gloss": "ularni surgun qildi"
+      "gloss": "surgun qildi"
     },
     {
       "surface": "לראובני",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "ולחצי",
-      "gloss": "va yarmini"
+      "gloss": "va ... yarmiga"
     },
     {
       "surface": "שבט",
@@ -87,35 +87,35 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Menashshe"
+      "gloss": "Menaşe"
     },
     {
       "surface": "ויביאם",
-      "gloss": "va ularni olib bordi"
+      "gloss": "olib bordi"
     },
     {
       "surface": "לחלח",
-      "gloss": "Xalax"
+      "gloss": "Halaxga"
     },
     {
       "surface": "וחבור",
-      "gloss": "Xavor"
+      "gloss": "Xavorga"
     },
     {
       "surface": "והרא",
-      "gloss": "Xara"
+      "gloss": "Horaga"
     },
     {
       "surface": "ונהר",
-      "gloss": "va daryosi"
+      "gloss": "va ... daryosi"
     },
     {
       "surface": "גוזן",
-      "gloss": "Gozan"
+      "gloss": "Gozon"
     },
     {
       "surface": "עד",
-      "gloss": "gacha"
+      "gloss": "-gacha"
     },
     {
       "surface": "היום",
@@ -123,9 +123,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "mana shu"
+      "gloss": "-gacha (muddat)"
     }
   ],
-  "timestamp": "2026-08-26T07:55:13.910194671Z",
+  "timestamp": "2026-08-26T10:24:53.873757050Z",
   "model": "glm-5.3"
 }

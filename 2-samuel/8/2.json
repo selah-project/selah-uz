@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Va u ⟨את⟩ Moabni urdi va ularni arqon bilan oʻlchadi, ularni yerga yotqizib; va u oʻldirish uchun ikki arqon oʻlchadi va tirik qoldirish uchun toʻliq ⟨the⟩ arqonni. Va Moab Dovudga xizmatchilar, ehson koʻtaruvchilar boʻldi.",
+  "translation": "Va u ⟨את⟩ Moabni urdi va ularni arqon bilan oʻlchadi, ularni yerga yotqizib; ikki arqon oʻlchadi oʻldirish uchun, va toʻliq arqonni tirik qoldirish uchun; va Moab Dovudga xizmatchi boʻldi, tuhfa koʻtaruvchilar.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "urdi"
+      "gloss": "va u urdi"
     },
     {
       "surface": "את",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "וימדדם",
-      "gloss": "oʻlchadi"
+      "gloss": "va ularni oʻlchadi"
     },
     {
       "surface": "בחבל",
@@ -35,7 +35,7 @@
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ ularni",
-      "marks": "ularni"
+      "marks": "yerga"
     },
     {
       "surface": "ארצה",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "וימדד",
-      "gloss": "oʻlchadi"
+      "gloss": "va u oʻlchadi"
     },
     {
       "surface": "שני",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "ותהי",
-      "gloss": "boʻldi"
+      "gloss": "va boʻldi"
     },
     {
       "surface": "מואב",
@@ -83,7 +83,7 @@
     },
     {
       "surface": "לעבדים",
-      "gloss": "xizmatchilar"
+      "gloss": "xizmatchi"
     },
     {
       "surface": "נשאי",
@@ -91,9 +91,9 @@
     },
     {
       "surface": "מנחה",
-      "gloss": "ehson"
+      "gloss": "tuhfa"
     }
   ],
-  "timestamp": "2026-08-26T03:08:45.158183639Z",
+  "timestamp": "2026-08-26T10:06:52.118535876Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Va Shlomo Yisroel yerida boʻlgan barcha muhojirlarni sanadi — otasi Davud ularni sanagan sanagʻandan keyin — va ular yuz ellik ming va uch ming olti yuz deb topildi.",
+  "translation": "Shelomoh esa Isroil yeridagi barcha muhojir erkaklarni sanadi — ota-onasi Dovud ularni sanagan sanogʻidan keyin — va ular yuz ellik ming uch ming olti yuz deb topildi.",
   "tokens": [
     {
       "surface": "ויספר",
-      "gloss": "va sanadi"
+      "gloss": "sanadi"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shlomo"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "כל",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "odamlarni"
+      "gloss": "erkaklar"
     },
     {
       "surface": "הגירים",
-      "gloss": "muhojirlarni"
+      "gloss": "muhojirlar"
     },
     {
       "surface": "אשר",
-      "gloss": "—ki"
+      "gloss": "ki"
     },
     {
       "surface": "בארץ",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisroil"
+      "gloss": "Isroil"
     },
     {
       "surface": "אחרי",
-      "gloss": "—dan keyin"
+      "gloss": "keyin"
     },
     {
       "surface": "הספר",
-      "gloss": "sanagʻandan"
+      "gloss": "sanogʻidan"
     },
     {
       "surface": "אשר",
-      "gloss": "—ki"
+      "gloss": "ki"
     },
     {
       "surface": "ספרם",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "דויד",
-      "gloss": "Davud"
+      "gloss": "Dovud"
     },
     {
       "surface": "אביו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "וימצאו",
-      "gloss": "va topildi"
+      "gloss": "topildi"
     },
     {
       "surface": "מאה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "וחמשים",
-      "gloss": "va ellik"
+      "gloss": "ellik"
     },
     {
       "surface": "אלף",
@@ -81,15 +81,11 @@
     },
     {
       "surface": "ושלשת",
-      "gloss": "va uch"
+      "gloss": "uch"
     },
     {
       "surface": "אלפים",
       "gloss": "ming"
-    },
-    {
-      "surface": "וושש",
-      "gloss": "va olti"
     },
     {
       "surface": "ושש",
@@ -100,6 +96,6 @@
       "gloss": "yuz"
     }
   ],
-  "timestamp": "2026-08-26T08:05:21.742677956Z",
+  "timestamp": "2026-08-26T10:25:12.257864686Z",
   "model": "glm-5.3"
 }

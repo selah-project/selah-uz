@@ -5,39 +5,39 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va ⟨את]] qozonlarni, va ⟨את]] kuraklarni, va ⟨את]] sanchqilarni va ⟨את]] ularning barcha asboblarini Xuram — otasi — Shlomo shohga, Yahve uyi uchun yaltiroq misdan yasadi.",
+  "translation": "Va ⟨את⟩ qozonlarni, ⟨את⟩ kuraklarni, ⟨את⟩ sanchqilarni va ⟨את⟩ ularning barcha idishlarini Xuram — uning otasi — Shlomo shohga, Yahve uyi uchun silliq tuvalldan yasadi.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "qozonlar"
+      "marks": "qozonlarni"
     },
     {
       "surface": "הסירות",
-      "gloss": "qozonlar"
+      "gloss": "qozonlarni"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kuraklar"
+      "marks": "kuraklarni"
     },
     {
       "surface": "היעים",
-      "gloss": "kuraklar"
+      "gloss": "kuraklarni"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "sanchqilar"
+      "marks": "sanchqilarni"
     },
     {
       "surface": "המזלגות",
-      "gloss": "sanchqilar"
+      "gloss": "sanchqilarni"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "ularning barcha asboblari"
+      "marks": "ularning barcha idishlarini"
     },
     {
       "surface": "כל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "כליהם",
-      "gloss": "asboblari"
+      "gloss": "ularning idishlarini"
     },
     {
       "surface": "עשה",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "אביו",
-      "gloss": "otasi"
+      "gloss": "uning otasi"
     },
     {
       "surface": "למלך",
@@ -77,13 +77,13 @@
     },
     {
       "surface": "נחשת",
-      "gloss": "mis"
+      "gloss": "tuvalldan"
     },
     {
       "surface": "מרוק",
-      "gloss": "yaltiroq"
+      "gloss": "silliq"
     }
   ],
-  "timestamp": "2026-08-26T08:04:34.755246775Z",
+  "timestamp": "2026-08-26T10:24:57.302353529Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Ulardan qoʻrqma, chunki Yahve, sening Elohing, oʻrtangda — buyuk va dahshatli El ⟨is⟩.",
+  "translation": "Ulardan qoʻrqma, chunki Yahve, sening Elohiming, oʻrtangda — buyuk va ulugʻ El.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "-ma"
     },
     {
       "surface": "תערץ",
-      "gloss": "qoʻrqma"
+      "gloss": "qoʻrq"
     },
     {
       "surface": "מפניהם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "sening Elohing"
+      "gloss": "Elohiming"
     },
     {
       "surface": "בקרבך",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "ונורא",
-      "gloss": "va dahshatli"
+      "gloss": "va ulugʻ"
     }
   ],
-  "timestamp": "2026-08-26T01:51:47.682128499Z",
+  "timestamp": "2026-08-26T09:49:39.696895207Z",
   "model": "glm-5.3"
 }

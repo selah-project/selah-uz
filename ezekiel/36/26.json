@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 36,
-  "translation": "Va sizlarga yangi yurak beraman va yangi rux qoʻyaman ichkarilaringizga; va tosh yurakni tanangizdan olib tashlayman va sizlarga goʻsht yurak beraman.",
+  "translation": "Va sizlarga yangi qalb beraman, va yangi rux ichingizga qoʻyaman; va tosh qalbni ⟨את⟩ tanangizdan olib tashlayman, va sizlarga goʻsht qalb beraman.",
   "tokens": [
     {
       "surface": "ונתתי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לב",
-      "gloss": "yurak"
+      "gloss": "qalb"
     },
     {
       "surface": "חדש",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בקרבכם",
-      "gloss": "ichkarilaringizga"
+      "gloss": "ichingizga"
     },
     {
       "surface": "והסרתי",
@@ -46,15 +46,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tosh yurakni"
+      "marks": "tosh qalbni"
     },
     {
       "surface": "לב",
-      "gloss": "yurak"
+      "gloss": "qalbni"
     },
     {
       "surface": "האבן",
-      "gloss": "tosh ⟨the⟩"
+      "gloss": "tosh"
     },
     {
       "surface": "מבשרכם",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "לב",
-      "gloss": "yurak"
+      "gloss": "qalb"
     },
     {
       "surface": "בשר",
       "gloss": "goʻsht"
     }
   ],
-  "timestamp": "2026-08-26T05:25:57.729786047Z",
+  "timestamp": "2026-08-26T09:57:26.054966086Z",
   "model": "glm-5.3"
 }

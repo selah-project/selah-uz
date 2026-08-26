@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Ahmoqning ogʻzida ⟨the⟩ magʻrurlik tayoqchasi ⟨is⟩, donolarning lablari esa ularni saqlaydi.",
+  "translation": "Evilning ogʻzida gʻurur tayogʻi bor, lekin donishmandlarning lablari ularni saqlaydi.",
   "tokens": [
     {
       "surface": "בפי",
@@ -13,29 +13,29 @@
     },
     {
       "surface": "אויל",
-      "gloss": "ahmoqning"
+      "gloss": "Evilning"
     },
     {
       "surface": "חטר",
-      "gloss": "tayoqcha"
+      "gloss": "tayoq"
     },
     {
       "surface": "גאוה",
-      "gloss": "magʻrurlik"
+      "gloss": "gʻurur"
     },
     {
       "surface": "ושפתי",
-      "gloss": "lablari esa"
+      "gloss": "lekin ... lablari"
     },
     {
       "surface": "חכמים",
-      "gloss": "donolarning"
+      "gloss": "donishmandlarning"
     },
     {
       "surface": "תשמורם",
       "gloss": "ularni saqlaydi"
     }
   ],
-  "timestamp": "2026-08-26T08:45:57.546997984Z",
+  "timestamp": "2026-08-26T10:15:42.843654410Z",
   "model": "glm-5.3"
 }

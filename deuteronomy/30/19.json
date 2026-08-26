@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 30,
-  "translation": "Sizlarni guvoh qilib olaman bugun — ⟨את⟩ osmonlarni va ⟨את⟩ yerni: hayot va oʻlimni oldingizga qoʻydım, barokani va laʼnatni; va hayotni tanlang,以便 sen va urugʻing yashashingiz uchun.",
+  "translation": "Guvox qildim sizni qarshisida bugun ⟨את⟩ osmonlarni va ⟨את⟩ yerni: hayot va oʻlim oldinga qoʻydim sizning — barakani va laʼnatni; va tanladingiz hayotni, — sababki yashashingiz uchun sen va urugʻing.",
   "tokens": [
     {
       "surface": "העידתי",
-      "gloss": "guvoh qilib olaman"
+      "gloss": "Guvox qildim"
     },
     {
       "surface": "בכם",
-      "gloss": "sizlarni"
+      "gloss": "sizni qarshisida"
     },
     {
       "surface": "היום",
@@ -43,19 +43,19 @@
     },
     {
       "surface": "והמות",
-      "gloss": "va oʻlimni"
+      "gloss": "va oʻlim"
     },
     {
       "surface": "נתתי",
-      "gloss": "qoʻydım"
+      "gloss": "qoʻydim"
     },
     {
       "surface": "לפניך",
-      "gloss": "oldingizga"
+      "gloss": "oldinga sizning"
     },
     {
       "surface": "הברכה",
-      "gloss": "barokani"
+      "gloss": "barakani"
     },
     {
       "surface": "והקללה",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "ובחרת",
-      "gloss": "va tanlang"
+      "gloss": "va tanladingiz"
     },
     {
       "surface": "בחיים",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "למען",
-      "gloss": "……uchun"
+      "gloss": "sababki"
     },
     {
       "surface": "תחיה",
-      "gloss": "yashashingiz"
+      "gloss": "yashashingiz uchun"
     },
     {
       "surface": "אתה",
@@ -86,6 +86,6 @@
       "gloss": "va urugʻing"
     }
   ],
-  "timestamp": "2026-08-26T08:59:59.158066343Z",
+  "timestamp": "2026-08-26T09:51:00.452726026Z",
   "model": "glm-5.3"
 }

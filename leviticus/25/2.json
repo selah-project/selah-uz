@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Isroil oʻgʻillariga gapir va ularga ayting: sizlarga bermoqda boʻlgan ⟨the⟩ erga kirsangizlar, ⟨the⟩ er Yahve uchun shabbatni totadi:",
+  "translation": "Isroil oʻgʻillariga gapir va ularga aytingki: «Men sizlarga berayotgan yerga kirsangiz, yer Yahve uchun shabbat dam olsin.»",
   "tokens": [
     {
       "surface": "דבר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "-ga"
+      "gloss": "—"
     },
     {
       "surface": "בני",
-      "gloss": "oʻgʻillari"
+      "gloss": "oʻgʻillariga"
     },
     {
       "surface": "ישראל",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "«...-sa"
     },
     {
       "surface": "תבאו",
-      "gloss": "kirsangizlar"
+      "gloss": "kirsangiz"
     },
     {
       "surface": "אל",
-      "gloss": "-ga"
+      "gloss": "—"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ er"
+      "gloss": "yerga"
     },
     {
       "surface": "אשר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "bermoqda"
+      "gloss": "berayotgan"
     },
     {
       "surface": "לכם",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ושבתה",
-      "gloss": "va totadi (shabbat)"
+      "gloss": "dam olsin"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ er"
+      "gloss": "yer"
     },
     {
       "surface": "שבת",
@@ -80,6 +80,6 @@
       "gloss": "Yahve uchun"
     }
   ],
-  "timestamp": "2026-08-26T08:21:55.990075647Z",
+  "timestamp": "2026-08-26T09:47:14.932850263Z",
   "model": "glm-5.3"
 }

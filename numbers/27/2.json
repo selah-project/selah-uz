@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Va ular Moshe oldida, kohin Elazar oldida va sardorlar hamda butun jamiyat oldida, uchrashuv chodirining eshigida turdilar, aytib:",
+  "translation": "Va ular Moshe oldida, Elazar kohenda, nasiylar va butun jamoat oldida — uchrashuv chodirining ogʻzida — turdilar, deyishib:",
   "tokens": [
     {
       "surface": "ותעמדנה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kohin"
+      "gloss": "kohen"
     },
     {
       "surface": "ולפני",
@@ -37,26 +37,33 @@
     },
     {
       "surface": "הנשיאם",
-      "gloss": "sardorlar"
+      "gloss": "nasiylar"
     },
     {
       "surface": "וכל",
-      "gloss": "hamda butun"
+      "gloss": "va butun"
     },
     {
       "surface": "העדה",
-      "gloss": "jamiyat"
+      "gloss": "jamoat"
     },
     {
       "surface": "פתח",
-      "gloss": "eshigi"
+      "gloss": "ogʻzi"
     },
     {
       "surface": "אהל",
-      "gloss": "chodiри"
+      "gloss": "chodir"
     },
-    "placeholder"
+    {
+      "surface": "מועד",
+      "gloss": "uchrashuv"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deyishib"
+    }
   ],
-  "timestamp": "2026-08-26T01:42:16.233989999Z",
+  "timestamp": "2026-08-26T09:48:38.201000549Z",
   "model": "glm-5.3"
 }

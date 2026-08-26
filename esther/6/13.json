@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Va Haman Zereshga — xotiniga — va barcha ⟨את⟩ doʻstlariga ⟨את⟩ hammasini, narsakim unga roʻy berdi, soʻzladi; va unga dedilar donishmandlari va Zeresh xotini: agar yahudiylarning urugʻidandir Mordeay, kimning oldiga yiqilishni boshlagansan — boʻlsa, unga qodir boʻlmaysan, chunki yiqilib albatta yiqilasiz uning oldiga.",
+  "translation": "Va Haman Zereshga, xotiniga, va barcha doʻstlariga ⟨את⟩ barcha narsani — unga yetganini — soʻzladi. Va unga hikmatlilari va Zeresh, xotini, aytdilar: agar yahudiylar urugʻidan boʻlsa — Mordechay — kimning oldida yiqilishni boshlagan boʻlsang, unga qarshi turolmaysan, chunki albatta uning oldida yiqilasan.",
   "tokens": [
     {
       "surface": "ויספר",
-      "gloss": "va-soʻzladi"
+      "gloss": "soʻzladi"
     },
     {
       "surface": "המן",
@@ -24,37 +24,33 @@
       "gloss": "xotiniga"
     },
     {
-      "surface": "ויאמרו placeholder",
-      "gloss": ""
-    },
-    {
       "surface": "ולכל",
-      "gloss": "va-barcha"
+      "gloss": "va barcha"
     },
     {
       "surface": "אהביו",
-      "gloss": "⟨את⟩ doʻstlariga"
+      "gloss": "doʻstlariga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hammasini"
+      "marks": "barcha narsani"
     },
     {
       "surface": "כל",
-      "gloss": "hammasini"
+      "gloss": "barcha"
     },
     {
       "surface": "אשר",
-      "gloss": "narsakim"
+      "gloss": "—"
     },
     {
       "surface": "קרהו",
-      "gloss": "unga-roʻy-berdi"
+      "gloss": "unga yetganini"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "va-dedilar"
+      "gloss": "va aytdilar"
     },
     {
       "surface": "לו",
@@ -62,11 +58,11 @@
     },
     {
       "surface": "חכמיו",
-      "gloss": "donishmandlari"
+      "gloss": "hikmatlilari"
     },
     {
       "surface": "וזרש",
-      "gloss": "va-Zeresh"
+      "gloss": "va Zeresh"
     },
     {
       "surface": "אשתו",
@@ -82,11 +78,11 @@
     },
     {
       "surface": "היהודים",
-      "gloss": "yahudiylarning"
+      "gloss": "yahudiylar"
     },
     {
       "surface": "מרדכי",
-      "gloss": "Mordeay"
+      "gloss": "Mordechay"
     },
     {
       "surface": "אשר",
@@ -94,7 +90,7 @@
     },
     {
       "surface": "החלות",
-      "gloss": "boshlagansan"
+      "gloss": "boshlagan boʻlsang"
     },
     {
       "surface": "לנפל",
@@ -102,19 +98,19 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "oldiga"
+      "gloss": "uning oldida"
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "yoʻq"
     },
     {
       "surface": "תוכל",
-      "gloss": "qodir-boʻlmaysan"
+      "gloss": "turolmaysan"
     },
     {
       "surface": "לו",
-      "gloss": "unga"
+      "gloss": "unga qarshi"
     },
     {
       "surface": "כי",
@@ -122,17 +118,17 @@
     },
     {
       "surface": "נפול",
-      "gloss": "yiqilib"
+      "gloss": "yiqilish"
     },
     {
       "surface": "תפול",
-      "gloss": "albatta-yiqilasiz"
+      "gloss": "yiqilasan"
     },
     {
       "surface": "לפניו",
-      "gloss": "uning-oldiga"
+      "gloss": "uning oldida"
     }
   ],
-  "timestamp": "2026-08-26T07:25:44.567482663Z",
+  "timestamp": "2026-08-26T10:03:17.061136034Z",
   "model": "glm-5.3"
 }

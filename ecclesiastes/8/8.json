@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Ruh ustida hukmron boʻlib ruhani ushlab qoladigan odam yoʻq, va oʻlim kunda hukmronlik yoʻq, va jangda ozod qilish yoʻq, va yovuzlik oʻz egasini qutqarmaydi.",
+  "translation": "Ruxni ushlab turishga hukmron odam yoʻq — ⟨את⟩ ruxni ⟨ushlab turishga⟩; va oʻlim kunida hukmronlik yoʻq, va urushda ozod qilish yoʻq, va yovuzlik ⟨את⟩ oʻz egasini qutqarmaydi.",
   "tokens": [
     {
       "surface": "אין",
@@ -21,24 +21,24 @@
     },
     {
       "surface": "ברוח",
-      "gloss": "ruh ustida"
+      "gloss": "ruxga"
     },
     {
       "surface": "לכלוא",
-      "gloss": "ushlab qolish uchun"
+      "gloss": "ushlab turishga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ruhani"
+      "marks": "ruxni"
     },
     {
       "surface": "הרוח",
-      "gloss": "ruhani"
+      "gloss": "ruxni"
     },
     {
       "surface": "ואין",
-      "gloss": "va ... yoʻq"
+      "gloss": "va yoʻq"
     },
     {
       "surface": "שלטון",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "ביום",
-      "gloss": "kundа"
+      "gloss": "kunida"
     },
     {
       "surface": "המות",
-      "gloss": "oʻlim"
+      "gloss": "oʻlimning"
     },
     {
       "surface": "ואין",
-      "gloss": "va ... yoʻq"
+      "gloss": "va yoʻq"
     },
     {
       "surface": "משלחת",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "במלחמה",
-      "gloss": "jangda"
+      "gloss": "urushda"
     },
     {
       "surface": "ולא",
@@ -86,6 +86,6 @@
       "gloss": "oʻz egasini"
     }
   ],
-  "timestamp": "2026-08-26T07:21:35.551674380Z",
+  "timestamp": "2026-08-26T10:24:29.972315822Z",
   "model": "glm-5.3"
 }

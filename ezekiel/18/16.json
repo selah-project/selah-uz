@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Hech kimni zulm qilmadi, ⟨the⟩ garovni garovga olmadi, talon-tarojni tortib olmadi, nonini ochga berdi va yalangʻochni kiyim bilan yopdi.",
+  "translation": "Va ⟨hech bir⟩ odamga zulm qilmagan, garovni ⟨uslab⟩ olmagan, talon-taroj qilmagan, nonini och bergan va yalangʻochni kiyim bilan yopgan.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "va hech kim"
+      "gloss": "va odam"
     },
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הונה",
-      "gloss": "zulm qildi"
+      "gloss": "zulm qilmagan"
     },
     {
       "surface": "חבל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "חבל",
-      "gloss": "garovga oldi"
+      "gloss": "garovni olmagan"
     },
     {
       "surface": "וגזלה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "גזל",
-      "gloss": "tortib oldi"
+      "gloss": "tortib olmagan"
     },
     {
       "surface": "לחמו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "berdi"
+      "gloss": "bergan"
     },
     {
       "surface": "וערום",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "כסה",
-      "gloss": "yopdi"
+      "gloss": "yopgan"
     },
     {
       "surface": "בגד",
-      "gloss": "kiyim"
+      "gloss": "kiyim bilan"
     }
   ],
-  "timestamp": "2026-08-26T05:17:29.498368677Z",
+  "timestamp": "2026-08-26T10:07:01.054237224Z",
   "model": "glm-5.3"
 }

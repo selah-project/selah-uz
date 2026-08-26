@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 40,
-  "translation": "Va Moshe Mishkanni ⟨את⟩ tikladi, va uning taganalarini ⟨את⟩ qoʻydi, va uning taxtalarini ⟨את⟩ terdi, va uning yoysilarini ⟨את】 kiritdi, va uning ustunlarini ⟨את⟩ tikladi.",
+  "translation": "Va Moshe Meshkanni tikdi va uning poydevorlarini qoʻydi va uning taxtalarini oʻrnatdi va uning tirgaklarini joylashtirdi va uning ustunlarini tikdi.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "Va tikladi"
+      "gloss": "tikdi"
     },
     {
       "surface": "משה",
@@ -18,28 +18,28 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mishkanni"
+      "marks": "Meshkanni"
     },
     {
       "surface": "המשכן",
-      "gloss": "Mishkanni"
+      "gloss": "Meshkan"
     },
     {
       "surface": "ויתן",
-      "gloss": "va qoʻydi"
+      "gloss": "qoʻydi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taganalarini"
+      "marks": "poydevorlarini"
     },
     {
       "surface": "אדניו",
-      "gloss": "taganalarini"
+      "gloss": "poydevorlarini"
     },
     {
       "surface": "וישם",
-      "gloss": "va terdi"
+      "gloss": "oʻrnatdi"
     },
     {
       "surface": "את",
@@ -52,20 +52,20 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "va kiritdi"
+      "gloss": "joylashtirdi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yoysilarini"
+      "marks": "tirgaklarini"
     },
     {
       "surface": "בריחיו",
-      "gloss": "yoysilarini"
+      "gloss": "tirgaklarini"
     },
     {
       "surface": "ויקם",
-      "gloss": "va tikladi"
+      "gloss": "tikdi"
     },
     {
       "surface": "את",
@@ -77,6 +77,6 @@
       "gloss": "ustunlarini"
     }
   ],
-  "timestamp": "2026-08-26T01:08:58.770262856Z",
+  "timestamp": "2026-08-26T09:46:18.685197807Z",
   "model": "glm-5.3"
 }

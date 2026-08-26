@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Va agar bir nefesh har qanday pok boʻlmagan narsaga — odam nopokligiga, yoki nopok hayvonga, yoki har qanday yiringan nopok narsaga tegib, Yahvegа tegishli tinchlik qurbonlari goʻshtidan yesa, oʻsha nefesh xalqidan kesib tashlanadi.",
+  "translation": "Agar bir nefesh har qanday nopok narsaga — odam nopokligiga, yoki nopok hayvonga, yoki har qanday yiringan nopok narsaga tegsa va Yahvegagina tegishli boʻlgan shalom-qurbonligi goʻshtidan yesa, oʻsha nefesh xalqi orasidan kesib tashlanadi.",
   "tokens": [
     {
       "surface": "ונפש",
-      "gloss": "Va bir nefesh"
+      "gloss": "va bir nefesh"
     },
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תגע",
-      "gloss": "tegb"
+      "gloss": "tegsa"
     },
     {
       "surface": "בכל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "טמא",
-      "gloss": "pok boʻlmagan narsaga"
+      "gloss": "nopok narsaga"
     },
     {
       "surface": "בטמאת",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "זבח",
-      "gloss": "qurbon"
+      "gloss": "qurbonligi"
     },
     {
       "surface": "השלמים",
-      "gloss": "tinchliklar"
+      "gloss": "shalom"
     },
     {
       "surface": "אשר",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа tegishli"
+      "gloss": "Yahvegagina tegishli"
     },
     {
       "surface": "ונכרתה",
@@ -101,9 +101,9 @@
     },
     {
       "surface": "מעמיה",
-      "gloss": "xalqidan"
+      "gloss": "xalqi orasidan"
     }
   ],
-  "timestamp": "2026-08-26T01:10:28.184000247Z",
+  "timestamp": "2026-08-26T10:21:21.476430869Z",
   "model": "glm-5.3"
 }

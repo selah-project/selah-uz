@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va Misr qiroliga xabar berildiki, ⟨the⟩ halkim qochdi; va Paroh va uning xizmatkorlarining qalbi halkim tomon oʻzgardi, va ular dedilar: «Nima bu — qildik, chunki ⟨את⟩ Isroilni xizmatimizdan yubordik?»",
+  "translation": "Va Mitsrajim shohiga xabar berildiki, xolq qochdi; va Paroh va uning xizmatkorlarining yuragi xalqga qarshi oʻzgardi, va ular aytdilar: «Buni nima qildik, chunki Yisroelni oʻz xizmatimizdan qoʻyib yubordik?»",
   "tokens": [
     {
       "surface": "ויגד",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "למלך",
-      "gloss": "qiroli…ga"
+      "gloss": "shohiga"
     },
     {
       "surface": "מצרים",
-      "gloss": "Misr"
+      "gloss": "Mitsrajim"
     },
     {
       "surface": "כי",
@@ -29,31 +29,35 @@
     },
     {
       "surface": "העם",
-      "gloss": "halkim"
+      "gloss": "xalq"
     },
     {
       "surface": "ויהפך",
-      "gloss": "oʻzgardi"
+      "gloss": "va oʻzgardi"
     },
     {
       "surface": "לבב",
-      "gloss": "qalbi"
+      "gloss": "yuragi"
     },
     {
       "surface": "פרעה",
       "gloss": "Paroh"
     },
     {
-      "surface": "ויאמרו",
-      "gloss": "va dedilar"
+      "surface": "ועבדיו",
+      "gloss": "va uning xizmatkorlari"
     },
     {
       "surface": "אל",
-      "gloss": "…ning"
+      "gloss": "qarshi"
     },
     {
-      "surface": "ועבדיו",
-      "gloss": "uning xizmatkorlari"
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "va ular aytdilar"
     },
     {
       "surface": "מה",
@@ -61,7 +65,7 @@
     },
     {
       "surface": "זאת",
-      "gloss": "bu"
+      "gloss": "buni"
     },
     {
       "surface": "עשינו",
@@ -73,26 +77,22 @@
     },
     {
       "surface": "שלחנו",
-      "gloss": "yubordik"
+      "gloss": "qoʻyib yubordik"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Isroil"
+      "marks": "Yisroel"
     },
     {
       "surface": "ישראל",
-      "gloss": "⟨את⟩ Isroil"
+      "gloss": "Yisroel"
     },
     {
       "surface": "מעבדנו",
-      "gloss": "xizmatimizdan"
-    },
-    {
-      "surface": "העם",
-      "gloss": "halkim…ga"
+      "gloss": "oʻz xizmatimizdan"
     }
   ],
-  "timestamp": "2026-08-26T00:54:35.444352622Z",
+  "timestamp": "2026-08-26T09:45:08.989788234Z",
   "model": "glm-5.3"
 }

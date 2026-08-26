@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va u menga dedi: „Mana homiladorsan va oʻgʻil tugʻasan; va endi ichma vino va mastlik ichimligi, va yema hech nopok narsani, chunki ⟨the⟩ yigit Elohimning naziri boʻladi qorindanoq oʻlgan kunigacha.“",
+  "translation": "Va menga aytdi: «Mana sen homiladorsan va oʻgʻil tugʻasan; va endi ichma vino va kuchli ichimlik, va yema hech qanday nopok narsani, chunki nazir — Elohim uchun boʻladi yigit bachadondan oʻlgan kunigacha.»",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "dedi"
+      "gloss": "va-aytdi"
     },
     {
       "surface": "לי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וילדת",
-      "gloss": "tugʻasan"
+      "gloss": "va-tugʻasan"
     },
     {
       "surface": "בן",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "va endi"
+      "gloss": "va-endi"
     },
     {
       "surface": "אל",
-      "gloss": "ema"
+      "gloss": "-ma"
     },
     {
       "surface": "תשתי",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ושכר",
-      "gloss": "va mastlik ichimligi"
+      "gloss": "va-kuchli-ichimlik"
     },
     {
       "surface": "ואל",
-      "gloss": "va yema"
+      "gloss": "va--ma"
     },
     {
       "surface": "תאכלי",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "hech narsani"
+      "gloss": "hech-qanday"
     },
     {
       "surface": "טמאה",
-      "gloss": "nopok"
+      "gloss": "nopok-narsa"
     },
     {
       "surface": "כי",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "נזיר",
-      "gloss": "naziri"
+      "gloss": "nazir"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohimning"
+      "gloss": "Elohim"
     },
     {
       "surface": "יהיה",
@@ -89,11 +89,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "-dan"
+      "gloss": "dan"
     },
     {
       "surface": "הבטן",
-      "gloss": "qorin"
+      "gloss": "bachadon"
     },
     {
       "surface": "עד",
@@ -101,13 +101,13 @@
     },
     {
       "surface": "יום",
-      "gloss": "kuni"
+      "gloss": "kun"
     },
     {
       "surface": "מותו",
-      "gloss": "uning oʻlimining"
+      "gloss": "uning-oʻlimi"
     }
   ],
-  "timestamp": "2026-08-26T02:33:16.025056404Z",
+  "timestamp": "2026-08-26T09:52:37.246886357Z",
   "model": "glm-5.3"
 }

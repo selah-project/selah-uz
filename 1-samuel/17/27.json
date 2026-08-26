@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Va ⟨the⟩ xalq unga bu soʻz boʻyicha aytdi: shunday qilinadi ⟨the⟩ odamga, kimki uni uradi.",
+  "translation": "Va xalq unga bu soʻz boʻyicha aytdi, deyishdi: «Shunday qilinadi uni urgan kishiga.»",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Va aytdi"
+      "gloss": "aytdi"
     },
     {
       "surface": "לו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ xalq"
+      "gloss": "xalq"
     },
     {
       "surface": "כדבר",
@@ -41,17 +41,17 @@
     },
     {
       "surface": "לאיש",
-      "gloss": "⟨the⟩ odamga"
+      "gloss": "kishiga"
     },
     {
       "surface": "אשר",
-      "gloss": "kimki"
+      "gloss": "ki"
     },
     {
       "surface": "יכנו",
-      "gloss": "uni uradi"
+      "gloss": "uni urgan"
     }
   ],
-  "timestamp": "2026-08-26T02:53:47.057361806Z",
+  "timestamp": "2026-08-26T09:52:57.656200367Z",
   "model": "glm-5.3"
 }

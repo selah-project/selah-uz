@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 66,
-  "translation": "Barakatli ⟨is⟩ Elohim, ki u duomni ham, oʻz xesedini ham mendan ⟨את⟩ chekbarmadi.",
+  "translation": "Barakoli ⟨boʻlsin⟩ Elohim, ki duomni va Oʻzining xesedini mendan uzoqlashtirmadi.",
   "tokens": [
     {
       "surface": "ברוך",
-      "gloss": "Barakatli ⟨is⟩"
+      "gloss": "Barakoli"
     },
     {
       "surface": "אלהים",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הסיר",
-      "gloss": "chekbarmadi"
+      "gloss": "uzoqlashtirmadi"
     },
     {
       "surface": "תפלתי",
@@ -33,14 +33,13 @@
     },
     {
       "surface": "וחסדו",
-      "gloss": "oʻz xesedini ham"
+      "gloss": "va Oʻzining xesedini"
     },
     {
       "surface": "מאתי",
-      "gloss": "mendon ⟨את⟩",
-      "marks": "mendon"
+      "gloss": "⟨את⟩ mendan"
     }
   ],
-  "timestamp": "2026-08-26T08:43:19.430471781Z",
+  "timestamp": "2026-08-26T10:00:51.713634685Z",
   "model": "glm-5.3"
 }

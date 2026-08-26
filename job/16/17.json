@@ -5,15 +5,15 @@
   "book": "job",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Emas, chunki zoʻravonlik qoʻllarimda yoʻq, va duom ⟨is⟩ pokdir.",
+  "translation": "⟨Menimtachun⟩ qoʻllarimda zoʻravonlik yoʻq, va duom pokdir.",
   "tokens": [
     {
       "surface": "על",
-      "gloss": "uchunki"
+      "gloss": "⟨Menimtachun⟩ (garchi)"
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "yoʻq"
     },
     {
       "surface": "חמס",
@@ -29,9 +29,9 @@
     },
     {
       "surface": "זכה",
-      "gloss": "pok"
+      "gloss": "pokdir"
     }
   ],
-  "timestamp": "2026-08-26T06:59:48.737642730Z",
+  "timestamp": "2026-08-26T10:02:18.406841054Z",
   "model": "glm-5.3"
 }

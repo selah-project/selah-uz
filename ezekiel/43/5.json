@@ -5,23 +5,23 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 43,
-  "translation": "Va ruax meni koʻtardi va ichki hovliga olib kirdi; va mana, Yahve kavodi toʻlgan ⟨the⟩ uy.",
+  "translation": "Va ruх meni koʻtardi va meni ichki hovliga olib kirdi, va mana — uyni Yahvening kavodi toʻldirgan ⟨edi⟩.",
   "tokens": [
     {
       "surface": "ותשאני",
-      "gloss": "va-koʻtardi-meni"
+      "gloss": "va ... koʻtardi"
     },
     {
       "surface": "רוח",
-      "gloss": "ruax"
+      "gloss": "ruх"
     },
     {
       "surface": "ותביאני",
-      "gloss": "va-olib-kirdi-meni"
+      "gloss": "olib kirdi"
     },
     {
       "surface": "אל",
-      "gloss": "…ga"
+      "gloss": "ga"
     },
     {
       "surface": "החצר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "והנה",
-      "gloss": "va-mana"
+      "gloss": "va mana"
     },
     {
       "surface": "מלא",
-      "gloss": "toʻlgan"
+      "gloss": "toʻldirgan"
     },
     {
       "surface": "כבוד",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahvening"
     },
     {
       "surface": "הבית",
-      "gloss": "uy"
+      "gloss": "uyni"
     }
   ],
-  "timestamp": "2026-08-26T05:30:47.415181912Z",
+  "timestamp": "2026-08-26T10:23:58.638103966Z",
   "model": "glm-5.3"
 }

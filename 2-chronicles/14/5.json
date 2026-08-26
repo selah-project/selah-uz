@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va u Yehudada mustahkam shaharlar qurdi, chunki ⟨the⟩ yer sokin edi va bu yillarda uning bilan urush yoʻq edi, chunki Yahve unga tinchlik bergan edi.",
+  "translation": "Va u Yehudada mustahkam shaharlar qurdi, chunki yer tinch edi va u yillarda uning yonida urush yoʻq edi, chunki Yahve unga tinchlik bergan edi.",
   "tokens": [
     {
       "surface": "ויבן",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "שקטה",
-      "gloss": "sokin edi"
+      "gloss": "tinch edi"
     },
     {
       "surface": "הארץ",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "ואין",
-      "gloss": "va yoʻq"
+      "gloss": "va yoʻq edi"
     },
     {
       "surface": "עמו",
-      "gloss": "uning bilan"
+      "gloss": "uning yonida"
     },
     {
       "surface": "מלחמה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "הניח",
-      "gloss": "tinchlik berdi"
+      "gloss": "tinchlik bergan edi"
     },
     {
       "surface": "יהוה",
@@ -72,6 +72,6 @@
       "gloss": "unga"
     }
   ],
-  "timestamp": "2026-08-26T08:09:21.531944460Z",
+  "timestamp": "2026-08-26T10:05:38.613857396Z",
   "model": "glm-5.3"
 }

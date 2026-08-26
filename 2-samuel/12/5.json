@@ -5,23 +5,23 @@
   "book": "2-samuel",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Va Dovudning gʻazabi ⟨the⟩ odamga qarshi juda alangладi, va u Natanga aytdi: Yahve tirikki, oʻlim farzandi ⟨is⟩ ⟨the⟩ bu ishni qilgan odam.",
+  "translation": "Va Dovudning gʻazabi odamga juda qaynadi va u Natanga dedi: Yahve tirikdir, chunki buni qilgan odam oʻlim farzandidir.",
   "tokens": [
     {
       "surface": "ויחר",
-      "gloss": "va ... alangладi"
+      "gloss": "qaynadi"
     },
     {
       "surface": "אף",
-      "gloss": "gʻazabi"
+      "gloss": "gʻazab"
     },
     {
       "surface": "דוד",
-      "gloss": "Dovudning"
+      "gloss": "Dovud"
     },
     {
       "surface": "באיש",
-      "gloss": "odamga qarshi"
+      "gloss": "odamga"
     },
     {
       "surface": "מאד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "va aytdi"
+      "gloss": "va dedi"
     },
     {
       "surface": "אל",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "tirikki"
+      "gloss": "tirikdir"
     },
     {
       "surface": "יהוה",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "זאת",
-      "gloss": "bu (ishni)"
+      "gloss": "buni"
     }
   ],
-  "timestamp": "2026-08-26T03:11:44.696099213Z",
+  "timestamp": "2026-08-26T09:53:21.268099738Z",
   "model": "glm-5.3"
 }

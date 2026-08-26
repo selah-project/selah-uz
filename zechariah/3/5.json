@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va men dedim: toza salla qoʻysinlar boshiga. Va ⟨the⟩ toza sallani qoʻydilar boshiga va kiyintirdilar uni kiyimlar bilan, va Yahve malaki turardi.",
+  "translation": "Va men dedim: „Boshiga toza salla qoʻysinlar.“ Va ⟨they⟩ toza sallani uning boshiga qoʻydilar va uni kiyimlar bilan kiyintirdilar, va Yahve maliki turgan ⟨edi⟩.",
   "tokens": [
     {
       "surface": "ואמר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "boshiga"
+      "gloss": "uning boshi"
     },
     {
       "surface": "וישימו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הצניף",
-      "gloss": "⟨the⟩ salla"
+      "gloss": "sallani"
     },
     {
       "surface": "הטהור",
@@ -49,19 +49,19 @@
     },
     {
       "surface": "ראשו",
-      "gloss": "boshiga"
+      "gloss": "uning boshi"
     },
     {
       "surface": "וילבשהו",
-      "gloss": "va kiyintirdilar uni"
+      "gloss": "va uni kiyintirdilar"
     },
     {
       "surface": "בגדים",
-      "gloss": "kiyimlar"
+      "gloss": "kiyimlar bilan"
     },
     {
       "surface": "ומלאך",
-      "gloss": "va malak"
+      "gloss": "va … maliki"
     },
     {
       "surface": "יהוה",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "עמד",
-      "gloss": "turardi"
+      "gloss": "turgan edi"
     }
   ],
-  "timestamp": "2026-08-26T05:52:21.198909267Z",
+  "timestamp": "2026-08-26T09:59:47.338748955Z",
   "model": "glm-5.3"
 }

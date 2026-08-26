@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 36,
-  "translation": "U yerda yovillik qiluvchilar yiqildilar, itarib tashlandilar va turolmaydilar.",
+  "translation": "U yerda yovuzlik qiluvchilar yiqildilar, ular siqib tashlandi va turolmaydilar.",
   "tokens": [
     {
       "surface": "שם",
-      "gloss": "U yerda"
+      "gloss": "u yerda"
     },
     {
       "surface": "נפלו",
@@ -21,29 +21,25 @@
     },
     {
       "surface": "און",
-      "gloss": "yovillik"
+      "gloss": "yovuzlik"
     },
     {
       "surface": "דחו",
-      "gloss": "itarib tashlandilar"
+      "gloss": "siqib tashlandilar"
     },
     {
-      "surface": "ו",
-      "gloss": "va"
-    },
-    {
-      "surface": "לא",
-      "gloss": "emas"
+      "surface": "ולא",
+      "gloss": "va ... emas"
     },
     {
       "surface": "יכלו",
-      "gloss": "turolmaydilar"
+      "gloss": "urolmaydilar"
     },
     {
       "surface": "קום",
       "gloss": "turmoq"
     }
   ],
-  "timestamp": "2026-08-26T06:05:09.653904420Z",
+  "timestamp": "2026-08-26T10:00:19.245465467Z",
   "model": "glm-5.3"
 }

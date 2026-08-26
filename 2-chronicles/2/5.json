@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Va kim kuch yetkazib Uni-nga uy qura oladi? Chunki ⟨the⟩ osmonlar va osmonlar-ning osmonlari Uni sigʻdira olmaydilar — va men kimman-ki, Uni-nga uy quray? Faqat Oning oldida tutatmoq uchun.",
+  "translation": "Va kim ⟨qodir⟩ Uni sigʻdirmoqga, unga uy qurishga? Chunki osmonlar va osmonlarning osmonlari Uni sigʻdira olmaydi — va men kimman ki unga uy quray, faqat Oldida tutatmoqche boʻlish uchun?",
   "tokens": [
     {
       "surface": "ומי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יעצר",
-      "gloss": "yetkazib qura oladi"
+      "gloss": "qodir"
     },
     {
       "surface": "כח",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "לבנות",
-      "gloss": "qurmoqqa"
+      "gloss": "qurishga"
     },
     {
       "surface": "לו",
-      "gloss": "Uni-nga"
+      "gloss": "unga"
     },
     {
       "surface": "בית",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "השמים",
-      "gloss": "osmonlar-ning"
+      "gloss": "osmonlarning"
     },
     {
       "surface": "לא",
-      "gloss": "olmaydilar"
+      "gloss": "olmas"
     },
     {
       "surface": "יכלכלהו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kimman-ki"
+      "gloss": "kimki"
     },
     {
       "surface": "אבנה",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "Uni-nga"
+      "gloss": "unga"
     },
     {
       "surface": "בית",
@@ -81,21 +81,21 @@
     },
     {
       "surface": "כי",
-      "gloss": "faqat (ki im)"
+      "gloss": "magar"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "faqat"
     },
     {
       "surface": "להקטיר",
-      "gloss": "tutatmoq uchun"
+      "gloss": "tutatmoqche boʻlish uchun"
     },
     {
       "surface": "לפניו",
-      "gloss": "Oning oldida"
+      "gloss": "Oldida"
     }
   ],
-  "timestamp": "2026-08-26T08:51:27.707316663Z",
+  "timestamp": "2026-08-26T10:05:00.811072501Z",
   "model": "glm-5.3"
 }

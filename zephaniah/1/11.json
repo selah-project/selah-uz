@@ -5,15 +5,19 @@
   "book": "zephaniah",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Nola qilinglar, Maktesh yashovchilari, chunki butun Kenaan xalqi jim boʻldi, kumush koʻtaruvchilarning barchasi kesib tashlandi.",
+  "translation": "Yigʻlang, ey Maktesh aholisi, chunki butun Kenaan xalqi yoʻq boʻldi, kumush koʻtaruvchilarning hammasi qirildi.",
   "tokens": [
     {
       "surface": "הילילו",
-      "gloss": "Nola qilinglar"
+      "gloss": "yigʻlang"
     },
     {
-      "surface": "יושבי המכתש",
-      "gloss": "Maktesh yashovchilari"
+      "surface": "יושבי",
+      "gloss": "aholisi"
+    },
+    {
+      "surface": "המכתש",
+      "gloss": "Maktesh"
     },
     {
       "surface": "כי",
@@ -21,7 +25,7 @@
     },
     {
       "surface": "נדמה",
-      "gloss": "jim boʻldi"
+      "gloss": "yoʻq boʻldi"
     },
     {
       "surface": "כל",
@@ -37,21 +41,21 @@
     },
     {
       "surface": "נכרתו",
-      "gloss": "kesib tashlandi"
+      "gloss": "qirildi"
     },
     {
       "surface": "כל",
-      "gloss": "barchasi"
+      "gloss": "hammasi"
     },
     {
       "surface": "נטילי",
-      "gloss": "koʻtaruvchilari"
+      "gloss": "koʻtaruvchilarning"
     },
     {
       "surface": "כסף",
       "gloss": "kumush"
     }
   ],
-  "timestamp": "2026-08-26T05:50:21.477768488Z",
+  "timestamp": "2026-08-26T09:58:37.347749671Z",
   "model": "glm-5.3"
 }

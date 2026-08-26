@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va aytdim: sizlarni Misr azobidan koʻtarib chiqaraman — kenaaniyxitoqiy va emoriy va perizziy va xivviy va yevusiy ⟨⟨the⟩⟩ yeriga, sut va asal oqib turgan yerga.",
+  "translation": "Va dedim: sizlarni ⟨את⟩ Misr azobidan koʻtarib chiqaraman — kanʼonlik va xitliy va emoriy va perizliy va xiviy va yevusiy ⟨yeriga⟩, sut va asal oqib turgan yerga.",
   "tokens": [
     {
       "surface": "ואמר",
-      "gloss": "va aytdim"
+      "gloss": "Va dedim"
     },
     {
       "surface": "אעלה",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "—ga"
+      "gloss": "—"
     },
     {
       "surface": "ארץ",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "הכנעני",
-      "gloss": "kenaaniy"
+      "gloss": "kanʼonlik"
     },
     {
       "surface": "והחתי",
-      "gloss": "va xitoqiy"
+      "gloss": "va xitliy"
     },
     {
       "surface": "והאמרי",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "והפרזי",
-      "gloss": "va perizziy"
+      "gloss": "va perizliy"
     },
     {
       "surface": "והחוי",
-      "gloss": "va xivviy"
+      "gloss": "va xiviy"
     },
     {
       "surface": "והיבוסי",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "—ga"
+      "gloss": "—"
     },
     {
       "surface": "ארץ",
@@ -81,6 +81,6 @@
       "gloss": "va asal"
     }
   ],
-  "timestamp": "2026-08-26T00:51:24.225661283Z",
+  "timestamp": "2026-08-26T09:45:12.403004650Z",
   "model": "glm-5.3"
 }

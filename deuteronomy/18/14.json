@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Chunki bu xalqlar, which ⟨את⟩ sen meros qilib olursan, augur-chilarga va folbinlarga quloq soladilar; and sen — not so has given to you Yahve, Elohim of you.",
+  "translation": "Chunki bu xalqlar, ki sen ⟨את⟩ ularni meros qilib olmoqdasan, bulut kuzatuvchilarga va folochilarga quloq soladilar; senga esa Yahve, Elohiming, bunday ⟨bermagan⟩.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "chunki"
+      "gloss": "Chunki"
     },
     {
       "surface": "הגוים",
-      "gloss": "bu xalqlar"
+      "gloss": "xalqlar"
     },
     {
       "surface": "האלה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "ki"
     },
     {
       "surface": "אתה",
@@ -29,28 +29,28 @@
     },
     {
       "surface": "יורש",
-      "gloss": "meros qilib olursan"
+      "gloss": "meros qilib olmoqdasan"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ular"
+      "marks": "ularni"
     },
     {
       "surface": "אל",
-      "gloss": "…ga"
+      "gloss": "-ga"
     },
     {
       "surface": "מעננים",
-      "gloss": "bulut-kuzatuvchi augurchilar"
+      "gloss": "bulut kuzatuvchilarga"
     },
     {
       "surface": "ואל",
-      "gloss": "va …ga"
+      "gloss": "va -ga"
     },
     {
       "surface": "קסמים",
-      "gloss": "folbinlar"
+      "gloss": "folochilarga"
     },
     {
       "surface": "ישמעו",
@@ -58,23 +58,23 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "and sen"
+      "gloss": "senga esa"
     },
     {
       "surface": "לא",
-      "gloss": "not"
+      "gloss": "yoʻq"
     },
     {
       "surface": "כן",
-      "gloss": "so"
+      "gloss": "bunday"
     },
     {
       "surface": "נתן",
-      "gloss": "has given"
+      "gloss": "bermagan"
     },
     {
       "surface": "לך",
-      "gloss": "to you"
+      "gloss": "senga"
     },
     {
       "surface": "יהוה",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohim of you"
+      "gloss": "Elohiming"
     }
   ],
-  "timestamp": "2026-08-26T01:58:41.289001105Z",
+  "timestamp": "2026-08-26T09:51:00.800006246Z",
   "model": "glm-5.3"
 }

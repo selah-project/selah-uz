@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 51,
-  "translation": "Uygʻon, uygʻon, qudratga kiyin, ey Yahve qoʻltigʻi; uygʻon qadimgi kunlar kabi, abadiy avlodlar ⟨zamonida⟩. Sen ⟨את⟩ emasmisan u — Rahabni kesib tashlagan, ajdarni teshgan?",
+  "translation": "Uygʻon, uygʻon, kiyin qudratni, ey Yahvening zroʻi! Uygʻon, xuddi qadimgi kunlardagidek, abadiy avlodlar davridagidek. Sen emasmisiz ⟨⟨u⟩⟩ — Rahabni kesib tashlagan, taninni yaralagan?",
   "tokens": [
     {
       "surface": "עורי",
-      "gloss": "Uygʻon"
+      "gloss": "uygʻon"
     },
     {
       "surface": "עורי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "עז",
-      "gloss": "qudratga"
+      "gloss": "qudratni"
     },
     {
       "surface": "זרוע",
-      "gloss": "qoʻltiq"
+      "gloss": "zroʻi"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahvening"
     },
     {
       "surface": "עורי",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "כימי",
-      "gloss": "kunlar kabi"
+      "gloss": "xuddi ... kunlardagidek"
     },
     {
       "surface": "קדם",
@@ -49,20 +49,19 @@
     },
     {
       "surface": "עולמים",
-      "gloss": "abadiy"
+      "gloss": "abadiy ... davridagidek"
     },
     {
       "surface": "הלוא",
-      "gloss": "emasmi"
+      "gloss": "emasmisiz"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "sen u (Rahabni kesgan)"
+      "gloss": "sen"
     },
     {
       "surface": "היא",
-      "gloss": "u"
+      "gloss": "⟨u⟩"
     },
     {
       "surface": "המחצבת",
@@ -74,13 +73,13 @@
     },
     {
       "surface": "מחוללת",
-      "gloss": "teshgan"
+      "gloss": "yaralagan"
     },
     {
       "surface": "תנין",
-      "gloss": "ajdar"
+      "gloss": "taninni"
     }
   ],
-  "timestamp": "2026-08-26T04:31:08.145284529Z",
+  "timestamp": "2026-08-26T10:23:15.299740375Z",
   "model": "glm-5.3"
 }

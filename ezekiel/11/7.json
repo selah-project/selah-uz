@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Shuning uchun shunday deydi Adonay Yahve: Ichiga qoʻygolangiz oʻldirilganlaringiz — ular ⟨the⟩ goʻshtdir va u ⟨the⟩ qozondir; ⟨את⟩ sizni esa ichidan chiqarib yubordi.",
+  "translation": "Shuning uchun Adonay Yahve shunday dedi: oʻldirilganlaringiz — ularni uning ichiga qoʻygansizlar — ⟨ular⟩ goʻshtdir, va ⟨u⟩ qozondir; va ⟨את⟩ sizlarni uning ichidan chiqardi.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "Shuning uchun"
+      "gloss": "shuning uchun"
     },
     {
       "surface": "כה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "deydi"
+      "gloss": "dedi"
     },
     {
       "surface": "אדני",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "שמתם",
-      "gloss": "qoʻygolangiz"
+      "gloss": "qoʻygansizlar"
     },
     {
       "surface": "בתוכה",
-      "gloss": "ichiga"
+      "gloss": "uning ichiga"
     },
     {
       "surface": "המה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "והיא",
-      "gloss": "va-u"
+      "gloss": "va ⟨u⟩"
     },
     {
       "surface": "הסיר",
@@ -61,18 +61,18 @@
     },
     {
       "surface": "ואתכם",
-      "gloss": "⟨את⟩",
-      "marks": "sizni"
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni (chiquvchi toʻldiruvchi)"
     },
     {
       "surface": "הוציא",
-      "gloss": "chiqarib yubordi"
+      "gloss": "chiqardi"
     },
     {
       "surface": "מתוכה",
-      "gloss": "ichidan"
+      "gloss": "uning ichidan"
     }
   ],
-  "timestamp": "2026-08-26T05:11:54.700030787Z",
+  "timestamp": "2026-08-26T10:23:21.311068755Z",
   "model": "glm-5.3"
 }

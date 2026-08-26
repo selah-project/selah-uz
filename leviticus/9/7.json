@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va dedi Moshe Ahronga: yaqinlash qurbongohga va qil ⟨את⟩ gunhoningni va ⟨את⟩ oloningni, va tozgʻor oʻzing uchun va xalq uchun; va qil ⟨את⟩ qurbон xalqning, va tozgʻor ular uchun, xuddiki buyurdi Yahve.",
+  "translation": "Va Moshe Aharon ga aytdi: qurbongohga yaqinlash va ⟨את⟩ gunhoning qurbonini va ⟨את⟩ butunlay yoqilgan qurboningni qil, oʻzing uchun va xalq uchun kafforot qil; va ⟨את⟩ xalqning qurbonini qil va ular uchun kafforot qil — Yahve buyurganidek.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "va dedi"
+      "gloss": "va aytdi"
     },
     {
       "surface": "משה",
@@ -42,24 +42,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "gunhoningni"
+      "marks": "gunhoning qurbonini"
     },
     {
       "surface": "חטאתך",
-      "gloss": "gunhoning"
+      "gloss": "gunhoning qurbonini"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "oloningni"
+      "marks": "butunlay yoqilgan qurboningni"
     },
     {
       "surface": "עלתך",
-      "gloss": "oloning"
+      "gloss": "butunlay yoqilgan qurboningni"
     },
     {
       "surface": "וכפר",
-      "gloss": "va tozgʻor"
+      "gloss": "va kafforot qil"
     },
     {
       "surface": "בעדך",
@@ -80,11 +80,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qurbонni"
+      "marks": "xalqning qurbonini"
     },
     {
       "surface": "קרבן",
-      "gloss": "qurbон"
+      "gloss": "qurbonini"
     },
     {
       "surface": "העם",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "וכפר",
-      "gloss": "va tozgʻor"
+      "gloss": "va kafforot qil"
     },
     {
       "surface": "בעדם",
@@ -100,17 +100,17 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "xuddiki"
+      "gloss": "…dek"
     },
     {
       "surface": "צוה",
-      "gloss": "buyurdi"
+      "gloss": "buyurgan"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-26T01:13:29.088945330Z",
+  "timestamp": "2026-08-26T09:46:58.096155907Z",
   "model": "glm-5.3"
 }

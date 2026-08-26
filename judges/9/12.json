@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va daraxtlar tokka dedilar: kelsen, ⟨את⟩ — podshohlik qilsen bizning ustimizda.",
+  "translation": "Daraxtlar tokga aytdilar: Kel, sen bizning ustimizdan hukmronlik qil.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "va dedilar"
+      "gloss": "aytdilar"
     },
     {
       "surface": "העצים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לגפן",
-      "gloss": "tokka"
+      "gloss": "tokga"
     },
     {
       "surface": "לכי",
@@ -25,18 +25,17 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "sen"
+      "gloss": "sen"
     },
     {
       "surface": "מלוכי",
-      "gloss": "podshohlik qil"
+      "gloss": "hukmronlik qil"
     },
     {
       "surface": "עלינו",
-      "gloss": "bizning ustimizda"
+      "gloss": "bizning ustimizdan"
     }
   ],
-  "timestamp": "2026-08-26T02:30:15.688456067Z",
+  "timestamp": "2026-08-26T09:52:06.354088537Z",
   "model": "glm-5.3"
 }

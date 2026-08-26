@@ -5,28 +5,28 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Va Devir ⟨the⟩ kirish joyiga esa u zaytun yogʻochidan eshiklar yasadi — toʻsin va ustunlar besh qirrali ⟨edi⟩.",
+  "translation": "Va Devir ⟨ichki muqaddas joy⟩ning ⟨את⟩ kirish eshigini yogʻoch darvozalardan — zaytun daraxti yogʻochidan — qildi; ustki toʻsin va yon ustunlar besh qirrali ⟨edi⟩.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kirish joyi"
+      "marks": "kirish eshigini"
     },
     {
       "surface": "פתח",
-      "gloss": "kirish joyi"
+      "gloss": "kirish eshigini"
     },
     {
       "surface": "הדביר",
-      "gloss": "Devir"
+      "gloss": "Devir ⟨ichki muqaddas joy⟩ning"
     },
     {
       "surface": "עשה",
-      "gloss": "yasadi"
+      "gloss": "qildi"
     },
     {
       "surface": "דלתות",
-      "gloss": "eshiklar"
+      "gloss": "darvozalardan"
     },
     {
       "surface": "עצי",
@@ -34,21 +34,21 @@
     },
     {
       "surface": "שמן",
-      "gloss": "zaytun"
+      "gloss": "zaytun ⟨daraxti⟩"
     },
     {
       "surface": "האיל",
-      "gloss": "toʻsin"
+      "gloss": "ustki toʻsin"
     },
     {
       "surface": "מזוזות",
-      "gloss": "ustunlar"
+      "gloss": "yon ustunlar"
     },
     {
       "surface": "חמשית",
       "gloss": "besh qirrali"
     }
   ],
-  "timestamp": "2026-08-26T08:31:35.549285700Z",
+  "timestamp": "2026-08-26T09:53:36.924618462Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va agar kohin koʻrsa va mana — nuqsa tarqalmagan libosda yoki urgidа yoki arqoqda yoki har qanday ter buyumda,",
+  "translation": "Va agar kohen koʻrsa va mana, nuqson kiyimda yoki arqonda yoki aʼdoda yoki har qanday teri buyumda tarqalmagan boʻlsa —",
   "tokens": [
     {
       "surface": "ואם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kohin"
+      "gloss": "kohen"
     },
     {
       "surface": "והנה",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "פשה",
-      "gloss": "tarqadi"
+      "gloss": "tarqalmagan"
     },
     {
       "surface": "הנגע",
-      "gloss": "nuqsa"
+      "gloss": "nuqson"
     },
     {
       "surface": "בבגד",
-      "gloss": "libosda"
+      "gloss": "kiyimda"
     },
     {
       "surface": "או",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בשתי",
-      "gloss": "urgida"
+      "gloss": "arqonda"
     },
     {
       "surface": "או",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בערב",
-      "gloss": "arqoqda"
+      "gloss": "aʼdoda"
     },
     {
       "surface": "או",
@@ -65,13 +65,13 @@
     },
     {
       "surface": "כלי",
-      "gloss": "buyum"
+      "gloss": "buyumda"
     },
     {
       "surface": "עור",
-      "gloss": "ter"
+      "gloss": "teri"
     }
   ],
-  "timestamp": "2026-08-26T01:16:46.383577363Z",
+  "timestamp": "2026-08-26T09:47:09.110512216Z",
   "model": "glm-5.3"
 }

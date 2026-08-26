@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va ⟨u⟩ oʻsha odamlar unga aytishdi: Biz odam nefeshidan nopokmiz; nima uchun mahrum boʻlamiz, Yahvening qurbонини oʻz moʻʼyodida, Yisroel oʻgʻillari orasida yaqinlashtirmaslik uchun?",
+  "translation": "Va oʻsha odamlar unga aytdilar: biz odam nefeshidan nopokmiz — nima uchun kam qilinamiz, Yahvening qurboni ⟨את⟩ oʻz moʻjaida, Isroil oʻgʻillari orasida yaqinlashib keltirmasligimiz uchun?",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "va aytishdi"
+      "gloss": "va aytdilar"
     },
     {
       "surface": "האנשים",
-      "gloss": "odamlar"
+      "gloss": "oʻsha odamlar"
     },
     {
       "surface": "ההמה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "לנפש",
-      "gloss": "nefesh(idan)"
+      "gloss": "nefeshidan"
     },
     {
       "surface": "אדם",
@@ -45,32 +45,32 @@
     },
     {
       "surface": "נגרע",
-      "gloss": "mahrum boʻlamiz"
+      "gloss": "kam qilinamiz"
     },
     {
       "surface": "לבלתי",
-      "gloss": "...maslik uchun"
+      "gloss": "…masligimiz uchun"
     },
     {
       "surface": "הקרב",
-      "gloss": "yaqinlashtirmoq"
+      "gloss": "yaqinlashib keltirmasligimiz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qurbонni"
+      "marks": "qurbon"
     },
     {
       "surface": "קרבן",
-      "gloss": "qurbонni"
+      "gloss": "qurboni"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahvening"
+      "gloss": "Yahve"
     },
     {
       "surface": "במעדו",
-      "gloss": "oʻz moʻʼyodida"
+      "gloss": "oʻz moʻjaida"
     },
     {
       "surface": "בתוך",
@@ -82,9 +82,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisroel"
+      "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T01:30:37.274557467Z",
+  "timestamp": "2026-08-26T09:47:50.297888026Z",
   "model": "glm-5.3"
 }

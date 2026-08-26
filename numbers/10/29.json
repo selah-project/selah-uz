@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va Moshe Xovabga — Reuvelning oʻgʻli, midyonlik, Moshening qaynotasiga — dedi: Biz yoʻlga chiqmoqdamiz ⟨the⟩ oʻsha joyga, Yahve aytgan: uni sizlarga beraman; kel biz bilan, va biz senga yaxshilik qilamiz, chunki Yahve Isroil haqida yaxshilik aytdi.",
+  "translation": "Va Moshe Xovavga — Reuvel oʻgʻli, midyonlik, Moshening qaynotasi — dedi: Biz yoʻlga chiqmoqdamiz — oʻsha joyga, haqida Yahve aytgan: Uni sizlarga beraman; kel sen ⟨את⟩ biz bilan, va biz senga yaxshilik qilamiz, chunki Yahve Isroil haqida yaxshi soʻz aytdi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לחבב",
-      "gloss": "Xovabga"
+      "gloss": "Xovavga"
     },
     {
       "surface": "בן",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "רעואל",
-      "gloss": "Reuvelning"
+      "gloss": "Reuvel"
     },
     {
       "surface": "המדיני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "משה",
-      "gloss": "Moshe"
+      "gloss": "Moshening"
     },
     {
       "surface": "נסעים",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "tomon"
+      "gloss": "—ga"
     },
     {
       "surface": "המקום",
-      "gloss": "the joy"
+      "gloss": "oʻsha joy"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "haqida"
     },
     {
       "surface": "אמר",
@@ -70,7 +70,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ uni",
-      "marks": "המקום — the joy"
+      "marks": "uni — yaʼni beriladigan joy (sizlarga beraman)"
     },
     {
       "surface": "אתן",
@@ -82,11 +82,12 @@
     },
     {
       "surface": "לכה",
-      "gloss": "kel"
+      "gloss": "kel sen"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ bilan"
+      "gloss": "⟨את⟩ biz bilan",
+      "marks": "biz bilan"
     },
     {
       "surface": "והטבנו",
@@ -106,11 +107,11 @@
     },
     {
       "surface": "דבר",
-      "gloss": "aytdi"
+      "gloss": "soʻz aytdi"
     },
     {
       "surface": "טוב",
-      "gloss": "yaxshilik"
+      "gloss": "yaxshi"
     },
     {
       "surface": "על",
@@ -121,6 +122,6 @@
       "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T01:30:29.898258140Z",
+  "timestamp": "2026-08-26T10:06:37.283504812Z",
   "model": "glm-5.3"
 }

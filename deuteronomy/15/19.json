@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Har bir toʻngʻich, erkak, ki tugʻiladi qoramolingda va qoʻylaringda — muqaddas qilursan Yahvegа, Elohimingа; ishlatmasan toʻngʻich buqangni va qirmaysan toʻngʻich qoʻyningni.",
+  "translation": "Har bir tovongʻingda va podangda tugʻiladigan birinchi tugʻilgan ⟨erkak⟩ni Yahve, Elohiming uchun muqadas qilasan; shoringning birinchi tugʻilgani bilan ishlamaysan va podangning birinchi tugʻilganini qirmaysan.",
   "tokens": [
     {
       "surface": "כל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הבכור",
-      "gloss": "toʻngʻich"
+      "gloss": "birinchi tugʻilgan"
     },
     {
       "surface": "אשר",
@@ -21,51 +21,51 @@
     },
     {
       "surface": "יולד",
-      "gloss": "tugʻiladi"
+      "gloss": "tugʻiladigan"
     },
     {
       "surface": "בבקרך",
-      "gloss": "qoramolingda"
+      "gloss": "tovongʻingda"
     },
     {
       "surface": "ובצאנך",
-      "gloss": "va qoʻylaringda"
+      "gloss": "va podangda"
     },
     {
       "surface": "הזכר",
-      "gloss": "erkak"
+      "gloss": "⟨erkak⟩ni"
     },
     {
       "surface": "תקדיש",
-      "gloss": "muqaddas qilursan"
+      "gloss": "muqadas qilasan"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahve uchun"
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohimingа"
+      "gloss": "Elohiming"
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "emas"
     },
     {
       "surface": "תעבד",
-      "gloss": "ishlatmasan"
+      "gloss": "ishlamaysan"
     },
     {
       "surface": "בבכר",
-      "gloss": "toʻngʻich"
+      "gloss": "birinchi tugʻilgani bilan"
     },
     {
       "surface": "שורך",
-      "gloss": "buqangni"
+      "gloss": "shoringning"
     },
     {
       "surface": "ולא",
-      "gloss": "va yoʻq"
+      "gloss": "va emas"
     },
     {
       "surface": "תגז",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "בכור",
-      "gloss": "toʻngʻich"
+      "gloss": "birinchi tugʻilganini"
     },
     {
       "surface": "צאנך",
-      "gloss": "qoʻyningni"
+      "gloss": "podangning"
     }
   ],
-  "timestamp": "2026-08-26T01:55:15.909343314Z",
+  "timestamp": "2026-08-26T10:22:08.912462486Z",
   "model": "glm-5.3"
 }

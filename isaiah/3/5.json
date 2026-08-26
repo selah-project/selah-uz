@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va ⟨the⟩ xalq bosiladi, odam ⟨by⟩ odam va odam oʻz yoninisiga; yosh qariga qarshi tavakkal qiladi, va arzon qadrli sha'nli kishiga qarshi.",
+  "translation": "Va xalq eziladi, odam ⟨את⟩ odam tomonidan, va odam oʻz qoʻshnisini ⟨את⟩; yosh qariga qarshi tavakkal qiladi, va past-kasdorli hurmatli zimmasiga.",
   "tokens": [
     {
       "surface": "ונגש",
-      "gloss": "Va bosiladi"
+      "gloss": "va eziladi"
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ xalq"
+      "gloss": "xalq"
     },
     {
       "surface": "איש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "באיש",
-      "gloss": "⟨by⟩ odam"
+      "gloss": "odam tomonidan"
     },
     {
       "surface": "ואיש",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ברעהו",
-      "gloss": "oʻz yoninisiga"
+      "gloss": "oʻz qoʻshnisi"
     },
     {
       "surface": "ירהבו",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "והנקלה",
-      "gloss": "va arzon"
+      "gloss": "va past-kasdorli"
     },
     {
       "surface": "בנכבד",
-      "gloss": "qadrli sha'nli kishiga qarshi"
+      "gloss": "hurmatli zimmasiga"
     }
   ],
-  "timestamp": "2026-08-26T09:02:56.292908368Z",
+  "timestamp": "2026-08-26T09:54:47.822533823Z",
   "model": "glm-5.3"
 }

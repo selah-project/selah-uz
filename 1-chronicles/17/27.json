@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Va endi qulingning uyini barakalashga rozilik berding — abadiy sening oldingda boʻlish uchun; chunki sen, Yahve, barakalading va u abadiy barakali ⟨is⟩.",
+  "translation": "Va endi Sen bandazingning uyini barakalashga iko qilding — ⟨את⟩ bandazingning uyini — abadiy Sening yuzing oldida turishi uchun; chunki Sen, ey Yahve, barakalading va u abadiy barakalangan ⟨boʻladi⟩.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הואלת",
-      "gloss": "rozilik berding"
+      "gloss": "iko qilding"
     },
     {
       "surface": "לברך",
@@ -22,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uyini"
+      "marks": "bandazingning uyini"
     },
     {
       "surface": "בית",
-      "gloss": "uy"
+      "gloss": "uyini"
     },
     {
       "surface": "עבדך",
-      "gloss": "qulingning"
+      "gloss": "bandazingning"
     },
     {
       "surface": "להיות",
-      "gloss": "boʻlish"
+      "gloss": "turishi uchun"
     },
     {
       "surface": "לעולם",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "לפניך",
-      "gloss": "sening oldingda"
+      "gloss": "Sening yuzing oldida"
     },
     {
       "surface": "כי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אתה",
-      "gloss": "sen"
+      "gloss": "Sen"
     },
     {
       "surface": "יהוה",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "ומברך",
-      "gloss": "va barakali"
+      "gloss": "va barakalangan"
     },
     {
       "surface": "לעולם",
       "gloss": "abadiy"
     }
   ],
-  "timestamp": "2026-08-26T07:59:53.815282184Z",
+  "timestamp": "2026-08-26T10:05:01.671085655Z",
   "model": "glm-5.3"
 }

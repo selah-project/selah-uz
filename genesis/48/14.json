@@ -5,20 +5,20 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 48,
-  "translation": "Va Isroel ⟨את⟩ oʻng qoʻlini choʻzib, u(ni) Efrayimning boshiga qoʻydi — u esa kichigi ⟨edi⟩ — va ⟨את⟩ chap qoʻlini Menashshening boshiga qoʻydi; u ⟨את⟩ qoʻllarini bilib-ataylab oʻgirdi, chunki Menashshe ⟨the⟩ bekori ⟨edi⟩.",
+  "translation": "Va Isroil oʻng qoʻlini choʻzdi va uni Efrayimning boshiga qoʻydi — u ⟨⟩⟩ kichigi edi — va ⟨את⟩ chap qoʻlini Menashshening boshiga; ⟨u⟩ qoʻllarini ataylab chatishtirdi, chunki Menashshe toʻngʻich edi.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "Va…choʻzdi"
+      "gloss": "choʻzdi"
     },
     {
-      "surface": "יִשְׂרָאֵל",
-      "gloss": "Isroel"
+      "surface": "ישראל",
+      "gloss": "Isroil"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oʻng qoʻli"
+      "marks": "oʻng qoʻlini"
     },
     {
       "surface": "ימינו",
@@ -26,32 +26,32 @@
     },
     {
       "surface": "וישת",
-      "gloss": "qoʻydi"
+      "gloss": "va qoʻydi"
     },
     {
       "surface": "על",
-      "gloss": "…ga"
+      "gloss": "ustiga"
     },
     {
       "surface": "ראש",
-      "gloss": "boshiga"
+      "gloss": "boshi"
     },
     {
       "surface": "אפרים",
-      "gloss": "Efrayimning"
+      "gloss": "Efrayim"
     },
     {
       "surface": "והוא",
-      "gloss": "u esa"
+      "gloss": "u"
     },
     {
       "surface": "הצעיר",
-      "gloss": "kichigi"
+      "gloss": "kichik"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "chap qoʻli"
+      "marks": "chap qoʻlini"
     },
     {
       "surface": "שמאלו",
@@ -59,24 +59,24 @@
     },
     {
       "surface": "על",
-      "gloss": "…ga"
+      "gloss": "ustiga"
     },
     {
       "surface": "ראש",
-      "gloss": "boshiga"
+      "gloss": "boshi"
     },
     {
       "surface": "מנשה",
-      "gloss": "Menashshening"
+      "gloss": "Menashshe"
     },
     {
       "surface": "שכל",
-      "gloss": "bilib-ataylab oʻgirdi"
+      "gloss": "ataylab yoʻnaltirdi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qoʻllari"
+      "marks": "qoʻllarini"
     },
     {
       "surface": "ידיו",
@@ -92,9 +92,9 @@
     },
     {
       "surface": "הבכור",
-      "gloss": "bekor (tugʻilishdan kattasi)"
+      "gloss": "toʻngʻich"
     }
   ],
-  "timestamp": "2026-08-26T08:19:37.367576777Z",
+  "timestamp": "2026-08-26T09:44:56.299785964Z",
   "model": "glm-5.3"
 }

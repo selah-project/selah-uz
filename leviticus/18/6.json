@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Har bir kishi — yaqon qarindoshining yaqiniga, goʻshtingizning ⟨the⟩ yaqinlariga yaqinlashmang, yalangligini ochish uchun; Men Yahve ⟨man⟩.",
+  "translation": "Har bir kishi — oʻz goʻshtining qarindoshlarining har biriga yaqinlashmang — yalangʻochlikni ochish uchun yaqinlashmang; Men Yahve ⟨man⟩.",
   "tokens": [
     {
       "surface": "איש",
-      "gloss": "kishi"
+      "gloss": "har bir kishi"
     },
     {
       "surface": "איש",
-      "gloss": "har bir"
+      "gloss": "har bir ⟨kishi⟩"
     },
     {
       "surface": "אל",
-      "gloss": "— yaqiniga"
+      "gloss": "—"
     },
     {
       "surface": "כל",
-      "gloss": "barchasiga"
+      "gloss": "har biriga"
     },
     {
       "surface": "שאר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בשרו",
-      "gloss": "goʻshtining"
+      "gloss": "oʻz goʻshtining"
     },
     {
       "surface": "לא",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ערוה",
-      "gloss": "yalanglik"
+      "gloss": "yalangʻochlikni"
     },
     {
       "surface": "אני",
@@ -56,6 +56,6 @@
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-26T08:21:52.500034847Z",
+  "timestamp": "2026-08-26T09:47:04.873989849Z",
   "model": "glm-5.3"
 }

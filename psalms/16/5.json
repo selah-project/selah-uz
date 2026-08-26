@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Yahve ⟨is⟩ ulushimning oʻlchov-ulushi va piyolam; Sen lotimni ushlab turuvchisan.",
+  "translation": "Yahve — mening ulushimning oʻlchovi va mening piyolam; Sen — mening qurʼamni koʻturasan.",
   "tokens": [
     {
       "surface": "יהוה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "מנת",
-      "gloss": "oʻlchov-ulush"
+      "gloss": "oʻlchov (ulush)"
     },
     {
       "surface": "חלקי",
-      "gloss": "ulushimning"
+      "gloss": "mening ulushim"
     },
     {
       "surface": "וכוסי",
-      "gloss": "va piyolam"
+      "gloss": "va mening piyolam"
     },
     {
       "surface": "אתה",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "תומיך",
-      "gloss": "ushlab turuvchisan"
+      "gloss": "koʻtarasan \/ ushlab turasan"
     },
     {
       "surface": "גורלי",
-      "gloss": "lotimni"
+      "gloss": "mening qurʼam"
     }
   ],
-  "timestamp": "2026-08-26T06:00:47.559471481Z",
+  "timestamp": "2026-08-26T10:24:11.257164487Z",
   "model": "glm-5.3"
 }

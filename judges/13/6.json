@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va ⟨the⟩ ayol keldi va eriga aytib dedi: „Elohim odami kelgan menga, va uning koʻrinishi Elohim malakasining koʻrinishiga oʻxshaydi, juda dahshatli; va men undan soʻramadim qayerdan ⟨u⟩, va ⟨את⟩ uning ismini menga aytmadi.“",
+  "translation": "Va ayol keldi va eriga aytib dedi: «Elohim odami keldi menga, va uning koʻrinishi Elohim elchisining koʻrinishidek — juda dahshatli; va men undan soʻramadim qayerdan ⟨u⟩, va ⟨את⟩ uning ismini menga aytmadi.»",
   "tokens": [
     {
       "surface": "ותבא",
-      "gloss": "keldi"
+      "gloss": "va-keldi"
     },
     {
       "surface": "האשה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "dedi"
+      "gloss": "va-aytdi"
     },
     {
       "surface": "לאישה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "aytib"
+      "gloss": "deb"
     },
     {
       "surface": "איש",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohimning"
+      "gloss": "Elohim"
     },
     {
       "surface": "בא",
-      "gloss": "kelgan"
+      "gloss": "keldi"
     },
     {
       "surface": "אלי",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "ומראהו",
-      "gloss": "uning koʻrinishi"
+      "gloss": "va-uning-koʻrinishi"
     },
     {
       "surface": "כמראה",
-      "gloss": "koʻrinishiga oʻxshaydi"
+      "gloss": "koʻrinishidek"
     },
     {
       "surface": "מלאך",
-      "gloss": "malakasining"
+      "gloss": "elchisi"
     },
     {
       "surface": "האלהים",
@@ -69,19 +69,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "va yoʻq"
+      "gloss": "va-yoʻq"
     },
     {
       "surface": "שאלתיהו",
-      "gloss": "soʻramadim"
+      "gloss": "soʻramadim-unidan"
     },
     {
       "surface": "אי",
-      "gloss": "qayer"
+      "gloss": "qayerdan"
     },
     {
       "surface": "מזה",
-      "gloss": "-dan"
+      "gloss": "u"
     },
     {
       "surface": "הוא",
@@ -89,12 +89,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "uning ismini"
     },
     {
       "surface": "שמו",
-      "gloss": "uning ismini"
+      "gloss": "uning-ismi"
     },
     {
       "surface": "לא",
@@ -109,6 +109,6 @@
       "gloss": "menga"
     }
   ],
-  "timestamp": "2026-08-26T02:33:16.024887310Z",
+  "timestamp": "2026-08-26T09:52:37.246666035Z",
   "model": "glm-5.3"
 }

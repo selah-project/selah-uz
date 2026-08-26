@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Va bu sizga ⟨the⟩ belgi: bu yilda oʻz-oʻzidan oʻsganini yenglar, ikkinchi yilda oʻzidan chiqqanini, uchinchi yilda esa ekanglar va oʻranglar va uzumzorlar ekanglar va mevalarini yenglar.",
+  "translation": "Va bu sanaqtir ⟨senga⟩: oʻsha yilda oʻz-oʻzidan oʻsganini yeyasan, ikkinchi yilda oʻzidan qayta oʻsganini, uchinchi yilda esa ekib, oʻrib, tokzorlar oʻtqazib, ularning mevalarini yeymiz.",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "Va bu"
+      "gloss": "va bu"
     },
     {
       "surface": "לך",
-      "gloss": "sizga"
+      "gloss": "sanga"
     },
     {
       "surface": "האות",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "אכול",
-      "gloss": "yenglar"
+      "gloss": "yeyasan"
     },
     {
       "surface": "השנה",
-      "gloss": "bu yilda"
+      "gloss": "oʻsha yilda"
     },
     {
       "surface": "ספיח",
-      "gloss": "oʻz-oʻzidan oʻsganini"
+      "gloss": "oʻz-oʻzidan oʻsgan hosil"
     },
     {
       "surface": "ובשנה",
-      "gloss": "va ... yilda"
+      "gloss": "va ikkinchi yilda"
     },
     {
       "surface": "השנית",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "סחיש",
-      "gloss": "oʻzidan chiqqanini"
+      "gloss": "oʻzidan qayta oʻsgan"
     },
     {
       "surface": "ובשנה",
-      "gloss": "va ... yilda"
+      "gloss": "va uchinchi yilda"
     },
     {
       "surface": "השלישית",
@@ -53,29 +53,29 @@
     },
     {
       "surface": "זרעו",
-      "gloss": "ekanglar"
+      "gloss": "ekasizlar"
     },
     {
       "surface": "וקצרו",
-      "gloss": "va oʻranglar"
+      "gloss": "va oʻrasizlar"
     },
     {
       "surface": "ונטעו",
-      "gloss": "va ekanglar"
+      "gloss": "va oʻtqazasizlar"
     },
     {
       "surface": "כרמים",
-      "gloss": "uzumzorlar"
+      "gloss": "tokzorlar"
     },
     {
       "surface": "ואכלו",
-      "gloss": "va yenglar"
+      "gloss": "va yeysizlar"
     },
     {
       "surface": "פרים",
-      "gloss": "mevalarini"
+      "gloss": "ularning mevalarini"
     }
   ],
-  "timestamp": "2026-08-26T04:01:47.036090492Z",
+  "timestamp": "2026-08-26T10:22:50.218107815Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Agar Yahvedan ⟨את⟩ qoʻrqmoq boʻlsangiz va Uni xizmat qilsangiz va Ovozini tinglasangiz va Yahve ogʻiz soʻziga ⟨את⟩ qarshi bosh koʻtarmasangiz — ham sizlar, ham sizlar ustiga hukm surayotgan podshoh Yahve Elohimingiz ortidan yursangiz ⟨is⟩ yaxshi.",
+  "translation": "Agar siz ⟨את⟩ Yahve dan qoʻrqsangizlar va Uni xizmat qilsangizlar va Ovozini eshitsangizlar va Yahve Ogʻiziga ⟨את⟩ qarshi chiqmasangizlar — ham siz oʻzingizlar, ham ustingizda hukm surayotgan podshoh — Yahve Elohimingiz ortidan yursangizlar.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "agar"
+      "gloss": "Agar"
     },
     {
       "surface": "תיראו",
-      "gloss": "qoʻrqmoq boʻlsangiz"
+      "gloss": "qoʻrqsangizlar"
     },
     {
       "surface": "את",
@@ -26,20 +26,20 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "va xizmat qilsangiz"
+      "gloss": "va xizmat qilsangizlar"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ Uni",
-      "marks": "Yahve"
+      "gloss": "⟨את⟩Uni",
+      "marks": "Yahve (xizmat obyekti)"
     },
     {
       "surface": "ושמעתם",
-      "gloss": "va tinglasangiz"
+      "gloss": "va eshitsangizlar"
     },
     {
       "surface": "בקלו",
-      "gloss": "Ovozini"
+      "gloss": "Ovoziga"
     },
     {
       "surface": "ולא",
@@ -47,16 +47,16 @@
     },
     {
       "surface": "תמרו",
-      "gloss": "qarshi chiqsangiz"
+      "gloss": "qarshi chiqsangizlar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ogʻiz soʻzi"
+      "marks": "Ogʻiz"
     },
     {
       "surface": "פי",
-      "gloss": "ogʻiz"
+      "gloss": "Ogʻiz"
     },
     {
       "surface": "יהוה",
@@ -64,7 +64,7 @@
     },
     {
       "surface": "והיתם",
-      "gloss": "va boʻlsangiz"
+      "gloss": "boʻlsangizlar"
     },
     {
       "surface": "גם",
@@ -72,7 +72,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "sizlar"
+      "gloss": "siz oʻzingizlar"
     },
     {
       "surface": "וגם",
@@ -84,7 +84,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "kim"
     },
     {
       "surface": "מלך",
@@ -92,7 +92,7 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "sizlar ustida"
+      "gloss": "ustingizda"
     },
     {
       "surface": "אחר",
@@ -107,6 +107,6 @@
       "gloss": "Elohimingiz"
     }
   ],
-  "timestamp": "2026-08-26T02:45:35.020610838Z",
+  "timestamp": "2026-08-26T10:07:19.359905361Z",
   "model": "glm-5.3"
 }

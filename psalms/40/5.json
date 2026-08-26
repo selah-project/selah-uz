@@ -5,43 +5,43 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 40,
-  "translation": "Baxtlidir ⟨the⟩ odam — u Yahveni oʻz ishonchi qildi va magʻrurlarga, yolgʻonga ogʻayganlarga yuz oʻgirmadi.",
+  "translation": "Baxtli ⟨-dir⟩ odamki, Yahveni ishonch panohi qilib qoʻygan va magʻrurlarga ham, yolgʻonga ogʻishganlarga ham yuz oʻgirmagan.",
   "tokens": [
     {
       "surface": "אשרי",
-      "gloss": "Baxtlidir"
+      "gloss": "Baxtli"
     },
     {
       "surface": "הגבר",
-      "gloss": "⟨the⟩ odam"
+      "gloss": "odam"
     },
     {
       "surface": "אשר",
-      "gloss": "u"
+      "gloss": "-ki"
     },
     {
       "surface": "שם",
-      "gloss": "qildi"
+      "gloss": "qilib qoʻygan"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahveni"
     },
     {
       "surface": "מבטחו",
-      "gloss": "oʻz ishonchi"
+      "gloss": "ishonch panohi"
     },
     {
       "surface": "ולא",
-      "gloss": "va yoʻq"
+      "gloss": "va ... oʻgirmagan"
     },
     {
       "surface": "פנה",
-      "gloss": "yuz oʻgirmadi"
+      "gloss": "yuz oʻgirmagan"
     },
     {
       "surface": "אל",
-      "gloss": "-ga"
+      "gloss": "...ga"
     },
     {
       "surface": "רהבים",
@@ -49,13 +49,13 @@
     },
     {
       "surface": "ושטי",
-      "gloss": "va ogʻayganlar"
+      "gloss": "... ogʻishganlarga ham"
     },
     {
       "surface": "כזב",
       "gloss": "yolgʻonga"
     }
   ],
-  "timestamp": "2026-08-26T08:42:58.773012141Z",
+  "timestamp": "2026-08-26T10:00:23.714249580Z",
   "model": "glm-5.3"
 }

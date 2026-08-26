@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Oltitasi ularning ismlaridan ⟨the⟩ bir toshning ustiga, va ⟨את⟩ qolgan oltitaning ismlarini ⟨the⟩ ikkinchi toshning ustiga — tugʻilishlari tartibicha.",
+  "translation": "Oltitasi nomlaridan bir toshda, qolgan oltitasining ⟨את⟩ ismlarini esa ikkinchi toshda, tugʻilish tartiblaricha.",
   "tokens": [
     {
       "surface": "ששה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "משמתם",
-      "gloss": "ularning ismlaridan"
+      "gloss": "nomlaridan"
     },
     {
       "surface": "על",
-      "gloss": "ustiga"
+      "gloss": "…da"
     },
     {
       "surface": "האבן",
-      "gloss": "⟨the⟩ tosh"
+      "gloss": "bir tosh"
     },
     {
       "surface": "האחת",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
-      "marks": "qolgan oltitaning ismlari"
+      "gloss": "⟨את⟩",
+      "marks": "ismlarini"
     },
     {
       "surface": "שמות",
-      "gloss": "ismlari"
+      "gloss": "ismlarini"
     },
     {
       "surface": "הששה",
-      "gloss": "oltita"
+      "gloss": "oltitasining"
     },
     {
       "surface": "הנותרים",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "על",
-      "gloss": "ustiga"
+      "gloss": "…da"
     },
     {
       "surface": "האבן",
-      "gloss": "⟨the⟩ tosh"
+      "gloss": "toshda"
     },
     {
       "surface": "השנית",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "כתולדתם",
-      "gloss": "tugʻilishlari tartibicha"
+      "gloss": "tugʻilish tartiblaricha"
     }
   ],
-  "timestamp": "2026-08-26T01:00:58.206438683Z",
+  "timestamp": "2026-08-26T10:06:27.581209222Z",
   "model": "glm-5.3"
 }

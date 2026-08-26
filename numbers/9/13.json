@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va ⟨the⟩ odam — u toza boʻlsa va yoʻlda boʻlmasa, Pesaxni qilishdan tiyilsa, oʻsha nefesh oʻz xalqlaridan kesilib tashlanadi, chunki Yahvening qurbonini belgilangan vaqtida keltirmagan — oʻsha odam oʻz gunohini koʻtaradi.",
+  "translation": "Va ⟨the⟩ odam — u pok boʻlib, yoʻlda boʻlmagan holda — Pesaxni qilishdan tiyilsa, oʻsha nefesh oʻz qavmlaridan kesib tashlanadi, chunki Yahvening qurbonini oʻz belgilangan vaqtida yaqinlashtirmadi; oʻsha odam oʻz gunohini koʻtaradi.",
   "tokens": [
     {
       "surface": "והאיש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "טהור",
-      "gloss": "toza"
+      "gloss": "pok"
     },
     {
       "surface": "ובדרך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "boʻlsa"
+      "gloss": "boʻlgan"
     },
     {
       "surface": "וחדל",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ונכרתה",
-      "gloss": "kesilib tashlanadi"
+      "gloss": "va kesib tashlanadi"
     },
     {
       "surface": "הנפש",
-      "gloss": "oʻsha nefesh"
+      "gloss": "⟨the⟩ nefesh"
     },
     {
       "surface": "ההוא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "מעמיה",
-      "gloss": "oʻz xalqlaridan"
+      "gloss": "oʻz qavmlaridan"
     },
     {
       "surface": "כי",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "-ma"
+      "gloss": "yoʻq"
     },
     {
       "surface": "הקריב",
-      "gloss": "keltirmagan"
+      "gloss": "yaqinlashtirmadi"
     },
     {
       "surface": "במעדו",
-      "gloss": "belgilangan vaqtida"
+      "gloss": "oʻz belgilangan vaqtida"
     },
     {
       "surface": "חטאו",
@@ -97,13 +97,13 @@
     },
     {
       "surface": "האיש",
-      "gloss": "odam"
+      "gloss": "⟨the⟩ odam"
     },
     {
       "surface": "ההוא",
       "gloss": "oʻsha"
     }
   ],
-  "timestamp": "2026-08-26T01:30:45.053830683Z",
+  "timestamp": "2026-08-26T10:21:36.780012262Z",
   "model": "glm-5.3"
 }

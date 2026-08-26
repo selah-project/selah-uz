@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va suyasin oʻz qoʻlini ⟨את⟩ oʻz qurbonligining boshiga, va soʻysin uni ⟨את⟩ uchrashuv chodiri oldida, va Aharon oʻgʻillari sepsinlar uning qonini ⟨את⟩ ⟨the⟩ mizbax ustiga atrofga.",
+  "translation": "Va qurbonligining boshiga ⟨את⟩ qoʻlini qoʻyadi va uni uchrashuv chodiri oldida soʻyadi, va Aharonning oʻgʻillari ⟨את⟩ uning qonini qurbongohning atrofiga sepadi.",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "va suyasin"
+      "gloss": "qoʻyadi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oʻz qoʻlini"
+      "marks": "qoʻlini"
     },
     {
       "surface": "ידו",
-      "gloss": "oʻz qoʻlini"
+      "gloss": "qoʻlini"
     },
     {
       "surface": "על",
@@ -30,16 +30,15 @@
     },
     {
       "surface": "קרבנו",
-      "gloss": "oʻz qurbonligining"
+      "gloss": "qurbonligining"
     },
     {
-      "surface": "ושחט",
-      "gloss": "va soʻysin"
+      "surface": "וshחט",
+      "gloss": "soʻyadi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩uni",
-      "marks": "uni (qurbonlikni)"
+      "gloss": "⟨את⟩ uni"
     },
     {
       "surface": "לפני",
@@ -55,7 +54,7 @@
     },
     {
       "surface": "וזרקו",
-      "gloss": "va sepsinlar"
+      "gloss": "sepadilar"
     },
     {
       "surface": "בני",
@@ -63,7 +62,7 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharon"
+      "gloss": "Aharonning"
     },
     {
       "surface": "את",
@@ -80,13 +79,13 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "⟨the⟩ mizbaxning"
+      "gloss": "qurbongohning"
     },
     {
       "surface": "סביב",
-      "gloss": "atrofga"
+      "gloss": "atrofiga"
     }
   ],
-  "timestamp": "2026-08-26T01:09:38.652830637Z",
+  "timestamp": "2026-08-26T09:46:43.226014449Z",
   "model": "glm-5.3"
 }

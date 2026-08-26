@@ -5,16 +5,11 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Sara Kiryat-Arba — u Xevron — Kanaan yerida vafot etdi, va Avraham Sarani yoʻqlash va unga yigʻlash uchun keldi.",
+  "translation": "Va Sara oʻldi — Kiryat-Arbaʼda, u ⟨he⟩ Xevron, Kanaan yerida; va Avraham keldi Sarani yoʻqlashga va uni yigʻlashga.",
   "tokens": [
     {
-      "surface": "ויהיו",
-      "gloss": "",
-      "ref": "v1"
-    },
-    {
       "surface": "ותמת",
-      "gloss": "vafot etdi"
+      "gloss": "va oʻldi"
     },
     {
       "surface": "שרה",
@@ -22,15 +17,15 @@
     },
     {
       "surface": "בקרית",
-      "gloss": "Kiryatda"
+      "gloss": "—Kiryat-…da"
     },
     {
       "surface": "ארבע",
-      "gloss": "Arba"
+      "gloss": "Arbaʼ"
     },
     {
       "surface": "הוא",
-      "gloss": "u"
+      "gloss": "u ⟨he⟩"
     },
     {
       "surface": "חברון",
@@ -38,11 +33,11 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "yuzida"
+      "gloss": "…yerida"
     },
     {
       "surface": "כנען",
-      "gloss": "Kanaanning"
+      "gloss": "Kanaan"
     },
     {
       "surface": "ויבא",
@@ -54,17 +49,17 @@
     },
     {
       "surface": "לספד",
-      "gloss": "yoʻqlash uchun"
+      "gloss": "yoʻqlashga"
     },
     {
       "surface": "לשרה",
-      "gloss": "Sarani"
+      "gloss": "Sara uchun"
     },
     {
       "surface": "ולבכתה",
-      "gloss": "va unga yigʻlash uchun"
+      "gloss": "va uni yigʻlashga"
     }
   ],
-  "timestamp": "2026-08-26T00:36:50.471061774Z",
+  "timestamp": "2026-08-26T09:43:52.366121537Z",
   "model": "glm-5.3"
 }

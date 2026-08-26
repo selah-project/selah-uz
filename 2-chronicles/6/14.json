@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Va dedi: Yahve, Isroilning Elohimi, osmonlarda va yerda Sen kabi Elohim yoʻq — ahdni va ⟨the⟩ xesedni saqlovchi bandalaringga, Sening oldingda butun qalblari bilan yuradiganlarga.",
+  "translation": "va u dedi: „Ey Yahve, Isroilning Elohimi, osmonlarda ham, yerda ham Senga oʻxshash Elohim yoʻq; bandalaring bilan — Sening yuzingdan butun qalblari bilan yuradigan bandalaring bilan ahdni va xesedni saqlovchisiz.“",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "va dedi"
+      "gloss": "va u dedi"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohimi"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כמוך",
-      "gloss": "Sen kabi"
+      "gloss": "Senga oʻxshash"
     },
     {
       "surface": "אלהים",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "לעבדיך",
-      "gloss": "bandalaringga"
+      "gloss": "bandalaring uchun"
     },
     {
       "surface": "ההלכים",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "לפניך",
-      "gloss": "Sening oldingda"
+      "gloss": "Sening yuzingdan"
     },
     {
       "surface": "בכל",
@@ -76,6 +76,6 @@
       "gloss": "qalblari bilan"
     }
   ],
-  "timestamp": "2026-08-26T08:06:56.002270080Z",
+  "timestamp": "2026-08-26T10:05:13.118268969Z",
   "model": "glm-5.3"
 }

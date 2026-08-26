@@ -5,20 +5,20 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Va ⟨את⟩ menoralarni — beshta oʻng tomonda va beshta chap tomonda, davi-r oldida, sof oltindan; va ⟨the⟩ gullar, va ⟨the⟩ chiroqlar, va ⟨the⟩ qirqiqgʻichlar — oltindan.",
+  "translation": "Va ⟨את⟩ shamdonlyarni — beshta oʻng tomonda va beshta chap tomonda, debir oldida — toza oltindan; va gullar, chiroqlar va oʻchirgichlar — oltindan.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "menoralarni"
+      "marks": "shamdonlyar"
     },
     {
       "surface": "המנרות",
-      "gloss": "menoralarni"
+      "gloss": "shamdonlyar"
     },
     {
       "surface": "חמש",
-      "gloss": "beshta"
+      "gloss": "besh"
     },
     {
       "surface": "מימין",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "וחמש",
-      "gloss": "va beshta"
+      "gloss": "va besh"
     },
     {
       "surface": "משמאול",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "הדביר",
-      "gloss": "davi-r"
+      "gloss": "debir"
     },
     {
       "surface": "זהב",
-      "gloss": "oltindan"
+      "gloss": "oltin"
     },
     {
       "surface": "סגור",
-      "gloss": "sof"
+      "gloss": "toza (sugʻorilgan)"
     },
     {
       "surface": "והפרח",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "והמלקחים",
-      "gloss": "va qirqiqgʻichlar"
+      "gloss": "va oʻchirgichlar"
     },
     {
       "surface": "זהב",
-      "gloss": "oltindan"
+      "gloss": "oltin"
     }
   ],
-  "timestamp": "2026-08-26T03:28:36.015154015Z",
+  "timestamp": "2026-08-26T10:07:07.418050451Z",
   "model": "glm-5.3"
 }

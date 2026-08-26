@@ -5,27 +5,27 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 34,
-  "translation": "Va ular Xilqiyo — ⟨the⟩ katta kohin — huzuriga kelib, Elohim baytiga keltirilgan ⟨the⟩ kumushni berdilar, ⟨which⟩ kumushni levilar, ⟨the⟩ eshik qoʻriqchilari Menashshe va Efrayim qoʻlidan va butun Isroil qoldigʻidan va butun Yahudo va Binʻyamindan va Yerushalaim aholisidan yigʻgan edilar.",
+  "translation": "Va Xilkiyahu kohonga — katta kohonga keldilar va Elohim baytiga keltirilgan kumushni berdilar, uni eshik qoʻriqchilari levilar Manashsheh va Efraym qoʻlidan, butun Isroil qoldigʻidan, butun Yehuda va Binyamindan va Yerushalaim aholisidan yigʻib olgan ⟨edi⟩.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "va ular kelishdi"
+      "gloss": "kel-dilar"
     },
     {
       "surface": "אל",
-      "gloss": "huzuriga"
+      "gloss": "-ga"
     },
     {
       "surface": "חלקיהו",
-      "gloss": "Xilqiyo"
+      "gloss": "Xilkiyahu"
     },
     {
       "surface": "הכהן",
-      "gloss": "⟨the⟩ kohin"
+      "gloss": "kohon"
     },
     {
       "surface": "הגדול",
-      "gloss": "⟨the⟩ katta"
+      "gloss": "katta"
     },
     {
       "surface": "ויתנו",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "the kumush"
+      "marks": "kumush"
     },
     {
       "surface": "הכסף",
-      "gloss": "⟨the⟩ kumushni"
+      "gloss": "kumush"
     },
     {
       "surface": "המובא",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "בית",
-      "gloss": "baytiga"
+      "gloss": "bayt"
     },
     {
       "surface": "אלהים",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "uni"
     },
     {
       "surface": "אספו",
-      "gloss": "yigʻgan edilar"
+      "gloss": "yigʻib olgan"
     },
     {
       "surface": "הלוים",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "הסף",
-      "gloss": "⟨the⟩ eshik"
+      "gloss": "eshik"
     },
     {
       "surface": "מיד",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Menashshe"
+      "gloss": "Manashsheh"
     },
     {
       "surface": "ואפרים",
-      "gloss": "va Efrayim"
+      "gloss": "va Efraym"
     },
     {
       "surface": "ומכל",
@@ -102,21 +102,21 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yahudo"
+      "gloss": "Yehuda"
     },
     {
       "surface": "ובנימן",
-      "gloss": "va Binʻyamin"
+      "gloss": "va Binyamin"
     },
     {
       "surface": "וישבי",
-      "gloss": "va aholisi"
+      "gloss": "aholisi"
     },
     {
       "surface": "ירושלם",
       "gloss": "Yerushalaim"
     }
   ],
-  "timestamp": "2026-08-26T08:16:48.797010611Z",
+  "timestamp": "2026-08-26T10:06:11.255748470Z",
   "model": "glm-5.3"
 }

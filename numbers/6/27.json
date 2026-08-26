@@ -5,42 +5,42 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Va ular Isroil oʻgʻillariga ⟨את⟩ mening ismimga ⟨the⟩ nom qoʻyishadi, va Men ularga barokat beraman.",
+  "translation": "Va ular Ismimni Bani-Isroil ⟨uning⟩ ustiga qoʻyishadi, va Men ularni barakalayman.",
   "tokens": [
     {
-      "surface": "וְשָׂמ֥וּ",
-      "gloss": "va qoʻyishadi"
+      "surface": "ושמו",
+      "gloss": "va ular qoʻyishadi"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": " mening ismimga"
+      "marks": "Ismimni"
     },
     {
-      "surface": "שְׁמִ֖י",
-      "gloss": " mening ismimga"
+      "surface": "שמי",
+      "gloss": "Ismimni"
     },
     {
-      "surface": "עַל",
-      "gloss": "⟨the⟩ ustiga"
+      "surface": "על",
+      "gloss": "⟨uning⟩ ustiga"
     },
     {
-      "surface": "בְּנֵ֣י",
-      "gloss": "oʻgʻillari"
+      "surface": "בני",
+      "gloss": "Bani-"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "gloss": "Isroil"
     },
     {
-      "surface": "וַאֲנִ֖י",
+      "surface": "ואני",
       "gloss": "va Men"
     },
     {
-      "surface": "אֲבָרֲכֵֽם",
-      "gloss": "ularni barokat beraman"
+      "surface": "אברכם",
+      "gloss": "ularni barakalayman"
     }
   ],
-  "timestamp": "2026-08-26T01:26:56.969693276Z",
+  "timestamp": "2026-08-26T09:47:39.038600848Z",
   "model": "glm-5.3"
 }

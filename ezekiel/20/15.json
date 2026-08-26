@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va hatto Men ham choʻlda ularga qoʻlimni koʻtardim — ularni Men bergan erga, sut va asal oqib turadigan, barcha yerlarning ziynati boʻlgan erga kiritmaslik uchun.",
+  "translation": "Va ham men koʻtardim qoʻlimni ularga choʻlda — ularni ⟨את⟩ ⟨the⟩ mengan bergan, sut va asal oqib turgan, barcha yerlarning goʻzalligi boʻlgan ⟨the⟩ yerga keltirmaslik uchun.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "va hatto"
+      "gloss": "Va ham"
     },
     {
       "surface": "אני",
-      "gloss": "Men"
+      "gloss": "men"
     },
     {
       "surface": "נשאתי",
@@ -33,36 +33,36 @@
     },
     {
       "surface": "לבלתי",
-      "gloss": "maslik uchun"
+      "gloss": "...maslik uchun"
     },
     {
       "surface": "הביא",
-      "gloss": "kiritmoq"
+      "gloss": "keltirmaslik"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "ularni (elga)"
+      "gloss": "⟨את⟩ ularni",
+      "marks": "ularni (keltirish obyekti)"
     },
     {
       "surface": "אל",
-      "gloss": "elga"
+      "gloss": "ga"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ erga"
+      "gloss": "yerga"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "mengan"
     },
     {
       "surface": "נתתי",
-      "gloss": "Men berdim"
+      "gloss": "bergan"
     },
     {
       "surface": "זבת",
-      "gloss": "oqib turadigan"
+      "gloss": "oqib turgan"
     },
     {
       "surface": "חלב",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "צבי",
-      "gloss": "ziynati"
+      "gloss": "goʻzalligi"
     },
     {
       "surface": "היא",
@@ -89,6 +89,6 @@
       "gloss": "yerlarning"
     }
   ],
-  "timestamp": "2026-08-26T05:17:10.668699531Z",
+  "timestamp": "2026-08-26T10:25:38.724550867Z",
   "model": "glm-5.3"
 }

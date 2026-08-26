@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Faqat sen qurmaysan ⟨the⟩ uyni; balki sening oʻgʻling — chigʻdogʻingdan chiqadigan — u quradi ⟨the⟩ uyni Mening nomim uchun.",
+  "translation": "Faqat sen uy qurmaysan, balki sening oʻgʻling — buyning-dillaringdan chiqadigan — u Simga uy quradi.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "Faqat"
+      "gloss": "faqat"
     },
     {
       "surface": "אתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "…maysan"
     },
     {
       "surface": "תבנה",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ uyni"
+      "gloss": "uy"
     },
     {
       "surface": "כי",
-      "gloss": "—"
-    },
-    {
-      "surface": "אם",
       "gloss": "balki"
     },
     {
+      "surface": "אם",
+      "gloss": "…"
+    },
+    {
       "surface": "בנך",
-      "gloss": "oʻgʻling"
+      "gloss": "sening oʻgʻling"
     },
     {
       "surface": "היצא",
@@ -45,25 +45,25 @@
     },
     {
       "surface": "מחלציך",
-      "gloss": "chigʻdogʻingdan"
+      "gloss": "buyning-dillaringdan"
     },
     {
       "surface": "הוא",
       "gloss": "u"
     },
     {
-      "surface": "י בנה",
+      "surface": "יבנה",
       "gloss": "quradi"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ uyni"
+      "gloss": "uy"
     },
     {
       "surface": "לשמי",
-      "gloss": "Mening nomim uchun"
+      "gloss": "Simga"
     }
   ],
-  "timestamp": "2026-08-26T03:33:18.126057722Z",
+  "timestamp": "2026-08-26T09:53:47.298579040Z",
   "model": "glm-5.3"
 }

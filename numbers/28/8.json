@@ -5,16 +5,16 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Va ⟨את⟩ ikkinchi qoʻzini kechqurunlar orasida qil; tong minxasi kabi va uning neseki kabi qil — Yahvegа olov qurbonligi, yoqimli hid.",
+  "translation": "Va ⟨את⟩ ikkinchi qoʻzichani tong oʻrtasida ⟨yaʼni⟩ oqshomlar orasida qil: ertalabki minchaga oʻxshash va uning naskiga oʻxshash qil — olov-taqdimot, xushboʻ hid Yahve uchun.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "Va ⟨את⟩",
-      "marks": "ikkinchi qoʻzi"
+      "gloss": "⟨את⟩",
+      "marks": "ikkinchi qoʻzichani"
     },
     {
       "surface": "הכבש",
-      "gloss": "qoʻzi"
+      "gloss": "qoʻzichani"
     },
     {
       "surface": "השני",
@@ -30,19 +30,19 @@
     },
     {
       "surface": "הערבים",
-      "gloss": "kechqurunlar"
+      "gloss": "oqshomlar"
     },
     {
       "surface": "כמנחת",
-      "gloss": "…kabi minxa"
+      "gloss": "minchaga oʻxshash"
     },
     {
       "surface": "הבקר",
-      "gloss": "tong"
+      "gloss": "ertalabki"
     },
     {
       "surface": "וכנסכו",
-      "gloss": "va uning neseki kabi"
+      "gloss": "va uning naskiga oʻxshash"
     },
     {
       "surface": "תעשה",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אשה",
-      "gloss": "olov qurbonligi"
+      "gloss": "olov-taqdimot"
     },
     {
       "surface": "ריח",
@@ -58,13 +58,13 @@
     },
     {
       "surface": "ניחח",
-      "gloss": "yoqimli"
+      "gloss": "xushboʻ"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahve uchun"
     }
   ],
-  "timestamp": "2026-08-26T01:41:47.599664799Z",
+  "timestamp": "2026-08-26T09:48:50.168021037Z",
   "model": "glm-5.3"
 }

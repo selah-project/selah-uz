@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 22,
-  "translation": "Agar xalqimga, yonimdagi kambagʻalga kumush qarz bersang, unga qarz beruvchi boʻlmagin, unga foiz qoʻymanglar.",
+  "translation": "Agar ⟨את⟩ xalqimga, ⟨את⟩ kambagʻalga, sening yoningdagi kishiga, kumushni qarzga bersan, unga sudxoʻr boʻlib turmaysan, unga ustama qoʻymaysanlar.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "Agar"
+      "gloss": "agar"
     },
     {
       "surface": "כסף",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תלוה",
-      "gloss": "qarz bersang"
+      "gloss": "qarzga bersan"
     },
     {
       "surface": "את",
@@ -35,11 +35,11 @@
     },
     {
       "surface": "העני",
-      "gloss": "⟨the⟩ kambagʻal"
+      "gloss": "kambagʻalga"
     },
     {
       "surface": "עמך",
-      "gloss": "yoningdagi"
+      "gloss": "sening yoningdagi"
     },
     {
       "surface": "לא",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "boʻlmagin"
+      "gloss": "boʻlib turmaysan"
     },
     {
       "surface": "לו",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "כנשה",
-      "gloss": "qarz beruvchi kabi"
+      "gloss": "sudxoʻr"
     },
     {
       "surface": "לא",
@@ -63,17 +63,17 @@
     },
     {
       "surface": "תשימון",
-      "gloss": "qoʻymanglar"
+      "gloss": "qoʻymaysanlar"
     },
     {
       "surface": "עליו",
-      "gloss": "uning ustiga"
+      "gloss": "unga"
     },
     {
       "surface": "נשך",
-      "gloss": "foiz (nus — soʻzma-soʻz „tishlash“)"
+      "gloss": "ustama"
     }
   ],
-  "timestamp": "2026-08-26T00:57:28.139201013Z",
+  "timestamp": "2026-08-26T09:45:49.844833098Z",
   "model": "glm-5.3"
 }

@@ -5,16 +5,16 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va ⟨את⟩ tagliklarni yasadi, va ⟨את]] choʻyanlarni tagliklar ustiga yasadi.",
+  "translation": "Va ⟨את⟩ kursilarini yasadi, va ⟨את⟩ choʻqilarini kursilar ustiga yasadi.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "tagliklar"
+      "marks": "kursilarini"
     },
     {
       "surface": "המכנות",
-      "gloss": "tagliklar"
+      "gloss": "kursilar"
     },
     {
       "surface": "עשה",
@@ -23,11 +23,11 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "choʻyanlar"
+      "marks": "choʻqilarini"
     },
     {
       "surface": "הכירות",
-      "gloss": "choʻyanlar"
+      "gloss": "choʻqilar"
     },
     {
       "surface": "עשה",
@@ -39,9 +39,9 @@
     },
     {
       "surface": "המכנות",
-      "gloss": "tagliklar"
+      "gloss": "kursilar"
     }
   ],
-  "timestamp": "2026-08-26T08:04:34.754939924Z",
+  "timestamp": "2026-08-26T10:05:25.772632413Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Choʻzilgan umid yurakni xastalaydi, ammo kelgan orzu hayot daraxti ⟨is⟩.",
+  "translation": "Choʻzilgan umid yurakni kasal qiladi, lekin kelgan orzu — hayot daraxtidir.",
   "tokens": [
     {
       "surface": "תוחלת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מחלה",
-      "gloss": "xastalaydi"
+      "gloss": "kasal qiladi"
     },
     {
       "surface": "לב",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ועץ",
-      "gloss": "ammo daraxti"
+      "gloss": "lekin … daraxt"
     },
     {
       "surface": "חיים",
@@ -40,6 +40,6 @@
       "gloss": "kelgan"
     }
   ],
-  "timestamp": "2026-08-26T06:44:08.435525202Z",
+  "timestamp": "2026-08-26T10:01:48.470155217Z",
   "model": "glm-5.3"
 }

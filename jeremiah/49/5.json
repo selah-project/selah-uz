@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 49,
-  "translation": "Mana, Men ustingizga qoʻrqinch keltiraman, — Adonay Yahve Tsevaotning maʼmuri — atrofingizdagilarning hammasidan; va sizlar haydab chiqarilasizlar, har biri oʻz yuzini qaratib, va qochqin ⟨uchun⟩ yigʻuvchi yoʻq.",
+  "translation": "Mana, Men sening ustingga qoʻrqinch keltiraman, — Adonay Yahve Sabaotning maʼmidi, — atrofingdagi barcha tomondan; va ⟨siz⟩ tashlanib ketasiz, har bir kishi oʻz yoʻliga oldin, va qochqinni yigʻuvchi boʻlmaydi.",
   "tokens": [
     {
       "surface": "הנני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עליך",
-      "gloss": "ustingizga"
+      "gloss": "sening ustingga"
     },
     {
       "surface": "פחד",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "maʼmuri"
+      "gloss": "maʼmidi"
     },
     {
       "surface": "אדני",
@@ -37,35 +37,31 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "Sabaot"
     },
     {
       "surface": "מכל",
-      "gloss": "hammasidan"
+      "gloss": "barcha"
     },
     {
       "surface": "סביביך",
-      "gloss": "atrofingizdagilarning"
+      "gloss": "atrofingdagi tomondan"
     },
     {
-      "surface": "ו",
-      "gloss": "va"
-    },
-    {
-      "surface": "נדחתם",
-      "gloss": "haydab chiqarilasizlar"
+      "surface": "ונדחתם",
+      "gloss": "va tashlanib ketasiz"
     },
     {
       "surface": "איש",
-      "gloss": "har biri"
+      "gloss": "har bir kishi"
     },
     {
       "surface": "לפניו",
-      "gloss": "oʻz yuzini qaratib"
+      "gloss": "oʻz yoʻliga oldin"
     },
     {
       "surface": "ואין",
-      "gloss": "va yoʻq"
+      "gloss": "va boʻlmaydi"
     },
     {
       "surface": "מקבץ",
@@ -73,9 +69,9 @@
     },
     {
       "surface": "לנדד",
-      "gloss": "qochqin ⟨uchun⟩"
+      "gloss": "qochqinni"
     }
   ],
-  "timestamp": "2026-08-26T05:04:37.232747636Z",
+  "timestamp": "2026-08-26T09:56:16.252295330Z",
   "model": "glm-5.3"
 }

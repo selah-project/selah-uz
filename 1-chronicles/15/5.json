@@ -5,8 +5,37 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Kehat o‘g‘illaridan: boshliq Uriel va uning aka-ukalari — yigirma besh ming... bir yuz yigirma.",
-  "tokens": [],
-  "timestamp": "2026-08-26T07:58:17.560697939Z",
+  "translation": "Kehat oʻgʻillaridan: boshliq Uriel va uning aka-ukalari — bir yuz yigirma kishi.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "oʻgʻillaridan"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "Uriel"
+    },
+    {
+      "surface": "השר",
+      "gloss": "boshliq"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "va uning aka-ukalari"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "bir yuz"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "yigirma"
+    }
+  ],
+  "timestamp": "2026-08-26T10:04:58.761465912Z",
   "model": "glm-5.3"
 }

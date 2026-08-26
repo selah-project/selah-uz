@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 48,
-  "translation": "Va这些 uning oʻlchovlari: shimol tomoni besh yuz va toʻrt ming, janub tomoni besh yuz va toʻrt ming, sharq tomonidan besh yuz va toʻrt ming, va gʻarb tomoni besh yuz va toʻrt ming.",
+  "translation": "Va mana ⟨uning⟩ oʻlchovlari: shimol tomoni besh yuz va toʻrt ming, janub tomoni besh ⟨⟩ yuz va toʻrt ming, va sharq tomonidan besh yuz va toʻrt ming, va gʻarb tomoni besh yuz va toʻrt ming.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "Va bu"
+      "gloss": "Va mana"
     },
     {
       "surface": "מדותיה",
-      "gloss": "uning oʻlchovlari"
+      "gloss": "oʻlchovlari"
     },
     {
       "surface": "פאת",
-      "gloss": "tomon"
+      "gloss": "tomoni"
     },
     {
       "surface": "צפון",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ופאת",
-      "gloss": "va tomon"
+      "gloss": "tomoni"
     },
     {
       "surface": "נגב",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "חמש",
-      "gloss": "besh"
+      "gloss": ""
     },
     {
       "surface": "מאות",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "ופאת",
-      "gloss": "va tomon"
+      "gloss": "va tomoni"
     },
     {
       "surface": "ימה",
@@ -116,6 +116,6 @@
       "gloss": "ming"
     }
   ],
-  "timestamp": "2026-08-26T05:34:13.834451850Z",
+  "timestamp": "2026-08-26T10:07:08.012710134Z",
   "model": "glm-5.3"
 }

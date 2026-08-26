@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va Yehoshua Nun oʻgʻli va Kalev Yefunne oʻgʻli — ⟨the⟩ erni ⟨את⟩ tekshirgani borgan oʻsha kishilardan — tirik qoldilar.",
+  "translation": "Va Yehoshua Nun oʻgʻli va Kalev Yefunne oʻgʻli — oʻsha erni josuslik qilish uchun yurgan erkaklardan ⟨et⟩ tirik qoldilar.",
   "tokens": [
     {
       "surface": "ויהושע",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "dan"
+      "gloss": "⟨et⟩ …dan"
     },
     {
       "surface": "האנשים",
-      "gloss": "kishilardan"
+      "gloss": "erkaklar"
     },
     {
       "surface": "ההם",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ההלכים",
-      "gloss": "borgan"
+      "gloss": "yurgan"
     },
     {
       "surface": "לתור",
-      "gloss": "tekshirgani"
+      "gloss": "josuslik qilish uchun"
     },
     {
       "surface": "את",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ erni"
+      "gloss": "erni"
     }
   ],
-  "timestamp": "2026-08-26T01:32:34.945796261Z",
+  "timestamp": "2026-08-26T10:06:41.480953195Z",
   "model": "glm-5.3"
 }

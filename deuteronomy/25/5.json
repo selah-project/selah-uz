@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Agar birodarlar birga yashasa va ulardan biri o‘lsa-da, uning o‘g‘li bo‘lmasa, o‘lganning xotini begona bir kishiga ⟨the⟩ tashqariga bo‘lmasin; qaynog‘asi uning ustiga kirsin va uni o‘ziga xotin qilib olsin va uni qaynochilik vazifasini o‘tasin.",
+  "translation": "Agar aka-ukalar birga yashasa va ularning biri oʻlsa, uning oʻgʻli boʻlmasa, oʻlganning xotini begona odamga ⟨turmaga⟩ chiqmasin; uning qaynogʻasi uning yoniga kirsin, uni oʻziga xotin qilib olsin va uni qaynoga burchini oʻtasin.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אחים",
-      "gloss": "birodarlar"
+      "gloss": "aka-ukalar"
     },
     {
       "surface": "יחדו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ומת",
-      "gloss": "va o‘lsa"
+      "gloss": "va oʻlsa"
     },
     {
       "surface": "אחד",
@@ -33,15 +33,15 @@
     },
     {
       "surface": "מהם",
-      "gloss": "ulardan"
+      "gloss": "ularning"
     },
     {
       "surface": "ובן",
-      "gloss": "va o‘g‘li"
+      "gloss": "va oʻgʻli"
     },
     {
       "surface": "אין",
-      "gloss": "bo‘lmasa"
+      "gloss": "boʻlmasa"
     },
     {
       "surface": "לו",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "bo‘lmasin"
+      "gloss": "…masin"
     },
     {
       "surface": "תהיה",
-      "gloss": "bo‘lsin"
+      "gloss": "boʻlsin"
     },
     {
       "surface": "אשת",
@@ -61,15 +61,15 @@
     },
     {
       "surface": "המת",
-      "gloss": "o‘lganning"
+      "gloss": "oʻlganning"
     },
     {
       "surface": "החוצה",
-      "gloss": "tashqariga"
+      "gloss": "tashqariga ⟨turmaga⟩"
     },
     {
       "surface": "לאיש",
-      "gloss": "kishiga"
+      "gloss": "odamga"
     },
     {
       "surface": "זר",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "יבמה",
-      "gloss": "qaynog‘asi"
+      "gloss": "qaynogʻasi"
     },
     {
       "surface": "יבא",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "עליה",
-      "gloss": "uning ustiga"
+      "gloss": "uning yoniga"
     },
     {
       "surface": "ולקחה",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "o‘ziga"
+      "gloss": "oʻziga"
     },
     {
       "surface": "לאשה",
@@ -101,9 +101,9 @@
     },
     {
       "surface": "ויבמה",
-      "gloss": "va uni qaynochilik qilsin"
+      "gloss": "va qaynoga burchini oʻtasin"
     }
   ],
-  "timestamp": "2026-08-26T02:02:19.719881425Z",
+  "timestamp": "2026-08-26T09:50:23.844033970Z",
   "model": "glm-5.3"
 }

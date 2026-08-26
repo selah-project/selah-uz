@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va Yahve uning oʻrniga Isroil ustiga qirol turqtiradi, u Yarovamning uyini ⟨את⟩ kesib tashlaydi — bu kun, ha, hatto hozir.",
+  "translation": "Va Yahve oʻzi uchun Isroil ustiga qirol tayinlaydi, u Yarovamning ⟨את⟩ xonadonini qirib tashlaydi — bu kunda, va nima? — hatto hozir.",
   "tokens": [
     {
       "surface": "והקים",
-      "gloss": "va turqtiradi"
+      "gloss": "va tayinlaydi"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "uning oʻrniga"
+      "gloss": "oʻzi uchun"
     },
     {
       "surface": "מלך",
@@ -29,24 +29,24 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil"
+      "gloss": "Isroilning"
     },
     {
       "surface": "אשר",
-      "gloss": "u"
+      "gloss": "u esa"
     },
     {
       "surface": "יכרית",
-      "gloss": "kesib tashlaydi"
+      "gloss": "qirib tashlaydi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yarovamning uyini"
+      "marks": "xonadonini"
     },
     {
       "surface": "בית",
-      "gloss": "uyini"
+      "gloss": "xonadonini"
     },
     {
       "surface": "ירבעם",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "היום",
-      "gloss": "kun"
+      "gloss": "kunda"
     },
     {
       "surface": "ומה",
-      "gloss": "va nimа"
+      "gloss": "va nima?"
     },
     {
       "surface": "גם",
@@ -73,6 +73,6 @@
       "gloss": "hozir"
     }
   ],
-  "timestamp": "2026-08-26T03:39:57.235351762Z",
+  "timestamp": "2026-08-26T09:54:28.521738714Z",
   "model": "glm-5.3"
 }

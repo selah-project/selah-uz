@@ -5,8 +5,33 @@
   "book": "job",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Nafasim xotinimga begona boʻldi, va tilla-oldim eski-qorin farzandlariga ⟨u⟩ ⟨u⟩.",
-  "tokens": [],
-  "timestamp": "2026-08-26T07:00:59.195850718Z",
+  "translation": "Mening ruaxim xotinim uchun yotdir, va iltijolarim qornimning bolalariga ⟨yetib bormaydi⟩.",
+  "tokens": [
+    {
+      "surface": "רוחי",
+      "gloss": "ruaxim"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "yotdir"
+    },
+    {
+      "surface": "לאשתי",
+      "gloss": "xotinim uchun"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "va iltijolarim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bolalariga"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "qornimning"
+    }
+  ],
+  "timestamp": "2026-08-26T10:02:24.087568379Z",
   "model": "glm-5.3"
 }

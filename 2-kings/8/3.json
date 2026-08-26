@@ -5,8 +5,24 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Yetti yilning oxirida esa ayol Falastimlar yeridan qaytdi va uyi va dalisi uchun qirolga faryod qilish uchun chiqdi.",
+  "translation": "Va yetti yil oxirida ayol Pelishtimlar yeridan qaytdi va oʻz uyi va oʻz dalisi uchun hukmdorga murojaat qilishga chiqdi.",
   "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "va … boʻldi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "oxirida"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yetti"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yil"
+    },
     {
       "surface": "ותשב",
       "gloss": "qaytdi"
@@ -21,41 +37,41 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Falastimlar"
+      "gloss": "Pelishtimlar"
     },
     {
       "surface": "ותצא",
-      "gloss": "chiqdi"
+      "gloss": "va chiqdi"
     },
     {
       "surface": "לצעק",
-      "gloss": "faryod qilish uchun"
+      "gloss": "murojaat qilishga"
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": "…ga"
     },
     {
       "surface": "המלך",
-      "gloss": "qirolga"
+      "gloss": "hukmdor"
     },
     {
       "surface": "אל",
-      "gloss": "—"
+      "gloss": "uchun"
     },
     {
       "surface": "ביתה",
-      "gloss": "uyi uchun"
+      "gloss": "oʻz uyi"
     },
     {
       "surface": "ואל",
-      "gloss": "va"
+      "gloss": "va … uchun"
     },
     {
       "surface": "שדה",
-      "gloss": "dalisi uchun"
+      "gloss": "oʻz dalisi"
     }
   ],
-  "timestamp": "2026-08-26T03:52:19.766219560Z",
+  "timestamp": "2026-08-26T09:54:21.491210032Z",
   "model": "glm-5.3"
 }

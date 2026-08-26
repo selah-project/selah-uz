@@ -5,15 +5,15 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 30,
-  "translation": "Va misdan yuvinish uchun havza va misdan taganogʻini qilasan; va uni uchrashuv chodiri bilan ⟨the⟩ mozor orasiga qoʻyasanki, va u yerga suv qoʻyasanki.",
+  "translation": "Va misdan yuvish uchun lavhanı ⟨va⟩ uning tagʻcurigʻini misdan qilasiz, va uni guvohlik chodiri bilan ⟨את⟩ mizbax oʻrtasida qoʻyasiz, va u yerga suv qoʻyasiz.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "va qilasan"
+      "gloss": "qilasiz"
     },
     {
       "surface": "כיור",
-      "gloss": "havza"
+      "gloss": "yuvish lavhasi"
     },
     {
       "surface": "נחשת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וכנו",
-      "gloss": "va taganogʻini"
+      "gloss": "va uning tagʻcurigʻi"
     },
     {
       "surface": "נחשת",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "לרחצה",
-      "gloss": "yuvinish uchun"
+      "gloss": "yuvish uchun"
     },
     {
       "surface": "ונתת",
-      "gloss": "va qoʻyasanki"
+      "gloss": "va qoʻyasiz"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "uni"
+      "gloss": "⟨את⟩ uni",
+      "marks": "lavha — mizbax bilan chodir oʻrtasida"
     },
     {
       "surface": "בין",
-      "gloss": "orasiga"
+      "gloss": "oʻrtasida"
     },
     {
       "surface": "אהל",
@@ -50,19 +50,19 @@
     },
     {
       "surface": "מועד",
-      "gloss": "uchrashuv"
+      "gloss": "guvohlik\/uygʻunlik"
     },
     {
       "surface": "ובין",
-      "gloss": "va … orasiga"
+      "gloss": "va bilan"
     },
     {
       "surface": "המזבח",
-      "gloss": "⟨the⟩ mozor"
+      "gloss": "mizbax"
     },
     {
       "surface": "ונתת",
-      "gloss": "va qoʻyasanki"
+      "gloss": "va qoʻyasiz"
     },
     {
       "surface": "שמה",
@@ -73,6 +73,6 @@
       "gloss": "suv"
     }
   ],
-  "timestamp": "2026-08-26T01:01:59.494552251Z",
+  "timestamp": "2026-08-26T09:46:08.673988730Z",
   "model": "glm-5.3"
 }

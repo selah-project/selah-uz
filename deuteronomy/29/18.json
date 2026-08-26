@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 29,
-  "translation": "Va boʻladiki, u bu laʼnatning ⟨את⟩ soʻzlarini eshitganda, qalbida oʻzini barakotlab: «Menga tinchlik boʻlur, chunki men qalbimning qatʼiyati boʻyicha yurayman» desa — natijada sugʻorilgan ⟨the⟩ ham ⟨את⟩ qurgʻoqchil bilan birga yuvilib ketadi.",
+  "translation": "Va boʻlgʻusi: u bu laʼnatning soʻzlarini ⟨את⟩ eshitganda, oʻz qalbida oʻzini barakotlab: „Men bilan tinchlik boʻlur, chunki men oʻz qalbimning qatʼiyati boʻyicha yururman“ — desa, siqqan ⟨את⟩ chanqoqni qoʻshib olishi uchun.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Va boʻladiki"
+      "gloss": "Va boʻlgʻusi"
     },
     {
       "surface": "בשמעו",
@@ -34,15 +34,15 @@
     },
     {
       "surface": "והתברך",
-      "gloss": "oʻzini barakotlaydi"
+      "gloss": "oʻzini barakotlab"
     },
     {
       "surface": "בלבבו",
-      "gloss": "qalbida"
+      "gloss": "oʻz qalbida"
     },
     {
       "surface": "לאמר",
-      "gloss": "deyib"
+      "gloss": "desa"
     },
     {
       "surface": "שלום",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "לי",
-      "gloss": "menga"
+      "gloss": "men bilan"
     },
     {
       "surface": "כי",
@@ -70,30 +70,30 @@
     },
     {
       "surface": "אלך",
-      "gloss": "yurayman"
+      "gloss": "yururman"
     },
     {
       "surface": "למען",
-      "gloss": "natijada"
+      "gloss": "uchun"
     },
     {
       "surface": "ספות",
-      "gloss": "yuvilib ketadi"
+      "gloss": "qoʻshib olishi"
     },
     {
       "surface": "הרוה",
-      "gloss": "sugʻorilgan"
+      "gloss": "siqqan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qurgʻoqchil bilan birga"
+      "marks": "chanqoqni"
     },
     {
       "surface": "הצמאה",
-      "gloss": "qurgʻoqchil"
+      "gloss": "chanqoqni"
     }
   ],
-  "timestamp": "2026-08-26T08:26:16.561367883Z",
+  "timestamp": "2026-08-26T09:51:09.759335637Z",
   "model": "glm-5.3"
 }

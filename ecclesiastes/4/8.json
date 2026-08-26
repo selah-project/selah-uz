@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Bittasi bor, ikkinchisi yoʻq — oʻgʻli ham, ukasi ham yoʻq unga; va ⟨is⟩ uning barcha mehnatiga chek yoʻq, va uning koʻzi boylikdan toʻymaydi — „Men kim uchun mehnat qilaman va ⟨את⟩ nefeshimni yaxshilikdan mahrum qilaman?“ — bu ham hevel va yomon mashgʻulotdir.",
+  "translation": "Bitta yolgʻiz bor, ikkinchisi yoʻq; ham oʻgʻli, ham ukasi yoʻq ⟨unda⟩, va barcha mehnatiga chek yoʻq; ham uning koʻzi boylikdan toʻymaydi — „Men kim uchun mehnat qilaman va nefeshimni yaxshilikdan mahrum qilaman?“ Ham bu hevel, ham yomon bir mashgʻulotdir ⟨u⟩.",
   "tokens": [
     {
       "surface": "יש",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אחד",
-      "gloss": "bittasi"
+      "gloss": "bitta yolgʻiz"
     },
     {
       "surface": "ואין",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "unga"
+      "gloss": "unda"
     },
     {
       "surface": "ואין",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "עמלו",
-      "gloss": "uning mehnati"
+      "gloss": "mehnatiga"
     },
     {
       "surface": "גם",
-      "gloss": "va"
+      "gloss": "ham"
     },
     {
       "surface": "עיניו",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "toʻymaydi"
     },
     {
       "surface": "תשבע",
@@ -98,11 +98,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nefishimni"
+      "marks": "nefeshim"
     },
     {
       "surface": "נפשי",
-      "gloss": "nefishimni"
+      "gloss": "nefeshimni"
     },
     {
       "surface": "מטובה",
@@ -130,9 +130,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "dir"
+      "gloss": "u"
     }
   ],
-  "timestamp": "2026-08-26T07:19:47.355011402Z",
+  "timestamp": "2026-08-26T10:03:09.110239446Z",
   "model": "glm-5.3"
 }

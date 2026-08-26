@@ -5,8 +5,37 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 110,
-  "translation": "Adonay ⟨⟨sening⟩⟩ oʻng qoʻlingda ⟨u⟩ kunning kuchi bilan shohlarni yaradi — oʻsha gʻazab kunida",
-  "tokens": [],
-  "timestamp": "2026-08-26T06:29:50.023049495Z",
+  "translation": "Adonay sening oʻng ⟨qoʻlingda⟩ — gʻazab kunida podishohlarni yanchdi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    },
+    {
+      "surface": "על",
+      "gloss": "yonida\/oʻngida"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sening oʻng qoʻling"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "yanchdi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "kunida"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "uning gʻazabi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "podishohlarni"
+    }
+  ],
+  "timestamp": "2026-08-26T10:01:14.768287292Z",
   "model": "glm-5.3"
 }

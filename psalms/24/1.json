@@ -5,19 +5,19 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 24,
-  "translation": "Dovudga tegishli mizmor. Yahvegа ⟨⟨the⟩⟩ er, va uning toʻlaligi; tevarak dunyo va unda yashovchilar.",
+  "translation": "Dovudning mizmori. Yahvegadir er va uning toʻlaligi, olam va unda yashovchilar.",
   "tokens": [
     {
       "surface": "לדוד",
-      "gloss": "Dovudga tegishli"
+      "gloss": "Dovudning"
     },
     {
       "surface": "מזמור",
-      "gloss": "mizmor"
+      "gloss": "mizmori"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahvegadir"
     },
     {
       "surface": "הארץ",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "תבל",
-      "gloss": "tevarak dunyo"
+      "gloss": "olam"
     },
     {
       "surface": "וישבי",
@@ -40,6 +40,6 @@
       "gloss": "unda"
     }
   ],
-  "timestamp": "2026-08-26T06:03:35.647448965Z",
+  "timestamp": "2026-08-26T10:24:08.986960908Z",
   "model": "glm-5.3"
 }

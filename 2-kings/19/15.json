@@ -5,15 +5,15 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Va Xizkiyahu Yahve oldida duo qildi va dedi: Yahve, Isroilning Elohimi, keruvlar ustida oʻtirgan — sensan yolgʻiz Elohim ⟨the⟩ barcha podshohliklarning ustida ⟨the⟩ yerning; sen ⟨את⟩ osmonlarni va ⟨את⟩ yerni yaratding.",
+  "translation": "Va Chizkiya Yahve oldida ibodat qildi va aytdi: Yahve, Isroilning Eloohimi, kerublar ustida oʻtirgan — Sen yolgʻiz Oʻzing barcha yer podshohliklarining Elohihisan; Sen ⟨את⟩ osmonlarni va ⟨את⟩ yerni yaratding.",
   "tokens": [
     {
       "surface": "ויתפלל",
-      "gloss": "va duo qildi"
+      "gloss": "ibodat qildi"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Xizkiyahu"
+      "gloss": "Chizkiya"
     },
     {
       "surface": "לפני",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "va dedi"
+      "gloss": "va aytdi"
     },
     {
       "surface": "יהוה",
@@ -33,31 +33,31 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohimi"
+      "gloss": "Eloohimi"
     },
     {
       "surface": "ישראל",
       "gloss": "Isroilning"
     },
     {
-      "surface": "יושב",
+      "surface": "ישב",
       "gloss": "oʻtirgan"
     },
     {
       "surface": "הכרבים",
-      "gloss": "keruvlar"
+      "gloss": "kerublar"
     },
     {
       "surface": "אתה",
-      "gloss": "sen"
+      "gloss": "Sen"
     },
     {
       "surface": "הוא",
-      "gloss": "sansan"
+      "gloss": "Oʻzing"
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohihisan"
     },
     {
       "surface": "לבדך",
@@ -69,15 +69,15 @@
     },
     {
       "surface": "ממלכות",
-      "gloss": "podshohliklarning"
+      "gloss": "podshohliklarining"
     },
     {
       "surface": "הארץ",
-      "gloss": "yerning"
+      "gloss": "yer"
     },
     {
       "surface": "אתה",
-      "gloss": "sen"
+      "gloss": "Sen"
     },
     {
       "surface": "עשית",
@@ -93,7 +93,7 @@
       "gloss": "osmonlarni"
     },
     {
-      "surface": "ואת",
+      "surface": "ו את",
       "gloss": "va ⟨את⟩",
       "marks": "yerni"
     },
@@ -102,6 +102,6 @@
       "gloss": "yerni"
     }
   ],
-  "timestamp": "2026-08-26T03:59:23.634996015Z",
+  "timestamp": "2026-08-26T09:54:55.385141761Z",
   "model": "glm-5.3"
 }

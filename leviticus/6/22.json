@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Kohunlarning har bir erkagi uni yeydi; u muqaddaslar muqaddasi ⟨is⟩.",
+  "translation": "Kohendlardan har bir erkak uni yeydi; muqaddaslar muqaddasi ⟨u⟩dir.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "har"
+      "gloss": "har bir"
     },
     {
       "surface": "זכר",
-      "gloss": "erkagi"
+      "gloss": "erkak"
     },
     {
       "surface": "בכהנים",
-      "gloss": "kohunlarning"
+      "gloss": "kohendlardan"
     },
     {
       "surface": "יאכל",
@@ -26,21 +26,21 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "uni"
+      "marks": "uni (qorban — un minxasi)"
     },
     {
       "surface": "קדש",
-      "gloss": "muqaddas"
-    },
-    {
-      "surface": "קדשים",
       "gloss": "muqaddaslar"
     },
     {
+      "surface": "קדשים",
+      "gloss": "muqaddasi"
+    },
+    {
       "surface": "הוא",
-      "gloss": "u"
+      "gloss": "⟨u⟩dir"
     }
   ],
-  "timestamp": "2026-08-26T01:10:10.490015974Z",
+  "timestamp": "2026-08-26T09:46:33.163714953Z",
   "model": "glm-5.3"
 }

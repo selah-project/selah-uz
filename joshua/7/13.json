@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Tur, xalqni muqaddasla va aytkin: Ertaga oʻzlingizni muqaddaslang, chunki shunday dedi Yahve, Isroilning Elohimi: cherem — moʻʼtadagi⟨the⟩ sening ichingda, ey Isroil; dushmanlaring oldida tur ololmaysan, cheremni oʻz ichingizdan olib tashlaguningizchagacha.",
+  "translation": "Tur, xalqni muqaddasla va aytki: Ertaga uchun oʻzlaringizni muqaddaslang, chunki Yahve, Isroilning Elohimi, shunday deydi: Isroil, muqarrar qilingan narsa ⟨cherem⟩ sening oralingʻda; dushmanlaring oldida turib ololmaysan, muqarrar qilingan narsani oralingʻdan olib tashlaguningizcha.",
   "tokens": [
     {
       "surface": "קם",
@@ -26,15 +26,15 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "va aytkin"
+      "gloss": "va aytki"
     },
     {
       "surface": "התקדשו",
-      "gloss": "oʻzlingizni muqaddaslang"
+      "gloss": "oʻzlaringizni muqaddaslang"
     },
     {
       "surface": "למחר",
-      "gloss": "ertaga"
+      "gloss": "ertaga uchun"
     },
     {
       "surface": "כי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "dedi"
+      "gloss": "deydi"
     },
     {
       "surface": "יהוה",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohimi"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "חרם",
-      "gloss": "cherem"
+      "gloss": "muqarrar qilingan narsa ⟨cherem⟩"
     },
     {
       "surface": "בקרבך",
-      "gloss": "sening ichingda"
+      "gloss": "sening oralingʻda"
     },
     {
       "surface": "ישראל",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "לקום",
-      "gloss": "tur"
+      "gloss": "turib"
     },
     {
       "surface": "לפני",
@@ -94,21 +94,21 @@
     },
     {
       "surface": "עד",
-      "gloss": "-chagacha"
+      "gloss": "…gacha"
     },
     {
       "surface": "הסירכם",
-      "gloss": "olib tashlaguningiz"
+      "gloss": "olib tashlaguningizcha"
     },
     {
       "surface": "החרם",
-      "gloss": "cheremni"
+      "gloss": "muqarrar qilingan narsani"
     },
     {
       "surface": "מקרבכם",
-      "gloss": "oʻz ichingizdan"
+      "gloss": "oralingʻdan"
     }
   ],
-  "timestamp": "2026-08-26T02:14:54.400625473Z",
+  "timestamp": "2026-08-26T09:51:32.020831754Z",
   "model": "glm-5.3"
 }

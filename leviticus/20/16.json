@@ -5,23 +5,23 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va bir ayol, kim har qanday hayvonga yaqin kelsa — uni juftlash uchun — ⟨את⟩ ⟨the⟩ ayolni oʻldirgan boʻlasan va ⟨את⟩ hayvonni; oʻlimdan oʻldirilsinlar; qonlari oʻz ustlarida.",
+  "translation": "Agar bir ayol har qanday hayvonga yaqinlashib, unga ⟨את⟩ choʻzilsa — sen ham ayolni, ham hayvonni oʻldirishing kerak: ⟨את⟩ ayolni va ⟨את⟩ hayvonni; oʻlim bilan oʻlsinlar, ularning qoni oʻzlarining ustida boʻlur.",
   "tokens": [
     {
       "surface": "ואשה",
-      "gloss": "Va bir ayol"
+      "gloss": "va agar bir ayol"
     },
     {
       "surface": "אשר",
-      "gloss": "kim"
+      "gloss": "ki"
     },
     {
       "surface": "תקרב",
-      "gloss": "yaqin kelsa"
+      "gloss": "yaqinlashsa"
     },
     {
       "surface": "אל",
-      "gloss": "-ga"
+      "gloss": "—ga"
     },
     {
       "surface": "כל",
@@ -29,20 +29,20 @@
     },
     {
       "surface": "בהמה",
-      "gloss": "hayvonga"
+      "gloss": "hayvon"
     },
     {
       "surface": "לרבעה",
-      "gloss": "uni juftlash uchun"
+      "gloss": "choʻzilish uchun"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ uni",
-      "marks": "ayolni (olmosh bilan)"
+      "gloss": "⟨את⟩",
+      "marks": "unga (hayvonga)"
     },
     {
       "surface": "והרגת",
-      "gloss": "va oʻldirgan boʻlasan"
+      "gloss": "va sen oʻldirishing kerak"
     },
     {
       "surface": "את",
@@ -64,21 +64,21 @@
     },
     {
       "surface": "מות",
-      "gloss": "oʻlimdan"
+      "gloss": "oʻlim bilan"
     },
     {
       "surface": "יומתו",
-      "gloss": "oʻldirilsinlar"
+      "gloss": "oʻlsinlar"
     },
     {
       "surface": "דמיהם",
-      "gloss": "qonlari"
+      "gloss": "ularning qoni"
     },
     {
       "surface": "בם",
-      "gloss": "oʻz ustlarida"
+      "gloss": "oʻzlarining ustida"
     }
   ],
-  "timestamp": "2026-08-26T01:19:52.590323971Z",
+  "timestamp": "2026-08-26T09:47:05.701399215Z",
   "model": "glm-5.3"
 }

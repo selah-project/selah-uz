@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 21,
-  "translation": "Va ular eshitmadilar, va Menashshe ularni yoʻldan ozdirdi — ⟨את⟩ yomonlikni qilishga, undan koʻra koʻproq, ⟨the⟩ xalqlardan, qachonki Yahve ularni yoʻq qilgan edi Isroil oʻgʻillarining yuzidan oldin.",
+  "translation": "Va ular eshitmadilar, va Menashshe ularni yoʻldan ozdirdi — Yahve Isroil oʻgʻillari yuzidan yoʻq qilgan xalqlardan koʻra koʻproq ⟨את⟩ yomonni qilishga.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "va ... -magan"
+      "gloss": "Va ... emas"
     },
     {
       "surface": "שמעו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויתעם",
-      "gloss": "va u ularni yoʻldan ozdirdi"
+      "gloss": "va ularni yoʻldan ozdirdi"
     },
     {
       "surface": "מנשה",
@@ -30,27 +30,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yomonlikni"
+      "marks": "yomonni"
     },
     {
       "surface": "הרע",
-      "gloss": "yomonlik"
+      "gloss": "yomonni"
     },
     {
       "surface": "מן",
-      "gloss": "-dan koʻra"
+      "gloss": "dan"
     },
     {
       "surface": "הגוים",
-      "gloss": "xalqlar"
+      "gloss": "xalqlardan"
     },
     {
       "surface": "אשר",
-      "gloss": "qachonki"
+      "gloss": "ki"
     },
     {
       "surface": "השמיד",
-      "gloss": "yoʻq qilgan edi"
+      "gloss": "yoʻq qilgan"
     },
     {
       "surface": "יהוה",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "מפני",
-      "gloss": "yuzidan oldin"
+      "gloss": "yuzidan"
     },
     {
       "surface": "בני",
@@ -69,6 +69,6 @@
       "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T08:33:04.558107035Z",
+  "timestamp": "2026-08-26T09:54:51.531969851Z",
   "model": "glm-5.3"
 }

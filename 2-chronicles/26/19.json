@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Va Uzziyahu gʻazablandi, va qoʻlida tutatqi idishi bor edi — tutatqi keltirish uchun; va kohenlar bilan gʻazablanganida, moʻjaz kasalligi uning peshonasida yorib chiqdi, kohenlar ⟨oldida⟩, Yahve uyida, tutatqi祭 altarining yonidan yuqorida.",
+  "translation": "Va Uzziyo gʻazablandi, va qoʻlida tutatqi idishi tutatqi keltirish uchun bor edi, va kohinlar bilan gʻazablanganida — moʻrt kasalligi peshonasida yorilib chiqdi, kohinlarning oldida, Yahve uyida, tutatqi qurbongohining yonidan.",
   "tokens": [
     {
       "surface": "ויזעף",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "עזיהו",
-      "gloss": "Uzziyahu"
+      "gloss": "Uzziyo"
     },
     {
       "surface": "ובידו",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "kohenlar"
+      "gloss": "kohinlar"
     },
     {
       "surface": "והצרעת",
-      "gloss": "va moʻjaz kasalligi"
+      "gloss": "va moʻrt kasalligi"
     },
     {
       "surface": "זרחה",
-      "gloss": "yorib chiqdi"
+      "gloss": "yorilib chiqdi"
     },
     {
       "surface": "במצחו",
-      "gloss": "uning peshonasida"
+      "gloss": "peshonasida"
     },
     {
       "surface": "לפני",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "kohenlar"
+      "gloss": "kohinlarning"
     },
     {
       "surface": "בבית",
@@ -69,17 +69,17 @@
     },
     {
       "surface": "מעל",
-      "gloss": "yuqorida"
+      "gloss": "yonidan"
     },
     {
       "surface": "למזבח",
-      "gloss": "altarga"
+      "gloss": "qurbongohining"
     },
     {
       "surface": "הקטרת",
       "gloss": "tutatqi"
     }
   ],
-  "timestamp": "2026-08-26T08:13:26.585003509Z",
+  "timestamp": "2026-08-26T10:05:58.682147505Z",
   "model": "glm-5.3"
 }

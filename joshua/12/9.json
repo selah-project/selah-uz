@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Yerixoning podshohi — bitta; ⟨the⟩ Ay podshohi, u ⟨which⟩ Beyt-El yonida ⟨yotgan⟩ — bitta;",
+  "translation": "Yerixoning podshohi — bitta; Ay podshohi — Bet-El yonidagi ⟨the⟩ ⟨את⟩ — bitta;",
   "tokens": [
     {
       "surface": "מלך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יריחו",
-      "gloss": "Yerixo"
+      "gloss": "Yerixoning"
     },
     {
       "surface": "אחד",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "העי",
-      "gloss": "⟨the⟩ Ay"
+      "gloss": "Ay"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨which⟩"
+      "gloss": "—"
     },
     {
       "surface": "מצד",
-      "gloss": "yonida"
+      "gloss": "yonidagi"
     },
     {
       "surface": "בית",
-      "gloss": "Beyt-"
+      "gloss": "Bet-"
     },
     {
       "surface": "אל",
@@ -48,6 +48,6 @@
       "gloss": "bitta"
     }
   ],
-  "timestamp": "2026-08-26T02:15:51.365564933Z",
+  "timestamp": "2026-08-26T10:22:12.661014401Z",
   "model": "glm-5.3"
 }

@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Va sen parda-toʻrni ilgaklar ostiga osib qoʻyasiz, ⟨את⟩ guvohlik sandigʻini parda-toʻrning ichki tomoniga olib kirasan; va parda-toʻr siz uchun muqaddas ⟨the⟩ joy va muqaddaslar-muqaddasi oʻrtasida ajratib turadi.",
+  "translation": "Va ⟨את⟩ pardani ilmoqlar ostiga osib qoʻyasansan, va u yerga — pardaning ichki tomoniga — ⟨את⟩ guvohlik sandigʻini keltirasansan; va parda siz uchun muqaddas ⟨joy⟩ va muqaddaslar muqaddasi oʻrtasida ajratib turadi.",
   "tokens": [
     {
       "surface": "ונתתה",
-      "gloss": "va qoʻyasiz"
+      "gloss": "osib qoʻyasansan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "parda-toʻrni"
+      "marks": "pardani"
     },
     {
       "surface": "הפרכת",
-      "gloss": "parda-toʻrni"
+      "gloss": "pardani"
     },
     {
       "surface": "תחת",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "הקרסים",
-      "gloss": "ilgaklar"
+      "gloss": "ilmoqlar"
     },
     {
       "surface": "והבאת",
-      "gloss": "va kiritasan"
+      "gloss": "va keltirasansan"
     },
     {
       "surface": "שמה",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "מבית",
-      "gloss": "ichki tomonidan"
+      "gloss": "ichki tomoniga"
     },
     {
       "surface": "לפרכת",
-      "gloss": "parda-toʻrning"
+      "gloss": "pardaning"
     },
     {
       "surface": "את",
@@ -51,11 +51,11 @@
     },
     {
       "surface": "ארון",
-      "gloss": "sandigʻini"
+      "gloss": "sandiq"
     },
     {
       "surface": "העדות",
-      "gloss": "guvohlik"
+      "gloss": "guvohlikning"
     },
     {
       "surface": "והבדילה",
@@ -63,7 +63,7 @@
     },
     {
       "surface": "הפרכת",
-      "gloss": "parda-toʻr"
+      "gloss": "parda"
     },
     {
       "surface": "לכם",
@@ -75,21 +75,21 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "muqaddas"
+      "gloss": "muqaddasning"
     },
     {
       "surface": "ובין",
-      "gloss": "va oʻrtasida"
+      "gloss": "va … oʻrtasida"
     },
     {
       "surface": "קדש",
-      "gloss": "muqaddasi"
+      "gloss": "muqaddasining"
     },
     {
       "surface": "הקדשים",
-      "gloss": "muqaddaslarning"
+      "gloss": "muqaddaslar"
     }
   ],
-  "timestamp": "2026-08-26T00:59:59.865094505Z",
+  "timestamp": "2026-08-26T09:45:48.309784907Z",
   "model": "glm-5.3"
 }

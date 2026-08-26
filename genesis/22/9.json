@@ -5,27 +5,27 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 22,
-  "translation": "Va kelishdi ⟨⟨u⟩⟩ joyga, ⟨the⟩ makonga ki Elohim unga aytgan edi; va qurdi u yerda Avraham ⟨את⟩ mehrobni va joyladi ⟨את⟩ yogʻochni; va bogʻladi ⟨את⟩ Yitsxoqni, oʻgʻlini, va qoʻydi uni ⟨את⟩ mehrob ustiga, tepasida yogʻochlarning.",
+  "translation": "Va u yerga kelishdi — Elohim unga aytgan joyga; va Avraham u yerda qurbonxohni qurdi va ⟨את⟩ yogʻochlarni terib chiqdi, va ⟨את⟩ oʻgʻli Yitsxakni bogʻladi va uni qurbonxohga, yogʻochlarning ustiga qoʻydi.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "va kelishdi"
+      "gloss": "va u yerga kelishdi"
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "—"
     },
     {
       "surface": "המקום",
-      "gloss": "makon"
+      "gloss": "joyga"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "אמר",
-      "gloss": "aytgan edi"
+      "gloss": "aytgan"
     },
     {
       "surface": "לו",
@@ -50,24 +50,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mehrobni"
+      "marks": "qurbonxohni"
     },
     {
       "surface": "המזבח",
-      "gloss": "mehrob"
+      "gloss": "qurbonxohni"
     },
     {
       "surface": "ויערך",
-      "gloss": "va joyladi"
+      "gloss": "va terib chiqdi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yogʻochni"
+      "marks": "yogʻochlarni"
     },
     {
       "surface": "העצים",
-      "gloss": "yogʻoch"
+      "gloss": "yogʻochlarni"
     },
     {
       "surface": "ויעקד",
@@ -76,11 +76,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yitsxoqni"
+      "marks": "Yitsxakni"
     },
     {
       "surface": "יצחק",
-      "gloss": "Yitsxoq"
+      "gloss": "Yitsxakni"
     },
     {
       "surface": "בנו",
@@ -92,26 +92,26 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "uni"
+      "gloss": "⟨את⟩ uni",
+      "marks": "u (Yitsxakni)"
     },
     {
       "surface": "על",
-      "gloss": "ustiga"
+      "gloss": "— ustiga"
     },
     {
       "surface": "המזבח",
-      "gloss": "mehrob"
+      "gloss": "qurbonxohga"
     },
     {
       "surface": "ממעל",
-      "gloss": "tepasida"
+      "gloss": "ustiga"
     },
     {
       "surface": "לעצים",
-      "gloss": "yogʻochlarga"
+      "gloss": "yogʻochlarning"
     }
   ],
-  "timestamp": "2026-08-26T00:36:40.592573718Z",
+  "timestamp": "2026-08-26T09:43:55.231647969Z",
   "model": "glm-5.3"
 }

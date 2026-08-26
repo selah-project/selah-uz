@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 104,
-  "translation": "U — ⟨the⟩ dengiz, buyuk va keng yonbagʻirli; u yerda sudralib yuruvchilar ⟨bor⟩, son-sanoqsiz, tirik jonzotlar — kichiklar bilan kattalar.",
+  "translation": "Mana bu dengiz — katta va keng yama-shakllangan, unda sudralib yuruvchilar ⟨va⟩ son-sanoqsiz, mayda jonivorlar kattalari bilan birga.",
   "tokens": [
     {
       "surface": "זה",
-      "gloss": "U"
+      "gloss": "bu"
     },
     {
       "surface": "הים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "גדול",
-      "gloss": "buyuk"
+      "gloss": "katta"
     },
     {
       "surface": "ורחב",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "ידים",
-      "gloss": "yonbagʻirli"
+      "gloss": "yama-shakllangan"
     },
     {
       "surface": "שם",
-      "gloss": "u yerda"
+      "gloss": "unda"
     },
     {
       "surface": "רמש",
@@ -37,29 +37,29 @@
     },
     {
       "surface": "ואין",
-      "gloss": "va ⟨bor⟩"
+      "gloss": "va yoʻq"
     },
     {
       "surface": "מספר",
-      "gloss": "son-sanoqsiz"
+      "gloss": "son-sanoq"
     },
     {
       "surface": "חיות",
-      "gloss": "tirik jonzotlar"
+      "gloss": "jonivorlar"
     },
     {
       "surface": "קטנות",
-      "gloss": "kichiklar"
+      "gloss": "mayda"
     },
     {
       "surface": "עם",
-      "gloss": "bilan"
+      "gloss": "bilan birga"
     },
     {
       "surface": "גדלות",
-      "gloss": "kattalar"
+      "gloss": "kattalari"
     }
   ],
-  "timestamp": "2026-08-26T06:26:56.388063297Z",
+  "timestamp": "2026-08-26T10:01:04.045765262Z",
   "model": "glm-5.3"
 }

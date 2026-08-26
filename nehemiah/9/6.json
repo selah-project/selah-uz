@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Sen — U Yahve yolgʻiz oʻzing; Sen ⟨את⟩ osmonlarni, osmonlar osmonlarini va butun ularning safini, yerni va uning ustidagi hamma narsani, dengizlarni va ulardagi hamma narsani yaratding; va Sen ⟨את⟩ hammalarini tirilturuvchisan; va osmon saflari Senga sajda qilmoqdalar.",
+  "translation": "Sen — oʻzing Yahve, yolgʻiz oʻzing; Sen ⟨את⟩ yaratding ⟨את⟩ osmonlarni, osmonlarning osmonini va butun safarini, ⟨את⟩ yerni va undagi butun narsani, ⟨את⟩ dengizlarni va ulardagi butun narsani; va Sen ⟨את⟩ hammasini tiriltirasan, va osmonning safi Senga sajda qiladi.",
   "tokens": [
     {
       "surface": "אתה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "U"
+      "gloss": "oʻzing"
     },
     {
       "surface": "יהוה",
@@ -43,11 +43,11 @@
     },
     {
       "surface": "שמי",
-      "gloss": "osmonlari"
+      "gloss": "osmonlarning"
     },
     {
       "surface": "השמים",
-      "gloss": "osmonlar"
+      "gloss": "osmonini"
     },
     {
       "surface": "וכל",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "צבאם",
-      "gloss": "ularning safini"
+      "gloss": "safarini"
     },
     {
       "surface": "הארץ",
@@ -63,15 +63,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "va hamma"
+      "gloss": "va butun"
     },
     {
       "surface": "אשר",
-      "gloss": "narsani ki"
+      "gloss": "narsani"
     },
     {
       "surface": "עליה",
-      "gloss": "uning ustida"
+      "gloss": "undagi"
     },
     {
       "surface": "הימים",
@@ -79,15 +79,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "va hamma"
+      "gloss": "va butun"
     },
     {
       "surface": "אשר",
-      "gloss": "narsani ki"
+      "gloss": "narsani"
     },
     {
       "surface": "בהם",
-      "gloss": "ularda"
+      "gloss": "ulardagi"
     },
     {
       "surface": "ואתה",
@@ -95,16 +95,16 @@
     },
     {
       "surface": "מחיה",
-      "gloss": "tirilturuvchisan"
+      "gloss": "tiriltirasan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hammalarini"
+      "marks": "hammasini"
     },
     {
       "surface": "כלם",
-      "gloss": "hammalarini"
+      "gloss": "hammasini"
     },
     {
       "surface": "וצבא",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "השמים",
-      "gloss": "osmon"
+      "gloss": "osmonning"
     },
     {
       "surface": "לך",
@@ -120,9 +120,9 @@
     },
     {
       "surface": "משתחוים",
-      "gloss": "sajda qilmoqdalar"
+      "gloss": "sajda qiladi"
     }
   ],
-  "timestamp": "2026-08-26T07:47:43.986392990Z",
+  "timestamp": "2026-08-26T10:25:21.134929164Z",
   "model": "glm-5.3"
 }

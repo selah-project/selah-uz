@@ -5,36 +5,36 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va u ⟨את⟩ ⟨the⟩ mudofaa inshootlarini mustahkamladi va ularga hokimlar qoʻydi hamda oziq-ovqat, moy va sharob omborlari",
+  "translation": "Va u ⟨את⟩ mustahkam qalʼalarni kuchaytirdi va ularda sarkardalar tayinladi hamda oziq-ovqat, moy va vinolatnlarni saqlash omborlarini ⟨qoʻydi⟩.",
   "tokens": [
     {
       "surface": "ויחזק",
-      "gloss": "mustahkamladi"
+      "gloss": "kuchaytirdi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mudofaa inshootlarini"
+      "marks": "mustahkam qalʼalarni"
     },
     {
       "surface": "המצרות",
-      "gloss": "mudofaa inshootlari"
+      "gloss": "mustahkam qalʼalarni"
     },
     {
       "surface": "ויתן",
-      "gloss": "qoʻydi"
+      "gloss": "va tayinladi \/ qoʻydi"
     },
     {
       "surface": "בהם",
-      "gloss": "ularga"
+      "gloss": "ularda"
     },
     {
       "surface": "נגידים",
-      "gloss": "hokimlar"
+      "gloss": "sarkardalar"
     },
     {
       "surface": "ואצרות",
-      "gloss": "omborlar"
+      "gloss": "va omborlarni"
     },
     {
       "surface": "מאכל",
@@ -42,13 +42,13 @@
     },
     {
       "surface": "ושמן",
-      "gloss": "moy"
+      "gloss": "va moy"
     },
     {
       "surface": "ויין",
-      "gloss": "sharob"
+      "gloss": "va vino"
     }
   ],
-  "timestamp": "2026-08-26T08:07:51.806103739Z",
+  "timestamp": "2026-08-26T10:05:21.599195456Z",
   "model": "glm-5.3"
 }

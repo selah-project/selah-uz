@@ -5,93 +5,53 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va boʻladi, xudoimga (parvardigorga) oʻxshab, oyat maʼnosi: — tarjima: «Boʻlurki, sening xotirjam boʻlgach, Davud oʻz xizmatkorlariga buyurib chiqtiki, bizga Yoav ibn Seruya va Abiatar kohin yordam bersin deb. Ular Dahyogʻa (bagʻriga) borib, uni oʻldirsinlar.»",
+  "translation": "Va boʻladiki, egam shoh ota-bobolari bilan yotganda, men va oʻgʻlim Shelomo ⟨ ⟩ gunohkorlar hisoblanib qolamiz.",
   "tokens": [
     {
-      "surface": "וישלח",
-      "gloss": "va yubordi"
+      "surface": "והיה",
+      "gloss": "va boʻladiki"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "yotganda"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "egam"
     },
     {
       "surface": "המלך",
       "gloss": "shoh"
     },
     {
-      "surface": "דוד",
-      "gloss": "Davud"
+      "surface": "עם",
+      "gloss": "bilan"
     },
     {
-      "surface": "ויאמר",
-      "gloss": "va aytdi"
+      "surface": "אבתיו",
+      "gloss": "ota-bobolari"
     },
     {
-      "surface": "קחו",
-      "gloss": "ol inglar"
+      "surface": "והייתי",
+      "gloss": "boʻlib qolamiz"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "xizmatkorlarimni"
+      "surface": "אני",
+      "gloss": "men"
     },
     {
-      "surface": "עבדיכם",
-      "gloss": "xizmatkorlarimni"
+      "surface": "ובני",
+      "gloss": "va oʻgʻlim"
     },
     {
-      "surface": "אתכם",
-      "gloss": "sizlar bilan"
+      "surface": "שלמה",
+      "gloss": "Shelomo"
     },
     {
-      "surface": "ורכבו",
-      "gloss": "va minib otinglar"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Dahyoni"
-    },
-    {
-      "surface": "בני",
-      "gloss": "oʻgʻlini"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Rekab va Baanani"
-    },
-    {
-      "surface": "רכבי",
-      "gloss": "otliqlarim"
-    },
-    {
-      "surface": "אחיתפל",
-      "gloss": "Axitofel"
-    },
-    {
-      "surface": "התחת",
-      "gloss": "ostiga"
-    },
-    {
-      "surface": "דהי",
-      "gloss": "Dahyo"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "Rekab va Baanani"
-    },
-    {
-      "surface": "רכבי",
-      "gloss": "otliqlarim"
-    },
-    {
-      "surface": "אחיתפל",
-      "gloss": "Axitofel"
-    },
-    {
-      "surface": "התחת",
-      "gloss": "ostiga"
+      "surface": "חטאים",
+      "gloss": "gunohkorlar"
     }
   ],
-  "timestamp": "2026-08-26T03:24:27.352678940Z",
+  "timestamp": "2026-08-26T10:22:38.399889784Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Qari, yigit, bokira qiz, goʻdak va ayollarni oʻldiringlar — butunlay yoʻq qilish uchun; lekin belgi — תָו — boʻlgan har qanday odamga yaqinlashmanglar; va muqaddasligimdan boshlanglar. Va ular uy oldida turgan qariyalardan boshladilar.",
+  "translation": "Qari, yigit, bokira qiz, chaqaloq va ayollarni — butunlay yoʻq qilguncha oʻldiringiz; ustida tav belgisi boʻlgan har qanday odamga yaqonmanglar, va muqaddasligimdan boshlanglar. Va ular uy oldida turgan qariyalardan boshladilar.",
   "tokens": [
     {
       "surface": "זקן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "וטף",
-      "gloss": "va goʻdak"
+      "gloss": "va chaqaloq"
     },
     {
       "surface": "ונשים",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "תהרגו",
-      "gloss": "oʻldiringlar"
+      "gloss": "oʻldiringiz"
     },
     {
       "surface": "למשחית",
-      "gloss": "butunlay yoʻq qilish uchun"
+      "gloss": "butunlay yoʻq qilguncha"
     },
     {
       "surface": "ועל",
-      "gloss": "lekin"
+      "gloss": "va ... ustiga"
     },
     {
       "surface": "כל",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "עליו",
-      "gloss": "unda"
+      "gloss": "uning ustida"
     },
     {
       "surface": "התו",
-      "gloss": "belgi — תָו"
+      "gloss": "tav belgisi"
     },
     {
       "surface": "אל",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "תגשו",
-      "gloss": "yaqinlashmanglar"
+      "gloss": "yaqonmanglar"
     },
     {
       "surface": "וממקדשי",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "באנשים",
-      "gloss": "…dan"
+      "gloss": "... bilan odamlar"
     },
     {
       "surface": "הזקנים",
@@ -100,6 +100,6 @@
       "gloss": "uy"
     }
   ],
-  "timestamp": "2026-08-26T05:12:18.984977219Z",
+  "timestamp": "2026-08-26T09:57:10.972115608Z",
   "model": "glm-5.3"
 }

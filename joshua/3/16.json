@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Yuqoridan tushayotgan suvlar toʻxtadi — bitta doʻldek koʻtarilib, juda uzoqda, Adam shahri yonidagi Tsratan tarafda turdi; Araboh dengiziga, Tuz dengiziga tushayotganlar esa butunlay kesildi, va ⟨the⟩ xalq Yerixoning roʻparasidan oʻtdi.",
+  "translation": "Pastdan kelgan suvlar toʻxtadi — yuqoridan kelganlar bitta toʻlqin boʻlib koʻtarildi, Adam shahri yonidagi Tsaraton tomonga juda uzoqda; Araba dengiziga, Tuzli dengizga tushayotgan suvlar esa butunlay kesildi, va xalq Yerixoning qarshisidan oʻtib ketdi.",
   "tokens": [
     {
       "surface": "ויעמדו",
@@ -13,23 +13,23 @@
     },
     {
       "surface": "המים",
-      "gloss": "⟨the⟩ suvlar"
+      "gloss": "suvlar"
     },
     {
       "surface": "הירדים",
-      "gloss": "tushayotgan"
+      "gloss": "pastdan kelgan"
     },
     {
       "surface": "מלמעלה",
-      "gloss": "yuqoridan"
+      "gloss": "yuqoridan kelganlar"
     },
     {
       "surface": "קמו",
-      "gloss": "koʻtarilib"
+      "gloss": "koʻtarildi"
     },
     {
       "surface": "נד",
-      "gloss": "doʻldek"
+      "gloss": "toʻlqin"
     },
     {
       "surface": "אחד",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "באדם",
-      "gloss": "Adam ⟨shahri⟩ yonida"
+      "gloss": "Adam"
     },
     {
       "surface": "העיר",
-      "gloss": "⟨the⟩ shahri"
+      "gloss": "shahri"
     },
     {
       "surface": "אשר",
-      "gloss": "…ki"
+      "gloss": "ki"
     },
     {
       "surface": "מצד",
@@ -61,23 +61,23 @@
     },
     {
       "surface": "צרתן",
-      "gloss": "Tsratan"
+      "gloss": "Tsaratondan"
     },
     {
       "surface": "והירדים",
-      "gloss": "va tushayotganlar"
+      "gloss": "va tushayotgan"
     },
     {
       "surface": "על",
-      "gloss": "…siga"
+      "gloss": "tomonga"
     },
     {
       "surface": "ים",
-      "gloss": "dengizi"
+      "gloss": "dengiziga"
     },
     {
       "surface": "הערבה",
-      "gloss": "Araboh"
+      "gloss": "Araba"
     },
     {
       "surface": "ים",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "המלח",
-      "gloss": "Tuz"
+      "gloss": "Tuzli"
     },
     {
       "surface": "תמו",
@@ -97,21 +97,21 @@
     },
     {
       "surface": "והעם",
-      "gloss": "va ⟨the⟩ xalq"
+      "gloss": "va xalq"
     },
     {
       "surface": "עברו",
-      "gloss": "oʻtdi"
+      "gloss": "oʻtib ketdi"
     },
     {
       "surface": "נגד",
-      "gloss": "roʻparasidan"
+      "gloss": "qarshisidan"
     },
     {
       "surface": "יריחו",
       "gloss": "Yerixon"
     }
   ],
-  "timestamp": "2026-08-26T08:26:26.135883069Z",
+  "timestamp": "2026-08-26T10:25:39.454211422Z",
   "model": "glm-5.3"
 }

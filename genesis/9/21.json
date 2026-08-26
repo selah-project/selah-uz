@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va u ichdi vino ichidan, va mast boʻldi, va chеtalanib yotdi oʻz chodirining ichida.",
+  "translation": "Va u vino ichdi va mast boʻldi, va oʻz chodirining ichida yalangʻochlandi.",
   "tokens": [
     {
       "surface": "וישת",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "מן",
-      "gloss": "—dan"
+      "gloss": "—"
     },
     {
       "surface": "היין",
-      "gloss": "vino"
+      "gloss": "vinodan"
     },
     {
       "surface": "וישכר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויתגל",
-      "gloss": "va chеtalanib yotdi"
+      "gloss": "va yalangʻochlandi"
     },
     {
       "surface": "בתוך",
@@ -36,6 +36,6 @@
       "gloss": "oʻz chodiri"
     }
   ],
-  "timestamp": "2026-08-26T00:32:24.556216875Z",
+  "timestamp": "2026-08-26T09:43:25.803959994Z",
   "model": "glm-5.3"
 }

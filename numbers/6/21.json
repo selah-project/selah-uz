@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Bu nazirning torasi — u Yahvegа nazr qilib, oʻz ajralishi uchun keltiradigan qurboni; qoʻli yetadiganidan tashqari — nazrining oʻziga qarab, qanday nazr qilsa, shunday qilsin, oʻz ajralishining torasiga koʻra.",
+  "translation": "Bu — nazirning torasi: ⟨u⟩ kimga Yahvegʻa najorka qasamyod qilsa, nazri uchun keltiradigan qurbonligidan tashqari, yadrogi yetgan narsadan tashqari; oʻz qasamyodiga koʻra, qasamyod qilganidek, shunday qilsin — nazrining torasi boʻyicha.",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "bu"
+      "gloss": "Bu"
     },
     {
       "surface": "תורת",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "kimga"
     },
     {
       "surface": "ידר",
-      "gloss": "nazr qilsa"
+      "gloss": "qasamyod qilsa"
     },
     {
       "surface": "קרבנו",
-      "gloss": "qurboni"
+      "gloss": "qurbonligi"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahvegʻa"
     },
     {
       "surface": "על",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נזרו",
-      "gloss": "oʻz ajralishi"
+      "gloss": "nazri"
     },
     {
       "surface": "מלבד",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "narsadan tashqari — ⟨ki⟩"
     },
     {
       "surface": "תשיג",
-      "gloss": "yetadigan"
+      "gloss": "yetgan"
     },
     {
       "surface": "ידו",
-      "gloss": "qoʻli"
+      "gloss": "yadrogi"
     },
     {
       "surface": "כפי",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "נדרו",
-      "gloss": "nazrining"
+      "gloss": "qasamyodiga"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "ידר",
-      "gloss": "nazr qilsa"
+      "gloss": "qasamyod qilganidek"
     },
     {
       "surface": "כן",
@@ -89,13 +89,13 @@
     },
     {
       "surface": "תורת",
-      "gloss": "torasiga"
+      "gloss": "torasi"
     },
     {
       "surface": "נזרו",
-      "gloss": "oʻz ajralishi"
+      "gloss": "nazrining"
     }
   ],
-  "timestamp": "2026-08-26T01:27:33.645391271Z",
+  "timestamp": "2026-08-26T09:47:51.941562014Z",
   "model": "glm-5.3"
 }

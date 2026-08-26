@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 103,
-  "translation": "Yahve solih ishlar qiladi va ezilganlar uchun hukmlar chiqaradi.",
+  "translation": "Yahve solihliklarni qiladi va barcha ezilganlar uchun hukmlarni.",
   "tokens": [
     {
       "surface": "עשה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "צדקות",
-      "gloss": "solih ishlar"
+      "gloss": "solihliklarni"
     },
     {
       "surface": "יהוה",
@@ -21,17 +21,17 @@
     },
     {
       "surface": "ומשפטים",
-      "gloss": "va hukmlar"
+      "gloss": "va hukmlarni"
     },
     {
       "surface": "לכל",
-      "gloss": "barcha ⟨the⟩ ezilganlar uchun"
+      "gloss": "barcha … uchun"
     },
     {
       "surface": "עשוקים",
       "gloss": "ezilganlar"
     }
   ],
-  "timestamp": "2026-08-26T06:26:09.329426720Z",
+  "timestamp": "2026-08-26T10:01:07.006330968Z",
   "model": "glm-5.3"
 }

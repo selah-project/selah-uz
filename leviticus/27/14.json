@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Va agar bir kishi oʻz uyini Yahvega muqaddas qilib bagʻishlasa, kohin uni yaxshi yoki yomon deb baholaydi; kohin uni qanday baholasa, shunday boʻlib turadi.",
+  "translation": "Va agar bir odam oʻz uyini Yahve uchun muqaddas qilsa, kohin uni baholaydi — yaxshi yoki yomon ⟨oʻrtasida⟩; kohin uni qanday baholasa, shunday ⟨narx⟩ oʻrnida qoladi.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "Va agar bir kishi"
+      "gloss": "Va agar bir odam"
     },
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יקדש",
-      "gloss": "muqaddas qilib bagʻishlasa"
+      "gloss": "muqaddas qilsa"
     },
     {
       "surface": "את",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "קדש",
-      "gloss": "muqaddas"
+      "gloss": "muqaddaslik"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahve uchun"
     },
     {
       "surface": "והעריכו",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "בין",
-      "gloss": "yaxshi"
+      "gloss": "⟨oʻrtasida⟩"
     },
     {
       "surface": "טוב",
@@ -70,8 +70,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "uni"
+      "gloss": "⟨את⟩ uni",
+      "marks": "uni (kohin)"
     },
     {
       "surface": "הכהן",
@@ -83,9 +83,9 @@
     },
     {
       "surface": "יקום",
-      "gloss": "boʻlib turadi"
+      "gloss": "oʻrnida qoladi"
     }
   ],
-  "timestamp": "2026-08-26T01:25:13.462919472Z",
+  "timestamp": "2026-08-26T09:47:17.983247657Z",
   "model": "glm-5.3"
 }

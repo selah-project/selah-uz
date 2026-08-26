@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va u aytdi: kanizangiz koʻzlaringizda marhamat topsin. Va ⟨the⟩ ayot oʻz yoʻliga yurdi va yedi, va yuzi unga ⟨endi⟩ boshqa ⟨oddiy⟩ boʻlmadi ⟨—⟩.",
+  "translation": "Va u aytdi: „Cholingiz topgan boʻlsin marhamat ⟨⟨sening⟩⟩ koʻzlaringda.“ Va ⟨⟨u⟩⟩ ayol oʻz yoʻliga ketdi va yedi, va uning yuzi ⟨⟨uning⟩⟩ uchun bundan keyin ⟨⟨oʻzgarmadi⟩⟩.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "va u aytdi"
+      "gloss": "Va u aytdi"
     },
     {
       "surface": "תמצא",
-      "gloss": "topsin"
+      "gloss": "topgan boʻlsin"
     },
     {
       "surface": "שפחתך",
-      "gloss": "kanizangiz"
+      "gloss": "cholingiz"
     },
     {
       "surface": "חן",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "בעיניך",
-      "gloss": "koʻzlaringizda"
+      "gloss": "koʻzlaringda"
     },
     {
       "surface": "ותלך",
-      "gloss": "va yurdi"
+      "gloss": "Va ketdi"
     },
     {
       "surface": "האשה",
-      "gloss": "ayot"
+      "gloss": "ayol"
     },
     {
       "surface": "לדרכה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ופניה",
-      "gloss": "va yuzi"
+      "gloss": "Va uning yuzi"
     },
     {
       "surface": "לא",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "לה",
-      "gloss": "unga"
+      "gloss": "uning uchun"
     },
     {
       "surface": "עוד",
-      "gloss": "endi"
+      "gloss": "bundan keyin"
     }
   ],
-  "timestamp": "2026-08-26T02:40:53.651991167Z",
+  "timestamp": "2026-08-26T10:22:39.386182492Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "esther",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Va kelishi boʻldi ⟨the⟩ podshohning va Hamanning — ichish uchun Ester bilan, ⟨the⟩ malika.",
+  "translation": "Va shoh bilan Haman Ester malika bilan ichishga keldi.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "Va kelishi boʻldi"
+      "gloss": "va keldi"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ podshoh"
+      "gloss": "⟨the⟩ shoh"
     },
     {
       "surface": "והמן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לשתות",
-      "gloss": "ichish uchun"
+      "gloss": "ichishga"
     },
     {
       "surface": "עם",
@@ -36,6 +36,6 @@
       "gloss": "⟨the⟩ malika"
     }
   ],
-  "timestamp": "2026-08-26T07:25:49.626351336Z",
+  "timestamp": "2026-08-26T10:24:38.660820028Z",
   "model": "glm-5.3"
 }

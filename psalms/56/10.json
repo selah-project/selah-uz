@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 56,
-  "translation": "Oʻsha kunda — men chaqirganim kunda — dushmanlarim orqaga qaytadir; buni bilaman, chunki Elohim ⟨men⟩ ⟨uchun⟩.",
+  "translation": "Oʻshanda dushmanlarim orqaga qaytadi — men chaqirgan kunda; bu men bilaman, chunki Elohim ⟨men⟩ uchun.",
   "tokens": [
     {
       "surface": "אז",
-      "gloss": "oʻsha kunda"
+      "gloss": "oʻshanda"
     },
     {
       "surface": "ישובו",
-      "gloss": "qaytadir"
+      "gloss": "qaytadilar"
     },
     {
       "surface": "אויבי",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "ביום",
-      "gloss": "kundа — men chaqirganim"
+      "gloss": "kunda"
     },
     {
       "surface": "אקרא",
-      "gloss": "chaqirganim"
+      "gloss": "men chaqirganimda"
     },
     {
       "surface": "זה",
-      "gloss": "buni"
+      "gloss": "bu"
     },
     {
       "surface": "ידעתי",
-      "gloss": "bilaman"
+      "gloss": "men bilaman"
     },
     {
       "surface": "כי",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "לי",
-      "gloss": "⟨men⟩ ⟨uchun⟩"
+      "gloss": "men uchun"
     }
   ],
-  "timestamp": "2026-08-26T06:12:47.769784495Z",
+  "timestamp": "2026-08-26T10:00:27.192552794Z",
   "model": "glm-5.3"
 }

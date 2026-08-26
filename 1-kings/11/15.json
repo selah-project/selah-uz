@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va boʻldi: Dovid ⟨את⟩ Edom bilan boʻlganida, Yoav, ⟨the⟩ qoʻshin sardori, oʻlganlarni ⟨את⟩ dafn qilish uchun koʻtarilganda — u Edomda har bir erkakni urdi.",
+  "translation": "Va boʻldi — Dovud ⟨את⟩ Edom bilan boʻlganida, Yoav ⟨את⟩ oʻldirilganlarni dafn etish uchun qoʻshin sardori boʻlib koʻtarilganda, u Edomda har bir erkakni urib oʻldirdi.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "va boʻldi"
+      "gloss": "Va boʻldi"
     },
     {
       "surface": "בהיות",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dovid"
+      "gloss": "Dovud"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Edom bilan"
+      "marks": "Edom"
     },
     {
       "surface": "אדום",
@@ -46,20 +46,20 @@
     },
     {
       "surface": "לקבר",
-      "gloss": "dafn qilish uchun"
+      "gloss": "dafn etish uchun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oʻlganlarni"
+      "marks": "oʻldirilganlar"
     },
     {
       "surface": "החללים",
-      "gloss": "oʻlganlar"
+      "gloss": "oʻldirilganlar"
     },
     {
       "surface": "ויך",
-      "gloss": "va urdi"
+      "gloss": "urib oʻldirdi"
     },
     {
       "surface": "כל",
@@ -74,6 +74,6 @@
       "gloss": "Edomda"
     }
   ],
-  "timestamp": "2026-08-26T08:32:01.485601626Z",
+  "timestamp": "2026-08-26T09:53:55.585522074Z",
   "model": "glm-5.3"
 }

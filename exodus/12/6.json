@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Va boʻlishi kerak siz uchun saqlanadigan narsa, toʻrtinchi-oʻn kungacha, ⟨the⟩ shu oygacha; va soʻyinglar uni ⟨את⟩ butun Isroil jamoati majmuasi kech qorongʻiligida.",
+  "translation": "Va sizlar uchun saqlanadigan narsa boʻlguncha — shu oyning oʻn toʻrtinchi kunigacha — va Isroil jamoati butun majmuasi uni ⟨את⟩ oqshomlar oraligʻida soʻysin.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Va boʻlishi kerak"
+      "gloss": "va boʻlsin"
     },
     {
       "surface": "לכם",
-      "gloss": "siz uchun"
+      "gloss": "sizlar uchun"
     },
     {
       "surface": "למשמרת",
-      "gloss": "saqlanadigan narsa"
+      "gloss": "saqlanadigan narsa sifatida"
     },
     {
       "surface": "עד",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ארבעה",
-      "gloss": "toʻrt"
+      "gloss": "oʻn toʻrtdan — toʻrt"
     },
     {
       "surface": "עשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "לחדש",
-      "gloss": "oyga"
+      "gloss": "oyning"
     },
     {
       "surface": "הזה",
@@ -45,12 +45,12 @@
     },
     {
       "surface": "ושחטו",
-      "gloss": "va soʻyinglar"
+      "gloss": "va soʻysinlar"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "uni (butun jamoat)"
+      "marks": "uni (soʻyiladigan moy boʻgʻani)"
     },
     {
       "surface": "כל",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "בין",
-      "gloss": "orasida"
+      "gloss": "oraligʻida"
     },
     {
       "surface": "הערבים",
-      "gloss": "kech qorongʻiligida"
+      "gloss": "oqshomlarning"
     }
   ],
-  "timestamp": "2026-08-26T00:53:07.505445883Z",
+  "timestamp": "2026-08-26T09:45:25.934346569Z",
   "model": "glm-5.3"
 }

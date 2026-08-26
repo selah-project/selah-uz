@@ -5,19 +5,19 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Malik Uzziyo vafot etgan yilda men Adonayni koʻrdim — u baland va koʻtarilgan taxtda oʻtirgan, va ⟨uning⟩ etaklari iboratni ⟨the⟩ toʻldirgan edi.",
+  "translation": "Uzziyo shohining oʻlim yilida men Adonayni koʻrdim — u baland va yuqoriga koʻtarilgan taxtda oʻtirgan edi, va uning etaklari ⟨את⟩ ibodatxonani toʻldirar edi.",
   "tokens": [
     {
       "surface": "בשנת",
-      "gloss": "yilda"
+      "gloss": "yilida"
     },
     {
       "surface": "מות",
-      "gloss": "vafot etgan"
+      "gloss": "oʻlim"
     },
     {
       "surface": "המלך",
-      "gloss": "malik"
+      "gloss": "shohining"
     },
     {
       "surface": "עזיהו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואראה",
-      "gloss": "va koʻrdim"
+      "gloss": "va men koʻrdim"
     },
     {
       "surface": "את",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "ונשא",
-      "gloss": "va koʻtarilgan"
+      "gloss": "va yuqoriga koʻtarilgan"
     },
     {
       "surface": "ושוליו",
@@ -62,18 +62,18 @@
     },
     {
       "surface": "מלאים",
-      "gloss": "toʻldirgan"
+      "gloss": "toʻldirar edi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "iboratni"
+      "marks": "ibodatxonani"
     },
     {
       "surface": "ההיכל",
-      "gloss": "iboratni"
+      "gloss": "ibodatxonani"
     }
   ],
-  "timestamp": "2026-08-26T04:09:55.750330563Z",
+  "timestamp": "2026-08-26T09:55:06.353167753Z",
   "model": "glm-5.3"
 }

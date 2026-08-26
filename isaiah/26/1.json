@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Oʻsha kunda Yehuda yerida bu qoʻshiq kuylanadi: Kuchli shahar bizga ⟨is⟩; qutqaruvni u devorlar va istehkom qilib qoʻyadi.",
+  "translation": "Oʻsha kunda Yehuda yerida bu qoʻshiq kuylanadi: bizga ⟨u⟩ kuchli shahar; qutqaruvni ⟨u⟩ devorlar va tashqi devor qilib qoʻyadi.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "oʻsha kunda"
+      "gloss": "kunda"
     },
     {
       "surface": "ההוא",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "ישועה",
-      "gloss": "qutqaruvni"
+      "gloss": "qutqaruv"
     },
     {
       "surface": "ישית",
-      "gloss": "qoʻyadi"
+      "gloss": "qilib qoʻyadi"
     },
     {
       "surface": "חומות",
@@ -61,9 +61,9 @@
     },
     {
       "surface": "וחל",
-      "gloss": "va istehkom"
+      "gloss": "va tashqi devor"
     }
   ],
-  "timestamp": "2026-08-26T04:17:31.380869979Z",
+  "timestamp": "2026-08-26T09:55:12.414234896Z",
   "model": "glm-5.3"
 }

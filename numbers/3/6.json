@@ -5,20 +5,20 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Levi qabilasini yaqinlashtir va uni Aharon kohin oldida tur绝化 turgʻiz, va ular unga xizmat qilsinlar.",
+  "translation": "Yaqinlantir ⟨את⟩ Levi qabilasini va uni Aharon kohin oldida turʻuzginki, ular unga xizmat qilsinlar.",
   "tokens": [
     {
       "surface": "הקרב",
-      "gloss": "yaqinlashtir"
+      "gloss": "Yaqinlantir"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Levi qabilasini"
+      "marks": "Levi qabilasi"
     },
     {
       "surface": "מטה",
-      "gloss": "qabilasini"
+      "gloss": "qabilasi"
     },
     {
       "surface": "לוי",
@@ -26,12 +26,12 @@
     },
     {
       "surface": "והעמדת",
-      "gloss": "va turgʻiz"
+      "gloss": "va uni turʻuzginki"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩uni",
-      "marks": "oldida"
+      "gloss": "⟨את⟩",
+      "marks": "uni (Levi qabilasini)"
     },
     {
       "surface": "לפני",
@@ -47,14 +47,14 @@
     },
     {
       "surface": "ושרתו",
-      "gloss": "va xizmat qilsinlar"
+      "gloss": "va ular xizmat qilsinlar"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩unga",
-      "marks": "Aharon"
+      "gloss": "⟨את⟩",
+      "marks": "unga (Aharon)"
     }
   ],
-  "timestamp": "2026-08-26T08:22:52.096321697Z",
+  "timestamp": "2026-08-26T09:47:39.217294629Z",
   "model": "glm-5.3"
 }

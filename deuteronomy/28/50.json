@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Xalq — qattiq yuzli, qariga yuz koʻtarmaydi va yoshga rahm qilmaydi.",
+  "translation": "qattiq yuzli bir xalq, ⟨u⟩ qari yuziga qaramaydi va yoshga rahm qilmaydi.",
   "tokens": [
     {
       "surface": "גוי",
@@ -29,23 +29,19 @@
     },
     {
       "surface": "ישא",
-      "gloss": "yuz koʻtarmaydi"
+      "gloss": "koʻtarmaydi"
     },
     {
       "surface": "פנים",
-      "gloss": "yuz"
+      "gloss": "yuziga"
     },
     {
       "surface": "לזקן",
       "gloss": "qariga"
     },
     {
-      "surface": "ו",
-      "gloss": "va"
-    },
-    {
-      "surface": "נער",
-      "gloss": "yoshga"
+      "surface": "ונער",
+      "gloss": "va yoshga"
     },
     {
       "surface": "לא",
@@ -56,6 +52,6 @@
       "gloss": "rahm qilmaydi"
     }
   ],
-  "timestamp": "2026-08-26T02:03:53.524993480Z",
+  "timestamp": "2026-08-26T09:50:49.993250134Z",
   "model": "glm-5.3"
 }

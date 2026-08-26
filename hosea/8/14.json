@@ -5,7 +5,7 @@
   "book": "hosea",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Isroil ⟨את⟩ oʻz Yaratuvchisini unutdi va saroylar qurdi, va Yahudo mustahkam shaharlarni koʻpaytirdi; Men uning shaharlariga oʻt yuboraman va u uning qalʼalarini yeydi.",
+  "translation": "Va Isroel oʻz Qiluvchisini ⟨את⟩ unutdi va ibodatxonalar qurdi, va Yehuda mustahkam shaharlarni koʻpaytirdi; Men uning shaharlariga oʻt yuboraman va u uning qasrlarini yeyib tugatadi.",
   "tokens": [
     {
       "surface": "וישכח",
@@ -13,16 +13,16 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil"
+      "gloss": "Isroel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oʻz Yaratuvchisini"
+      "marks": "oʻz Qiluvchisini"
     },
     {
       "surface": "עשהו",
-      "gloss": "oʻz Yaratuvchisini"
+      "gloss": "oʻz Qiluvchisini"
     },
     {
       "surface": "ויבן",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "היכלות",
-      "gloss": "saroylar"
+      "gloss": "ibodatxonalar"
     },
     {
       "surface": "ויהודה",
-      "gloss": "va Yahudo"
+      "gloss": "va Yehuda"
     },
     {
       "surface": "הרבה",
@@ -49,13 +49,8 @@
       "gloss": "mustahkam"
     },
     {
-      "surface": "ויפקד",
-      "gloss": "",
-      "skip": true
-    },
-    {
       "surface": "ושלחתי",
-      "gloss": "va Men yuboraman"
+      "gloss": "va yuboraman"
     },
     {
       "surface": "אש",
@@ -67,13 +62,13 @@
     },
     {
       "surface": "ואכלה",
-      "gloss": "va u yeydi"
+      "gloss": "va yeyib tugatadi"
     },
     {
       "surface": "ארמנתיה",
-      "gloss": "uning qalʼalarini"
+      "gloss": "uning qasrlarini"
     }
   ],
-  "timestamp": "2026-08-26T05:35:53.407886270Z",
+  "timestamp": "2026-08-26T09:58:16.133420065Z",
   "model": "glm-5.3"
 }

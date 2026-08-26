@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 42,
-  "translation": "Va bizga dedi otda odam — hukmdori ⟨the⟩ yerning: „Bunda bilurman ki rost odamlar sizlarsizlar; ukalaringizning birini ⟨את⟩ oldimda qoldiringlar, uy-joylaringizning ochligi uchun ⟨va⟩ ⟨את⟩ taomini olib, boringlar.“",
+  "translation": "Va ⟨the⟩ odam — ⟨the⟩ yer hukmdori bizga aytdi: Mana shunda bilamanki, sizlar rostgoʻysizlar; ukolaringizdan birini men bilan qoldiringlar, va ⟨את⟩ ocharchilik uchun don — uylaringizga olib ketishinglar va boringlar.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Va dedi"
+      "gloss": "va aytdi"
     },
     {
       "surface": "אלינו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "odam"
+      "gloss": "⟨the⟩ odam"
     },
     {
       "surface": "אדני",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "yerning"
+      "gloss": "⟨the⟩ yerning"
     },
     {
       "surface": "בזאת",
-      "gloss": "bunda"
+      "gloss": "mana shunda"
     },
     {
       "surface": "אדע",
-      "gloss": "bilurman"
+      "gloss": "bilaman"
     },
     {
       "surface": "כי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "כנים",
-      "gloss": "rost"
+      "gloss": "rostgoʻysizlar"
     },
     {
       "surface": "אתם",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אחיכם",
-      "gloss": "ukalaringizning"
+      "gloss": "ukolaringizdan"
     },
     {
       "surface": "האחד",
-      "gloss": "birini"
+      "gloss": "biri"
     },
     {
       "surface": "הניחו",
@@ -61,30 +61,31 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ oldimda"
+      "gloss": "⟨את⟩ bilan",
+      "marks": "men"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "taomini"
+      "marks": "ocharchilik uchun don"
     },
     {
       "surface": "רעבון",
-      "gloss": "ochligi"
+      "gloss": "ocharchilik"
     },
     {
       "surface": "בתיכם",
-      "gloss": "uy-joylaringizning"
+      "gloss": "uylaringiz"
     },
     {
       "surface": "קחו",
-      "gloss": "olinglar"
+      "gloss": "olib"
     },
     {
       "surface": "ולכו",
       "gloss": "va boringlar"
     }
   ],
-  "timestamp": "2026-08-26T00:46:41.047720337Z",
+  "timestamp": "2026-08-26T10:21:11.391367705Z",
   "model": "glm-5.3"
 }

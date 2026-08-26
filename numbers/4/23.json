@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Oʻttiz yoshdan yuqori, ellik yoshgacha boʻlganlarni sen sanaysiz — ⟨את⟩ ularning ⟨the⟩ barchasini: uchrashuv chodirida xizmat qilish uchun, harbiyga kirib ish bajarmoqchi boʻlgan ⟨the⟩ har bir kishi.",
+  "translation": "Oʻttiz yoshdan va yuqorisidan ellik yoshgacha boʻlganlarni sanab chiqasiz — ⟨את⟩ roʻyxatga olish uchun harbiy xizmatga kiradigan, toʻplanish chodirida xizmatni bajiradigan barchani.",
   "tokens": [
     {
       "surface": "מבן",
-      "gloss": "oʻgʻlidan"
+      "gloss": "oʻttiz yoshdan"
     },
     {
       "surface": "שלשים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ומעלה",
-      "gloss": "va yuqori"
+      "gloss": "va yuqorisidan"
     },
     {
       "surface": "עד",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "oʻgʻli"
+      "gloss": "yosh"
     },
     {
       "surface": "חמשים",
@@ -41,46 +41,46 @@
     },
     {
       "surface": "תפקד",
-      "gloss": "sen sanaysiz"
+      "gloss": "sanab chiqasiz"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ularning",
-      "marks": "barchasini"
+      "gloss": "⟨את⟩",
+      "marks": "barchani (ulami)"
     },
     {
       "surface": "כל",
-      "gloss": "⟨the⟩ barchasi"
+      "gloss": "barchani"
     },
     {
       "surface": "הבא",
-      "gloss": "⟨the⟩ har bir kishi"
+      "gloss": "kiradigan"
     },
     {
       "surface": "לצבא",
-      "gloss": "harbiyga"
+      "gloss": "xizmatga"
     },
     {
       "surface": "צבא",
-      "gloss": "kirib"
+      "gloss": "harbiy xizmat"
     },
     {
       "surface": "לעבד",
-      "gloss": "uchun ish bajarmoq"
+      "gloss": "bajirash uchun"
     },
     {
       "surface": "עבדה",
-      "gloss": "xizmat"
+      "gloss": "xizmatni"
     },
     {
       "surface": "באהל",
-      "gloss": "uchrashuv chodirida"
+      "gloss": "chodirda"
     },
     {
       "surface": "מועד",
-      "gloss": "uchrashuv"
+      "gloss": "toʻplanish"
     }
   ],
-  "timestamp": "2026-08-26T01:26:50.217582048Z",
+  "timestamp": "2026-08-26T10:21:26.788949848Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va Yehoash, Isroil qiroli, Amatsyahu, Yahudo qiroligа yubordi, deyib: Livanondagi tikan Livanondagi sadrga yubordi, deyib: Ber ⟨את⟩ qizingni oʻgʻlimga xotinlikka; va oʻtib ketdi Livanondagi dalaning hayvoni va choyib tashladi ⟨את⟩ tikanni.",
+  "translation": "Va Yehoash, Isroil podshohi, Amatsiya, Yehuda podshohiga xabar yuborib dedi: Livondagi choʻkalak Livondagi sadrga murojaat qilib dedi: Qizingni oʻgʻlimga xotinlikka ber; va Livondagi dala hayvoni oʻtib, ⟨את⟩ choʻkalakni bosib tashladi.",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "va yubordi"
+      "gloss": "va yuborib"
     },
     {
       "surface": "יהואש",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מלך",
-      "gloss": "qiroli"
+      "gloss": "podshohi"
     },
     {
       "surface": "ישראל",
@@ -25,63 +25,63 @@
     },
     {
       "surface": "אל",
-      "gloss": "oldiga"
+      "gloss": "ga"
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amatsyahu"
+      "gloss": "Amatsiya"
     },
     {
       "surface": "מלך",
-      "gloss": "qiroli"
+      "gloss": "podshohi"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yahudo"
+      "gloss": "Yehuda"
     },
     {
       "surface": "לאמר",
-      "gloss": "deyib"
+      "gloss": "deb"
     },
     {
       "surface": "החוח",
-      "gloss": "tikan"
+      "gloss": "choʻkalak"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "ki u"
     },
     {
       "surface": "בלבנון",
-      "gloss": "Livanondagi"
+      "gloss": "Livonda"
     },
     {
       "surface": "שלח",
-      "gloss": "yubordi"
+      "gloss": "murojaat qildi"
     },
     {
       "surface": "אל",
-      "gloss": "oldiga"
+      "gloss": "ga"
     },
     {
       "surface": "הארז",
-      "gloss": "sadrga"
+      "gloss": "sadr"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "ki u"
     },
     {
       "surface": "בלבנון",
-      "gloss": "Livanondagi"
+      "gloss": "Livonda"
     },
     {
       "surface": "לאמר",
-      "gloss": "deyib"
+      "gloss": "deb"
     },
     {
       "surface": "תנה",
-      "gloss": "Ber"
+      "gloss": "ber"
     },
     {
       "surface": "את",
@@ -101,8 +101,8 @@
       "gloss": "xotinlikka"
     },
     {
-      "surface": "ויתעבר",
-      "gloss": "va oʻtib ketdi"
+      "surface": "ותעבר",
+      "gloss": "va oʻtdi"
     },
     {
       "surface": "חית",
@@ -110,30 +110,30 @@
     },
     {
       "surface": "השדה",
-      "gloss": "dalaning"
+      "gloss": "dala"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "ki u"
     },
     {
       "surface": "בלבנון",
-      "gloss": "Livanondagi"
+      "gloss": "Livonda"
     },
     {
       "surface": "ויתרמס",
-      "gloss": "va choyib tashladi"
+      "gloss": "va bosib tashladi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tikanni"
+      "marks": "choʻkalakni"
     },
     {
       "surface": "החוח",
-      "gloss": "tikanni"
+      "gloss": "choʻkalakni"
     }
   ],
-  "timestamp": "2026-08-26T03:55:14.099401663Z",
+  "timestamp": "2026-08-26T09:54:23.319730751Z",
   "model": "glm-5.3"
 }

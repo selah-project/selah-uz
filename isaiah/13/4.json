@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Togʻlarda olomon ovozi — koʻp xalqqa oʻxshash; yigʻilgan millatlar podshohliklarining gʻalayon ovozi; Sebaoth Yahve ⟨את⟩ urush qoʻshinini safarbar qilmoqda.",
+  "translation": "Tovush shovqinining togʻlarda, buyuk xalqga oʻxshash ⟨sifatida⟩; gʻalayon tovushi millatlar shohliklaridan yigʻilganlar ⟨sifatida⟩; Yahve Tsevaot urush qoʻshinini safarbar qilmoqda.",
   "tokens": [
     {
       "surface": "קול",
-      "gloss": "ovozi"
+      "gloss": "tovush"
     },
     {
       "surface": "המון",
-      "gloss": "olomon"
+      "gloss": "shovqinining"
     },
     {
       "surface": "בהרים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "רב",
-      "gloss": "koʻp"
+      "gloss": "buyuk"
     },
     {
       "surface": "קול",
-      "gloss": "ovozi"
+      "gloss": "tovush"
     },
     {
       "surface": "שאון",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ממלכות",
-      "gloss": "podshohliklarining"
+      "gloss": "shohliklar"
     },
     {
       "surface": "גוים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "נאספים",
-      "gloss": "yigʻilgan"
+      "gloss": "yigʻilganlar"
     },
     {
       "surface": "יהוה",
@@ -57,22 +57,21 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Sebaoth"
+      "gloss": "Tsevaot"
     },
     {
       "surface": "מפקד",
       "gloss": "safarbar qilmoqda"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "urush qoʻshinini"
+      "surface": "צבא",
+      "gloss": "qoʻshin"
     },
     {
       "surface": "מלחמה",
       "gloss": "urush"
     }
   ],
-  "timestamp": "2026-08-26T04:12:43.377234455Z",
+  "timestamp": "2026-08-26T09:54:58.671817158Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Yahve ga aytdim: Sen mening Adonay imsан, mening yaxshiligim Senga tegishli emas ⟨bal⟩ — Sendan boshqa yaxshiligim yoʻq.",
+  "translation": "Yahveʼga aytdim: „Adonay Sen ⟨san⟩; yaxshiligim Senga ⟨tegishli⟩ emas — ⟨u Sendandir⟩.",
   "tokens": [
     {
       "surface": "אמרת",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahve ga"
+      "gloss": "Yahveʼga"
     },
     {
       "surface": "אדני",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "בל",
-      "gloss": "emas"
+      "gloss": "yoʻq"
     },
     {
       "surface": "עליך",
       "gloss": "Sendan boshqa"
     }
   ],
-  "timestamp": "2026-08-26T06:00:40.820184468Z",
+  "timestamp": "2026-08-26T09:59:59.308215701Z",
   "model": "glm-5.3"
 }

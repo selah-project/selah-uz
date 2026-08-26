@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va Shlomoga xabar berilib deyildi: Mana, Adoniyaxu Shlomo ⟨the⟩ qiroldan qoʻrqadi, va mana, u mizbax shohlarini mahkam ushlagan, deb: Shlomo ⟨the⟩ qirol menga bu kun ichida qasam ichsin — bandasini qilich bilan oʻldirmasligiga.",
+  "translation": "Shlomoga xabar qilindi, deb: Mana, Adoniyahu Shlomo shohni ⟨את⟩dan qoʻrqadi, va mana, qurbongoh shoxlarini ushlab oldi, deb: Shlomo shoh mengu bugun qasam ichsinki, oʻz bandisini qilich bilan oʻldirmasin.",
   "tokens": [
     {
       "surface": "ויגד",
-      "gloss": "Va xabar berildi"
+      "gloss": "xabar qilindi"
     },
     {
       "surface": "לשלמה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אדניהו",
-      "gloss": "Adoniyaxu"
+      "gloss": "Adoniyahu"
     },
     {
       "surface": "ירא",
@@ -34,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shlomo ⟨the⟩ qirolni"
+      "marks": "Shlomo shoh"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ qirol"
+      "gloss": "shoh"
     },
     {
       "surface": "שלמה",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "אחז",
-      "gloss": "mahkam ushlagan"
+      "gloss": "ushlab oldi"
     },
     {
       "surface": "בקרנות",
-      "gloss": "shohlaridan"
+      "gloss": "shoxlarini"
     },
     {
       "surface": "המזבח",
-      "gloss": "mizbaxning"
+      "gloss": "qurbongoh"
     },
     {
       "surface": "לאמר",
@@ -66,19 +66,19 @@
     },
     {
       "surface": "ישבע",
-      "gloss": "qasam ichsin"
+      "gloss": "qasam ichsinki"
     },
     {
       "surface": "לי",
-      "gloss": "menga"
+      "gloss": "mengu"
     },
     {
       "surface": "כיום",
-      "gloss": "bu kun ichida"
+      "gloss": "bugun"
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ qirol"
+      "gloss": "shoh"
     },
     {
       "surface": "שלמה",
@@ -86,26 +86,26 @@
     },
     {
       "surface": "אם",
-      "gloss": "—"
+      "gloss": "…masin"
     },
     {
       "surface": "ימית",
-      "gloss": "oʻldirmasligiga"
+      "gloss": "oʻldirmas"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bandasini"
+      "marks": "oʻz bandisini"
     },
     {
       "surface": "עבדו",
-      "gloss": "bandasini"
+      "gloss": "oʻz bandisini"
     },
     {
       "surface": "בחרב",
       "gloss": "qilich bilan"
     }
   ],
-  "timestamp": "2026-08-26T03:24:09.725784079Z",
+  "timestamp": "2026-08-26T09:53:16.161288901Z",
   "model": "glm-5.3"
 }

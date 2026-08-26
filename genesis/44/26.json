@@ -5,17 +5,91 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 44,
-  "translation": "Va biz dedik: tusha olmaymiz; agar ukamiz biz ⟨את⟩ bilan bo'lsa, tushamiz, chunki ⟨את⟩ odamning yuzini ko'ra olmaymiz, agar ukamiz biz bilan bo'lmasa.",
+  "translation": "Va biz dedik: tushishga yoʻq ⟨qodir⟩miz; agar ukamizning kichigi ⟨את⟩ biz bilan boʻlsa, tushamiz; chunki ⟨את⟩ odamning yuzini koʻrishga yoʻq ⟨qodir⟩miz, agar ukamizning kichigi biz bilan boʻlmasa.",
   "tokens": [
     {
-      "surface": "ויאמר",
-      "gloss": ""
+      "surface": "ונאמר",
+      "gloss": "va biz dedik"
     },
     {
       "surface": "לא",
-      "gloss": ""
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "qodir emasmiz"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "tushishga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "agar"
+    },
+    {
+      "surface": "יש",
+      "gloss": "bor"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ukamiz"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kichigimiz"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "biz bilan"
+    },
+    {
+      "surface": "וירדנו",
+      "gloss": "va tushamiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "chunki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "qodir emasmiz"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "koʻrishga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuzini"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "odamning"
+    },
+    {
+      "surface": "ואחינו",
+      "gloss": "va ukamiz"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "kichigimiz"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "biz bilan"
     }
   ],
-  "timestamp": "2026-08-26T00:47:22.116648605Z",
+  "timestamp": "2026-08-26T09:45:20.520728742Z",
   "model": "glm-5.3"
 }

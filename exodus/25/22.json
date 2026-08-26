@@ -5,27 +5,28 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va u yerdа sen bilan uchrashaman va ⟨את⟩ sen bilan gapiraman kapporet ustidan, ikki keruv orasidan — guvohlik aroni ustida — ⟨את⟩ hammasini, ki senga buyuraman Yisroel farzandlariga tomon.",
+  "translation": "Va Men u yerga Sen bilan uchrashaman va Sen bilan gaplashaman — kapporet ustidan, guvohlik sandigʻi ustidagi ikki keruv orasidan — Bani-Isroilga buyuradigan hamma narsani ⟨את⟩ Senga ⟨את⟩ aytaman.",
   "tokens": [
     {
       "surface": "ונועדתי",
-      "gloss": "Va uchrashaman"
+      "gloss": "va Men uchrashaman"
     },
     {
       "surface": "לך",
-      "gloss": "sen bilan"
+      "gloss": "Sen bilan"
     },
     {
       "surface": "שם",
-      "gloss": "u yerda"
+      "gloss": "u yerga"
     },
     {
       "surface": "ודברתי",
-      "gloss": "va gapiraman"
+      "gloss": "va gaplashaman"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ sen bilan"
+      "gloss": "⟨את⟩ Sen bilan",
+      "marks": "Sen bilan (gaplashish obyekti)"
     },
     {
       "surface": "מעל",
@@ -49,7 +50,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "על",
@@ -57,7 +58,7 @@
     },
     {
       "surface": "ארן",
-      "gloss": "aron"
+      "gloss": "sandigʻi"
     },
     {
       "surface": "העדת",
@@ -66,11 +67,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hammasini"
+      "marks": "hamma narsani (ol)"
     },
     {
       "surface": "כל",
-      "gloss": "hammasini"
+      "gloss": "hamma"
     },
     {
       "surface": "אשר",
@@ -82,22 +83,22 @@
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ senga",
-      "marks": "senga"
+      "gloss": "⟨את⟩ Senga",
+      "marks": "Senga (aytaman)"
     },
     {
       "surface": "אל",
-      "gloss": "tomon"
+      "gloss": "…ga"
     },
     {
       "surface": "בני",
-      "gloss": "farzandlari"
+      "gloss": "oʻgʻillari"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisroel"
+      "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T08:20:53.247782443Z",
+  "timestamp": "2026-08-26T09:45:53.581248302Z",
   "model": "glm-5.3"
 }

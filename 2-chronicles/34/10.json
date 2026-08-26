@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 34,
-  "translation": "Va ular uni Yahve baytida ⟨the⟩ ishga tayinlangan amal qiluvchilar qoʻliga berdilar; va ish qiluvchilar — Yahve baytida ishlayotganlar — uni baytni tekshirish va mustahkamlash uchun berdilar.",
+  "translation": "Va Yahve baytida ish qiluvchilarga — tayinlangan nazoratchilarga qoʻlga berdilar va Yahve baytida ishlayotgan ishchilar uni baytni tekshirish va mustahkamlash uchun berdilar.",
   "tokens": [
     {
       "surface": "ויתנו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "המלאכה",
-      "gloss": "⟨the⟩ ish"
+      "gloss": "ish"
     },
     {
       "surface": "המפקדים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "בבית",
-      "gloss": "baytida"
+      "gloss": "baytda"
     },
     {
       "surface": "יהוה",
@@ -46,15 +46,15 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ uni",
-      "marks": "ish qiluvchilar"
+      "marks": "ishchilar uni berdilar — belgilangan obyekt: pul"
     },
     {
       "surface": "עושי",
-      "gloss": "qiluvchilar"
+      "gloss": "qiluvchilari"
     },
     {
       "surface": "המלאכה",
-      "gloss": "⟨the⟩ ishni"
+      "gloss": "ish"
     },
     {
       "surface": "אשר",
@@ -62,11 +62,11 @@
     },
     {
       "surface": "עשים",
-      "gloss": "qilmoqda"
+      "gloss": "ishlayotgan"
     },
     {
       "surface": "בבית",
-      "gloss": "baytida"
+      "gloss": "baytda"
     },
     {
       "surface": "יהוה",
@@ -74,17 +74,17 @@
     },
     {
       "surface": "לבדוק",
-      "gloss": "tekshirish uchun"
+      "gloss": "tekshirish"
     },
     {
       "surface": "ולחזק",
-      "gloss": "va mustahkamlash uchun"
+      "gloss": "mustahkamlash"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ baytni"
+      "gloss": "bayt"
     }
   ],
-  "timestamp": "2026-08-26T08:16:48.797279384Z",
+  "timestamp": "2026-08-26T10:06:11.256031854Z",
   "model": "glm-5.3"
 }

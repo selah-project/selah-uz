@@ -5,31 +5,31 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Va eshitmanglar ⟨the⟩ paygʻambarlar soʻzlariga — sizlarga aytib turganlarni: «Bobil shohiga xizmat qilmaysizlar», — chunki yolgʻon ⟨are⟩ — ular sizlarga paygʻambarlik qilmoqdalar.",
+  "translation": "Va eshitmangiz soʻzlariga paygʻambarlarning, sizlarga aytib turganlarning: «⟨את⟩ Bobil podshohiga xizmat qilmaysizlar» — chunki yolgʻon bilan ular sizlarga paygʻambarlik qilmoqdalar.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "va eshitmanglar"
+      "gloss": "va eshitmangiz"
     },
     {
       "surface": "תשמעו",
-      "gloss": "eshityapmiz — (eshit-) "
+      "gloss": "eshitmangiz"
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "…ga"
     },
     {
       "surface": "דברי",
-      "gloss": "soʻzlari"
+      "gloss": "soʻzlari(ga)"
     },
     {
       "surface": "הנבאים",
-      "gloss": "⟨the⟩ paygʻambarlar"
+      "gloss": "paygʻambarlar"
     },
     {
       "surface": "האמרים",
-      "gloss": "aytib turgan"
+      "gloss": "aytib turganlar"
     },
     {
       "surface": "אליכם",
@@ -37,24 +37,24 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "deb"
+      "gloss": "…deb"
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "-ma"
     },
     {
       "surface": "תעבדו",
-      "gloss": "xizmat qilmaysizlar"
+      "gloss": "xizmat qilasizlar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Bobil shohi"
+      "marks": "Bobil podshohi"
     },
     {
       "surface": "מלך",
-      "gloss": "shohi"
+      "gloss": "podshohi"
     },
     {
       "surface": "בבל",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "שקר",
-      "gloss": "yolgʻon"
+      "gloss": "yolgʻon bilan"
     },
     {
       "surface": "הם",
@@ -81,6 +81,6 @@
       "gloss": "sizlarga"
     }
   ],
-  "timestamp": "2026-08-26T04:52:20.632388975Z",
+  "timestamp": "2026-08-26T09:56:36.984887377Z",
   "model": "glm-5.3"
 }

@@ -5,24 +5,24 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Va Shelomo Yahve uchun tinchlik qurbonligini soʻydi — ⟨את⟩ ⟨the⟩ qurbonlikni, ⟨which⟩ u Yahvega soʻydi: mol — yigirma ikki ming, va qoʻy — yuz yigirma ming; va podshoh va Isroil oʻgʻillari Yahve uyini fath qildilar.",
+  "translation": "Shelomoh ⟨את⟩ tinchlik qurbonlarini Yahve uchun soʻydi: yigirmata ikki ming bosh qoramol va yigirma ming bir yuz bosh qoʻy — shunda shoh va barcha Isroil oʻgʻillari Yahvening uyini muqaddas qilib bagʻishladilar.",
   "tokens": [
     {
       "surface": "ויזבח",
-      "gloss": "va u soʻydi"
+      "gloss": "soʻydi"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qurbonlikni"
+      "marks": "tinchlik qurbonlarini"
     },
     {
       "surface": "זבח",
-      "gloss": "qurbonlik"
+      "gloss": "qurbon"
     },
     {
       "surface": "השלמים",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨which⟩"
+      "gloss": "ki"
     },
     {
       "surface": "זבח",
-      "gloss": "u soʻydi"
+      "gloss": "soʻydi"
     },
     {
       "surface": "ליהוה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "בקר",
-      "gloss": "mol"
+      "gloss": "qoramol"
     },
     {
       "surface": "עשרים",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "וצאן",
-      "gloss": "va qoʻy"
+      "gloss": "va qoʻylar"
     },
     {
       "surface": "מאה",
@@ -74,12 +74,12 @@
     },
     {
       "surface": "ויחנכו",
-      "gloss": "va ular fath qildilar"
+      "gloss": "va bagʻishladilar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uy"
+      "marks": "Yahvening uyini"
     },
     {
       "surface": "בית",
@@ -87,15 +87,15 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahvening"
+      "gloss": "Yahve"
     },
     {
       "surface": "המלך",
-      "gloss": "podshoh"
+      "gloss": "shoh"
     },
     {
       "surface": "וכל",
-      "gloss": "va butun"
+      "gloss": "va barcha"
     },
     {
       "surface": "בני",
@@ -106,6 +106,6 @@
       "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T03:33:46.583491897Z",
+  "timestamp": "2026-08-26T09:53:34.181896373Z",
   "model": "glm-5.3"
 }

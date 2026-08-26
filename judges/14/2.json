@@ -5,31 +5,27 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va yuqoriga chiqdi va otasiga va onasiga aytdi: «Timnatada Filishtimlar qizlaridan bir ayol koʻrdim; va endi ⟨את⟩ uni menga xotinlikka ⟨את⟩ olinglar.»",
+  "translation": "U qaytib chiqdi va otasiga hamda onasiga aytdi: „Timnatada filishtiylik qizlardan bir ayol koʻrdim; va endi uni menga xotin qilib oling.“",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "yuqoriga chiqdi"
+      "gloss": "qaytib chiqdi"
     },
     {
       "surface": "ויגד",
-      "gloss": "va aytdi (xabar berdi)"
+      "gloss": "aytdi"
     },
     {
       "surface": "לאביו",
       "gloss": "otasiga"
     },
     {
-      "surface": "וירא",
-      "gloss": ""
-    },
-    {
       "surface": "ולאמו",
-      "gloss": "va onasiga"
+      "gloss": "hamda onasiga"
     },
     {
       "surface": "ויאמר",
-      "gloss": "va dedi"
+      "gloss": "dedi"
     },
     {
       "surface": "אשה",
@@ -45,11 +41,11 @@
     },
     {
       "surface": "מבנות",
-      "gloss": "qizlaridan"
+      "gloss": "qizlardan"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Filishtimlar"
+      "gloss": "filishtiylik"
     },
     {
       "surface": "ועתה",
@@ -57,7 +53,7 @@
     },
     {
       "surface": "קחו",
-      "gloss": "⟨את⟩ olinglar"
+      "gloss": "oling"
     },
     {
       "surface": "אותה",
@@ -70,9 +66,9 @@
     },
     {
       "surface": "לאשה",
-      "gloss": "xotinlikka"
+      "gloss": "xotin qilib"
     }
   ],
-  "timestamp": "2026-08-26T02:32:47.571159426Z",
+  "timestamp": "2026-08-26T09:52:04.524493603Z",
   "model": "glm-5.3"
 }

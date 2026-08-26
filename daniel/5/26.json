@@ -5,15 +5,15 @@
   "book": "daniel",
   "lang": "uz",
   "chapter": 5,
-  "translation": "Bu ⟨is⟩ soʻzning talqini: MENE — Eloah sening podshohligingni sanadi va uni tugatdi.",
+  "translation": "Bu ⟨⟩ soʻzning mohiyati: MENE — Eloah sening podshohligingni sanadi ⟨va⟩ uni tugalladi.",
   "tokens": [
     {
       "surface": "דנה",
-      "gloss": "Bu"
+      "gloss": "bu"
     },
     {
       "surface": "פשר",
-      "gloss": "talqini"
+      "gloss": "mohiyati"
     },
     {
       "surface": "מלתא",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "והשלמה",
-      "gloss": "va uni tugatdi"
+      "gloss": "⟨va⟩ uni tugalladi"
     }
   ],
-  "timestamp": "2026-08-26T08:49:46.210972254Z",
+  "timestamp": "2026-08-26T10:24:42.386846572Z",
   "model": "glm-5.3"
 }

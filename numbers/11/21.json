@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va Moshe dedi: olti yuz ming piyoda ⟨the⟩ xalq, ki men uning ichidaman, va Sen aytding: goʻsht beraman ularga va ular yeydilar oy kunlar davomida.",
+  "translation": "Va Moshe dedi: olti yuz ming piyoda ⟨⟩ xalq, kimning ichida men boraman; va Sen aytding: ularga goʻsht beraman va ular bir oy kunlar yeyishadi.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Va dedi"
+      "gloss": "va dedi"
     },
     {
       "surface": "משה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "kimning"
     },
     {
       "surface": "אנכי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בקרבו",
-      "gloss": "uning ichidaman"
+      "gloss": "ichida boraman"
     },
     {
       "surface": "ואתה",
@@ -68,18 +68,18 @@
       "gloss": "ularga"
     },
     {
-      "surface": "ואכלו",
-      "gloss": "va yeydilar"
+      "surface": "ויאכלו",
+      "gloss": "va yeyishadi"
     },
     {
       "surface": "חדש",
-      "gloss": "oy"
+      "gloss": "bir oy"
     },
     {
       "surface": "ימים",
       "gloss": "kunlar"
     }
   ],
-  "timestamp": "2026-08-26T01:32:05.748544354Z",
+  "timestamp": "2026-08-26T09:48:10.257508559Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Qoʻtеgа yoʻq — uni qoʻl bosmasin, chunki albatta toshlanadi yoki albatta oʻq otiladi; hayvonmi, odammi — yashamaydi; shofar choʻzilganida ular togʻga koʻtariladilar.",
+  "translation": "Qoʻl unga tegmasin, chunki u albatta toshboʻron qilinadi yoki oʻq otib oʻldiriladi — hayvonmi, odammi — yashamaydi; shofar choʻzib chalinayotganda ular togʻga koʻtariladilar.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "yōq"
     },
     {
       "surface": "תגע",
-      "gloss": "bosmasin"
+      "gloss": "tegsin"
     },
     {
       "surface": "בו",
-      "gloss": "uni"
+      "gloss": "unga"
     },
     {
       "surface": "יד",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "סקול",
-      "gloss": "toshlanadi"
+      "gloss": "toshboʻron"
     },
     {
       "surface": "יסקל",
-      "gloss": "albatta"
+      "gloss": "toshboʻron qilinadi"
     },
     {
       "surface": "או",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ירה",
-      "gloss": "otiladi"
+      "gloss": "oʻq otib"
     },
     {
       "surface": "יירה",
-      "gloss": "albatta"
+      "gloss": "oʻldiriladi"
     },
     {
       "surface": "אם",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "yashamaydi"
+      "gloss": "yōq"
     },
     {
       "surface": "יחיה",
-      "gloss": "—"
+      "gloss": "yashamaydi"
     },
     {
       "surface": "במשך",
-      "gloss": "choʻzilganida"
+      "gloss": "choʻzilganda"
     },
     {
       "surface": "היבל",
@@ -92,6 +92,6 @@
       "gloss": "togʻga"
     }
   ],
-  "timestamp": "2026-08-26T00:56:33.330102959Z",
+  "timestamp": "2026-08-26T09:45:04.160389661Z",
   "model": "glm-5.3"
 }

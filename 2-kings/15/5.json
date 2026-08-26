@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Va Yahve ⟨את⟩ shohni urdi, va u moʻjaz boʻlib qoldi — oʻlgan kuniga qadar, va ozod uyda yashadi; shohning oʻgʻli Yotam esa uy ustidan ⟨the⟩ xalq — erning xalqiga hukm chiqarardi.",
+  "translation": "Va Yahve ⟨את⟩ shohni urdi, va u moʻrzalarga aylandi — oʻlgan kunigacha; va u ozodlik uyida yashadi; Xudoning oʻgʻli Yotam esa uy ustida edi, mamlakat xalqini sulh qilib.",
   "tokens": [
     {
       "surface": "וינגע",
@@ -22,27 +22,27 @@
     },
     {
       "surface": "המלך",
-      "gloss": "shoh"
+      "gloss": "shohni"
     },
     {
       "surface": "ויהי",
-      "gloss": "va boʻldi"
+      "gloss": "va u boʻldi"
     },
     {
       "surface": "מצרע",
-      "gloss": "moʻjaz"
+      "gloss": "moʻrzalarga aylandi"
     },
     {
       "surface": "עד",
-      "gloss": "—igacha"
+      "gloss": "—gacha"
     },
     {
       "surface": "יום",
-      "gloss": "kun"
+      "gloss": "kunigacha"
     },
     {
       "surface": "מתו",
-      "gloss": "oʻlimi"
+      "gloss": "oʻlgan"
     },
     {
       "surface": "וישב",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "בבית",
-      "gloss": "uyda"
+      "gloss": "uyida"
     },
     {
       "surface": "החפשית",
-      "gloss": "ozod"
+      "gloss": "ozodlik"
     },
     {
       "surface": "ויותם",
-      "gloss": "Yotam"
+      "gloss": "va Yotam"
     },
     {
       "surface": "בן",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "shoh"
+      "gloss": "shohning"
     },
     {
       "surface": "על",
-      "gloss": "ustidan"
+      "gloss": "ustida"
     },
     {
       "surface": "הבית",
@@ -78,22 +78,22 @@
     },
     {
       "surface": "שפט",
-      "gloss": "hukm chiqarardi"
+      "gloss": "sulh qilib"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "xalq"
+      "marks": "mamlakat xalqini"
     },
     {
       "surface": "עם",
-      "gloss": "xalq"
+      "gloss": "xalqini"
     },
     {
       "surface": "הארץ",
-      "gloss": "erning"
+      "gloss": "mamlakat"
     }
   ],
-  "timestamp": "2026-08-26T03:56:46.110202823Z",
+  "timestamp": "2026-08-26T09:54:48.316502225Z",
   "model": "glm-5.3"
 }

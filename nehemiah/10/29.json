@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va qolgan xalq — kohinlar, leviylar, darvoza qorovullari, xonandalar, netinlar va barcha xalqlardan, ⟨the⟩ yerlarning xalqlaridan Elohim Tavrotiga ajralib chiqqan kishilar — oʻz xotinlari, oʻgʻillari va qizlari — ⟨the⟩ hamma bilguvchi, tushunuvchi ⟨kim⟩.",
+  "translation": "Va qolgan xalq — kohanimlar, leviylar, darvoza qorovullari, ashulachilar, netinlar va xalqlardan, ⟨oʻlkalar⟩ xalqlaridan Elohim Tavotiga ajratilgan barcha, ularning xotinlari, oʻgʻillari va qizlari — barcha biluvchi, farqlab tushunuvchi ⟨kishilar⟩",
   "tokens": [
     {
       "surface": "ושאר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "kohinlar"
+      "gloss": "kohanimlar"
     },
     {
       "surface": "הלוים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "המשררים",
-      "gloss": "xonandalar"
+      "gloss": "ashulachilar"
     },
     {
       "surface": "הנתינים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הנבדל",
-      "gloss": "ajralib chiqqan"
+      "gloss": "ajratilgan"
     },
     {
       "surface": "מעמי",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "הארצות",
-      "gloss": "yerlarning"
+      "gloss": "oʻlkalar"
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "…ga"
     },
     {
       "surface": "תורת",
-      "gloss": "Tavrotiga"
+      "gloss": "Tavotiga"
     },
     {
       "surface": "האלהים",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "נשיהם",
-      "gloss": "oʻz xotinlari"
+      "gloss": "ularning xotinlari"
     },
     {
       "surface": "בניהם",
@@ -77,17 +77,17 @@
     },
     {
       "surface": "כל",
-      "gloss": "hamma"
+      "gloss": "barcha"
     },
     {
       "surface": "יודע",
-      "gloss": "bilguvchi"
+      "gloss": "biluvchi"
     },
     {
       "surface": "מבין",
-      "gloss": "tushunuvchi"
+      "gloss": "farqlab tushunuvchi"
     }
   ],
-  "timestamp": "2026-08-26T07:49:14.522269099Z",
+  "timestamp": "2026-08-26T10:04:20.870378359Z",
   "model": "glm-5.3"
 }

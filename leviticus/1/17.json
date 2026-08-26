@@ -5,32 +5,32 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va uning qanotlaridan ⟨את⟩ yorib tashlaydi, ajratmaydi; va kohun uni ⟨את⟩ qurbongohda, olov ustidagi yogʻochlar ustida tutatqi qilib yoqadi; bu — butparvarlik ⟨⟨ emas, olov qurbonligi, Yahvegʻa mamnun hid — oʻlik ⟨⟨ yoʻq, yonib koʻtariluvchi qurbonlikdir, olov qurbonligi, yoqimlid hido, Yahve uchun.",
+  "translation": "Va uni qanotlaridan yorib ochadi, ajratmaydi; kohin esa uni qurbongohda, olov ustidagi yogʻochlarda tutatqi qiladi — butunlay yoqilgan qurbonsizlikdir u, olov-hadya, Yahve uchun xushboʻ hid.",
   "tokens": [
     {
       "surface": "ושסע",
-      "gloss": "va yorib tashlaydi"
+      "gloss": "yorib ochadi"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "uni (qush)"
+      "marks": "uni (qushni)"
     },
     {
       "surface": "בכנפיו",
-      "gloss": "uning qanotlaridan"
+      "gloss": "qanotlaridan"
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "emas"
     },
     {
       "surface": "יבדיל",
-      "gloss": "ajratmaydi"
+      "gloss": "ajratadi"
     },
     {
       "surface": "והקטיר",
-      "gloss": "va tutatqi qilib yoqadi"
+      "gloss": "tutatqi qiladi"
     },
     {
       "surface": "אתו",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kohun"
+      "gloss": "kohin"
     },
     {
       "surface": "המזבחה",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ustida"
+      "gloss": "ustidagi"
     },
     {
       "surface": "העצים",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "על",
-      "gloss": "ustida"
+      "gloss": "ustidagi"
     },
     {
       "surface": "האש",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "עלה",
-      "gloss": "yonib koʻtariluvchi qurbonlik"
+      "gloss": "butunlay yoqilgan qurbonsizlik"
     },
     {
       "surface": "הוא",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "אשה",
-      "gloss": "olov qurbonligi"
+      "gloss": "olov-hadya"
     },
     {
       "surface": "ריח",
@@ -83,13 +83,13 @@
     },
     {
       "surface": "ניחח",
-      "gloss": "yoqimlid \/ mamnun qiluvchi"
+      "gloss": "xushboʻ"
     },
     {
       "surface": "ליהוה",
       "gloss": "Yahve uchun"
     }
   ],
-  "timestamp": "2026-08-26T01:07:53.580126767Z",
+  "timestamp": "2026-08-26T10:21:22.091053316Z",
   "model": "glm-5.3"
 }

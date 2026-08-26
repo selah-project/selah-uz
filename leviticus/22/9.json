@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 22,
-  "translation": "Va ular mening saqovimni saqlasинлar va uni oʻz ustlariga gunoh koʻtarmaslarlar va unda oʻlmasinlar, chunki uni muqaddasdan chiqaradilar; men Yahve ularni muqaddas qiluvchiman.",
+  "translation": "Va ular saqlasinlar ⟨את⟩ chopiqimga (eʼtiborimga) va koʻtarmasinlar uning ustiga gunoh va oʻlmasinlar unda, chunki uni muqaddaslikdan chiqaradilar — Men Yahve, ularni muqaddaslovchiman.",
   "tokens": [
     {
       "surface": "ושמרו",
@@ -14,23 +14,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "saqovimni"
+      "marks": "chopiqimga (eʼtiborimga)"
     },
     {
       "surface": "משמרתי",
-      "gloss": " mening saqovimni"
+      "gloss": "chopiqimga (eʼtiborimga)"
     },
     {
       "surface": "ולא",
-      "gloss": "va emas"
+      "gloss": "va koʻtarmasinlar... -mas"
     },
     {
       "surface": "ישאו",
-      "gloss": "koʻtarmaslarlar"
+      "gloss": "koʻtarmasinlar"
     },
     {
       "surface": "עליו",
-      "gloss": "uni ustiga"
+      "gloss": "uning ustiga"
     },
     {
       "surface": "חטא",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "יחללהו",
-      "gloss": "uni muqaddasdan chiqaradilar"
+      "gloss": "uni muqaddaslikdan chiqaradilar"
     },
     {
       "surface": "אני",
-      "gloss": "men"
+      "gloss": "Men"
     },
     {
       "surface": "יהוה",
@@ -62,9 +62,9 @@
     },
     {
       "surface": "מקדשם",
-      "gloss": "ulami muqaddas qiluvchi"
+      "gloss": "ularni muqaddaslovchiman"
     }
   ],
-  "timestamp": "2026-08-26T01:19:59.702200482Z",
+  "timestamp": "2026-08-26T09:47:05.081045464Z",
   "model": "glm-5.3"
 }

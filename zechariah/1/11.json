@@ -5,24 +5,24 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va ular javob berdilar Yahve elchisiga ⟨את⟩, ⟨u⟩ hadaslar orasida turganga, va aytdilar: „Biz yerni aylanib yurdik, va mana, butun ⟨the⟩ yer oʻtirgan va jimjit.“",
+  "translation": "Va ular Yahvening mirtlar orasida turgan farishtasiga ⟨את⟩ javob berdilar va dedilar: „Biz yer boʻylab aylanib yurdik, va mana, butun yer jim va osoyishta yashamoqda.“",
   "tokens": [
     {
       "surface": "ויענו",
-      "gloss": "Va ular javob berdilar"
+      "gloss": "va javob berdilar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahve elchisi"
+      "marks": "Yahvening farishtasi"
     },
     {
       "surface": "מלאך",
-      "gloss": "elchisi"
+      "gloss": "farishtasi"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahvening"
     },
     {
       "surface": "העמד",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "ההדסים",
-      "gloss": "hadaslar"
+      "gloss": "mirtlar"
     },
     {
       "surface": "ויאמרו",
-      "gloss": "va aytdilar"
+      "gloss": "va dedilar"
     },
     {
       "surface": "התהלכנו",
-      "gloss": "biz yurdik"
+      "gloss": "aylanib yurdik"
     },
     {
       "surface": "בארץ",
-      "gloss": "yerni"
+      "gloss": "yer boʻylab"
     },
     {
       "surface": "והנה",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ yer"
+      "gloss": "yer"
     },
     {
       "surface": "ישבת",
-      "gloss": "oʻtirgan"
+      "gloss": "yashamoqda"
     },
     {
       "surface": "ושקטת",
-      "gloss": "va jimjit"
+      "gloss": "jim va osoyishta"
     }
   ],
-  "timestamp": "2026-08-26T05:51:33.579612568Z",
+  "timestamp": "2026-08-26T09:58:46.985909928Z",
   "model": "glm-5.3"
 }

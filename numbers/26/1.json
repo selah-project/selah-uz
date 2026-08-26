@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Va Yahve Moshega va Elazarga, Aharonning oʻgʻli kohenga aytdi:",
+  "translation": "Va Yahve Moshega va kohin Aharonning oʻgʻli Elazarga otdi: ⟨aytish uchun⟩",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "va aytdi"
+      "gloss": "va … otdi (aytdi)"
     },
     {
       "surface": "יהוה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "…ga"
     },
     {
       "surface": "משה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "va ga"
+      "gloss": "va …ga"
     },
     {
       "surface": "אלעזר",
@@ -37,17 +37,17 @@
     },
     {
       "surface": "אהרן",
-      "gloss": "Aharonning"
+      "gloss": "Aharon"
     },
     {
       "surface": "הכהן",
-      "gloss": "⟨the⟩ kohen"
+      "gloss": "kohin"
     },
     {
       "surface": "לאמר",
-      "gloss": "deyib"
+      "gloss": "⟨aytish uchun⟩"
     }
   ],
-  "timestamp": "2026-08-26T01:38:55.336999680Z",
+  "timestamp": "2026-08-26T09:48:31.559505927Z",
   "model": "glm-5.3"
 }

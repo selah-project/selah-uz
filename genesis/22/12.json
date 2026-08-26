@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 22,
-  "translation": "Va u aytdi: Qoʻlimga yetmа yoshga va unga hech narsa qilma, chunki endi bildim ki Elohimdan qoʻruvchisan sen, va meni joylash, ⟨ki⟩ tutmading ⟨את⟩ oʻgʻlingni, ⟨את⟩ yagonangni.",
+  "translation": "Va u dedi: Qoʻlingni yoshga choʻzma va unga hech narsa qilma, chunki endi bildimki, sen Elohimdan qoʻrqadigan kimsasan, va ⟨את⟩ oʻgʻlingni, ⟨את⟩ yagona oʻgʻlingni mendan ayamading.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "va u aytdi"
+      "gloss": "Va u dedi"
     },
     {
       "surface": "אל",
-      "gloss": "yоʻq"
+      "gloss": "ema"
     },
     {
       "surface": "תשלח",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ידך",
-      "gloss": "qoʻling"
+      "gloss": "qoʻlingni"
     },
     {
       "surface": "אל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ואל",
-      "gloss": "va yоʻq"
+      "gloss": "va emas"
     },
     {
       "surface": "תעש",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ירא",
-      "gloss": "qoʻruvchi"
+      "gloss": "qoʻrqadigan"
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohim"
+      "gloss": "Elohimdan"
     },
     {
       "surface": "אתה",
@@ -77,11 +77,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "va ... yoʻq"
+      "gloss": "va ... emas"
     },
     {
       "surface": "חשכת",
-      "gloss": "tutmading"
+      "gloss": "ayamading"
     },
     {
       "surface": "את",
@@ -90,22 +90,22 @@
     },
     {
       "surface": "בנך",
-      "gloss": "oʻgʻling"
+      "gloss": "oʻgʻlingni"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yagonangni"
+      "marks": "yagona oʻgʻlingni"
     },
     {
       "surface": "יחידך",
-      "gloss": "yagonang"
+      "gloss": "yagona oʻgʻlingni"
     },
     {
       "surface": "ממני",
-      "gloss": "mendi (men uchun)"
+      "gloss": "menda(n)"
     }
   ],
-  "timestamp": "2026-08-26T00:36:40.593256526Z",
+  "timestamp": "2026-08-26T09:43:50.682444176Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va Elohim aytdi: \"Rakiya boʻlsin suvlarning oʻrtasida, va u ajratuvchi boʻlsin suvlar bilan suvlarning orasida.\"",
+  "translation": "Va Elohim aytdi: suvlarning oʻrtasida choʻzilgan gumbaz ⟨boʻlsin⟩, va ⟨u⟩ suvlarni suvlardan ajratib turuvchi ⟨boʻlsin⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "va aytdi"
+      "gloss": "aytdi"
     },
     {
       "surface": "אלהים",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "רקיע",
-      "gloss": "rakiya"
+      "gloss": "choʻzilgan gumbaz"
     },
     {
       "surface": "בתוך",
@@ -29,29 +29,29 @@
     },
     {
       "surface": "המים",
-      "gloss": "⟨the⟩ suvlarning"
+      "gloss": "suvlarning"
     },
     {
       "surface": "ויהי",
-      "gloss": "va u boʻlsin"
+      "gloss": "va boʻlsin"
     },
     {
       "surface": "מבדיל",
-      "gloss": "ajratuvchi"
+      "gloss": "ajratib turuvchi"
     },
     {
       "surface": "בין",
-      "gloss": "orasida"
+      "gloss": "⟨ajratib⟩"
     },
     {
       "surface": "מים",
-      "gloss": "suvlar"
+      "gloss": "suvlarni"
     },
     {
       "surface": "למים",
-      "gloss": "suvlarning"
+      "gloss": "suvlardan"
     }
   ],
-  "timestamp": "2026-08-26T00:30:52.236989694Z",
+  "timestamp": "2026-08-26T10:20:35.448122487Z",
   "model": "glm-5.3"
 }

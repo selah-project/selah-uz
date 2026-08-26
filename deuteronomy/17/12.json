@@ -5,51 +5,51 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Va odam, ki qasdkoranlik qiladi — eshitmaslik uchun kohinga, u yerda xizmat qilib turuvchi, ⟨את⟩ Yahve, Elohimingga, yoki sudya huzuriga — oʻshа odam oʻladi, va yoʻq qilasan yovuzlikni Isroildan.",
+  "translation": "Va ⟨odam⟩ — oʻsha odam oʻzboshimchalik bilan, kohonga — u Yahve Elohiminga xizmat qilish uchun ⟨u yerga⟩ turgan ⟨את⟩ Yahve Elohiminga xizmat qiluvchisiga — yoki hakamga quloq solmaslik uchun ish qilsa, oʻsha odam oʻlsin, va sen Isroildan yovuzlikni yoʻq qilasan.",
   "tokens": [
     {
       "surface": "והאיש",
-      "gloss": "Va odam"
+      "gloss": "Va ⟨odam⟩"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "oʻsha"
     },
     {
       "surface": "יעשה",
-      "gloss": "qiladi"
+      "gloss": "ish qilsa"
     },
     {
       "surface": "בזדון",
-      "gloss": "qasdkoranlik"
+      "gloss": "oʻzboshimchalik bilan"
     },
     {
       "surface": "לבלתי",
-      "gloss": "uchun"
+      "gloss": "…maslik uchun"
     },
     {
       "surface": "שמע",
-      "gloss": "eshitmaslik"
+      "gloss": "quloq solmaslik"
     },
     {
       "surface": "אל",
-      "gloss": "huzuriga"
+      "gloss": "ga"
     },
     {
       "surface": "הכהן",
-      "gloss": "kohin"
+      "gloss": "kohonga"
     },
     {
       "surface": "העמד",
-      "gloss": "turuvchi"
+      "gloss": "turgan"
     },
     {
       "surface": "לשרת",
-      "gloss": "xizmat qilib"
+      "gloss": "xizmat qilish uchun"
     },
     {
       "surface": "שם",
-      "gloss": "u yerda"
+      "gloss": "⟨u yerga⟩"
     },
     {
       "surface": "את",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohimingga"
+      "gloss": "Elohiming"
     },
     {
       "surface": "או",
@@ -70,15 +70,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "huzuriga"
+      "gloss": "ga"
     },
     {
       "surface": "השפט",
-      "gloss": "sudya"
+      "gloss": "hakamga"
     },
     {
       "surface": "ומת",
-      "gloss": "va oʻladi"
+      "gloss": "va oʻlsin"
     },
     {
       "surface": "האיש",
@@ -101,6 +101,6 @@
       "gloss": "Isroildan"
     }
   ],
-  "timestamp": "2026-08-26T01:58:15.594262672Z",
+  "timestamp": "2026-08-26T10:22:07.000752965Z",
   "model": "glm-5.3"
 }

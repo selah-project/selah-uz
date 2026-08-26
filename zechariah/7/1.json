@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Va Daryovush ⟨the⟩ podshohning toʻrtinchi yilida Yahvening soʻzi Zaxariyaga yetdi — toʻqqizinchi oyning toʻrtida, Kislevda.",
+  "translation": "Va boʻldi Daryavush ⟨the⟩ shohning toʻrtinchi yilida: Yahvening soʻzi Zaxaryoga yetdi toʻrtinchi ⟨day⟩ toʻqqizinchi oyda, yaʼni Kislevda.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "לדריוש",
-      "gloss": "Daryovush"
+      "gloss": "Daryavush"
     },
     {
       "surface": "המלך",
-      "gloss": "podshoh"
+      "gloss": "shoh"
     },
     {
       "surface": "היה",
-      "gloss": "yetdi"
+      "gloss": "boʻldi"
     },
     {
       "surface": "דבר",
-      "gloss": "soʻzi"
+      "gloss": "soʻz"
     },
     {
       "surface": "יהוה",
@@ -41,19 +41,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "yetdi"
     },
     {
       "surface": "זכריה",
-      "gloss": "Zaxariya"
+      "gloss": "Zaxaryoga"
     },
     {
       "surface": "בארבעה",
-      "gloss": "toʻrtida"
+      "gloss": "toʻrtinchi"
     },
     {
       "surface": "לחדש",
-      "gloss": "oy"
+      "gloss": "oyda"
     },
     {
       "surface": "התשעי",
@@ -64,6 +64,6 @@
       "gloss": "Kislevda"
     }
   ],
-  "timestamp": "2026-08-26T05:53:16.759260408Z",
+  "timestamp": "2026-08-26T10:23:52.988976747Z",
   "model": "glm-5.3"
 }

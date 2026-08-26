@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Har bir sudralib yuruvchi uchuvchi ⟨the⟩ toʻrt oyoqda yuradigan — u sizlar uchun jirkanchli narsa",
+  "translation": "Har bir sudralib yuruvchi uchuvchi ⟨uchoʻrt⟩ — oyoqli — ⟨bu⟩ sizlar uchun yolgʻizdir.",
   "tokens": [
     {
       "surface": "כל",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ההלך",
-      "gloss": "yuradigan"
+      "gloss": "yuruvchi"
     },
     {
       "surface": "על",
-      "gloss": "ustida"
+      "gloss": "—"
     },
     {
       "surface": "ארבע",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "שקץ",
-      "gloss": "jirkanchli narsa"
+      "gloss": "yolgʻiz"
     },
     {
       "surface": "הוא",
-      "gloss": "u"
+      "gloss": "⟨bu⟩"
     },
     {
       "surface": "לכם",
       "gloss": "sizlar uchun"
     }
   ],
-  "timestamp": "2026-08-26T01:13:58.939831240Z",
+  "timestamp": "2026-08-26T09:46:31.109268288Z",
   "model": "glm-5.3"
 }

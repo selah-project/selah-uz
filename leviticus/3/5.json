@@ -5,16 +5,16 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va Aharon oʻgʻillari uni ⟨את⟩ ⟨the⟩ mizbaxda tutatqtiradilar, ⟨the⟩ oʻla qurbonligi ustiga, u esa ⟨the⟩ yogʻochlarning ustidadir, ular esa ⟨the⟩ olov ustidadir — olov-qurbonlik, xushboʻy hid Yahve uchun.",
+  "translation": "Va Aharonning oʻgʻillari ⟨את⟩uni qurbongohda tutatqi qiladilar — butun yoqiladigan qurbon ustiga, u esa yogʻochlar ustidadir, yogʻochlar esa olov ustidadir — olov qurboni, tinchlantiruvchi hid Yahve uchun.",
   "tokens": [
     {
       "surface": "והקטירו",
-      "gloss": "tutatqtiradilar"
+      "gloss": "Va ... tutatqi qiladilar"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩uni",
-      "marks": "uni (qurbonlik yogʻi)"
+      "marks": "u (yaʼni qurbon yogʻi)"
     },
     {
       "surface": "בני",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "המזבחה",
-      "gloss": "⟨the⟩ mizbaxda"
+      "gloss": "qurbongohda"
     },
     {
       "surface": "על",
@@ -34,35 +34,35 @@
     },
     {
       "surface": "העלה",
-      "gloss": "⟨the⟩ oʻla qurbonligi"
+      "gloss": "butun yoqiladigan qurbon"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "u esa"
     },
     {
       "surface": "על",
-      "gloss": "ustidadir"
+      "gloss": "ustida"
     },
     {
       "surface": "העצים",
-      "gloss": "⟨the⟩ yogʻochlarning"
+      "gloss": "yogʻochlar"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "esa"
     },
     {
       "surface": "על",
-      "gloss": "ustidadir"
+      "gloss": "ustida"
     },
     {
       "surface": "האש",
-      "gloss": "⟨the⟩ olovning"
+      "gloss": "olov"
     },
     {
       "surface": "אשה",
-      "gloss": "olov-qurbonlik"
+      "gloss": "olov qurboni"
     },
     {
       "surface": "ריח",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "ניחח",
-      "gloss": "xushboʻy"
+      "gloss": "tinchlantiruvchi"
     },
     {
       "surface": "ליהוה",
       "gloss": "Yahve uchun"
     }
   ],
-  "timestamp": "2026-08-26T01:09:38.652260099Z",
+  "timestamp": "2026-08-26T09:46:42.758875676Z",
   "model": "glm-5.3"
 }

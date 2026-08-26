@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Hatto tafakkuringda ham shohni laʼnatlama, va yotoqxonalaringning ichki xonalarida boy kishini laʼnatlama, chunki osmon qushi ⟨את⟩ ovozni olib ketadi, va qanot egasi soʻzni xabar qiladi.",
+  "translation": "Hatto oʻz bilimingda ham malikni qargʻama va yotoq xonalaring ichida boyni qargʻama, chunki osmon qushi ⟨את⟩ ovozni olib boradi va qanotlar egasi soʻzni xabar beradi.",
   "tokens": [
     {
       "surface": "גם",
@@ -13,39 +13,39 @@
     },
     {
       "surface": "במדעך",
-      "gloss": "tafakkuringda"
+      "gloss": "oʻz bilimingda"
     },
     {
       "surface": "מלך",
-      "gloss": "shohni"
+      "gloss": "malikni"
     },
     {
       "surface": "אל",
-      "gloss": "lama"
+      "gloss": "qargʻama"
     },
     {
       "surface": "תקלל",
-      "gloss": "laʼnatlama"
+      "gloss": "qargʻama"
     },
     {
       "surface": "ובחדרי",
-      "gloss": "va ... ichki xonalarida"
+      "gloss": "va yotoq xonalaring ichida"
     },
     {
       "surface": "משכבך",
-      "gloss": "yotoqxonalaringning"
+      "gloss": "yotogʻing"
     },
     {
       "surface": "אל",
-      "gloss": "lama"
+      "gloss": "qargʻama"
     },
     {
       "surface": "תקלל",
-      "gloss": "laʼnatlama"
+      "gloss": "qargʻama"
     },
     {
       "surface": "עשיר",
-      "gloss": "boy kishini"
+      "gloss": "boyni"
     },
     {
       "surface": "כי",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "יוליך",
-      "gloss": "olib ketadi"
+      "gloss": "olib boradi"
     },
     {
       "surface": "את",
@@ -74,25 +74,21 @@
     },
     {
       "surface": "ובעל",
-      "gloss": "va ... egasi"
+      "gloss": "va egasi"
     },
     {
       "surface": "הכנפים",
-      "gloss": "qanot"
+      "gloss": "qanotlarning"
     },
     {
       "surface": "יגיד",
-      "gloss": "xabar qiladi"
-    },
-    {
-      "surface": "дבר",
-      "gloss": "soʻzni"
+      "gloss": "xabar beradi"
     },
     {
       "surface": "דבר",
       "gloss": "soʻzni"
     }
   ],
-  "timestamp": "2026-08-26T07:22:28.072398687Z",
+  "timestamp": "2026-08-26T10:03:09.155569991Z",
   "model": "glm-5.3"
 }

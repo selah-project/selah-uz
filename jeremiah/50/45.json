@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 50,
-  "translation": "Shuning uchun eshiting Yahvening ⟨the⟩ maslahatini, u Bobilga qilganini, va uning rejalari, u Kasdiylar yerni oʻylaganini: agar podaning kichiklari ularni sudrab ketmasa, agar u ular ustiga ⟨the⟩ manzilni vayron qilmasa!",
+  "translation": "Shuning uchun Yahvening Bobilga qarshi bergan maslahatini va Kasdiylar yeriga qarshi oʻylagan rejalaringizni eshiting: albatta podaning eng kichiklari ularni sudrab olib ketadi, albatta u ular ustiga yashash joyini vayron qiladi.",
   "tokens": [
     {
       "surface": "לכן",
@@ -25,39 +25,39 @@
     },
     {
       "surface": "אשר",
-      "gloss": "u"
+      "gloss": "qandayki"
     },
     {
       "surface": "יעץ",
-      "gloss": "maslahat bergan"
+      "gloss": "maslahat berdi"
     },
     {
       "surface": "אל",
-      "gloss": "-ga"
+      "gloss": "qarshi"
     },
     {
       "surface": "בבל",
-      "gloss": "Bobil"
+      "gloss": "Bobilga"
     },
     {
-      "surface": "ומחשבותיו",
-      "gloss": "va uning rejalari"
+      "surface": "ו מחשבותיו",
+      "gloss": "va rejalaringiz"
     },
     {
       "surface": "אשר",
-      "gloss": "u"
+      "gloss": "qandayki"
     },
     {
       "surface": "חשב",
-      "gloss": "oʻylagan"
+      "gloss": "oʻyladi"
     },
     {
       "surface": "אל",
-      "gloss": "-ga"
+      "gloss": "qarshi"
     },
     {
       "surface": "ארץ",
-      "gloss": "yerni"
+      "gloss": "yerga"
     },
     {
       "surface": "כשדים",
@@ -65,19 +65,19 @@
     },
     {
       "surface": "אם",
-      "gloss": "agar"
+      "gloss": "albatta"
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "albatta"
     },
     {
       "surface": "יסחבום",
-      "gloss": "sudrab ketmaydilar"
+      "gloss": "sudrab olib ketadi"
     },
     {
       "surface": "צעירי",
-      "gloss": "kichiklari"
+      "gloss": "eng kichiklari"
     },
     {
       "surface": "הצאן",
@@ -85,15 +85,15 @@
     },
     {
       "surface": "אם",
-      "gloss": "agar"
+      "gloss": "albatta"
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "albatta"
     },
     {
       "surface": "ישים",
-      "gloss": "vayron qilmaydi"
+      "gloss": "vayron qiladi"
     },
     {
       "surface": "עליהם",
@@ -101,9 +101,9 @@
     },
     {
       "surface": "נוה",
-      "gloss": "manzilni"
+      "gloss": "yashash joyini"
     }
   ],
-  "timestamp": "2026-08-26T05:05:31.431224619Z",
+  "timestamp": "2026-08-26T09:56:54.448476344Z",
   "model": "glm-5.3"
 }

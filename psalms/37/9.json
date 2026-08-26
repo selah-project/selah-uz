@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 37,
-  "translation": "Chunki yomonlar kesib tashlanadi, va Yahveni kutganlar — ana ular ⟨the⟩ yerni meros qilib oladi.",
+  "translation": "Chunki yomonlik qiluvchilar kesib tashlanadi, Yahveni kutganlar esa — aynan ular ⟨the⟩ yerni meros qilib oladi.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Chunki"
+      "gloss": "chunki"
     },
     {
       "surface": "מרעים",
-      "gloss": "yomonlar"
+      "gloss": "yomonlik qiluvchilar"
     },
     {
       "surface": "יכרתון",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahveni"
     },
     {
       "surface": "המה",
-      "gloss": "ana ular"
+      "gloss": "aynan ular"
     },
     {
       "surface": "יירשו",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "yer"
+      "gloss": "yerni"
     }
   ],
-  "timestamp": "2026-08-26T08:42:28.138765754Z",
+  "timestamp": "2026-08-26T10:24:04.491180045Z",
   "model": "glm-5.3"
 }

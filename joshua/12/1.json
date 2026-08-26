@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Va bunlar ⟨the⟩ yer shohlari ediki, Isroil oʻgʻillari ularga zarba berib, ⟨the⟩ Yardenning narigi tomonida, quyosh chiqishi tomonda ⟨את⟩ ularning yerini meros qilib olgan — Arnon vodiysidan Hermon togʻigacha va butun Araboh sharq tomonda.",
+  "translation": "Va bular ⟨⟨the⟩⟩ er mulkining shohlari — Isroil oʻgʻillari ularga zarba bergan va ⟨את⟩ ularning yerini meros qilib olgan, Iordan narigi tomonda, quyosh chiqishi tomonga, Arnon soyidan Xermon togʻigacha va butun Arabo quyosh chiqishi tomonda.",
   "tokens": [
     {
       "surface": "ואלה",
-      "gloss": "Va bunlar"
+      "gloss": "Va bular"
     },
     {
       "surface": "מלכי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "yerning"
+      "gloss": "er mulkining"
     },
     {
       "surface": "אשר",
-      "gloss": "ediki"
+      "gloss": "kimlarki"
     },
     {
       "surface": "הכו",
-      "gloss": "zarba berib"
+      "gloss": "zarba bergan"
     },
     {
       "surface": "בני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "וירשו",
-      "gloss": "meros qilib olgan"
+      "gloss": "va meros qilib olgan"
     },
     {
       "surface": "את",
@@ -50,23 +50,23 @@
     },
     {
       "surface": "בעבר",
-      "gloss": "narigi tomonida"
+      "gloss": "narigi tomonda"
     },
     {
       "surface": "הירדן",
-      "gloss": "Yardenning"
+      "gloss": "Iordan"
     },
     {
       "surface": "מזרחה",
-      "gloss": "sharq tomonda"
+      "gloss": "quyosh chiqishi tomonga"
     },
     {
       "surface": "השמש",
-      "gloss": "quyosh chiqishi"
+      "gloss": "quyosh"
     },
     {
       "surface": "מנחל",
-      "gloss": "vodiysidan"
+      "gloss": "soyidan"
     },
     {
       "surface": "ארנון",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "חרמון",
-      "gloss": "Hermon"
+      "gloss": "Xermon"
     },
     {
       "surface": "וכל",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "מזרחה",
-      "gloss": "sharq tomonda"
+      "gloss": "quyosh chiqishi tomonda"
     }
   ],
-  "timestamp": "2026-08-26T02:16:39.825301356Z",
+  "timestamp": "2026-08-26T10:22:11.272408651Z",
   "model": "glm-5.3"
 }

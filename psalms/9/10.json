@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va Yahve ezilgan uchun qoyа-boshpana boʻladi, tanglik zamonlarida boshpana boʻladi.",
+  "translation": "Va Yahve boʻlgʻay qalʼa ezilganlar uchun, qalʼa qiyin vaqtlarda tang qisilish ichida.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Va boʻladi"
+      "gloss": "Va … boʻlgʻay"
     },
     {
       "surface": "יהוה",
@@ -17,25 +17,25 @@
     },
     {
       "surface": "משגב",
-      "gloss": "qoyа-boshpana"
+      "gloss": "qalʼa"
     },
     {
       "surface": "לדך",
-      "gloss": "ezilgan uchun"
+      "gloss": "ezilganlar uchun"
     },
     {
       "surface": "משגב",
-      "gloss": "boshpana"
+      "gloss": "qalʼa"
     },
     {
       "surface": "לעתות",
-      "gloss": "zamonlarida"
+      "gloss": "vaqtlarda"
     },
     {
       "surface": "בצרה",
-      "gloss": "tanglikda"
+      "gloss": "tang qisilish ichida"
     }
   ],
-  "timestamp": "2026-08-26T05:59:34.284468137Z",
+  "timestamp": "2026-08-26T10:15:33.332765676Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va barcha jangovar sarkardalari — ular va ularga tegishli odamlar — Bobil shohi Gedalyahuni tayinlaganini eshitdilar va Gedalyahu oldiga Mitspagа kelib: Natanya oʻgʻli Yishmoel, Qareax oʻgʻli Yoxanan, Netofalik Tanxumet oʻgʻli Sarya va Maaxatlik Yaazanyahu — ular va odamlari.",
+  "translation": "Va barcha jangovor sarkardalar eshitdilar — ular va ⟨את⟩ odamlar — Bobil shohi Gedalyahuni tayinlaganini, va Gedalyahu oldiga Micpaga kelib: Yishmael Netanyahuning oʻgʻli, va Yoxanan Qeraxning oʻgʻli, va Seraya Tanxumet Netofatlikning oʻgʻli, va Yaazanyahu Maaxatlikning oʻgʻli — ular va odamlari.",
   "tokens": [
     {
       "surface": "וישמעו",
-      "gloss": "eshitdilar"
+      "gloss": "va eshitdilar"
     },
     {
       "surface": "כל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "החילים",
-      "gloss": "jangovar"
+      "gloss": "jangovor kuchlarning"
     },
     {
       "surface": "המה",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "ki"
+      "gloss": "…ni"
     },
     {
       "surface": "הפקיד",
-      "gloss": "tayinlaganini"
+      "gloss": "tayinladi"
     },
     {
       "surface": "מלך",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "oldinga"
+      "gloss": "oldiga"
     },
     {
       "surface": "גדליהו",
@@ -70,11 +70,11 @@
     },
     {
       "surface": "המצפה",
-      "gloss": "Mitspa"
+      "gloss": "Micpaga"
     },
     {
       "surface": "וישמעאל",
-      "gloss": "Yishmoel"
+      "gloss": "va Yishmael"
     },
     {
       "surface": "בן",
@@ -82,11 +82,11 @@
     },
     {
       "surface": "נתניה",
-      "gloss": "Natanya"
+      "gloss": "Netanyahuning"
     },
     {
       "surface": "ויוחנן",
-      "gloss": "Yoxanan"
+      "gloss": "va Yoxanan"
     },
     {
       "surface": "בן",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "קרח",
-      "gloss": "Qareax"
+      "gloss": "Qeraxning"
     },
     {
       "surface": "ושריה",
-      "gloss": "Sarya"
+      "gloss": "va Seraya"
     },
     {
       "surface": "בן",
@@ -110,11 +110,11 @@
     },
     {
       "surface": "הנטפתי",
-      "gloss": "Netofalik"
+      "gloss": "Netofatlikning"
     },
     {
       "surface": "ויאזניהו",
-      "gloss": "Yaazanyahu"
+      "gloss": "va Yaazanyahu"
     },
     {
       "surface": "בן",
@@ -122,7 +122,7 @@
     },
     {
       "surface": "המעכתי",
-      "gloss": "Maaxatlik"
+      "gloss": "Maaxatlikning"
     },
     {
       "surface": "המה",
@@ -133,6 +133,6 @@
       "gloss": "va odamlari"
     }
   ],
-  "timestamp": "2026-08-26T04:06:45.048757223Z",
+  "timestamp": "2026-08-26T10:23:15.321832296Z",
   "model": "glm-5.3"
 }

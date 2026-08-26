@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 4,
-  "translation": "yer yuzidagi ⟨the⟩ har qanday hayvonning shakli, osmonlarda uchadigan ⟨the⟩ har qanday qanotli qushning shakli",
+  "translation": "⟨the⟩ shakl of any hayvon which is on ⟨the⟩ yer — ⟨the⟩ shakl of any qanotli qush which flies in osmonda.",
   "tokens": [
     {
       "surface": "תבנית",
-      "gloss": "shakli"
+      "gloss": "shakl"
     },
     {
       "surface": "כל",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "בהמה",
-      "gloss": "hayvonning"
+      "gloss": "hayvon"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "בארץ",
-      "gloss": "yer yuzidagi"
+      "gloss": "yerda"
     },
     {
       "surface": "תבנית",
-      "gloss": "shakli"
+      "gloss": "shakl"
     },
     {
       "surface": "כל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "צפור",
-      "gloss": "qushning"
+      "gloss": "qush"
     },
     {
       "surface": "כנף",
@@ -45,17 +45,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "תעוף",
-      "gloss": "uchadigan"
+      "gloss": "uchadi"
     },
     {
       "surface": "בשמים",
-      "gloss": "osmonlarda"
+      "gloss": "osmonda"
     }
   ],
-  "timestamp": "2026-08-26T01:50:59.344866184Z",
+  "timestamp": "2026-08-26T10:22:00.246979740Z",
   "model": "glm-5.3"
 }

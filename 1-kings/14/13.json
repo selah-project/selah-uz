@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va butun Isroil unga marsad qiladi va uni ⟨את⟩ dafn etadi, chunki Yarovamning ⟨the⟩ naslidan faqat bu biri qabrga kiradi, zero unda Yahve, Isroilning Elohimining oldida yaxshi narsa topilgan Yarovamning uyida.",
+  "translation": "Va butun Isroil unga motam tutadi va uni ⟨את⟩ dafn qiladi, chunki bu — uygina — Yarovamning oʻzi qabrga kiradi, sababi unda Yahve, Isroil Elohimining tomoniga yaxshi narsa topilgan, Yarovamning xonadonida.",
   "tokens": [
     {
       "surface": "וספדו",
-      "gloss": "va marsad qiladi"
+      "gloss": "va motam tutadi"
     },
     {
       "surface": "לו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וקברו",
-      "gloss": "va dafn etadi"
+      "gloss": "va dafn qiladi"
     },
     {
       "surface": "אתו",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "faqat oʻzi"
+      "gloss": "uygina"
     },
     {
       "surface": "יבא",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "לירבעם",
-      "gloss": "Yarovamga"
+      "gloss": "Yarovamning"
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "—"
     },
     {
       "surface": "קבר",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "יען",
-      "gloss": "zero"
+      "gloss": "sababi"
     },
     {
       "surface": "נמצא",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "tomon"
+      "gloss": "tomoniga"
     },
     {
       "surface": "יהוה",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohimi"
+      "gloss": "Elohim"
     },
     {
       "surface": "ישראל",
@@ -98,13 +98,13 @@
     },
     {
       "surface": "בבית",
-      "gloss": "uyida"
+      "gloss": "xonadonida"
     },
     {
-      "surface": "ירבעם",
+      "surface": "יירבעם",
       "gloss": "Yarovamning"
     }
   ],
-  "timestamp": "2026-08-26T03:39:57.235111036Z",
+  "timestamp": "2026-08-26T09:54:28.521429848Z",
   "model": "glm-5.3"
 }

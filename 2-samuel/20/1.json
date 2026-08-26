@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va u yerda Belial ⟨the⟩ odami paydo boʻldi — ismi Sheba, Bikrining oʻgʻli, binYaminlik odam; u shofarni pufladi va dedi: Bizning Dovudda ulushimiz yoʻq va Yishay oʻgʻlida bizning merosimiz yoʻq; Isroil, ⟨har⟩ odam oʻz chodiriga!",
+  "translation": "Va u yerda beliallik odam paydo boʻldi, uning nomi Sheba, Bikrining oʻgʻli, benyaminlik odam; u shofarni pufladi va dedi: Bizning Dovudda ulushimiz yoʻq va Ishayning oʻgʻlida merosimiz yoʻq; har odam oʻz chodiriga, ey Isroil!",
   "tokens": [
     {
       "surface": "ושם",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "בליעל",
-      "gloss": "Belial ⟨the⟩"
+      "gloss": "beliallik"
     },
     {
       "surface": "ושמו",
-      "gloss": "va ismi"
+      "gloss": "uning nomi"
     },
     {
       "surface": "שבע",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בכרי",
-      "gloss": "Bikrining"
+      "gloss": "Bikri"
     },
     {
       "surface": "איש",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ימיני",
-      "gloss": "binYaminlik"
+      "gloss": "benyaminlik"
     },
     {
       "surface": "ויתקע",
-      "gloss": "va pufladi"
+      "gloss": "u pufladi"
     },
     {
       "surface": "בשפר",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "bizning"
+      "gloss": "bizga"
     },
     {
       "surface": "בבן",
@@ -93,11 +93,11 @@
     },
     {
       "surface": "ישי",
-      "gloss": "Yishay"
+      "gloss": "Ishay"
     },
     {
       "surface": "איש",
-      "gloss": "odam"
+      "gloss": "har odam"
     },
     {
       "surface": "לאהליו",
@@ -105,9 +105,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil"
+      "gloss": "ey Isroil"
     }
   ],
-  "timestamp": "2026-08-26T03:19:17.032395513Z",
+  "timestamp": "2026-08-26T09:53:23.191194869Z",
   "model": "glm-5.3"
 }

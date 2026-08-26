@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Faqat sen uy qurmaysan, chunki qorningdan chiqadigan oʻgʻling — u Mening ismimga uy quradi.",
+  "translation": "Faqat sen ⟨the⟩ uyni qurmaysan, chunki sonlaridan chiqadigan oʻgʻling — u ⟨the⟩ uyni Mening ismim uchun quradi.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "faqat"
+      "gloss": "Faqat"
     },
     {
       "surface": "אתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "…maysan"
     },
     {
       "surface": "תבנה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "uy"
+      "gloss": "⟨the⟩ uy"
     },
     {
       "surface": "כי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מחלציך",
-      "gloss": "qorningdan"
+      "gloss": "sonlaridan"
     },
     {
       "surface": "הוא",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ uy"
+      "gloss": "⟨the⟩ uyni"
     },
     {
       "surface": "לשמי",
-      "gloss": "Mening ismimga"
+      "gloss": "Mening ismim uchun"
     }
   ],
-  "timestamp": "2026-08-26T09:42:30.783214245Z",
+  "timestamp": "2026-08-26T10:25:19.005778658Z",
   "model": "glm-5.3"
 }

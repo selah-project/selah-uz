@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 34,
-  "translation": "Va ular hunarmandlarga va quruvchilarga kesib olingan toshlar va biriktirish uchun yogʻochlar sotib olish, Yahudo shohlari buzib yuborgan ⟨the⟩ binolarni qurish uchun berdilar.",
+  "translation": "Va hunarmandlarga va binokorlarga kesilgan toshlar sotib olish va bogʻlov uchun yogʻochlar va Yehuda shohlari buzib yuborgan binolarni qurish uchun berdilar.",
   "tokens": [
     {
       "surface": "ויתנו",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ולבנים",
-      "gloss": "va quruvchilarga"
+      "gloss": "va binokorlarga"
     },
     {
       "surface": "לקנות",
-      "gloss": "sotib olish uchun"
+      "gloss": "sotib olish"
     },
     {
       "surface": "אבני",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מחצב",
-      "gloss": "kesib olingan"
+      "gloss": "kesilgan"
     },
     {
       "surface": "ועצים",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "למחברות",
-      "gloss": "biriktirishlar uchun"
+      "gloss": "bogʻlov uchun"
     },
     {
       "surface": "ולקרות",
-      "gloss": "va qurish uchun"
+      "gloss": "qurish"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "the binolar"
+      "marks": "binolarni"
     },
     {
       "surface": "הבתים",
-      "gloss": "⟨the⟩ binolarni"
+      "gloss": "binolarni"
     },
     {
       "surface": "אשר",
@@ -66,9 +66,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yahudo"
+      "gloss": "Yehuda"
     }
   ],
-  "timestamp": "2026-08-26T08:16:48.797437472Z",
+  "timestamp": "2026-08-26T10:06:11.256229259Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 38,
-  "translation": "Va u ⟨את⟩ qurbongohning barcha asboblarni yasadi: ⟨את⟩ qozonlarni, va ⟨את⟩ belkuraklarni, va ⟨את〕 choʻgʻuchlarini, ⟨את⟩ sanchqilarni va ⟨את⟩ olov idishlarini — uning barcha asboblarini misdan qildi.",
+  "translation": "Va u mehrobning barcha asboblarni yasadi: ⟨את⟩ qozonlarni, ⟨את⟩ kuraklarni, ⟨את⟩ choʻgʻdonlarni, ⟨את⟩ sanchqilarni va ⟨את⟩ olov idishlarini — uning barcha asbollarini misdan yasadi.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -22,11 +22,11 @@
     },
     {
       "surface": "כלי",
-      "gloss": "asboblari"
+      "gloss": "asboblarni"
     },
     {
       "surface": "המזבח",
-      "gloss": "qurbongohning"
+      "gloss": "mehrobning"
     },
     {
       "surface": "את",
@@ -35,25 +35,25 @@
     },
     {
       "surface": "הסירת",
-      "gloss": "qozonlar"
+      "gloss": "qozonlarni"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "belkuraklarni"
+      "marks": "kuraklarni"
     },
     {
       "surface": "היעים",
-      "gloss": "belkuraklar"
+      "gloss": "kuraklarni"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "choʻgʻuchlarni"
+      "marks": "choʻgʻdonlarni"
     },
     {
       "surface": "המזרקת",
-      "gloss": "choʻgʻuchlar"
+      "gloss": "choʻgʻdonlarni"
     },
     {
       "surface": "את",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "המזלגת",
-      "gloss": "sanchqilar"
+      "gloss": "sanchqilarni"
     },
     {
       "surface": "ואת",
@@ -71,7 +71,7 @@
     },
     {
       "surface": "המחתת",
-      "gloss": "olov idishlari"
+      "gloss": "olov idishlarini"
     },
     {
       "surface": "כל",
@@ -79,17 +79,17 @@
     },
     {
       "surface": "כליו",
-      "gloss": "uning asboblari"
+      "gloss": "uning asbollarini"
     },
     {
       "surface": "עשה",
-      "gloss": "qildi"
+      "gloss": "yasadi"
     },
     {
       "surface": "נחשת",
-      "gloss": "mis"
+      "gloss": "misdan"
     }
   ],
-  "timestamp": "2026-08-26T01:05:42.698268995Z",
+  "timestamp": "2026-08-26T09:46:07.685734663Z",
   "model": "glm-5.3"
 }

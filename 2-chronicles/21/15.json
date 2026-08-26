@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 21,
-  "translation": "va sen — koʻp kasalliklar bilan, ichaklaring kasalligida, ichaklaring ⟨the⟩ kasallikdan chiqquncha, kun ustiga kun ⟨with⟩.",
+  "translation": "Va sen — ichaklaring kasalligida koʻp kasalliklar bilan, ichaklaring kasallikdan chiqib ketguncha, kun ustiga kun ⟨boʻladi⟩.",
   "tokens": [
     {
       "surface": "ואתה",
-      "gloss": "va sen"
+      "gloss": "Va sen"
     },
     {
       "surface": "בחליים",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "chiqquncha"
+      "gloss": "…guncha"
     },
     {
       "surface": "יצאו",
-      "gloss": "chiqadi"
+      "gloss": "chiqib ketguncha"
     },
     {
       "surface": "מעיך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "dan"
+      "gloss": "…dan"
     },
     {
       "surface": "החלי",
@@ -60,6 +60,6 @@
       "gloss": "kun"
     }
   ],
-  "timestamp": "2026-08-26T08:11:19.394725732Z",
+  "timestamp": "2026-08-26T10:07:43.099916447Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Va ularga katta ziyofat tayyorladi, va yedilar, va ichdilar, va ularni yubordi, va oʻz hukmdorlarining huzuriga ketdilar; va Aram bosqinchi guruhlari Yisroil yeriga yana kela qoʻshilmadilar.",
+  "translation": "U esa ularga buyuk ziyofat tayyorladi; ular yedilar va ichdilar; u ularni yubordi va ular oʻz egalari huzuriga ketdilar; va Aram guruhlari Yisroel eriga yana kelmadilar.",
   "tokens": [
     {
       "surface": "ויכרה",
-      "gloss": "Va tayyorladi"
+      "gloss": "esa tayyorladi"
     },
     {
       "surface": "להם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "גדולה",
-      "gloss": "katta"
+      "gloss": "buyuk"
     },
     {
       "surface": "ויאכלו",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וישלחם",
-      "gloss": "va ularni yubordi"
+      "gloss": "u ularni yubordi"
     },
     {
       "surface": "וילכו",
@@ -41,27 +41,19 @@
     },
     {
       "surface": "אל",
-      "gloss": "—ga"
+      "gloss": "huzuriga"
     },
     {
       "surface": "אדניהם",
-      "gloss": "oʻz hukmdorlarining"
-    },
-    {
-      "surface": "וילכו",
-      "gloss": "va ketdilar"
-    },
-    {
-      "surface": "אדניהם",
-      "gloss": "oʻz hukmdorlarining"
+      "gloss": "oʻz egalari"
     },
     {
       "surface": "ולא",
-      "gloss": "va … emas"
+      "gloss": "va ... emas"
     },
     {
       "surface": "יספו",
-      "gloss": "qoʻshilmadilar"
+      "gloss": "yana (qoʻshdilar)"
     },
     {
       "surface": "עוד",
@@ -69,7 +61,7 @@
     },
     {
       "surface": "גדודי",
-      "gloss": "bosqinchi guruhlari"
+      "gloss": "guruhlari"
     },
     {
       "surface": "ארם",
@@ -77,17 +69,17 @@
     },
     {
       "surface": "לבוא",
-      "gloss": "kirmoq"
+      "gloss": "kelmoq"
     },
     {
       "surface": "בארץ",
-      "gloss": "yeriga"
+      "gloss": "eriga"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisroil"
+      "gloss": "Yisroel"
     }
   ],
-  "timestamp": "2026-08-26T03:50:08.361503885Z",
+  "timestamp": "2026-08-26T09:54:20.075977359Z",
   "model": "glm-5.3"
 }

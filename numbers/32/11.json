@@ -5,23 +5,23 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 32,
-  "translation": "Agar ⟨the⟩ erkaklar — ⟨the⟩ Misrdan chiqqanlar, yigirma yil oʻgʻlidan va yuqori — koʻrsalar ⟨את⟩ ⟨the⟩ yerni ki Avrahamga, Yitsxakga va Yaakovga qasam ichdim, chunki ular ortimdan butunlamagan.",
+  "translation": "Agar Misdan chiqqan odamlar — Misrdan chiqqan, yigirma yosh va undan yuqorilari — ⟨את⟩ meng Avrahamga, Yitsxakka va Yaakovga qasam ichgan tuproqni koʻrsa, chunki ular butunlay ortimdan yurmadilar.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "Agar"
+      "gloss": "agar"
     },
     {
       "surface": "יראו",
-      "gloss": "koʻrsalar"
+      "gloss": "koʻrsa"
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨the⟩ erkaklar"
+      "gloss": "odamlar"
     },
     {
       "surface": "העלים",
-      "gloss": "⟨the⟩ chiqqanlar"
+      "gloss": "chiqqan"
     },
     {
       "surface": "ממצרים",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מבן",
-      "gloss": "oʻgʻlidan"
+      "gloss": "yigirma yoshdan"
     },
     {
       "surface": "עשרים",
@@ -37,20 +37,20 @@
     },
     {
       "surface": "שנה",
-      "gloss": "yil"
+      "gloss": "yosh"
     },
     {
       "surface": "ומעלה",
-      "gloss": "va yuqori"
+      "gloss": "va undan yuqori"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yerni"
+      "marks": "tuproqni"
     },
     {
       "surface": "האדמה",
-      "gloss": "⟨the⟩ yerni"
+      "gloss": "tuproqni"
     },
     {
       "surface": "אשר",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "נשבעתי",
-      "gloss": "qasam ichdim"
+      "gloss": "qasam ichgan"
     },
     {
       "surface": "לאברהם",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ליצחק",
-      "gloss": "Yitsxakga"
+      "gloss": "Yitsxakka"
     },
     {
       "surface": "וליעקב",
@@ -78,17 +78,17 @@
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "yoʻq"
     },
     {
       "surface": "מלאו",
-      "gloss": "butunlamagan"
+      "gloss": "butunlay yurmadilar"
     },
     {
       "surface": "אחרי",
       "gloss": "ortimdan"
     }
   ],
-  "timestamp": "2026-08-26T08:24:07.909957086Z",
+  "timestamp": "2026-08-26T10:21:54.127004595Z",
   "model": "glm-5.3"
 }

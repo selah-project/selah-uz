@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va boʻldi Adoni-Tsedekning, Yerushalaim shohining, eshitganida: Yehoshua ⟨את⟩ ⟨the⟩ Ayni egalladi va uni herem qildi — Yerixoga va uning shohiga qilgani kabi, shunday ⟨the⟩ Ayga va uning shohiga qildi; va Givon aholisi Isroel ⟨את⟩ bilan tinchlik bitimi tuzdilar va ularning ichida boʻldilar.",
+  "translation": "Va boʻldi: Adoni-Tsedek, Yerushalaim podshohi, eshitganda — Yahushua ⟨את⟩ Ay shahrini olgan va uni cherem qilgan, Xarixo va uning podshohiga qilgani kabi, shunday Ay va uning podshohiga qilgan — va Givon aholisi Isroil bilan tinchlik bitimi tuzib, ularning oʻrtasida boʻlganlarini.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "כשמע",
-      "gloss": "eshitganida"
+      "gloss": "eshitganda"
     },
     {
       "surface": "אדני",
-      "gloss": "Adoni-"
+      "gloss": "Adoni"
     },
     {
       "surface": "צדק",
-      "gloss": "Tsedek"
+      "gloss": "-Tsedek"
     },
     {
       "surface": "מלך",
-      "gloss": "shohi"
+      "gloss": "podshohi"
     },
     {
       "surface": "ירושלם",
@@ -33,32 +33,32 @@
     },
     {
       "surface": "כי",
-      "gloss": "—ki"
+      "gloss": "— …ni"
     },
     {
       "surface": "לכד",
-      "gloss": "egalladi"
+      "gloss": "olgan"
     },
     {
       "surface": "יהושע",
-      "gloss": "Yehoshua"
+      "gloss": "Yahushua"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ Ayni"
+      "marks": "Ay shahrini"
     },
     {
       "surface": "העי",
-      "gloss": "⟨the⟩ Ayni"
+      "gloss": "Ay shahrini"
     },
     {
       "surface": "ויחרימה",
-      "gloss": "va uni herem qildi"
+      "gloss": "va uni cherem qilgan"
     },
     {
       "surface": "כאשר",
-      "gloss": "— ... kabi"
+      "gloss": "kabi"
     },
     {
       "surface": "עשה",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "ליריחו",
-      "gloss": "Yerixoga"
+      "gloss": "Xarixoga"
     },
     {
       "surface": "ולמלכה",
-      "gloss": "va uning shohiga"
+      "gloss": "va uning podshohiga"
     },
     {
       "surface": "כן",
@@ -78,23 +78,23 @@
     },
     {
       "surface": "עשה",
-      "gloss": "qildi"
+      "gloss": "qilgan"
     },
     {
       "surface": "לעי",
-      "gloss": "⟨the⟩ Ayga"
+      "gloss": "Ayga"
     },
     {
       "surface": "ולמלכה",
-      "gloss": "va uning shohiga"
+      "gloss": "va uning podshohiga"
     },
     {
       "surface": "וכי",
-      "gloss": "va —ki"
+      "gloss": "va …ni"
     },
     {
       "surface": "השלימו",
-      "gloss": "tinchlik bitimi tuzdilar"
+      "gloss": "tinchlik bitimi tuzib"
     },
     {
       "surface": "ישבי",
@@ -106,22 +106,22 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ bilan",
-      "marks": "Isroel"
+      "gloss": "⟨את⟩",
+      "marks": "Isroil bilan"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroel"
+      "gloss": "Isroil"
     },
     {
       "surface": "ויהיו",
-      "gloss": "va boʻldilar"
+      "gloss": "boʻlganlarini"
     },
     {
       "surface": "בקרבם",
-      "gloss": "ularning ichida"
+      "gloss": "ularning oʻrtasida"
     }
   ],
-  "timestamp": "2026-08-26T02:14:39.007111807Z",
+  "timestamp": "2026-08-26T09:51:15.227980987Z",
   "model": "glm-5.3"
 }

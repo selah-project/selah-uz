@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Maqsadingiz — kunlaringiz koʻpayishi va oʻgʻillaringizning kunlari ⟨the⟩ tuproq ustida, unga Yahve otalaringizga bergilikka qasam ichgan, osmonlar kunlari qadar ⟨the⟩ yer ustida.",
+  "translation": "Shunda kunlaringiz va oʻgʻillaringizning kunlari koʻpayadi — Yahve ota-bobolaringizga ularga berish uchun qasam ichgan ⟨the⟩ tuproq ustida — osmonlar ⟨the⟩ yer ustida turgan kunlarcha.",
   "tokens": [
     {
       "surface": "למען",
-      "gloss": "maqsadingiz"
+      "gloss": "shunda"
     },
     {
       "surface": "ירבו",
-      "gloss": "koʻpayishi"
+      "gloss": "koʻpayadi"
     },
     {
       "surface": "ימיכם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "unga"
+      "gloss": "—"
     },
     {
       "surface": "נשבע",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "לאבתיכם",
-      "gloss": "otalaringizga"
+      "gloss": "ota-bobolaringizga"
     },
     {
       "surface": "לתת",
-      "gloss": "bergilikka"
+      "gloss": "berish uchun"
     },
     {
       "surface": "להם",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "כימי",
-      "gloss": "kunlari qadar"
+      "gloss": "kunlari"
     },
     {
       "surface": "השמים",
@@ -76,6 +76,6 @@
       "gloss": "⟨the⟩ yer"
     }
   ],
-  "timestamp": "2026-08-26T01:53:54.553811751Z",
+  "timestamp": "2026-08-26T10:22:11.280135731Z",
   "model": "glm-5.3"
 }

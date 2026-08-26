@@ -5,20 +5,20 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va yoqsin ⟨את⟩ kiyimni, yoki ⟨את⟩ arqonni, yoki ⟨את⟩ ariqni — junda yoki zigʻirda — yoki ⟨את⟩ terining har qanday buyumini, biror narsa unda boʻlgan ⟨the⟩ zarar bilan: chunki u yemiruvchi moxov — olovda yoqilur.",
+  "translation": "Va u kiyimni yoki arqonni yoki aʼdoni — jun yoki zigʻirda — yoki nuqson bor har qanday teri buyumni oʻtda yoqadi, chunki u yeyuvchi tsaraatdir — oʻtda yoqiladi.",
   "tokens": [
     {
       "surface": "ושרף",
-      "gloss": "Va yoqsin"
+      "gloss": "va u yoqadi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kiyim"
+      "marks": "kiyimni"
     },
     {
       "surface": "הבגד",
-      "gloss": "kiyimni"
+      "gloss": "kiyim"
     },
     {
       "surface": "או",
@@ -27,11 +27,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "arqon"
+      "marks": "arqonni"
     },
     {
       "surface": "השתי",
-      "gloss": "arqonni"
+      "gloss": "arqon"
     },
     {
       "surface": "או",
@@ -40,11 +40,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ariq"
+      "marks": "aʼdoni"
     },
     {
       "surface": "הערב",
-      "gloss": "ariqni"
+      "gloss": "aʼdo"
     },
     {
       "surface": "בצמר",
@@ -65,7 +65,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "har qanday buyum"
+      "marks": "har qanday teri buyumni"
     },
     {
       "surface": "כל",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "biror"
+      "gloss": "ki"
     },
     {
       "surface": "יהיה",
-      "gloss": "boʻlgan"
+      "gloss": "bor"
     },
     {
       "surface": "בו",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "zarar"
+      "gloss": "nuqson"
     },
     {
       "surface": "כי",
@@ -101,11 +101,11 @@
     },
     {
       "surface": "צרעת",
-      "gloss": "moxov"
+      "gloss": "tsaraat"
     },
     {
       "surface": "ממארת",
-      "gloss": "yemiruvchi"
+      "gloss": "yeyuvchi"
     },
     {
       "surface": "הוא",
@@ -113,13 +113,13 @@
     },
     {
       "surface": "באש",
-      "gloss": "olovda"
+      "gloss": "oʻtda"
     },
     {
       "surface": "תשרף",
-      "gloss": "yoqilur"
+      "gloss": "yoqiladi"
     }
   ],
-  "timestamp": "2026-08-26T01:16:13.015467298Z",
+  "timestamp": "2026-08-26T09:47:09.110315400Z",
   "model": "glm-5.3"
 }

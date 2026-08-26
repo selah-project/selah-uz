@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Oʻsha vaqtda Yahve ⟨את⟩ Levi urugʻini ajratdi — Yahve ahdining sandigʻini koʻtarish uchun, Yahve yuzida turish uchun, unga xizmat qilish uchun va uning Ismida barakalash uchun — shu kun ⟨the⟩ kungacha.",
+  "translation": "Oʻsha vaqtda Yahve Levi qabilasini ajratdi — Yahve ahd sandigʻini koʻtarish uchun, Yahve oldida turib unga xizmat qilish va uning nomi bilan barakalash uchun — shu kungacha.",
   "tokens": [
     {
       "surface": "בעת",
@@ -26,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Levi urugʻini"
+      "marks": "Levi qabilasini"
     },
     {
       "surface": "שבט",
-      "gloss": "urugʻ"
+      "gloss": "qabilasini"
     },
     {
       "surface": "הלוי",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "ארון",
-      "gloss": "sandigʻi"
+      "gloss": "sandigʻini"
     },
     {
       "surface": "ברית",
@@ -59,11 +59,11 @@
     },
     {
       "surface": "לעמד",
-      "gloss": "turish uchun"
+      "gloss": "turib"
     },
     {
       "surface": "לפני",
-      "gloss": "yuzida"
+      "gloss": "oldida"
     },
     {
       "surface": "יהוה",
@@ -71,15 +71,15 @@
     },
     {
       "surface": "לשרתו",
-      "gloss": "unga xizmat qilish uchun"
+      "gloss": "unga xizmat qilish"
     },
     {
       "surface": "ולברך",
-      "gloss": "va barakalash uchun"
+      "gloss": "va barakalash"
     },
     {
       "surface": "בשמו",
-      "gloss": "uning Ismida"
+      "gloss": "uning nomi bilan"
     },
     {
       "surface": "עד",
@@ -87,13 +87,13 @@
     },
     {
       "surface": "היום",
-      "gloss": "kun"
+      "gloss": "shu kun"
     },
     {
       "surface": "הזה",
       "gloss": "shu"
     }
   ],
-  "timestamp": "2026-08-26T01:53:02.327547656Z",
+  "timestamp": "2026-08-26T10:21:48.650169037Z",
   "model": "glm-5.3"
 }

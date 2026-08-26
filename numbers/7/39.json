@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Bitta hoʻkiz, poda boshi ⟨the⟩, bitta qoʻchoq, bitta qoʻzi, bir yoshli ⟨of the year⟩, yoqilgan qurbonga ⟨for⟩:",
+  "translation": "Bitta hoʻkiz — poda bolasidan bitta, bitta qoʻchoq, bitta bir yilliq qoʻzi — ol’a qurbonligi uchun;",
   "tokens": [
     {
       "surface": "פר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "boshi"
+      "gloss": "bola"
     },
     {
       "surface": "בקר",
@@ -41,17 +41,17 @@
     },
     {
       "surface": "בן",
-      "gloss": "yoshli"
+      "gloss": "bola"
     },
     {
       "surface": "שנתו",
-      "gloss": "bir yil"
+      "gloss": "bir yilliq"
     },
     {
       "surface": "לעלה",
-      "gloss": "yoqilgan qurbonga"
+      "gloss": "ol’a qurbonligi uchun"
     }
   ],
-  "timestamp": "2026-08-26T08:22:11.173506907Z",
+  "timestamp": "2026-08-26T09:47:46.529228019Z",
   "model": "glm-5.3"
 }

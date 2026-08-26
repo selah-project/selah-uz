@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Shahar cherem boʻladi — u va uning ichidagi hamma narsa Yahvegа; faqat Raxav, fohisha, yashaydi — u va ⟨את⟩ bilan uyda boʻlgan hamma kimsa, chunki u yashirdi ⟨את⟩ elchilarni, ki biz yubordik.",
+  "translation": "Va shahar cherem boʻladi — u ⟨u⟩ hamda uning ichidagi hamma narsa Yahve uchun; faqat Rahav, fohisha, tirik qoladi — u va u bilan ⟨את⟩ uyda boʻlgan hamma kimse, chunki u Yahve... u ⟨את⟩ biz yuborgan elchilarni yashirgan edi.",
   "tokens": [
     {
       "surface": "והיתה",
-      "gloss": "boʻladi"
+      "gloss": "Va ... boʻladi"
     },
     {
       "surface": "העיר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "va hamma"
+      "gloss": "hamda hamma narsa"
     },
     {
       "surface": "אשר",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "בה",
-      "gloss": "unda"
+      "gloss": "uning ichida"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahve uchun"
     },
     {
       "surface": "רק",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "רחב",
-      "gloss": "Raxav"
+      "gloss": "Rahav"
     },
     {
       "surface": "הזונה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "תחיה",
-      "gloss": "yashaydi"
+      "gloss": "tirik qoladi"
     },
     {
       "surface": "היא",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "va hamma"
+      "gloss": "va hamma kimse"
     },
     {
       "surface": "אשר",
@@ -69,7 +69,8 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ bilan"
+      "gloss": "⟨את⟩",
+      "marks": "u bilan"
     },
     {
       "surface": "בבית",
@@ -81,12 +82,12 @@
     },
     {
       "surface": "החבאתה",
-      "gloss": "yashirdi"
+      "gloss": "yashirgan edi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "elchilar"
+      "marks": "elchilarni"
     },
     {
       "surface": "המלאכים",
@@ -98,9 +99,9 @@
     },
     {
       "surface": "שלחנו",
-      "gloss": "yubordik"
+      "gloss": "biz yuborgan"
     }
   ],
-  "timestamp": "2026-08-26T02:11:55.456661296Z",
+  "timestamp": "2026-08-26T09:51:27.142235970Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 51,
-  "translation": "Men, Men oʻzimman — sizlarni tasalli beruvchi; kimsan sen ⟨את⟩ ⟨ki⟩ oʻladigan oddiy odamdan qoʻrqasan va oʻtga ⟨oxel⟩ beriladigan odam oʻgʻlidan?",
+  "translation": "Men, Men Xudoyim — sizlarni tasalliy beruvchilaringizman; sen kimsan ki, oʻladigan odamdan qoʻrqasan va oʻtga beriladigan odam oʻgʻlidan?",
   "tokens": [
     {
       "surface": "אנכי",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "Men"
+      "gloss": "Men oʻzim"
     },
     {
       "surface": "הוא",
-      "gloss": "oʻzimman"
+      "gloss": "Xudoyim"
     },
     {
       "surface": "מנחמכם",
-      "gloss": "sizlarni tasalli beruvchi"
+      "gloss": "sizlarni tasalliy beruvchilaringizman"
     },
     {
       "surface": "מי",
@@ -29,8 +29,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "sen (qoʻrqoq)"
+      "gloss": "sen"
     },
     {
       "surface": "ותיראי",
@@ -46,7 +45,7 @@
     },
     {
       "surface": "ומבן",
-      "gloss": "va oʻgʻlidan"
+      "gloss": "va ... oʻgʻlidan"
     },
     {
       "surface": "אדם",
@@ -54,13 +53,13 @@
     },
     {
       "surface": "חציר",
-      "gloss": "oʻtga"
+      "gloss": "oʻt kabi"
     },
     {
       "surface": "ינתן",
       "gloss": "beriladigan"
     }
   ],
-  "timestamp": "2026-08-26T04:31:08.145939842Z",
+  "timestamp": "2026-08-26T09:55:23.694568789Z",
   "model": "glm-5.3"
 }

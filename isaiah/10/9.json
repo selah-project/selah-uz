@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Kalno Karkemishday emasmi? Arpad Hamatday emasmi? Shomron Damashqday emasmi?",
+  "translation": "Kargamishga qarganday emasmi Kalno? Arpadga qarganday emasmi Xamat? Damashqqa qarganday emasmi Shomron?",
   "tokens": [
     {
       "surface": "הלא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ככרכמיש",
-      "gloss": "Karkemishday"
+      "gloss": "Kargamishga qarganday"
     },
     {
       "surface": "כלנו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "<em>—<\/em>"
+      "gloss": "mi"
     },
     {
       "surface": "לא",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "כארפד",
-      "gloss": "Arpadday"
+      "gloss": "Arpadga qarganday"
     },
     {
       "surface": "חמת",
-      "gloss": "Hamat"
+      "gloss": "Xamat"
     },
     {
       "surface": "אם",
-      "gloss": "<em>—<\/em>"
+      "gloss": "mi"
     },
     {
       "surface": "לא",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "כדמשק",
-      "gloss": "Damashqday"
+      "gloss": "Damashqqa qarganday"
     },
     {
       "surface": "שמרון",
       "gloss": "Shomron"
     }
   ],
-  "timestamp": "2026-08-26T04:10:42.679420552Z",
+  "timestamp": "2026-08-26T09:54:57.505027351Z",
   "model": "glm-5.3"
 }

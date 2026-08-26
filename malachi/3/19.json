@@ -5,11 +5,11 @@
   "book": "malachi",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Ki mana, ⟨the⟩ kun kelmoqda, tandir kabi yonib, va boʻladilar barcha magʻrurlar va barcha yovuzlik qiluvchi somon, va yondiradi ⟨את⟩ ularni ⟨the⟩ kelgan kun, degan Yahve Tsevaot, ki qoldirmaydi ularga ildiz va shox.",
+  "translation": "Chunki mana, kun kelmoqda, tandirdek yonib, va barcha magʻrurlar va yovillik qiluvchining hammasi soman boʻladi, va keladigan kunda ularni yoqib yuboradi, deb aytdi Yahve Tsevaot — ularga ildiz ham, shox ham qoldirmaydi.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Ki"
+      "gloss": "chunki"
     },
     {
       "surface": "הנה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "כתנור",
-      "gloss": "tandir kabi"
+      "gloss": "tandirdek"
     },
     {
       "surface": "והיו",
-      "gloss": "va boʻladilar"
+      "gloss": "va boʻladi"
     },
     {
       "surface": "כל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "va barcha"
+      "gloss": "va ... hammasi"
     },
     {
       "surface": "עשה",
@@ -53,32 +53,32 @@
     },
     {
       "surface": "רשעה",
-      "gloss": "yovuzlik"
+      "gloss": "yovillik"
     },
     {
       "surface": "קש",
-      "gloss": "somon"
+      "gloss": "soma"
     },
     {
       "surface": "ולהט",
-      "gloss": "va yondiradi"
+      "gloss": "va yoqib yuboradi"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ularni (magʻrurlar va yovuzlik qiluvchilarni)"
+      "marks": "ularni"
     },
     {
       "surface": "היום",
-      "gloss": "kun"
+      "gloss": "kunda"
     },
     {
       "surface": "הבא",
-      "gloss": "kelgan"
+      "gloss": "keladigan"
     },
     {
       "surface": "אמר",
-      "gloss": "degan"
+      "gloss": "aytdi"
     },
     {
       "surface": "יהוה",
@@ -90,11 +90,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "לא",
-      "gloss": "…mas"
+      "gloss": "yoʻq"
     },
     {
       "surface": "יעזב",
@@ -113,6 +113,6 @@
       "gloss": "va shox"
     }
   ],
-  "timestamp": "2026-08-26T05:58:09.468412371Z",
+  "timestamp": "2026-08-26T09:59:51.637304727Z",
   "model": "glm-5.3"
 }

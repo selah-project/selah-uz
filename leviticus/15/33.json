@@ -5,48 +5,48 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Va to kisaligi davridagi ⟨the⟩ ayol haqida — nida va oqibatiga ⟨את⟩ tagʻon haqida, erkakka ham, ayolga ham, va to kasbi ⟨who⟩ pokiza emas bilan yotgan odam haqida.",
+  "translation": "Va ⟨oʻ⟩ odat koʻrgan ayol — nidasi davomida, va zaʼif ⟨את⟩ oqizini toʻkayotgan — erkakka ham, ayolga ham, va ⟨oʻ⟩ odamga, ⟨kimki⟩ toki pokiza emas bilan yotsa.",
   "tokens": [
     {
       "surface": "והדוה",
-      "gloss": "Va to ... haqida ⟨the⟩ ayol"
+      "gloss": "Va ⟨oʻ⟩ odat koʻrgan ayol"
     },
     {
       "surface": "בנדתה",
-      "gloss": "o'z nidasida"
+      "gloss": "nidasida"
     },
     {
       "surface": "והזב",
-      "gloss": "Va to zovli kishi haqida ⟨the⟩ oqibchi"
+      "gloss": "va zaʼif"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tag'on oqibatiga"
+      "marks": "oqizini"
     },
     {
       "surface": "זובו",
-      "gloss": "o'z tag'oniga"
+      "gloss": "oqizi"
     },
     {
       "surface": "לזכר",
-      "gloss": "erkakka ham"
+      "gloss": "erkakka"
     },
     {
       "surface": "ולנקבה",
-      "gloss": "ayolga ham"
+      "gloss": "va ayolga"
     },
     {
       "surface": "ולאיש",
-      "gloss": "Va to odam haqida ⟨the⟩ bir kishi"
+      "gloss": "va ⟨oʻ⟩ odamga"
     },
     {
       "surface": "אשר",
-      "gloss": "kimki"
+      "gloss": "⟨kimki⟩ toki"
     },
     {
       "surface": "ישכב",
-      "gloss": "yotadi"
+      "gloss": "yotsa"
     },
     {
       "surface": "עם",
@@ -54,9 +54,9 @@
     },
     {
       "surface": "טמאה",
-      "gloss": "to'qizinchi"
+      "gloss": "pokiza emas"
     }
   ],
-  "timestamp": "2026-08-26T01:16:54.487004214Z",
+  "timestamp": "2026-08-26T10:06:33.637129444Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Va u menga aytdi: Odam oʻgʻli, koʻzingni endi shimol tomoniga koʻtar; va men koʻzlarimni shimol tomoniga koʻtardim va mana shimolda, qurbongoh eshigining ⟨the⟩ yonida hasad ⟨the⟩ sanami bor edi, kirish joyida.",
+  "translation": "Va u menga aytdi: Odam oʻgʻli, koʻzingni endi shimol tomonga koʻtar. Men koʻzlarimni shimol tomonga koʻtardim va mana, shimolda, mehrobdarvozasi yonida hasad sanami — kiraverishdagi bu ⟨belgi⟩ ⟨bor edi⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "va aytdi"
+      "gloss": "Va u menga aytdi"
     },
     {
       "surface": "אלי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אדם",
-      "gloss": "odam"
+      "gloss": "Odam"
     },
     {
       "surface": "שא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "דרך",
-      "gloss": "tomoniga"
+      "gloss": "tomon"
     },
     {
       "surface": "צפונה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "ואשא",
-      "gloss": "va koʻtardim"
+      "gloss": "Men koʻtardim"
     },
     {
       "surface": "עיני",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "דרך",
-      "gloss": "tomoniga"
+      "gloss": "tomon"
     },
     {
       "surface": "צפונה",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "לשער",
-      "gloss": "eshigining yonida"
+      "gloss": "darvozasi yonida"
     },
     {
       "surface": "המזבח",
-      "gloss": "qurbongoh"
+      "gloss": "mehrob"
     },
     {
       "surface": "סמל",
@@ -89,9 +89,9 @@
     },
     {
       "surface": "בבאה",
-      "gloss": "kirish joyida"
+      "gloss": "kiraverishda"
     }
   ],
-  "timestamp": "2026-08-26T05:11:11.757021272Z",
+  "timestamp": "2026-08-26T09:56:56.357859330Z",
   "model": "glm-5.3"
 }

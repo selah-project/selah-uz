@@ -5,8 +5,41 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Aql-ida-tadbir bor kishining lablarida donolik topiladi, va tayoq ⟨⟨yoki⟩⟩ tushkun yuraklilarning orqasiga ⟨⟩ topiladi.",
-  "tokens": [],
-  "timestamp": "2026-08-26T06:43:08.731828370Z",
+  "translation": "Aql-eganning lablarida donishmandlik topiladi, ammo tayoq — qalbi yetmayotganning orqasi uchun.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "lablarida"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "aql-eganning"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "topiladi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "donishmandlik"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ammo tayoq"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "orqasi uchun"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "yetmayotgan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "qalbi"
+    }
+  ],
+  "timestamp": "2026-08-26T10:01:45.553147476Z",
   "model": "glm-5.3"
 }

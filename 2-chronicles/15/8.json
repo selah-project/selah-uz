@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Va Asa bu soʻzlarni va nabi Odedning ⟨the⟩ vahiyini eshitgach, kuchlandi va Yahud va Binyamin butun yeridan va Efrayim togʻidan olgan shaharlaridan igʻvohlarni olib tashladi va Yahve ⟨the⟩ mehrobini ― Yahve ⟨the⟩ ulami oldidagi ⟨mevhrobni⟩ ― yangiladi.",
+  "translation": "Va Asa bu soʻzlarni va nabi Odedning bashoratini eshitgach, qudratlandi va yovon narsalarni butun Yehuda va Binyamin yeridan va Efrayim togʻidan olgan shaharlardan olib tashladi, va Yahvening ⟨את⟩ mehrobini — Yahve ayvonining oldidadir — yangiladi.",
   "tokens": [
     {
       "surface": "וכשמע",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "bu soʻzlarni"
+      "gloss": "soʻzlarni"
     },
     {
       "surface": "האלה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "והנבואה",
-      "gloss": "va … vahiyini"
+      "gloss": "va bashoratini"
     },
     {
       "surface": "עדד",
-      "gloss": "Oded"
+      "gloss": "Odedning"
     },
     {
       "surface": "הנביא",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "התחזק",
-      "gloss": "kuchlandi"
+      "gloss": "qudratlandi"
     },
     {
       "surface": "ויעבר",
-      "gloss": "olib tashladi"
+      "gloss": "va olib tashladi"
     },
     {
       "surface": "השקוצים",
-      "gloss": "igʻvohlarni"
+      "gloss": "yovon narsalarni"
     },
     {
       "surface": "מכל",
-      "gloss": "butun … dan"
+      "gloss": "butun"
     },
     {
       "surface": "ארץ",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yahud"
+      "gloss": "Yehuda"
     },
     {
       "surface": "ובנימן",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "ומן",
-      "gloss": "va … dan"
+      "gloss": "va ... dan"
     },
     {
       "surface": "הערים",
-      "gloss": "shaharlaridan"
+      "gloss": "shaharlardan"
     },
     {
       "surface": "אשר",
@@ -94,11 +94,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahve mehrobi"
+      "marks": "mehrob"
     },
     {
       "surface": "מזבח",
-      "gloss": "mehrobni"
+      "gloss": "Yahvening mehrobini"
     },
     {
       "surface": "יהוה",
@@ -110,17 +110,17 @@
     },
     {
       "surface": "לפני",
-      "gloss": "oldidagi"
+      "gloss": "oldidadir"
     },
     {
       "surface": "אולם",
-      "gloss": "ulami"
+      "gloss": "ayvoni"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-26T08:52:14.890392781Z",
+  "timestamp": "2026-08-26T10:25:11.134378624Z",
   "model": "glm-5.3"
 }

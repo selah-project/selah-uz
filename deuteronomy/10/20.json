@@ -5,50 +5,51 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Yahve, Elohimingizdan qoʻrqing, ⟨את⟩ Unga xizmat qiling va Ungа yopishing, va Uning Ismi bilan qasam iching.",
+  "translation": "Yahve, Elohimingdan qoʻrqishing kerak, ⟨את⟩ Unga xizmat qilishing, Unga yopishib olishing va Uning Ismi bilan qasam ichishing kerak.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahve, Elohimingizdan"
+      "marks": "Yahve"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָ֧ה",
       "gloss": "Yahve"
     },
     {
-      "surface": "אלהיך",
-      "gloss": "Elohimingiz"
+      "surface": "אֱלֹהֶ֛יךָ",
+      "gloss": "Elohiming"
     },
     {
-      "surface": "תירא",
-      "gloss": "qoʻrqing"
+      "surface": "תִּירָ֖א",
+      "gloss": "qoʻrqishing kerak"
     },
     {
-      "surface": "אתו",
-      "gloss": "⟨את⟩ Uni"
+      "surface": "אֹת֣וֹ",
+      "gloss": "⟨את⟩ Unga",
+      "marks": "xizmat qilishing"
     },
     {
-      "surface": "תעבד",
-      "gloss": "xizmat qiling"
+      "surface": "תַעֲבֹ֑ד",
+      "gloss": "xizmat qilishing"
     },
     {
-      "surface": "ובו",
+      "surface": "וּב֣וֹ",
       "gloss": "va Unga"
     },
     {
-      "surface": "תדבק",
-      "gloss": "yopishing"
+      "surface": "תִדְבָּ֔ק",
+      "gloss": "yopishib olishing"
     },
     {
-      "surface": "ובשמו",
+      "surface": "וּבִשְׁמ֖וֹ",
       "gloss": "va Uning Ismi bilan"
     },
     {
-      "surface": "תשבע",
-      "gloss": "qasam iching"
+      "surface": "תִּשָּׁבֵֽעַ",
+      "gloss": "qasam ichishing kerak"
     }
   ],
-  "timestamp": "2026-08-26T01:53:29.051497897Z",
+  "timestamp": "2026-08-26T09:50:07.000777483Z",
   "model": "glm-5.3"
 }

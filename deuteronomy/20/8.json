@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va shotarlar xalqga yana gapirishga qo'shsinlar va ayturlar: kim ⟨the⟩ odam — qo'rquvchi va yumshoq qalbli? borsin va uyiga qaytsin; va aka-ukalarning qalbini ⟨את⟩ uning qalbidek eritmasin.",
+  "translation": "Va soʻtrilar yana xalqga gapirishda davom etdilar va aytdilar: Kim odam qoʻrquvchi va yuragi yumshoq boʻlsa — ketsin va uyiga qaytsin, va aka-ukalarining yuragi uning yuragidek erib ketmasin.",
   "tokens": [
     {
       "surface": "ויספו",
-      "gloss": "va qo'shsinlar"
+      "gloss": "va davom etdilar"
     },
     {
       "surface": "השטרים",
-      "gloss": "shotarlar"
+      "gloss": "soʻtrilar"
     },
     {
       "surface": "לדבר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "…ga"
+      "gloss": "ga"
     },
     {
       "surface": "העם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ואמרו",
-      "gloss": "va ayturlar"
+      "gloss": "va aytdilar"
     },
     {
       "surface": "מי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הירא",
-      "gloss": "qo'rquvchi"
+      "gloss": "qoʻrquvchi"
     },
     {
       "surface": "ורך",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "הלבב",
-      "gloss": "qalbli"
+      "gloss": "yurakli"
     },
     {
       "surface": "ילך",
-      "gloss": "borsin"
+      "gloss": "ketsin"
     },
     {
       "surface": "וישב",
@@ -65,30 +65,30 @@
     },
     {
       "surface": "ולא",
-      "gloss": "va …masin"
+      "gloss": "va ... emas"
     },
     {
       "surface": "ימס",
-      "gloss": "eritin"
+      "gloss": "erib ketsin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qalbini"
+      "marks": "aka-ukalarining yuragi"
     },
     {
       "surface": "לבב",
-      "gloss": "qalb"
+      "gloss": "yurak"
     },
     {
       "surface": "אחיו",
-      "gloss": "aka-ukalarning"
+      "gloss": "uning aka-ukalari"
     },
     {
       "surface": "כלבבו",
-      "gloss": "uning qalbidek"
+      "gloss": "uning yuragidek"
     }
   ],
-  "timestamp": "2026-08-26T02:00:05.985407588Z",
+  "timestamp": "2026-08-26T09:50:39.080720052Z",
   "model": "glm-5.3"
 }

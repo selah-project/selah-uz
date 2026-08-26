@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Va kelasan kohinlarga, ⟨the⟩ levilarga, va oʻsha kunlarda boʻladigan sudya huzuriga, va soʻrab koʻrasan, va senga ⟨את⟩ hukm soʻzini aytib beradilar.",
+  "translation": "Va kelasan kohin Levilar huzuriga va oʻsha kunlarda boʻladigan hakimning huzuriga, va soʻraysan, va senga ⟨את⟩ hukm soʻzini eʼlon qiladilar;",
   "tokens": [
     {
       "surface": "ובאת",
@@ -17,19 +17,19 @@
     },
     {
       "surface": "הכהנים",
-      "gloss": "kohinlar"
+      "gloss": "kohin"
     },
     {
       "surface": "הלוים",
-      "gloss": "levilar"
+      "gloss": "Levilar"
     },
     {
       "surface": "ואל",
-      "gloss": "va huzuriga"
+      "gloss": "va ... huzuriga"
     },
     {
       "surface": "השפט",
-      "gloss": "sudya"
+      "gloss": "hakim"
     },
     {
       "surface": "אשר",
@@ -49,30 +49,30 @@
     },
     {
       "surface": "ודרשת",
-      "gloss": "va soʻrab koʻrasan"
+      "gloss": "va soʻraysan"
     },
     {
       "surface": "והגידו",
-      "gloss": "va aytib beradilar"
+      "gloss": "va eʼlon qiladilar"
     },
     {
       "surface": "לך",
-      "gloss": "senga"
+      "gloss": "sanga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hukm soʻzini"
+      "marks": "hukm soʻzi"
     },
     {
       "surface": "דבר",
-      "gloss": "soʻzini"
+      "gloss": "soʻz"
     },
     {
       "surface": "המשפט",
       "gloss": "hukm"
     }
   ],
-  "timestamp": "2026-08-26T01:58:15.593633156Z",
+  "timestamp": "2026-08-26T09:50:23.149255536Z",
   "model": "glm-5.3"
 }

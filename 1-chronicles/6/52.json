@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Ulargа ⟨את⟩ panoq shaharlaridan — ⟨את⟩ Shekxemni va uning atrofidagi yaylovini Efrayim togʻida, va ⟨את⟩ Gezerni va uning atrofidagi yaylovini berdilar.",
+  "translation": "Va ularga panoh shaharlarini berdilar: ⟨את⟩ Shekemni va ⟨את⟩ uning choralarini Efrayim togʻida, va ⟨את⟩ Gezerni va ⟨את⟩ uning choralarini.",
   "tokens": [
     {
       "surface": "ויתנו",
@@ -18,33 +18,33 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "panoq shaharlaridan"
+      "marks": "panoh shaharlarini"
     },
     {
       "surface": "ערי",
-      "gloss": "shaharlaridan"
+      "gloss": "shaharlari"
     },
     {
       "surface": "המקלט",
-      "gloss": "panoq"
+      "gloss": "panoh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shekxemni"
+      "marks": "Shekemni"
     },
     {
       "surface": "שכם",
-      "gloss": "Shekxemni"
+      "gloss": "Shekem"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "uning atrofidagi yaylovini"
+      "marks": "uning choralarini"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "uning atrofidagi yaylovini"
+      "gloss": "uning chorasi"
     },
     {
       "surface": "בהר",
@@ -55,24 +55,24 @@
       "gloss": "Efrayim"
     },
     {
-      "surface": "ו את",
+      "surface": "ואת",
       "gloss": "va ⟨את⟩",
       "marks": "Gezerni"
     },
     {
       "surface": "גזר",
-      "gloss": "Gezerni"
+      "gloss": "Gezer"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "uning atrofidagi yaylovini"
+      "marks": "uning choralarini"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "uning atrofidagi yaylovini"
+      "gloss": "uning chorasi"
     }
   ],
-  "timestamp": "2026-08-26T07:55:50.703841374Z",
+  "timestamp": "2026-08-26T10:04:37.941140294Z",
   "model": "glm-5.3"
 }

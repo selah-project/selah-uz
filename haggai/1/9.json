@@ -5,19 +5,19 @@
   "book": "haggai",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Siz koʻpга boqdingiz — va mana, ⟨u boʻldi⟩ ozgina; va siz uni uyga keltirdingiz, va Men unga puf­ladim. Nega? — degan Yahve Tsevaot. Chunki Mening uyim xarob, va siz yuguryapsiz — har biri oʻz uyiga.",
+  "translation": "Koʻp umid qilib qaradingiz, va mana ⟨u⟩ oz boʻldi; va uni uyga keltirganda, Men unga pufladim. Nega? — Yahve Sebaotning neʼmi ⟨aytadi⟩. Chunki Mening uyim xaroba yotibdi, va sizlar esa har biri oʻz uyiga yugurmoqdasizlar.",
   "tokens": [
     {
       "surface": "פנה",
-      "gloss": "boqdingiz"
+      "gloss": "qaradingiz"
     },
     {
       "surface": "אל",
-      "gloss": "⟨ni⟩"
+      "gloss": "—"
     },
     {
       "surface": "הרבה",
-      "gloss": "koʻpga"
+      "gloss": "koʻp"
     },
     {
       "surface": "והנה",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "למעט",
-      "gloss": "ozgina"
+      "gloss": "oz"
     },
     {
       "surface": "והבאתם",
-      "gloss": "va keltirdingiz"
+      "gloss": "va keltirganda"
     },
     {
       "surface": "הבית",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "יען",
-      "gloss": "chunki"
-    },
-    {
-      "surface": "מה",
       "gloss": "nega"
     },
     {
+      "surface": "מה",
+      "gloss": "—"
+    },
+    {
       "surface": "נאם",
-      "gloss": "degan"
+      "gloss": "neʼmi ⟨aytadi⟩"
     },
     {
       "surface": "יהוה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "Sebaot"
     },
     {
       "surface": "יען",
@@ -73,23 +73,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "הוא",
-      "gloss": "u"
+      "gloss": "⟨u⟩"
     },
     {
       "surface": "חרב",
-      "gloss": "xarob"
+      "gloss": "xaroba yotibdi"
     },
     {
       "surface": "ואתם",
-      "gloss": "va siz"
+      "gloss": "va sizlar"
     },
     {
       "surface": "רצים",
-      "gloss": "yuguryapsiz"
+      "gloss": "yugurmoqdasizlar"
     },
     {
       "surface": "איש",
@@ -100,6 +100,6 @@
       "gloss": "oʻz uyiga"
     }
   ],
-  "timestamp": "2026-08-26T05:51:23.061370975Z",
+  "timestamp": "2026-08-26T09:58:44.515338632Z",
   "model": "glm-5.3"
 }

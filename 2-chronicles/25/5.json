@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va Amatsyahu Yehudani ⟨את⟩ jamlad va ularni otalar uyiga qarab ming boshliqlari va yuz boshliqlari oldida turғizdi, butun Yehuda va Binyamin uchun, va ularni yigirmiz yoshdan oshgan oʻgʻillardan sanadi, va ularning orasida uch yuz ming tanlangan jangchi, qoʻshinga chiquvchi, nayza va qalqon ushlovchini topdi.",
+  "translation": "Va Amatsyahu Yehudani ⟨את⟩ yigʻdi va ularni otalar uylari boʻyicha — minglik boshliqlari va yuzlik boshliqlari uchun — butun Yehuda va Binyaminda joylashtirdi; ularni yigirma yoshdan yuqorilar qatorida sanadi va ulardan uch yuz ming tanlangan yigitni — qoʻshinga chiqadigan, nayza va qalqon ushlaydiganlarni — topdi.",
   "tokens": [
     {
       "surface": "ויקבץ",
-      "gloss": "jamlad"
+      "gloss": "yigʻdi"
     },
     {
       "surface": "אמציהו",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "ויעמידם",
-      "gloss": "ularni turғizdi"
+      "gloss": "joylashtirdi"
     },
     {
       "surface": "לבית",
-      "gloss": "uyiga"
+      "gloss": "uy boʻyicha"
     },
     {
       "surface": "אבות",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "האלפים",
-      "gloss": "ming"
+      "gloss": "mingliklar"
     },
     {
       "surface": "ולשרי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "המאות",
-      "gloss": "yuz"
+      "gloss": "yuzliklar"
     },
     {
       "surface": "לכל",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ויפקדם",
-      "gloss": "ularni sanadi"
+      "gloss": "sanadi"
     },
     {
       "surface": "למבן",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "וימצאם",
-      "gloss": "ularni topdi"
+      "gloss": "topdi"
     },
     {
       "surface": "שלש",
@@ -102,11 +102,11 @@
     },
     {
       "surface": "בחור",
-      "gloss": "tanlangan"
+      "gloss": "tanlangan yigit"
     },
     {
       "surface": "יוצא",
-      "gloss": "chiquvchi"
+      "gloss": "chiqadigan"
     },
     {
       "surface": "צבא",
@@ -114,7 +114,7 @@
     },
     {
       "surface": "אחז",
-      "gloss": "ushlovchi"
+      "gloss": "ushlaydigan"
     },
     {
       "surface": "רמח",
@@ -125,6 +125,6 @@
       "gloss": "va qalqon"
     }
   ],
-  "timestamp": "2026-08-26T08:12:24.369132334Z",
+  "timestamp": "2026-08-26T10:05:56.237292621Z",
   "model": "glm-5.3"
 }

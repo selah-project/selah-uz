@@ -5,11 +5,11 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va Baal ustunini ⟨את⟩ buzib tashladilar, va Baal uyini ⟨את⟩ buzib tashladilar, va uni najasxonaga aylantirdilar shu kungacha.",
+  "translation": "Va ular ⟨את⟩ Baal ustunini buzib tashladilar, va ⟨את⟩ Baal uyini buzdilar, va uni hojatxona qilib qoʻydilar — shu kungacha.",
   "tokens": [
     {
       "surface": "ויתצו",
-      "gloss": "va buzib tashladilar"
+      "gloss": "buzib tashladilar"
     },
     {
       "surface": "את",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "מצבת",
-      "gloss": "ustunini"
+      "gloss": "ustun"
     },
     {
       "surface": "הבעל",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ויתצו",
-      "gloss": "va buzib tashladilar"
+      "gloss": "buzdilar"
     },
     {
       "surface": "את",
@@ -42,26 +42,22 @@
       "gloss": "Baal"
     },
     {
-      "surface": "הבעל",
-      "gloss": "Baal"
-    },
-    {
       "surface": "וישמהו",
-      "gloss": "va uni aylantirdilar"
+      "gloss": "qilib qoʻydilar"
     },
     {
       "surface": "למחראות",
-      "gloss": "najasxonaga"
+      "gloss": "hojatxona"
     },
     {
       "surface": "עד",
-      "gloss": "gacha"
+      "gloss": "-gacha"
     },
     {
       "surface": "היום",
       "gloss": "shu kun"
     }
   ],
-  "timestamp": "2026-08-26T03:52:32.618231150Z",
+  "timestamp": "2026-08-26T09:54:01.092253553Z",
   "model": "glm-5.3"
 }

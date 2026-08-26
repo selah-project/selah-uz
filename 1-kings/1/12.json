@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va endi bor, men senga maslahat beraman — iltijom bilan — maslahat: va ⟨את》 joningni va ⟨את⟩ oʻgʻling Shelomoning jonzotini qutqargil.",
+  "translation": "Va endi, kel, sen-⟨u-chun⟩ iltijo bilan maslahat beray, ⟨va⟩ ⟨את⟩ joningni va ⟨את⟩ oʻgʻling Shelomohning jonini qutqar",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "לכי",
-      "gloss": "bor"
+      "gloss": "kel"
     },
     {
       "surface": "איעצך",
-      "gloss": "senga maslahat beraman"
+      "gloss": "senga maslahat beray"
     },
     {
       "surface": "נא",
-      "gloss": "iltijom bilan"
+      "gloss": "iltijo bilan"
     },
     {
       "surface": "עצה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ומלטי",
-      "gloss": "va qutqargil"
+      "gloss": "va qutqar"
     },
     {
       "surface": "את",
@@ -38,16 +38,16 @@
     },
     {
       "surface": "נפשך",
-      "gloss": "joning"
+      "gloss": "joningni"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "oʻgʻling Shelomoning jonzoti"
+      "marks": "oʻgʻling Shelomohning joni"
     },
     {
       "surface": "נפש",
-      "gloss": "jonzot"
+      "gloss": "jonini"
     },
     {
       "surface": "בנך",
@@ -55,9 +55,9 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomoning"
+      "gloss": "Shelomoh"
     }
   ],
-  "timestamp": "2026-08-26T03:22:59.416980265Z",
+  "timestamp": "2026-08-26T09:53:13.769301629Z",
   "model": "glm-5.3"
 }

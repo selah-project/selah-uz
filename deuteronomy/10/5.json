@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va yuz oʻgirdim va togʻdan tushdim va ⟨את⟩ ⟨the⟩ lavhalarni sandiqqa qoʻydim — oʻshani men yasagan edim — va ular u yerda boʻldilar, Yahve menga buyurganidek.",
+  "translation": "Va yuz olib qaytdim va togʻdan tushdim va ⟨את⟩ lavhalarni oʻz qilgan sandiqqa qoʻydimgina, u yerda boʻlib qoldilar, Yahve buyurganidek.",
   "tokens": [
     {
       "surface": "ואפן",
-      "gloss": "yuz oʻgirdim"
+      "gloss": "yuz olib qaytdim"
     },
     {
       "surface": "וארד",
-      "gloss": "tushdim"
+      "gloss": "va tushdim"
     },
     {
       "surface": "מן",
-      "gloss": "-dan"
+      "gloss": "dan"
     },
     {
       "surface": "ההר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואשם",
-      "gloss": "qoʻydimgiz"
+      "gloss": "va qoʻydimgina"
     },
     {
       "surface": "את",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הלחת",
-      "gloss": "lavhalar"
+      "gloss": "lavhalarni"
     },
     {
       "surface": "בארון",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "עשיתי",
-      "gloss": "yasagan edim"
+      "gloss": "oʻz qilgan"
     },
     {
       "surface": "ויהיו",
-      "gloss": "boʻldilar"
+      "gloss": "boʻlib qoldilar"
     },
     {
       "surface": "שם",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "-dek"
+      "gloss": "…dek"
     },
     {
       "surface": "צוני",
-      "gloss": "menga buyurdi"
+      "gloss": "buyurgan"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-26T01:53:02.326948114Z",
+  "timestamp": "2026-08-26T09:49:43.009970603Z",
   "model": "glm-5.3"
 }

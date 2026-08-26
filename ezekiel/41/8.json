@@ -5,39 +5,39 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 41,
-  "translation": "Va men koʻrdim ⟨the⟩ uyning balandligini — atrofida atrofda; yon xonalar poydevorlarining toʻliq qamish oʻlchovi — olti tirsak, boʻgʻinga ⟨yetguncha⟩.",
+  "translation": "Va koʻrdim — uyni balandlikda atrofda aylana: yon xonalar asoslari — toʻla qamish ⟨oʻlchovi⟩, oltti tirsak, ⟨boʻgʻim ayrimligi⟩ bilan.",
   "tokens": [
     {
       "surface": "וראיתי",
-      "gloss": "va men koʻrdim"
+      "gloss": "va koʻrdim"
     },
     {
       "surface": "לבית",
-      "gloss": "⟨the⟩ uyning"
+      "gloss": "uyni"
     },
     {
       "surface": "גבה",
-      "gloss": "balandligini"
-    },
-    {
-      "surface": "סביב",
-      "gloss": "atrofida"
+      "gloss": "balandlikda"
     },
     {
       "surface": "סביב",
       "gloss": "atrofda"
     },
     {
+      "surface": "סביב",
+      "gloss": "aylana"
+    },
+    {
       "surface": "מיסדות",
-      "gloss": "poydevorlarining"
+      "gloss": "asoslari"
     },
     {
       "surface": "הצלעות",
-      "gloss": "yon xonalar"
+      "gloss": "yon xonalarning"
     },
     {
       "surface": "מלו",
-      "gloss": "toʻliq oʻlchovi"
+      "gloss": "toʻla"
     },
     {
       "surface": "הקנה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "שש",
-      "gloss": "olti"
+      "gloss": "oltti"
     },
     {
       "surface": "אמות",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "אצילה",
-      "gloss": "boʻgʻinga"
+      "gloss": "boʻgʻim ayrimligi"
     }
   ],
-  "timestamp": "2026-08-26T05:30:31.198237004Z",
+  "timestamp": "2026-08-26T09:58:05.207680382Z",
   "model": "glm-5.3"
 }

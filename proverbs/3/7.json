@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Koʻzlingda dono boʻlma; Yahvedan qoʻrq va yomonlikdan chekin.",
+  "translation": "Oʻz koʻzlaringda dono boʻlma; Yahvedan qoʻrq va yomonlikdan chekin.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "boʻlma"
+      "gloss": "olma (yoʻq)"
     },
     {
       "surface": "תהי",
@@ -21,7 +21,11 @@
     },
     {
       "surface": "בעיניך",
-      "gloss": "koʻzlingda"
+      "gloss": "oʻz koʻzlaringda"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "qoʻrq"
     },
     {
       "surface": "את",
@@ -30,11 +34,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "⟨את⟩ Yahve"
-    },
-    {
-      "surface": "ירא",
-      "gloss": "qoʻrq"
+      "gloss": "Yahve"
     },
     {
       "surface": "וסור",
@@ -45,6 +45,6 @@
       "gloss": "yomonlikdan"
     }
   ],
-  "timestamp": "2026-08-26T06:39:05.098128372Z",
+  "timestamp": "2026-08-26T10:01:38.526774890Z",
   "model": "glm-5.3"
 }

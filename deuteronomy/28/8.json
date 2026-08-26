@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Buyuradi Yahve ⟨את⟩ sening yoningda ⟨את⟩ ⟨the⟩ barakani omborlaringda va qoʻl uzatgan hamma narsangda, va barakalaydi seni ⟨the⟩ yerda, oʻshanda ki Yahve Elohiming beradi sanga.",
+  "translation": "Yahve ⟨את⟩ barokani sening ⟨את⟩ uzingda — omborlaringda va qoʻling uzatilgan har bir narsada buyuradi, va seni Yahve, Elohiming, senga berayotgan mamlakatda barokalaydi.",
   "tokens": [
     {
       "surface": "יצו",
-      "gloss": "Buyuradi"
+      "gloss": "buyuradi"
     },
     {
       "surface": "יהוה",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ sening yoningda"
+      "gloss": "sening ⟨את⟩ uzingda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "barakani"
+      "marks": "barokani"
     },
     {
       "surface": "הברכה",
-      "gloss": "barakani"
+      "gloss": "barokani"
     },
     {
       "surface": "באסמיך",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ובכל",
-      "gloss": "va hamma"
+      "gloss": "va ... har bir"
     },
     {
       "surface": "משלח",
-      "gloss": "qoʻl uzatgan"
+      "gloss": "uzatilgan"
     },
     {
       "surface": "ידך",
@@ -46,15 +46,15 @@
     },
     {
       "surface": "וברכך",
-      "gloss": "va barakalaydi seni"
+      "gloss": "va seni barokalaydi"
     },
     {
       "surface": "בארץ",
-      "gloss": "yerda"
+      "gloss": "mamlakatda"
     },
     {
       "surface": "אשר",
-      "gloss": "oʻshanda ki"
+      "gloss": "ki"
     },
     {
       "surface": "יהוה",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "נתן",
-      "gloss": "beradi"
+      "gloss": "berayotgan"
     },
     {
       "surface": "לך",
-      "gloss": "sanga"
+      "gloss": "senga"
     }
   ],
-  "timestamp": "2026-08-26T02:03:23.236770384Z",
+  "timestamp": "2026-08-26T10:22:10.686967922Z",
   "model": "glm-5.3"
 }

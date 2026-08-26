@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va endi ⟨את⟩ odamlarni beraveringlar — Belial oʻgʻillarini, Givaʼada boʻlganlarni — va ularni oʻldiramiz va yomonlikni Isroildan yoʻq qilamiz; Binjamin esa oʻz aka-ukalari — Isroil oʻgʻillari — ovozini eshitishga rozi boʻlmadi.",
+  "translation": "Va endi ⟨את⟩ oʻsha odamlarni — Belial oʻgʻillarini, Givada boʻlganlarni — topshiringlar, va biz ularni oʻldiramiz, va Isroildan yomonlikni yoʻq qilamiz. Lekin Binjamin aka-ukalari — Isroil oʻgʻillarining — ovozini tinglashga rozi boʻlmadi.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "תנו",
-      "gloss": "beraveringlar"
+      "gloss": "topshiringlar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "odamlarni"
+      "marks": "oʻsha odamlarni"
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨the⟩ odamlarni"
+      "gloss": "oʻsha odamlarni"
     },
     {
       "surface": "בני",
-      "gloss": "oʻgʻillari"
+      "gloss": "oʻgʻillarini"
     },
     {
       "surface": "בליעל",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "בגבעה",
-      "gloss": "Givaʼada"
+      "gloss": "Givada"
     },
     {
       "surface": "ונמיתם",
-      "gloss": "va ularni oʻldiramiz"
+      "gloss": "va biz ularni oʻldiramiz"
     },
     {
       "surface": "ונבערה",
-      "gloss": "va yoʻq qilamiz"
+      "gloss": "va biz yoʻq qilamiz"
     },
     {
       "surface": "רעה",
@@ -58,11 +58,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "va ... emas"
+      "gloss": "lekin ... emas"
     },
     {
       "surface": "אבו",
-      "gloss": "rozi boʻldi"
+      "gloss": "rozi boʻlmadi"
     },
     {
       "surface": "בנימן",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "לשמע",
-      "gloss": "eshitishga"
+      "gloss": "tinglashga"
     },
     {
       "surface": "בקול",
@@ -78,7 +78,7 @@
     },
     {
       "surface": "אחיהם",
-      "gloss": "oʻz aka-ukalarining"
+      "gloss": "aka-ukalari"
     },
     {
       "surface": "בני",
@@ -89,6 +89,6 @@
       "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T02:39:12.274466340Z",
+  "timestamp": "2026-08-26T09:52:12.515563356Z",
   "model": "glm-5.3"
 }

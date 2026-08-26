@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va Yahve ⟨את⟩ ⟨the⟩ farishtani — ⟨u⟩ men ichida soʻzlovchi — yaxshi soʻzlar, tasalli soʻzlari bilan javob berdi.",
+  "translation": "Va Yahve ⟨את⟩ farishtani — menga soʻzlayotgan farishtani — yaxshi soʻzlar bilan, tasalli beruvchi soʻzlar bilan javob berdi.",
   "tokens": [
     {
       "surface": "ויען",
@@ -18,19 +18,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ farishta"
+      "marks": "farishtani"
     },
     {
       "surface": "המלאך",
-      "gloss": "⟨the⟩ farishta"
+      "gloss": "farishtani"
     },
     {
       "surface": "הדבר",
-      "gloss": "soʻzlovchi"
+      "gloss": "soʻzlayotgan"
     },
     {
       "surface": "בי",
-      "gloss": "men ichida"
+      "gloss": "menga"
     },
     {
       "surface": "דברים",
@@ -49,6 +49,6 @@
       "gloss": "tasalli beruvchi"
     }
   ],
-  "timestamp": "2026-08-26T05:52:32.224625843Z",
+  "timestamp": "2026-08-26T09:58:56.606231779Z",
   "model": "glm-5.3"
 }

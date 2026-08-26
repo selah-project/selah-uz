@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va yaqinlashdingiz va togʻ ostida turdingiz, va togʻ — ⟨the⟩ oʻsha togʻ — olovda yonib, osmonlarning yuragigacha — qorongʻulik, bulut va zulmat",
+  "translation": "Va siz yaqinlashib, togʻ ostida turdingizlar; togʻ esa olov ichida, osmonlarning yuragigacha yonardi — zulmat, bulut va qalin tuman.",
   "tokens": [
     {
       "surface": "ותקרבון",
-      "gloss": "yaqinlashdingiz"
+      "gloss": "va siz yaqinlashdingizlar"
     },
     {
       "surface": "ותעמדון",
-      "gloss": "turdingiz"
+      "gloss": "va turdingizlar"
     },
     {
       "surface": "תחת",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "ההר",
-      "gloss": "togʻ"
+      "gloss": "⟨the⟩ togʻ"
     },
     {
       "surface": "וההר",
-      "gloss": "va togʻ — ⟨the⟩ oʻsha togʻ"
+      "gloss": "va togʻ"
     },
     {
       "surface": "בער",
-      "gloss": "yonib"
+      "gloss": "yonardi"
     },
     {
       "surface": "באש",
-      "gloss": "olovda"
+      "gloss": "olov ichida"
     },
     {
       "surface": "עד",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לב",
-      "gloss": "yuragigacha"
+      "gloss": "yuragi"
     },
     {
       "surface": "השמים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "חשך",
-      "gloss": "qorongʻulik"
+      "gloss": "zulmat"
     },
     {
       "surface": "ענן",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "וערפל",
-      "gloss": "va zulmat"
+      "gloss": "va qalin tuman"
     }
   ],
-  "timestamp": "2026-08-26T01:50:20.045162051Z",
+  "timestamp": "2026-08-26T10:21:50.941103706Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 31,
-  "translation": "Yolgʻondir ⟨⟨the⟩⟩ jozibadorlik va behudadir goʻzallik, ammo Yahvedan qoʻrqadigan ayol — u maqtaladi.",
+  "translation": "Yolgʻondir ⟨the⟩ jozibadorlik va ⟨the⟩ goʻzallik — abas; Yahvedan qoʻrqadigan ayol — u maqtalur.",
   "tokens": [
     {
       "surface": "שקר",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "החן",
-      "gloss": "jozibadorlik"
+      "gloss": "⟨the⟩ jozibadorlik"
     },
     {
       "surface": "והבל",
-      "gloss": "va behudadir"
+      "gloss": "va abas"
     },
     {
       "surface": "היפי",
-      "gloss": "goʻzallik"
+      "gloss": "⟨the⟩ goʻzallik"
     },
     {
       "surface": "אשה",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "תתהלל",
-      "gloss": "maqtaladi"
+      "gloss": "maqtalur"
     }
   ],
-  "timestamp": "2026-08-26T06:52:32.424413403Z",
+  "timestamp": "2026-08-26T10:24:15.906904401Z",
   "model": "glm-5.3"
 }

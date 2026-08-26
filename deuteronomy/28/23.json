@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Va osmonlaring, qaysi boshing ustida ⟨is⟩, mis boʻladi, va ⟨the⟩ yer, qaysi sening ostingda ⟨is⟩, temir boʻladi.",
+  "translation": "Osmonlaring boshing ustida mis boʻlib qoladi, sening ostingdagi yer esa temir boʻladi.",
   "tokens": [
     {
       "surface": "והיו",
-      "gloss": "Va boʻladi"
+      "gloss": "boʻlib qoladi"
     },
     {
       "surface": "שמיך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "qaysi"
+      "gloss": "ki"
     },
     {
       "surface": "על",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "והארץ",
-      "gloss": "va ⟨the⟩ yer"
+      "gloss": "va yer"
     },
     {
       "surface": "אשר",
-      "gloss": "qaysi"
+      "gloss": "ki"
     },
     {
       "surface": "תחתיך",
@@ -48,6 +48,6 @@
       "gloss": "temir"
     }
   ],
-  "timestamp": "2026-08-26T02:03:29.421284396Z",
+  "timestamp": "2026-08-26T09:50:40.948743063Z",
   "model": "glm-5.3"
 }

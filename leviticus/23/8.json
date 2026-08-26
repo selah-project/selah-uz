@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Va Yahvegа yetti kun davomida olovli qurbonlik keltirasizlar; yettinchi kunda muqaddas yigʻilish — barcha mehnat ishini qilmangiz.",
+  "translation": "Va Yahvegʻa olovli qurbonlik keltirasizlar — yetti kun; yettinchi kunda muqaddas yigʻilish ⟨bor⟩: har qanday xizmat ishini qilmaysizlar.",
   "tokens": [
     {
       "surface": "והקרבתם",
-      "gloss": "va keltirasizlar"
+      "gloss": "keltirasizlar"
     },
     {
       "surface": "אשה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahvegʻa"
     },
     {
       "surface": "שבעת",
@@ -45,25 +45,25 @@
     },
     {
       "surface": "כל",
-      "gloss": "barcha"
+      "gloss": "har qanday"
     },
     {
       "surface": "מלאכת",
-      "gloss": "mehnat"
-    },
-    {
-      "surface": "עבדה",
       "gloss": "ish"
     },
     {
+      "surface": "עבדה",
+      "gloss": "xizmat"
+    },
+    {
       "surface": "לא",
-      "gloss": "-ma"
+      "gloss": "yoʻq"
     },
     {
       "surface": "תעשו",
-      "gloss": "qilmangiz"
+      "gloss": "qilmaysizlar"
     }
   ],
-  "timestamp": "2026-08-26T01:20:49.850714366Z",
+  "timestamp": "2026-08-26T09:47:14.215097696Z",
   "model": "glm-5.3"
 }

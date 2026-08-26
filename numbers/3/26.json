@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 3,
-  "translation": "va hovli pardalari, va ⟨את⟩ hovli eshigining pardasini — u ⟨the⟩ maskan ustida va ⟨the⟩ qurbongoh atrofida — va ⟨את⟩ uning arqonlarini, uning barcha xizmati uchun.",
+  "translation": "Va hovlining pardalari, va ⟨את⟩ hovli ogʻzining pardasini — maskan va mizbeax yonida, atrofida — va ⟨את⟩ uning arqonlarini butun uning xizmati uchun.",
   "tokens": [
     {
       "surface": "וקלעי",
@@ -18,15 +18,15 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "hovli eshigining pardasini"
+      "marks": "hovli ogʻzining pardasi"
     },
     {
       "surface": "מסך",
-      "gloss": "parda"
+      "gloss": "pardasi"
     },
     {
       "surface": "פתח",
-      "gloss": "eshigi"
+      "gloss": "ogʻzi"
     },
     {
       "surface": "החצר",
@@ -34,23 +34,23 @@
     },
     {
       "surface": "אשר",
-      "gloss": "u"
+      "gloss": "—ki"
     },
     {
       "surface": "על",
-      "gloss": "ustida"
+      "gloss": "yonida"
     },
     {
       "surface": "המשכן",
-      "gloss": "⟨the⟩ maskan"
+      "gloss": "maskan"
     },
     {
       "surface": "ועל",
-      "gloss": "va ustida"
+      "gloss": "va … yonida"
     },
     {
       "surface": "המזבח",
-      "gloss": "⟨the⟩ qurbongoh"
+      "gloss": "mizbeax"
     },
     {
       "surface": "סביב",
@@ -59,7 +59,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "uning arqonlarini"
+      "marks": "uning arqonlari"
     },
     {
       "surface": "מיתריו",
@@ -67,13 +67,13 @@
     },
     {
       "surface": "לכל",
-      "gloss": "barcha"
+      "gloss": "butun"
     },
     {
       "surface": "עבדתו",
-      "gloss": "uning xizmati uchun"
+      "gloss": "uning xizmati"
     }
   ],
-  "timestamp": "2026-08-26T01:25:49.489308332Z",
+  "timestamp": "2026-08-26T09:48:00.993357449Z",
   "model": "glm-5.3"
 }

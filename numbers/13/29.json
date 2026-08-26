@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Amaleq ⟨⟨the⟩⟩ janub yerida yashaydi, va ⟨⟨the⟩⟩ Xit­tiy va ⟨⟨the⟩⟩ Yevusiy va ⟨⟨the⟩⟩ Emoriy togʻda yashaydi, va ⟨⟨the⟩⟩ Knaaniy dengiz boʻyida va Iordan sohilida yashaydi.",
+  "translation": "Amaleq ⟨⟨the⟩⟩ janub yerida yashaydi, va-xitthiy va-yevusiy va-emoriy togʻda yashaydi, va-kannaniy dengiz boʻyida va Yardon qirgʻogʻida yashaydi.",
   "tokens": [
     {
       "surface": "עמלק",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "והחתי",
-      "gloss": "va Xittiy"
+      "gloss": "va-xitthiy"
     },
     {
       "surface": "והיבוסי",
-      "gloss": "va Yevusiy"
+      "gloss": "va-yevusiy"
     },
     {
       "surface": "והאמרי",
-      "gloss": "va Emoriy"
+      "gloss": "va-emoriy"
     },
     {
       "surface": "יושב",
@@ -45,10 +45,10 @@
     },
     {
       "surface": "והכנעני",
-      "gloss": "va Knaaniy"
+      "gloss": "va-kannaniy"
     },
     {
-      "surface": "ישב",
+      "surface": "יושב",
       "gloss": "yashaydi"
     },
     {
@@ -61,17 +61,17 @@
     },
     {
       "surface": "ועל",
-      "gloss": "va boʻyida"
+      "gloss": "va qirgʻogʻida"
     },
     {
       "surface": "יד",
-      "gloss": "sohil"
+      "gloss": "yoningda"
     },
     {
       "surface": "הירדן",
-      "gloss": "Iordan"
+      "gloss": "Yardon"
     }
   ],
-  "timestamp": "2026-08-26T01:33:02.445898432Z",
+  "timestamp": "2026-08-26T10:21:38.437246306Z",
   "model": "glm-5.3"
 }

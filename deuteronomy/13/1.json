@@ -5,12 +5,12 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 13,
-  "translation": "⟨את⟩ butun ⟨the⟩ soʻzni ki Men sizlarga buyuraman — uni saqlang, qilish uchun; unga qoʻshmang va undan kamaytirmang.",
+  "translation": "⟨את⟩ butun soʻzni ki Men sizlarga buyuraman — ⟨את⟩ uni saqlanglar, bajarish uchun; unga qoʻshmanglar va undan kamaytirmanglar.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "butun soʻz"
+      "marks": "butun soʻzni"
     },
     {
       "surface": "כל",
@@ -18,7 +18,7 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "soʻz"
+      "gloss": "soʻzni"
     },
     {
       "surface": "אשר",
@@ -34,21 +34,19 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "sizlarni"
+      "gloss": "⟨את⟩ sizlarni"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "uni (butun soʻz)"
+      "gloss": "⟨את⟩ uni"
     },
     {
       "surface": "תשמרו",
-      "gloss": "saqlang"
+      "gloss": "saqlanglar"
     },
     {
       "surface": "לעשות",
-      "gloss": "qilish uchun"
+      "gloss": "bajarish uchun"
     },
     {
       "surface": "לא",
@@ -56,29 +54,25 @@
     },
     {
       "surface": "תסף",
-      "gloss": "qoʻshmang"
+      "gloss": "qoʻshmanglar"
     },
     {
       "surface": "עליו",
       "gloss": "unga"
     },
     {
-      "surface": "ו",
-      "gloss": "va"
-    },
-    {
-      "surface": "לא",
-      "gloss": "yoʻq"
+      "surface": "ולא",
+      "gloss": "va yoʻq"
     },
     {
       "surface": "תגרע",
-      "gloss": "kamaytirmang"
+      "gloss": "kamaytirmanglar"
     },
     {
       "surface": "ממנו",
       "gloss": "undan"
     }
   ],
-  "timestamp": "2026-08-26T01:56:12.422701969Z",
+  "timestamp": "2026-08-26T09:50:06.919352628Z",
   "model": "glm-5.3"
 }

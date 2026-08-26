@@ -5,16 +5,16 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Va u ⟨את⟩ ming va yuz kumushni onasiga qaytardi; va onasi dedi: «Men kumushni Yahvegа muqaddas qildim — muqaddasladim — qoʻlimdan oʻgʻlimga, oʻyib yasalgan haykal va quyma haykal qilish uchun; va endi men uni senga qaytaraman».",
+  "translation": "Va u ⟨את⟩ ming va ⟨את⟩ yuz kumushni onasiga qaytardi; onasi aytdi: Muqaddas qildim — men ⟨את⟩ kumushni Yahve uchun muqaddas qildim, qoʻlimdan oʻgʻlimga — oʻyib yasalgan but va quyib yasalgan but qilish uchun; va endi men uni senga qaytaraman.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "Va u qaytardi"
+      "gloss": "qaytardi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ming va yuz kumushni"
+      "marks": "ming va yuz kumush"
     },
     {
       "surface": "אלף",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "va dedi"
+      "gloss": "va aytdi"
     },
     {
       "surface": "אמו",
@@ -46,12 +46,12 @@
     },
     {
       "surface": "הקדשתי",
-      "gloss": "muqaddasladim"
+      "gloss": "muqaddas qildim"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kumushni"
+      "marks": "kumush"
     },
     {
       "surface": "הכסף",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahve uchun"
     },
     {
       "surface": "מידי",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "פסל",
-      "gloss": "oʻyib yasalgan haykal"
+      "gloss": "oʻyib yasalgan but"
     },
     {
       "surface": "ומסכה",
-      "gloss": "va quyma haykal"
+      "gloss": "va quyib yasalgan but"
     },
     {
       "surface": "ועתה",
@@ -94,6 +94,6 @@
       "gloss": "senga"
     }
   ],
-  "timestamp": "2026-08-26T02:36:54.735680279Z",
+  "timestamp": "2026-08-26T09:52:12.492736013Z",
   "model": "glm-5.3"
 }

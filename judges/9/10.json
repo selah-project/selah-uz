@@ -5,11 +5,11 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va daraxtlar anjir daraxtiga dedilar: kelsen, ⟨את⟩ — podshohlik qilsen bizning ustimizda.",
+  "translation": "Daraxtlar anjir daraxtiga aytdilar: Bor, ⟨את⟩ sen bizning ustimizda podshohlik qil.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "va dedilar"
+      "gloss": "aytdilar"
     },
     {
       "surface": "העצים",
@@ -21,12 +21,12 @@
     },
     {
       "surface": "לכי",
-      "gloss": "kel"
+      "gloss": "bor"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sen"
+      "marks": "podshohlik qil"
     },
     {
       "surface": "מלכי",
@@ -37,6 +37,6 @@
       "gloss": "bizning ustimizda"
     }
   ],
-  "timestamp": "2026-08-26T02:30:15.688178945Z",
+  "timestamp": "2026-08-26T10:22:47.487272194Z",
   "model": "glm-5.3"
 }

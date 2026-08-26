@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Va ⟨the⟩ shahar dalasini va ⟨את⟩ uning hovlilarini Kalav ben-Yefunnega berdilar.",
+  "translation": "Va ⟨את⟩ shahar dalasini va ⟨את⟩ uning hovlilarini Kalevga, Yefunne oʻgʻliga berdilar.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "shahar dalasi"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "va ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "uning hovlilari"
     },
     {
@@ -35,17 +35,17 @@
     },
     {
       "surface": "לכלב",
-      "gloss": "Kalavga"
+      "gloss": "Kalevga"
     },
     {
       "surface": "בן",
-      "gloss": "ben"
+      "gloss": "oʻgʻli"
     },
     {
       "surface": "יפנה",
       "gloss": "Yefunne"
     }
   ],
-  "timestamp": "2026-08-26T07:55:56.075834931Z",
+  "timestamp": "2026-08-26T10:04:19.264291446Z",
   "model": "glm-5.3"
 }

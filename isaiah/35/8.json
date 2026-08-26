@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 35,
-  "translation": "Va boʻladiki, u yerda oʻtov yoʻl va ⟨the⟩ yoʻl boʻladi; va muqaddas yoʻl deb nomlanadi u; nopok uni bosib oʻtmaydi, va u ularga ⟨ajratilgan⟩ — yoʻlda yuruvchilar ⟨uchun⟩; va ahmoqlar ham unda adashmaydi.",
+  "translation": "Va boʻladi u yerda shosil yoʻl va yoʻl; u Muqaddas Yoʻl deb nomlanadi; nopok uni ustidan oʻtmaydi — u ularga ⟨tugal⟩: yoʻlda yuruvchilar, hatto ahmoqlar ham adashmaydi.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "va boʻladiki"
+      "gloss": "Va boʻladi"
     },
     {
       "surface": "שם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מסלול",
-      "gloss": "oʻtov yoʻl"
+      "gloss": "shosil yoʻl"
     },
     {
       "surface": "ודרך",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הקדש",
-      "gloss": "muqaddaslikning"
+      "gloss": "Muqaddas"
     },
     {
       "surface": "יקרא",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "יעברנו",
-      "gloss": "oʻtadi uni"
+      "gloss": "oʻtmaydi"
     },
     {
       "surface": "טמא",
@@ -77,9 +77,9 @@
     },
     {
       "surface": "יתעו",
-      "gloss": "adashadilar"
+      "gloss": "adashmaydi"
     }
   ],
-  "timestamp": "2026-08-26T08:35:43.243991057Z",
+  "timestamp": "2026-08-26T09:55:42.911955670Z",
   "model": "glm-5.3"
 }

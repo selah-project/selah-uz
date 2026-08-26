@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 29,
-  "translation": "Bir takа echkini — gunoh qurbonligi sifatida; kafarot gunoh qurbonligidan, doimiy olloh-qurbonligidan, uning un-qurbonligidan va ularning suyuq qurbonliklaridan boshqa.",
+  "translation": "Bitta echki takasi, gunoh qurbonligi sifatida — kafforat gunoh qurbonligidan ⟨את⟩ tashqari, doimiy yoqilgan qurbonlik va uning non-qurbonligi hamda ularning ichimlik qurbonliklari ⟨bilan⟩.",
   "tokens": [
     {
       "surface": "שעיר",
-      "gloss": "tukli echki (taka)"
+      "gloss": "takasi"
     },
     {
       "surface": "עזים",
-      "gloss": "echkilardan"
+      "gloss": "echki"
     },
     {
       "surface": "אחד",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "מלבד",
-      "gloss": "…dan boshqa"
+      "gloss": "tashqari"
     },
     {
       "surface": "חטאת",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "הכפרים",
-      "gloss": "kafarotlarning"
+      "gloss": "kafforat"
     },
     {
       "surface": "ועלת",
-      "gloss": "va olloh-qurbonligi"
+      "gloss": "va yoqilgan qurbonlik"
     },
     {
       "surface": "התמיד",
@@ -45,13 +45,13 @@
     },
     {
       "surface": "ומנחתה",
-      "gloss": "va uning un-qurbonligi"
+      "gloss": "va uning non-qurbonligi"
     },
     {
       "surface": "ונסכיהם",
-      "gloss": "va ularning suyuq qurbonliklari"
+      "gloss": "va ularning ichimlik qurbonliklari"
     }
   ],
-  "timestamp": "2026-08-26T01:42:09.594405708Z",
+  "timestamp": "2026-08-26T10:21:45.058606451Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 34,
-  "translation": "Va ularga aytdi: „Bu ishni — opamizni sunnat boʻlmagan erkakka berishga qodir emasmiz, chunki bu bizga sharmandalik ⟨is⟩.“",
+  "translation": "Va ularga aytishdi: bu ishni qila olmaymiz — singlimizni ⟨את⟩ odati sunnatilmagan odamga berishga, chunki bu biz uchun sharmandalikdir.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "va aytdi"
+      "gloss": "aytishdi"
     },
     {
       "surface": "אליהם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נוכל",
-      "gloss": "qodir emasmiz"
+      "gloss": "qila olmaymiz"
     },
     {
       "surface": "לעשות",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הזה",
-      "gloss": "shuni"
+      "gloss": "shu"
     },
     {
       "surface": "לתת",
@@ -42,19 +42,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "opamiz"
+      "marks": "singlimizni"
     },
     {
       "surface": "אחתנו",
-      "gloss": "opamiz"
+      "gloss": "singlimizni"
     },
     {
       "surface": "לאיש",
-      "gloss": "erkakka"
+      "gloss": "odamga"
     },
     {
       "surface": "אשר",
-      "gloss": "kim"
+      "gloss": "kimki"
     },
     {
       "surface": "לו",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "ערלה",
-      "gloss": "sunnat boʻlmagan"
+      "gloss": "odati sunnatilmagan"
     },
     {
       "surface": "כי",
@@ -78,9 +78,9 @@
     },
     {
       "surface": "לנו",
-      "gloss": "bizga"
+      "gloss": "biz uchun"
     }
   ],
-  "timestamp": "2026-08-26T00:42:11.730941091Z",
+  "timestamp": "2026-08-26T09:44:22.623929671Z",
   "model": "glm-5.3"
 }

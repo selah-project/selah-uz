@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Bu ishdan keyin Yarovam oʻz yomon yoʻlidan qaytmadi, balki yana qaytdi va xalq chekkalaridan balandliklar kohinlarini qildi; xohlagan kishi ⟨את⟩ qoʻlini toʻldirar (tayinlanar) edi va u balandliklar kohinlaridan boʻlur edi.",
+  "translation": "Bu ishdan keyin Yarovam oʻzining yomon yoʻlidan qaytmadi, balki yana qaytdi va xalqning chekka-qurshovidan baland joylar kohinlarini qildi; xohlagan kishi — qoʻlini toʻldirardi ⟨את⟩, va baland joylar kohinlaridan boʻlardi.",
   "tokens": [
     {
       "surface": "אחר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "...-mа"
+      "gloss": "...-madi"
     },
     {
       "surface": "שב",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "מדרכו",
-      "gloss": "oʻz yoʻlidan"
+      "gloss": "oʻzining yoʻlidan"
     },
     {
       "surface": "הרעה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "וישב",
-      "gloss": "balki yana qaytdi"
+      "gloss": "qaytdi"
     },
     {
       "surface": "ויעש",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "מקצות",
-      "gloss": "chekkaridan"
+      "gloss": "chekka-qurshovidan"
     },
     {
       "surface": "העם",
-      "gloss": "xalq"
+      "gloss": "xalqning"
     },
     {
       "surface": "כהני",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "במות",
-      "gloss": "balandliklar"
+      "gloss": "baland joylar"
     },
     {
       "surface": "החפץ",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "ימלא",
-      "gloss": "toʻldirar"
+      "gloss": "toʻldirardi"
     },
     {
       "surface": "את",
@@ -82,7 +82,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "va boʻlur edi"
+      "gloss": "va boʻlardi"
     },
     {
       "surface": "כהני",
@@ -90,9 +90,9 @@
     },
     {
       "surface": "במות",
-      "gloss": "balandliklar"
+      "gloss": "baland joylar"
     }
   ],
-  "timestamp": "2026-08-26T08:32:04.041843639Z",
+  "timestamp": "2026-08-26T09:54:00.451516660Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 5,
-  "translation": "Ertasi tongi erta turdilar va mana — Dagon Yahve sandigʻining oldida yuzma-yuz yerga ⟨is⟩ yiqilgan; Dagonning boshi va uning ikki qoʻl kafti eshik boʻsagʻasiga ⟨is⟩ kesib tashlangan — Dagonning tanasigina ⟨the⟩ ustida qolgan edi.",
+  "translation": "Ertalabki tongda ertasi kuni ular oʻrnilaridan turdilar va mana — Dagon uning oldida yuztutgan holda yerda, Yahve sandigʻining oldida yotardi; Dagonning boshi va qoʻllarining ikki kafti eshik oldidagi bosqichga kesib tashlangan edi, faqat Dagonning tanasi uning ustida qolgan edi.",
   "tokens": [
     {
       "surface": "וישכמו",
-      "gloss": "erta turdilar"
+      "gloss": "ertalab turdilar"
     },
     {
       "surface": "בבקר",
-      "gloss": "tongi"
+      "gloss": "tongda"
     },
     {
       "surface": "ממחרת",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "va mana —"
+      "gloss": "va mana"
     },
     {
       "surface": "דגון",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "נפל",
-      "gloss": "yiqilgan ⟨is⟩"
+      "gloss": "yiqilgan"
     },
     {
       "surface": "לפניו",
-      "gloss": "yuzma-yuz"
+      "gloss": "uning oldida"
     },
     {
       "surface": "ארצה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "לפני",
-      "gloss": "oldida"
+      "gloss": "oldingida"
     },
     {
       "surface": "ארון",
-      "gloss": "sandigʻining"
+      "gloss": "sandigʻi"
     },
     {
       "surface": "יהוה",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "וראש",
-      "gloss": "va … boshi"
+      "gloss": "va boshi"
     },
     {
       "surface": "דגון",
@@ -65,23 +65,23 @@
     },
     {
       "surface": "כפות",
-      "gloss": "kaft"
+      "gloss": "kafti"
     },
     {
       "surface": "ידיו",
-      "gloss": "uning qoʻl"
+      "gloss": "qoʻllarining"
     },
     {
       "surface": "כרתות",
-      "gloss": "kesib tashlangan ⟨is⟩"
+      "gloss": "kesib tashlangan"
     },
     {
       "surface": "אל",
-      "gloss": "…ga"
+      "gloss": "ga"
     },
     {
       "surface": "המפתן",
-      "gloss": "eshik boʻsagʻasiga"
+      "gloss": "eshik oldidagi bosqich"
     },
     {
       "surface": "רק",
@@ -100,6 +100,6 @@
       "gloss": "uning ustida"
     }
   ],
-  "timestamp": "2026-08-26T02:43:00.649576605Z",
+  "timestamp": "2026-08-26T09:52:47.754342666Z",
   "model": "glm-5.3"
 }

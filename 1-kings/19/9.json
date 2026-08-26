@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 19,
-  "translation": "U yerga, ⟨the⟩ gʻorga kirdi va u yerda tunadi; va mana, Yahve ning soʻzi unga keldi va unga aytdi: Senga bu yerda nima, Eliyahu?",
+  "translation": "Va u yon kelib, u yerga — ⟨את⟩ gʻorga, va u yerda tunadi; va mana, Yahvening soʻzi unga keladi, va unga aytdi: nima senga, bu yerda, Eliyahu?",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "keldi"
+      "gloss": "yon keldi"
     },
     {
       "surface": "שם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahve"
+      "gloss": "Yahvening"
     },
     {
       "surface": "אליו",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "aytdi"
+      "gloss": "va aytdi"
     },
     {
       "surface": "לו",
@@ -72,6 +72,6 @@
       "gloss": "Eliyahu"
     }
   ],
-  "timestamp": "2026-08-26T03:42:52.904482729Z",
+  "timestamp": "2026-08-26T09:54:03.228482216Z",
   "model": "glm-5.3"
 }

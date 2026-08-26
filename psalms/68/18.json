@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 68,
-  "translation": "Elohimning jangovar arabalari minglab, ming-minglab ⟨of⟩ gʻalaba qatorlari; Adonay ulardan ⟨orqasidan⟩ Sinaida, muqaddaslikda.",
+  "translation": "Elohimning jang aravalari ming-minglab, minglab ⟨shinʼan⟩; Adonay Sinayda, muqaddaslikda ⟨ular orasida⟩.",
   "tokens": [
     {
       "surface": "רכב",
-      "gloss": "jangovar arabalari"
+      "gloss": "jang aravalari"
     },
     {
       "surface": "אלהים",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "רבתים",
-      "gloss": "minglab"
-    },
-    {
-      "surface": "אלפי",
       "gloss": "ming-minglab"
     },
     {
+      "surface": "אלפי",
+      "gloss": "minglab"
+    },
+    {
       "surface": "שנאן",
-      "gloss": "⟨of⟩ gʻalaba qatorlari"
+      "gloss": "shinʼan"
     },
     {
       "surface": "אדני",
@@ -33,17 +33,17 @@
     },
     {
       "surface": "בם",
-      "gloss": "ulardan"
+      "gloss": "ular orasida"
     },
     {
       "surface": "סיני",
-      "gloss": "Sinaida"
+      "gloss": "Sinayda"
     },
     {
       "surface": "בקדש",
       "gloss": "muqaddaslikda"
     }
   ],
-  "timestamp": "2026-08-26T06:15:44.814969541Z",
+  "timestamp": "2026-08-26T10:00:52.876728931Z",
   "model": "glm-5.3"
 }

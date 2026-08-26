@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Agar sen bu butun buyruqni saqlasang — bugun men senga buyurganimni — bajarish uchun, Yahve Elohimingni sevgan uchun va barcha kunlar uning yoʻllarida yurgan uchun, oʻzingga yana uch shahar qoʻshasan — bu uchta ⟨the⟩ shaharning ustiga.",
+  "translation": "Agar sen butun bu buyruqni bajarish uchun saqlasang — uni men sana bugun buyuraman: Yahve, Elohimingni sevganing uchun va barcha kunlar Uning yoʻllarida yurishing uchun — u holda sana oʻzingga yana shaharlar uchtasini bu uchtaning ustiga qoʻshasan.",
   "tokens": [
     {
       "surface": "כי",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "butun buyruqni"
+      "marks": "butun bu buyruqni"
     },
     {
       "surface": "כל",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—ki"
+      "gloss": "—"
     },
     {
       "surface": "אנכי",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "מצוך",
-      "gloss": "senga buyurganimni"
+      "gloss": "sana bugun buyuraman"
     },
     {
       "surface": "היום",
@@ -54,12 +54,12 @@
     },
     {
       "surface": "לאהבה",
-      "gloss": "sevgan uchun"
+      "gloss": "sevganing uchun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahveni"
+      "marks": "Yahve, Elohimingni"
     },
     {
       "surface": "יהוה",
@@ -71,11 +71,11 @@
     },
     {
       "surface": "וללכת",
-      "gloss": "va yurgan uchun"
+      "gloss": "va yurishing uchun"
     },
     {
       "surface": "בדרכיו",
-      "gloss": "uning yoʻllarida"
+      "gloss": "Uning yoʻllarida"
     },
     {
       "surface": "כל",
@@ -99,11 +99,11 @@
     },
     {
       "surface": "שלש",
-      "gloss": "uch"
+      "gloss": "uchtasini"
     },
     {
       "surface": "ערים",
-      "gloss": "shahar"
+      "gloss": "shaharlar"
     },
     {
       "surface": "על",
@@ -111,13 +111,13 @@
     },
     {
       "surface": "השלש",
-      "gloss": "uchining"
+      "gloss": "uchtaning"
     },
     {
       "surface": "האלה",
       "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-26T01:59:00.655400053Z",
+  "timestamp": "2026-08-26T09:50:32.008913366Z",
   "model": "glm-5.3"
 }

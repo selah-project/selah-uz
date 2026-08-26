@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va boʻladiki, agar sen biz bilan yursaṋ — va boʻladiki, oʻsha yaxshilik, qandiki Yahve bizga qilsin, biz ham senga qilamiz.",
+  "translation": "Va boʻladiki, agar sen biz bilan kelsan, va boʻladiki, oʻsha yaxshilikni — Yahve bizga qilganini — biz ham senga qilamiz.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "va boʻladiki"
+      "gloss": "Va boʻladiki"
     },
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תלך",
-      "gloss": "yursaṋ"
+      "gloss": "kelsan"
     },
     {
       "surface": "עמנו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הטוב",
-      "gloss": "the yaxshilik"
+      "gloss": "oʻsha yaxshilikni"
     },
     {
       "surface": "ההוא",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "qandiki"
+      "gloss": "—"
     },
     {
       "surface": "ייטיב",
-      "gloss": "qilsin"
+      "gloss": "yaxshi qilganini"
     },
     {
       "surface": "יהוה",
@@ -60,6 +60,6 @@
       "gloss": "senga"
     }
   ],
-  "timestamp": "2026-08-26T01:30:29.899085364Z",
+  "timestamp": "2026-08-26T09:47:57.762081808Z",
   "model": "glm-5.3"
 }

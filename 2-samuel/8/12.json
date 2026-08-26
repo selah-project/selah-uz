@@ -5,8 +5,57 @@
   "book": "2-samuel",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Aramdan, va Moabdan, va Ammon oʻgʻillaridan, va Peleshtlar(Arabistondan?)",
-  "tokens": [],
-  "timestamp": "2026-08-26T03:06:44.569707993Z",
+  "translation": "Aramdan, va Moavdan, va Amon oʻgʻillaridan, va pelishtiyliklardan, va Amalekdan, va Sova shohi Rexov oʻgʻli Hadadezer oʻljasidan.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "Aramdan"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "va Moavdan"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "va oʻgʻillaridan"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "va pelishtiyliklardan"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "va Amalekdan"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "va oʻljasidan"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rexov"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "shohi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Sova"
+    }
+  ],
+  "timestamp": "2026-08-26T09:53:04.890309130Z",
   "model": "glm-5.3"
 }

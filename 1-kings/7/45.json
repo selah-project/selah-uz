@@ -5,39 +5,39 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Va ⟨את⟩ qozonlarni, va ⟨את⟩ belkuraklarni, va ⟨את⟩ choʻquv idishlarni, va ⟨את⟩ barcha asboblarni — ⟨the⟩ uyda ki Xiram yasadi Shlomo shohga, Yahve uyida — misdan, silliq ⟨letilgan⟩.",
+  "translation": "Va ⟨את⟩ qozonlar, va ⟨את⟩ supurgilar, va ⟨את⟩ sepqilar va ⟨את⟩ barcha idishlar — silliqlangan — Xiram Shlomo shohga Yahve uyida yasadi, misdan — silliqlangan.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "qozonlarni"
+      "marks": "qozonlar"
     },
     {
       "surface": "הסירות",
-      "gloss": "qozonlarni"
+      "gloss": "qozonlar"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "belkuraklarni"
+      "marks": "supurgilar"
     },
     {
       "surface": "היעים",
-      "gloss": "belkuraklarni"
+      "gloss": "supurgilar"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "choʻquv idishlarni"
+      "marks": "sepqilar"
     },
     {
       "surface": "המזרקות",
-      "gloss": "choʻquv idishlarni"
+      "gloss": "sepqilar"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "barcha"
+      "marks": "barcha idishlar"
     },
     {
       "surface": "כל",
@@ -45,15 +45,15 @@
     },
     {
       "surface": "הכלים",
-      "gloss": "asboblarni"
+      "gloss": "idishlar"
     },
     {
       "surface": "האהל",
-      "gloss": "uyda"
+      "gloss": "silliqlangan"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "עשה",
@@ -85,9 +85,9 @@
     },
     {
       "surface": "ממרט",
-      "gloss": "silliq"
+      "gloss": "silliqlangan"
     }
   ],
-  "timestamp": "2026-08-26T03:30:05.462807419Z",
+  "timestamp": "2026-08-26T10:22:50.563121861Z",
   "model": "glm-5.3"
 }

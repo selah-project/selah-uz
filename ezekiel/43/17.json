@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 43,
-  "translation": "Va azora — oʻn toʻrt ⟨⟨the⟩⟩ uzunlikda, oʻn toʻrt kenglikda, toʻrt tomoni boʻyicha; va atrofidagi chegara — ⟨את⟩ yarim gaz, va uning bagʻri — atrofida bir gaz; uning zinapoyalari esa sharqqa qaragan.",
+  "translation": "Va ⟨the⟩ hovli — oʻn toʻrt ⟨ammon uzunlikda⟩, oʻn toʻrt kenglikda, toʻrt tomoni boʻyicha; uning atrofidagi che-garasi yarim ⟨amma⟩, va uning koʻrkasi — bir ⟨amma⟩ atrofida; va uning zinapoyalari sharqqa qaragan.",
   "tokens": [
     {
       "surface": "והעזרה",
-      "gloss": "Va azora"
+      "gloss": "va ⟨the⟩ hovli"
     },
     {
       "surface": "ארבע",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "עשרה",
-      "gloss": "oʻn (oʻn toʻrt)"
+      "gloss": "oʻn"
     },
     {
       "surface": "ארך",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "בארבע",
-      "gloss": "oʻn"
+      "gloss": "toʻrtta"
     },
     {
       "surface": "עשרה",
-      "gloss": "toʻrt (oʻn toʻrt)"
+      "gloss": "oʻn"
     },
     {
       "surface": "רחב",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "והגבול",
-      "gloss": "Va chegara"
+      "gloss": "va ⟨the⟩ chegarasi"
     },
     {
       "surface": "סביב",
@@ -58,7 +58,7 @@
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "atrofidagi chegara"
+      "marks": "uni"
     },
     {
       "surface": "חצי",
@@ -66,27 +66,27 @@
     },
     {
       "surface": "האמה",
-      "gloss": "gaz"
+      "gloss": "⟨the⟩ amma"
     },
     {
       "surface": "והחיק",
-      "gloss": "Va uning bagʻri"
+      "gloss": "va ⟨the⟩ koʻrkasi"
     },
     {
       "surface": "לה",
-      "gloss": "uning uchun"
+      "gloss": "uning"
     },
     {
       "surface": "אמה",
-      "gloss": "bir gaz"
+      "gloss": "bir amma"
     },
     {
       "surface": "סביב",
       "gloss": "atrofida"
     },
     {
-      "surface": "ומעלתהו",
-      "gloss": "uning zinapoyalari"
+      "surface": "ו מעלתהו",
+      "gloss": "va uning zinapoyalari"
     },
     {
       "surface": "פנות",
@@ -97,6 +97,6 @@
       "gloss": "sharqqa"
     }
   ],
-  "timestamp": "2026-08-26T05:32:30.510656959Z",
+  "timestamp": "2026-08-26T10:24:05.331056523Z",
   "model": "glm-5.3"
 }

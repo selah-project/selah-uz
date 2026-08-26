@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va Shem va Yafet oldilar ⟨את⟩ kоʻylakni va yozdilar ikkalasining yelkasiga, va orqaga yurib yopdilar ⟨את⟩ otalarining uyatsiz yalangʻogʻini; va yuzlari orqaga qaragan edi, va otalarining uyatsiz yalangʻogʻini koʻrmadilar.",
+  "translation": "Shem va Yefet ⟨את⟩ kiyimni oldilar va uni ikkalasining yelkasiga qoʻydilar va orqaga yurib ⟨את⟩ otalarining yalangʻochligini yopdilar va yuzlari orqaga qaragan edi va otalarining yalangʻochligini koʻrmadilar.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "va oldi"
+      "gloss": "oldilar"
     },
     {
       "surface": "שם",
@@ -17,24 +17,24 @@
     },
     {
       "surface": "ויפת",
-      "gloss": "va Yafet"
+      "gloss": "va Yefet"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kоʻylakni"
+      "marks": "kiyimni"
     },
     {
       "surface": "השמלה",
-      "gloss": "kоʻylak"
+      "gloss": "kiyimni"
     },
     {
       "surface": "וישימו",
-      "gloss": "va yozdilar"
+      "gloss": "va qoʻydilar"
     },
     {
       "surface": "על",
-      "gloss": "—ga"
+      "gloss": "ustiga"
     },
     {
       "surface": "שכם",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "וילכו",
-      "gloss": "va yurdilar"
+      "gloss": "va yurib"
     },
     {
       "surface": "אחרנית",
@@ -59,27 +59,27 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "otalarining uyatsiz yalangʻogʻini"
+      "marks": "otalarining yalangʻochligini"
     },
     {
       "surface": "ערות",
-      "gloss": "uyatsiz yalangʻoq"
+      "gloss": "yalangʻochligini"
     },
     {
       "surface": "אביהם",
       "gloss": "otalarining"
     },
     {
-      "surface": "ויפניהם",
+      "surface": "ופניהם",
       "gloss": "va yuzlari"
     },
     {
       "surface": "אחרנית",
-      "gloss": "orqaga"
+      "gloss": "orqaga qaragan"
     },
     {
       "surface": "וערות",
-      "gloss": "— va uyatsiz yalangʻogʻini"
+      "gloss": "va yalangʻochligini"
     },
     {
       "surface": "אביהם",
@@ -94,6 +94,6 @@
       "gloss": "koʻrmadilar"
     }
   ],
-  "timestamp": "2026-08-26T00:32:24.556799236Z",
+  "timestamp": "2026-08-26T09:43:43.923791378Z",
   "model": "glm-5.3"
 }

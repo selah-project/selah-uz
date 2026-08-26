@@ -5,50 +5,33 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 102,
-  "translation": "U aytdi: ⟨את⟩ tuynukdagi ovozni eshitdim, va ⟨את⟩ sen bogʻdagi daraxtlar orasida yalangʻoch ekaningni koʻrdim, va qoʻrqdim, shuning uchun yashirindim.",
+  "translation": "Yahve, duomni eshit, faryodim Senga kelsin.",
   "tokens": [
     {
-      "surface": "וַיֹּ֛אמֶר",
-      "gloss": "va aytdi"
+      "surface": "יהוה",
+      "gloss": "Yahve"
     },
     {
-      "surface": "אֶת־",
-      "gloss": "⟨את⟩",
-      "marks": "tuynukdagi ovozni"
+      "surface": "שמעה",
+      "gloss": "eshit"
     },
     {
-      "surface": "קֹלְךָ֥",
-      "gloss": "ovozingni"
+      "surface": "תפלתי",
+      "gloss": "duomni"
     },
     {
-      "surface": "בַּגָּ֖ן",
-      "gloss": "bogʻda"
+      "surface": "ושועתי",
+      "gloss": "faryodim"
     },
     {
-      "surface": "שָׁמַ֑עְתִּי",
-      "gloss": "eshitdim"
+      "surface": "אליך",
+      "gloss": "Senga"
     },
     {
-      "surface": "וָאִירָ֗א",
-      "gloss": "va qoʻrqdim"
-    },
-    {
-      "surface": "כִּ֥י",
-      "gloss": "chunki"
-    },
-    {
-      "surface": "עֵירֹ֥ם",
-      "gloss": "yalangʻoch"
-    },
-    {
-      "surface": "אָנֹ֑כִי",
-      "gloss": "men"
-    },
-    {
-      "surface": "וָֽאֵחָבֵֽה",
-      "gloss": "va yashirindim"
+      "surface": "תבוא",
+      "gloss": "kelsin"
     }
   ],
-  "timestamp": "2026-08-26T06:25:44.154436367Z",
+  "timestamp": "2026-08-26T10:01:29.960375357Z",
   "model": "glm-5.3"
 }

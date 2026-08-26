@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Qachon ki sen kelasan ⟨the⟩ yerga, ki Yahve Elohiming senga beradi, va uni meros qilib olasan va unda yashaysan, va aytsan: oʻzim ustiga qoʻyaman podshoh, barcha xalqlar kabi ki atrofimdadir.",
+  "translation": "Qachon ki kelasan ⟨el⟩ erga, — Yahve, Elohiming, senga berayotgan uni — va uni egallaysan va unda yashaysan, va aytsan: oʻzim ustiga qirol qoʻyaman, xuddi atrofimdagi barcha xalqlar ⟨singari⟩.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "⟨el⟩"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ yerga"
+      "gloss": "erga"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "יהוה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "beradi"
+      "gloss": "berayotgan"
     },
     {
       "surface": "לך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "וירשתה",
-      "gloss": "va uni meros qilib olasan"
+      "gloss": "va uni egallaysan"
     },
     {
       "surface": "וישבתה",
@@ -56,7 +56,7 @@
       "gloss": "unda"
     },
     {
-      "surface": "ואמרת",
+      "surface": "וימרת",
       "gloss": "va aytsan"
     },
     {
@@ -69,11 +69,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "podshoh"
+      "gloss": "qirol"
     },
     {
       "surface": "ככל",
-      "gloss": "barcha ... kabi"
+      "gloss": "xuddi barcha"
     },
     {
       "surface": "הגוים",
@@ -81,13 +81,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "סביבתי",
-      "gloss": "atrofimdadir"
+      "gloss": "atrofimdagi"
     }
   ],
-  "timestamp": "2026-08-26T01:58:58.894816763Z",
+  "timestamp": "2026-08-26T09:50:11.484367046Z",
   "model": "glm-5.3"
 }

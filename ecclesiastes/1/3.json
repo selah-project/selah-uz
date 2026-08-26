@@ -5,8 +5,41 @@
   "book": "ecclesiastes",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Nima yutuq odamga barcha mehnatidan, ki mehnat qiladi quyosh ostida?",
-  "tokens": [],
-  "timestamp": "2026-08-26T07:17:48.010044991Z",
+  "translation": "Odama barcha mehnatidan — u qaysi mehnatki quyosh ostida mehnat qiladi — nima foyda?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "foyda"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "odamga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "barcha"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "mehnatidan"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "mehnat qiladi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ostida"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "quyosh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:02:49.863507075Z",
   "model": "glm-5.3"
 }

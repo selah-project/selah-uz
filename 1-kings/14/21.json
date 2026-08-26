@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va Rehavam, Shelomoning oʻgʻli, Yehudada hukmronlik qildi; hukmronligini boshlaganda Rehavam qirq bir yoshda edi, va u Yerushalaimda — oʻn yetti yil hukmronlik qildi — ⟨the⟩ shaharda ki uni Yahve tanlagan, ⟨את⟩ oʻz Ismini u yerga qoʻyish uchun, Isroilning barcha qabilalaridan; va onasining ismi Naama, ammonlik ayol edi.",
+  "translation": "Va Rehavam Shelomoning oʻgʻli Yahudiyada hukmronlik qildi — qirq bir yoshda edi Rehavam hukmronligini boshlaganda, va oʻn yetti yil Yerushalaimda hukmronlik qildi, ⟨the⟩ shaharda ki uni Yahve tanlagan Isroilning barcha qabilalaridan oʻz Ismini oʻsha yerga qoʻyish uchun; va uning onasining ismi Naama ⟨the⟩ ammonlik ayol edi.",
   "tokens": [
     {
       "surface": "ורחבעם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ביהודה",
-      "gloss": "Yehudada"
+      "gloss": "Yahudiyada"
     },
     {
       "surface": "בן",
@@ -94,7 +94,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oʻz Ismi (שמו)"
+      "marks": "oʻz Ismi"
     },
     {
       "surface": "שמו",
@@ -102,19 +102,19 @@
     },
     {
       "surface": "שם",
-      "gloss": "u yerga"
+      "gloss": "oʻsha yerga"
     },
     {
       "surface": "מכל",
-      "gloss": "barchasidan"
+      "gloss": "barcha"
     },
     {
       "surface": "שבטי",
-      "gloss": "qabilalarining"
+      "gloss": "qabilalaridan"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil"
+      "gloss": "Isroilning"
     },
     {
       "surface": "ושם",
@@ -133,6 +133,6 @@
       "gloss": "ammonlik ayol"
     }
   ],
-  "timestamp": "2026-08-26T03:40:04.872907184Z",
+  "timestamp": "2026-08-26T10:22:52.882163461Z",
   "model": "glm-5.3"
 }

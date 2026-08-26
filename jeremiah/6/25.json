@@ -5,19 +5,19 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Dala ⟨the⟩ga chiqma, va yoʻlda yurma, chunki dushman ⟨the⟩ning qilichi bor — qoʻrquv atrofda.",
+  "translation": "Dalaga chiqma va yoʻlda yurma, chunki dushman ⟨uchun⟩ qilich — atrofda dahshat.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "chiqma"
+      "gloss": "qiyma"
     },
     {
       "surface": "תצאי",
-      "gloss": "chiqma (sen)"
+      "gloss": "chiqma"
     },
     {
       "surface": "השדה",
-      "gloss": "dala ⟨the⟩"
+      "gloss": "dalaga"
     },
     {
       "surface": "ובדרך",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "yurma"
+      "gloss": "qiyma"
     },
     {
       "surface": "תלכי",
-      "gloss": "yurma (sen)"
+      "gloss": "yurma"
     },
     {
       "surface": "כי",
@@ -41,17 +41,17 @@
     },
     {
       "surface": "לאיב",
-      "gloss": "dushman ⟨the⟩ning"
+      "gloss": "dushmanga"
     },
     {
       "surface": "מגור",
-      "gloss": "qoʻrquv"
+      "gloss": "dahshat"
     },
     {
       "surface": "מסביב",
       "gloss": "atrofda"
     }
   ],
-  "timestamp": "2026-08-26T04:38:52.573487766Z",
+  "timestamp": "2026-08-26T10:07:39.729268844Z",
   "model": "glm-5.3"
 }

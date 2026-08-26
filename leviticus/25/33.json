@@ -5,31 +5,31 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va Levilardan ⟨את⟩ narsa qaytarib olinsa, sotilgan uy va uning meros shahri yubilda chiqib ketadi, chunki Levilar shaharlarining uylari — Isroil oʻgʻillari orasida ularning meros mulki ⟨is⟩.",
+  "translation": "Va levilardan bir narsa qaytarib olinganda, sotilgan uy va uning mulk shahri yoveldan chiqib ketadi, chunki levilar shaharlarining uylari — Isroil oʻgʻillari orasida ularning meros mulkidir.",
   "tokens": [
     {
       "surface": "ואשר",
-      "gloss": "va bu narsa"
+      "gloss": "Va ... narsa"
     },
     {
       "surface": "יגאל",
-      "gloss": "qaytarib olinadi"
+      "gloss": "qaytarib olinganda"
     },
     {
       "surface": "מן",
-      "gloss": "-dan"
+      "gloss": "dan"
     },
     {
       "surface": "הלוים",
-      "gloss": "Levilar"
+      "gloss": "levilar"
     },
     {
       "surface": "ויצא",
-      "gloss": "va chiqadi"
+      "gloss": "chiqib ketadi"
     },
     {
       "surface": "ממכר",
-      "gloss": "sotilgan"
+      "gloss": "sotilgan (narsa)"
     },
     {
       "surface": "בית",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "אחזתו",
-      "gloss": "uning merosi"
+      "gloss": "uning mulki"
     },
     {
       "surface": "ביבל",
-      "gloss": "yubilda"
+      "gloss": "yovelda"
     },
     {
       "surface": "כי",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "בתי",
-      "gloss": "uylari"
+      "gloss": "ularning uylari"
     },
     {
       "surface": "ערי",
-      "gloss": "shaharlarining"
+      "gloss": "shaharlari"
     },
     {
       "surface": "הלוים",
-      "gloss": "Levilar"
+      "gloss": "levilarning"
     },
     {
       "surface": "הוא",
-      "gloss": "u"
+      "gloss": "u (mulk)"
     },
     {
       "surface": "אחזתם",
@@ -84,6 +84,6 @@
       "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T01:22:41.508627779Z",
+  "timestamp": "2026-08-26T09:47:39.852479842Z",
   "model": "glm-5.3"
 }

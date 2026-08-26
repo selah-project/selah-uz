@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 34,
-  "translation": "Va Moshe Isroil oʻgʻillariga buyurdi ⟨את⟩, deb: bu ⟨the⟩ yer — uni qurʼa bilan meros qilib olasizlar, Yahve uni toʻqqiz qabilaga va qabitaning yarmiga berishni buyurgan.",
+  "translation": "Va Moshe Yisroel oʻgʻillariga — ⟨את⟩ — buyruq berib dedi: mana bu yer — meros qurʼa bilan sizga meros boʻladigan ⟨את⟩-dir, Yahve ⟨את⟩ uni toʻqqiz qabilaga va qabitaning yarimiga berishni buyurgan.",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "buyurdi"
+      "gloss": "buyruq berdi"
     },
     {
       "surface": "משה",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Isroil oʻgʻillari"
+      "marks": "Yisroel oʻgʻillari"
     },
     {
       "surface": "בני",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil"
+      "gloss": "Yisroel"
     },
     {
       "surface": "לאמר",
@@ -42,16 +42,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "תתנחלו",
-      "gloss": "meros qilib olasizlar"
+      "gloss": "meros olasizlar"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "u (yer)"
+      "gloss": "⟨את⟩ uni"
     },
     {
       "surface": "בגורל",
@@ -59,7 +58,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "kimni"
     },
     {
       "surface": "צוה",
@@ -83,13 +82,13 @@
     },
     {
       "surface": "וחצי",
-      "gloss": "va yarimi"
+      "gloss": "va yarim"
     },
     {
       "surface": "המטה",
       "gloss": "qabita"
     }
   ],
-  "timestamp": "2026-08-26T01:45:40.879260955Z",
+  "timestamp": "2026-08-26T09:49:22.548863799Z",
   "model": "glm-5.3"
 }

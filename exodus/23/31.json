@@ -5,20 +5,20 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Va chegarangni Qamish dengizidan Pelishtim dengizigacha, va choʻldan ⟨the⟩ daryogacha belgilayman, chunki yerning yashovchilarini qoʻlingizga berurman va sen ularni yuzing oldidan quvib chiqarursan.",
+  "translation": "Va Men belgilayman ⟨את⟩ chegaraingni — Qamish dengizidan Filishtim dengizigacha, va choʻldan ⟨the⟩ daryogacha; chunki Men beraman senlarning qoʻllaringizga ⟨את⟩ yerning aholisini, va sen ularni yuzing oldidan quvib chiqarasan.",
   "tokens": [
     {
       "surface": "ושתי",
-      "gloss": "va belgilayman"
+      "gloss": "va Men belgilayman"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "chegarangni"
+      "marks": "chegaraingni"
     },
     {
       "surface": "גבלך",
-      "gloss": "chegarang"
+      "gloss": "chegaraingni"
     },
     {
       "surface": "מים",
@@ -26,11 +26,11 @@
     },
     {
       "surface": "סוף",
-      "gloss": "Qamish (Suf)"
+      "gloss": "Qamish"
     },
     {
       "surface": "ועד",
-      "gloss": "va …gacha"
+      "gloss": "gacha"
     },
     {
       "surface": "ים",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Pelishtim"
+      "gloss": "Filishtim"
     },
     {
       "surface": "וממדבר",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "-gacha"
+      "gloss": "gacha"
     },
     {
       "surface": "הנהר",
-      "gloss": "daryo"
+      "gloss": "⟨the⟩ daryo"
     },
     {
       "surface": "כי",
@@ -58,20 +58,20 @@
     },
     {
       "surface": "אתן",
-      "gloss": "berurman"
+      "gloss": "beraman"
     },
     {
       "surface": "בידכם",
-      "gloss": "qoʻlingizga"
+      "gloss": "senlarning qoʻllaringizga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yashovchilarni"
+      "marks": "yerning aholisini"
     },
     {
       "surface": "ישבי",
-      "gloss": "yashovchilari"
+      "gloss": "aholisini"
     },
     {
       "surface": "הארץ",
@@ -79,13 +79,13 @@
     },
     {
       "surface": "וגרשתמו",
-      "gloss": "va quvib chiqarursan ularni"
+      "gloss": "va sen ularni quvib chiqarasan"
     },
     {
       "surface": "מפניך",
       "gloss": "yuzing oldidan"
     }
   ],
-  "timestamp": "2026-08-26T00:59:07.800290972Z",
+  "timestamp": "2026-08-26T10:21:03.539814126Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va Yahve sizlarni Qadesh-Barneadan yuborganida: «Koʻtarilib, siza bergan mamlakatni egallangiz», deganda — Yahve oʻz Elohimlaringizning ogʻziga qarshi isyon qildingizlar, Unga ishonmadingizlar va Ovozini tinglamadingizlar.",
+  "translation": "Va Yahve ⟨את⟩ sizlarni Kadesh-Barneadan yuborganida: „Koʻtarilib, sizlarga bergan yerni eglang“ — deganda, sizlar Yahve Elohimingizning ogʻziga qarshi isyon qildingizlar, Unga imon keltirmadingizlar va Ovozini tinglamadingizlar.",
   "tokens": [
     {
       "surface": "ובשלח",
-      "gloss": "yuborganida"
+      "gloss": "va yuborganida"
     },
     {
       "surface": "יהוה",
@@ -17,12 +17,12 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "sizlarni"
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "sizlarni (Kadesh-Barneadan)"
     },
     {
       "surface": "מקדש",
-      "gloss": "Qadesh-…"
+      "gloss": "Kadesh-"
     },
     {
       "surface": "ברנע",
@@ -38,41 +38,41 @@
     },
     {
       "surface": "ורשו",
-      "gloss": "egallangiz"
+      "gloss": "va eglang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mamlakatni"
+      "marks": "yerni"
     },
     {
       "surface": "הארץ",
-      "gloss": "mamlakatni"
+      "gloss": "yer"
     },
     {
       "surface": "אשר",
-      "gloss": "siza bergan …"
+      "gloss": "ki"
     },
     {
       "surface": "נתתי",
-      "gloss": "bergan"
+      "gloss": "sizlarga bergan"
     },
     {
       "surface": "לכם",
-      "gloss": "siza"
+      "gloss": "sizlarga"
     },
     {
       "surface": "ותמרו",
-      "gloss": "isyon qildingizlar"
+      "gloss": "va isyon qildingizlar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ogʻzigа qarshi"
+      "marks": "ogʻizga"
     },
     {
       "surface": "פי",
-      "gloss": "ogʻzigа"
+      "gloss": "ogʻiz"
     },
     {
       "surface": "יהוה",
@@ -80,15 +80,15 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohimlaringizning"
+      "gloss": "Elohimingiz"
     },
     {
       "surface": "ולא",
-      "gloss": "va …madingizlar"
+      "gloss": "va … emas"
     },
     {
       "surface": "האמנתם",
-      "gloss": "ishonmadingizlar"
+      "gloss": "imon keltirmadingizlar"
     },
     {
       "surface": "לו",
@@ -96,7 +96,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "va …madingizlar"
+      "gloss": "va … emas"
     },
     {
       "surface": "שמעתם",
@@ -107,6 +107,6 @@
       "gloss": "Ovozini"
     }
   ],
-  "timestamp": "2026-08-26T01:52:20.731511651Z",
+  "timestamp": "2026-08-26T09:49:30.309347024Z",
   "model": "glm-5.3"
 }

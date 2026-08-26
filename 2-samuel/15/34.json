@@ -5,11 +5,11 @@
   "book": "2-samuel",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Va agar ⟨the⟩ shaharga qaytsan va Avshalomga desang: sening xizmatkoringman men, shoh ⟨boʻlaman⟩; otangning xizmatkori — va men uzoqdan ⟨shunday⟩, va endi ham men sening xizmatkoringman — va men ⟨uchun⟩ Axitofelning ⟨את⟩ maslahatini bekor qilasan.",
+  "translation": "Va agar shaharga qaytsan va Avshalomga: „Sening xizmatkoringman men, ey podshoh; otangning xizmatkori boʻlganman azaldan, va endi ham — men sening xizmatkoringman“ desan, Axitofelning ⟨את⟩ maslahatini men uchun bekor qilasan.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "Va agar"
+      "gloss": "va agar"
     },
     {
       "surface": "העיר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "va desang"
+      "gloss": "va desan"
     },
     {
       "surface": "לאבשלום",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "sening xizmatkoringman"
+      "gloss": "xizmatkoring"
     },
     {
       "surface": "אני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "shoh"
+      "gloss": "podshoh"
     },
     {
       "surface": "אהיה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "עבד",
-      "gloss": "xizmatkori"
+      "gloss": "xizmatkor"
     },
     {
       "surface": "אביך",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "מאז",
-      "gloss": "uzoqdan"
+      "gloss": "azaldan"
     },
     {
       "surface": "ועתה",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "עבדך",
-      "gloss": "sening xizmatkoringman"
+      "gloss": "xizmatkoring"
     },
     {
       "surface": "והפרתה",
@@ -82,17 +82,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "maslahatni"
+      "marks": "Axitofelning maslahati"
     },
     {
       "surface": "עצת",
-      "gloss": "maslahatini"
+      "gloss": "maslahat"
     },
     {
       "surface": "אחיתפל",
       "gloss": "Axitofel"
     }
   ],
-  "timestamp": "2026-08-26T03:13:10.468901908Z",
+  "timestamp": "2026-08-26T09:53:43.988804571Z",
   "model": "glm-5.3"
 }

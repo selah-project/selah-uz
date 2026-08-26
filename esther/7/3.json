@@ -5,11 +5,11 @@
   "book": "esther",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Va javob berdi Ester, ⟨the⟩ malika, va dedi: Agar topdim marhamat koʻzlaringda, ey podshoh, va agar podshoh uchun yaxshi boʻlsa — berilsin menga jonim soʻrovimda va xalqim iltijomda.",
+  "translation": "Va Ester malika javob berdi va dedi: Agar koʻzlaringda inoyat topsam, ey shoh, va agar shohga yaxshi koʻrinsa — mening jonim soʻrovimga berilsin va xalqim iltijojimga.",
   "tokens": [
     {
       "surface": "ותען",
-      "gloss": "Va javob berdi"
+      "gloss": "va javob berdi"
     },
     {
       "surface": "אסתר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "Agar"
+      "gloss": "agar"
     },
     {
       "surface": "מצאתי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "חן",
-      "gloss": "marhamat"
+      "gloss": "inoyat"
     },
     {
       "surface": "בעיניך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "podshoh"
+      "gloss": "shoh"
     },
     {
       "surface": "ואם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "⟨the⟩ podshoh"
+      "gloss": "shohga"
     },
     {
       "surface": "טוב",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "בשאלתי",
-      "gloss": "soʻrovimda"
+      "gloss": "soʻrovimga"
     },
     {
       "surface": "ועמי",
@@ -81,9 +81,9 @@
     },
     {
       "surface": "בבקשתי",
-      "gloss": "iltijomda"
+      "gloss": "iltijojimga"
     }
   ],
-  "timestamp": "2026-08-26T07:25:49.626808540Z",
+  "timestamp": "2026-08-26T10:24:38.661341368Z",
   "model": "glm-5.3"
 }

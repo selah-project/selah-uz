@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va koʻradi kohen ⟨את⟩ qimyilni yettinchi kunda, va mana, tarqalmagan qimyil terida, va koʻrinishi yoʻq ⟨u chuqurroq⟩ teridan; va kohen uni pok deb eʼlon qiladi, va kiyimlarini yuvadi, va pok boʻladi.",
+  "translation": "Kohin yettinchi kunda ⟨את⟩ netekni koʻradi, va mana, agar netek terida yoyilmagan boʻlsa va koʻrinishi teridan chuqur boʻlmasa, kohin uni pok deb eʼlon qiladi, va u kiyimlarini yuvadi, va pok boʻladi.",
   "tokens": [
     {
       "surface": "וראה",
-      "gloss": "va koʻradi"
+      "gloss": "koʻradi"
     },
     {
       "surface": "הכהן",
-      "gloss": "kohen"
+      "gloss": "kohin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qimyilni"
+      "marks": "netekni"
     },
     {
       "surface": "הנתק",
-      "gloss": "qimyilni"
+      "gloss": "netekni"
     },
     {
       "surface": "ביום",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "השביעי",
-      "gloss": "yetтинchi"
+      "gloss": "yettinchi"
     },
     {
       "surface": "והנה",
@@ -38,15 +38,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "…mas"
+      "gloss": "yoʻq"
     },
     {
       "surface": "פשה",
-      "gloss": "tarqalgan"
+      "gloss": "yoyilmagan"
     },
     {
       "surface": "הנתק",
-      "gloss": "qimyil"
+      "gloss": "netek"
     },
     {
       "surface": "בעור",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "איננו",
-      "gloss": "u emas"
+      "gloss": "emas"
     },
     {
       "surface": "עמק",
@@ -66,24 +66,24 @@
     },
     {
       "surface": "מן",
-      "gloss": "…dan"
+      "gloss": "dan"
     },
     {
       "surface": "העור",
-      "gloss": "teridan"
+      "gloss": "teri"
     },
     {
       "surface": "וטהר",
-      "gloss": "va pok deb eʼlon qiladi"
+      "gloss": "pok deb eʼlon qiladi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ uni",
+      "gloss": "⟨את⟩",
       "marks": "uni"
     },
     {
       "surface": "הכהן",
-      "gloss": "kohen"
+      "gloss": "kohin"
     },
     {
       "surface": "וכבס",
@@ -95,9 +95,9 @@
     },
     {
       "surface": "וטהר",
-      "gloss": "va pok boʻladi"
+      "gloss": "pok boʻladi"
     }
   ],
-  "timestamp": "2026-08-26T01:15:18.351253817Z",
+  "timestamp": "2026-08-26T09:46:40.251392194Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va ruх meni koʻtardi va ortimdan katta gʻul-gʻula ovozini eshitdim: «Barakotli Yahve ulugʻvorligi oʻz joyidan!»",
+  "translation": "Va ruax meni koʻtardi, va orqamdan buyuk shovqin ovozini eshitdim: barakatli ⟨boʻlsin⟩ Yahve kavodi oʻz makonidan!",
   "tokens": [
     {
       "surface": "ותשאני",
-      "gloss": "Va koʻtardi"
+      "gloss": "va ... meni koʻtardi"
     },
     {
       "surface": "רוח",
-      "gloss": "ruх"
+      "gloss": "ruax"
     },
     {
       "surface": "ואשמע",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "ortimdan"
+      "gloss": "orqamdan"
     },
     {
       "surface": "קול",
@@ -29,19 +29,19 @@
     },
     {
       "surface": "רעש",
-      "gloss": "gʻul-gʻula"
+      "gloss": "shovqin"
     },
     {
       "surface": "גדול",
-      "gloss": "katta"
+      "gloss": "buyuk"
     },
     {
       "surface": "ברוך",
-      "gloss": "Barakotli"
+      "gloss": "barakatli"
     },
     {
       "surface": "כבוד",
-      "gloss": "ulgʻvorligi"
+      "gloss": "kavod"
     },
     {
       "surface": "יהוה",
@@ -49,9 +49,9 @@
     },
     {
       "surface": "ממקומו",
-      "gloss": "oʻz joyidan"
+      "gloss": "oʻz makonidan"
     }
   ],
-  "timestamp": "2026-08-26T05:10:00.855021909Z",
+  "timestamp": "2026-08-26T09:56:36.135182914Z",
   "model": "glm-5.3"
 }

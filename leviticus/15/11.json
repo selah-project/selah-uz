@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Va zavorga tegadigan har qanday kishi — qoʻllarini suvda yuvmagan boʻlsa — kiyimlarini yuvadi va suvda yuvinadi va kechkirgacha iflos boʻladi.",
+  "translation": "Va zoʻri borgan kishi qoʻllarini suvda yuvmasdan teggan har kim oʻz kiyimlarini yuvsin, suvda yuvensin va kechgacha pok boʻlmasin.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "va har qanday"
+      "gloss": "va har kim"
     },
     {
       "surface": "אשר",
-      "gloss": "— kishi"
+      "gloss": "ki"
     },
     {
       "surface": "יגע",
-      "gloss": "tegadigan"
+      "gloss": "tegan"
     },
     {
       "surface": "בו",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הזב",
-      "gloss": "zavor"
+      "gloss": "zoʻri borgan"
     },
     {
       "surface": "וידיו",
-      "gloss": "va qoʻllarini"
+      "gloss": "va qoʻllari"
     },
     {
       "surface": "לא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "שטף",
-      "gloss": "yuvмаган"
+      "gloss": "yuvdi"
     },
     {
       "surface": "במים",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "וכבס",
-      "gloss": "va yuvadi"
+      "gloss": "va yuvsin"
     },
     {
       "surface": "בגדיו",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ורחץ",
-      "gloss": "va yuvinadi"
+      "gloss": "va yuvensin"
     },
     {
       "surface": "במים",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "וטמא",
-      "gloss": "va iflos boʻladi"
+      "gloss": "va nopok"
     },
     {
       "surface": "עד",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "הערב",
-      "gloss": "kech kirgacha"
+      "gloss": "kech"
     }
   ],
-  "timestamp": "2026-08-26T01:17:14.729744940Z",
+  "timestamp": "2026-08-26T09:46:47.216763428Z",
   "model": "glm-5.3"
 }

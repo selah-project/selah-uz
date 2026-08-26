@@ -5,15 +5,15 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Suvlarda surgʻasi ham, qisqiri ham boʻlmagan hamma narsa — u yomon narsadir sizlar uchun.",
+  "translation": "Suvlarda suzgich qanoti va qubbasi yoʻq ⟨hamma narsa⟩ — ⟨u⟩ sizlar uchun yiringandir.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "hamma narsa"
+      "gloss": "hamma"
     },
     {
       "surface": "אשר",
-      "gloss": "<niki>"
+      "gloss": "ki"
     },
     {
       "surface": "אין",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "לו",
-      "gloss": "unga"
+      "gloss": "uning"
     },
     {
       "surface": "סנפיר",
-      "gloss": "surgʻa"
+      "gloss": "suzgich qanoti"
     },
     {
       "surface": "וקשקשת",
-      "gloss": "va qisqir"
+      "gloss": "va qubbasi"
     },
     {
       "surface": "במים",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "שקץ",
-      "gloss": "yomon narsa"
+      "gloss": "yiringan"
     },
     {
       "surface": "הוא",
@@ -48,6 +48,6 @@
       "gloss": "sizlar uchun"
     }
   ],
-  "timestamp": "2026-08-26T01:12:44.773691618Z",
+  "timestamp": "2026-08-26T09:46:31.842042226Z",
   "model": "glm-5.3"
 }

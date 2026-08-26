@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va sarislar sardori ularga ismlar qoʻydi: Daniyelga Belteshatsar, Xananyahga Shadrax, Mishaelga Meyshax va Azaryahga Avad-Nego <ère qoʻydi>.",
+  "translation": "Va sarislar sardori ularga ismlar qoʻydi: Donielga Beltshassarni qoʻydi, Xananyaga Shadraxni, Mishaelga Meyshaxni va Azaryaga Oved-Negoni.",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "Va qoʻydi"
+      "gloss": "va qoʻydi"
     },
     {
       "surface": "להם",
@@ -33,19 +33,23 @@
     },
     {
       "surface": "לדניאל",
-      "gloss": "Daniyelga"
+      "gloss": "Donielga"
     },
     {
       "surface": "בלטשאצר",
-      "gloss": "Belteshatsar"
+      "gloss": "Beltshassar"
     },
     {
       "surface": "ולחנניה",
-      "gloss": "va Xananyahga"
+      "gloss": "va Xananyaga"
     },
     {
       "surface": "שדרך",
       "gloss": "Shadrax"
+    },
+    {
+      "surface": "וישם",
+      "gloss": ""
     },
     {
       "surface": "ולמישאל",
@@ -57,17 +61,13 @@
     },
     {
       "surface": "ולעזריה",
-      "gloss": "va Azaryahga"
+      "gloss": "va Azaryaga"
     },
     {
-      "surface": "עבד",
-      "gloss": "Avad"
-    },
-    {
-      "surface": "נגו",
-      "gloss": "-Nego"
+      "surface": "עבד נגו",
+      "gloss": "Oved-Nego"
     }
   ],
-  "timestamp": "2026-08-26T08:50:07.819667561Z",
+  "timestamp": "2026-08-26T10:03:32.655871414Z",
   "model": "glm-5.3"
 }

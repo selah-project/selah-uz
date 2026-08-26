@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Koʻzlaringiz — Yahvening Baal-Peorga nisbatan qilganini koʻrgan koʻzlaringiz — ⟨את⟩ ⟨the⟩ narsani: chunki Baal-Peordan keyin ketgan har bir odamni Yahve Elohimingiz ichingizdan yoʻq qildi.",
+  "translation": "Koʻzlaringiz — koʻrganlar, ⟨את⟩ narsani menki Yahve qildi Baal-Peorga, chunki har bir odam, menki ergashdi Baal-Peorga — yoʻq qildi uni Yahve, Elohiming, ichingizdan.",
   "tokens": [
     {
       "surface": "עיניכם",
@@ -13,20 +13,20 @@
     },
     {
       "surface": "הראת",
-      "gloss": "koʻrgan"
+      "gloss": "koʻrganlar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "the narsani (Baal-Peorga qilinganni)"
+      "marks": "narsani… qildi"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "menki"
     },
     {
       "surface": "עשה",
-      "gloss": "qilgan"
+      "gloss": "qildi"
     },
     {
       "surface": "יהוה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "בבעל",
-      "gloss": "Baal-"
+      "gloss": "Baal-…ga"
     },
     {
       "surface": "פעור",
@@ -54,15 +54,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "menki"
     },
     {
       "surface": "הלך",
-      "gloss": "ketgan"
+      "gloss": "yurdi"
     },
     {
       "surface": "אחרי",
-      "gloss": "keyin"
+      "gloss": "…ortidan"
     },
     {
       "surface": "בעל",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "השמידו",
-      "gloss": "yoʻq qildi"
+      "gloss": "yoʻq qildi uni"
     },
     {
       "surface": "יהוה",
@@ -89,6 +89,6 @@
       "gloss": "ichingizdan"
     }
   ],
-  "timestamp": "2026-08-26T01:50:34.849180301Z",
+  "timestamp": "2026-08-26T10:22:29.104144772Z",
   "model": "glm-5.3"
 }

@@ -5,24 +5,24 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 42,
-  "translation": "„Va keltiringlar ⟨את⟩ ukalaringizning kichigini menga, va bilurman ki josuslar emas sizlar, ki rost odamlar sizlarsizlar; ⟨את⟩ ukalaringizni sizlarga berurman va ⟨the⟩ yer yuzida savdo-sotiq qilursizlar.“",
+  "translation": "Va kichik birodarlaringizni menga olib keling, va bilib olurman ki siz josuslar emassizlar, balki rostgoʻysizlar; ⟨את⟩ birodarlaringizni sizlarga berurman, va ⟨את⟩ er — yer boʻylab savdo qilasizlar.",
   "tokens": [
     {
       "surface": "והביאו",
-      "gloss": "Va keltiringlar"
+      "gloss": "va olib keling"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ukalaringizning kichigini"
+      "marks": "kichik birodarlaringizni"
     },
     {
       "surface": "אחיכם",
-      "gloss": "ukalaringizning"
+      "gloss": "birodarlaringizni"
     },
     {
       "surface": "הקטן",
-      "gloss": "kichigini"
+      "gloss": "kichik"
     },
     {
       "surface": "אלי",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "ואדעה",
-      "gloss": "va bilurman"
+      "gloss": "va bilib olurman"
     },
     {
       "surface": "כי",
@@ -46,28 +46,28 @@
     },
     {
       "surface": "אתם",
-      "gloss": "sizlar"
+      "gloss": "siz"
     },
     {
       "surface": "כי",
-      "gloss": "ki"
+      "gloss": "balki"
     },
     {
       "surface": "כנים",
-      "gloss": "rost"
+      "gloss": "rostgoʻysizlar"
     },
     {
       "surface": "אתם",
-      "gloss": "sizlar"
+      "gloss": "siz"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ukalaringizni"
+      "marks": "birodarlaringizni"
     },
     {
       "surface": "אחיכם",
-      "gloss": "ukalaringizni"
+      "gloss": "birodarlaringizni"
     },
     {
       "surface": "אתן",
@@ -84,13 +84,13 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "yerning"
+      "gloss": "yer"
     },
     {
       "surface": "תסחרו",
-      "gloss": "savdo-sotiq qilursizlar"
+      "gloss": "savdo qilasizlar"
     }
   ],
-  "timestamp": "2026-08-26T00:46:41.048023230Z",
+  "timestamp": "2026-08-26T09:45:30.153615194Z",
   "model": "glm-5.3"
 }

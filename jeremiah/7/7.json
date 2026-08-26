@@ -5,19 +5,20 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 7,
-  "translation": "undа Men ⟨את⟩ sizni shu joyda yashataman, oʻsha yerda — otalaringizga bergan yerda — abadiydan abadiygacha.",
+  "translation": "Unda sizlarni shu joyda, otalaringizga bergan erda yashataman — ⟨min⟩ abadiydan ⟨va⟩ abadiygacha.",
   "tokens": [
     {
       "surface": "ושכנתי",
-      "gloss": "va yashataman"
+      "gloss": "yashataman"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sizni"
+      "gloss": "⟨את⟩",
+      "marks": "sizlarni"
     },
     {
       "surface": "במקום",
-      "gloss": "shu joyda"
+      "gloss": "joyda"
     },
     {
       "surface": "הזה",
@@ -25,11 +26,11 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "yerda"
+      "gloss": "erda"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "נתתי",
@@ -41,7 +42,7 @@
     },
     {
       "surface": "למן",
-      "gloss": "…dan"
+      "gloss": "⟨min⟩ abadiydan"
     },
     {
       "surface": "עולם",
@@ -49,13 +50,13 @@
     },
     {
       "surface": "ועד",
-      "gloss": "va ... gacha"
+      "gloss": "⟨va⟩ ...gacha"
     },
     {
       "surface": "עולם",
-      "gloss": "abadiygacha"
+      "gloss": "abadiy"
     }
   ],
-  "timestamp": "2026-08-26T04:39:25.913171812Z",
+  "timestamp": "2026-08-26T09:55:42.389416184Z",
   "model": "glm-5.3"
 }

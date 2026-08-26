@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va elchilar qaytdilar va dedilar: „Shunday dedi Ben-Hadad: Men senга yubordim, deb: kumushing va oltining va xotinlaring va oʻgʻullaring — menga berasan.",
+  "translation": "Va elchilar qaytib kelib aytishdi: „Shunday dedi Ben-Hadad: Men senga yubordim, deb aytish uchun: kumushingni va oltiningni, xotinlaringni va oʻgʻillaringni menga berasan“.",
   "tokens": [
     {
       "surface": "וישבו",
-      "gloss": "va qaytdilar"
+      "gloss": "qaytib kelishdi"
     },
     {
       "surface": "המלאכים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ויאמרו",
-      "gloss": "va dedilar"
+      "gloss": "vaitishdi"
     },
     {
       "surface": "כה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "Ben"
+      "gloss": "Ben-"
     },
     {
       "surface": "הדד",
-      "gloss": "-Hadad"
+      "gloss": "Hadad"
     },
     {
       "surface": "לאמר",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "chunki"
+      "gloss": "ki"
     },
     {
       "surface": "שלחתי",
-      "gloss": "men yubordim"
+      "gloss": "yubordim"
     },
     {
       "surface": "אליך",
@@ -53,23 +53,23 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "deb"
+      "gloss": "aytish uchun"
     },
     {
       "surface": "כספך",
-      "gloss": "kumushing"
+      "gloss": "kumushingni"
     },
     {
-      "surface": "וזהבך",
-      "gloss": "va oltining"
+      "surface": "ווזהבך",
+      "gloss": "va oltiningni"
     },
     {
       "surface": "ונשיך",
-      "gloss": "va xotinlaring"
+      "gloss": "xotinlaringni"
     },
     {
       "surface": "ובניך",
-      "gloss": "va oʻgʻullaring"
+      "gloss": "va oʻgʻillaringni"
     },
     {
       "surface": "לי",
@@ -80,6 +80,6 @@
       "gloss": "berasan"
     }
   ],
-  "timestamp": "2026-08-26T03:44:04.133065943Z",
+  "timestamp": "2026-08-26T09:54:10.972476032Z",
   "model": "glm-5.3"
 }

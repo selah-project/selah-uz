@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 32,
-  "translation": "Va yana uning xizmatkorlari Yahve, ⟨the⟩ Elohim haqida — qarshi — va Uning xizmatkori Xizqiyo haqida gapirdilar.",
+  "translation": "Va yana uning xizmatkorlari Yahve Elohim haqida — va uning xizmatkori Chizkiyahu haqida gapirdilar.",
   "tokens": [
     {
       "surface": "ועוד",
-      "gloss": "Va yana"
+      "gloss": "va yana"
     },
     {
       "surface": "דברו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "על",
-      "gloss": "qarshi"
+      "gloss": "haqida(qarshi)"
     },
     {
       "surface": "יהוה",
@@ -29,21 +29,21 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "⟨the⟩ Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "ועל",
-      "gloss": "va qarshi"
+      "gloss": "va haqida"
     },
     {
       "surface": "יחזקיהו",
-      "gloss": "Xizqiyo"
+      "gloss": "Chizkiyahu"
     },
     {
       "surface": "עבדו",
       "gloss": "uning xizmatkori"
     }
   ],
-  "timestamp": "2026-08-26T08:15:55.368227959Z",
+  "timestamp": "2026-08-26T10:06:15.305942091Z",
   "model": "glm-5.3"
 }

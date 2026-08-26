@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Va Moshe qaynotasi unga dedi: ⟨the⟩ ish yaxshi emas, kki sen qilmoqdasan.",
+  "translation": "Va Moshening qaynotasi unga dedi: sen qilayotgan ish yaxshi emas.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Va ... dedi"
+      "gloss": "va dedi"
     },
     {
       "surface": "חתן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kki"
+      "gloss": "ki"
     },
     {
       "surface": "אתה",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "עשה",
-      "gloss": "qilmoqda"
+      "gloss": "qilayotgan"
     }
   ],
-  "timestamp": "2026-08-26T00:55:53.350514837Z",
+  "timestamp": "2026-08-26T09:45:16.155252539Z",
   "model": "glm-5.3"
 }

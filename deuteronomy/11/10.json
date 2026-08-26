@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Zero, ⟨the⟩ yer ki senga kirib ⟨thither⟩ uni egallash uchun — Misr yeri kabi emas ⟨u⟩, undan sizlar chiqdingiz, unda urugʻingni ⟨את⟩ ekardingiz va oyogʻing bilan sugʻorardingiz, sabzavot bogʻi kabi.",
+  "translation": "Chunki er ki siz u yonga kirmoqdasiz uni meros olish uchun — Misr eri kabi emas ⟨u⟩, ki sizlar u yerdan chiqdingizlar, ki u yerda ekardingiz ⟨את⟩ urugʻingizni va oyoqlaringiz bilan sugʻorardingiz — sabzavot bogʻi kabi.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "zero"
+      "gloss": "chunki"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ yer"
+      "gloss": "er"
     },
     {
       "surface": "אשר",
@@ -21,19 +21,19 @@
     },
     {
       "surface": "אתה",
-      "gloss": "sen"
+      "gloss": "siz"
     },
     {
       "surface": "בא",
-      "gloss": "kirib"
+      "gloss": "kirmoqdasiz"
     },
     {
       "surface": "שמה",
-      "gloss": "⟨thither⟩ u yerga"
+      "gloss": "u yonga"
     },
     {
       "surface": "לרשתה",
-      "gloss": "uni egallash uchun"
+      "gloss": "uni meros olish uchun"
     },
     {
       "surface": "לא",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "כארץ",
-      "gloss": "yeri kabi"
+      "gloss": "…eri kabi"
     },
     {
       "surface": "מצרים",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "undan"
+      "gloss": "ki"
     },
     {
       "surface": "יצאתם",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "unda"
+      "gloss": "ki"
     },
     {
       "surface": "תזרע",
@@ -74,11 +74,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "urugʻingni"
+      "marks": "urugʻingizni"
     },
     {
       "surface": "זרעך",
-      "gloss": "urugʻingni"
+      "gloss": "urugʻingizni"
     },
     {
       "surface": "והשקית",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "ברגלך",
-      "gloss": "oyogʻing bilan"
+      "gloss": "oyoqlaringiz bilan"
     },
     {
       "surface": "כגן",
@@ -97,6 +97,6 @@
       "gloss": "sabzavot"
     }
   ],
-  "timestamp": "2026-08-26T01:51:57.859332042Z",
+  "timestamp": "2026-08-26T09:50:34.750141673Z",
   "model": "glm-5.3"
 }

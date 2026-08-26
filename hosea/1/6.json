@@ -5,11 +5,11 @@
   "book": "hosea",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va u yana homila boʻldi va qiz tugʻdi. Va ⟨u⟩ unga aytdi: Ismini Lo-Ruxama deb atаngiz, chunki Men Isroil uyiga yana rahm qilmayman, chunki ularga kechirib yuboraman.",
+  "translation": "U yana homila boʻldi va qiz tugʻdi, va ⟨u⟩ unga aytdi: uning ismini Lo-Ruxama qoʻy, chunki men Isroil uyiga ⟨את⟩ yana rahm qilmayman, chunki albatta ulardan kechaman.",
   "tokens": [
     {
       "surface": "ותהר",
-      "gloss": "homila boʻldi"
+      "gloss": "u homila boʻldi"
     },
     {
       "surface": "עוד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ותלד",
-      "gloss": "tugʻdi"
+      "gloss": "va tugʻdi"
     },
     {
       "surface": "בת",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "aytdi"
+      "gloss": "va aytdi"
     },
     {
       "surface": "לו",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "קרא",
-      "gloss": "atingiz"
+      "gloss": "qoʻy (chaqir)"
     },
     {
       "surface": "שמה",
-      "gloss": "ismini"
+      "gloss": "uning ismini"
     },
     {
       "surface": "לא",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "רחמה",
-      "gloss": "Ruxama"
+      "gloss": "Ruxama (rahm qilinmagan)"
     },
     {
       "surface": "כי",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "-mas"
+      "gloss": "yoʻq"
     },
     {
       "surface": "אוסיף",
-      "gloss": "yana"
+      "gloss": "yana (qoʻshib)"
     },
     {
       "surface": "עוד",
@@ -70,15 +70,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "uyiga"
+      "marks": "Isroil uyiga"
     },
     {
       "surface": "בית",
-      "gloss": "uyiga"
+      "gloss": "uy"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroilning"
+      "gloss": "Isroil"
     },
     {
       "surface": "כי",
@@ -86,17 +86,17 @@
     },
     {
       "surface": "נשא",
-      "gloss": "kechirib"
+      "gloss": "albatta"
     },
     {
       "surface": "אשא",
-      "gloss": "yuboraman"
+      "gloss": "koʻtarmoq\/kechaman"
     },
     {
       "surface": "להם",
-      "gloss": "ularga"
+      "gloss": "ulardan"
     }
   ],
-  "timestamp": "2026-08-26T05:33:39.283478717Z",
+  "timestamp": "2026-08-26T09:57:53.725211354Z",
   "model": "glm-5.3"
 }

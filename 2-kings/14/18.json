@@ -5,15 +5,11 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va Amatsyahning qolgan ishlari — ular Yehuda qirohlari kunlari asarlar kitobida yozilmaganmi?",
+  "translation": "Amatsiahu qolgan ishlari — ular kitobda, Yehuda podshohlari kunlari tarixi kitobida yozilgan emasmi?",
   "tokens": [
     {
-      "surface": "וגותר",
-      "gloss": ""
-    },
-    {
       "surface": "ויתר",
-      "gloss": "Va qolgani"
+      "gloss": "qolgan"
     },
     {
       "surface": "דברי",
@@ -21,7 +17,7 @@
     },
     {
       "surface": "אמציהו",
-      "gloss": "Amatsyahning"
+      "gloss": "Amatsiahu"
     },
     {
       "surface": "הלא",
@@ -33,19 +29,19 @@
     },
     {
       "surface": "כתובים",
-      "gloss": "yozilmagan"
+      "gloss": "yozilgan"
     },
     {
       "surface": "על",
-      "gloss": "unda"
+      "gloss": "ustida"
     },
     {
       "surface": "ספר",
-      "gloss": "kitobida"
+      "gloss": "kitobda"
     },
     {
       "surface": "דברי",
-      "gloss": "asarlar"
+      "gloss": "tarixi"
     },
     {
       "surface": "הימים",
@@ -53,13 +49,13 @@
     },
     {
       "surface": "למלכי",
-      "gloss": "qirohlari"
+      "gloss": "podshohlari"
     },
     {
       "surface": "יהודה",
       "gloss": "Yehuda"
     }
   ],
-  "timestamp": "2026-08-26T03:56:02.004311731Z",
+  "timestamp": "2026-08-26T09:54:43.129413798Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Jamoa uchun — sizlar uchun ham, muhojir musofir uchun ham bitta farz ⟨is⟩; abadiy farz avlodlaringiz uchun: sizlar qanday boʻlsangiz, musofir ham Yahve huzurida shunday boʻladi.",
+  "translation": "Jamoa uchun — sizlar uchun ham, muqim yashovchi ger uchun ham bitta ⟨qonun⟩, avlodlaringiz uchun abadiy qonun: sizlar qanday boʻlsangiz, ger ham Yahve huzurida shunday boʻladi.",
   "tokens": [
     {
       "surface": "הקהל",
-      "gloss": "jamoa"
+      "gloss": "jamoa uchun"
     },
     {
       "surface": "חקה",
-      "gloss": "farz"
+      "gloss": "bitta qonun"
     },
     {
       "surface": "אחת",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "ולגר",
-      "gloss": "va musofir uchun"
+      "gloss": "va ger uchun"
     },
     {
       "surface": "הגר",
-      "gloss": "muhojir musofir"
+      "gloss": "muqim yashovchi ger"
     },
     {
       "surface": "חקת",
-      "gloss": "farz"
+      "gloss": "qonun"
     },
     {
       "surface": "עולם",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "ככם",
-      "gloss": "sizlar qanday"
+      "gloss": "sizlar qanday boʻlsangiz"
     },
     {
       "surface": "כגר",
-      "gloss": "musofir ham shunday"
+      "gloss": "ger ham shunday"
     },
     {
       "surface": "יהיה",
@@ -64,6 +64,6 @@
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-26T01:34:32.186381529Z",
+  "timestamp": "2026-08-26T09:48:15.680466043Z",
   "model": "glm-5.3"
 }

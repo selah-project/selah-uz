@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va Yehonatan oʻz asbob-uskunalarini ⟨את⟩ oʻz yigitchasiga — u bilan boʻlganiga — berdi va unga dedi: „Bor, shaharga olib bor.“",
+  "translation": "Va Yehonatan ⟨את⟩ qurollarini oʻz yigitiga berdi va unga dedi: bor, shaharga olib kir.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -18,23 +18,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "asbob-uskunalarni"
+      "marks": "qurollarini"
     },
     {
       "surface": "כליו",
-      "gloss": "oʻz asbob-uskunalarni"
+      "gloss": "qurollari"
     },
     {
       "surface": "אל",
-      "gloss": "-ga"
+      "gloss": "ga"
     },
     {
       "surface": "הנער",
-      "gloss": "⟨the⟩ yigitcha"
+      "gloss": "yigit"
     },
     {
       "surface": "אשר",
-      "gloss": "—ki"
+      "gloss": "ki"
     },
     {
       "surface": "לו",
@@ -54,13 +54,13 @@
     },
     {
       "surface": "הביא",
-      "gloss": "olib bor"
+      "gloss": "olib kir"
     },
     {
       "surface": "העיר",
-      "gloss": "⟨the⟩ shahar"
+      "gloss": "shahar"
     }
   ],
-  "timestamp": "2026-08-26T02:55:08.811138578Z",
+  "timestamp": "2026-08-26T09:52:52.452297402Z",
   "model": "glm-5.3"
 }

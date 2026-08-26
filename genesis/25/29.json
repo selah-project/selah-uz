@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va Yaakov shoʻrva qaynatdi, va Esav daladan keldi, va u holdan charchagan edi.",
+  "translation": "Va Yaakov qaynatma qaynatdi, va Esav daladan keldi, va u ⟨⟩ charchagan edi",
   "tokens": [
     {
       "surface": "ויזד",
-      "gloss": "qaynatdi"
+      "gloss": "va qaynatdi"
     },
     {
       "surface": "יעקב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נזיד",
-      "gloss": "shoʻrva"
+      "gloss": "qaynatma"
     },
     {
       "surface": "ויבא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "-dan"
+      "gloss": "dan"
     },
     {
       "surface": "השדה",
@@ -44,6 +44,6 @@
       "gloss": "charchagan"
     }
   ],
-  "timestamp": "2026-08-26T00:38:06.381880610Z",
+  "timestamp": "2026-08-26T10:20:38.912642173Z",
   "model": "glm-5.3"
 }

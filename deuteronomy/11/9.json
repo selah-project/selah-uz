@@ -5,19 +5,19 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va ⟨buning uchun⟩ — kunlaringizni uzaytirasizlar ⟨the⟩ tuproqda, ki Yahve otalaringizga qasam ichdi uni ularga va zuriyatlariga berish uchun: sut va asal oqizuvchi yer.",
+  "translation": "Va maqsadadikki kunlarni uzoq qilasizlar tuproq ustida ki Yahve otalaringizga qasam ichdi ularga berish uchun va urugʻlariga — sut va asal oqayotgan yer.",
   "tokens": [
     {
       "surface": "ולמען",
-      "gloss": "va ⟨buning uchun⟩"
+      "gloss": "va maqsadadikki"
     },
     {
       "surface": "תאריכו",
-      "gloss": "uzaytirasizlar"
+      "gloss": "uzoq qilasizlar"
     },
     {
       "surface": "ימים",
-      "gloss": "kunlaringizni"
+      "gloss": "kunlarni"
     },
     {
       "surface": "על",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "⟨the⟩ tuproq"
+      "gloss": "tuproq"
     },
     {
       "surface": "אשר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "ולזרעם",
-      "gloss": "va zuriyatlariga"
+      "gloss": "va urugʻlariga"
     },
     {
       "surface": "ארץ",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "זבת",
-      "gloss": "oqizuvchi"
+      "gloss": "oqayotgan"
     },
     {
       "surface": "חלב",
@@ -72,6 +72,6 @@
       "gloss": "va asal"
     }
   ],
-  "timestamp": "2026-08-26T01:51:57.859010994Z",
+  "timestamp": "2026-08-26T09:50:34.749939988Z",
   "model": "glm-5.3"
 }

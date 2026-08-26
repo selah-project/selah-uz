@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va ⟨the⟩ shud kechasi lager ustiga tushganda, man uning ustiga tushadi.",
+  "translation": "Va shabnam lager ustiga tushganida kechasi, man usti-ga tushardi.",
   "tokens": [
     {
       "surface": "וברדת",
-      "gloss": "va tushganda"
+      "gloss": "va ... tushganida"
     },
     {
       "surface": "הטל",
-      "gloss": "shud"
+      "gloss": "shabnam"
     },
     {
       "surface": "על",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ירד",
-      "gloss": "tushadi"
+      "gloss": "tushardi"
     },
     {
       "surface": "המן",
@@ -37,9 +37,9 @@
     },
     {
       "surface": "עליו",
-      "gloss": "uning ustiga"
+      "gloss": "usti-ga"
     }
   ],
-  "timestamp": "2026-08-26T01:33:03.965045105Z",
+  "timestamp": "2026-08-26T09:47:53.141937035Z",
   "model": "glm-5.3"
 }

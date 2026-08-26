@@ -5,11 +5,11 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Va odamlar u yerdan turdilar va Sodomning yuziga ⟨tomonga⟩ qaradilar; Avraham esa ularni kuzatib qoʻyish uchun ularga hamroh ketdi.",
+  "translation": "U ⟨the⟩ odamlar u yerdan turdilar va Sodomning yuz tomoniga qaradilar va Avraham ularga hamroh boʻlib ularni kuzatib qoʻyish uchun ketdi.",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "va turganlar"
+      "gloss": "turdilar"
     },
     {
       "surface": "משם",
@@ -17,15 +17,19 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "odamlar"
+      "gloss": "⟨the⟩ odamlar"
     },
     {
       "surface": "וישקפו",
-      "gloss": "va qaradilar"
+      "gloss": "qaradilar"
     },
     {
-      "surface": "על פני",
-      "gloss": "yuziga"
+      "surface": "על",
+      "gloss": "tomoniga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "yuz"
     },
     {
       "surface": "סדם",
@@ -48,6 +52,6 @@
       "gloss": "ularni joʻnatish uchun"
     }
   ],
-  "timestamp": "2026-08-26T00:35:01.400060510Z",
+  "timestamp": "2026-08-26T10:20:34.733644238Z",
   "model": "glm-5.3"
 }

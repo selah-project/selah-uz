@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 96,
-  "translation": "Yahve oldida, chunki U keladi, chunki U keladi ⟨the⟩ erni hukm qilishga; U tevalni ⟨the⟩ odil-adolat bilan hukm qiladi va xalqlarni oʻz sodiqligida ⟨hukm qiladi⟩.",
+  "translation": "Yahve oldida, chunki U keladi, chunki U keladi yerni sud qilishga — U olamni sedek bilan sud qiladi va xalqlarni oʻz imonida ⟨sud qiladi⟩.",
   "tokens": [
     {
       "surface": "לפני",
@@ -33,23 +33,23 @@
     },
     {
       "surface": "לשפט",
-      "gloss": "hukm qilishga"
+      "gloss": "sud qilishga"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ erni"
+      "gloss": "yerni"
     },
     {
       "surface": "ישפט",
-      "gloss": "hukm qiladi"
+      "gloss": "sud qiladi"
     },
     {
       "surface": "תבל",
-      "gloss": "tevalni"
+      "gloss": "olamni"
     },
     {
       "surface": "בצדק",
-      "gloss": "odil-adolat bilan"
+      "gloss": "sedek bilan"
     },
     {
       "surface": "ועמים",
@@ -57,9 +57,9 @@
     },
     {
       "surface": "באמונתו",
-      "gloss": "oʻz sodiqligida"
+      "gloss": "oʻz imonida"
     }
   ],
-  "timestamp": "2026-08-26T06:23:58.608060689Z",
+  "timestamp": "2026-08-26T10:07:00.515888101Z",
   "model": "glm-5.3"
 }

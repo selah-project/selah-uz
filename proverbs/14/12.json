@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Yoʻl borki, odamning koʻz oldida toʻgʻri ⟨is⟩, uning oxirati esa — oʻlim yoʻllari.",
+  "translation": "Bor yoʻl — toʻgʻri ⟨odamning⟩ koʻz oldida, lekin uning oxiri — oʻlim yoʻllaridir.",
   "tokens": [
     {
       "surface": "יש",
-      "gloss": "borki"
+      "gloss": "bor"
     },
     {
       "surface": "דרך",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "איש",
-      "gloss": "odamning"
+      "gloss": "⟨odamning⟩"
     },
     {
       "surface": "ואחריתה",
-      "gloss": "uning oxirati esa"
+      "gloss": "lekin uning oxiri"
     },
     {
       "surface": "דרכי",
@@ -40,6 +40,6 @@
       "gloss": "oʻlim"
     }
   ],
-  "timestamp": "2026-08-26T06:44:20.318841935Z",
+  "timestamp": "2026-08-26T10:01:52.607311534Z",
   "model": "glm-5.3"
 }

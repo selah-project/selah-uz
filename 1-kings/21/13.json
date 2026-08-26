@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 21,
-  "translation": "Va ikki kishi — Belial oʻgʻillari — keldi va uning qarshisida oʻtirdi; Belial odamlari xalq oldida ⟨את⟩ Nabotga qarshi guvohlik qilib aytdi: „Nabot Elohimni va shohni soʻkdi“. Uni shahardan tashqariga chiqardilar, toshlar bilan toshboyor qildilar va u oʻldi.",
+  "translation": "Va ikki kishi kirdi — beliyaal oʻgʻillari — va uning roʻparasida oʻtirdilar; va beliyaal odamlari Nabotga qarshi, xalq oldida guvohlik berib dedilar: Nabot Elohimni va malikni laʼnatladi. Va uni shahar tashqarisiga chiqardilar va uni toshlar bilan toshboron qildilar va u oʻldi.",
   "tokens": [
     {
       "surface": "ויבאו",
-      "gloss": "keldi"
+      "gloss": "va kirdi"
     },
     {
       "surface": "שני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "האנשים",
-      "gloss": "⟨the⟩ kishi"
+      "gloss": "kishi"
     },
     {
       "surface": "בני",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "בליעל",
-      "gloss": "Belial"
+      "gloss": "beliyaal"
     },
     {
       "surface": "וישבו",
-      "gloss": "oʻtirdi"
+      "gloss": "va oʻtirdilar"
     },
     {
       "surface": "נגדו",
-      "gloss": "uning qarshisida"
+      "gloss": "uning roʻparasida"
     },
     {
       "surface": "ויעדהו",
-      "gloss": "guvohlik qildi unga qarshi"
+      "gloss": "va guvohlik berdilar unga"
     },
     {
       "surface": "אנשי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הבליעל",
-      "gloss": "Belial"
+      "gloss": "beliyaal"
     },
     {
       "surface": "את",
@@ -62,15 +62,15 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ xalq"
+      "gloss": "xalq"
     },
     {
       "surface": "לאמר",
-      "gloss": "deyib"
+      "gloss": "dedilar"
     },
     {
       "surface": "ברך",
-      "gloss": "soʻkdi"
+      "gloss": "laʼnatladi"
     },
     {
       "surface": "נבות",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "Elohimni"
+      "gloss": "Elohim"
     },
     {
       "surface": "ומלך",
-      "gloss": "va shohni"
+      "gloss": "va malik"
     },
     {
       "surface": "ויצאהו",
-      "gloss": "chiqardilar uni"
+      "gloss": "va chiqardilar uni"
     },
     {
       "surface": "מחוץ",
@@ -94,11 +94,11 @@
     },
     {
       "surface": "לעיר",
-      "gloss": "⟨the⟩ shahardan"
+      "gloss": "shahar"
     },
     {
       "surface": "ויסקלהו",
-      "gloss": "toshboyor qildilar uni"
+      "gloss": "va toshboron qildilar uni"
     },
     {
       "surface": "באבנים",
@@ -106,9 +106,9 @@
     },
     {
       "surface": "וימת",
-      "gloss": "va u oʻldi"
+      "gloss": "va oʻldi"
     }
   ],
-  "timestamp": "2026-08-26T03:43:59.431155705Z",
+  "timestamp": "2026-08-26T09:54:21.721499591Z",
   "model": "glm-5.3"
 }

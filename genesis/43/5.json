@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 43,
-  "translation": "Agar uni yubormasang, tushmaymiz, chunki ⟨the⟩ odam bizga aytdi: Ukning yuzini koʻrmaysizlar, agar ukangiz sizlar bilan ⟨את⟩ boʻlmasa.",
+  "translation": "Agar sen uni yubormasang, biz tushmaymiz, chunki ⟨the⟩ odam bizga aytdi: „Yuzimni koʻrmaysizlar, ukongiz sizlar bilan ⟨את⟩ boʻlmasa.“",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "אינך",
-      "gloss": "yubormasang"
+      "gloss": "sen yubormasang"
     },
     {
       "surface": "משלח",
-      "gloss": "yubormoq"
+      "gloss": "yubormasang"
     },
     {
       "surface": "לא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נרד",
-      "gloss": "tushmaymiz"
+      "gloss": "biz tushmaymiz"
     },
     {
       "surface": "כי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "the odam"
+      "gloss": "⟨the⟩ odam"
     },
     {
       "surface": "אמר",
@@ -53,15 +53,15 @@
     },
     {
       "surface": "פני",
-      "gloss": "yuzini"
+      "gloss": "yuzimni"
     },
     {
       "surface": "בלתי",
-      "gloss": "agar… boʻlmasa"
+      "gloss": "boʻlmasa"
     },
     {
       "surface": "אחיכם",
-      "gloss": "ukangiz"
+      "gloss": "ukongiz"
     },
     {
       "surface": "אתכם",
@@ -69,6 +69,6 @@
       "marks": "sizlar bilan"
     }
   ],
-  "timestamp": "2026-08-26T00:46:49.491011933Z",
+  "timestamp": "2026-08-26T10:20:51.480864067Z",
   "model": "glm-5.3"
 }

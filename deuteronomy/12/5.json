@@ -5,31 +5,31 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Balki ⟨⟨the⟩⟩ joyga — Yahve, Elohimlaringiz barcha qabilalaringizdan tanlaydigan joyga — ⟨את⟩ Ismini oʻsha yerga qoʻyish uchun, uning maskanini izlaysizlar va u yerga kelursizlar.",
+  "translation": "Balki oʻsha joyga — barcha qabilalaringizdan Yahve, Elohimingiz tanlagan joyga, ⟨את⟩ Ismini oʻsha yerga qoʻyish uchun, uning maskanini izlaysizlar va oʻsha yerga borasiz.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "balki"
+      "gloss": "bal­ki"
     },
     {
       "surface": "אם",
-      "gloss": "…-dan boshqa"
+      "gloss": "…"
     },
     {
       "surface": "אל",
-      "gloss": "…-ga"
+      "gloss": "-ga"
     },
     {
       "surface": "המקום",
-      "gloss": "joyga"
+      "gloss": "joy"
     },
     {
       "surface": "אשר",
-      "gloss": "…-ni"
+      "gloss": "oʻsha"
     },
     {
       "surface": "יבחר",
-      "gloss": "tanlaydigan"
+      "gloss": "tanlagan"
     },
     {
       "surface": "יהוה",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohimlaringiz"
+      "gloss": "Elohimingiz"
     },
     {
       "surface": "מכל",
-      "gloss": "barchasidan"
+      "gloss": "barcha…dan"
     },
     {
       "surface": "שבטיכם",
@@ -54,7 +54,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Ismini"
+      "marks": "Ismi"
     },
     {
       "surface": "שמו",
@@ -74,13 +74,13 @@
     },
     {
       "surface": "ובאת",
-      "gloss": "va kelursizlar"
+      "gloss": "va borasiz"
     },
     {
       "surface": "שמה",
-      "gloss": "u yerga"
+      "gloss": "oʻsha yerga"
     }
   ],
-  "timestamp": "2026-08-26T01:56:09.510199206Z",
+  "timestamp": "2026-08-26T09:50:10.542475686Z",
   "model": "glm-5.3"
 }

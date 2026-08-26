@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 33,
-  "translation": "Va u aytdi: Yahve Sinaydan keldi va Seʼirdan ularga chiqib porladi, Paron togʻidan yorugʻlik sochdi va ming-ming muqaddaslar bilan keldi; oʻng tomonidan ularga olovli qonun ⟨bor⟩.",
+  "translation": "Va u aytdi: Yahve Sinaydan keldi va Seʻirdan ularga ⟨u⟩ yarqiradi, Paran togʻidan nurlandi va ming-ming muqaddaslar bilan keldi, oʻng tomonidan ularga olov-qonun ⟨bor⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "וזרח",
-      "gloss": "va chiqib porladi"
+      "gloss": "va yarqiradi"
     },
     {
       "surface": "משעיר",
-      "gloss": "Seʼirdan"
+      "gloss": "Seʻirdan"
     },
     {
       "surface": "למו",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הופיע",
-      "gloss": "yorugʻlik sochdi"
+      "gloss": "nurlandi"
     },
     {
       "surface": "מהר",
@@ -45,11 +45,7 @@
     },
     {
       "surface": "פארן",
-      "gloss": "Paron"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": ""
+      "gloss": "Paran"
     },
     {
       "surface": "ואתה",
@@ -65,17 +61,17 @@
     },
     {
       "surface": "מימינו",
-      "gloss": "oʻng tomonidan"
+      "gloss": "uning oʻng tomonidan"
     },
     {
       "surface": "אשדת",
-      "gloss": "olovli qonun"
+      "gloss": "olov-qonun"
     },
     {
       "surface": "למו",
       "gloss": "ularga"
     }
   ],
-  "timestamp": "2026-08-26T09:00:21.642895309Z",
+  "timestamp": "2026-08-26T09:50:56.290317154Z",
   "model": "glm-5.3"
 }

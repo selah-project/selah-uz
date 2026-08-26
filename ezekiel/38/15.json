@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 38,
-  "translation": "Va oʻz joyingdan, shimol chetlaridan kelasan — sen, va koʻp xalqlar ⟨את⟩ bilan, ularning barchasi ot minganlar, katta jamoa va koʻp qoʻshin.",
+  "translation": "Va sen oʻz joyingdan, shimolning chekka burchaklaridan kelasan, sen va koʻp xalqlar ⟨את⟩ (sen bilan), barchasi ot minuvchilar — katta yigʻin va koʻp qoʻshin.",
   "tokens": [
     {
       "surface": "ובאת",
-      "gloss": "va kelasan"
+      "gloss": "Va sen kelasan"
     },
     {
       "surface": "ממקומך",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מירכתי",
-      "gloss": "chetlaridan"
+      "gloss": "chekka burchaklaridan"
     },
     {
       "surface": "צפון",
@@ -37,23 +37,24 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ bilan"
+      "gloss": "⟨את⟩",
+      "marks": "sen (yondoshlik: „sen bilan“)"
     },
     {
       "surface": "רכבי",
-      "gloss": "ot minganlar"
+      "gloss": "minuvchilar"
     },
     {
       "surface": "סוסים",
-      "gloss": "ot"
+      "gloss": "otlar"
     },
     {
       "surface": "כלם",
-      "gloss": "ularning barchasi"
+      "gloss": "barchasi"
     },
     {
       "surface": "קהל",
-      "gloss": "jamoа"
+      "gloss": "yigʻin"
     },
     {
       "surface": "גדול",
@@ -68,6 +69,6 @@
       "gloss": "koʻp"
     }
   ],
-  "timestamp": "2026-08-26T05:28:40.331174697Z",
+  "timestamp": "2026-08-26T09:57:29.409655459Z",
   "model": "glm-5.3"
 }

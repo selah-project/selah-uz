@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 10,
-  "translation": "U yerdan Gudgodaga koʻchib oʻtdilar, va Gudgodadan Yotvataga — suv soylari ⟨the⟩ yurt.",
+  "translation": "U yerdan Gudgodaga safar qildilar, va Gudgodadan Yotvata — suv soylari ⟨⟨bor⟩⟩ erga.",
   "tokens": [
     {
       "surface": "משם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נסעו",
-      "gloss": "koʻchib oʻtdilar"
+      "gloss": "safar qildilar"
     },
     {
       "surface": "הגדגדה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ומן",
-      "gloss": "va -dan"
+      "gloss": "va ... dan"
     },
     {
       "surface": "הגדגדה",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "יטבתה",
-      "gloss": "Yotvataga"
+      "gloss": "Yotvata"
     },
     {
       "surface": "ארץ",
-      "gloss": "yurt"
+      "gloss": "er"
     },
     {
       "surface": "נחלי",
@@ -44,6 +44,6 @@
       "gloss": "suv"
     }
   ],
-  "timestamp": "2026-08-26T01:53:02.327382253Z",
+  "timestamp": "2026-08-26T09:49:46.725794699Z",
   "model": "glm-5.3"
 }

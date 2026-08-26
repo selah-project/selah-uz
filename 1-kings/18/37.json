@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Ijobat ber meni, Yahve, ijobat ber meni, va bilib oladi bu xalq ki Sen Yahve san, ⟨the⟩ Elohim, va Sen orqaga qaytarding ⟨את⟩ ularning yuragini.",
+  "translation": "Javob ber menga, Yahve, javob ber menga, va bu xalq bilib olginki, Sen Yahve — ⟨the⟩ Elohimsan, va Sen ⟨את⟩ ularning yuragini orqaga burding.",
   "tokens": [
     {
       "surface": "ענני",
-      "gloss": "ijobat ber meni"
+      "gloss": "javob ber menga"
     },
     {
       "surface": "יהוה",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "ענני",
-      "gloss": "ijobat ber meni"
+      "gloss": "javob ber menga"
     },
     {
       "surface": "וידעו",
-      "gloss": "va bilib oladi"
+      "gloss": "va bilib olginki"
     },
     {
       "surface": "העם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הסבת",
-      "gloss": "qaytarding"
+      "gloss": "burding"
     },
     {
       "surface": "את",
@@ -62,13 +62,13 @@
     },
     {
       "surface": "לבם",
-      "gloss": "ularning yuragi"
+      "gloss": "ularning yuragini"
     },
     {
       "surface": "אחרנית",
       "gloss": "orqaga"
     }
   ],
-  "timestamp": "2026-08-26T03:42:56.663190528Z",
+  "timestamp": "2026-08-26T10:22:42.208837440Z",
   "model": "glm-5.3"
 }

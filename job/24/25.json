@@ -5,8 +5,41 @@
   "book": "job",
   "lang": "uz",
   "chapter": 24,
-  "translation": "Va agar yoʻq boʻlsa, endi kim meni yolgʻonchi qiladi va soʻzimni ⟨את⟩ yoʻqqa chiqaradi?",
-  "tokens": [],
-  "timestamp": "2026-08-26T07:02:00.626492572Z",
+  "translation": "Va agar bunday boʻlmasa, endi kim meni yolgʻonchi qiladi va soʻzimni ⟨⟨hech narsa⟩⟩ga aylantiradi?",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Va agar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "boʻlmasa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "endi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kim"
+    },
+    {
+      "surface": "יכזיבני",
+      "gloss": "meni yolgʻonchi qiladi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "va aylantiradi"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "hech narsaga"
+    },
+    {
+      "surface": "מלתי",
+      "gloss": "soʻzimni"
+    }
+  ],
+  "timestamp": "2026-08-26T10:02:26.510731034Z",
   "model": "glm-5.3"
 }

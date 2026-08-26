@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Va toza bir kishi ⟨את⟩ buqaning kulini yigʻib, lagerdan tashqarida toza joyga qoʻyadi; va u Isroil oʻgʻillari jamoasi uchun saqlash uchun — nidа suvlari uchun — gunoh qurbonligi boʻladi; u ⟨shundir⟩.",
+  "translation": "Va toza bir odam buqaning kulini ⟨את⟩ yigʻib, lagerdan tashqarida toza joyda qoʻyadi; va u Yisroel oʻgʻillari jamoati uchun nidoz suvlari uchun saqlanadigan narsa boʻladi — gunohqurbonlikdir u.",
   "tokens": [
     {
       "surface": "ואסף",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "kishi"
+      "gloss": "odam"
     },
     {
       "surface": "טהור",
@@ -22,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "buqaning kulini"
+      "marks": "kulini"
     },
     {
       "surface": "אפר",
@@ -54,11 +54,11 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "va u boʻladi"
+      "gloss": "va boʻladi"
     },
     {
       "surface": "לעדת",
-      "gloss": "jamoasi uchun"
+      "gloss": "jamoati uchun"
     },
     {
       "surface": "בני",
@@ -66,7 +66,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil"
+      "gloss": "Yisroel"
     },
     {
       "surface": "למשמרת",
@@ -78,17 +78,17 @@
     },
     {
       "surface": "נדה",
-      "gloss": "nida (poklanish)"
+      "gloss": "nidoz"
     },
     {
       "surface": "חטאת",
-      "gloss": "gunoh qurbonligi"
+      "gloss": "gunohqurbonlik"
     },
     {
       "surface": "הוא",
-      "gloss": "u ⟨shundir⟩"
+      "gloss": "u"
     }
   ],
-  "timestamp": "2026-08-26T01:37:36.736969325Z",
+  "timestamp": "2026-08-26T09:48:25.049345432Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 20,
-  "translation": "⟨The⟩ yigit keldi, va David janub yonidan turdi va yuzi bilan yerga yiqildi va uch marta sajda qildi; va har biri ⟨את⟩ oʻz yaqinini oʻpdi, va har biri ⟨את⟩ oʻz yaqinini yigʻladi — David ⟨gʻamdan koʻproq⟩ yigʻladi.",
+  "translation": "Yigit keldi, va Dovud janubdagi joydan turdi, yuzi bilan yerga yiqildi va uch marta taʼzim qildi; har biri ⟨את⟩ doʻstini oʻpdi, va har biri ⟨את⟩ doʻsti bilan yigʻladi — Dovud ⟨koʻproq yigʻladi⟩.",
   "tokens": [
     {
       "surface": "הנער",
-      "gloss": "⟨The⟩ yigit"
+      "gloss": "yigit"
     },
     {
       "surface": "בא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ודוד",
-      "gloss": "va David"
+      "gloss": "va Dovud"
     },
     {
       "surface": "קם",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנגב",
-      "gloss": "janub"
+      "gloss": "janubdagi"
     },
     {
       "surface": "ויפל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "וישתחו",
-      "gloss": "va sajda qildi"
+      "gloss": "va taʼzim qildi"
     },
     {
       "surface": "שלש",
@@ -66,11 +66,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oʻz yaqinini"
+      "marks": "doʻstini"
     },
     {
       "surface": "רעהו",
-      "gloss": "oʻz yaqinini"
+      "gloss": "doʻstini"
     },
     {
       "surface": "ויבכו",
@@ -83,11 +83,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oʻz yaqinini"
+      "marks": "doʻsti"
     },
     {
       "surface": "רעהו",
-      "gloss": "oʻz yaqinini"
+      "gloss": "doʻsti"
     },
     {
       "surface": "עד",
@@ -95,13 +95,13 @@
     },
     {
       "surface": "דוד",
-      "gloss": "David"
+      "gloss": "Dovud"
     },
     {
       "surface": "הגדיל",
-      "gloss": "koʻproq yigʻladi"
+      "gloss": "⟨koʻproq yigʻladi⟩"
     }
   ],
-  "timestamp": "2026-08-26T02:55:11.483250906Z",
+  "timestamp": "2026-08-26T09:53:00.424795981Z",
   "model": "glm-5.3"
 }

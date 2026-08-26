@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 43,
-  "translation": "Va u menga dedi: Odam oʻgʻli, taxtimning oʻrni va oyoq kaftlarimning oʻrni — bu ⟨the⟩ joyki, unda men Isroil oʻgʻillari orasida abadiy yashayman; va Isroil uyi endi muqaddas ismimi nopok qilmasin — ular va podshohlari, zinolari bilan va podshohlarining jasadlari bilan, balandliklarida.",
+  "translation": "Va U menga aytdi: Inson oʻgʻli, ⟨את⟩ taxtimning oʻrnini va ⟨את⟩ oyoq kaftlarimning oʻrnini — bu Men abadiy Isroil oʻgʻillarining oʻrtasida yashaydigan joy; va Isroil uyi endi muqaddas Ismimni buzmaydi — ular oʻzlari va ularning podshohlari oʻz zinolari bilan va oʻz podshohlarining jasadlari bilan, oʻz balandliklarida.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "va-u-dedi"
+      "gloss": "va aytdi"
     },
     {
       "surface": "אלי",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "אדם",
-      "gloss": "odam"
+      "gloss": "Inson"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oʻrni (taxtimning)"
+      "marks": "taxtimning oʻrnini"
     },
     {
       "surface": "מקום",
-      "gloss": "oʻrni"
+      "gloss": "oʻrnini"
     },
     {
       "surface": "כסאי",
@@ -39,23 +39,23 @@
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "oʻrni (oyoq kaftlarimning)"
+      "marks": "oyoq kaftlarimning oʻrnini"
     },
     {
       "surface": "מקום",
-      "gloss": "oʻrni"
+      "gloss": "oʻrnini"
     },
     {
       "surface": "כפות",
-      "gloss": "kaftlari"
+      "gloss": "kaftlarimning"
     },
     {
       "surface": "רגלי",
-      "gloss": "oyoqlarimning"
+      "gloss": "oyoq"
     },
     {
       "surface": "אשר",
-      "gloss": "kimki-unda"
+      "gloss": "buki"
     },
     {
       "surface": "אשכן",
@@ -63,15 +63,15 @@
     },
     {
       "surface": "שם",
-      "gloss": "unda"
+      "gloss": "u yerda"
     },
     {
       "surface": "בתוך",
-      "gloss": "orasida"
+      "gloss": "oʻrtasida"
     },
     {
       "surface": "בני",
-      "gloss": "oʻgʻillari"
+      "gloss": "oʻgʻillarining"
     },
     {
       "surface": "ישראל",
@@ -83,15 +83,15 @@
     },
     {
       "surface": "ולא",
-      "gloss": "va-emas"
+      "gloss": "va endi yoʻq"
     },
     {
       "surface": "יטמאו",
-      "gloss": "nopok-qilsinlar"
+      "gloss": "buzsinlar"
     },
     {
       "surface": "עוד",
-      "gloss": "end"
+      "gloss": "yana"
     },
     {
       "surface": "בית",
@@ -103,37 +103,37 @@
     },
     {
       "surface": "שם",
-      "gloss": "ismi"
+      "gloss": "Ismimni"
     },
     {
       "surface": "קדשי",
-      "gloss": "muqaddas…im"
+      "gloss": "muqaddas"
     },
     {
       "surface": "המה",
-      "gloss": "ular"
+      "gloss": "ular oʻzlari"
     },
     {
       "surface": "ומלכיהם",
-      "gloss": "va-podshohlari"
+      "gloss": "va ularning podshohlari"
     },
     {
       "surface": "בזנותם",
-      "gloss": "zinolarida"
+      "gloss": "oʻz zinolari bilan"
     },
     {
       "surface": "ובפגרי",
-      "gloss": "va-jasadlarida"
+      "gloss": "va jasadlari bilan"
     },
     {
       "surface": "מלכיהם",
-      "gloss": "podshohlarining"
+      "gloss": "ularning podshohlarining"
     },
     {
       "surface": "במותם",
-      "gloss": "balandliklarida"
+      "gloss": "oʻz balandliklarida"
     }
   ],
-  "timestamp": "2026-08-26T05:30:47.415642716Z",
+  "timestamp": "2026-08-26T10:23:47.415131595Z",
   "model": "glm-5.3"
 }

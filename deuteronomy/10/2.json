@@ -5,15 +5,15 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va Men taxtalarga avvalgi taxtalarda boʻlgan ⟨את⟩ soʻzlarni — seni singanlaringni — yozaman, va sen ularni sandiqqa qoʻyasан.",
+  "translation": "Va ularga yozaman — taxtalarga ⟨את⟩ soʻzlarni, ki ular birinchi taxtalarda edilar, seni sindirganlaringni; va sen ularni sandiqqa qoʻyasansan.",
   "tokens": [
     {
       "surface": "ואכתב",
-      "gloss": "va Men yozaman"
+      "gloss": "va yozaman"
     },
     {
       "surface": "על",
-      "gloss": "-ga (ustiga)"
+      "gloss": "ustiga"
     },
     {
       "surface": "הלחת",
@@ -34,19 +34,19 @@
     },
     {
       "surface": "היו",
-      "gloss": "boʻlgan"
+      "gloss": "edilar"
     },
     {
       "surface": "על",
-      "gloss": "-da (ustida)"
+      "gloss": "ustida"
     },
     {
       "surface": "הלחת",
-      "gloss": "taxtalarda"
+      "gloss": "taxtalar"
     },
     {
       "surface": "הראשנים",
-      "gloss": "avvalgi"
+      "gloss": "birinchi"
     },
     {
       "surface": "אשר",
@@ -54,17 +54,17 @@
     },
     {
       "surface": "שברת",
-      "gloss": "sening singanlaring"
+      "gloss": "sindirganlaring"
     },
     {
       "surface": "ושמתם",
-      "gloss": "va qoʻyasан"
+      "gloss": "va qoʻyasansan"
     },
     {
       "surface": "בארון",
       "gloss": "sandiqqa"
     }
   ],
-  "timestamp": "2026-08-26T01:53:27.811200576Z",
+  "timestamp": "2026-08-26T09:49:51.037654243Z",
   "model": "glm-5.3"
 }

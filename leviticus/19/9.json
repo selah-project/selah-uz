@@ -5,24 +5,24 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Va oʻz yeringizning hosilini oʻrganda ⟨את⟩ hosilani butunlay oʻrmay qoʻyma — dalang ⟨the⟩ chetini oʻrishda tugatma, va hosiling ⟨the⟩ toʻplamini (leket) toʻplama.",
+  "translation": "Oʻz eringizning hosilini oʻrayotganingizda ⟨את⟩ hosilni eringizning — dalangizning chetini oʻrib tugatmang, va hosilingizning sochilgan donini termang.",
   "tokens": [
     {
       "surface": "ובקצרכם",
-      "gloss": "Va oʻz yeringizning hosilini oʻrganda"
+      "gloss": "oʻrayotganingizda"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hosila"
+      "marks": "hosil"
     },
     {
       "surface": "קציר",
-      "gloss": "hosila"
+      "gloss": "hosil"
     },
     {
       "surface": "ארצכם",
-      "gloss": "yeringiz"
+      "gloss": "eringizning"
     },
     {
       "surface": "לא",
@@ -30,27 +30,27 @@
     },
     {
       "surface": "תכלה",
-      "gloss": "butunlay oʻrmay qoʻyma (tugatma)"
+      "gloss": "tugatmang"
     },
     {
       "surface": "פאת",
-      "gloss": "chet"
+      "gloss": "cheti"
     },
     {
       "surface": "שדך",
-      "gloss": "dalang"
+      "gloss": "dalangizning"
     },
     {
       "surface": "לקצר",
-      "gloss": "oʻrishda"
+      "gloss": "oʻroqda"
     },
     {
       "surface": "ולקט",
-      "gloss": "va toʻplam (leket)"
+      "gloss": "va sochilgan doni"
     },
     {
       "surface": "קצירך",
-      "gloss": "hosiling"
+      "gloss": "hosilingizning"
     },
     {
       "surface": "לא",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "תלקט",
-      "gloss": "toʻplama"
+      "gloss": "termang"
     }
   ],
-  "timestamp": "2026-08-26T01:17:16.417545058Z",
+  "timestamp": "2026-08-26T09:47:32.197871043Z",
   "model": "glm-5.3"
 }

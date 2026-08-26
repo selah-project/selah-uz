@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 32,
-  "translation": "Va Moshe ularga berdi — Gad oʻgʻillariga va Reuven oʻgʻillariga va Menashe oʻgʻillarining yarim urugʻiga, Yosef oʻgʻli — ⟨את⟩ Sixon podshohligini, emoriylar podshohi, va ⟨את⟩ Og podshohligini, Bashan podshohi — ⟨the⟩ yerni shaharlari bilan, chegaralarda, yer shaharlari atrofda.",
+  "translation": "Va Moshe ularga berdi — Gad oʻgʻillariga, va Reuven oʻgʻillariga, va Menashening, Yosif oʻgʻlining, shebati yarimiga — ⟨את⟩ Sihonning, emorliklar podshohining podsholigini, va ⟨את⟩ Ogning, Bashan podshohining podsholigini — ⟨the⟩ yerni oʻz shaharlari bilan, chegaralari boʻyicha, yer shaharlari atrofida.",
   "tokens": [
     {
       "surface": "ויתן",
@@ -36,12 +36,12 @@
       "gloss": "Reuven"
     },
     {
-      "surface": "ולחצי",
+      "surface": "ויחצי",
       "gloss": "va yarimiga"
     },
     {
       "surface": "שבט",
-      "gloss": "urugʻ"
+      "gloss": "shebati"
     },
     {
       "surface": "מנשה",
@@ -53,20 +53,20 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "Yosef"
+      "gloss": "Yosif"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Sixon podshohligini"
+      "marks": "podsholigini (Sihonning)"
     },
     {
       "surface": "ממלכת",
-      "gloss": "podshohligini"
+      "gloss": "podsholigi"
     },
     {
       "surface": "סיחן",
-      "gloss": "Sixon"
+      "gloss": "Sihon"
     },
     {
       "surface": "מלך",
@@ -74,16 +74,16 @@
     },
     {
       "surface": "האמרי",
-      "gloss": "emoriylar"
+      "gloss": "emorliklar"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "Og podshohligini"
+      "marks": "podsholigini (Ogning)"
     },
     {
       "surface": "ממלכת",
-      "gloss": "podshohligini"
+      "gloss": "podsholigi"
     },
     {
       "surface": "עוג",
@@ -103,11 +103,11 @@
     },
     {
       "surface": "לעריה",
-      "gloss": "shaharlari bilan"
+      "gloss": "oʻz shaharlari bilan"
     },
     {
       "surface": "בגבלת",
-      "gloss": "chegaralarida"
+      "gloss": "chegaralari boʻyicha"
     },
     {
       "surface": "ערי",
@@ -119,9 +119,9 @@
     },
     {
       "surface": "סביב",
-      "gloss": "atrofda"
+      "gloss": "atrofida"
     }
   ],
-  "timestamp": "2026-08-26T01:44:15.533871469Z",
+  "timestamp": "2026-08-26T10:21:49.093891621Z",
   "model": "glm-5.3"
 }

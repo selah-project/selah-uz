@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va boʻladi oʻsha kunda, — Yahve Tsevaotning neʼumi, — men ⟨את⟩ butlarning nomlarini ⟨the⟩ yerdan kesib tashlayman va ular endi eslanmaydi; va ⟨את⟩ paygʻambarlarni ham, ⟨את⟩ iflos ruхni ham yerdan oʻtkazib yuboraman.",
+  "translation": "Va boʻladi oʻsha kunda, — Yahve Sevaotning maʼmi, — butlarning nomlarini yerdan kesib tashlayman va ular endi eslanmaydi; va ⟨את⟩ paygʻambarlarni ham, ⟨את⟩ nopok ruohni ham yerdan olib ketaman.",
   "tokens": [
     {
       "surface": "והיה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "neʼumi"
+      "gloss": "maʼmi"
     },
     {
       "surface": "יהוה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "צבאות",
-      "gloss": "Tsevaot"
+      "gloss": "Sevaot"
     },
     {
       "surface": "אכרית",
@@ -50,15 +50,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "-dan"
+      "gloss": "dan"
     },
     {
       "surface": "הארץ",
-      "gloss": "yerdan"
+      "gloss": "yer"
     },
     {
       "surface": "ולא",
-      "gloss": "va … emas"
+      "gloss": "va endi"
     },
     {
       "surface": "יזכרו",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "עוד",
-      "gloss": "endi"
+      "gloss": "boshqa"
     },
     {
       "surface": "וגם",
-      "gloss": "va ham"
+      "gloss": "va ... ham"
     },
     {
       "surface": "את",
@@ -84,29 +84,29 @@
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "iflos ruхni"
+      "marks": "nopok ruohni"
     },
     {
       "surface": "רוח",
-      "gloss": "ruхni"
+      "gloss": "ruohni"
     },
     {
       "surface": "הטמאה",
-      "gloss": "iflos"
+      "gloss": "nopok"
     },
     {
       "surface": "אעביר",
-      "gloss": "oʻtkazib yuboraman"
+      "gloss": "olib ketaman"
     },
     {
       "surface": "מן",
-      "gloss": "-dan"
+      "gloss": "dan"
     },
     {
       "surface": "הארץ",
-      "gloss": "yerdan"
+      "gloss": "yer"
     }
   ],
-  "timestamp": "2026-08-26T05:56:23.502111686Z",
+  "timestamp": "2026-08-26T09:59:46.331814148Z",
   "model": "glm-5.3"
 }

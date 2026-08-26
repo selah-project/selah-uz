@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Va adolat boʻladi bizga, chunki saqlaymiz ⟨⟨⟨את⟩⟩⟩ butun bu buyruqni Yahve, Elohimimiz oldida amalga oshirish uchun, chunki U bizga buyurganidek.",
+  "translation": "Va bizga solihlik boʻladi, chunki Yahve Elohimimizning oldida, bizga buyurganidek, ⟨את⟩ butun bu buyruqni saqlab bajarishga ehtiyot boʻlamiz.",
   "tokens": [
     {
       "surface": "וצדקה",
-      "gloss": "adolat"
+      "gloss": "va solihlik"
     },
     {
       "surface": "תהיה",
@@ -25,16 +25,16 @@
     },
     {
       "surface": "נשמר",
-      "gloss": "saqlaymiz"
+      "gloss": "ehtiyot boʻlamiz"
     },
     {
       "surface": "לעשות",
-      "gloss": "amalga oshirish uchun"
+      "gloss": "bajarishga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "butun bu buyruq"
+      "marks": "butun bu buyruqni"
     },
     {
       "surface": "כל",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "המצוה",
-      "gloss": "buyruq"
+      "gloss": "buyruqni"
     },
     {
       "surface": "הזאת",
@@ -58,17 +58,17 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohimimiz"
+      "gloss": "Elohimimizning"
     },
     {
       "surface": "כאשר",
-      "gloss": "...dek"
+      "gloss": "deganidek"
     },
     {
       "surface": "צונו",
-      "gloss": "bizga buyurgan"
+      "gloss": "buyurgan"
     }
   ],
-  "timestamp": "2026-08-26T08:24:31.683560582Z",
+  "timestamp": "2026-08-26T09:49:33.797198127Z",
   "model": "glm-5.3"
 }

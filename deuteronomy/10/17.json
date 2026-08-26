@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Chunki Yahve, sizning Elohimingiz — U ⟨the⟩ elohlarning Elohimi va adonlarning Adonayi, ⟨the⟩ buyuk El, ⟨the⟩ qudratli va ⟨the⟩ dahshatli, ki yuz koʻtarmaydi va pora olmaydi.",
+  "translation": "Chunki Yahve, sizning Elohimingiz — ⟨u⟩ xudolarning Elohisi va hukmdorlarning Adonayi, El, buyuk, qudratli va haybatli, ⟨kim⟩ yuz‑koʻrlik qilmaydi va pora olmaydi.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,43 +21,43 @@
     },
     {
       "surface": "הוא",
-      "gloss": "U"
+      "gloss": "⟨u⟩"
     },
     {
       "surface": "אלהי",
-      "gloss": "Elohimi"
+      "gloss": "Elohisi"
     },
     {
       "surface": "האלהים",
-      "gloss": "elohlarning"
+      "gloss": "xudolarning"
     },
     {
-      "surface": "ואדני",
+      "surface": "ו אדני",
       "gloss": "va Adonayi"
     },
     {
       "surface": "האדנים",
-      "gloss": "adonlarning"
+      "gloss": "hukmdorlarning"
     },
     {
       "surface": "האל",
-      "gloss": "⟨the⟩ El"
+      "gloss": "El"
     },
     {
       "surface": "הגדל",
-      "gloss": "⟨the⟩ buyuk"
+      "gloss": "buyuk"
     },
     {
       "surface": "הגבר",
-      "gloss": "⟨the⟩ qudratli"
+      "gloss": "qudratli"
     },
     {
       "surface": "והנורא",
-      "gloss": "va ⟨the⟩ dahshatli"
+      "gloss": "va haybatli"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "⟨kim⟩"
     },
     {
       "surface": "לא",
@@ -84,6 +84,6 @@
       "gloss": "pora"
     }
   ],
-  "timestamp": "2026-08-26T01:53:29.051039971Z",
+  "timestamp": "2026-08-26T09:50:00.496232011Z",
   "model": "glm-5.3"
 }

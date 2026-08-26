@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Voy ⟨the⟩ oʻtmish podachi — ⟨the⟩ batil podachiga, ki ⟨את⟩ podani tashlab ketdi! Qilich uning qoʻli ustiga va uning oʻng koʻzi ustiga ⟨boʻlsin⟩; uning qoʻli qurib qurigar, uning oʻng koʻzi esa xiralashib xiralashar.",
+  "translation": "Voy — podasini tashlab ketayotgan noqobil choʻponga! Qilich uning qoʻli ustiga va oʻng koʻzi ustiga: uning qoʻli butunlay qurib qurigar, uning oʻng koʻzi xira boʻlib xiralangar.",
   "tokens": [
     {
       "surface": "הוי",
@@ -13,19 +13,19 @@
     },
     {
       "surface": "רעי",
-      "gloss": "podachi"
+      "gloss": "choʻponiga"
     },
     {
       "surface": "האליל",
-      "gloss": "oʻtmish (batil)"
+      "gloss": "noqobil"
     },
     {
       "surface": "עזבי",
-      "gloss": "tashlab ketdi"
+      "gloss": "tashlab ketayotgan"
     },
     {
       "surface": "הצאן",
-      "gloss": "⟨the⟩ poda"
+      "gloss": "podasini"
     },
     {
       "surface": "חרב",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ועל",
-      "gloss": "va ustiga"
+      "gloss": "va ... ustiga"
     },
     {
       "surface": "עין",
-      "gloss": "koʻz"
+      "gloss": "koʻzi"
     },
     {
       "surface": "ימינו",
-      "gloss": "uning oʻng"
+      "gloss": "oʻng"
     },
     {
       "surface": "זרעו",
@@ -65,21 +65,21 @@
     },
     {
       "surface": "ועין",
-      "gloss": "va koʻz"
+      "gloss": "va ... koʻzi"
     },
     {
       "surface": "ימינו",
-      "gloss": "uning oʻng"
+      "gloss": "oʻng"
     },
     {
       "surface": "כהה",
-      "gloss": "xiralashib"
+      "gloss": "xira boʻlib"
     },
     {
       "surface": "תכהה",
-      "gloss": "xiralashar"
+      "gloss": "xiralangar"
     }
   ],
-  "timestamp": "2026-08-26T05:53:46.447440334Z",
+  "timestamp": "2026-08-26T10:07:36.549532378Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Bugun mening yonimdan ketayotganingda, Rahel dafnining yonida, Binjamin chegarasida, Selsaxda ikki kishini uchratasan; ular senga aytadilar:『Qidirgani borgan eshaklar topildi; va mana, otang eshaklar masalasini tashlab qoʻydi va sizga tashvishlandi』deb:『Oʻgʻlim uchun nima qilay?』",
+  "translation": "Bugun mendan ketganingda, Raxel dafnining yonida, Binjamin chegarasida, Selsaxda ikki kishini uchratasan; va senga aytishadi: qidirgani ketgan eshaklar topildi; va mana, otang eshaklar gʻamini tashlab, sizga tashvishlandi, deb: oʻgʻlum uchun nima qilay?",
   "tokens": [
     {
       "surface": "בלכתך",
-      "gloss": "ketayotganingda"
+      "gloss": "ketganingda"
     },
     {
       "surface": "היום",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "מעמדי",
-      "gloss": "mening yonimdan"
+      "gloss": "menda(n)"
     },
     {
       "surface": "ומצאת",
-      "gloss": "uchratasan"
+      "gloss": "va uchratasan"
     },
     {
       "surface": "שני",
-      "gloss": "ikkita"
+      "gloss": "ikki"
     },
     {
       "surface": "אנשים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "רחל",
-      "gloss": "Rahel"
+      "gloss": "Raxel"
     },
     {
       "surface": "בגבול",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ואמרו",
-      "gloss": "ular aytadilar"
+      "gloss": "va aytishadi"
     },
     {
       "surface": "אליך",
@@ -73,11 +73,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "kim(lar)"
+      "gloss": "niki"
     },
     {
       "surface": "הלכת",
-      "gloss": "borgan"
+      "gloss": "ketgan"
     },
     {
       "surface": "לבקש",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "נטש",
-      "gloss": "tashlab qoʻydi"
+      "gloss": "tashladi"
     },
     {
       "surface": "אביך",
@@ -98,11 +98,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "eshaklar masalasini"
+      "marks": "eshaklar gʻamini"
     },
     {
       "surface": "דברי",
-      "gloss": "masalasini"
+      "gloss": "…gʻamini (ishini)"
     },
     {
       "surface": "האתנות",
@@ -110,7 +110,7 @@
     },
     {
       "surface": "ודאג",
-      "gloss": "tashvishlandi"
+      "gloss": "va tashvishlandi"
     },
     {
       "surface": "לכם",
@@ -130,9 +130,9 @@
     },
     {
       "surface": "לבני",
-      "gloss": "oʻgʻlim uchun"
+      "gloss": "oʻgʻlum uchun"
     }
   ],
-  "timestamp": "2026-08-26T02:46:49.074851057Z",
+  "timestamp": "2026-08-26T09:52:47.189021077Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,28 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Va Efron xett oʻgʻillari oʻrtasida oʻtirgan edi, va javob berdi Efron xetlik Avrahamga — ⟨את⟩ — xett oʻgʻillarining quloqlarida, shahar darvozasiga kirayotganlarning ⟨את⟩ barchasiga, deyib:",
+  "translation": "Efron esa Xet oʻgʻillarining orasida oʻtirgan edi; va Xetlik Efron Avrahamga ⟨את⟩ javob berdi — Xet oʻgʻillarining qulogʻida, shahar darvozasiga kiruvchilarning hammasi huzurida, deganlarida:",
   "tokens": [
+    {
+      "surface": "ועפרון",
+      "gloss": "va Efron"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "oʻtirgan edi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "orasida"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Xet"
+    },
     {
       "surface": "ויען",
       "gloss": "va javob berdi"
@@ -17,50 +37,50 @@
     },
     {
       "surface": "החתי",
-      "gloss": "xetlik"
+      "gloss": "Xetlik"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Avrahamga"
+      "marks": "Avraham"
     },
     {
       "surface": "אברהם",
-      "gloss": "Avrahamga"
+      "gloss": "Avraham"
     },
     {
       "surface": "באזני",
-      "gloss": "quloqlarida"
+      "gloss": "qulogʻida"
     },
     {
       "surface": "בני",
-      "gloss": "oʻgʻillarining"
+      "gloss": "oʻgʻillari"
     },
     {
       "surface": "חת",
-      "gloss": "xett"
+      "gloss": "Xet"
     },
     {
       "surface": "לכל",
-      "gloss": "⟨את⟩ barchasiga"
+      "gloss": "hammasiga"
     },
     {
       "surface": "באי",
-      "gloss": "kirayotganlarning"
+      "gloss": "kiruvchilarga"
     },
     {
       "surface": "שער",
-      "gloss": "darvozasiga"
+      "gloss": "darvoza"
     },
     {
       "surface": "עירו",
-      "gloss": "shahar"
+      "gloss": "uning shahri"
     },
     {
       "surface": "לאמר",
-      "gloss": "deyib"
+      "gloss": "deganlarida"
     }
   ],
-  "timestamp": "2026-08-26T00:36:33.054654371Z",
+  "timestamp": "2026-08-26T10:06:28.978267398Z",
   "model": "glm-5.3"
 }

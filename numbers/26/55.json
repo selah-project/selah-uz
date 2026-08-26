@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Faqat qurʼa boʻyicha ⟨⟨the⟩⟩ yer taqsimlanadi — otalari qabilalarining ismlari boʻyicha meros oladilar.",
+  "translation": "Faqat qurʼa bilan ⟨את⟩ yer taqsimlanadi; otalari qabilalarining nomlari boʻyicha meros oladilar.",
   "tokens": [
     {
       "surface": "אך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בגורל",
-      "gloss": "qurʼa boʻyicha"
+      "gloss": "qurʼa bilan"
     },
     {
       "surface": "יחלק",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "לשמות",
-      "gloss": "ismlari boʻyicha"
+      "gloss": "nomlari boʻyicha"
     },
     {
       "surface": "מטות",
-      "gloss": "qabilalarining"
+      "gloss": "qabilalari"
     },
     {
       "surface": "אבתם",
@@ -45,6 +45,6 @@
       "gloss": "meros oladilar"
     }
   ],
-  "timestamp": "2026-08-26T01:41:19.487558242Z",
+  "timestamp": "2026-08-26T09:48:22.646223584Z",
   "model": "glm-5.3"
 }

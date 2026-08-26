@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 17,
-  "translation": "va uni uchrashuv chodirining eshigi oldiga Yahvegа qurbonlik keltirish uchun Yahve maskanining oldiga keltirmasa — qon shu kishiga nisbat beriladi: qon toʻkkan; va shu kishi oʻz xalqining ortidan kesiladi.",
+  "translation": "va ⟨את⟩ uni uchrashuv chodirining eshigi oldiga keltirmagan boʻlsa — Yahvegʻa qurbonlik keltirish uchun, Yahve maskani oldida — ⟨u⟩ odamga qon hisoblanadi: qon toʻkdi; va ⟨u⟩ odam oʻz xalqining ichidan kesib tashlanadi.",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "va —oldiga"
+      "gloss": "va … oldiga"
     },
     {
       "surface": "פתח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אהל",
-      "gloss": "chodir"
+      "gloss": "chodirining"
     },
     {
       "surface": "מועד",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "—masa"
+      "gloss": "yoʻq"
     },
     {
       "surface": "הביאו",
-      "gloss": "keltir"
+      "gloss": "uni keltirmagan"
     },
     {
       "surface": "להקריב",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvega"
+      "gloss": "Yahvegʻa"
     },
     {
       "surface": "לפני",
-      "gloss": "oldiga"
+      "gloss": "oldida"
     },
     {
       "surface": "משכן",
-      "gloss": "maskan"
+      "gloss": "maskani"
     },
     {
       "surface": "יהוה",
@@ -61,11 +61,11 @@
     },
     {
       "surface": "יחשב",
-      "gloss": "nisbat beriladi"
+      "gloss": "hisoblanadi"
     },
     {
       "surface": "לאיש",
-      "gloss": "kishiga"
+      "gloss": "odamga"
     },
     {
       "surface": "ההוא",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "שפך",
-      "gloss": "toʻkkan"
+      "gloss": "toʻkdi"
     },
     {
       "surface": "ונכרת",
-      "gloss": "va kesiladi"
+      "gloss": "va kesib tashlanadi"
     },
     {
       "surface": "האיש",
-      "gloss": "kishi"
+      "gloss": "odam"
     },
     {
       "surface": "ההוא",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "מקרב",
-      "gloss": "ortidan"
+      "gloss": "ichidan"
     },
     {
       "surface": "עמו",
       "gloss": "oʻz xalqining"
     }
   ],
-  "timestamp": "2026-08-26T01:17:08.826377832Z",
+  "timestamp": "2026-08-26T09:47:12.116203722Z",
   "model": "glm-5.3"
 }

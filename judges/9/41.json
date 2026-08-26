@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va Avimelex Arumada joylashdi, va Zevul ⟨את⟩ Gaalni va ⟨את⟩ uning aka-ukalarini Shekemda yashashdan haydab chiqardi.",
+  "translation": "Avimelex Arumada joylashdi, va Zevul Gaalni va ⟨את⟩ uning aka-ukalarini Shkhemda yashashdan haydab chiqardi.",
   "tokens": [
     {
       "surface": "וישב",
@@ -24,13 +24,17 @@
       "gloss": "va haydab chiqardi"
     },
     {
+      "surface": "זבל",
+      "gloss": "Zevul"
+    },
+    {
       "surface": "את",
       "gloss": "⟨את⟩",
       "marks": "Gaalni"
     },
     {
       "surface": "געל",
-      "gloss": "⟨את⟩ Gaalni"
+      "gloss": "Gaalni"
     },
     {
       "surface": "ואת",
@@ -39,7 +43,7 @@
     },
     {
       "surface": "אחיו",
-      "gloss": "⟨את⟩ uning aka-ukalarini"
+      "gloss": "uning aka-ukalarini"
     },
     {
       "surface": "משבת",
@@ -47,9 +51,9 @@
     },
     {
       "surface": "בשכם",
-      "gloss": "Shekemda"
+      "gloss": "Shkhemda"
     }
   ],
-  "timestamp": "2026-08-26T02:30:59.043830568Z",
+  "timestamp": "2026-08-26T09:51:53.481412316Z",
   "model": "glm-5.3"
 }

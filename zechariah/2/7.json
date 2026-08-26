@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Va mana, men bilan soʻzlovchi ⟨the⟩ malak chiqdi, va boshqa bir malak unga qarshi chiqdi.",
+  "translation": "Va mana, menda soʻzlayotgan malak chiqdi, va boshqa bir malak uni kutib chiqdi.",
   "tokens": [
     {
       "surface": "והנה",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "המלאך",
-      "gloss": "⟨the⟩ malak"
+      "gloss": "malak"
     },
     {
       "surface": "הדבר",
-      "gloss": "soʻzlovchi"
+      "gloss": "soʻzlayotgan"
     },
     {
       "surface": "בי",
-      "gloss": "men bilan"
+      "gloss": "menda"
     },
     {
       "surface": "יצא",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "לקראתו",
-      "gloss": "unga qarshi"
+      "gloss": "uni kutib"
     }
   ],
-  "timestamp": "2026-08-26T05:51:55.212039211Z",
+  "timestamp": "2026-08-26T09:59:36.337747664Z",
   "model": "glm-5.3"
 }

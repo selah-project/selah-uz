@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va Yehonatan yigitchaning orqasidan chaqirdi: „Shoshil, tez boʻl, toʻxtama!“ Va Yehonatanning yigitchasi ⟨את⟩ oʻqni terib oldi va oʻz xoʻjayinining huzuriga keldi.",
+  "translation": "Va Yehonatan yigitning orqasidan chaqirdi: tez boʻl, shoshil, turma! Va Yehonatanning yigiti ⟨את⟩ oʻqni terib oldi va egalining oldiga keldi.",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "הנער",
-      "gloss": "⟨the⟩ yigitchaning"
+      "gloss": "yigit"
     },
     {
       "surface": "מהרה",
-      "gloss": "shoshil"
-    },
-    {
-      "surface": "חושה",
       "gloss": "tez boʻl"
     },
     {
+      "surface": "חושה",
+      "gloss": "shoshil"
+    },
+    {
       "surface": "אל",
-      "gloss": "—ma"
+      "gloss": "-ma"
     },
     {
       "surface": "תעמד",
-      "gloss": "toʻxta"
+      "gloss": "tur"
     },
     {
       "surface": "וילקט",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "נער",
-      "gloss": "yigitchasi"
+      "gloss": "yigiti"
     },
     {
       "surface": "יהונתן",
-      "gloss": "Yehonatanning"
+      "gloss": "Yehonatan"
     },
     {
       "surface": "את",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "החצי",
-      "gloss": "⟨the⟩ oʻqni"
+      "gloss": "oʻq"
     },
     {
       "surface": "ויבא",
@@ -66,13 +66,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "huzuriga"
+      "gloss": "oldinga"
     },
     {
       "surface": "אדניו",
-      "gloss": "oʻz xoʻjayinining"
+      "gloss": "egalisi"
     }
   ],
-  "timestamp": "2026-08-26T02:55:08.810787951Z",
+  "timestamp": "2026-08-26T09:52:52.451977175Z",
   "model": "glm-5.3"
 }

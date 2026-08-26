@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Yahve uy Shaul qonining barchasini sen ustinga qaytardi — oʻrnida sen podshohlik qilding — va Yahve podshohlikni oʻgʻling Avshalom qoʻliga berdi; va mana, sen oʻz yomonligʻingdasan, chunki sen qon odamisan.",
+  "translation": "Yahve Shaul xonadonining barcha qonini sening ustingga qaytardi, kimning oʻrniga sen podshohlik qilding; va Yahve ⟨את⟩ podshohlikni oʻgʻling Avshalom qoʻliga berdi; va mana, sen oʻz yomonligʻingdasan, chunki sen qon odamisan.",
   "tokens": [
     {
       "surface": "השיב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "עליך",
-      "gloss": "sen ustinga"
+      "gloss": "sening ustingga"
     },
     {
       "surface": "יהוה",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "barchasini"
+      "gloss": "barcha"
     },
     {
       "surface": "דמי",
-      "gloss": "qonining"
+      "gloss": "qonini"
     },
     {
       "surface": "בית",
-      "gloss": "uy"
+      "gloss": "xonadonining"
     },
     {
       "surface": "שאול",
@@ -37,15 +37,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "kimning"
     },
     {
       "surface": "מלכת",
-      "gloss": "podshohlik qilding"
+      "gloss": "sen podshohlik qilding"
     },
     {
       "surface": "תחתו",
-      "gloss": "uning oʻrnida"
+      "gloss": "uning oʻrniga"
     },
     {
       "surface": "ויתן",
@@ -58,7 +58,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "podshohlik"
+      "marks": "podshohlikni"
     },
     {
       "surface": "המלוכה",
@@ -78,11 +78,11 @@
     },
     {
       "surface": "והנך",
-      "gloss": "va mana sen"
+      "gloss": "va mana, sen"
     },
     {
       "surface": "ברעתך",
-      "gloss": "oʻz yomonligʻingda"
+      "gloss": "oʻz yomonligʻingdasan"
     },
     {
       "surface": "כי",
@@ -90,7 +90,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "odami"
+      "gloss": "odam"
     },
     {
       "surface": "דמים",
@@ -98,9 +98,9 @@
     },
     {
       "surface": "אתה",
-      "gloss": "sеn"
+      "gloss": "sen"
     }
   ],
-  "timestamp": "2026-08-26T03:15:07.034128603Z",
+  "timestamp": "2026-08-26T09:53:17.800741757Z",
   "model": "glm-5.3"
 }

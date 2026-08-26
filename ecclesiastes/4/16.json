@@ -5,7 +5,7 @@
   "book": "ecclesiastes",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Cheksiz ⟨is⟩ butun xalq — barcha, kimki ularning oldida boʻlgan; lekin keyingilari unda quvonmaydi, chunki ham bu hebel va ruhgʻa ranjish.",
+  "translation": "Chegara yoʻq butun xalqga — barchasiga, kimki ulardan oldin boʻlgan; ham keyingilar unda quvonmaydilar, chunki ham bu hevel va ⟨ruh⟩ iztirobi.",
   "tokens": [
     {
       "surface": "אין",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "קץ",
-      "gloss": "cheği"
+      "gloss": "chegara"
     },
     {
       "surface": "לכל",
-      "gloss": "butun"
+      "gloss": "butun...ga"
     },
     {
       "surface": "העם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לכל",
-      "gloss": "barcha"
+      "gloss": "barchasiga"
     },
     {
       "surface": "אשר",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "לפניהם",
-      "gloss": "ularning oldida"
+      "gloss": "ulardan oldin"
     },
     {
       "surface": "גם",
-      "gloss": "lekin ham"
+      "gloss": "ham"
     },
     {
       "surface": "האחרונים",
-      "gloss": "keyingilari"
+      "gloss": "keyingilar"
     },
     {
       "surface": "לא",
-      "gloss": "…maydi"
+      "gloss": "yoʻq"
     },
     {
       "surface": "ישמחו",
-      "gloss": "quvon"
+      "gloss": "quvonmaydilar"
     },
     {
       "surface": "בו",
@@ -73,17 +73,17 @@
     },
     {
       "surface": "הבל",
-      "gloss": "hebel"
+      "gloss": "hevel"
     },
     {
       "surface": "ורעיון",
-      "gloss": "va ranjish"
+      "gloss": "va iztirobi"
     },
     {
       "surface": "רוח",
-      "gloss": "ruhgʻa"
+      "gloss": "ruh"
     }
   ],
-  "timestamp": "2026-08-26T07:20:09.051416189Z",
+  "timestamp": "2026-08-26T10:24:42.105016649Z",
   "model": "glm-5.3"
 }

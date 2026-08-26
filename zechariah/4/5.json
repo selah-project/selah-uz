@@ -5,8 +5,65 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va men bilan so'zlovchi malak javob berib menga aytdi: Sen bilmasmisan nima ⟨ular⟩ bu? Va men ayrdim: Yo'q, Adonayim.",
-  "tokens": [],
-  "timestamp": "2026-08-26T05:51:49.318858687Z",
+  "translation": "Va men bilan gapirayotgan farishta javob berdi va menga dedi: „Bular nima ekanini bilmasmisiz?“ Va men dedim: „Yoʻq, Adonay.“",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "va javob berdi"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "farishta"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "gapirayotgan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "men bilan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "…-mi"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "bilmasmisiz"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nima"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ular"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bular"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "va dedim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonay"
+    }
+  ],
+  "timestamp": "2026-08-26T09:59:39.022100321Z",
   "model": "glm-5.3"
 }

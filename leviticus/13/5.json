@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va kohin uni yettinchi kunda koʻradi, va mana, negаʼ koʻziga koʻra barqaror turibdi, negаʼ terida yoyilmagan boʻlsa, kohin uni yana yetti kun davomida yopib qoʻyadi.",
+  "translation": "Va kohin uni yettinchi kunda koʻradi, va mana, zarar koʻzida oʻz joyida turibdi — zarar terida yoyilmagan, va kohin uni yana yetti kun ⟨birga⟩ yopib qoʻyadi.",
   "tokens": [
     {
       "surface": "וראהו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "kunda"
+      "gloss": "kundas"
     },
     {
       "surface": "השביעי",
@@ -29,15 +29,15 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "negаʼ"
+      "gloss": "zarar"
     },
     {
       "surface": "עמד",
-      "gloss": "barqaror turibdi"
+      "gloss": "oʻz joyida turibdi"
     },
     {
       "surface": "בעיניו",
-      "gloss": "uning koʻziga koʻra"
+      "gloss": "uning koʻzida"
     },
     {
       "surface": "לא",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "negаʼ"
+      "gloss": "zarar"
     },
     {
       "surface": "בעור",
@@ -73,9 +73,9 @@
     },
     {
       "surface": "שנית",
-      "gloss": "yana ikkinchi marta"
+      "gloss": "ikkinchi marta"
     }
   ],
-  "timestamp": "2026-08-26T01:14:51.147432223Z",
+  "timestamp": "2026-08-26T09:46:56.730206598Z",
   "model": "glm-5.3"
 }

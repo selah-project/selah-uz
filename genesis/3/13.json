@@ -5,14 +5,14 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va Yahve Elohim ayolga dedi: Nima qilding? Va ayol dedi: ⟨The⟩ ilon meni aldadi va men yedim.",
+  "translation": "Va Yahve Elohim ayolga dedi: Nima qilding bu? Va ayol dedi: Ilon meni aldadi, va men yedim.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Va dedi"
+      "gloss": "va dedi"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "Yahve"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ותאמר",
-      "gloss": "Va dedi"
+      "gloss": "va dedi"
     },
     {
       "surface": "האשה",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הנחש",
-      "gloss": "⟨the⟩ ilon"
+      "gloss": "ilon"
     },
     {
       "surface": "השיאני",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "ואכל",
-      "gloss": "va men yedim"
+      "gloss": "va yedim"
     }
   ],
-  "timestamp": "2026-08-26T00:31:30.598860222Z",
+  "timestamp": "2026-08-26T09:43:28.951328208Z",
   "model": "glm-5.3"
 }

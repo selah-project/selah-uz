@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va shoshildilar va har biri kiyimini olib uning ostiga, zinapoyaning yuqori pogʻonasiga yoydilar va shofar chaldilar va dedilar: „Yehu podshoh boʻldi!“",
+  "translation": "Va shoshildilar va har bir odam kiyimini olib, uni uning ostiga zinalarning poyiga yoydilar va shofar chalib dedilar: Yehu podshoh boʻldi!",
   "tokens": [
     {
       "surface": "וימהרו",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "ויקחו",
-      "gloss": "oldilar"
+      "gloss": "va olishdi"
     },
     {
       "surface": "איש",
-      "gloss": "har biri"
+      "gloss": "har bir odam"
     },
     {
       "surface": "בגדו",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "וישימו",
-      "gloss": "yoydilar"
+      "gloss": "va qoʻydilar"
     },
     {
       "surface": "תחתיו",
@@ -33,31 +33,27 @@
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "…ning ustiga"
     },
     {
       "surface": "גרם",
-      "gloss": "yuqori qismiga"
+      "gloss": "poyiga (yalangʻoch qismiga)"
     },
     {
       "surface": "המעלות",
-      "gloss": "zinapoyaning"
+      "gloss": "zinalarning"
     },
     {
       "surface": "ויתקעו",
-      "gloss": "chaldilar"
+      "gloss": "va chaldilar"
     },
     {
       "surface": "בשופר",
       "gloss": "shofarni"
     },
     {
-      "surface": "ואאמרו",
-      "gloss": ""
-    },
-    {
-      "surface": "ואמרו",
-      "gloss": "dedilar"
+      "surface": "ויאמרו",
+      "gloss": "va dedilar"
     },
     {
       "surface": "מלך",
@@ -68,6 +64,6 @@
       "gloss": "Yehu"
     }
   ],
-  "timestamp": "2026-08-26T03:54:00.142215256Z",
+  "timestamp": "2026-08-26T09:54:16.578450874Z",
   "model": "glm-5.3"
 }

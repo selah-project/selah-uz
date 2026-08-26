@@ -5,11 +5,11 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Yaxshi ⟨is⟩ ruhan past boʻlish ⟨את⟩ kambagʻallar bilan, ⟨את⟩ magʻrurlar bilan oʻljani boʻlishdan.",
+  "translation": "Past ruhdan boʻlish, kambagʻallar bilan — yaxshiroq, ⟨את⟩ oʻljani boʻlishdan magʻrurlar bilan.",
   "tokens": [
     {
       "surface": "טוב",
-      "gloss": "Yaxshi"
+      "gloss": "yaxshiroq"
     },
     {
       "surface": "שפל",
@@ -17,16 +17,16 @@
     },
     {
       "surface": "רוח",
-      "gloss": "ruhan"
+      "gloss": "ruh"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kambagʻallar"
+      "marks": "oʻljani"
     },
     {
       "surface": "עניים",
-      "gloss": "kambagʻallar"
+      "gloss": "kambagʻallar bilan"
     },
     {
       "surface": "מחלק",
@@ -34,18 +34,18 @@
     },
     {
       "surface": "שלל",
-      "gloss": "oʻljani"
+      "gloss": "oʻlja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "magʻrurlar"
+      "marks": "magʻrurlar bilan"
     },
     {
       "surface": "גאים",
       "gloss": "magʻrurlar"
     }
   ],
-  "timestamp": "2026-08-26T08:46:21.401614775Z",
+  "timestamp": "2026-08-26T10:01:55.801393213Z",
   "model": "glm-5.3"
 }

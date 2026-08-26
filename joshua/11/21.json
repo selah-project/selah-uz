@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Oʻsha paytda Yehoshua keldi va Anakilarni togʻdan — Xevrondan, Devirdan, Anavdan va butun Yehuda togʻidan va butun Isroil togʻidan kesib yoʻq qildi — ⟨את⟩ ⟨the⟩ Anakilarni shaharlari bilan birga Yehoshua cherem qildi.",
+  "translation": "Va oʻsha paytda Yehoshua kelib, ⟨את⟩ anakimlarni togʻdan — Xevrondan, Devirdan, Anavdan va butun Yehuda togʻidan hamda butun Isroil togʻidan kesib tugatdi; shaharlari bilan birga Yehoshua ularni bagʻishlab yoʻq qildi.",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "keldi"
+      "gloss": "va kelib"
     },
     {
       "surface": "יהושע",
@@ -25,56 +25,56 @@
     },
     {
       "surface": "ויכרת",
-      "gloss": "kesib yoʻq qildi"
+      "gloss": "va kesib tugatdi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Anakilar"
+      "marks": "anakimlarni"
     },
     {
       "surface": "הענקים",
-      "gloss": "Anakilar"
+      "gloss": "anakimlarni"
     },
     {
       "surface": "מן",
-      "gloss": "dan"
+      "gloss": "—dan"
     },
     {
       "surface": "ההר",
-      "gloss": "togʻ"
+      "gloss": "togʻdan"
     },
     {
       "surface": "מן",
-      "gloss": "dan"
+      "gloss": "—dan"
     },
     {
       "surface": "חברון",
-      "gloss": "Xevron"
+      "gloss": "Xevrondan"
     },
     {
       "surface": "מן",
-      "gloss": "dan"
+      "gloss": "—dan"
     },
     {
       "surface": "דבר",
-      "gloss": "Devir"
+      "gloss": "Devirdan"
     },
     {
       "surface": "מן",
-      "gloss": "dan"
+      "gloss": "—dan"
     },
     {
       "surface": "ענב",
-      "gloss": "Anav"
+      "gloss": "Anavdan"
     },
     {
-      "surface": "ו מכל",
+      "surface": "ומכל",
       "gloss": "va butun"
     },
     {
       "surface": "הר",
-      "gloss": "togʻi"
+      "gloss": "togʻidan"
     },
     {
       "surface": "יהודה",
@@ -86,7 +86,7 @@
     },
     {
       "surface": "הר",
-      "gloss": "togʻi"
+      "gloss": "togʻidan"
     },
     {
       "surface": "ישראל",
@@ -94,21 +94,21 @@
     },
     {
       "surface": "עם",
-      "gloss": "bilan"
+      "gloss": "bilan birga"
     },
     {
       "surface": "עריהם",
-      "gloss": "shaharlari"
+      "gloss": "ularning shaharlari"
     },
     {
       "surface": "החרימם",
-      "gloss": "cherem qildi ularni"
+      "gloss": "ularni bagʻishlab yoʻq qildi"
     },
     {
       "surface": "יהושע",
       "gloss": "Yehoshua"
     }
   ],
-  "timestamp": "2026-08-26T02:16:18.040701515Z",
+  "timestamp": "2026-08-26T09:50:58.388270952Z",
   "model": "glm-5.3"
 }

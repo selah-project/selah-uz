@@ -5,24 +5,24 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Va ⟨the⟩ u erkakni yoki ⟨the⟩ u ayolni, kimki ⟨את⟩ bu yomon ishni qilgan, ⟨the⟩ darvozalaring oldiga chiqarib olasan — ⟨את⟩ erkakni yoki ⟨את⟩ ayolni — va ularni toshlar bilan toshlab oʻldirasan, va ular oʻladi.",
+  "translation": "Oʻsha erni yoki oʻsha xotinni — kimki shu yomon ishni qilgan — eshiklaringga ⟨chiqarib kelasan⟩: oʻsha erni yoki oʻsha xotinni ⟨את⟩, va ularni toshlar bilan toshlab oʻldirasansan, va ular oʻladilar.",
   "tokens": [
     {
       "surface": "והוצאת",
-      "gloss": "chiqarib olasan"
+      "gloss": "chiqarib kelasan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u erkak"
+      "marks": "oʻsha erni"
     },
     {
       "surface": "האיש",
-      "gloss": "erkak"
+      "gloss": "oʻsha erni"
     },
     {
       "surface": "ההוא",
-      "gloss": "u"
+      "gloss": "oʻsha"
     },
     {
       "surface": "או",
@@ -31,15 +31,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "u ayol"
+      "marks": "oʻsha xotinni"
     },
     {
       "surface": "האשה",
-      "gloss": "ayol"
+      "gloss": "xotinni"
     },
     {
       "surface": "ההוא",
-      "gloss": "u"
+      "gloss": "oʻsha"
     },
     {
       "surface": "אשר",
@@ -52,11 +52,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bu yomon ish"
+      "marks": "shu yomon ishni"
     },
     {
       "surface": "הדבר",
-      "gloss": "ish"
+      "gloss": "ishni"
     },
     {
       "surface": "הרע",
@@ -64,24 +64,24 @@
     },
     {
       "surface": "הזה",
-      "gloss": "bu"
+      "gloss": "shu"
     },
     {
       "surface": "אל",
-      "gloss": "oldinga"
+      "gloss": "ga"
     },
     {
       "surface": "שעריך",
-      "gloss": "darvozalaring"
+      "gloss": "eshiklaring"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "erkak"
+      "marks": "oʻsha erni"
     },
     {
       "surface": "האיש",
-      "gloss": "erkak"
+      "gloss": "oʻsha erni"
     },
     {
       "surface": "או",
@@ -90,15 +90,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ayol"
+      "marks": "oʻsha xotinni"
     },
     {
       "surface": "האשה",
-      "gloss": "ayol"
+      "gloss": "oʻsha xotinni"
     },
     {
       "surface": "וסקלתם",
-      "gloss": "toshlab oʻldirasan"
+      "gloss": "va toshlab oʻldirasansan"
     },
     {
       "surface": "באבנים",
@@ -106,9 +106,9 @@
     },
     {
       "surface": "ומתו",
-      "gloss": "oʻladilar"
+      "gloss": "va oʻladilar"
     }
   ],
-  "timestamp": "2026-08-26T08:25:02.809402005Z",
+  "timestamp": "2026-08-26T09:50:29.166421589Z",
   "model": "glm-5.3"
 }

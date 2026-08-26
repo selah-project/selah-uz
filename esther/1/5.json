@@ -5,8 +5,89 @@
   "book": "esther",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va bu kunlar toʻlganda, Shushan qalʼasida topilgan butun xalqqa — kattadan kichikkacha — podshoh Shushan ⟨the⟩ qalʼasida ⟨את⟩ yetti kun ziyofat qildi, podshohning bogʻ hovlisida.",
-  "tokens": [],
-  "timestamp": "2026-08-26T07:24:02.945722784Z",
+  "translation": "Va bu kunlar toʻlgach, podshoh Shushan qalʼasida topilgan butun xalqqa — kattadan kichikkacha — podshoh saroyi bogʻi hovlisida yetti kunlik ziyofat qildi.",
+  "tokens": [
+    {
+      "surface": "ובמלואת",
+      "gloss": "va ... toʻlgach"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kunlar"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "qildi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "butun ... ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "xalq"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "topilgan"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Shushanda"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "qalʼa"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "kattadan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "...gacha"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "kichik"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ziyofat"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "yetti kunlik"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kunlar"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "hovlisida"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "bogi"
+    },
+    {
+      "surface": "ביתן",
+      "gloss": "saroy"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "podshoh"
+    }
+  ],
+  "timestamp": "2026-08-26T10:03:07.454474780Z",
   "model": "glm-5.3"
 }

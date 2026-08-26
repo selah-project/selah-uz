@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Va Shaul ⟨את⟩ Amalekni urdi — Xaviladan, Shurga kirib boradigan joygacha, Misr yuzasidagi ⟨the⟩ yerdan.",
+  "translation": "Va Shaul Amalekni ⟨את⟩ Xaviladan — Shurga borganingdek, Misr yuziga qarab — urganda urdi.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "Va urdi"
+      "gloss": "urganda urdi"
     },
     {
       "surface": "שאול",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Amalekni"
+      "marks": "Amalek"
     },
     {
       "surface": "עמלק",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "בואך",
-      "gloss": "kirib boradigan joygacha"
+      "gloss": "borganingdek"
     },
     {
       "surface": "שור",
@@ -38,21 +38,21 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "ki u —"
     },
     {
       "surface": "על",
-      "gloss": "yuzasida"
+      "gloss": "qarab"
     },
     {
       "surface": "פני",
-      "gloss": "yuzasidagi"
+      "gloss": "yuziga"
     },
     {
       "surface": "מצרים",
       "gloss": "Misr"
     }
   ],
-  "timestamp": "2026-08-26T02:50:11.347548378Z",
+  "timestamp": "2026-08-26T09:52:21.596874428Z",
   "model": "glm-5.3"
 }

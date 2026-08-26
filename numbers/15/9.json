@@ -5,19 +5,19 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Va mol bolasi ustiga sovgʻa — uch oʻndan bir efadagi choʻgʻdoʻri un, yogʻ bilan aralashtirilgan, yarim hin miqdorida — keltirilsin.",
+  "translation": "Va molning oʻgʻli — buqoq uchun sovgʻa: uch oʻndan bir issiq aralashtirilgan — moy bilan — yarom hin miqdorida.",
   "tokens": [
     {
       "surface": "והקריב",
-      "gloss": "keltirilsin"
+      "gloss": "Va yaqinlashtiradi"
     },
     {
       "surface": "על",
-      "gloss": "ustiga"
+      "gloss": "uchun"
     },
     {
       "surface": "בן",
-      "gloss": "bolasi"
+      "gloss": "oʻgʻli"
     },
     {
       "surface": "הבקר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מנחה",
-      "gloss": "sovqа"
+      "gloss": "sovga-chechak"
     },
     {
       "surface": "סלת",
-      "gloss": "choʻgʻdoʻri un"
+      "gloss": "mayda polmagan un"
     },
     {
       "surface": "שלשה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עשרנים",
-      "gloss": "oʻndan bir"
+      "gloss": "oʻndan bir issiq"
     },
     {
       "surface": "בלול",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בשמן",
-      "gloss": "yogʻ bilan"
+      "gloss": "moy bilan"
     },
     {
       "surface": "חצי",
@@ -56,6 +56,6 @@
       "gloss": "hin"
     }
   ],
-  "timestamp": "2026-08-26T01:34:16.753564199Z",
+  "timestamp": "2026-08-26T09:48:28.021674747Z",
   "model": "glm-5.3"
 }

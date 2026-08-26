@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 25,
-  "translation": "⟨את⟩ kumushingni unga foiz ⟨the⟩ bilan bermaysan, va ortiqcha ⟨the⟩ uchun ozuqangni bermaysan.",
+  "translation": "⟨את⟩ kumushingni unga neshek (foiz) bilan bermagin, va marbit (ustama) bilan ⟨את⟩ ozuqangni bermagin.",
   "tokens": [
     {
       "surface": "את",
@@ -18,11 +18,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "bermagin"
     },
     {
       "surface": "תתן",
-      "gloss": "bermaysan"
+      "gloss": "bermagin"
     },
     {
       "surface": "לו",
@@ -30,25 +30,25 @@
     },
     {
       "surface": "בנשך",
-      "gloss": "foiz ⟨the⟩ bilan"
+      "gloss": "neshek (foiz) bilan"
     },
     {
       "surface": "ובמרבית",
-      "gloss": "va ortiqcha ⟨the⟩ uchun"
+      "gloss": "va marbit (ustama) bilan"
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "bermagin"
     },
     {
       "surface": "תתן",
-      "gloss": "bermaysan"
+      "gloss": "bermagin"
     },
     {
       "surface": "אכלך",
       "gloss": "ozuqangni"
     }
   ],
-  "timestamp": "2026-08-26T01:22:03.068674929Z",
+  "timestamp": "2026-08-26T09:47:24.749115405Z",
   "model": "glm-5.3"
 }

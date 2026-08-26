@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Bundan tashqari doimiy oloni va uning unquri — bularni tayinlang; ular sizlar uchun kamchiliksiz boʻlsin va ularning qutqurilgan sharbatlari ⟨⟨the⟩⟩",
+  "translation": "Doimiy ⟨the⟩ yoqilgan qurbondan va uning un-qurbonidan tashqari ularni qiling — ⟨they⟩ sizlar uchun kamchiliksiz boʻlsinlar va ularning ichimlik qurbonlari ⟨bilan⟩.",
   "tokens": [
     {
       "surface": "מלבד",
-      "gloss": "bundan tashqari"
+      "gloss": "tashqari"
     },
     {
       "surface": "עלת",
-      "gloss": "olo"
+      "gloss": "yoqilgan qurbon"
     },
     {
       "surface": "התמיד",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ומנחתו",
-      "gloss": "va uning unquri"
+      "gloss": "va uning un-qurboni"
     },
     {
       "surface": "תעשו",
-      "gloss": "tayinlang \/ bajaring"
+      "gloss": "qiling"
     },
     {
       "surface": "תמימם",
@@ -41,9 +41,9 @@
     },
     {
       "surface": "ונסכיהם",
-      "gloss": "va ularning qutqurilgan (suyuq) qurbonliklari"
+      "gloss": "va ularning ichimlik qurbonlari"
     }
   ],
-  "timestamp": "2026-08-26T01:42:12.095869861Z",
+  "timestamp": "2026-08-26T10:21:45.936476989Z",
   "model": "glm-5.3"
 }

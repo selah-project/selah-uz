@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va quyosh botish vaqtida boʻldi: Yehoshua buyruq berdi, va ularni daraxtlardan tushirdilar, va ularni — u yerga yashiringan oʻngʻirga tashladilar; va katta toshlarni oʻngʻirning ogʻziga qoʻydilar — oʻsha kunning oʻzigacha ⟨the⟩ ⟨u kungacha⟩.",
+  "translation": "Va quyosh botish vaqtida Yehoshua buyruq berdi, va ularni daraxtlardan tushirdilar, va yashiringan oʻsha gʻorga tashladilar, va gʻorning ogʻziga katta toshlarni qoʻydilar — aynan shu kungacha ⟨u yerdadir⟩.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "va boʻldi"
+      "gloss": "Va boʻldi"
     },
     {
       "surface": "לעת",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "וירידום",
-      "gloss": "va tushirdilar"
+      "gloss": "va ularni tushirdilar"
     },
     {
       "surface": "מעל",
@@ -49,15 +49,15 @@
     },
     {
       "surface": "אל",
-      "gloss": "-ga"
+      "gloss": "oliga"
     },
     {
       "surface": "המערה",
-      "gloss": "oʻngʻir"
+      "gloss": "oʻsha gʻor"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "oʻsha"
     },
     {
       "surface": "נחבאו",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "u yerda"
+      "gloss": "u yerga"
     },
     {
       "surface": "וישמו",
@@ -89,25 +89,25 @@
     },
     {
       "surface": "המערה",
-      "gloss": "oʻngʻirning"
+      "gloss": "gʻor"
     },
     {
       "surface": "עד",
-      "gloss": "gacha"
+      "gloss": "-gacha"
     },
     {
       "surface": "עצם",
-      "gloss": "oʻzida"
+      "gloss": "aynan"
     },
     {
       "surface": "היום",
-      "gloss": "kun"
+      "gloss": "bu kun"
     },
     {
       "surface": "הזה",
-      "gloss": "bu"
+      "gloss": "shu"
     }
   ],
-  "timestamp": "2026-08-26T02:15:51.439237949Z",
+  "timestamp": "2026-08-26T09:51:14.393142674Z",
   "model": "glm-5.3"
 }

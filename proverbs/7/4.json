@@ -5,15 +5,15 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Xikmatga ayting: „Singlim ⟨sensan⟩“, va Binoga yaqin tanish ⟨deb atagin⟩.",
+  "translation": "Donolikka: „Singlimsan ⟨את⟩“, — degin, va tushunchni mudii deb chaqir.",
   "tokens": [
     {
       "surface": "אמר",
-      "gloss": "ayting"
+      "gloss": "degin"
     },
     {
       "surface": "לחכמה",
-      "gloss": "Xikmatga"
+      "gloss": "donolikka"
     },
     {
       "surface": "אחתי",
@@ -22,21 +22,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sensan"
+      "marks": "mudii"
     },
     {
       "surface": "ומדע",
-      "gloss": "va yaqin tanish"
+      "gloss": "va-mudii"
     },
     {
       "surface": "לבינה",
-      "gloss": "Binoga"
+      "gloss": "tushuncha"
     },
     {
       "surface": "תקרא",
-      "gloss": "deb atagin"
+      "gloss": "chaqir"
     }
   ],
-  "timestamp": "2026-08-26T06:41:09.824579069Z",
+  "timestamp": "2026-08-26T10:24:05.507576700Z",
   "model": "glm-5.3"
 }

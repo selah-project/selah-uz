@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Uning yonida Xarhayaning oʻgʻli Uzziel, kuydiruvchilardan, mustahkamladi; va uning yonida muattarmoychilardan birining oʻgʻli Xananya mustahkamladi; va ular Yerushalaimni keng devorgacha tark etdilar.",
+  "translation": "Yonida mustahkamladi Uzziel, Xarhayaning oʻgʻli, ovchilar — va yonida mustahkamladi Xananya, atarchilardan biri — va tark etdilar Yerushalaimni, keng devorgacha.",
   "tokens": [
     {
       "surface": "על",
@@ -13,18 +13,14 @@
     },
     {
       "surface": "ידו",
-      "gloss": "uning"
+      "gloss": "qoʻli"
     },
     {
       "surface": "החזיק",
       "gloss": "mustahkamladi"
     },
     {
-      "surface": " ",
-      "gloss": ""
-    },
-    {
-      "surface": "עזיאל",
+      "surface": "עזיאل",
       "gloss": "Uzziel"
     },
     {
@@ -37,7 +33,7 @@
     },
     {
       "surface": "צורפים",
-      "gloss": "kuydiruvchilardan"
+      "gloss": "ovchilar"
     },
     {
       "surface": "ועל",
@@ -45,7 +41,7 @@
     },
     {
       "surface": "ידו",
-      "gloss": "uning"
+      "gloss": "qoʻli"
     },
     {
       "surface": "החזיק",
@@ -61,15 +57,15 @@
     },
     {
       "surface": "הרקחים",
-      "gloss": "muattarmoychilar"
+      "gloss": "atarchilar"
     },
     {
       "surface": "ויעזבו",
-      "gloss": "tark etdilar"
+      "gloss": "va tark etdilar"
     },
     {
       "surface": "ירושלם",
-      "gloss": "Yerushalaimni"
+      "gloss": "Yerushalaim"
     },
     {
       "surface": "עד",
@@ -84,6 +80,6 @@
       "gloss": "keng"
     }
   ],
-  "timestamp": "2026-08-26T07:43:28.840739704Z",
+  "timestamp": "2026-08-26T10:24:40.093258833Z",
   "model": "glm-5.3"
 }

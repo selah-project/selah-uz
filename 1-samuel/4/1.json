@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va Shemuelning soʻzi butun Isroilga yetdi, va Isroil filistliklarga qarshi jangga chiqdi va ⟨the⟩ Eben-ha-Ezer yonida lager qurdi, filistliklar esa Afekda lager qurdilar.",
+  "translation": "Shemuelning soʻzi butun Isroilga yetib bordi, va Isroil jang uchun filistliklarga qarshi chiqdi va ⟨u⟩lar Even-ha-Ezer yonida lager qurdi, filistliklar esa Afekda lager qurdilar.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Va boʻldi"
+      "gloss": "boʻldi"
     },
     {
       "surface": "דבר",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "למלחמה",
-      "gloss": "jangga"
+      "gloss": "jang uchun"
     },
     {
       "surface": "ויחנו",
-      "gloss": "va lager qurdilar"
+      "gloss": "va lager qurdi"
     },
     {
       "surface": "על",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "האבן",
-      "gloss": "⟨the⟩ tosh"
+      "gloss": "Even"
     },
     {
       "surface": "העזר",
-      "gloss": "yordam"
+      "gloss": "ha-Ezer"
     },
     {
       "surface": "ופלשתים",
@@ -76,6 +76,6 @@
       "gloss": "Afekda"
     }
   ],
-  "timestamp": "2026-08-26T02:43:23.206835512Z",
+  "timestamp": "2026-08-26T09:52:18.809359904Z",
   "model": "glm-5.3"
 }

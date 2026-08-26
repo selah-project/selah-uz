@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Oyoq kaftingiz bosadigan har qanday joy sizniki boʻladi: ⟨the⟩ choʻldan va Livanondan, ⟨the⟩ daryodan — Perat daryogidan — oxirgi ⟨the⟩ dengizgacha — chegarangiz boʻladi.",
+  "translation": "Har qanday joy — oyoqlaringiz kafti bosadigan barcha joy sizniki boʻladi: choʻldan va Livanondan, daryodan — Perat daryosidan oxirgi dengizgacha — sizning chegarangiz boʻladi.",
   "tokens": [
     {
       "surface": "כל",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "כף",
-      "gloss": "kaft"
+      "gloss": "kafti"
     },
     {
       "surface": "רגלכם",
-      "gloss": "oyoqingiz"
+      "gloss": "oyoqlaringiz"
     },
     {
       "surface": "בו",
-      "gloss": "uni"
+      "gloss": "unda"
     },
     {
       "surface": "לכם",
@@ -45,23 +45,23 @@
     },
     {
       "surface": "מן",
-      "gloss": "—"
+      "gloss": "dan"
     },
     {
       "surface": "המדבר",
-      "gloss": "⟨the⟩ choʻl"
+      "gloss": "choʻl"
     },
     {
       "surface": "והלבנון",
-      "gloss": "va Livonon"
+      "gloss": "va Livanon"
     },
     {
       "surface": "מן",
-      "gloss": "—"
+      "gloss": "dan"
     },
     {
       "surface": "הנהר",
-      "gloss": "⟨the⟩ daryo"
+      "gloss": "daryo"
     },
     {
       "surface": "נהר",
@@ -73,25 +73,25 @@
     },
     {
       "surface": "ועד",
-      "gloss": "gacha"
+      "gloss": "va ... gacha"
     },
     {
       "surface": "הים",
-      "gloss": "⟨the⟩ dengiz"
+      "gloss": "dengiz"
     },
     {
       "surface": "האחרון",
       "gloss": "oxirgi"
     },
     {
-      "surface": "יהיה",
+      "surface": "י היה",
       "gloss": "boʻladi"
     },
     {
       "surface": "גבלכם",
-      "gloss": "chegarangiz"
+      "gloss": "sizning chegarangiz"
     }
   ],
-  "timestamp": "2026-08-26T01:53:54.554611145Z",
+  "timestamp": "2026-08-26T09:50:00.300137876Z",
   "model": "glm-5.3"
 }

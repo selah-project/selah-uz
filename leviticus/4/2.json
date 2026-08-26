@@ -5,19 +5,19 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Isroil oʻgʻillariga gapir, degan: Nafas ⟨⟨the⟩⟩, agar bexatoslik bilan Yahvening buyruqlaridan birortasidan, qilinmasligi kerak boʻlganlardan gunoh qilsa va ulardan birini qilsa:",
+  "translation": "Isroil oʻgʻillariga gapirib ayting: nefesh agar bilmasdan gunoh qilsa, Yahve buyruqlarining barchasidan — qilinmaganlaridan — birontasini qilib qoʻysa:",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "gapir"
+      "gloss": "gapirib"
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "-ga"
     },
     {
       "surface": "בני",
-      "gloss": "oʻgʻillari"
+      "gloss": "oʻgʻilları"
     },
     {
       "surface": "ישראל",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "degan:"
+      "gloss": "ayting"
     },
     {
       "surface": "נפש",
-      "gloss": "Nafas"
+      "gloss": "nefesh"
     },
     {
       "surface": "כי",
@@ -41,31 +41,31 @@
     },
     {
       "surface": "בשגגה",
-      "gloss": "bexatoslik bilan"
+      "gloss": "bilmasdan"
     },
     {
       "surface": "מכל",
-      "gloss": "…dan barchasidan"
+      "gloss": "barchasidan"
     },
     {
       "surface": "מצות",
-      "gloss": "buyruqlaridan"
+      "gloss": "buyruqlarining"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahvening"
+      "gloss": "Yahve"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "qilinmasin"
     },
     {
       "surface": "תעשינה",
-      "gloss": "qilinmasligi kerak"
+      "gloss": "deb"
     },
     {
       "surface": "ועשה",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "מאחת",
-      "gloss": "birortasidan"
+      "gloss": "birontasini"
     },
     {
       "surface": "מהנה",
       "gloss": "ulardan"
     }
   ],
-  "timestamp": "2026-08-26T01:09:35.781067124Z",
+  "timestamp": "2026-08-26T09:46:59.485336804Z",
   "model": "glm-5.3"
 }

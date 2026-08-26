@@ -5,11 +5,11 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 62,
-  "translation": "Oʻtinglar, oʻtinglar ⟨the⟩ darvozalar orqali; ochinglar xalq uchun yoʻlni; koʻtaringlar, koʻtaringlar ⟨the⟩ asosiy yoʻlni; toshlardan tozalanglar; xalqlar ustiga bayroq koʻtaringlar.",
+  "translation": "Oʻtinglar, oʻtinglar darvozalar orqali; xalq uchun yoʻlni hozirlanglar; koʻtaringlar, koʻtaringlar ⟨the⟩ tosh yoʻlini; toshlardan tozalanglar; xalqlar ustiga bayroq koʻtaringlar.",
   "tokens": [
     {
       "surface": "עברו",
-      "gloss": "Oʻtinglar"
+      "gloss": "oʻtinglar"
     },
     {
       "surface": "עברו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "פנו",
-      "gloss": "ochinglar"
+      "gloss": "hozirlanglar"
     },
     {
       "surface": "דרך",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "המסלה",
-      "gloss": "asosiy yoʻlni"
+      "gloss": "⟨the⟩ tosh yoʻli"
     },
     {
       "surface": "סקלו",
-      "gloss": "tozalanglar"
+      "gloss": "toshlardan tozalanglar"
     },
     {
       "surface": "מאבן",
@@ -68,6 +68,6 @@
       "gloss": "xalqlar"
     }
   ],
-  "timestamp": "2026-08-26T04:33:27.466445069Z",
+  "timestamp": "2026-08-26T10:23:07.031516189Z",
   "model": "glm-5.3"
 }

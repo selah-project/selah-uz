@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Olti kun ishlaringni qilursan, yettinchi kunda esa toʻxtaysan — hoʻkizing va eshaging dam olsin deb, va choligʻing oʻgʻli va musofir nafas olgunidek.",
+  "translation": "Olti kun ishlaringni qilarsan, va yettinchi kunda toʻxtaysan — shuning uchun sholing va eshaging dam olsin, va choligiping oʻgʻli va musofir jon olasin.",
   "tokens": [
     {
       "surface": "ששת",
@@ -17,13 +17,57 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "qilursan"
+      "gloss": "qilarsan"
     },
     {
-      "surface": "surfacePlaceholder",
-      "gloss": "placeholder"
+      "surface": "מעשיך",
+      "gloss": "ishlaringni"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "va yettinchi kunda"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yettinchi"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "toʻxtaysan"
+    },
+    {
+      "surface": "למען",
+      "gloss": "shuning uchun"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "dam olsin"
+    },
+    {
+      "surface": "שורך",
+      "gloss": "sholing"
+    },
+    {
+      "surface": "וחמרך",
+      "gloss": "va eshaging"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "va jon olasin"
+    },
+    {
+      "surface": "בן",
+      "gloss": "oʻgʻli"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "choligiping"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "va musofir"
     }
   ],
-  "timestamp": "2026-08-26T00:57:49.582007156Z",
+  "timestamp": "2026-08-26T09:46:01.683315157Z",
   "model": "glm-5.3"
 }

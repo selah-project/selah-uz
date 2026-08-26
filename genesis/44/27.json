@@ -5,8 +5,53 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 44,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-26T00:47:22.116819760Z",
+  "translation": "Va qulingizning otasi bizga dedi: sizlar bilasizki, xotinim menga ikki ⟨oʻgʻil⟩ tugʻdi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "va dedi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "qulingizning"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "otasi"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "bizga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "sizlar"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "bilasiz"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ki"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ikki"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "tugʻdi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "menga"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "xotinim"
+    }
+  ],
+  "timestamp": "2026-08-26T09:45:20.520993171Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 21,
-  "translation": "Va Yahvening maskani — uni Moshe choʻlda yasagan — va oluhaning qurbongohi oʻsha paytda ⟨the⟩ baland joyda, Givʻonda edi.",
+  "translation": "Va Yahvening maskani — Moshe choʻlda yasagan — va butun yoqilgan qurbonlik mozareyisi oʻsha vaqtda baland joyda, Givʻonda edi.",
   "tokens": [
     {
       "surface": "ומשכן",
-      "gloss": "Va ⟨the⟩ maskani"
+      "gloss": "va maskani"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahvening"
+      "gloss": "Yahve"
     },
     {
       "surface": "אשר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "משה",
-      "gloss": "uni Moshe"
+      "gloss": "Moshe"
     },
     {
       "surface": "במדבר",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "ומזבח",
-      "gloss": "va qurbongohi"
+      "gloss": "va mozareyisi"
     },
     {
       "surface": "העולה",
-      "gloss": "oluhaning"
+      "gloss": "butun yoqilgan qurbonlikning"
     },
     {
       "surface": "בעת",
-      "gloss": "oʻsha paytda"
+      "gloss": "oʻsha vaqtda"
     },
     {
       "surface": "ההיא",
-      "gloss": "⟨the⟩ oʻsha"
+      "gloss": "oʻsha"
     },
     {
       "surface": "בבמה",
@@ -56,6 +56,6 @@
       "gloss": "Givʻonda"
     }
   ],
-  "timestamp": "2026-08-26T08:00:00.482751512Z",
+  "timestamp": "2026-08-26T10:04:56.443300778Z",
   "model": "glm-5.3"
 }

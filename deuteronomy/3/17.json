@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 3,
-  "translation": "va ⟨the⟩ Araba va ⟨the⟩ Yarden va ⟨the⟩ chegara, Kinneretdan Araba dengizigacha — tuz dengizi — Pisga yonbagʻirlari ostida, sharq tomonda.",
+  "translation": "Va ⟨the⟩ Araba, va Yarden va uning chegarasi — Kinneretdan Araba dengizigacha, tuz dengizigacha, Pisga yonbagʻirlari ostida, sharq tomonda.",
   "tokens": [
     {
       "surface": "והערבה",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "והירדן",
-      "gloss": "va ⟨the⟩ Yarden"
+      "gloss": "va Yarden"
     },
     {
       "surface": "וגבל",
-      "gloss": "va ⟨the⟩ chegara"
+      "gloss": "va chegarasi"
     },
     {
       "surface": "מכנרת",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ועד",
-      "gloss": "va ... gacha"
+      "gloss": "va … gacha"
     },
     {
       "surface": "ים",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הערבה",
-      "gloss": "Arabaning"
+      "gloss": "⟨the⟩ Arabaning"
     },
     {
       "surface": "ים",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "המלח",
-      "gloss": "tuz"
+      "gloss": "⟨the⟩ tuz"
     },
     {
       "surface": "תחת",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "הפסגה",
-      "gloss": "Pisganing"
+      "gloss": "⟨the⟩ Pisganing"
     },
     {
       "surface": "מזרחה",
       "gloss": "sharq tomonda"
     }
   ],
-  "timestamp": "2026-08-26T01:47:50.008338772Z",
+  "timestamp": "2026-08-26T10:21:46.405624452Z",
   "model": "glm-5.3"
 }

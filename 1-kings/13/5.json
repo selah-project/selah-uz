@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va ⟨the⟩ mehbex yorildi va kul mehbatchdan toʻkildi — Elohit odami Yahve soʻzi bilan koʻrsatgan moʻjiza saridata.",
+  "translation": "Va mehrob yorildi, va kul mehrobdan toʻkildi — Elohim odamining Yahve soʻzi boʻyicha bergan moʻjiza <mojizaga muvofiq> singari.",
   "tokens": [
     {
       "surface": "והמזבח",
-      "gloss": "Va mehbex"
+      "gloss": "Va mehrob"
     },
     {
       "surface": "נקרע",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "-dan"
+      "gloss": "—dan"
     },
     {
       "surface": "המזבח",
-      "gloss": "mehbatchdan"
+      "gloss": "mehrob"
     },
     {
       "surface": "כמופת",
-      "gloss": "moʻjiza saridata"
+      "gloss": "mojiza singari"
     },
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "koʻrsatdi"
+      "gloss": "bergan"
     },
     {
       "surface": "איש",
@@ -49,17 +49,17 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohit"
+      "gloss": "Elohim"
     },
     {
       "surface": "בדבר",
-      "gloss": "soʻzi bilan"
+      "gloss": "soʻzi boʻyicha"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-26T03:35:31.083706353Z",
+  "timestamp": "2026-08-26T10:22:37.288054642Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Va Moshe jamoaga aytdi: mana bu ⟨is⟩ soʻzki Yahve buyurgan qilish uchun.",
+  "translation": "Va Moshe jamoaga aytdi: bu ⟨bu⟩ soʻz — ⟨sóz⟩ Yahve buyurgan narsa, ⟨bajarilishi uchun⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "העדה",
-      "gloss": "jamoa"
+      "gloss": "jamoaga"
     },
     {
       "surface": "זה",
-      "gloss": "mana bu"
+      "gloss": "bu"
     },
     {
       "surface": "הדבר",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "qilish uchun"
+      "gloss": "bajarish uchun"
     }
   ],
-  "timestamp": "2026-08-26T01:13:31.275664354Z",
+  "timestamp": "2026-08-26T09:46:39.523687610Z",
   "model": "glm-5.3"
 }

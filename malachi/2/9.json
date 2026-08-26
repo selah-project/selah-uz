@@ -5,11 +5,11 @@
   "book": "malachi",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Va men ham sizni mensiz va past qildim butun ⟨the⟩ xalq oldida, siz Yoʻllarimni saqlamaganingizcha — Tavrotda yuz koʻtarib ⟨the⟩ qaramlik qilganingizcha.",
+  "translation": "Va men ham sizlarni ⟨את⟩ mensiz va past qildim butun xalq ⟨oldida⟩ — chunki siz yoʻllarimni ⟨את⟩ saqlamaysizlar va Tavrotda yuz koʻtarmoqdasizlar.",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "Va…ham"
+      "gloss": "va ham"
     },
     {
       "surface": "אני",
@@ -21,8 +21,8 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ sizni",
-      "marks": "sizni"
+      "gloss": "⟨את⟩ sizlarni",
+      "marks": "mensiz va past"
     },
     {
       "surface": "נבזים",
@@ -38,46 +38,46 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨the⟩ xalq"
+      "gloss": "xalq"
     },
     {
       "surface": "כפי",
-      "gloss": "mos ravishda"
+      "gloss": "⟨qarab⟩"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "chunki"
     },
     {
       "surface": "אינכם",
-      "gloss": "emas"
+      "gloss": "siz emassizlar"
     },
     {
       "surface": "שמרים",
-      "gloss": "saqlaganlar"
+      "gloss": "saqlayotgan"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yoʻllarimni"
+      "marks": "yoʻllarimni"
     },
     {
       "surface": "דרכי",
-      "gloss": "Yoʻllarimni"
+      "gloss": "yoʻllarimni"
     },
     {
       "surface": "ונשאים",
-      "gloss": "va koʻtarganlar"
+      "gloss": "va koʻtarayotgan"
     },
     {
       "surface": "פנים",
-      "gloss": "yuzni"
+      "gloss": "yuz"
     },
     {
       "surface": "בתורה",
       "gloss": "Tavrotda"
     }
   ],
-  "timestamp": "2026-08-26T05:57:25.262868563Z",
+  "timestamp": "2026-08-26T10:00:05.099284958Z",
   "model": "glm-5.3"
 }

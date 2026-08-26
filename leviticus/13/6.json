@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va kohin uni ⟨את⟩ ikkinchi marta yettinchi kunda koʻradi, va mana, agar negаʼ xirralashgan boʻlsa va negаʼ terida yoyilmasa, kohin uni pok deb eʼlon qiladi — u qoʻyilgʻi (maspaxat)dir; va u kiyimlarini yuvadi va pok boʻladi.",
+  "translation": "Va kohin uni ⟨את⟩ yettinchi kunda, ikkinchi marta koʻradi, va mana, zarar xiralashgan, va zarar terida yoyilmagan — va kohin uni pok deb eʼlon qiladi: u qoʻziqtir, va u kiyimlarini yuvadi va pok boʻladi.",
   "tokens": [
     {
       "surface": "וראה",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "ביום",
-      "gloss": "kunda"
+      "gloss": "kundas"
     },
     {
       "surface": "השביעי",
@@ -38,11 +38,11 @@
     },
     {
       "surface": "כהה",
-      "gloss": "xirralashgan"
+      "gloss": "xiralashgan"
     },
     {
       "surface": "הנגע",
-      "gloss": "negаʼ"
+      "gloss": "zarar"
     },
     {
       "surface": "ולא",
@@ -54,7 +54,7 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "negаʼ"
+      "gloss": "zarar"
     },
     {
       "surface": "בעור",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "וטהרו",
-      "gloss": "va uni pok deb eʼlon qiladi"
+      "gloss": "va uni pok qiladi"
     },
     {
       "surface": "הכהן",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "מספחת",
-      "gloss": "qoʻyilgʻi (maspaxat)"
+      "gloss": "qoʻziqtir"
     },
     {
       "surface": "היא",
@@ -89,6 +89,6 @@
       "gloss": "va pok boʻladi"
     }
   ],
-  "timestamp": "2026-08-26T01:14:51.147747360Z",
+  "timestamp": "2026-08-26T09:46:56.730690317Z",
   "model": "glm-5.3"
 }

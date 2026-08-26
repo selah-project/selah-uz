@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 29,
-  "translation": "Va barcha xalqlar aytdilar: «Nima uchun Yahve bu yerga shunday qildi? Bu buyuk gʻazabning qaynoqligi nimа?»",
+  "translation": "Va barcha xalqlar: „Nima uchun Yahve bu yerga shunday qildi? Bu buyuk gʻazabning qaynoqligi ⟨nima⟩?“ — dedilar.",
   "tokens": [
     {
       "surface": "ואמרו",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "על",
-      "gloss": "—"
+      "gloss": "uchun"
     },
     {
       "surface": "מה",
-      "gloss": "nima uchun"
+      "gloss": "nima"
     },
     {
       "surface": "עשה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לארץ",
-      "gloss": "bu yerga"
+      "gloss": "yerga"
     },
     {
       "surface": "הזאת",
@@ -68,6 +68,6 @@
       "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-26T02:05:29.701970702Z",
+  "timestamp": "2026-08-26T09:51:16.677301310Z",
   "model": "glm-5.3"
 }

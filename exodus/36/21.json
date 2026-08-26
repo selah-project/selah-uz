@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 36,
-  "translation": "Oʻn tanna ⟨⟨the⟩⟩ uzunligi har bir taxtaning, bitta tanna va yarim tanna ⟨⟨the⟩⟩ kengligi har bir taxtaning.",
+  "translation": "Oʻn quloch ⟨⟨the⟩⟩ taxtaning uzunligi, va bitta taxtaning kengligi bir quloch va yarim.",
   "tokens": [
     {
       "surface": "עשר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אמת",
-      "gloss": "tanna"
+      "gloss": "quloch"
     },
     {
       "surface": "ארך",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואמה",
-      "gloss": "va tanna"
+      "gloss": "va quloch"
     },
     {
       "surface": "וחצי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "האמה",
-      "gloss": "tanna"
+      "gloss": "quloch"
     },
     {
       "surface": "רחב",
@@ -45,9 +45,9 @@
     },
     {
       "surface": "האחד",
-      "gloss": "har bir"
+      "gloss": "bitta"
     }
   ],
-  "timestamp": "2026-08-26T08:20:03.846761100Z",
+  "timestamp": "2026-08-26T10:21:09.262761132Z",
   "model": "glm-5.3"
 }

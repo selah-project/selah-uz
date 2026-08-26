@@ -5,7 +5,7 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Isroil oʻgʻillariga gapir va ularga ayting: «Sizlar menga berayotgan ⟨the⟩ yerga kirganingizda va uning hosilini oʻrganda, hosilingizning boshlanishi boʻlgan ⟨את⟩ oʻmer boshoqlarini kohenga keltirasizlar.",
+  "translation": "Isroil oʻgʻillariga gapir va ularga aytki: «Qachon sizlar Mengi bermoqda boʻlgan oʻlchaga kirsangizlar va uning hosilini oʻrsangizlar, omer — hosilingizning boshini kohenga keltirasizlar.»",
   "tokens": [
     {
       "surface": "דבר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "va ayting"
+      "gloss": "va aytki"
     },
     {
       "surface": "אלהם",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "qachon-ki"
     },
     {
       "surface": "תבאו",
-      "gloss": "kirganingizda"
+      "gloss": "kirsangizlar"
     },
     {
       "surface": "אל",
@@ -45,19 +45,19 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "yerga"
+      "gloss": "yer"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "אני",
-      "gloss": "men"
+      "gloss": "Men"
     },
     {
       "surface": "נתן",
-      "gloss": "berayotgan"
+      "gloss": "bermoqda"
     },
     {
       "surface": "לכם",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "וקצרתם",
-      "gloss": "va oʻrganda"
+      "gloss": "va oʻrsangizlar"
     },
     {
       "surface": "את",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "קצירה",
-      "gloss": "uning hosilini"
+      "gloss": "uning hosili"
     },
     {
       "surface": "והבאתם",
@@ -83,15 +83,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oʻmer boshoqlarini"
+      "marks": "omerni"
     },
     {
       "surface": "עמר",
-      "gloss": "oʻmer boshoqlarini"
+      "gloss": "omer"
     },
     {
       "surface": "ראשית",
-      "gloss": "boshlanishi"
+      "gloss": "boshi"
     },
     {
       "surface": "קצירכם",
@@ -103,9 +103,9 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kohenga"
+      "gloss": "kohen"
     }
   ],
-  "timestamp": "2026-08-26T01:20:24.947719662Z",
+  "timestamp": "2026-08-26T10:21:24.069043459Z",
   "model": "glm-5.3"
 }

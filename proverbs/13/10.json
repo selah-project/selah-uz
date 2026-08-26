@@ -5,7 +5,7 @@
   "book": "proverbs",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Faqat takabburlik janjal beradi, ⟨את⟩ maslahatlashuvchilarga esa hikmat ⟨is⟩.",
+  "translation": "Faqat tavakkallik bilan ⟨את⟩ janjal beradi, ⟨lekin⟩ ⟨את⟩ maslahatlashuvchilar bilan — hikmat.",
   "tokens": [
     {
       "surface": "רק",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בזדון",
-      "gloss": "takabburlik"
+      "gloss": "tavakkallik bilan"
     },
     {
       "surface": "יתן",
@@ -25,8 +25,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "maslahatlashuvchilarga"
+      "gloss": "⟨lekin⟩ ⟨את⟩",
+      "marks": "maslahatlashuvchilar"
     },
     {
       "surface": "נועצים",
@@ -37,6 +37,6 @@
       "gloss": "hikmat"
     }
   ],
-  "timestamp": "2026-08-26T06:44:08.435261565Z",
+  "timestamp": "2026-08-26T10:01:44.520195368Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 32,
-  "translation": "Va Reuven oʻgʻillariga va Gad oʻgʻillariga koʻp mol boʻldi — juda qudratli; va ular ⟨את⟩ Yaʼzer yerini va ⟨את⟩ Gilʼod yerini koʻrdilar, va mana ⟨the⟩ joy mol uchun ⟨is⟩ joy.",
+  "translation": "Va Reuven oʻgʻillariga va Gad oʻgʻillariga juda koʻp mol-mulk bor edi — juda kuchli ⟨edi⟩; va ular Yazer yerini ⟨את⟩ va Gilad yerini ⟨את⟩ koʻrdilar, va mana, ⟨bu⟩ joy mollarga joy ⟨edi⟩.",
   "tokens": [
     {
       "surface": "ומקנה",
-      "gloss": "Va mol"
+      "gloss": "Va mol-mulk"
     },
     {
       "surface": "רב",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "boʻldi"
+      "gloss": "bor edi"
     },
     {
       "surface": "לבני",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עצום",
-      "gloss": "qudratli"
+      "gloss": "kuchli"
     },
     {
       "surface": "מאד",
@@ -45,33 +45,33 @@
     },
     {
       "surface": "ויראו",
-      "gloss": "va koʻrdilar"
+      "gloss": "va ular koʻrdilar"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yaʼzer yeri"
+      "marks": "Yazer yeri"
     },
     {
       "surface": "ארץ",
-      "gloss": "yeri"
+      "gloss": "yerini"
     },
     {
       "surface": "יעזר",
-      "gloss": "Yaʼzer"
+      "gloss": "Yazer"
     },
     {
-      "surface": "ו את",
+      "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "Gilʼod yeri"
+      "marks": "Gilad yeri"
     },
     {
       "surface": "ארץ",
-      "gloss": "yeri"
+      "gloss": "yerini"
     },
     {
       "surface": "גלעד",
-      "gloss": "Gilʼod"
+      "gloss": "Gilad"
     },
     {
       "surface": "והנה",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "⟨the⟩ joy"
+      "gloss": "joy"
     },
     {
       "surface": "מקום",
@@ -87,9 +87,9 @@
     },
     {
       "surface": "מקנה",
-      "gloss": "mol uchun"
+      "gloss": "mollarga"
     }
   ],
-  "timestamp": "2026-08-26T01:44:53.825423869Z",
+  "timestamp": "2026-08-26T09:49:11.832411567Z",
   "model": "glm-5.3"
 }

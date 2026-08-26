@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Ular oʻzlari uchun oʻttiz ikki ming jangovar arava va ⟨את⟩ Maaxa shohini va ⟨את⟩ uning xalqini yolladilar; ular kelib, ⟨את⟩ Medeva oldida lager qurdilar, va Ammon oʻgʻillari oʻz shaharlaridan yigʻilib, jangga ⟨את⟩ keldilar.",
+  "translation": "Va oʻzlariga oʻttiz ikki ming jangovar aravani, Maaxa qiroli va uning xalqini ⟨את⟩ yolladilar; ular kelib Medeva oldida lager qurdilar, va Ammon oʻgʻillari oʻz shaharlaridan yigʻilib jangga kelgan edilar.",
   "tokens": [
     {
       "surface": "וישכרו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "oʻzlari uchun"
+      "gloss": "oʻzlariga"
     },
     {
       "surface": "שנים",
@@ -32,8 +32,30 @@
       "gloss": "jangovar arava"
     },
     {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Maaxa qiroli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "qiroli"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaxa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uning xalqi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "uning xalqi"
+    },
+    {
       "surface": "ויבאו",
-      "gloss": "⟨את⟩ keldilar"
+      "gloss": "va kelgan edilar"
     },
     {
       "surface": "ויחנו",
@@ -45,7 +67,7 @@
     },
     {
       "surface": "מידבא",
-      "gloss": "⟨את⟩ Medeva"
+      "gloss": "Medeva"
     },
     {
       "surface": "ובני",
@@ -57,7 +79,7 @@
     },
     {
       "surface": "נאספו",
-      "gloss": "yigʻildilar"
+      "gloss": "yigʻilib"
     },
     {
       "surface": "מעריהם",
@@ -65,13 +87,13 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "keldilar"
+      "gloss": "va kelgan edilar"
     },
     {
       "surface": "למלחמה",
       "gloss": "jangga"
     }
   ],
-  "timestamp": "2026-08-26T08:00:07.569855037Z",
+  "timestamp": "2026-08-26T10:04:57.289951898Z",
   "model": "glm-5.3"
 }

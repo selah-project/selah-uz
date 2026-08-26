@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Va chetlanmanglar, chunki ⟨את⟩ behudá narsalarning ortidan — ular foyda bermas va qutqarmas, chunki behudá ular.",
+  "translation": "Va chetga ogʻmanglar, chunki ⟨u⟩ boʻsh narsalarning ortidan ⟨ketar edingiz⟩ — ular foyda bermaydi va qutqarmaydi, chunki ular boʻsh narsalardir.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "va ... -mas"
+      "gloss": "va ... -ma"
     },
     {
       "surface": "תסורו",
-      "gloss": "chetlanmanglar"
+      "gloss": "chetga ogʻmanglar"
     },
     {
       "surface": "כי",
@@ -25,27 +25,27 @@
     },
     {
       "surface": "התהו",
-      "gloss": "behudá narsalarning"
+      "gloss": "boʻsh narsalarning"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ularki"
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "-ma"
     },
     {
       "surface": "יועילו",
-      "gloss": "foydа bermas"
+      "gloss": "foYda bermaydi"
     },
     {
       "surface": "ולא",
-      "gloss": "va ... -mas"
+      "gloss": "va ... -ma"
     },
     {
       "surface": "יצילו",
-      "gloss": "qutqarmas"
+      "gloss": "qutqarmaydi"
     },
     {
       "surface": "כי",
@@ -53,13 +53,13 @@
     },
     {
       "surface": "תהו",
-      "gloss": "behudá"
+      "gloss": "boʻsh narsalar"
     },
     {
       "surface": "המה",
-      "gloss": "ular"
+      "gloss": "ulardir"
     }
   ],
-  "timestamp": "2026-08-26T02:45:43.063034395Z",
+  "timestamp": "2026-08-26T09:52:31.010575137Z",
   "model": "glm-5.3"
 }

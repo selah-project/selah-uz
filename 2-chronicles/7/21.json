@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Va bu uy, ki baland ⟨boʻlgan⟩, undan oʻtgan har bir kishi uni hayron qiladi va aytadi: nima uchun Yahve shunday qildi ⟨the⟩ bu yerga va ⟨the⟩ bu uyga?",
+  "translation": "Va bu uy, baland boʻlgan ⟨edi⟩, undan oʻtib kelayotgan har kimga hayronlik boʻlur, va u aytur: Nima uchun Yahve bu yerga va bu uyga shunday qildi?",
   "tokens": [
     {
       "surface": "והבית",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "היה",
-      "gloss": "boʻlgan"
+      "gloss": "boʻlgan ⟨edi⟩"
     },
     {
       "surface": "עליון",
@@ -29,23 +29,23 @@
     },
     {
       "surface": "לכל",
-      "gloss": "har bir"
+      "gloss": "har kimga"
     },
     {
       "surface": "עבר",
-      "gloss": "oʻtgan"
+      "gloss": "oʻtayotgan"
     },
     {
       "surface": "עליו",
-      "gloss": "uni"
+      "gloss": "undan"
     },
     {
       "surface": "ישם",
-      "gloss": "hayron qiladi"
+      "gloss": "hayronlik boʻlur"
     },
     {
       "surface": "ואמר",
-      "gloss": "va aytadi"
+      "gloss": "va u aytur"
     },
     {
       "surface": "במה",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "לארץ",
-      "gloss": "yerga"
+      "gloss": "bu yerga"
     },
     {
       "surface": "הזאת",
@@ -73,13 +73,13 @@
     },
     {
       "surface": "ולבית",
-      "gloss": "va uyga"
+      "gloss": "va bu uyga"
     },
     {
       "surface": "הזה",
       "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-26T08:07:30.684955269Z",
+  "timestamp": "2026-08-26T10:05:05.081217472Z",
   "model": "glm-5.3"
 }

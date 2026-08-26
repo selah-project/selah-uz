@@ -5,11 +5,11 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 5,
-  "translation": "Va u aytdi: bu — yovuzlik ⟨is⟩. Va ⟨את⟩ uni eyfa o'rtasiga tashladi va ⟨את⟩ qo'rg'oshin toshni uning og'ziga tashladi.",
+  "translation": "Va u aytdi: Bu ⟨—⟩ Yovuzlik. Va ⟨את⟩ uni tashladi eyfa ichiga, va ⟨את⟩ qoʻrgʻoshin toshini tashladi uning ogʻziga.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Va aytdi"
+      "gloss": "va u aytdi"
     },
     {
       "surface": "זאת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הרשעה",
-      "gloss": "yovuzlik"
+      "gloss": "Yovuzlik"
     },
     {
       "surface": "וישלך",
@@ -30,11 +30,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "-ga"
+      "gloss": "ichiga"
     },
     {
       "surface": "תוך",
-      "gloss": "o'rtasiga"
+      "gloss": "oʻrtasiga"
     },
     {
       "surface": "האיפה",
@@ -47,7 +47,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "qo'rg'oshin toshni"
+      "marks": "qoʻrgʻoshin toshini"
     },
     {
       "surface": "אבן",
@@ -55,17 +55,17 @@
     },
     {
       "surface": "העפרת",
-      "gloss": "qo'rg'oshin"
+      "gloss": "qoʻrgʻoshin"
     },
     {
       "surface": "אל",
-      "gloss": "-ga"
+      "gloss": "ga"
     },
     {
       "surface": "פיה",
-      "gloss": "uning og'zi"
+      "gloss": "uning ogʻzi"
     }
   ],
-  "timestamp": "2026-08-26T05:52:43.106120706Z",
+  "timestamp": "2026-08-26T10:00:04.587258073Z",
   "model": "glm-5.3"
 }

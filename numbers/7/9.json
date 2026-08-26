@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Va Kehat oʻgʻillariga bermadi, chunki muqaddas ⟨the⟩ xizmat ularga ⟨tegishli⟩: yelkada koʻtaradilar.",
+  "translation": "Va Kehat oʻgʻillariga esa bermadi, chunki muqaddas xizmat ularga ⟨toʻgʻri keladi⟩ — yelkada koʻtaradilar.",
   "tokens": [
     {
       "surface": "ולבני",
-      "gloss": "Va ... oʻgʻillariga"
+      "gloss": "Va … oʻgʻillariga"
     },
     {
       "surface": "קהת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "bermadi — yoʻq"
+      "gloss": "bermadi … emas"
     },
     {
       "surface": "נתן",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "עלהם",
-      "gloss": "ularga"
+      "gloss": "ularga ⟨toʻgʻri keladi⟩"
     },
     {
       "surface": "בכתף",
@@ -48,6 +48,6 @@
       "gloss": "koʻtaradilar"
     }
   ],
-  "timestamp": "2026-08-26T01:28:07.021858582Z",
+  "timestamp": "2026-08-26T09:47:40.811423432Z",
   "model": "glm-5.3"
 }

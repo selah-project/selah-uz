@@ -5,11 +5,11 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va yigitcha hech narsani bilmadi — faqat Yehonatan va Dovud ⟨את⟩ soʻzni bilgan edi.",
+  "translation": "Va yigit hech narsani bilmasdi; faqat Yehonatan va Dovid ⟨את⟩ ishni bilardi.",
   "tokens": [
     {
       "surface": "והנער",
-      "gloss": "va ⟨the⟩ yigitcha"
+      "gloss": "va yigit"
     },
     {
       "surface": "לא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ידע",
-      "gloss": "bilmadi"
+      "gloss": "bilardi"
     },
     {
       "surface": "מאומה",
@@ -33,22 +33,22 @@
     },
     {
       "surface": "ודוד",
-      "gloss": "va Dovud"
+      "gloss": "va Dovid"
     },
     {
       "surface": "ידעו",
-      "gloss": "bilgan edi"
+      "gloss": "bilardi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "soʻzni"
+      "marks": "ishni"
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨the⟩ soʻzni"
+      "gloss": "ish"
     }
   ],
-  "timestamp": "2026-08-26T02:55:08.810974978Z",
+  "timestamp": "2026-08-26T09:52:52.452145144Z",
   "model": "glm-5.3"
 }

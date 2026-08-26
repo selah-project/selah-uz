@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Shunday deydi ⟨the⟩ podshoh: Xizkiya sizni aldotmasin, chunki ⟨u⟩ ⟨את⟩ sizni uning qoʻlidan qutqara olmaydi.",
+  "translation": "Shunday dedi podshoh: Xizqiyo sizni aldamasin, chunki u sizni ⟨את⟩ uning qoʻlidan qutqara olmaydi.",
   "tokens": [
     {
       "surface": "כה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "deydi"
+      "gloss": "dedi"
     },
     {
       "surface": "המלך",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "olmasin"
+      "gloss": "-masin"
     },
     {
       "surface": "ישיא",
-      "gloss": "aldotmasin"
+      "gloss": "aldasin"
     },
     {
       "surface": "לכם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Xizkiya"
+      "gloss": "Xizqiyo"
     },
     {
       "surface": "כי",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "olmaydi"
     },
     {
       "surface": "יוכל",
-      "gloss": "qodir"
+      "gloss": "qutqara olmaydi"
     },
     {
       "surface": "להציל",
-      "gloss": "qutqarmoqqa"
+      "gloss": "qutqarish"
     },
     {
       "surface": "אתכם",
@@ -61,6 +61,6 @@
       "gloss": "uning qoʻlidan"
     }
   ],
-  "timestamp": "2026-08-26T04:01:02.272249718Z",
+  "timestamp": "2026-08-26T09:54:45.848225191Z",
   "model": "glm-5.3"
 }

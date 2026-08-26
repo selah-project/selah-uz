@@ -5,15 +5,15 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Ayt Elazarga, Aharon oʻgʻli, ⟨the⟩ kohin: va koʻtarsin ⟨את⟩ olov idishlarini ⟨the⟩ yonayotganlar ichidan, va ⟨את⟩ olovni sen soch uzoqroqqa, chunki ular muqaddas boʻldilar.",
+  "translation": "Elazarga, Aharon oʻgʻli kohonga ayting, u koʻtarsin ⟨את⟩ olov gabaritlarini kuydirilgandan ichida va ⟨את⟩ olovni soching uzoqqa, chunki muqaddas boʻldilar ular.",
   "tokens": [
     {
       "surface": "אמר",
-      "gloss": "ayt"
+      "gloss": "ayting"
     },
     {
       "surface": "אל",
-      "gloss": "—ga"
+      "gloss": "–ga"
     },
     {
       "surface": "אלעזר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kohin"
+      "gloss": "kohon"
     },
     {
       "surface": "וירם",
@@ -38,19 +38,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "olov idishlarini"
+      "marks": "olov gabaritlarini"
     },
     {
       "surface": "המחתת",
-      "gloss": "olov idishlarini"
+      "gloss": "olov gabaritlari"
     },
     {
       "surface": "מבין",
-      "gloss": "—ning ichidan"
+      "gloss": "ichidan"
     },
     {
       "surface": "השרפה",
-      "gloss": "yonayotgan(lar)"
+      "gloss": "kuydirilgandan"
     },
     {
       "surface": "ואת",
@@ -59,15 +59,15 @@
     },
     {
       "surface": "האש",
-      "gloss": "olovni"
+      "gloss": "olov"
     },
     {
       "surface": "זרה",
-      "gloss": "soch"
+      "gloss": "soching"
     },
     {
       "surface": "הלאה",
-      "gloss": "uzoqroqqa"
+      "gloss": "uzoqqa"
     },
     {
       "surface": "כי",
@@ -78,6 +78,6 @@
       "gloss": "muqaddas boʻldilar"
     }
   ],
-  "timestamp": "2026-08-26T01:36:03.782896954Z",
+  "timestamp": "2026-08-26T09:49:00.799226969Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Men tirikman, — Adonay Yahve aytadi — agar ⟨Sedom⟩, opang, u va uning qizlari qilgan boʻlsa sen qilganingdek, ⟨את⟩ ⟨siz⟩ va qizlaring.",
+  "translation": "Tirikman — Adonay Yahvening neʼmi — Sedom, singlingingiz, ⟨u⟩ oʻz qizlari bilan siz qilganingizdek, ⟨siz⟩ va qizlaringiz qilmadi.",
   "tokens": [
     {
       "surface": "חי",
-      "gloss": "tirik"
+      "gloss": "Tirikman"
     },
     {
       "surface": "אני",
-      "gloss": "men"
+      "gloss": "⟨men⟩"
     },
     {
       "surface": "נאם",
-      "gloss": "aytadi \/ iroda"
+      "gloss": "neʼmi"
     },
     {
       "surface": "אדני",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עשתה",
-      "gloss": "qilgan boʻlsa"
+      "gloss": "qilmadi"
     },
     {
       "surface": "סדם",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "אחותך",
-      "gloss": "opang"
+      "gloss": "singlingingiz"
     },
     {
       "surface": "היא",
@@ -49,26 +49,26 @@
     },
     {
       "surface": "ובנותיה",
-      "gloss": "va uning qizlari"
+      "gloss": "va oʻz qizlari"
     },
     {
       "surface": "כאשר",
-      "gloss": "...dek"
+      "gloss": "siz qilganingizdek"
     },
     {
       "surface": "עשית",
-      "gloss": "qilding"
+      "gloss": "qildingiz"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "siz"
+      "gloss": "siz",
+      "marks": "bu אַתְּ — olmosh, belgi emas"
     },
     {
       "surface": "ובנותיך",
-      "gloss": "va qizlaring"
+      "gloss": "va qizlaringiz"
     }
   ],
-  "timestamp": "2026-08-26T05:15:34.468971868Z",
+  "timestamp": "2026-08-26T09:56:46.599402535Z",
   "model": "glm-5.3"
 }

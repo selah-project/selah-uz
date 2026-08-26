@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 21,
-  "translation": "Va ularga qotilga ⟨the⟩ panoh shahri boʻlgan ⟨את⟩ Shekemni va ⟨uning⟩ atrof-maydonini Efrayim togʻida, va ⟨את⟩ Gezerni va ⟨uning⟩ atrof-maydonini berdilar.",
+  "translation": "Ular ularga qotil uchun panoh shahri — Shexemni va uning chorvaklarini Efrayim togʻida, hamda Gezerni va uning chorvaklarini berdilar.",
   "tokens": [
     {
       "surface": "ויתנו",
@@ -13,12 +13,12 @@
     },
     {
       "surface": "להם",
-      "gloss": "ularga"
+      "gloss": "ulararga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shekemni"
+      "marks": "Shexemni (panoh shahri)"
     },
     {
       "surface": "עיר",
@@ -30,25 +30,25 @@
     },
     {
       "surface": "הרצח",
-      "gloss": "qotilga"
+      "gloss": "qotil uchun"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Shekemni"
+      "marks": "Shexemni"
     },
     {
       "surface": "שכם",
-      "gloss": "Shekem"
+      "gloss": "Shexem"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "atrof-maydonini"
+      "marks": "uning chorvaklarini"
     },
     {
       "surface": "מגרשה",
-      "gloss": "uning atrof-maydoni"
+      "gloss": "uning chorvaklari"
     },
     {
       "surface": "בהר",
@@ -59,7 +59,7 @@
       "gloss": "Efrayim"
     },
     {
-      "surface": "ו את",
+      "surface": "ואת",
       "gloss": "va ⟨את⟩",
       "marks": "Gezerni"
     },
@@ -70,13 +70,13 @@
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "atrof-maydonini"
+      "marks": "uning chorvaklarini"
     },
     {
       "surface": "מגרשה",
-      "gloss": "uning atrof-maydoni"
+      "gloss": "uning chorvaklari"
     }
   ],
-  "timestamp": "2026-08-26T02:20:55.815795142Z",
+  "timestamp": "2026-08-26T09:51:51.957065165Z",
   "model": "glm-5.3"
 }

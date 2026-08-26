@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 41,
-  "translation": "Va ⟨u⟩ kengayib, yuqoriga, yuqoriga yon xonalar atrofida burilardi, chunki ⟨the⟩ uyning aylanma tuzilishi yuqoriga, yuqoriga ⟨the⟩ uy atrofida atrofda ⟨bor edi⟩; shuning uchun ⟨the⟩ uyning kengligi yuqorida ⟨ortardi⟩, va xuddi shunday pastki qavatdan yuqori qavatga — oʻrta qavatga koʻtarilardi.",
+  "translation": "Va kengayib, yuqoriga, yuqoriga yon xonalar tomon burilgan ⟨torreya⟩, chunki uyning aylanasi yuqoriga, yuqoriga uy atrofida aylana ⟨boʻylab⟩; shuning uchun uying kengligi yuqorida ⟨ortadi⟩, va shunday pastki ⟨qavatdan⟩ yuqoriga, oʻrta ⟨qavatga⟩ koʻtariladi.",
   "tokens": [
     {
       "surface": "ורחבה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ונסבה",
-      "gloss": "burilardi"
+      "gloss": "burilgan"
     },
     {
       "surface": "למעלה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "לצלעות",
-      "gloss": "yon xonalar atrofida"
+      "gloss": "yon xonalar tomon"
     },
     {
       "surface": "כי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "מוסב",
-      "gloss": "aylanma tuzilishi"
+      "gloss": "aylanasi"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ uyning"
+      "gloss": "uyning"
     },
     {
       "surface": "למעלה",
@@ -46,26 +46,26 @@
     {
       "surface": "למעלה",
       "gloss": "yuqoriga"
-    },
-    {
-      "surface": "סביב",
-      "gloss": "atrofida"
     },
     {
       "surface": "סביב",
       "gloss": "atrofda"
     },
     {
+      "surface": "סביב",
+      "gloss": "aylana"
+    },
+    {
       "surface": "לבית",
-      "gloss": "⟨the⟩ uy"
+      "gloss": "uy"
     },
     {
       "surface": "על",
-      "gloss": "—"
+      "gloss": "shuning uchun"
     },
     {
       "surface": "כן",
-      "gloss": "shuning uchun"
+      "gloss": "±"
     },
     {
       "surface": "רחב",
@@ -73,7 +73,7 @@
     },
     {
       "surface": "לבית",
-      "gloss": "⟨the⟩ uyning"
+      "gloss": "uyning"
     },
     {
       "surface": "למעלה",
@@ -81,29 +81,29 @@
     },
     {
       "surface": "וכן",
-      "gloss": "va xuddi shunday"
+      "gloss": "va shunday"
     },
     {
       "surface": "התחתונה",
-      "gloss": "pastki qavatdan"
+      "gloss": "pastkisidan"
     },
     {
       "surface": "יעלה",
-      "gloss": "koʻtarilardi"
+      "gloss": "koʻtariladi"
     },
     {
       "surface": "על",
-      "gloss": "—"
+      "gloss": "±"
     },
     {
       "surface": "העליונה",
-      "gloss": "yuqori qavatga"
+      "gloss": "yuqorigisiga"
     },
     {
       "surface": "לתיכונה",
-      "gloss": "oʻrta qavatga"
+      "gloss": "oʻrtasiga"
     }
   ],
-  "timestamp": "2026-08-26T05:30:31.198044937Z",
+  "timestamp": "2026-08-26T09:58:05.207500933Z",
   "model": "glm-5.3"
 }

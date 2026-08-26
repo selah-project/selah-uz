@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Qari va yuzi koʻtarilgan — u ⟨the⟩ bosh; va yolgʻon oʻrgatuvchi paygʻambar — u ⟨the⟩ dum.",
+  "translation": "Qari va yuz ⟨the⟩-koʻtarilgan — ⟨u⟩ ⟨the⟩ boshdir, va yolgʻon oʻrgatuvchi naviy — ⟨u⟩ ⟨the⟩ dumdir.",
   "tokens": [
     {
       "surface": "זקן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ונשוא",
-      "gloss": "va koʻtarilgan"
+      "gloss": "va yuz-koʻtarilgan"
     },
     {
       "surface": "פנים",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "u"
+      "gloss": "⟨u⟩"
     },
     {
       "surface": "הראש",
-      "gloss": "bosh"
+      "gloss": "⟨the⟩ bosh"
     },
     {
       "surface": "ונביא",
-      "gloss": "va paygʻambar"
+      "gloss": "va naviy"
     },
     {
       "surface": "מורה",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "הוא",
-      "gloss": "u"
+      "gloss": "⟨u⟩"
     },
     {
       "surface": "הזנב",
-      "gloss": "dum"
+      "gloss": "⟨the⟩ dum"
     }
   ],
-  "timestamp": "2026-08-26T04:11:37.130991745Z",
+  "timestamp": "2026-08-26T10:23:07.309470886Z",
   "model": "glm-5.3"
 }

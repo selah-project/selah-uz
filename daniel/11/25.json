@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va u oʻz kuchi va yuragini janub shohiga qarshi qoʻzgʻatadi — ulugʻ qoʻshin bilan; va janub shohi jangga qoʻzgʻaladi — juda ulugʻ va zoʻr qoʻshin bilan, ammo turmaydi, chunki unga qarshi hiyla-nayranglar oʻylab topiladi.",
+  "translation": "Va u oʻz kuchini va oʻz yuragini janub shohiga qarshi buyuk qoʻshin bilan qoʻzgʻatadi; janub shohisi esa jangga juda buyuk va zoʻr qoʻshin bilan qarshi turadi, biroq ⟨u⟩ turmaydi, chunki unga qarshi makrlar oʻylab topiladi.",
   "tokens": [
     {
       "surface": "ויער",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "כחו",
-      "gloss": "oʻz kuchi"
+      "gloss": "oʻz kuchini"
     },
     {
       "surface": "ולבבו",
-      "gloss": "va yuragi"
+      "gloss": "va oʻz yuragini"
     },
     {
       "surface": "על",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "shoh"
+      "gloss": "shohi"
     },
     {
       "surface": "הנגב",
-      "gloss": "janub ⟨the⟩"
+      "gloss": "janub"
     },
     {
       "surface": "בחיל",
@@ -37,19 +37,19 @@
     },
     {
       "surface": "גדול",
-      "gloss": "ulugʻ"
+      "gloss": "buyuk"
     },
     {
       "surface": "ומלך",
-      "gloss": "va shoh"
+      "gloss": "va janub shohisi"
     },
     {
       "surface": "הנגב",
-      "gloss": "janub ⟨the⟩"
+      "gloss": "janub"
     },
     {
       "surface": "יתגרה",
-      "gloss": "qoʻzgʻaladi"
+      "gloss": "qarshi turadi"
     },
     {
       "surface": "למלחמה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "גדול",
-      "gloss": "ulugʻ"
+      "gloss": "buyuk"
     },
     {
       "surface": "ועצום",
@@ -69,19 +69,19 @@
     },
     {
       "surface": "עד",
-      "gloss": "—"
-    },
-    {
-      "surface": "מאד",
       "gloss": "juda"
     },
     {
+      "surface": "מאד",
+      "gloss": "oʻta"
+    },
+    {
       "surface": "ולא",
-      "gloss": "ammo… emas"
+      "gloss": "biroq ⟨u⟩ turmaydi"
     },
     {
       "surface": "יעמד",
-      "gloss": "turadi"
+      "gloss": ""
     },
     {
       "surface": "כי",
@@ -89,7 +89,7 @@
     },
     {
       "surface": "יחשבו",
-      "gloss": "oʻylab topadilar"
+      "gloss": "oʻylab topiladi"
     },
     {
       "surface": "עליו",
@@ -97,9 +97,9 @@
     },
     {
       "surface": "מחשבות",
-      "gloss": "hiyla-nayranglar"
+      "gloss": "makrlar"
     }
   ],
-  "timestamp": "2026-08-26T07:35:02.467134256Z",
+  "timestamp": "2026-08-26T10:24:46.024876886Z",
   "model": "glm-5.3"
 }

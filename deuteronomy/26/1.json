@@ -5,31 +5,31 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Va boʻladi: sen kirsang ⟨the⟩ erga, uni Yahve, Elohiming, senga meros ⟨object⟩ beradi, va uni egallab, unda yashaysan.",
+  "translation": "Va boʻladiki, sen kirsan ⟨את⟩ oʻsha yerga ki Yahve, Elohiming, senga meros beradi, va uni meros qilib olasan va unda yashaysan.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Va boʻladi"
+      "gloss": "Va boʻladiki"
     },
     {
       "surface": "כי",
-      "gloss": "—ki"
+      "gloss": "ki"
     },
     {
       "surface": "תבוא",
-      "gloss": "kirsang"
+      "gloss": "kirsan"
     },
     {
       "surface": "אל",
-      "gloss": "…ga"
+      "gloss": "el"
     },
     {
       "surface": "הארץ",
-      "gloss": "⟨the⟩ yer"
+      "gloss": "oʻsha yerga"
     },
     {
       "surface": "אשר",
-      "gloss": "uni"
+      "gloss": "—"
     },
     {
       "surface": "יהוה",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "נחלה",
-      "gloss": "meros ⟨object⟩"
+      "gloss": "meros"
     },
     {
       "surface": "וירשתה",
-      "gloss": "va uni egallab"
+      "gloss": "uni meros qilib olasan"
     },
     {
       "surface": "וישבת",
@@ -64,6 +64,6 @@
       "gloss": "unda"
     }
   ],
-  "timestamp": "2026-08-26T02:01:10.648262182Z",
+  "timestamp": "2026-08-26T10:21:59.196073964Z",
   "model": "glm-5.3"
 }

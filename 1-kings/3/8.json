@@ -5,15 +5,15 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va bandang sen tanlagan xalqingning — juda koʻp xalqning ichida, uni koʻp变小idan sanalmaydi va hisoblanmaydigan xalq.",
+  "translation": "Va banding ⟨oʻzi⟩ sen tanlagan xalqingning oʻrtasida turibdi — koʻp xalq, uni koʻpligidan sanab boʻlmaydi hamda hisoblab boʻlmaydi.",
   "tokens": [
     {
       "surface": "ועבדך",
-      "gloss": "Va bandang"
+      "gloss": "va banding"
     },
     {
       "surface": "בתוך",
-      "gloss": "ichida"
+      "gloss": "oʻrtasida"
     },
     {
       "surface": "עמך",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "sen"
+      "gloss": "ki"
     },
     {
       "surface": "בחרת",
-      "gloss": "tanlagan"
+      "gloss": "sen tanlagan"
     },
     {
       "surface": "עם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "רב",
-      "gloss": "juda koʻp"
+      "gloss": "koʻp"
     },
     {
       "surface": "אשר",
@@ -41,25 +41,25 @@
     },
     {
       "surface": "לא",
-      "gloss": "...-may"
+      "gloss": "boʻlmaydi"
     },
     {
       "surface": "ימנה",
-      "gloss": "sanalmaydi"
+      "gloss": "sanab"
     },
     {
       "surface": "ולא",
-      "gloss": "va ...-may"
+      "gloss": "hamda hisoblab"
     },
     {
       "surface": "יסספר",
-      "gloss": "hisoblanmaydi"
+      "gloss": "boʻlmaydi"
     },
     {
       "surface": "מרב",
       "gloss": "koʻpligidan"
     }
   ],
-  "timestamp": "2026-08-26T03:26:35.838531340Z",
+  "timestamp": "2026-08-26T09:53:20.351671549Z",
   "model": "glm-5.3"
 }

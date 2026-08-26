@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 29,
-  "translation": "Va endi ertalab ⟨⟨the⟩ erta tur⟩ — ertalab tong otgach, sen bilan birga kelgan xoʻjayiningning qullari bilan erta turinglar, sizga yorugʻlik boʻlganda, ketaveringlar.",
+  "translation": "Endi esa ertalab erta turging, xoʻjayninging ⟨את⟩ bilan kelgan qullari bilan, ertalab erta turganingizda va ⟨nurga⟩ ega boʻlganingizda, boringlar.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "va endi"
+      "gloss": "endi esa"
     },
     {
       "surface": "השכם",
-      "gloss": "erta tur"
+      "gloss": "erta turging"
     },
     {
       "surface": "בבקר",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ועבדי",
-      "gloss": "va qullari"
+      "gloss": "qullari"
     },
     {
       "surface": "אדניך",
-      "gloss": "xoʻjayiningning"
+      "gloss": "xoʻjayninging"
     },
     {
       "surface": "אשר",
@@ -33,16 +33,16 @@
     },
     {
       "surface": "באו",
-      "gloss": "kelganlar"
+      "gloss": "kelgan"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩",
-      "marks": "sen bilan birga"
+      "gloss": "⟨את⟩ bilan",
+      "marks": "sen bilan"
     },
     {
       "surface": "והשכמתם",
-      "gloss": "va erta tursangiz"
+      "gloss": "erta turganingizda"
     },
     {
       "surface": "בבקר",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "ואור",
-      "gloss": "va yorugʻlik"
+      "gloss": "nur ⟨bor⟩"
     },
     {
       "surface": "לכם",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "ולכו",
-      "gloss": "va ketaveringlar"
+      "gloss": "boringlar"
     }
   ],
-  "timestamp": "2026-08-26T02:58:39.363773096Z",
+  "timestamp": "2026-08-26T09:53:00.530491619Z",
   "model": "glm-5.3"
 }

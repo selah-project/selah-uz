@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Va Yahve ⟨את⟩ oʻz soʻzini bajar-di — u soʻzlagan soʻzni; va men Dovud otam oʻrniga turdim va Isroil taxtida oʻtirdim, xuddi Yahve soʻzlaganidek, va men qurdim ⟨the⟩ uyni Yahve, Isroil Elohimining nomi uchun.",
+  "translation": "Va Yahve ⟨את⟩ soʻzini — qilib oʻziga aytganini — turdi-bajaradi; men otam David oʻrniga turdim va Isroil taxtiga oʻtirdim, Yahve soʻlaganidek, va Yahve, Isroil Elohimining Nomi uchun uy qurdim.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "Va qoʻydi\/bajardi"
+      "gloss": "Va … turdi-bajaradi"
     },
     {
       "surface": "יהוה",
@@ -18,23 +18,23 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "oʻz soʻzini"
+      "marks": "soʻzini"
     },
     {
       "surface": "דברו",
-      "gloss": "oʻz soʻzini"
+      "gloss": "soʻzini"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "דבר",
-      "gloss": "u soʻzlagan"
+      "gloss": "qilib oʻziga aytgan"
     },
     {
       "surface": "ואקם",
-      "gloss": "va men turdim"
+      "gloss": "men … turdim"
     },
     {
       "surface": "תחת",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "דוד",
-      "gloss": "Dovud"
+      "gloss": "David"
     },
     {
       "surface": "אבי",
@@ -50,11 +50,11 @@
     },
     {
       "surface": "ואשב",
-      "gloss": "va oʻtirdim"
+      "gloss": "va … oʻtirdim"
     },
     {
       "surface": "על",
-      "gloss": "ustida"
+      "gloss": "…ga"
     },
     {
       "surface": "כסא",
@@ -66,11 +66,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "xuddi ... kabi"
+      "gloss": "…idek"
     },
     {
       "surface": "דבר",
-      "gloss": "soʻzlaganidek"
+      "gloss": "soʻlagan"
     },
     {
       "surface": "יהוה",
@@ -78,15 +78,15 @@
     },
     {
       "surface": "ואבנה",
-      "gloss": "va qurdim"
+      "gloss": "va … qurdim"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨the⟩ uyni"
+      "gloss": "uy"
     },
     {
       "surface": "לשם",
-      "gloss": "nomi uchun"
+      "gloss": "Nomi uchun"
     },
     {
       "surface": "יהוה",
@@ -101,6 +101,6 @@
       "gloss": "Isroil"
     }
   ],
-  "timestamp": "2026-08-26T03:33:18.126225451Z",
+  "timestamp": "2026-08-26T09:53:47.298877365Z",
   "model": "glm-5.3"
 }

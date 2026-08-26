@@ -5,27 +5,27 @@
   "book": "joel",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Ustunalar orasida — ⟨the⟩ uloq ⟨the⟩ mezbax ⟨the⟩ bilan kohinlar, Yahve xizmatkorlari yigʻlashsin va aytsinlar: rahm qil, Yahve, xalqingga va merosingni masxaraga bermagin, xalqlar ularga hukmron boʻlishi uchun; nima uchun xalqlar orasida aytsinlar: „Ularning Elohimi qayerda?“",
+  "translation": "Vestibyul ⟨va⟩ mizbex oʻrtasida Yahvening xizmatkorlari — kohanimlar — yigʻlasinlar va aytsinlar: „Rahm qil, Yahve, xalqingga, va merosingni haqoratga bermagin, xalqlar ularga hukmron boʻlib masxara qilmasin. Nega xalqlar orasida aytishadi: „Ularning Elohimlari qayerda?“",
   "tokens": [
     {
       "surface": "בין",
-      "gloss": "orasida"
+      "gloss": "oʻrtasida"
     },
     {
       "surface": "האולם",
-      "gloss": "⟨the⟩ uloq"
+      "gloss": "vestibyul"
     },
     {
       "surface": "ולמזבח",
-      "gloss": "va ⟨the⟩ mezbax bilan"
+      "gloss": "⟨va⟩ mizbex"
     },
     {
       "surface": "יבכו",
-      "gloss": "yigʻlashsin"
+      "gloss": "yigʻlasinlar"
     },
     {
       "surface": "הכהנים",
-      "gloss": "⟨the⟩ kohinlar"
+      "gloss": "kohanimlar"
     },
     {
       "surface": "משרתי",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "על",
-      "gloss": "ga"
+      "gloss": "—ga"
     },
     {
       "surface": "עמך",
-      "gloss": "xalqing"
+      "gloss": "xalqingga"
     },
     {
       "surface": "ואל",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "לחרפה",
-      "gloss": "masxaraga"
+      "gloss": "haqoratga"
     },
     {
       "surface": "למשל",
-      "gloss": "hukmron boʻlishi uchun"
+      "gloss": "masxara qilmasin"
     },
     {
       "surface": "בם",
@@ -85,11 +85,11 @@
     },
     {
       "surface": "למה",
-      "gloss": "nima uchun"
+      "gloss": "nega"
     },
     {
       "surface": "יאמרו",
-      "gloss": "aytsinlar"
+      "gloss": "aytishadi"
     },
     {
       "surface": "בעמים",
@@ -101,9 +101,9 @@
     },
     {
       "surface": "אלהיהם",
-      "gloss": "Ularning Elohimi"
+      "gloss": "Ularning Elohimlari"
     }
   ],
-  "timestamp": "2026-08-26T08:40:18.651752443Z",
+  "timestamp": "2026-08-26T09:58:26.434987278Z",
   "model": "glm-5.3"
 }

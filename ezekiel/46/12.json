@@ -5,27 +5,27 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 46,
-  "translation": "Va nasi Yahvegа ixtiyoriy hadya — yo ollov qurbonligini yoki ixtiyoriy tinchlik qurbonliklarini tayyorlasa, unga sharqqa qaragan darvoza ochiladi, va u Shabbat kunida qilgani kabi ⟨את⟩ ollov qurbonligini va ⟨את⟩ tinchlik qurbonliklarini qiladi, va chiqib, chiqqanidan keyin ⟨את⟩ darvozani yopadi.",
+  "translation": "Va agar nasiy ixtiyoriy qurbonlik — yoqib qurbonlik yoki tinchlik qurbonliklarini Yahvega ixtiyoriy hadya sifatida qilsa, unga sharqqa qaragan darvoza ochiladi, va u ⟨את⟩ yoqib qurbonligini va ⟨את⟩ tinchlik qurbonliklarini shanba kunida qilgandek qiladi, soʻng chiqadi va darvoza uning chiqishidan keyin yopiladi.",
   "tokens": [
     {
       "surface": "וכי",
-      "gloss": "Va ... -sa"
+      "gloss": "va agar"
     },
     {
       "surface": "יעשה",
-      "gloss": "tayyorlasa"
+      "gloss": "qilsa"
     },
     {
       "surface": "הנשיא",
-      "gloss": "nasi"
+      "gloss": "nasiy"
     },
     {
       "surface": "נדבה",
-      "gloss": "ixtiyoriy hadya"
+      "gloss": "ixtiyoriy qurbonlik"
     },
     {
       "surface": "עולה",
-      "gloss": "ollov qurbonligi"
+      "gloss": "yoqib qurbonlik"
     },
     {
       "surface": "או",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "נדבה",
-      "gloss": "ixtiyoriy"
+      "gloss": "ixtiyoriy hadya"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahvega"
     },
     {
       "surface": "ופתח",
@@ -75,11 +75,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ollov qurbonligini"
+      "marks": "yoqib qurbonligini"
     },
     {
       "surface": "עלתו",
-      "gloss": "ollov qurbonligini"
+      "gloss": "yoqib qurbonligini"
     },
     {
       "surface": "ואת",
@@ -92,11 +92,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "kabi"
+      "gloss": "qandek"
     },
     {
       "surface": "יעשה",
-      "gloss": "qilgani"
+      "gloss": "qiladi"
     },
     {
       "surface": "ביום",
@@ -104,7 +104,7 @@
     },
     {
       "surface": "השבת",
-      "gloss": "Shabbat"
+      "gloss": "shanba"
     },
     {
       "surface": "ויצא",
@@ -112,16 +112,16 @@
     },
     {
       "surface": "וסגר",
-      "gloss": "va yopadi"
+      "gloss": "va yopiladi"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "darvozani"
+      "marks": "darvoza"
     },
     {
       "surface": "השער",
-      "gloss": "darvozani"
+      "gloss": "darvoza"
     },
     {
       "surface": "אחרי",
@@ -129,9 +129,9 @@
     },
     {
       "surface": "צאתו",
-      "gloss": "chiqqanidan"
+      "gloss": "uning chiqishi"
     }
   ],
-  "timestamp": "2026-08-26T05:33:26.718813208Z",
+  "timestamp": "2026-08-26T10:23:55.978538861Z",
   "model": "glm-5.3"
 }

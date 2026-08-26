@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 22,
-  "translation": "Oʻsha kunda yeyilsin, undan ertalgacha qoldirmanglar — Men Yahveman.",
+  "translation": "Oʻsha kunda ⟨u⟩ yeyilishi kerak, undan tonggacha hech narsa qoldirmangizlar — Men Yahveman.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "kundа"
+      "gloss": "kunda"
     },
     {
       "surface": "ההוא",
@@ -17,15 +17,15 @@
     },
     {
       "surface": "יאכל",
-      "gloss": "yeyilsin"
+      "gloss": "yeyiladi"
     },
     {
       "surface": "לא",
-      "gloss": "emas"
+      "gloss": "yoʻq"
     },
     {
       "surface": "תותירו",
-      "gloss": "qoldirmanglar"
+      "gloss": "qoldirmangizlar"
     },
     {
       "surface": "ממנו",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "—gacha"
+      "gloss": "gacha"
     },
     {
       "surface": "בקר",
-      "gloss": "ertalab"
+      "gloss": "tong"
     },
     {
       "surface": "אני",
@@ -48,6 +48,6 @@
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-26T01:20:35.342974291Z",
+  "timestamp": "2026-08-26T10:21:27.576236975Z",
   "model": "glm-5.3"
 }

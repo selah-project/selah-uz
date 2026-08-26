@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Miygina bu senga oʻzingdan kelmadimi — Yahve, Elohimingni tark qilganingdan, U seni ⟨the⟩ yoʻlda boshlayotgan paytda?",
+  "translation": "Bu senga oʻzing qilmadingmi? Tark etganing uchun — Yahve, Elohimingni — ⟨את⟩, seni yoʻlda olib yurgan paytda.",
   "tokens": [
     {
       "surface": "הלוא",
-      "gloss": "miygina"
+      "gloss": "miydgina emasmi"
     },
     {
       "surface": "זאת",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "keladi (oʻzingdan)"
+      "gloss": "qilding"
     },
     {
       "surface": "לך",
@@ -25,12 +25,12 @@
     },
     {
       "surface": "עזבך",
-      "gloss": "tark qilganingdan"
+      "gloss": "tark etganing"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahve"
+      "marks": "Yahveni"
     },
     {
       "surface": "יהוה",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "Elohiming"
+      "gloss": "Elohimingni"
     },
     {
       "surface": "בעת",
@@ -46,13 +46,13 @@
     },
     {
       "surface": "מוליכך",
-      "gloss": "seni boshlayotgan"
+      "gloss": "seni olib yurgan"
     },
     {
       "surface": "בדרך",
       "gloss": "yoʻlda"
     }
   ],
-  "timestamp": "2026-08-26T04:36:52.225191233Z",
+  "timestamp": "2026-08-26T09:56:04.807128727Z",
   "model": "glm-5.3"
 }

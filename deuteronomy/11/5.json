@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va choʻlda sizlar uchun qilganlarini — sizlar shu ⟨the⟩ joyga kelguningizlarcha.",
+  "translation": "Va choʻlda sizga nima qilganini — bu joygacha kelguningizgacha —",
   "tokens": [
     {
       "surface": "ואשר",
-      "gloss": "Va ... qilganlarini"
+      "gloss": "Va ... nima(qilganini)"
     },
     {
       "surface": "עשה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לכם",
-      "gloss": "sizlar uchun"
+      "gloss": "sizga"
     },
     {
       "surface": "במדבר",
@@ -25,25 +25,25 @@
     },
     {
       "surface": "עד",
-      "gloss": "-guncha"
+      "gloss": "—gacha"
     },
     {
       "surface": "באכם",
-      "gloss": "kelguningizlarcha"
+      "gloss": "kelguningiz"
     },
     {
       "surface": "עד",
-      "gloss": "-gacha"
+      "gloss": "—gacha"
     },
     {
       "surface": "המקום",
-      "gloss": "⟨the⟩ joyga"
+      "gloss": "joy"
     },
     {
       "surface": "הזה",
-      "gloss": "shu"
+      "gloss": "bu"
     }
   ],
-  "timestamp": "2026-08-26T08:24:21.468330773Z",
+  "timestamp": "2026-08-26T09:50:06.625482837Z",
   "model": "glm-5.3"
 }

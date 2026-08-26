@@ -5,11 +5,11 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 32,
-  "translation": "Va yuz oʻgirdi va tushdi Moshe ⟨the⟩ togʻdan, va ikki lavha ⟨the⟩ guvohlikning uning qoʻlida — lavhalar, yozilgan ularning ikki tomonlaridan, bundan va undan — ular yozilgan.",
+  "translation": "Moshe yuz oʻgirdi va togʻdan tushdi, qoʻlida guvohlikning ikki lavhasi bor edi — lavhalar ikki tomonidan yozilgan, bu tomondan ham, u tomondan ham yozilgan ⟨edilar⟩.",
   "tokens": [
     {
       "surface": "ויפן",
-      "gloss": "va yuz oʻgirdi"
+      "gloss": "yuz oʻgirdi"
     },
     {
       "surface": "וירד",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "—dan"
+      "gloss": "…dan"
     },
     {
       "surface": "ההר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "בידו",
-      "gloss": "uning qoʻlida"
+      "gloss": "qoʻlida"
     },
     {
       "surface": "לחת",
@@ -53,19 +53,19 @@
     },
     {
       "surface": "משני",
-      "gloss": "ikkilamchi"
+      "gloss": "ikki"
     },
     {
       "surface": "עבריהם",
-      "gloss": "tomonlaridan"
+      "gloss": "tomonidan"
     },
     {
       "surface": "מזה",
-      "gloss": "bundan"
+      "gloss": "bu tomondan"
     },
     {
       "surface": "ומזה",
-      "gloss": "va undan"
+      "gloss": "va u tomondan"
     },
     {
       "surface": "הם",
@@ -76,6 +76,6 @@
       "gloss": "yozilgan"
     }
   ],
-  "timestamp": "2026-08-26T01:03:59.780688964Z",
+  "timestamp": "2026-08-26T09:46:12.927351248Z",
   "model": "glm-5.3"
 }

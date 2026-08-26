@@ -5,8 +5,77 @@
   "book": "ezra",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Va bunlar — viloyat oʻgʻillarining ⟨⟩, surgundagi asirlardan chiqib koʻtarilganning, — Nebuxadnessar, Bobil podshohi surgun qilgan Bobilga, — Qaytib kelganlarning Yerushalaim va Yehudaga, har bir odam oʻz shahriga.",
-  "tokens": [],
-  "timestamp": "2026-08-26T07:36:47.353704179Z",
+  "translation": "Va bular ⟨the⟩ viloyat oʻgʻillari — surgunlik asirligidan koʻtarilib kelayotganlar, —ularni Bobil podshohi Nevuxadnetsar Bobilga surgan qildi —, ular Yerushalaim va Yehudaga qaytdilar, har bir kishi oʻz shahriga.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Va bular"
+    },
+    {
+      "surface": "בני",
+      "gloss": "oʻgʻillari"
+    },
+    {
+      "surface": "המדינה",
+      "gloss": "viloyat"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "koʻtarilib kelayotganlar"
+    },
+    {
+      "surface": "משבי",
+      "gloss": "asirligidan"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "surgunlik"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ularni"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "surgan qildi"
+    },
+    {
+      "surface": "נבוכדנצור",
+      "gloss": "Nevuxadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "podshohi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bobil"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "Bobilga"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "va ular qaytdilar"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Yerushalaimga"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "va Yehudaga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "har bir kishi"
+    },
+    {
+      "surface": "לעירו",
+      "gloss": "oʻz shahriga"
+    }
+  ],
+  "timestamp": "2026-08-26T10:24:34.232043986Z",
   "model": "glm-5.3"
 }

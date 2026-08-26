@@ -5,41 +5,41 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Eslab qoʻy, unutma: choʻlda Yahveni, Elohimingni qanday gʻazablantirgansan — Misr yeridan chiqqan kunninggina <…> shu joygacha kelganingizgacha Yahve ila isyonkor boʻlgansizlar.",
+  "translation": "Eslab qol, unutma ⟨את⟩ narsani — choligʻida Sen Yahve Elohimingni gʻazablantirding choʻlda, ⟨את⟩ kundan — Misr yeridan chiqqan kunning — oʻsha makomga yetib kelganingizgacha isyonkor boʻlgansizlar Yahve bilan.",
   "tokens": [
     {
-      "surface": "זכור",
-      "gloss": "eslab qoʻy"
+      "surface": "זכר",
+      "gloss": "Eslab qol"
     },
     {
       "surface": "אל",
-      "gloss": "-ma"
+      "gloss": "ema"
     },
     {
       "surface": "תשכח",
-      "gloss": "unut"
+      "gloss": "unutma"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "narsani — gʻazablantirganingni"
+      "marks": "narsani (asher — gʻazablantirgan narsa)"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "הקצפת",
-      "gloss": "gʻazablantirgansan"
+      "gloss": "gʻazablantirding"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahveni"
+      "marks": "Yahve Elohimingni"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahveni"
+      "gloss": "Yahve"
     },
     {
       "surface": "אלהיך",
@@ -51,19 +51,19 @@
     },
     {
       "surface": "למן",
-      "gloss": "-dan"
+      "gloss": "—"
     },
     {
       "surface": "היום",
-      "gloss": "kun"
+      "gloss": "kundan"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "יצאת",
-      "gloss": "chiqqansan"
+      "gloss": "chiqqan"
     },
     {
       "surface": "מארץ",
@@ -75,11 +75,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "gacha"
+      "gloss": "—"
     },
     {
       "surface": "באכם",
-      "gloss": "kelganingizgacha"
+      "gloss": "yetib kelganingizgacha"
     },
     {
       "surface": "עד",
@@ -87,7 +87,7 @@
     },
     {
       "surface": "המקום",
-      "gloss": "joy"
+      "gloss": "makomga"
     },
     {
       "surface": "הזה",
@@ -103,13 +103,13 @@
     },
     {
       "surface": "עם",
-      "gloss": "ila"
+      "gloss": "bilan"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahve"
     }
   ],
-  "timestamp": "2026-08-26T01:52:53.920659536Z",
+  "timestamp": "2026-08-26T09:49:36.646526745Z",
   "model": "glm-5.3"
 }

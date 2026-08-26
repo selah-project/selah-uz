@@ -5,8 +5,33 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 119,
-  "translation": "Nafsim qoʻlimda doim, va Toringni tushunmadim — yoʻq, unutmadim: Tavrotingni unutmadim.",
-  "tokens": [],
-  "timestamp": "2026-08-26T08:45:08.967118580Z",
+  "translation": "Nafsim qoʻlimda doim, va Tavrotingni unutganim yoʻq.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "nafsim"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "qoʻlimda"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "doim"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "va Tavrotingni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yoʻq"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "unutganim"
+    }
+  ],
+  "timestamp": "2026-08-26T10:24:11.424304550Z",
   "model": "glm-5.3"
 }

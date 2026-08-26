@@ -5,27 +5,27 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Hayvonlardan — toza ⟨את⟩ tozasidan, va hayvonlardan ki toza emas, va qushlardan, va barchasidan ki sudraladi yer ustida.<\/translation>",
+  "translation": "Toza hayvonlardan va toza boʻlmagan hayvonlardan, va qushlardan, va yer ustida sudralib yuruvchi hamma narsadan —",
   "tokens": [
     {
       "surface": "מן",
-      "gloss": "—"
+      "gloss": "dan"
     },
     {
       "surface": "הבהמה",
-      "gloss": "hayvonlardan"
+      "gloss": "hayvonlar"
     },
     {
       "surface": "הטהורה",
-      "gloss": "tozasidan"
+      "gloss": "toza"
     },
     {
       "surface": "ומן",
-      "gloss": "va —"
+      "gloss": "va …dan"
     },
     {
       "surface": "הבהמה",
-      "gloss": "hayvonlardan"
+      "gloss": "hayvonlar"
     },
     {
       "surface": "אשר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "איננה",
-      "gloss": "emas"
+      "gloss": "boʻlmagan"
     },
     {
       "surface": "טהרה",
@@ -41,15 +41,15 @@
     },
     {
       "surface": "ומן",
-      "gloss": "va —"
+      "gloss": "va …dan"
     },
     {
       "surface": "העוף",
-      "gloss": "qushlardan"
+      "gloss": "qushlar"
     },
     {
       "surface": "וכל",
-      "gloss": "va barchasidan"
+      "gloss": "va hamma"
     },
     {
       "surface": "אשר",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "רמש",
-      "gloss": "sudraladi"
+      "gloss": "sudralib yuruvchi"
     },
     {
       "surface": "על",
@@ -68,6 +68,6 @@
       "gloss": "yer"
     }
   ],
-  "timestamp": "2026-08-26T00:32:03.699485711Z",
+  "timestamp": "2026-08-26T10:06:25.586023166Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 32,
-  "translation": "Ne baxtli ⟨is⟩ odamki Yahve unga gunohni hisoblamaydi va ruhidа makr yoʻq.",
+  "translation": "Baxtlidir odam — Yahve unga aybni hisoblamaydi, va ruaxida hiyla yoʻq.",
   "tokens": [
     {
       "surface": "אשרי",
-      "gloss": "ne baxtli"
+      "gloss": "Baxtlidir"
     },
     {
       "surface": "אדם",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "עון",
-      "gloss": "gunoh"
+      "gloss": "ayb"
     },
     {
       "surface": "ואין",
@@ -41,13 +41,13 @@
     },
     {
       "surface": "ברוחו",
-      "gloss": "ruhida"
+      "gloss": "ruaxida"
     },
     {
       "surface": "רמיה",
-      "gloss": "makr"
+      "gloss": "hiyla"
     }
   ],
-  "timestamp": "2026-08-26T06:05:50.059634567Z",
+  "timestamp": "2026-08-26T10:00:27.335413796Z",
   "model": "glm-5.3"
 }

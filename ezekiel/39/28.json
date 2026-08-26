@@ -5,15 +5,15 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 39,
-  "translation": "Va ular bilishadiki, Men Yahve — ularning Elohimiman, chunki Men ularni xalqlar oldiga surgun qildim va ularni oʻz tuprogʻiga yigʻib oldim va ulardan hech kimini ortiq qoldirmadim u yerdа.",
+  "translation": "Va biladilarki, Men Yahve, ularning Elohimiman — ularni xalqlar oldiga surganimda va ularni oʻz tuprogʻi ustiga yigʻib olganimda; va endi ulardan hech kimini u yerda qoldirmayman.",
   "tokens": [
     {
       "surface": "וידעו",
-      "gloss": "va bilishadiki"
+      "gloss": "Va biladilar"
     },
     {
       "surface": "כי",
-      "gloss": "chunki"
+      "gloss": "ki"
     },
     {
       "surface": "אני",
@@ -29,15 +29,16 @@
     },
     {
       "surface": "בהגלותי",
-      "gloss": "surgun qildim"
+      "gloss": "surganimda"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ularni"
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
     },
     {
       "surface": "אל",
-      "gloss": "...oldiga"
+      "gloss": "oldiga"
     },
     {
       "surface": "הגוים",
@@ -45,15 +46,15 @@
     },
     {
       "surface": "וכנסתים",
-      "gloss": "va yigʻib oldim"
+      "gloss": "va yigʻib olganimda"
     },
     {
       "surface": "על",
-      "gloss": "...ga"
+      "gloss": "ustiga"
     },
     {
       "surface": "אדמתם",
-      "gloss": "oʻz tuprogʻiga"
+      "gloss": "oʻz tuprogʻi"
     },
     {
       "surface": "ולא",
@@ -61,11 +62,11 @@
     },
     {
       "surface": "אותיר",
-      "gloss": "ortiq qoldirmadim"
+      "gloss": "qoldiraman"
     },
     {
       "surface": "עוד",
-      "gloss": "boshqa"
+      "gloss": "endi"
     },
     {
       "surface": "מהם",
@@ -73,9 +74,9 @@
     },
     {
       "surface": "שם",
-      "gloss": "u yerdа"
+      "gloss": "u yerda"
     }
   ],
-  "timestamp": "2026-08-26T05:29:21.415227390Z",
+  "timestamp": "2026-08-26T09:57:26.872763311Z",
   "model": "glm-5.3"
 }

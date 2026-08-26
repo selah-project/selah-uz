@@ -5,15 +5,15 @@
   "book": "ezra",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va qurbongohni oʻrinlarining ustiga tayyorladilar, chunki ular ustida yerlari xalqlaridan qoʻrquv ⟨bor edi⟩, va uning ustiga Yahvegа ol-oq qurbonliklarni koʻtardilar — tonggi va oqshomgi ol-oq qurbonliklarni.",
+  "translation": "Va mizbeaxni oʻz poydevorlari ustiga tayyorladilar, chunki ularga oʻlkalarning xalqlaridan qoʻrquv bor edi; va uning ustiga Yahve uchun olalar, tong uchun va oqshom uchun olalar keltirdilar.",
   "tokens": [
     {
       "surface": "ויכינו",
-      "gloss": "tayyorladilar"
+      "gloss": "va tayyorladilar"
     },
     {
       "surface": "המזבח",
-      "gloss": "qurbongohni"
+      "gloss": "mizbeaxni"
     },
     {
       "surface": "על",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מכונתיו",
-      "gloss": "oʻrinlarining"
+      "gloss": "oʻz poydevorlari"
     },
     {
       "surface": "כי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "באימה",
-      "gloss": "qoʻrquv"
+      "gloss": "qoʻrquvda"
     },
     {
       "surface": "עליהם",
-      "gloss": "ular ustida"
+      "gloss": "ularga"
     },
     {
       "surface": "מעמי",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "הארצות",
-      "gloss": "yerlari"
+      "gloss": "oʻlkalarning"
     },
     {
       "surface": "ויעל",
-      "gloss": "va koʻtardi"
+      "gloss": "va keltirdilar (yuqoriga)"
     },
     {
       "surface": "עליו",
@@ -53,25 +53,25 @@
     },
     {
       "surface": "עלות",
-      "gloss": "ol-oq qurbonliklarni"
+      "gloss": "olalar"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahve uchun"
     },
     {
       "surface": "עלות",
-      "gloss": "ol-oq qurbonliklarni"
+      "gloss": "olalar"
     },
     {
       "surface": "לבקר",
-      "gloss": "tonggi"
+      "gloss": "tong uchun"
     },
     {
-      "surface": "ולערב",
-      "gloss": "va oqshomgi"
+      "surface": "ויעל",
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-26T07:37:48.514449626Z",
+  "timestamp": "2026-08-26T10:03:45.446028159Z",
   "model": "glm-5.3"
 }

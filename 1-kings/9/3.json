@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va Yahve unga dedi: Duoyingni va yolvorishingni eshitdim — sening oldimda yolvorganingni. Men ⟨את⟩ shu uyni, sen qurgan, Ismim u yerga abadiy qoʻyilishi uchun muqaddas qildim; va koʻzlarim va yuragim barcha kunlar u yerdа boʻladi.",
+  "translation": "Va Yahve unga aytdi: duongni va iltijongni eshitdim — ⟨את⟩ duongni va ⟨את⟩ iltijongni, ki yuzim oldida yolvording; ⟨את⟩ shu uyni muqaddas qildim, ki sen qurding, Ismimni u yerga qoʻyish uchun — abadiygacha; va koʻzlarim va yuragim u yerda boʻladi, barcha kunlar.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Va dedі"
+      "gloss": "va aytdi"
     },
     {
       "surface": "יהוה",
@@ -26,20 +26,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "duoyingni"
+      "marks": "duongni"
     },
     {
       "surface": "תפלתך",
-      "gloss": "duoyingni"
+      "gloss": "duongni"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "yolvorishingni"
+      "marks": "iltijongni"
     },
     {
       "surface": "תחנתך",
-      "gloss": "yolvorishingni"
+      "gloss": "iltijongni"
     },
     {
       "surface": "אשר",
@@ -47,11 +47,11 @@
     },
     {
       "surface": "התחננתה",
-      "gloss": "yolvorgansan"
+      "gloss": "yolvording"
     },
     {
       "surface": "לפני",
-      "gloss": "oldimda"
+      "gloss": "yuzim oldida"
     },
     {
       "surface": "הקדשתי",
@@ -60,11 +60,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "shu uyini"
+      "marks": "shu uyni"
     },
     {
       "surface": "הבית",
-      "gloss": "shu uyni"
+      "gloss": "uyni"
     },
     {
       "surface": "הזה",
@@ -76,15 +76,15 @@
     },
     {
       "surface": "בנתה",
-      "gloss": "qurgansan"
+      "gloss": "qurding"
     },
     {
       "surface": "לשום",
-      "gloss": "qoʻyilishi uchun"
+      "gloss": "qoʻyish uchun"
     },
     {
       "surface": "שמי",
-      "gloss": "Ismim"
+      "gloss": "Ismimni"
     },
     {
       "surface": "שם",
@@ -92,11 +92,11 @@
     },
     {
       "surface": "עד",
-      "gloss": "abadiy"
+      "gloss": "—gacha"
     },
     {
       "surface": "עולם",
-      "gloss": "gacha"
+      "gloss": "abadiy"
     },
     {
       "surface": "והיו",
@@ -112,7 +112,7 @@
     },
     {
       "surface": "שם",
-      "gloss": "u yerdа"
+      "gloss": "u yerda"
     },
     {
       "surface": "כל",
@@ -123,6 +123,6 @@
       "gloss": "kunlar"
     }
   ],
-  "timestamp": "2026-08-26T03:34:40.126389727Z",
+  "timestamp": "2026-08-26T09:53:39.111508199Z",
   "model": "glm-5.3"
 }

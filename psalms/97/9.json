@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 97,
-  "translation": "Chunki Sen, Yahve, butun ⟨the⟩ yer yuzidan yuqori San — barcha elohlardan juda baland koʻtarilgan San.",
+  "translation": "Chunki Sen, Yahve, butun yerdan yuqorisan — barcha xudolardan juda yuqori koʻtarilgansan.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Chunki"
+      "gloss": "chunki"
     },
     {
       "surface": "אתה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "על",
-      "gloss": "dan yuqori"
+      "gloss": "yuqorisan — …dan"
     },
     {
       "surface": "כל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "yer yuzi"
+      "gloss": "yer"
     },
     {
       "surface": "מאד",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "נעלית",
-      "gloss": "baland koʻtarilgan"
+      "gloss": "yuqori koʻtarilgansan"
     },
     {
       "surface": "על",
-      "gloss": "dan yuqori"
+      "gloss": "…dan yuqori"
     },
     {
       "surface": "כל",
@@ -53,9 +53,9 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "elohlardan"
+      "gloss": "xudolardan"
     }
   ],
-  "timestamp": "2026-08-26T06:25:43.847032270Z",
+  "timestamp": "2026-08-26T10:00:54.453457825Z",
   "model": "glm-5.3"
 }

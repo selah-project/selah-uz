@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Shelomoh yiliga uch marta Yahvegа qurbonliklar va tinchlik qurbonliklarini Yahve uchun qurgan mizbexda koʻtarar edi va Yahve oldida turgan ⟨ani⟩ bilan tutatardi va uyni tamomladi.",
+  "translation": "Va Shelomoh yiliga uch marta Yahve uchun qurgan mehbekada olalar va tinchlik qurbonliklarini koʻtardi va uning ustida Yahvening oldida tutatdi va ⟨את⟩ uyni tamomladi.",
   "tokens": [
     {
       "surface": "והעלה",
-      "gloss": "koʻtarar edi"
+      "gloss": "koʻtardi"
     },
     {
       "surface": "שלמה",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "בשנה",
-      "gloss": "yilida"
+      "gloss": "yiliga"
     },
     {
       "surface": "עלות",
-      "gloss": "qurbonliklarni"
+      "gloss": "olalar"
     },
     {
       "surface": "ושלמים",
-      "gloss": "va tinchlik qurbonliklarini"
+      "gloss": "va tinchlik qurbonliklari"
     },
     {
       "surface": "על",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "mizbexning"
+      "gloss": "mehbeka"
     },
     {
       "surface": "אשר",
@@ -57,15 +57,16 @@
     },
     {
       "surface": "והקטיר",
-      "gloss": "va tutatardi"
+      "gloss": "va tutatdi"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ uni"
+      "gloss": "⟨את⟩ uning ustiga",
+      "marks": "mehbeka (uning ustiga)"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "ki u"
     },
     {
       "surface": "לפני",
@@ -86,9 +87,9 @@
     },
     {
       "surface": "הבית",
-      "gloss": "uyni"
+      "gloss": "uy"
     }
   ],
-  "timestamp": "2026-08-26T03:34:51.312165483Z",
+  "timestamp": "2026-08-26T09:54:01.959225659Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va boʻldi: Shelomoh Yahvening uyini va ⟨the⟩ malikning uyini va Shelomoh istagan, qilishni xohlagan barcha orzuni qurib bitirgach,",
+  "translation": "Va boʻldi: Shelomoh qurib bitirgach Yahve baytini va ⟨את⟩ shoh saroyini va ⟨את⟩ Shelomoh xohlagan barcha hirsli ishlarini qilishni",
   "tokens": [
     {
       "surface": "ויהי",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "ככלות",
-      "gloss": "bitirgach"
+      "gloss": "qurib bitirgach"
     },
     {
       "surface": "שלמה",
@@ -21,46 +21,46 @@
     },
     {
       "surface": "לבנות",
-      "gloss": "qurish uchun"
+      "gloss": "qurish"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahvening uyini"
+      "marks": "Yahve baytini"
     },
     {
       "surface": "בית",
-      "gloss": "uyini"
+      "gloss": "bayt"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahvening"
+      "gloss": "Yahve"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "malikning uyini"
+      "marks": "shoh saroyi"
     },
     {
       "surface": "בית",
-      "gloss": "uyini"
+      "gloss": "saroy"
     },
     {
       "surface": "המלך",
-      "gloss": "malikning"
+      "gloss": "shoh"
     },
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "barcha orzuni"
+      "marks": "barcha hirsli ishlar"
     },
     {
       "surface": "כל",
-      "gloss": "barcha"
+      "gloss": "barchasi"
     },
     {
       "surface": "חשק",
-      "gloss": "orzuni"
+      "gloss": "hirs"
     },
     {
       "surface": "שלמה",
@@ -72,13 +72,13 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "xohlagan"
+      "gloss": "xohladi"
     },
     {
       "surface": "לעשות",
       "gloss": "qilishni"
     }
   ],
-  "timestamp": "2026-08-26T03:34:40.125948793Z",
+  "timestamp": "2026-08-26T09:53:25.099245348Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "daniel",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Senga, Adonay, tegishli ⟨the⟩ solihlik, bizga esa yuz uyatsi — bu kunda — Yahuda odamiga va Yerushalaim aholisiga va butun Isroilga, yaqin boʻlganlarga va uzoq boʻlganlarga, barcha mamlakatlarda, to ki Sen ularni u yerga surgun qilding ularning xiyonatlari ortidan, ki u bilan Senga xiyonat qildilar",
+  "translation": "Senga, ey Adonay, solihlik ⟨tegishli⟩, bizga esa yuz sharmandaligi — bugungi kunda — Yehudaning har bir kishisiga va Yerushalaim aholisiga va butun Isroilga, yaqinlarga ham, barcha mamlakatlarda — sular qoʻyib yuborgan joyda — uzoqlarga ham, ularning sanaqidagi xiyonati uchun, ki ular sanga xiyonat qildilar.",
   "tokens": [
     {
       "surface": "לך",
-      "gloss": "Senga"
+      "gloss": "senga"
     },
     {
       "surface": "אדני",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "ולנו",
-      "gloss": "bizga esa"
+      "gloss": "va bizga"
     },
     {
       "surface": "בשת",
-      "gloss": "uyats"
+      "gloss": "sharmandalik"
     },
     {
       "surface": "הפנים",
@@ -33,19 +33,19 @@
     },
     {
       "surface": "כיום",
-      "gloss": "bu kunda"
+      "gloss": "bugungi kunda"
     },
     {
       "surface": "הזה",
-      "gloss": "—"
+      "gloss": "bu"
     },
     {
       "surface": "לאיש",
-      "gloss": "odamiga"
+      "gloss": "har bir kishisiga"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yahuda"
+      "gloss": "Yehuda"
     },
     {
       "surface": "וליושבי",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "ולכל",
-      "gloss": "va butun ... ga"
+      "gloss": "va butun"
     },
     {
       "surface": "ישראל",
@@ -65,15 +65,15 @@
     },
     {
       "surface": "הקרבים",
-      "gloss": "yaqin boʻlganlar"
+      "gloss": "yaqinlar"
     },
     {
       "surface": "והרחקים",
-      "gloss": "va uzoq boʻlganlar"
+      "gloss": "va uzoqlar"
     },
     {
       "surface": "בכל",
-      "gloss": "barcha"
+      "gloss": "barcha… ichida"
     },
     {
       "surface": "הארצות",
@@ -81,11 +81,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "ki… –ni"
     },
     {
       "surface": "הדחתם",
-      "gloss": "surgun qilding"
+      "gloss": "ularni surib yuborgansan"
     },
     {
       "surface": "שם",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "במעלם",
-      "gloss": "ularning xiyonatlari ortidan"
+      "gloss": "ularning xiyonati uchun"
     },
     {
       "surface": "אשר",
@@ -105,9 +105,9 @@
     },
     {
       "surface": "בך",
-      "gloss": "Senga"
+      "gloss": "sanga qarshi"
     }
   ],
-  "timestamp": "2026-08-26T07:34:03.481596397Z",
+  "timestamp": "2026-08-26T10:04:01.663730732Z",
   "model": "glm-5.3"
 }

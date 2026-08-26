@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Va ⟨the⟩ kosalar, va ⟨the⟩ qaychilar, va ⟨the⟩ purkagʻich idishlar, va ⟨the⟩ qoshiqlar, va ⟨the⟩ oʻtovoʻzlar — sof oltindan; va ⟨the⟩ eshik ilgaklari — uyning ichki eshiklari uchun, muqaddaslar muqaddasi uchun, va uyning eshiklari uchun, ibodatxona uchun — oltindan.",
+  "translation": "Va kosalar, qirqgichlar, tovoqlar, qoshiqlar va oʻt idishlari — toza oltindan; va eshik mixlari — ichki uyning, muqaddaslar muqaddisi eshiklari uchun ham, uyning, haykal eshiklari uchun ham — oltindan.",
   "tokens": [
     {
       "surface": "והספות",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "והמזמרות",
-      "gloss": "va qaychilar"
+      "gloss": "va qirqgichlar"
     },
     {
       "surface": "והמזרקות",
-      "gloss": "va purkagʻich idishlar"
+      "gloss": "va tovoqlar"
     },
     {
       "surface": "והכפות",
@@ -25,19 +25,19 @@
     },
     {
       "surface": "והמחתות",
-      "gloss": "va oʻtavoʻzlar"
+      "gloss": "va oʻt idishlari"
     },
     {
       "surface": "זהב",
-      "gloss": "oltindan"
+      "gloss": "oltin"
     },
     {
       "surface": "סגור",
-      "gloss": "sof"
+      "gloss": "toza (sugʻorilgan)"
     },
     {
       "surface": "והפתות",
-      "gloss": "va eshik ilgaklari"
+      "gloss": "va eshik mixlari"
     },
     {
       "surface": "לדלתות",
@@ -69,13 +69,13 @@
     },
     {
       "surface": "להיכל",
-      "gloss": "ibodatxona"
+      "gloss": "haykal"
     },
     {
       "surface": "זהב",
-      "gloss": "oltindan"
+      "gloss": "oltin"
     }
   ],
-  "timestamp": "2026-08-26T03:28:36.015456287Z",
+  "timestamp": "2026-08-26T10:07:07.418336420Z",
   "model": "glm-5.3"
 }

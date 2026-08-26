@@ -5,35 +5,35 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 29,
-  "translation": "Va Dovud podshoh butun ⟨the⟩ jamoaga aytdi: Shlomoh, oʻgʻlim — yolgʻiz, uni Elohim tanladi; ⟨u⟩ yosh va nozik, va ⟨the⟩ ish katta, chunki ⟨the⟩ qasr odam uchun emas, balki Yahve Elohim uchun ⟨dir⟩.",
+  "translation": "Va David ⟨the⟩ shoh butun jamoaga aytdi: Shlomo — mening oʻgʻlim, yolgʻiz uni Elohim tanladi, yosh va moʻrt, va ish buyukdir, chunki qasr odam uchun emas, balki Yahve Elohim uchundir.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Va … aytdi"
+      "gloss": "va aytdi"
     },
     {
       "surface": "דויד",
-      "gloss": "Dovud"
+      "gloss": "David"
     },
     {
       "surface": "המלך",
-      "gloss": "podshoh"
+      "gloss": "⟨the⟩ shoh"
     },
     {
       "surface": "לכל",
-      "gloss": "butun … ga"
+      "gloss": "butun ... ga"
     },
     {
       "surface": "הקהל",
-      "gloss": "jamoa"
+      "gloss": "jamoaga"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shlomoh"
+      "gloss": "Shlomo"
     },
     {
       "surface": "בני",
-      "gloss": "oʻgʻlim"
+      "gloss": "mening oʻgʻlim"
     },
     {
       "surface": "אחד",
@@ -57,15 +57,15 @@
     },
     {
       "surface": "ורך",
-      "gloss": "va nozik"
+      "gloss": "va moʻrt"
     },
     {
       "surface": "והמלאכה",
-      "gloss": "va … ish"
+      "gloss": "va ish"
     },
     {
       "surface": "גדולה",
-      "gloss": "katta"
+      "gloss": "buyuk"
     },
     {
       "surface": "כי",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "balki"
+      "gloss": "balki chunki"
     },
     {
       "surface": "ליהוה",
@@ -96,6 +96,6 @@
       "gloss": "Elohim"
     }
   ],
-  "timestamp": "2026-08-26T08:04:36.512165355Z",
+  "timestamp": "2026-08-26T10:25:04.939730646Z",
   "model": "glm-5.3"
 }

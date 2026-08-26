@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Va <b>Esav<\/b> qirq yoshda edi; u xotun oldi — <b>Yehudit<\/b>ni, <b>Beeri<\/b> <b>xittiyl<\/b>ning qizini, va <b>Basmat<\/b>ni, <b>Elon<\/b> <b>xittiyl<\/b>ning qizini.",
+  "translation": "Va Esav qirq yoshda ⟨edi⟩, xotin oldi — ⟨את⟩ Yehuditni, Beeri xittiynning qizini, va ⟨את⟩ Bosmatni, Eylon xittiynning qizini.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -29,16 +29,16 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "va u oldi"
+      "gloss": "va oldi"
     },
     {
       "surface": "אשה",
-      "gloss": "xotun"
+      "gloss": "xotin"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yehudit"
+      "marks": "Yehuditni"
     },
     {
       "surface": "יהודית",
@@ -54,16 +54,16 @@
     },
     {
       "surface": "החתי",
-      "gloss": "xittiyl"
+      "gloss": "xittiy"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "Basmat"
+      "marks": "Bosmatni"
     },
     {
       "surface": "בשמת",
-      "gloss": "Basmat"
+      "gloss": "Bosmat"
     },
     {
       "surface": "בת",
@@ -71,13 +71,13 @@
     },
     {
       "surface": "אילן",
-      "gloss": "Elon"
+      "gloss": "Eylon"
     },
     {
       "surface": "החתי",
-      "gloss": "xittiyl"
+      "gloss": "xittiy"
     }
   ],
-  "timestamp": "2026-08-26T00:38:22.988695981Z",
+  "timestamp": "2026-08-26T09:44:23.618480191Z",
   "model": "glm-5.3"
 }

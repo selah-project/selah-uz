@@ -5,23 +5,23 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 36,
-  "translation": "Xizqiyoʼga quloq solmanglar, chunki Ashur shohi shunday dedi: Men ⟨את⟩ bilan baraka qiling va menga chiqinglar, va yenglar, har biri oʻz uzumzoridan, va har biri oʻz anjiridan, va ichinglar, har biri oʻz chuquridan ⟨the⟩ suvni.",
+  "translation": "Eshitmanglar Chizqiyaga, chunki shunday deydi Ashur podshosi: Men bilan ⟨את⟩ baraka qiling va menga chiqinglar; va yeb turilsin har bir kishi uzumining, va har bir kishi anjirining, va ichib turilsin har bir kishi qudugʻining suvidan.",
   "tokens": [
     {
       "surface": "אל",
-      "gloss": "qil"
+      "gloss": "eshitmanglar"
     },
     {
       "surface": "תשמעו",
-      "gloss": "quloq solmanglar"
+      "gloss": "eshitmanglar (tinglamanglar)"
     },
     {
       "surface": "אל",
-      "gloss": "ga"
+      "gloss": "…ga"
     },
     {
       "surface": "חזקיהו",
-      "gloss": "Xizqiyoʼ"
+      "gloss": "Chizqiyo"
     },
     {
       "surface": "כי",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "אמר",
-      "gloss": "dedi"
+      "gloss": "deydi"
     },
     {
       "surface": "המלך",
-      "gloss": "shoh"
+      "gloss": "podsho"
     },
     {
       "surface": "אשור",
@@ -49,8 +49,8 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ bilan men",
-      "marks": "baraka (men bilan tuziladigan sulh)"
+      "gloss": "⟨את⟩ men bilan",
+      "marks": "baraka"
     },
     {
       "surface": "ברכה",
@@ -66,41 +66,41 @@
     },
     {
       "surface": "ואכלו",
-      "gloss": "va yenglar"
+      "gloss": "va yeb turilsin"
     },
     {
       "surface": "איש",
-      "gloss": "har kishi"
+      "gloss": "har bir kishi"
     },
     {
       "surface": "גפנו",
-      "gloss": "oʻz uzumzoridan"
+      "gloss": "oʻz uzumi"
     },
     {
       "surface": "ואיש",
-      "gloss": "va har kishi"
+      "gloss": "va har bir kishi"
     },
     {
       "surface": "תאנתו",
-      "gloss": "oʻz anjiridan"
+      "gloss": "oʻz anjiri"
     },
     {
       "surface": "ושתו",
-      "gloss": "va ichinglar"
+      "gloss": "va ichib turilsin"
     },
     {
       "surface": "איש",
-      "gloss": "har kishi"
+      "gloss": "har bir kishi"
     },
     {
       "surface": "מי",
-      "gloss": "suvni"
+      "gloss": "suyi"
     },
     {
       "surface": "בורו",
-      "gloss": "oʻz chuquridan"
+      "gloss": "oʻz qudugʻi"
     }
   ],
-  "timestamp": "2026-08-26T08:35:56.639470630Z",
+  "timestamp": "2026-08-26T10:07:01.430825255Z",
   "model": "glm-5.3"
 }

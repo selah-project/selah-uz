@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va kim ⟨the⟩ odam, ki uzumzor ekkan va hosilini tatmagan? borsin va uyiga qaytsin; aks holda jangda o'lib qolsin va boshqa odam uni tatsin.",
+  "translation": "Va kim odam ki tokzor oʻtqazgan va uni hosilini tatamagan boʻlsa — ketsin va uyiga qaytsin, bedavlet jangda oʻlmasin va boshqa odam uni hosilini tatamasin.",
   "tokens": [
     {
       "surface": "ומי",
@@ -21,23 +21,23 @@
     },
     {
       "surface": "נטע",
-      "gloss": "ekkan"
+      "gloss": "oʻtqazgan"
     },
     {
       "surface": "כרם",
-      "gloss": "uzumzor"
+      "gloss": "tokzor"
     },
     {
       "surface": "ולא",
-      "gloss": "va …magan"
+      "gloss": "va ... emas"
     },
     {
       "surface": "חללו",
-      "gloss": "hosilini tatmagan"
+      "gloss": "uni halol qilgan (tatagan)"
     },
     {
       "surface": "ילך",
-      "gloss": "borsin"
+      "gloss": "ketsin"
     },
     {
       "surface": "וישב",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "פן",
-      "gloss": "aks holda"
+      "gloss": "bedavlet"
     },
     {
       "surface": "ימות",
-      "gloss": "o'lib qolsin"
+      "gloss": "oʻlmasin"
     },
     {
       "surface": "במלחמה",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "יחללנו",
-      "gloss": "uni tatsin"
+      "gloss": "uni halol qilsin (tatasin)"
     }
   ],
-  "timestamp": "2026-08-26T02:00:05.985050302Z",
+  "timestamp": "2026-08-26T09:50:39.080351019Z",
   "model": "glm-5.3"
 }

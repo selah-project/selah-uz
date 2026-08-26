@@ -5,19 +5,19 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Va Isroil odami aytdi: koʻrdinglarmi ⟨the⟩ shu koʻtarilgan odamni? zero ⟨את⟩ Isroilni haqoratlash uchun koʻtariladi; va boʻlgʻusi: ⟨the⟩ odamni, kimki uni uradi, podshoh katta boylik bilan boyitadi, va ⟨את⟩ oʻz qizini unga beradi, va ⟨את⟩ otasining uyini Isroilda erkin qiladi.",
+  "translation": "Va Yisroel odamlari: «Bu chiqib kelayotgan kishini koʻrdinglarmi? Zero Yisroelni haqoratlash uchun chiqib kelgan. Boʻladiganki, uni urgan kishini qirolik boy qiladi katta boylik bilan, va ⟨את⟩ oʻz qizini unga beradi, va ⟨את⟩ otasining uyini Yisroelda erkin qiladi», dedilar.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Va aytdi"
+      "gloss": "va dedi"
     },
     {
       "surface": "איש",
-      "gloss": "odami"
+      "gloss": "odamlari"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil"
+      "gloss": "Yisroelning"
     },
     {
       "surface": "הראיתם",
@@ -25,15 +25,15 @@
     },
     {
       "surface": "האיש",
-      "gloss": "⟨the⟩ odam"
+      "gloss": "kishi"
     },
     {
       "surface": "העלה",
-      "gloss": "koʻtarilgan"
+      "gloss": "chiqib kelgan"
     },
     {
       "surface": "הזה",
-      "gloss": "shu"
+      "gloss": "bu"
     },
     {
       "surface": "כי",
@@ -46,39 +46,39 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Isroil"
+      "marks": "Yisroelni"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroilni"
+      "gloss": "Yisroelni"
     },
     {
       "surface": "עלה",
-      "gloss": "koʻtariladi"
+      "gloss": "chiqib kelgan"
     },
     {
       "surface": "והיה",
-      "gloss": "va boʻlgʻusi"
+      "gloss": "boʻladiganki"
     },
     {
       "surface": "האיש",
-      "gloss": "⟨the⟩ odam"
+      "gloss": "kishi"
     },
     {
       "surface": "אשר",
-      "gloss": "kimki"
+      "gloss": "ki"
     },
     {
       "surface": "יכנו",
-      "gloss": "uni uradi"
+      "gloss": "uni urgan"
     },
     {
       "surface": "יעשרנו",
-      "gloss": "uni boyitadi"
+      "gloss": "boy qiladi"
     },
     {
       "surface": "המלך",
-      "gloss": "podshoh"
+      "gloss": "qirol"
     },
     {
       "surface": "עשר",
@@ -91,11 +91,11 @@
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "oʻz qizi"
+      "marks": "oʻz qizini"
     },
     {
       "surface": "בתו",
-      "gloss": "qizini"
+      "gloss": "oʻz qizini"
     },
     {
       "surface": "יתן",
@@ -108,7 +108,7 @@
     {
       "surface": "ואת",
       "gloss": "va ⟨את⟩",
-      "marks": "otasining uyi"
+      "marks": "otasining uyini"
     },
     {
       "surface": "בית",
@@ -128,9 +128,9 @@
     },
     {
       "surface": "בישראל",
-      "gloss": "Isroilda"
+      "gloss": "Yisroelda"
     }
   ],
-  "timestamp": "2026-08-26T02:53:47.056926463Z",
+  "timestamp": "2026-08-26T09:53:01.441772190Z",
   "model": "glm-5.3"
 }

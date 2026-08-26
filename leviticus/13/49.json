@@ -5,11 +5,11 @@
   "book": "leviticus",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va boʻlurki, ⟨the⟩ zarar yashilish yoki qizgʻish boʻlsa — kiyimda, yoki terida, yoki arqonda, yoki ariqda, yoki teridan ⟨the⟩ qilingan har qanday buyumda — moxov zararidir u, va u kohenga koʻrsatilur.",
+  "translation": "Va agar zarar matoda yashilmtus yoki qizilmtus boʻlsa — kiyimda, yoki terida, yoki arqoqda, yoki adirda, yoki teridan qilingan har qanday buyumda — bu tzaraat zararidir, va u kohenga koʻrsatiladi ⟨את⟩.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Va boʻlurki"
+      "gloss": "Va agar boʻlsa"
     },
     {
       "surface": "הנגע",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ירקרק",
-      "gloss": "yashilish"
+      "gloss": "yashilmtus"
     },
     {
       "surface": "או",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "אדמדם",
-      "gloss": "qizgʻish"
+      "gloss": "qizilmtus"
     },
     {
       "surface": "בבגד",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "בשתי",
-      "gloss": "arqonda"
+      "gloss": "arqoqda"
     },
     {
       "surface": "או",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "בערב",
-      "gloss": "ariqda"
+      "gloss": "adirda"
     },
     {
       "surface": "או",
@@ -65,11 +65,11 @@
     },
     {
       "surface": "כלי",
-      "gloss": "buyum"
+      "gloss": "buyumda"
     },
     {
       "surface": "עור",
-      "gloss": "teri"
+      "gloss": "teridan"
     },
     {
       "surface": "נגע",
@@ -77,15 +77,15 @@
     },
     {
       "surface": "צרעת",
-      "gloss": "moxov"
+      "gloss": "tzaraat"
     },
     {
       "surface": "הוא",
-      "gloss": "u"
+      "gloss": "bu"
     },
     {
       "surface": "והראה",
-      "gloss": "va koʻrsatilur"
+      "gloss": "va koʻrsatiladi"
     },
     {
       "surface": "את",
@@ -94,9 +94,9 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "kohenga"
+      "gloss": "kohen"
     }
   ],
-  "timestamp": "2026-08-26T01:16:13.014782697Z",
+  "timestamp": "2026-08-26T09:46:44.602856952Z",
   "model": "glm-5.3"
 }

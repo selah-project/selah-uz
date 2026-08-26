@@ -5,8 +5,90 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Ne-oʻzin ⟨את⟩ oʻsha yer aytadi: „Yahve ularga vaʼda qilgan yerga keltira olmagani uchun, Yoʻq, tuzatamiz: shunday boʻlmasin: oʻsha yer, Undan sen bizni olib chiqding, aytsin: Yahve ularga vaʼda qilingan yerga — yoʻq, quyidagi tarjimaga qarang.",
-  "tokens": [],
-  "timestamp": "2026-08-26T08:59:19.556970002Z",
+  "translation": "Yoki yer — undan bizni chiqargan eding — desa: „Yahve ularga vaʼda qilgan yerga ⟨את⟩ ularni olib kirishga qodir emas edi, va ularni yomon koʻrgani uchun ⟨את⟩ ularni choʻlda oʻldirish uchun olib chiqdi“.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "yoki … desa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "desa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "undanki"
+    },
+    {
+      "surface": "הוצאתנו",
+      "gloss": "bizni chiqargan eding"
+    },
+    {
+      "surface": "משם",
+      "gloss": "undan"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "…ga qodir emas edi"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "qodir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahve"
+    },
+    {
+      "surface": "להביאם",
+      "gloss": "ularni olib kirishga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yerga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "vaʼda qilgan"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ularga"
+    },
+    {
+      "surface": "ומשנאתו",
+      "gloss": "va uni yomon koʻgani uchun"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ularni"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "ularni olib chiqdi"
+    },
+    {
+      "surface": "להמתם",
+      "gloss": "ularni oʻldirish uchun"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "choʻlda"
+    }
+  ],
+  "timestamp": "2026-08-26T09:49:48.479158461Z",
   "model": "glm-5.3"
 }

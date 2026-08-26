@@ -5,23 +5,23 @@
   "book": "ruth",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va u qaynonasining oldiga keldi, va u aytdi: sen kimsan, qizim? Va u unga ⟨את⟩ odamning unga qilgan barcha ishlarini aytib berdi.",
+  "translation": "U qaynonasining huzuriga kirdi, u esa aytdi: Sen kimsan, qizim? U esa unga ⟨את⟩ hammasini — odamning unga qilgan barcha ishlarini — aylib berdi.",
   "tokens": [
     {
       "surface": "ותבוא",
-      "gloss": "va u keldi"
+      "gloss": "kirdi"
     },
     {
       "surface": "אל",
-      "gloss": "oldiga"
+      "gloss": "huzuriga"
     },
     {
       "surface": "חמותה",
-      "gloss": "qaynonasining"
+      "gloss": "qaynonasi"
     },
     {
       "surface": "ותאמר",
-      "gloss": "va u aytdi"
+      "gloss": "aytdi"
     },
     {
       "surface": "מי",
@@ -29,8 +29,7 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "qizim"
+      "gloss": "sen"
     },
     {
       "surface": "בתי",
@@ -38,7 +37,7 @@
     },
     {
       "surface": "ותגד",
-      "gloss": "va u aytib berdi"
+      "gloss": "aylib berdi"
     },
     {
       "surface": "לה",
@@ -47,15 +46,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "barcha ishlarni"
+      "marks": "hammasini"
     },
     {
       "surface": "כל",
-      "gloss": "barcha"
+      "gloss": "hammasini"
     },
     {
       "surface": "אשר",
-      "gloss": "ki"
+      "gloss": "—"
     },
     {
       "surface": "עשה",
@@ -70,6 +69,6 @@
       "gloss": "odam"
     }
   ],
-  "timestamp": "2026-08-26T07:15:04.217834417Z",
+  "timestamp": "2026-08-26T10:02:40.587271103Z",
   "model": "glm-5.3"
 }

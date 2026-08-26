@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va moyladilar ⟨את⟩ uni Tsadok kohin va Natan paygʻambar podshoh sifatida Gixonda, va u yerdan xursandlar boʻlib chiqdilar, va shahar gavjlandi — bu ⟨is⟩ ovoz — sizlarning eshitganingiz.",
+  "translation": "Va Tsadok ⟨את⟩ kohin va Natan paygʻambar uni Gixonda moylab podshoh qildilar, va u yerdon xursand chiqib kelishdi, va shahar gʻala-gʻovurga toʻldi — sizlar eshitgan ovoz ana oʻsha.",
   "tokens": [
     {
       "surface": "וימשחו",
@@ -14,7 +14,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩ uni",
-      "marks": "uni"
+      "marks": "uni (Tsadok va Natan moylagan shaxs)"
     },
     {
       "surface": "צדוק",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "למלך",
-      "gloss": "podshoh sifatida"
+      "gloss": "podshoh qilib"
     },
     {
       "surface": "בגחון",
@@ -42,19 +42,19 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "va chiqdilar"
+      "gloss": "va chiqib kelishdi"
     },
     {
       "surface": "משם",
-      "gloss": "u yerdan"
+      "gloss": "u yerdon"
     },
     {
       "surface": "שמחים",
-      "gloss": "xursandlar"
+      "gloss": "xursand"
     },
     {
-      "surface": "ותהם",
-      "gloss": "va gavjlandi"
+      "surface": "ויהם",
+      "gloss": "va gʻala-gʻovurga toʻldi"
     },
     {
       "surface": "הקריה",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "bu"
+      "gloss": "ana oʻsha"
     },
     {
       "surface": "הקול",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "ki"
     },
     {
       "surface": "שמעתם",
-      "gloss": "eshitganingiz"
+      "gloss": "sizlar eshitgan"
     }
   ],
-  "timestamp": "2026-08-26T03:24:46.409393378Z",
+  "timestamp": "2026-08-26T09:53:10.206679223Z",
   "model": "glm-5.3"
 }

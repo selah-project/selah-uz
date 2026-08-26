@@ -5,8 +5,41 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 38,
-  "translation": "Va tўkilgan ⟨the⟩ mis ⟨offering⟩ yetmish talent va ikki ming toʻrt yuz shekel edi.",
-  "tokens": [],
-  "timestamp": "2026-08-26T01:06:08.823352972Z",
+  "translation": "Va tuhfa qilingan mis — yetmish talent va ikki ming toʻrt yuz shqel.",
+  "tokens": [
+    {
+      "surface": "ונחשת",
+      "gloss": "Va mis"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "tuhfa qilingan"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "yetmish"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talent"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "va ikki ming"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "va toʻrt"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "yuz"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shqel"
+    }
+  ],
+  "timestamp": "2026-08-26T09:46:35.704862276Z",
   "model": "glm-5.3"
 }

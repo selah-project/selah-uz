@@ -5,15 +5,15 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Chunki qarang, Men yerda ⟨the⟩ choʻpon qoʻzgʻataman: yoʻqolganlarga tashrif buyurmaydi, yoshni izlamaydi, singanni davolamaydi, turganini boqmaydi, lekin semizning goʻshtini yeydi va ularning tuyoklarini uzib tashlaydi.",
+  "translation": "Chunki mana, Men yerning ichida choʻponni turgʻizmoqdaman: yoʻqolganlarga u tashrif buyurmas, yoshni izlamas, singanni davolamas, turib turganni boqmas — semiz goʻshtini yeydi va ularning tuyogʻini sindirib tashlaydi.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Chunki"
+      "gloss": "chunki"
     },
     {
       "surface": "הנה",
-      "gloss": "qarang"
+      "gloss": "mana"
     },
     {
       "surface": "אנכי",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "מקים",
-      "gloss": "qoʻzgʻataman"
+      "gloss": "turgʻizmoqdaman"
     },
     {
       "surface": "רעה",
-      "gloss": "choʻpon"
+      "gloss": "choʻponni"
     },
     {
       "surface": "בארץ",
-      "gloss": "yerda"
+      "gloss": "yerning ichida"
     },
     {
       "surface": "הנכחדות",
@@ -37,11 +37,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "...-mas"
     },
     {
       "surface": "יפקד",
-      "gloss": "tashrif buyurmaydi"
+      "gloss": "tashrif buyurmas"
     },
     {
       "surface": "הנער",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "...-mas"
     },
     {
       "surface": "יבקש",
-      "gloss": "izlamaydi"
+      "gloss": "izlamas"
     },
     {
       "surface": "והנשברת",
@@ -61,31 +61,31 @@
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "...-mas"
     },
     {
       "surface": "ירפא",
-      "gloss": "davolamaydi"
+      "gloss": "davolamas"
     },
     {
       "surface": "הנצבה",
-      "gloss": "turganini"
+      "gloss": "turib turganni"
     },
     {
       "surface": "לא",
-      "gloss": "yoʻq"
+      "gloss": "...-mas"
     },
     {
       "surface": "יכלכל",
-      "gloss": "boqmaydi"
+      "gloss": "boqmas"
     },
     {
       "surface": "ובשר",
-      "gloss": "va goʻshtini"
+      "gloss": "va ... goʻshtini"
     },
     {
       "surface": "הבריאה",
-      "gloss": "semizning"
+      "gloss": "semiz"
     },
     {
       "surface": "יאכל",
@@ -93,13 +93,13 @@
     },
     {
       "surface": "ופרסיהן",
-      "gloss": "va ularning tuyoklarini"
+      "gloss": "va ularning tuyogʻini"
     },
     {
       "surface": "יפרק",
-      "gloss": "uzib tashlaydi"
+      "gloss": "sindirib tashlaydi"
     }
   ],
-  "timestamp": "2026-08-26T08:42:04.228156290Z",
+  "timestamp": "2026-08-26T10:07:36.549220138Z",
   "model": "glm-5.3"
 }

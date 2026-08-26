@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Yogʻochga: «Sen mening otamsan», toshga: «⟨את⟩ Sen meni tugʻding» deydilar; chunki ular Menga enagini oʻgirib yuzini emas; ularning yomon vaqtida esa: «Tur-ku, bizni qutqar» deydilar.",
+  "translation": "Daraxtga „otam senson“ va toshga „sen meni tugʻdingan“ deydilar; chunki ular Menga orqalarini burdilar, yuzini ⟨emas⟩; va ularning yomonligi vaqtida „tur-gin va bizni qutqar-gin“ deydilar.",
   "tokens": [
     {
       "surface": "אמרים",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "לעץ",
-      "gloss": "yogʻochga"
+      "gloss": "daraxtga"
     },
     {
       "surface": "אבי",
@@ -21,20 +21,19 @@
     },
     {
       "surface": "אתה",
-      "gloss": "Sen"
+      "gloss": "senson"
     },
     {
-      "surface": "ולאבן",
+      "surface": "ו לאבן",
       "gloss": "va toshga"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Sen"
+      "gloss": "sen"
     },
     {
       "surface": "ילדתני",
-      "gloss": "meni tugʻding"
+      "gloss": "meni tugʻdingan"
     },
     {
       "surface": "כי",
@@ -42,7 +41,7 @@
     },
     {
       "surface": "פנו",
-      "gloss": "oʻgirdilar"
+      "gloss": "burdilar"
     },
     {
       "surface": "אלי",
@@ -50,23 +49,23 @@
     },
     {
       "surface": "ערף",
-      "gloss": "enanisini"
+      "gloss": "orqalarini"
     },
     {
       "surface": "ולא",
-      "gloss": "va emas"
+      "gloss": "va ... emas"
     },
     {
       "surface": "פנים",
-      "gloss": "yuzini"
+      "gloss": "yuzni"
     },
     {
       "surface": "ובעת",
-      "gloss": "va … vaqtida"
+      "gloss": "va ... vaqtida"
     },
     {
       "surface": "רעתם",
-      "gloss": "ularning yomon"
+      "gloss": "ularning yomonligi"
     },
     {
       "surface": "יאמרו",
@@ -74,13 +73,13 @@
     },
     {
       "surface": "קומה",
-      "gloss": "Tur"
+      "gloss": "tur-gin"
     },
     {
       "surface": "והושיענו",
-      "gloss": "va bizni qutqar"
+      "gloss": "va bizni qutqar-gin"
     }
   ],
-  "timestamp": "2026-08-26T04:36:09.808488401Z",
+  "timestamp": "2026-08-26T10:23:27.042322062Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Ezra Yahveni, buyuk Elohimni ⟨את⟩ barakaladi, va barcha xalq javob berdi: Omin, Omin — qoʻllarini koʻtarib; va yiqilib, Yahvegа yuzlari bilan yerga sajda qildilar.",
+  "translation": "Va Ezra Yahveni, buyuk Elohimni barakaladi; butun xalq javob berdi: «Omin, omin» — qoʻllarini koʻtarib; va ular taʼzim qildi va Yahvega yuzlarini yerga tegizib sajda qildi.",
   "tokens": [
     {
       "surface": "ויברך",
@@ -18,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahveni"
+      "marks": "Yahve, buyuk Elohim"
     },
     {
       "surface": "יהוה",
@@ -34,11 +34,11 @@
     },
     {
       "surface": "ויענו",
-      "gloss": "va javob berdi"
+      "gloss": "javob berdi"
     },
     {
       "surface": "כל",
-      "gloss": "barcha"
+      "gloss": "butun"
     },
     {
       "surface": "העם",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "אמן",
-      "gloss": "Omin"
+      "gloss": "omin"
     },
     {
       "surface": "במעל",
@@ -62,25 +62,25 @@
     },
     {
       "surface": "ויקדו",
-      "gloss": "yiqilib"
+      "gloss": "taʼzim qildi"
     },
     {
       "surface": "וישתחו",
-      "gloss": "sajda qildilar"
+      "gloss": "sajda qildi"
     },
     {
       "surface": "ליהוה",
-      "gloss": "Yahvegа"
+      "gloss": "Yahvega"
     },
     {
       "surface": "אפים",
-      "gloss": "yuzlari bilan"
+      "gloss": "yuzlarini"
     },
     {
       "surface": "ארצה",
       "gloss": "yerga"
     }
   ],
-  "timestamp": "2026-08-26T07:46:31.660542324Z",
+  "timestamp": "2026-08-26T10:04:18.214938692Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Yahvedan bitta narsa soʻradim — ⟨את⟩ oʻshani izlayman: Yahvening uyida, hayotimning barcha kunlarida yashashim, Yahvening yoqimliligini tamoshо qilish va uning saroyida saboq olishim uchun.",
+  "translation": "Bitta narsa soʻradim Yahvedan — uni izlayman: Yahvening uyida yashash butun hayotim kunlari, Yahvening yoqimliligini koʻrish va uning saroyida tong otgach tashrif buyurish.",
   "tokens": [
     {
       "surface": "אחת",
-      "gloss": "bitta"
+      "gloss": "Bitta narsa"
     },
     {
       "surface": "שאלתי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "Yahvedan ⟨את⟩"
+      "gloss": "⟨את⟩ dan"
     },
     {
       "surface": "יהוה",
@@ -25,8 +25,8 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ oʻshani",
-      "marks": "izlayman"
+      "gloss": "⟨את⟩",
+      "marks": "uni (soʻralgan narsa — izlayman)"
     },
     {
       "surface": "אבקש",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "שבתי",
-      "gloss": "yashashim"
+      "gloss": "yashash"
     },
     {
       "surface": "בבית",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "barcha"
+      "gloss": "butun"
     },
     {
       "surface": "ימי",
-      "gloss": "kunlarida"
+      "gloss": "kunlari"
     },
     {
       "surface": "חיי",
@@ -58,7 +58,7 @@
     },
     {
       "surface": "לחזות",
-      "gloss": "tamoshо qilish"
+      "gloss": "koʻrish"
     },
     {
       "surface": "בנעם",
@@ -70,13 +70,13 @@
     },
     {
       "surface": "ולבקר",
-      "gloss": "va saboq olishim"
+      "gloss": "va tashrif buyurish"
     },
     {
       "surface": "בהיכלו",
       "gloss": "uning saroyida"
     }
   ],
-  "timestamp": "2026-08-26T06:03:44.186863559Z",
+  "timestamp": "2026-08-26T10:00:26.459304651Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 15,
-  "translation": "Ahd ⟨is⟩ mening va senig oramda, otam bilan otang orasida; mana, senga kumush va oltin sovgʻa yubordim; bor, ⟨את⟩ Basha bilan, Isroil podshohi bilan boʻlgan ahdingni bekor qilginki, u mendan ketib qolsin.",
+  "translation": "Ahd ⟨bor⟩ men va sen oʻrtamda, otam va otang oʻrtasida; mana, senga kumush va oltin sovgʻa yubordim — bor, ⟨את⟩ ahdingni bekor qil — ⟨את⟩ Baasha, Yisroel qiroli bilan — va u mendan ketgaysi.",
   "tokens": [
     {
       "surface": "ברית",
@@ -13,15 +13,15 @@
     },
     {
       "surface": "ביני",
-      "gloss": "mening oramda"
+      "gloss": "oʻrtamda (men)"
     },
     {
       "surface": "ובינך",
-      "gloss": "va senig oramda"
+      "gloss": "va sen oʻrtangda"
     },
     {
       "surface": "בין",
-      "gloss": "oramda"
+      "gloss": "oʻrtasida"
     },
     {
       "surface": "אבי",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ובין",
-      "gloss": "va orasida"
+      "gloss": "va oʻrtasida"
     },
     {
       "surface": "אביך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "שחד",
-      "gloss": "sovga"
+      "gloss": "sovga (pora)"
     },
     {
       "surface": "כסף",
@@ -79,29 +79,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Basha bilan"
+      "marks": "Baasha bilan"
     },
     {
       "surface": "בעשא",
-      "gloss": "Basha"
+      "gloss": "Baasha"
     },
     {
       "surface": "מלך",
-      "gloss": "podshohi"
+      "gloss": "qiroli"
     },
     {
       "surface": "ישראל",
-      "gloss": "Isroil"
+      "gloss": "Yisroel"
     },
     {
       "surface": "ויעלה",
-      "gloss": "va u koʻchib ketsin"
+      "gloss": "va u ketgaysi"
     },
     {
       "surface": "מעלי",
-      "gloss": "menga qarshi"
+      "gloss": "mendon"
     }
   ],
-  "timestamp": "2026-08-26T03:41:00.858963166Z",
+  "timestamp": "2026-08-26T09:54:06.496119586Z",
   "model": "glm-5.3"
 }

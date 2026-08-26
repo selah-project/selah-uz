@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Va xotin homilador boʻldi va oʻgʻil tugʻdi va uni ⟨אתו⟩ koʻrdi — chunki u yaxshi ⟨⟨edi⟩⟩ — va uni uch oy yashirdi.",
+  "translation": "Va xotin homilador boʻldi va oʻgʻil tugʻdi va uni ⟨את⟩ ⟨אתו⟩ koʻrdi — chunki u yaxshi ⟨⟨edi⟩⟩ — va uni uch oy yashirdi.",
   "tokens": [
     {
       "surface": "ותהר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
+      "gloss": "⟨את⟩ ⟨אתו⟩",
       "marks": "uni"
     },
     {
@@ -57,6 +57,6 @@
       "gloss": "oy"
     }
   ],
-  "timestamp": "2026-08-26T00:49:32.085955665Z",
+  "timestamp": "2026-08-26T09:42:30.780856703Z",
   "model": "glm-5.3"
 }

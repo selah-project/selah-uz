@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va yasaysan ikki keruvni — oltindan; uringan ish bilan qilasiz ⟨אתם⟩ — yopqichning ikki chekkasidan.",
+  "translation": "Va yasaysan ikki keruvni — oltindan; uringan ish bilan qilasiz ⟨את⟩ ⟨אתם⟩ — yopqichning ikki chekkasidan.",
   "tokens": [
     {
       "surface": "ועשית",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ularni (ikkita keruvni)"
     },
     {
@@ -49,6 +49,6 @@
       "gloss": "yopqichning"
     }
   ],
-  "timestamp": "2026-08-26T01:00:46.780129842Z",
+  "timestamp": "2026-08-26T09:42:30.781121392Z",
   "model": "glm-5.3"
 }

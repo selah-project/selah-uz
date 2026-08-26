@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va agar ⟨a⟩ musofir siz ⟨אתכם⟩ bilan yashasa va Yahve uchun Pesax qilsa — Pesax qoidasi va uning hukmi boʻyicha shunday qilsin: sizlar uchun, musofir uchun va mamlakat tugʻma fuqarosi uchun bitta qoida boʻladi.",
+  "translation": "Va agar ⟨a⟩ musofir siz ⟨את⟩ ⟨אתכם⟩ bilan yashasa va Yahve uchun Pesax qilsa — Pesax qoidasi va uning hukmi boʻyicha shunday qilsin: sizlar uchun, musofir uchun va mamlakat tugʻma fuqarosi uchun bitta qoida boʻladi.",
   "tokens": [
     {
       "surface": "וכי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "siz"
     },
     {
@@ -85,6 +85,6 @@
       "gloss": "mamlakat"
     }
   ],
-  "timestamp": "2026-08-26T01:30:45.054149596Z",
+  "timestamp": "2026-08-26T09:42:30.788175593Z",
   "model": "glm-5.3"
 }

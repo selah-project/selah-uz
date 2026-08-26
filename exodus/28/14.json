@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 28,
-  "translation": "va ikki zanjir — toza oltindan, halqa-uslubda yasaysan ularni ⟨אתם⟩, oʻrilgan ish uslubida; va ⟨את⟩ oʻrilgan zanjirlarni qurshovchilar ustiga qoʻyasiz.",
+  "translation": "va ikki zanjir — toza oltindan, halqa-uslubda yasaysan ularni ⟨את⟩ ⟨אתם⟩, oʻrilgan ish uslubida; va ⟨את⟩ oʻrilgan zanjirlarni qurshovchilar ustiga qoʻyasiz.",
   "tokens": [
     {
       "surface": "ושתי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ularni"
     },
     {
@@ -70,6 +70,6 @@
       "gloss": "qurshovchilar"
     }
   ],
-  "timestamp": "2026-08-26T01:00:44.692968609Z",
+  "timestamp": "2026-08-26T09:42:30.778806132Z",
   "model": "glm-5.3"
 }

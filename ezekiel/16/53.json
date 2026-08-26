@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 16,
-  "translation": "Va ularning surgun-davlatini qaytaraman — ⟨את⟩ Sedom va uning qizlarining surgun-davlatini, ⟨va את⟩ Shomron va uning qizlarining surgun-davlatini — va sening asirligʻingning qaytishini ularning oʻrtasida ⟨qaytaraman⟩.",
+  "translation": "Va ularning surgun-davlatini qaytaraman — ⟨את⟩ Sedom va uning qizlarining surgun-davlatini, ⟨את⟩ ⟨va את⟩ Shomron va uning qizlarining surgun-davlatini — va sening asirligʻingning qaytishini ularning oʻrtasida ⟨qaytaraman⟩.",
   "tokens": [
     {
       "surface": "ושבתי",
@@ -39,7 +39,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨va את⟩",
+      "gloss": "⟨את⟩ ⟨va את⟩",
       "marks": "Shomron va uning qizlarining surgun-davlatini"
     },
     {
@@ -67,6 +67,6 @@
       "gloss": "ularning oʻrtasida"
     }
   ],
-  "timestamp": "2026-08-26T05:15:53.692921848Z",
+  "timestamp": "2026-08-26T09:42:30.784993684Z",
   "model": "glm-5.3"
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 17,
-  "translation": "Ko'tarilinglar bu jamoat ichidan, va men ⟨אתם⟩ bir zumda yutib yuboraman. Va ⟨ular⟩ yuzlarining ustiga yiqildilar.",
+  "translation": "Ko'tarilinglar bu jamoat ichidan, va men ⟨את⟩ ⟨אתם⟩ bir zumda yutib yuboraman. Va ⟨ular⟩ yuzlarining ustiga yiqildilar.",
   "tokens": [
     {
       "surface": "הרמו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ularni (jamoatni)"
     },
     {
@@ -49,6 +49,6 @@
       "gloss": "yuzlarining"
     }
   ],
-  "timestamp": "2026-08-26T01:36:36.534814161Z",
+  "timestamp": "2026-08-26T09:42:30.788542252Z",
   "model": "glm-5.3"
 }

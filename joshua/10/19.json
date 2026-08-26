@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Sizlar esa toʻxtab qolmanglar — dushmanlaringizni quvgilar va ⟨אתם⟩ ularni orqasidan urib tushirgilar; ularni oʻz shaharlariga kirgizmanglar, chunki ularni sizlarning Elohimlaringiz Yahve sizlarning qoʻlingizga bergan.",
+  "translation": "Sizlar esa toʻxtab qolmanglar — dushmanlaringizni quvgilar va ⟨את⟩ ⟨אתם⟩ ularni orqasidan urib tushirgilar; ularni oʻz shaharlariga kirgizmanglar, chunki ularni sizlarning Elohimlaringiz Yahve sizlarning qoʻlingizga bergan.",
   "tokens": [
     {
       "surface": "ואתם",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ularni"
     },
     {
@@ -81,6 +81,6 @@
       "gloss": "qoʻlingizga"
     }
   ],
-  "timestamp": "2026-08-26T02:14:08.786342877Z",
+  "timestamp": "2026-08-26T09:42:30.788823623Z",
   "model": "glm-5.3"
 }

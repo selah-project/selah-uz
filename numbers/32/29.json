@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 32,
-  "translation": "Va Moshe ularga aytdi: agar Gad oʻgʻillari va Reuven oʻgʻillari sizlar ⟨אתכם⟩ bilan Iordanondan oʻtib ketadilar boʻlsa, jangga tayyorlashgan holda, Yahve oldida, va yer sizlarga boʻysundirilgan boʻlsa — u holda siz ularnga Gilead yerini meros ⟨את⟩ egalik qilib berasiz.",
+  "translation": "Va Moshe ularga aytdi: agar Gad oʻgʻillari va Reuven oʻgʻillari sizlar ⟨את⟩ ⟨אתכם⟩ bilan Iordanondan oʻtib ketadilar boʻlsa, jangga tayyorlashgan holda, Yahve oldida, va yer sizlarga boʻysundirilgan boʻlsa — u holda siz ularnga Gilead yerini meros ⟨את⟩ egalik qilib berasiz.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩ bilan"
+      "gloss": "⟨את⟩ ⟨אתכם⟩ bilan"
     },
     {
       "surface": "את",
@@ -114,6 +114,6 @@
       "gloss": "egalik qilib"
     }
   ],
-  "timestamp": "2026-08-26T01:44:31.988661210Z",
+  "timestamp": "2026-08-26T09:42:30.787327760Z",
   "model": "glm-5.3"
 }

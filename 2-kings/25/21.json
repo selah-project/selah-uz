@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va Bobil shohi ularga ⟨אתם⟩ urib, ularni Rivlada, Hamat yerida oʻldirdi; va Yahudo oʻz tuprogʻidan koʻchirildi.",
+  "translation": "Va Bobil shohi ularga ⟨את⟩ ⟨אתם⟩ urib, ularni Rivlada, Hamat yerida oʻldirdi; va Yahudo oʻz tuprogʻidan koʻchirildi.",
   "tokens": [
     {
       "surface": "ויך",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩",
+      "gloss": "⟨את⟩ ⟨אתם⟩",
       "marks": "ulgа — yaʼni asirlarga"
     },
     {
@@ -57,6 +57,6 @@
       "gloss": "tuprogʻidan"
     }
   ],
-  "timestamp": "2026-08-26T04:06:45.048240452Z",
+  "timestamp": "2026-08-26T09:42:30.785444628Z",
   "model": "glm-5.3"
 }

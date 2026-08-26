@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va sen unga gapirasan va ⟨את⟩ soʻzlarni uning ogʻziga qoʻyasansan, va Men senning ogʻzing bilan va uning ogʻzi bilan boʻlurman, va sizlarga ⟨אתכם⟩ oʻrgataman ⟨את⟩ nima qilishingizni.",
+  "translation": "Va sen unga gapirasan va ⟨את⟩ soʻzlarni uning ogʻziga qoʻyasansan, va Men senning ogʻzing bilan va uning ogʻzi bilan boʻlurman, va sizlarga ⟨את⟩ ⟨אתכם⟩ oʻrgataman ⟨את⟩ nima qilishingizni.",
   "tokens": [
     {
       "surface": "ודברת",
@@ -62,7 +62,7 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
+      "gloss": "⟨את⟩ ⟨אתכם⟩",
       "marks": "sizlarga"
     },
     {
@@ -79,6 +79,6 @@
       "gloss": "qilishingizni"
     }
   ],
-  "timestamp": "2026-08-26T08:20:08.852195880Z",
+  "timestamp": "2026-08-26T09:42:30.780561504Z",
   "model": "glm-5.3"
 }

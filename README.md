@@ -85,3 +85,9 @@ Oʻquvchilar, ibroniy tili talabalar, tarjimonlar, oʻzbek tilining
 ona tili egalari — hammangiz xush kelibsiz. Xato haqida xabar
 berishdan yoki tuzatish taklif qilishdan oldin
 [CONTRIBUTING.md](CONTRIBUTING.md) ni oʻqing.
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md

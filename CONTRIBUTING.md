@@ -67,3 +67,8 @@ Qarovchilar takliflarni ibroniy bilan, qoidalar bilan, manbalar
 bilan va tekislanish bilan tekshiradi — qabul qilishlari, siz bilan
 birga pishitishlari, qoʻshimcha dalil kutishlari yoki sabab
 koʻrsatib rad etishlari mumkin. Baholanadigani soʻz — odam emas.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.

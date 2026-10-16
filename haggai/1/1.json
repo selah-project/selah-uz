@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Daryavesh podshohning ikkinchi yilida, oltinchi oyda, oyning birinchi kunida, Yahvearning soʻzi Xaggay paygʻambar qoʻli orqali Yehudaning hokimi Zerubavelga, Shealtielning oʻgʻliga, va yoshi kohen Yehoshuaga, Yehotsadakning oʻgʻliga boʻldi, degan:",
+  "translation": "Daryavesh podshohning ikkinchi yilida, oltinchi oyda, oyning birinchi kunida, Yahvearning soʻzi Xaggay nabiy qoʻli orqali Yehudaning hokimi Zerubavelga, Shealtielning oʻgʻliga, va yoshi kohen Yehoshuaga, Yehotsadakning oʻgʻliga boʻldi, degan:",
   "tokens": [
     {
       "surface": "בשנת",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "אל",
@@ -121,5 +121,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:50:02.604958930Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

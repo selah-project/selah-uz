@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va podshohga xabar berib aytdilar: Mana, paygʻambar Natan. Va u podshoh huzuriga kirdi va yuztub bilan podshohga erga qadar taʼzim qildi.",
+  "translation": "Va podshohga xabar berib aytdilar: Mana, nabiy Natan. Va u podshoh huzuriga kirdi va yuztub bilan podshohga erga qadar taʼzim qildi.",
   "tokens": [
     {
       "surface": "ויגידו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ויבא",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:30:56.169642797Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

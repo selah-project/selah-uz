@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Paygʻambarlar sababli yuragim ichimda sindirilgan, barcha suyaklarim larzaga keldi; mast odamday, uzra yildan oʻtgangek boʻldim — Yahve yuzi sababli va uning muqaddas soʻzlari sababli.",
+  "translation": "Nabiylar sababli yuragim ichimda sindirilgan, barcha suyaklarim larzaga keldi; mast odamday, uzra yildan oʻtgangek boʻldim — Yahve yuzi sababli va uning muqaddas soʻzlari sababli.",
   "tokens": [
     {
       "surface": "לנבאים",
-      "gloss": "paygʻambarlar sababli"
+      "gloss": "nabiylar sababli"
     },
     {
       "surface": "נשבר",
@@ -81,5 +81,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:50:17.563668515Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Paygʻambarlar": "Nabiylar",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

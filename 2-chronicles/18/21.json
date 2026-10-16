@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 18,
-  "translation": "U dedi: Men chiqaman va uning barcha paygʻambarlarining ogʻzida yolgʻon ruhi boʻlaman. U esa dedi: Sen aldaysan va senga yana iloji bor; bor va shunday qil.",
+  "translation": "U dedi: Men chiqaman va uning barcha nabiylarining ogʻzida yolgʻon ruhi boʻlaman. U esa dedi: Sen aldaysan va senga yana iloji bor; bor va shunday qil.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "נביאיו",
-      "gloss": "uning paygʻambarlarining"
+      "gloss": "uning nabiylarining"
     },
     {
       "surface": "ויאמר",
@@ -69,5 +69,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:10:17.533030311Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarining": "nabiylarining"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Va Elisho paygʻambar paygʻambar oʻgʻillaridan birini chaqirdi va unga aytdi: belingni bogʻla va bu moy idishini qoʻlingda ol va Ramot-Gilodga bor.",
+  "translation": "Va Elisho nabiy nabiy oʻgʻillaridan birini chaqirdi va unga aytdi: belingni bogʻla va bu moy idishini qoʻlingda ol va Ramot-Gilodga bor.",
   "tokens": [
     {
       "surface": "ואלישע",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "קרא",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ויאמר",
@@ -81,5 +81,12 @@
     }
   ],
   "timestamp": "2026-08-26T03:52:32.523751740Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

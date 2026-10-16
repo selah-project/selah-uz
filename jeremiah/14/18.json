@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Daloga chiqsam — mana, qilichdan oʻlganlar; shaharga kirsam — mana, ochlikdan kasal sollar; chunki paygʻambar ham, kohin ham tanishmagan yerga koʻchib yurishdi va bilishmadi.",
+  "translation": "Daloga chiqsam — mana, qilichdan oʻlganlar; shaharga kirsam — mana, ochlikdan kasal sollar; chunki nabiy ham, kohin ham tanishmagan yerga koʻchib yurishdi va bilishmadi.",
   "tokens": [
     {
       "surface": "אם",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "גם",
@@ -97,5 +97,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:46:25.154210153Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

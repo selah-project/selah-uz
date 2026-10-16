@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Va barcha paygʻambarlar shunday paygʻambarlik qilmoqda edilar, dedilar: Ramot-Gilodga chiq va muvaffaqiyat top, va Yahve ⟨uni⟩ podshohning qoʻliga beradi.",
+  "translation": "Va barcha nabiylar shunday nabiylik qilmoqda edilar, dedilar: Ramot-Gilodga chiq va muvaffaqiyat top, va Yahve ⟨uni⟩ podshohning qoʻliga beradi.",
   "tokens": [
     {
       "surface": "וכל",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "נבאים",
-      "gloss": "paygʻambarlik qilmoqda"
+      "gloss": "nabiylik qilmoqda"
     },
     {
       "surface": "כן",
@@ -61,5 +61,13 @@
     }
   ],
   "timestamp": "2026-08-26T08:10:13.748741871Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar",
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

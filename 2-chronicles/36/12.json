@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 36,
-  "translation": "Va u Yahve oʻz Elohimining koʻzlarida yomonlikni qildi; paygʻambar Yirmiyahu orqali — Yahve ogʻzidan — soʻzlaganda, u oldida boʻyin egmadi.",
+  "translation": "Va u Yahve oʻz Elohimining koʻzlarida yomonlikni qildi; nabiy Yirmiyahu orqali — Yahve ogʻzidan — soʻzlaganda, u oldida boʻyin egmadi.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "מפי",
@@ -57,5 +57,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:16:37.849468629Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 22,
-  "translation": "Va u dedi: Chiqibman va barcha uning payg'ambarlarining og'zida yolg'on ruaxi bo'laman. Va ⟨u⟩ dedi: Aldab olasan, ham qodir bo'lasan; chiq va shunday qil.",
+  "translation": "Va u dedi: Chiqibman va barcha uning nabiylarining og'zida yolg'on ruaxi bo'laman. Va ⟨u⟩ dedi: Aldab olasan, ham qodir bo'lasan; chiq va shunday qil.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "נביאיו",
-      "gloss": "uning payg'ambarlarining"
+      "gloss": "uning nabiylarining"
     },
     {
       "surface": "ויאמר",
@@ -69,5 +69,12 @@
     }
   ],
   "timestamp": "2026-08-26T03:46:11.479297836Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "payg'ambarlarining": "nabiylarining"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Sher yirtirdi — kim qoʻrqmas? Adonay Yahve gapirdi — kim paygʻambarlik qilmas?",
+  "translation": "Sher yirtirdi — kim qoʻrqmas? Adonay Yahve gapirdi — kim nabiylik qilmas?",
   "tokens": [
     {
       "surface": "אריה",
@@ -49,9 +49,16 @@
     },
     {
       "surface": "ינבא",
-      "gloss": "paygʻambarlik qiladi"
+      "gloss": "nabiylik qiladi"
     }
   ],
   "timestamp": "2026-08-26T05:40:44.416174311Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

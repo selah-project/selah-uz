@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 22,
-  "translation": "Isroil malikasi paygʻambarlarni ⟨את⟩ toʻpladi — taxminan toʻrt yuz kishi — va ularga dedi: Ramot-Gilod ustiga jangga bormoqchimisizmi, yoʻqmi? Va ular dedilar: Koʻtaril, Adonay uni malika qoʻliga beradi.",
+  "translation": "Isroil malikasi nabiylarni ⟨את⟩ toʻpladi — taxminan toʻrt yuz kishi — va ularga dedi: Ramot-Gilod ustiga jangga bormoqchimisizmi, yoʻqmi? Va ular dedilar: Koʻtaril, Adonay uni malika qoʻliga beradi.",
   "tokens": [
     {
       "surface": "ויקבץ",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "כארבע",
@@ -102,5 +102,13 @@
     }
   ],
   "timestamp": "2026-08-26T03:47:03.527266638Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarni": "nabiylarni",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

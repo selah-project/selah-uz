@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Shemaayah paygʻambar Rexavam va Yahudyaning sirlari huzuriga keldi — Shishak tufayli Yerushalaimda toʻplangan edilar — va ularga aytdi: Shunday deydi Yahve: Sizlar ⟨את⟩ Meni tashladingiz, shuning uchun Men ham ⟨את⟩ sizlarni Shishak qoʻliga tashlab berdim.",
+  "translation": "Shemaayah nabiy Rexavam va Yahudyaning sirlari huzuriga keldi — Shishak tufayli Yerushalaimda toʻplangan edilar — va ularga aytdi: Shunday deydi Yahve: Sizlar ⟨את⟩ Meni tashladingiz, shuning uchun Men ham ⟨את⟩ sizlarni Shishak qoʻliga tashlab berdim.",
   "tokens": [
     {
       "surface": "ושמעיה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "בא",
@@ -119,5 +119,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:08:32.841940361Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

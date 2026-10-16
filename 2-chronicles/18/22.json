@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Endi mana, Yahve shu paygʻambarlaringning ogʻziga yolgʻon ruhini qoʻydi, va Yahve sen haqingda yomonlik gapirdi.",
+  "translation": "Endi mana, Yahve shu nabiylaringning ogʻziga yolgʻon ruhini qoʻydi, va Yahve sen haqingda yomonlik gapirdi.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "נביאיך",
-      "gloss": "paygʻambarlaringning"
+      "gloss": "nabiylaringning"
     },
     {
       "surface": "אלה",
@@ -61,5 +61,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:10:17.533275661Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlaringning": "nabiylaringning"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

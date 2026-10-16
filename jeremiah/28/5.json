@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Va Yirmeyahu paygʻambar Xananay paygʻambarga kohinlarning koʻzlari oldida va Yahve uyida turgan butun xalqning koʻzlari oldida aytdi.",
+  "translation": "Va Yirmeyahu nabiy Xananay nabiyga kohinlarning koʻzlari oldida va Yahve uyida turgan butun xalqning koʻzlari oldida aytdi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "לעיני",
@@ -65,5 +65,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:55:00.428705618Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy",
+      "paygʻambarga": "nabiyga"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

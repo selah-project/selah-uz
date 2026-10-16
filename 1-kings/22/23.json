@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 22,
-  "translation": "Endi esa mana, Yahve shu barcha sening payg'ambarlaringning og'ziga yolg'on ruaxini qo'ydi, va Yahve sening ustingdan yomonlik gapirdi.",
+  "translation": "Endi esa mana, Yahve shu barcha sening nabiylaringning og'ziga yolg'on ruaxini qo'ydi, va Yahve sening ustingdan yomonlik gapirdi.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נביאיך",
-      "gloss": "sening payg'ambarlaringning"
+      "gloss": "sening nabiylaringning"
     },
     {
       "surface": "אלה",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-26T03:46:11.479495110Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "payg'ambarlaringning": "nabiylaringning"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

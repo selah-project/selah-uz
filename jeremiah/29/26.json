@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 29,
-  "translation": "«Yahve seni Yehoyada kohin oʻrniga kohin qildi — Yahve uyida nazoratchilar boʻlishi uchun, har bir aqldan ozgan va oʻzini paygʻambar deya koʻrsatgan odam ⟨uchun⟩, va sen uni ⟨את⟩ qamqanoqqa va boʻynqamga solishing kerak.»",
+  "translation": "«Yahve seni Yehoyada kohin oʻrniga kohin qildi — Yahve uyida nazoratchilar boʻlishi uchun, har bir aqldan ozgan va oʻzini nabiy deya koʻrsatgan odam ⟨uchun⟩, va sen uni ⟨את⟩ qamqanoqqa va boʻynqamga solishing kerak.»",
   "tokens": [
     {
       "surface": "יהוה",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ומתנבא",
-      "gloss": "va oʻzini paygʻambar deya koʻrsatgan"
+      "gloss": "va oʻzini nabiy deya koʻrsatgan"
     },
     {
       "surface": "ונתתה",
@@ -90,5 +90,12 @@
     }
   ],
   "timestamp": "2026-08-26T09:56:31.687274759Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

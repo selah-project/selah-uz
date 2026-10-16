@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 32,
-  "translation": "Yehizkiyahuning qolgan ishlari va uning xesedi — mana, ular Yeshayahu ben Amots paygʻambarning koʻrinishida, Yahuda va Isroil shohlari kitobida yozilgan.",
+  "translation": "Yehizkiyahuning qolgan ishlari va uning xesedi — mana, ular Yeshayahu ben Amots nabiyning koʻrinishida, Yahuda va Isroil shohlari kitobida yozilgan.",
   "tokens": [
     {
       "surface": "ויתר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "על",
@@ -73,5 +73,13 @@
     }
   ],
   "timestamp": "2026-08-26T09:11:52.575851690Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarning": "nabiyning",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

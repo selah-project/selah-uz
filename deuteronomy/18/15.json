@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Paygʻambarni — oʻz oralingdan, aka-ukalaringdan, menga oʻxshaganini — senga Yahve, Elohiming, turghizur; unga qulok solinglar.",
+  "translation": "Nabiyni — oʻz oralingdan, aka-ukalaringdan, menga oʻxshaganini — senga Yahve, Elohiming, turghizur; unga qulok solinglar.",
   "tokens": [
     {
       "surface": "נביא",
-      "gloss": "Paygʻambarni"
+      "gloss": "Nabiyni"
     },
     {
       "surface": "מקרבך",
@@ -49,5 +49,12 @@
     }
   ],
   "timestamp": "2026-08-26T09:51:00.800205236Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Paygʻambarni": "Nabiyni"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

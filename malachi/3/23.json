@@ -5,7 +5,7 @@
   "book": "malachi",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Mana, Men sizlarga ⟨את⟩ paygʻambar Eliyahoni yuboraman — Yahve kunining, buyuk va dahshatli kunning kelishidan oldin.",
+  "translation": "Mana, Men sizlarga ⟨את⟩ nabiy Eliyahoni yuboraman — Yahve kunining, buyuk va dahshatli kunning kelishidan oldin.",
   "tokens": [
     {
       "surface": "הנה",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "לפני",
@@ -62,5 +62,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:57:53.842794772Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

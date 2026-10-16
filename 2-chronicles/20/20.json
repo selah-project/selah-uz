@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va ertalab erta turdilar va Tekoa choʻliga chiqdilar; va ular chiqayotganda Yehoshafat turdi va dedi: Meni tinglanglar, ey Yahuda va Yerushalaim aholisi! Yahvega, Elohimlaringizga ishoninglar va mustahkam boʻlasizlar; uning paygʻambarlariga ishoninglar va muvaffaqiyatga erishasizlar.",
+  "translation": "Va ertalab erta turdilar va Tekoa choʻliga chiqdilar; va ular chiqayotganda Yehoshafat turdi va dedi: Meni tinglanglar, ey Yahuda va Yerushalaim aholisi! Yahvega, Elohimlaringizga ishoninglar va mustahkam boʻlasizlar; uning nabiylariga ishoninglar va muvaffaqiyatga erishasizlar.",
   "tokens": [
     {
       "surface": "וישכימו",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "בנביאיו",
-      "gloss": "uning paygʻambarlariga"
+      "gloss": "uning nabiylariga"
     },
     {
       "surface": "והצליחו",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:10:46.369732915Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlariga": "nabiylariga"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

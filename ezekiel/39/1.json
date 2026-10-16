@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 39,
-  "translation": "Va sen, odam oʻgʻli, Gog haqida paygʻambarlik qil va ayt: Shunday deydi Adonay Yahve: Mana, Men senga qarshiman, ey Gog, Ros boshligʻi, Meshek va Tuval shahzodasi.",
+  "translation": "Va sen, odam oʻgʻli, Gog haqida nabiylik qil va ayt: Shunday deydi Adonay Yahve: Mana, Men senga qarshiman, ey Gog, Ros boshligʻi, Meshek va Tuval shahzodasi.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "paygʻambarlik qil"
+      "gloss": "nabiylik qil"
     },
     {
       "surface": "על",
@@ -81,5 +81,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:27:59.262792616Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

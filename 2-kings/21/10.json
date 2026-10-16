@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 21,
-  "translation": "Va Yahve oʻz qullari — paygʻambarlar — qoʻli orqali soʻzladi, deb aytdi:",
+  "translation": "Va Yahve oʻz qullari — nabiylar — qoʻli orqali soʻzladi, deb aytdi:",
   "tokens": [
     {
       "surface": "וידבר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "לאמר",
@@ -33,5 +33,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:33:04.558306445Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

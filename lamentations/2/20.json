@@ -5,7 +5,7 @@
   "book": "lamentations",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Koʻr, Yahve, va qaragin — kimga qarshi bunday qilding! Ayollar mevasini, qoʻlda parvarishlangan goʻdaklarni yeydimi? Adonay muqaddasligida kohin va paygʻambar oʻldiriladimi?",
+  "translation": "Koʻr, Yahve, va qaragin — kimga qarshi bunday qilding! Ayollar mevasini, qoʻlda parvarishlangan goʻdaklarni yeydimi? Adonay muqaddasligida kohin va nabiy oʻldiriladimi?",
   "tokens": [
     {
       "surface": "ראה",
@@ -77,9 +77,16 @@
     },
     {
       "surface": "ונביא",
-      "gloss": "va paygʻambar"
+      "gloss": "va nabiy"
     }
   ],
   "timestamp": "2026-08-26T08:49:06.208050659Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

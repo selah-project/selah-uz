@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va boʻladi oʻsha kunda: paygʻambarlar — har biri oʻz koʻrishi tufayli — paygʻambarlik qilganda xijolat boʻladilar; va aldash maqsadida tukli mato kiymaydilar.",
+  "translation": "Va boʻladi oʻsha kunda: nabiylar — har biri oʻz koʻrishi tufayli — nabiylik qilganda xijolat boʻladilar; va aldash maqsadida tukli mato kiymaydilar.",
   "tokens": [
     {
       "surface": "והיה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "איש",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "בהנבאתו",
-      "gloss": "paygʻambarlik qilganda"
+      "gloss": "nabiylik qilganda"
     },
     {
       "surface": "ולא",
@@ -65,5 +65,13 @@
     }
   ],
   "timestamp": "2026-08-26T05:56:23.502495057Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar",
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

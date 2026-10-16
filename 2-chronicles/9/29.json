@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Shlomoning qolgan ishlari — birinchilari ham, oxirgilari ham — mana ular Natan paygʻambar soʻzlarida, Axiya Shilonlikning bashoratida va Yeʼdi koʻruvchining Yarovam bin Navot haqidagi koʻrishlarida yozilgan emasmi?",
+  "translation": "Shlomoning qolgan ishlari — birinchilari ham, oxirgilari ham — mana ular Natan nabiy soʻzlarida, Axiya Shilonlikning bashoratida va Yeʼdi koʻruvchining Yarovam bin Navot haqidagi koʻrishlarida yozilgan emasmi?",
   "tokens": [
     {
       "surface": "ושאר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ועל",
@@ -101,5 +101,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:51:42.113295969Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

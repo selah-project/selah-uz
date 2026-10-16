@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va paygʻambarlik qilishni tugatdi va baland joyga kirdi.",
+  "translation": "Va nabiylik qilishni tugatdi va baland joyga kirdi.",
   "tokens": [
     {
       "surface": "ויכל",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "מהתנבות",
-      "gloss": "paygʻambarlik qilishni"
+      "gloss": "nabiylik qilishni"
     },
     {
       "surface": "ויבא",
@@ -25,5 +25,12 @@
     }
   ],
   "timestamp": "2026-08-26T02:46:38.687149583Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

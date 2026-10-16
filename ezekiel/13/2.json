@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Odampoʻshida, Isroil paygʻambarlariga — oʻzlariga paygʻambarlik qiluvchilarga paygʻambarlik qil va ularga — yuragidan paygʻambarlik qiluvchilarga aytki: Yahvening soʻzini eshiting!",
+  "translation": "Odampoʻshida, Isroil nabiylariga — oʻzlariga nabiylik qiluvchilarga nabiylik qil va ularga — yuragidan nabiylik qiluvchilarga aytki: Yahvening soʻzini eshiting!",
   "tokens": [
     {
       "surface": "בן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "paygʻambarlik qil"
+      "gloss": "nabiylik qil"
     },
     {
       "surface": "אל",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "paygʻambarlari"
+      "gloss": "nabiylari"
     },
     {
       "surface": "ישראל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlik qiluvchilar"
+      "gloss": "nabiylik qiluvchilar"
     },
     {
       "surface": "ואמרת",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "לנביאי",
-      "gloss": "paygʻambarlik qiluvchilarga"
+      "gloss": "nabiylik qiluvchilarga"
     },
     {
       "surface": "מלבם",
@@ -61,5 +61,14 @@
     }
   ],
   "timestamp": "2026-08-26T05:12:52.006888126Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlariga": "nabiylariga",
+      "paygʻambarlik": "nabiylik",
+      "paygʻambarlari": "nabiylari"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

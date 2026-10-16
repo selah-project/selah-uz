@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Va Yahve meni qoʻylar ortidan olib ketdi, va Yahve menga aytdi: Bor, xalqimga — Isroilga paygʻambarlik qil.",
+  "translation": "Va Yahve meni qoʻylar ortidan olib ketdi, va Yahve menga aytdi: Bor, xalqimga — Isroilga nabiylik qil.",
   "tokens": [
     {
       "surface": "ויקחני",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "paygʻambarlik qil"
+      "gloss": "nabiylik qil"
     },
     {
       "surface": "אל",
@@ -57,5 +57,12 @@
     }
   ],
   "timestamp": "2026-08-26T09:58:21.202531859Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Mana, Men paygʻambarlarga qarshiman, — degan Yahve, — tillarini sillaganlar va «Degan» deb aytganlar, — degan.",
+  "translation": "Mana, Men nabiylarga qarshiman, — degan Yahve, — tillarini sillaganlar va «Degan» deb aytganlar, — degan.",
   "tokens": [
     {
       "surface": "הנני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביאם",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "נאם",
@@ -45,5 +45,13 @@
     }
   ],
   "timestamp": "2026-08-26T08:37:37.942936520Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarga": "nabiylarga",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

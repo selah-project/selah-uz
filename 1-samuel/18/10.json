@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Va ertasi kuni Elohimning yomon ruhi Shaul ustiga kuch bilan keldi, va u uyning ichida paygʻambarlik qildi, Dovud esa qoʻli bilan kun sayin chertardi, va nayza Shaul qoʻlida edi.",
+  "translation": "Va ertasi kuni Elohimning yomon ruhi Shaul ustiga kuch bilan keldi, va u uyning ichida nabiylik qildi, Dovud esa qoʻli bilan kun sayin chertardi, va nayza Shaul qoʻlida edi.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "ויתנבא",
-      "gloss": "va paygʻambarlik qildi"
+      "gloss": "va nabiylik qildi"
     },
     {
       "surface": "בתוך",
@@ -85,5 +85,12 @@
     }
   ],
   "timestamp": "2026-08-26T02:52:49.311461211Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

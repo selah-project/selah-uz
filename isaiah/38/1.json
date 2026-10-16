@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "uz",
   "chapter": 38,
-  "translation": "O'sha kunlarda Xizqiyo o'lish uchun xasta bo'ldi, va uning huzuriga payg'ambar Amotsning o'g'li Yeshayahu kirdi va unga aytdi: Yahve shunday deydi: uyinga buyruq ber, chunki sen o'lyapsan va tirilmaysan.",
+  "translation": "O'sha kunlarda Xizqiyo o'lish uchun xasta bo'ldi, va uning huzuriga nabiy Amotsning o'g'li Yeshayahu kirdi va unga aytdi: Yahve shunday deydi: uyinga buyruq ber, chunki sen o'lyapsan va tirilmaysan.",
   "tokens": [
     {
       "surface": "בימים",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "payg'ambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ויאמר",
@@ -101,5 +101,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:22:05.647885249Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "payg'ambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

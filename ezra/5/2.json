@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "uz",
   "chapter": 5,
-  "translation": "Oʻshanda turdi Zerubavel, Shealtielning oʻgʻli, va Yeshua, Yotsadokning oʻgʻli, va boshladilar qurishni Elahining uyi ⟨bobida⟩ — Yerushalaimda; va ular bilan birga Elahining paygʻambarlari ⟨bor edi⟩, ularga yordam berib.",
+  "translation": "Oʻshanda turdi Zerubavel, Shealtielning oʻgʻli, va Yeshua, Yotsadokning oʻgʻli, va boshladilar qurishni Elahining uyi ⟨bobida⟩ — Yerushalaimda; va ular bilan birga Elahining nabiylari ⟨bor edi⟩, ularga yordam berib.",
   "tokens": [
     {
       "surface": "באדין",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "נביאיא",
-      "gloss": "paygʻambarlari"
+      "gloss": "nabiylari"
     },
     {
       "surface": "די",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:50:40.564157389Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlari": "nabiylari"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

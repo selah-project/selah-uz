@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va boʻladi: agar odam yana paygʻambarlik qilsa, unga otasi va onasi — uni tugʻganlari — derlar: „Yashamaysan, chunki Yahve nomida yolgʻon gapirding“; va uni paygʻambarlik qilayotganda otasi va onasi — uni tugʻganlari — sanchib oʻldiradi.",
+  "translation": "Va boʻladi: agar odam yana nabiylik qilsa, unga otasi va onasi — uni tugʻganlari — derlar: „Yashamaysan, chunki Yahve nomida yolgʻon gapirding“; va uni nabiylik qilayotganda otasi va onasi — uni tugʻganlari — sanchib oʻldiradi.",
   "tokens": [
     {
       "surface": "והיה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ינבא",
-      "gloss": "paygʻambarlik qilsa"
+      "gloss": "nabiylik qilsa"
     },
     {
       "surface": "איש",
@@ -93,9 +93,16 @@
     },
     {
       "surface": "בהנבאו",
-      "gloss": "paygʻambarlik qilayotganda"
+      "gloss": "nabiylik qilayotganda"
     }
   ],
   "timestamp": "2026-08-26T05:56:23.502314463Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

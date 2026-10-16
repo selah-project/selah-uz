@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Uning podshohligining birinchi yilida men, Doniel, kitoblarda yillarning sonini tushundim — Yahvening soʻzi Yeremiya paygʻambariga boʻlgan ⟨oyat⟩: Yerushalaim xarobalari toʻldirilishi uchun yetmish yil.",
+  "translation": "Uning podshohligining birinchi yilida men, Doniel, kitoblarda yillarning sonini tushundim — Yahvening soʻzi Yeremiya nabiyiga boʻlgan ⟨oyat⟩: Yerushalaim xarobalari toʻldirilishi uchun yetmish yil.",
   "tokens": [
     {
       "surface": "בשנת",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "למלאות",
@@ -93,5 +93,13 @@
     }
   ],
   "timestamp": "2026-08-26T08:49:51.769141996Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambariga": "nabiyiga",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

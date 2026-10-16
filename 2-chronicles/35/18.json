@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 35,
-  "translation": "Va Isroilda Shmuel paygʻambar kunlaridan buyon unga oʻxshash Pesax qilinmagan, va Isroilning barcha podshohlari Yoxiyoning qilganiga oʻxshash Pesax qilgan emaslar — ⟨u⟩ kohonlar, leviylar va butun Yahudo va topilgan Isroil va Yerushalaim aholisi ⟨bilan⟩.",
+  "translation": "Va Isroilda Shmuel nabiy kunlaridan buyon unga oʻxshash Pesax qilinmagan, va Isroilning barcha podshohlari Yoxiyoning qilganiga oʻxshash Pesax qilgan emaslar — ⟨u⟩ kohonlar, leviylar va butun Yahudo va topilgan Isroil va Yerushalaim aholisi ⟨bilan⟩.",
   "tokens": [
     {
       "surface": "ולא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "וכל",
@@ -109,5 +109,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:17:04.602240535Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

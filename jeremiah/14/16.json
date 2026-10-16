@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va oʻsha xalq — ularga paygʻambarlik qilinmoqda — Yerushalaim koʻchalarida tashlab yuborilgan boʻlurlar, ochlik va qilich yuzasidan, va ularni dafn etuvchi boʻlmaydi — ular, xotinlari, oʻgʻillari va qizlari; va Men ularga ⟨את⟩ yomonliklarini toʻkaman.",
+  "translation": "Va oʻsha xalq — ularga nabiylik qilinmoqda — Yerushalaim koʻchalarida tashlab yuborilgan boʻlurlar, ochlik va qilich yuzasidan, va ularni dafn etuvchi boʻlmaydi — ular, xotinlari, oʻgʻillari va qizlari; va Men ularga ⟨את⟩ yomonliklarini toʻkaman.",
   "tokens": [
     {
       "surface": "והעם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "paygʻambarlik qilinmoqda"
+      "gloss": "nabiylik qilinmoqda"
     },
     {
       "surface": "להם",
@@ -102,5 +102,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:46:51.675367947Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

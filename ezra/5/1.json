@@ -5,11 +5,11 @@
   "book": "ezra",
   "lang": "uz",
   "chapter": 5,
-  "translation": "Va paygʻambarlik qildi Chaggai paygʻambar va Zekharyah, Iddoning oʻgʻli, paygʻambar — Yahudiylarga, yaʼni Yahudo va Yerushalaimda ⟨boʻlganlarga⟩, Isroil Elahining nomi bilan, ular ustidan.",
+  "translation": "Va nabiylik qildi Chaggai nabiy va Zekharyah, Iddoning oʻgʻli, nabiy — Yahudiylarga, yaʼni Yahudo va Yerushalaimda ⟨boʻlganlarga⟩, Isroil Elahining nomi bilan, ular ustidan.",
   "tokens": [
     {
       "surface": "והתנבי",
-      "gloss": "va paygʻambarlik qildi"
+      "gloss": "va nabiylik qildi"
     },
     {
       "surface": "חגי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נביאה",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "וזכריה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "נביאיא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "על",
@@ -73,5 +73,13 @@
     }
   ],
   "timestamp": "2026-08-26T08:50:40.563901837Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

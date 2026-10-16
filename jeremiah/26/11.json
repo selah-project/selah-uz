@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Kohinlar va paygʻambarlar sarkdalarga va butun xalqga aytib dedilar: „Bu odamga oʻlim hukmi — chunki u bu shaharga qarshi paygʻambarlik qildi, goʻyo quloqlaringiz bilan eshitganlaringizdek“.",
+  "translation": "Kohinlar va nabiylar sarkdalarga va butun xalqga aytib dedilar: „Bu odamga oʻlim hukmi — chunki u bu shaharga qarshi nabiylik qildi, goʻyo quloqlaringiz bilan eshitganlaringizdek“.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "והנבאים",
-      "gloss": "va paygʻambarlar"
+      "gloss": "va nabiylar"
     },
     {
       "surface": "אל",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "נבא",
-      "gloss": "paygʻambarlik qildi"
+      "gloss": "nabiylik qildi"
     },
     {
       "surface": "אל",
@@ -93,5 +93,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:49:57.530680055Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar",
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

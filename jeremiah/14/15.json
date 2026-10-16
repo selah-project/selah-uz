@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Shuning uchun shunday deydi Yahve — paygʻambarlar haqida, paygʻambarlik qiluvchilar Mening ismim bilan, holbuki men ularni yubormaganman, va ular aytmoqdalar: qilich va ochlik bu yerda boʻlmaydi — qilich va ochlik bilan oʻsha paygʻambarlar tugatiladilar.",
+  "translation": "Shuning uchun shunday deydi Yahve — nabiylar haqida, nabiylik qiluvchilar Mening ismim bilan, holbuki men ularni yubormaganman, va ular aytmoqdalar: qilich va ochlik bu yerda boʻlmaydi — qilich va ochlik bilan oʻsha nabiylar tugatiladilar.",
   "tokens": [
     {
       "surface": "לכן",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlik qiluvchilar"
+      "gloss": "nabiylik qiluvchilar"
     },
     {
       "surface": "בשמי",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "ההמה",
@@ -105,5 +105,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:46:51.675138357Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar",
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

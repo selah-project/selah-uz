@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Asaf oʻgʻillaridan: Zakkur va Yosef va Netanya va Asharela — Asaf oʻgʻillari, Asaf qoʻli ostida, u paygʻambarlik qiluvchi ⟨edi⟩, podshoh qoʻllari ostida.",
+  "translation": "Asaf oʻgʻillaridan: Zakkur va Yosef va Netanya va Asharela — Asaf oʻgʻillari, Asaf qoʻli ostida, u nabiylik qiluvchi ⟨edi⟩, podshoh qoʻllari ostida.",
   "tokens": [
     {
       "surface": "לבני",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "paygʻambarlik qiluvchi"
+      "gloss": "nabiylik qiluvchi"
     },
     {
       "surface": "על",
@@ -69,5 +69,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:02:23.776172165Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

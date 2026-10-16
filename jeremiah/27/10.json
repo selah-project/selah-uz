@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Chunki ular sizga yolgʻon paygʻambarlik qilmoqdalar — ⟨את⟩ sizni yeringizdan uzoqlashtirish uchun; va Men ⟨את⟩ sizni haydab yuboraman va siz yoʻq boʻlasizlar.",
+  "translation": "Chunki ular sizga yolgʻon nabiylik qilmoqdalar — ⟨את⟩ sizni yeringizdan uzoqlashtirish uchun; va Men ⟨את⟩ sizni haydab yuboraman va siz yoʻq boʻlasizlar.",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "paygʻambarlik qilmoqdalar"
+      "gloss": "nabiylik qilmoqdalar"
     },
     {
       "surface": "לכם",
@@ -63,5 +63,12 @@
     }
   ],
   "timestamp": "2026-08-26T09:56:11.819534392Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

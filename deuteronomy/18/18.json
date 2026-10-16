@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Ular uchun paygʻambar turdiraman, oʻz aka-ukalari ichidan, sen kabi; va soʻzlarimni uning ogʻziga qoʻyaman, va u ularga unga buyurganimning ⟨את⟩ hammasiga gapiradi.",
+  "translation": "Ular uchun nabiy turdiraman, oʻz aka-ukalari ichidan, sen kabi; va soʻzlarimni uning ogʻziga qoʻyaman, va u ularga unga buyurganimning ⟨את⟩ hammasiga gapiradi.",
   "tokens": [
     {
       "surface": "נביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "אקים",
@@ -70,5 +70,12 @@
     }
   ],
   "timestamp": "2026-08-26T01:58:05.885618056Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

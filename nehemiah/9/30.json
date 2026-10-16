@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Koʻp yillar davomida ularga sabr qilding va ularni Ruxing bilan paygʻambarlaring qoʻli orqali ogohlantirding, ammo ular quloq solmadi va ularni mamlakatlar xalqlari qoʻliga berding.",
+  "translation": "Koʻp yillar davomida ularga sabr qilding va ularni Ruxing bilan nabiylaring qoʻli orqali ogohlantirding, ammo ular quloq solmadi va ularni mamlakatlar xalqlari qoʻliga berding.",
   "tokens": [
     {
       "surface": "ותמשך",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נביאיך",
-      "gloss": "paygʻambarlaring"
+      "gloss": "nabiylaring"
     },
     {
       "surface": "ולא",
@@ -69,5 +69,12 @@
     }
   ],
   "timestamp": "2026-08-26T07:47:31.384951017Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlaring": "nabiylaring"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Nega Yahve nomida paygʻambarlik qilding, deb: „Shilo kabi boʻladi bu uy, va bu shahar aholisiz xarob boʻladi“? Va butun xalq Yeremiya atrofida Yahve uyida yigʻildi.",
+  "translation": "Nega Yahve nomida nabiylik qilding, deb: „Shilo kabi boʻladi bu uy, va bu shahar aholisiz xarob boʻladi“? Va butun xalq Yeremiya atrofida Yahve uyida yigʻildi.",
   "tokens": [
     {
       "surface": "מדוע",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נבית",
-      "gloss": "paygʻambarlik qilding"
+      "gloss": "nabiylik qilding"
     },
     {
       "surface": "בשם",
@@ -93,5 +93,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:49:57.530033759Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

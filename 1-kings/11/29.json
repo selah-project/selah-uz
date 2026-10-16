@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va oʻsha vaqtda Yarovom Yerushalaimdan chiqdi va ⟨את⟩ uni yoʻlda Axiya Shilonlik paygʻambar uchratdi; u esa yangi kiyim bilan ⟨oʻralgan edi⟩ va ularning ikkalasi dalada yolgʻiz ⟨edilar⟩.",
+  "translation": "Va oʻsha vaqtda Yarovom Yerushalaimdan chiqdi va ⟨את⟩ uni yoʻlda Axiya Shilonlik nabiy uchratdi; u esa yangi kiyim bilan ⟨oʻralgan edi⟩ va ularning ikkalasi dalada yolgʻiz ⟨edilar⟩.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "בדרך",
@@ -86,5 +86,12 @@
     }
   ],
   "timestamp": "2026-08-26T03:37:16.213331284Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

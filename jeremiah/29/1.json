@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 29,
-  "translation": "Va bunlar — maktub soʻzlari ki Yirmeyahu paygʻambar Yerushalaimdan yubordi: qolgan surgundagi qariyalarga, kohinlarga, paygʻambarlarga va butun xalqga ki Nvuxadnessar surgun qildi ularni Yerushalaimdan Bobilga.",
+  "translation": "Va bunlar — maktub soʻzlari ki Yirmeyahu nabiy Yerushalaimdan yubordi: qolgan surgundagi qariyalarga, kohinlarga, nabiylarga va butun xalqga ki Nvuxadnessar surgun qildi ularni Yerushalaimdan Bobilga.",
   "tokens": [
     {
       "surface": "ואלה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "מירושלם",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "ואל",
@@ -105,5 +105,14 @@
     }
   ],
   "timestamp": "2026-08-26T04:54:17.338622599Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy",
+      "paygʻambarlarga": "nabiylarga",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

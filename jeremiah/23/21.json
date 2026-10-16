@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Men ⟨את⟩ paygʻambarlarni yubormadim — ular oʻzlari yugurdilar; Men ularga gapirmadim — ular oʻzlari paygʻambarlik qildilar.",
+  "translation": "Men ⟨את⟩ nabiylarni yubormadim — ular oʻzlari yugurdilar; Men ularga gapirmadim — ular oʻzlari nabiylik qildilar.",
   "tokens": [
     {
       "surface": "לא",
@@ -22,7 +22,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "והם",
@@ -50,9 +50,18 @@
     },
     {
       "surface": "נבאו",
-      "gloss": "paygʻambarlik qildilar"
+      "gloss": "nabiylik qildilar"
     }
   ],
   "timestamp": "2026-08-26T04:50:24.631514431Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarni": "nabiylarni",
+      "paygʻambarlik": "nabiylik",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

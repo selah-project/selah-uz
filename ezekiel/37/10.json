@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 37,
-  "translation": "Va ⟨u⟩ menga buyurganidek paygʻambarlik qildim, va ruax ularning ichiga kirdi, va ⟨ular⟩ tirildilar va oyoqlari ustida turdilar — juda, juda katta qoʻshin ⟨edilar⟩.",
+  "translation": "Va ⟨u⟩ menga buyurganidek nabiylik qildim, va ruax ularning ichiga kirdi, va ⟨ular⟩ tirildilar va oyoqlari ustida turdilar — juda, juda katta qoʻshin ⟨edilar⟩.",
   "tokens": [
     {
       "surface": "והנבאתי",
-      "gloss": "va ... paygʻambarlik qildim"
+      "gloss": "va ... nabiylik qildim"
     },
     {
       "surface": "כאשר",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-26T10:23:50.322521776Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

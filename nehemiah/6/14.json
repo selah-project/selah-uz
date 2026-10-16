@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Elohimim, esla Toviyani va Sanballatni bu qilmishlari boʻyicha, hamda paygʻambar ayol Noadyani va qolgan paygʻambarlarni ham — ⟨ularki⟩ meni qoʻrqitgan edilar.",
+  "translation": "Elohimim, esla Toviyani va Sanballatni bu qilmishlari boʻyicha, hamda nabiy ayol Noadyani va qolgan nabiylarni ham — ⟨ularki⟩ meni qoʻrqitgan edilar.",
   "tokens": [
     {
       "surface": "זכרה",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הנביאה",
-      "gloss": "paygʻambar ayol"
+      "gloss": "nabiy ayol"
     },
     {
       "surface": "וליתר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "אשר",
@@ -70,5 +70,14 @@
     }
   ],
   "timestamp": "2026-08-26T07:45:33.725822834Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy",
+      "paygʻambarlarni": "nabiylarni",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

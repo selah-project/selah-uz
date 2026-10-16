@@ -5,11 +5,11 @@
   "book": "zephaniah",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Uning paygʻambarlari — beoʻxshov, xiyonatkor odamlar; uning kohinlari muqaddasni iflosladilar, Tavrotga zoʻravonlik qildilar.",
+  "translation": "Uning nabiylari — beoʻxshov, xiyonatkor odamlar; uning kohinlari muqaddasni iflosladilar, Tavrotga zoʻravonlik qildilar.",
   "tokens": [
     {
       "surface": "נביאיה",
-      "gloss": "uning paygʻambarlari"
+      "gloss": "uning nabiylari"
     },
     {
       "surface": "פחזים",
@@ -45,5 +45,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:50:00.446973821Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlari": "nabiylari"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

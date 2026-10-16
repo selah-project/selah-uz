@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Va u yerda Yahve uchun paygʻambar bor edi — Oded uning ismi; u Shomronga kelgan qoʻshin oldiga chiqdi va ularga dedi: Mana, otalaringizning Elohimi Yahvening Yehudaga qarshi gʻazabi tufayli ⟨ularni⟩ sizlarning qoʻlingizga topshirdi, va sizlar ularni gʻazab bilan oʻldirdingiz — osmonga yetguncha.",
+  "translation": "Va u yerda Yahve uchun nabiy bor edi — Oded uning ismi; u Shomronga kelgan qoʻshin oldiga chiqdi va ularga dedi: Mana, otalaringizning Elohimi Yahvening Yehudaga qarshi gʻazabi tufayli ⟨ularni⟩ sizlarning qoʻlingizga topshirdi, va sizlar ularni gʻazab bilan oʻldirdingiz — osmonga yetguncha.",
   "tokens": [
     {
       "surface": "ושם",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ליהוה",
@@ -121,5 +121,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:13:54.470713810Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 33,
-  "translation": "Va u kelganda — mana, u keladi — unda ular biladiki, paygʻambar ular ortida boʻlgan.",
+  "translation": "Va u kelganda — mana, u keladi — unda ular biladiki, nabiy ular ortida boʻlgan.",
   "tokens": [
     {
       "surface": "ובבאה",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "היה",
@@ -41,5 +41,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:23:48.488196673Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

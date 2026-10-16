@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Yisroel paygʻambarlari — Yerushalaimga paygʻambarlik qiluvchilar va unga tinchlik koʻrinishini koʻruvchilar, holbuki tinchlik yoʻq — Adonay Yahvening neʼmi.",
+  "translation": "Yisroel nabiylari — Yerushalaimga nabiylik qiluvchilar va unga tinchlik koʻrinishini koʻruvchilar, holbuki tinchlik yoʻq — Adonay Yahvening neʼmi.",
   "tokens": [
     {
       "surface": "נביאי",
-      "gloss": "paygʻambarlari"
+      "gloss": "nabiylari"
     },
     {
       "surface": "ישראל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlik qiluvchilar"
+      "gloss": "nabiylik qiluvchilar"
     },
     {
       "surface": "אל",
@@ -65,5 +65,13 @@
     }
   ],
   "timestamp": "2026-08-26T05:13:46.070143009Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlari": "nabiylari",
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

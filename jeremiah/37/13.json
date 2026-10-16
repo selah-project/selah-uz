@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 37,
-  "translation": "Va ⟨u⟩ Biniamin darvozasi boʻlsa, u yerda nazorat amaldori bor edi — uning ismi Yiriyah, Shelemyaning oʻgʻli, Xananyaning oʻgʻli — va u Yirmeyahu paygʻambarni ⟨את⟩ ushlab aytdi: «Kasdiylarga qochmoqdasan.»",
+  "translation": "Va ⟨u⟩ Biniamin darvozasi boʻlsa, u yerda nazorat amaldori bor edi — uning ismi Yiriyah, Shelemyaning oʻgʻli, Xananyaning oʻgʻli — va u Yirmeyahu nabiyni ⟨את⟩ ushlab aytdi: «Kasdiylarga qochmoqdasan.»",
   "tokens": [
     {
       "surface": "ויהי",
@@ -74,7 +74,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "לאמר",
@@ -98,5 +98,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:58:58.703969671Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarni": "nabiyni",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

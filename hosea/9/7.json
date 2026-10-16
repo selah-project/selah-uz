@@ -5,7 +5,7 @@
   "book": "hosea",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Keldi tekshirish kunlari, keldi to'lov kunlari; bilsin Israel: payg'ambar — ahmoq, ruoh odami — telba, gunohlaring ko'pligi sababli va buyuk ⟨dir⟩ adovat.",
+  "translation": "Keldi tekshirish kunlari, keldi to'lov kunlari; bilsin Israel: nabiy — ahmoq, ruoh odami — telba, gunohlaring ko'pligi sababli va buyuk ⟨dir⟩ adovat.",
   "tokens": [
     {
       "surface": "באו",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "payg'ambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "משגע",
@@ -81,5 +81,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:36:43.662370388Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "payg'ambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

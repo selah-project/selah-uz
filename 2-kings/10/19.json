@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Va endi, Baalning barcha paygʻambarlari, uning barcha xizmatkorlari va barcha kohinlari — menga chaqiringlar, birortasi yetishmasin, chunki menga Baal uchun buyuk qurbonlik bor; har kim yetishmasa, u yashamaydi. Va Yexu hiyla bilan qildi, Baalning xizmatkorlarini yoʻq qilish maqsadida ⟨את⟩.",
+  "translation": "Va endi, Baalning barcha nabiylari, uning barcha xizmatkorlari va barcha kohinlari — menga chaqiringlar, birortasi yetishmasin, chunki menga Baal uchun buyuk qurbonlik bor; har kim yetishmasa, u yashamaydi. Va Yexu hiyla bilan qildi, Baalning xizmatkorlarini yoʻq qilish maqsadida ⟨את⟩.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "paygʻambarlari"
+      "gloss": "nabiylari"
     },
     {
       "surface": "הבעל",
@@ -134,5 +134,12 @@
     }
   ],
   "timestamp": "2026-08-26T03:53:19.881517166Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlari": "nabiylari"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

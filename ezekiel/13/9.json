@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va qoʻlim boʻladi ⟨⟨⟩⟩ paygʻambarlar ustiga — soxta narsalarni koʻruvchilar va yolgʻon folchilar ustiga: xalqimning majlisida boʻlmaslar, Yisroel uyining yozuvida yozilmaslar va Yisroel tuprogʻiga kirmaslar; va bilursizki, Men Adonay Yahvuman.",
+  "translation": "Va qoʻlim boʻladi ⟨⟨⟩⟩ nabiylar ustiga — soxta narsalarni koʻruvchilar va yolgʻon folchilar ustiga: xalqimning majlisida boʻlmaslar, Yisroel uyining yozuvida yozilmaslar va Yisroel tuprogʻiga kirmaslar; va bilursizki, Men Adonay Yahvuman.",
   "tokens": [
     {
       "surface": "והיתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "החזים",
@@ -117,5 +117,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:13:47.503485763Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

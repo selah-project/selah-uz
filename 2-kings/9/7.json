@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 9,
-  "translation": "«Va sen ustasi — Axbavning uyini ⟨את⟩ urubsan, va men oʻz xizmatkorlarim — paygʻambarlarning qonini va Yahvening barcha xizmatkorlarining qonini Izebel qoʻlidan qasos olaman.",
+  "translation": "«Va sen ustasi — Axbavning uyini ⟨את⟩ urubsan, va men oʻz xizmatkorlarim — nabiylarning qonini va Yahvening barcha xizmatkorlarining qonini Izebel qoʻlidan qasos olaman.",
   "tokens": [
     {
       "surface": "והכיתה",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "ודמי",
@@ -70,5 +70,13 @@
     }
   ],
   "timestamp": "2026-08-26T03:53:09.815043998Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarning": "nabiylarning",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

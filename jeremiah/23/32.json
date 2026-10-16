@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Mana, Men yolgʻon tushlar paygʻambarlariga qarshiman, — degan Yahve, — ularni hikoya qilib ⟨את⟩ xalqimni yolgʻonlari va bepoyondliklari bilan yoʻldan ozdirdilar; Men esa ularni yubormaganman va ularga buyruq bermaganman; — bu xalqqa foyda bermaydilar, — degan Yahve.",
+  "translation": "Mana, Men yolgʻon tushlar nabiylariga qarshiman, — degan Yahve, — ularni hikoya qilib ⟨את⟩ xalqimni yolgʻonlari va bepoyondliklari bilan yoʻldan ozdirdilar; Men esa ularni yubormaganman va ularga buyruq bermaganman; — bu xalqqa foyda bermaydilar, — degan Yahve.",
   "tokens": [
     {
       "surface": "הנני",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נבאי",
-      "gloss": "paygʻambarlari"
+      "gloss": "nabiylari"
     },
     {
       "surface": "חלמות",
@@ -110,5 +110,13 @@
     }
   ],
   "timestamp": "2026-08-26T08:37:37.943184836Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlariga": "nabiylariga",
+      "paygʻambarlari": "nabiylari"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

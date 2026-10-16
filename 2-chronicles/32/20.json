@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 32,
-  "translation": "Va Xizqiyo podshoh va Yeshayahu ben Amots paygʻambar buning ustidan ibodat qildilar va osmonlarga nido qildilar.",
+  "translation": "Va Xizqiyo podshoh va Yeshayahu ben Amots nabiy buning ustidan ibodat qildilar va osmonlarga nido qildilar.",
   "tokens": [
     {
       "surface": "ויתפלל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "על",
@@ -53,5 +53,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:15:35.415661345Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

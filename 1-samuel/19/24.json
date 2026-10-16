@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Va u ham kiyimlarini yechdi, va u ham Shemuëlning oldida paygʻambarlik qildi, va yalangʻoch yiqildi butun oʻsha kunda va butun tunni; shuning uchun aytiladi: Sha UL ham paygʻambarlarmi?",
+  "translation": "Va u ham kiyimlarini yechdi, va u ham Shemuëlning oldida nabiylik qildi, va yalangʻoch yiqildi butun oʻsha kunda va butun tunni; shuning uchun aytiladi: Sha UL ham nabiylarmi?",
   "tokens": [
     {
       "surface": "ויפשט",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ויתנבא",
-      "gloss": "va paygʻambarlik qildi"
+      "gloss": "va nabiylik qildi"
     },
     {
       "surface": "גם",
@@ -93,9 +93,18 @@
     },
     {
       "surface": "בנביאם",
-      "gloss": "paygʻambarlar orasida"
+      "gloss": "nabiylar orasida"
     }
   ],
   "timestamp": "2026-08-26T02:54:19.917760367Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik",
+      "paygʻambarlarmi": "nabiylarmi",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

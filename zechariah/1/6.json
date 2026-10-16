@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Ammo soʻzlarim va farmonlarim, qullarim paygʻambarlarga ⟨את⟩ oʻzim buyurgan — otalaringizga yetib bormadimi? Va qaytdilar va dedilar: Yahve Sevaot nimani rejalashtirgan boʻlsa, bizga qilmoq uchun — yoʻllarimizga koʻra va qilmishlarimizga koʻra — shunday qildi u biz bilan ⟨את⟩.",
+  "translation": "Ammo soʻzlarim va farmonlarim, qullarim nabiylarga ⟨את⟩ oʻzim buyurgan — otalaringizga yetib bormadimi? Va qaytdilar va dedilar: Yahve Sevaot nimani rejalashtirgan boʻlsa, bizga qilmoq uchun — yoʻllarimizga koʻra va qilmishlarimizga koʻra — shunday qildi u biz bilan ⟨את⟩.",
   "tokens": [
     {
       "surface": "אך",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "הלוא",
@@ -106,5 +106,13 @@
     }
   ],
   "timestamp": "2026-08-26T05:51:44.817395024Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarga": "nabiylarga",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

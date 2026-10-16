@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va Zerubavel, Shealtielning oʻgʻli, va Yahoshua, Yehotsadoqning oʻgʻli, buyuk kohin, va butun xalq qoldigʻi Yahve, oʻz Elohimining ovoziga va Haggay paygʻambarning soʻzlariga quloq soldilar — Yahve, oʻz Elohimlari uni yuborganidek; va xalq Yahve yuzidan qoʻrqdi.",
+  "translation": "Va Zerubavel, Shealtielning oʻgʻli, va Yahoshua, Yehotsadoqning oʻgʻli, buyuk kohin, va butun xalq qoldigʻi Yahve, oʻz Elohimining ovoziga va Haggay nabiyning soʻzlariga quloq soldilar — Yahve, oʻz Elohimlari uni yuborganidek; va xalq Yahve yuzidan qoʻrqdi.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambarning"
+      "gloss": "nabiyning"
     },
     {
       "surface": "כאשר",
@@ -117,5 +117,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:51:23.062086487Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarning": "nabiyning"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

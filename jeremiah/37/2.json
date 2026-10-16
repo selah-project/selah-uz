@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 37,
-  "translation": "Va eshitmadi u va uning xizmatkorlari va mamlakat xalqi Yahvening soʻzlariga, soʻzlariga — uni Yirmeyaxu paygʻambar qoʻli bilan soʻlagan.",
+  "translation": "Va eshitmadi u va uning xizmatkorlari va mamlakat xalqi Yahvening soʻzlariga, soʻzlariga — uni Yirmeyaxu nabiy qoʻli bilan soʻlagan.",
   "tokens": [
     {
       "surface": "ולא",
@@ -61,9 +61,16 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     }
   ],
   "timestamp": "2026-08-26T04:59:35.065332251Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

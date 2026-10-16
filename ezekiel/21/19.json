@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 21,
-  "translation": "Va sen, odam oʻgʻli, paygʻambarlik qil va kaftni kaftga ur; va qilich uchinchi marta takrorlansin — oʻldirilganlar qilichi: u buyuk oʻldirilgan qilichi, ularga yaqinlashgan.",
+  "translation": "Va sen, odam oʻgʻli, nabiylik qil va kaftni kaftga ur; va qilich uchinchi marta takrorlansin — oʻldirilganlar qilichi: u buyuk oʻldirilgan qilichi, ularga yaqinlashgan.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "paygʻambarlik qil"
+      "gloss": "nabiylik qil"
     },
     {
       "surface": "והך",
@@ -85,5 +85,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:18:34.496940525Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

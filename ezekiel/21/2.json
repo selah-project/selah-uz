@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 21,
-  "translation": "Odam bola, yuzingni janub tomonga qarat va soʻzni janubga tomizgin, va Negevdagi dala oʻrmoniga paygʻambarlik qilgin:",
+  "translation": "Odam bola, yuzingni janub tomonga qarat va soʻzni janubga tomizgin, va Negevdagi dala oʻrmoniga nabiylik qilgin:",
   "tokens": [
     {
       "surface": "בן",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "והנבא",
-      "gloss": "va paygʻambarlik qilgin"
+      "gloss": "va nabiylik qilgin"
     },
     {
       "surface": "אל",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:18:17.049752098Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

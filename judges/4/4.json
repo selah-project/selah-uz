@@ -5,7 +5,7 @@
   "book": "judges",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va Devora — paygʻambar ayol, Lapidotning xotini — u oʻsha paytda Isroilni ⟨את⟩ hukm qilardi.",
+  "translation": "Va Devora — nabiy ayol, Lapidotning xotini — u oʻsha paytda Isroilni ⟨את⟩ hukm qilardi.",
   "tokens": [
     {
       "surface": "ודבורה",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נביאה",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "אשת",
@@ -54,5 +54,12 @@
     }
   ],
   "timestamp": "2026-08-26T02:27:59.782038805Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Va kohinlarga va butun bu xalqga gapirdim: „Shunday deydi Yahve: Sizlarga paygʻambar qilib gapirayotgan paygʻambarlaringizning soʻzlariga — „qarang, Yahve uyining idishlari endi tezda Bobildan qaytarilmoqda“ degan soʻzlarga quloq solmanglar, chunki ular sizlarga yolgʻon paygʻambarlik qilmoqdalar.",
+  "translation": "Va kohinlarga va butun bu xalqga gapirdim: „Shunday deydi Yahve: Sizlarga nabiy qilib gapirayotgan nabiylaringizning soʻzlariga — „qarang, Yahve uyining idishlari endi tezda Bobildan qaytarilmoqda“ degan soʻzlarga quloq solmanglar, chunki ular sizlarga yolgʻon nabiylik qilmoqdalar.",
   "tokens": [
     {
       "surface": "ואל",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "נביאיכם",
-      "gloss": "paygʻambarlaringizning"
+      "gloss": "nabiylaringizning"
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlik qilayotgan"
+      "gloss": "nabiylik qilayotgan"
     },
     {
       "surface": "לכם",
@@ -129,7 +129,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "paygʻambarlik qilmoqdalar"
+      "gloss": "nabiylik qilmoqdalar"
     },
     {
       "surface": "לכם",
@@ -137,5 +137,14 @@
     }
   ],
   "timestamp": "2026-08-26T09:55:57.060979805Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy",
+      "paygʻambarlaringizning": "nabiylaringizning",
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

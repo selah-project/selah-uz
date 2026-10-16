@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "uz",
   "chapter": 7,
-  "translation": "podshoh Natan paygʻambar ga ayondi: Qaragin, endi men sadr yogʻochidan uyda yashayman, Elohim sandigʻi esa parda oʻrtasida yashamoqda.",
+  "translation": "podshoh Natan nabiy ga ayondi: Qaragin, endi men sadr yogʻochidan uyda yashayman, Elohim sandigʻi esa parda oʻrtasida yashamoqda.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ראה",
@@ -73,5 +73,12 @@
     }
   ],
   "timestamp": "2026-08-26T03:07:41.690679951Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

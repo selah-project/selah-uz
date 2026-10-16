@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va Yahve sizlarga barcha oʻz qullarini — paygʻambarlarni — ⟨את⟩ yubordi, erta turib yubordi, ammo siz eshitmadingiz va quloqlaringizni ⟨את⟩ eshitishga qilmadingiz.",
+  "translation": "Va Yahve sizlarga barcha oʻz qullarini — nabiylarni — ⟨את⟩ yubordi, erta turib yubordi, ammo siz eshitmadingiz va quloqlaringizni ⟨את⟩ eshitishga qilmadingiz.",
   "tokens": [
     {
       "surface": "ושלח",
@@ -34,7 +34,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlarni"
+      "gloss": "nabiylarni"
     },
     {
       "surface": "השכם",
@@ -75,5 +75,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:51:41.124864043Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarni": "nabiylarni"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

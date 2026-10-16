@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 36,
-  "translation": "Shuning uchun paygʻambarlik qil Yisroil tuprogʻi ustiga va togʻlarga, tepaliklarga, soylarga va vodiylarga deysan: shunday dedi Adonay Yahve: mana Men — oʻz hasadimda va oʻz gʻazabimda gapirdim, chunki millatlar sharmandaligʻini siz koʻtardingiz.",
+  "translation": "Shuning uchun nabiylik qil Yisroil tuprogʻi ustiga va togʻlarga, tepaliklarga, soylarga va vodiylarga deysan: shunday dedi Adonay Yahve: mana Men — oʻz hasadimda va oʻz gʻazabimda gapirdim, chunki millatlar sharmandaligʻini siz koʻtardingiz.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "paygʻambarlik qil"
+      "gloss": "nabiylik qil"
     },
     {
       "surface": "על",
@@ -97,5 +97,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:27:43.447996256Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

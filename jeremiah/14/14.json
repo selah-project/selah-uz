@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Va Yahve menga aytdi: Yolgʻon — paygʻambarlar Mening ismim bilan paygʻambarlik qilmoqdalar; men ularni yubormadim va ularga buyurmaganman va ular bilan gapurmaganman; yolgʻon koʻrgulik va folochilik va behuda narsa va yuraklarining aldovi — ular sizlarga paygʻambarlik qilmoqdalar.",
+  "translation": "Va Yahve menga aytdi: Yolgʻon — nabiylar Mening ismim bilan nabiylik qilmoqdalar; men ularni yubormadim va ularga buyurmaganman va ular bilan gapurmaganman; yolgʻon koʻrgulik va folochilik va behuda narsa va yuraklarining aldovi — ular sizlarga nabiylik qilmoqdalar.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "נבאים",
-      "gloss": "paygʻambarlik qilmoqdalar"
+      "gloss": "nabiylik qilmoqdalar"
     },
     {
       "surface": "בשמי",
@@ -93,7 +93,7 @@
     },
     {
       "surface": "מתנבאים",
-      "gloss": "paygʻambarlik qilmoqdalar"
+      "gloss": "nabiylik qilmoqdalar"
     },
     {
       "surface": "לכם",
@@ -101,5 +101,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:46:51.674957213Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar",
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

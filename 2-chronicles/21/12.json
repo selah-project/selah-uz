@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 21,
-  "translation": "Va unga Eliyahu paygʻambaridan yozuv keldi, deyishicha: Shunday dedi Dovudning, otangning, Elohimi Yahve: chunki otang Yehoshafatning yoʻllarida va Yehuda qiroli Asaning yoʻllarida yurmading.",
+  "translation": "Va unga Eliyahu nabiyidan yozuv keldi, deyishicha: Shunday dedi Dovudning, otangning, Elohimi Yahve: chunki otang Yehoshafatning yoʻllarida va Yehuda qiroli Asaning yoʻllarida yurmading.",
   "tokens": [
     {
       "surface": "ויבא",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "לאמר",
@@ -101,5 +101,13 @@
     }
   ],
   "timestamp": "2026-08-26T08:11:17.704484649Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambaridan": "nabiyidan",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

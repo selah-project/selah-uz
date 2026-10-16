@@ -5,7 +5,7 @@
   "book": "hosea",
   "lang": "uz",
   "chapter": 9,
-  "translation": "Kuzatuvchi — Efrayim, Elohimim bilan; payg'ambar — qushchining tuzog'i barcha yo'llarida ⟨ustida⟩, adovat — uyida Elohimining.",
+  "translation": "Kuzatuvchi — Efrayim, Elohimim bilan; nabiy — qushchining tuzog'i barcha yo'llarida ⟨ustida⟩, adovat — uyida Elohimining.",
   "tokens": [
     {
       "surface": "צפה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "payg'ambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "פח",
@@ -61,5 +61,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:36:43.662504601Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "payg'ambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

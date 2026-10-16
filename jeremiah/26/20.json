@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Va yana bor edi erkak, Yahve nomi bilan paygʻambarlik qilardi — Uriyaxu, Shemayaxuning oʻgʻli, Kiryat-Yearimdan — va u paygʻambarlik qildi bu shaharga va bu yerga qarshi, Yirmiyaxuning barcha soʻzlari boʻyicha.",
+  "translation": "Va yana bor edi erkak, Yahve nomi bilan nabiylik qilardi — Uriyaxu, Shemayaxuning oʻgʻli, Kiryat-Yearimdan — va u nabiylik qildi bu shaharga va bu yerga qarshi, Yirmiyaxuning barcha soʻzlari boʻyicha.",
   "tokens": [
     {
       "surface": "וגם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "מתנבא",
-      "gloss": "paygʻambarlik qilardi"
+      "gloss": "nabiylik qilardi"
     },
     {
       "surface": "בשם",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "וינבא",
-      "gloss": "va paygʻambarlik qildi"
+      "gloss": "va nabiylik qildi"
     },
     {
       "surface": "על",
@@ -93,5 +93,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:52:30.682992597Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

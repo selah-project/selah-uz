@@ -5,7 +5,7 @@
   "book": "ezra",
   "lang": "uz",
   "chapter": 6,
-  "translation": "Va Yahudiya oqsoqollari qurdilar va muvaffaqiyat topdilar Xaggay paygʻambar va Zekharya, Iddoning oʻgʻlining paygʻambarligi bilan; va qurdilar va tamomladilar Elaha, Isroil ⟨Xudosining⟩ buyrugʻi boʻyicha va Koresh, Daryavesh va Artaxshashta, Paras podshosi buyrugʻi boʻyicha.",
+  "translation": "Va Yahudiya oqsoqollari qurdilar va muvaffaqiyat topdilar Xaggay nabiy va Zekharya, Iddoning oʻgʻlining nabiyligi bilan; va qurdilar va tamomladilar Elaha, Isroil ⟨Xudosining⟩ buyrugʻi boʻyicha va Koresh, Daryavesh va Artaxshashta, Paras podshosi buyrugʻi boʻyicha.",
   "tokens": [
     {
       "surface": "ושבי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "בנבואת",
-      "gloss": "paygʻambarligi bilan"
+      "gloss": "nabiyligi bilan"
     },
     {
       "surface": "חגי",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "נביאה",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "וזכריה",
@@ -97,5 +97,13 @@
     }
   ],
   "timestamp": "2026-08-26T07:38:52.600711975Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy",
+      "paygʻambarligi": "nabiyligi"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

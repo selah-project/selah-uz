@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 32,
-  "translation": "Chunki Tsidkiyahu, Yehuda qiro­li, uni qamab olgan, degan: Nega sen paygʻambarlik qilib: Shunday deydi Yahve: Mana, Men ⟨את⟩ bu shaharni Bobil qiro­lining qoʻliga beraman va u uni egallaydi, deysan?",
+  "translation": "Chunki Tsidkiyahu, Yehuda qiro­li, uni qamab olgan, degan: Nega sen nabiylik qilib: Shunday deydi Yahve: Mana, Men ⟨את⟩ bu shaharni Bobil qiro­lining qoʻliga beraman va u uni egallaydi, deysan?",
   "tokens": [
     {
       "surface": "אשר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "נבא",
-      "gloss": "paygʻambarlik qilib"
+      "gloss": "nabiylik qilib"
     },
     {
       "surface": "לאמר",
@@ -98,5 +98,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:55:24.668083270Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

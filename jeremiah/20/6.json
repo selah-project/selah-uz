@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va sen, Pashhur, va butun uyingda yashovchilar asirlikka borursizlar; va Bobilga kelasan, va u yerda oʻlasan, va u yerda dafn etilasan — sen, va butun doʻstlaring, kimgaki ularga yolgʻon bilan paygʻambarlik qilding.",
+  "translation": "Va sen, Pashhur, va butun uyingda yashovchilar asirlikka borursizlar; va Bobilga kelasan, va u yerda oʻlasan, va u yerda dafn etilasan — sen, va butun doʻstlaring, kimgaki ularga yolgʻon bilan nabiylik qilding.",
   "tokens": [
     {
       "surface": "ואתה",
@@ -77,7 +77,7 @@
     },
     {
       "surface": "נבאת",
-      "gloss": "paygʻambarlik qilding"
+      "gloss": "nabiylik qilding"
     },
     {
       "surface": "להם",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:49:31.451107824Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va paygʻambar oʻgʻillari xotinlaridan bittasi Elisaga faryod qilib dedi: „Sening bandaing — mening erim — oʻldi, va sen bilasanki, banang Yahvedan ⟨את⟩ qoʻrqardi; endi qarz berguvchi kelib, unga qullar qilish uchun ⟨את⟩ ikki bolamni olib ketmoqchi.”",
+  "translation": "Va nabiy oʻgʻillari xotinlaridan bittasi Elisaga faryod qilib dedi: „Sening bandaing — mening erim — oʻldi, va sen bilasanki, banang Yahvedan ⟨את⟩ qoʻrqardi; endi qarz berguvchi kelib, unga qullar qilish uchun ⟨את⟩ ikki bolamni olib ketmoqchi.”",
   "tokens": [
     {
       "surface": "ואשה",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "צעקה",
@@ -123,5 +123,12 @@
     }
   ],
   "timestamp": "2026-08-26T03:49:09.715239295Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

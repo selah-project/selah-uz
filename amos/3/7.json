@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Chunki Adonay Yahve soʻz qilmaydi, agar sirini ochmasa oʻz qullariga — paygʻambarlarga.",
+  "translation": "Chunki Adonay Yahve soʻz qilmaydi, agar sirini ochmasa oʻz qullariga — nabiylarga.",
   "tokens": [
     {
       "surface": "כי",
@@ -57,9 +57,17 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     }
   ],
   "timestamp": "2026-08-26T05:40:44.416036351Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarga": "nabiylarga",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

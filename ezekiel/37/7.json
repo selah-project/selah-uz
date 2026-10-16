@@ -5,11 +5,11 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 37,
-  "translation": "Va buyruq berganidek paygʻambarlik qildim; va paygʻambarlik qilayotganimda ovoz boʻldi, va mana, zilzila — va suyaklar yaqinlashdilar, suyak oʻz suyagiga.",
+  "translation": "Va buyruq berganidek nabiylik qildim; va nabiylik qilayotganimda ovoz boʻldi, va mana, zilzila — va suyaklar yaqinlashdilar, suyak oʻz suyagiga.",
   "tokens": [
     {
       "surface": "ונבאתי",
-      "gloss": "Va paygʻambarlik qildim"
+      "gloss": "Va nabiylik qildim"
     },
     {
       "surface": "כאשר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "כהנבאי",
-      "gloss": "paygʻambarlik qilayotganimda"
+      "gloss": "nabiylik qilayotganimda"
     },
     {
       "surface": "והנה",
@@ -61,5 +61,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:27:13.539923126Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

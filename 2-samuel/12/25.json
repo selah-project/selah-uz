@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Va Yahve yubordi qoʻli orqali Natan paygʻambarni, va u ⟨את⟩ uning ismini Yedidyax deb atadi, Yahve tufayli.",
+  "translation": "Va Yahve yubordi qoʻli orqali Natan nabiyni, va u ⟨את⟩ uning ismini Yedidyax deb atadi, Yahve tufayli.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ויקרא",
@@ -50,5 +50,13 @@
     }
   ],
   "timestamp": "2026-08-26T03:09:55.548142122Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarni": "nabiyni",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

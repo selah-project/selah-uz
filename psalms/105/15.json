@@ -5,7 +5,7 @@
   "book": "psalms",
   "lang": "uz",
   "chapter": 105,
-  "translation": "Moylanganlarimga tegmang va paygʻambarlarimga yomonlik qilmang.",
+  "translation": "Moylanganlarimga tegmang va nabiylarimga yomonlik qilmang.",
   "tokens": [
     {
       "surface": "אל",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "ולנביאי",
-      "gloss": "va paygʻambarlarimga"
+      "gloss": "va nabiylarimga"
     },
     {
       "surface": "אל",
@@ -33,5 +33,12 @@
     }
   ],
   "timestamp": "2026-08-26T10:01:13.675016773Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarimga": "nabiylarimga"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

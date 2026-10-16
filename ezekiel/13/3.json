@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Shunday deydi Adonay Yahve: voy oʻsha nodon paygʻambarlarga — oʻz ruhlari ortidan yuruvchi va hech narsani koʻrmaganlarga!",
+  "translation": "Shunday deydi Adonay Yahve: voy oʻsha nodon nabiylarga — oʻz ruhlari ortidan yuruvchi va hech narsani koʻrmaganlarga!",
   "tokens": [
     {
       "surface": "כה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "הנבלים",
@@ -65,5 +65,13 @@
     }
   ],
   "timestamp": "2026-08-26T05:12:52.007048700Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarga": "nabiylarga",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

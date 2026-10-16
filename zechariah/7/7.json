@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Magar ⟨את⟩ soʻzlarni — Yahve avvalgi paygʻambarlar qoʻli orqali eʼlon qilgan soʻzlarni — eshitmasangiz kerakmi? Yerushalaim yashab turganida, farovon boʻlganida, atrofidagi shaharlari bilan, Janubiy oʻlka va Pasttekislik yashab turganida?",
+  "translation": "Magar ⟨את⟩ soʻzlarni — Yahve avvalgi nabiylar qoʻli orqali eʼlon qilgan soʻzlarni — eshitmasangiz kerakmi? Yerushalaim yashab turganida, farovon boʻlganida, atrofidagi shaharlari bilan, Janubiy oʻlka va Pasttekislik yashab turganida?",
   "tokens": [
     {
       "surface": "הלוא",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "הראשנים",
@@ -82,5 +82,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:41:42.888711079Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

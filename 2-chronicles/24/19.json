@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 24,
-  "translation": "Va ⟨U⟩ ularga payg'ambarlar yubordi — ularni Yahvega qaytarish uchun; va ular ular ustiga guvohlik berdilar, ammo ular quloq solmadi.",
+  "translation": "Va ⟨U⟩ ularga nabiylar yubordi — ularni Yahvega qaytarish uchun; va ular ular ustiga guvohlik berdilar, ammo ular quloq solmadi.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "payg'ambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "להשיבם",
@@ -49,5 +49,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:13:12.490692111Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "payg'ambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

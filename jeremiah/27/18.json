@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 27,
-  "translation": "Va agar ular paygʻambarlar boʻlsa va agar Yahvening soʻzi ⟨את⟩ ular bilan boʻlsa, iltijo qilsinkilar, endi, Yahve Tsevaotdan — ⟨buning uchun⟩ ki bormasinlar idishlar, qolgan idishlar Yahvening uyida va Yahudoh shohining uyida va Yerushalaimda, Bobilga.",
+  "translation": "Va agar ular nabiylar boʻlsa va agar Yahvening soʻzi ⟨את⟩ ular bilan boʻlsa, iltijo qilsinkilar, endi, Yahve Tsevaotdan — ⟨buning uchun⟩ ki bormasinlar idishlar, qolgan idishlar Yahvening uyida va Yahudoh shohining uyida va Yerushalaimda, Bobilga.",
   "tokens": [
     {
       "surface": "ואם",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "הם",
@@ -102,5 +102,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:53:47.470106458Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

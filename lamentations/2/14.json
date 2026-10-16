@@ -5,11 +5,11 @@
   "book": "lamentations",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Paygʻambarlaring senga soxta va mazasiz narsalarni koʻrdilar, va gunhoringni ochib bermadilar sening surgunlikni qaytarish uchun, balki senga soxta yuklamalar va aldashlarni koʻrdilar.",
+  "translation": "Nabiylaring senga soxta va mazasiz narsalarni koʻrdilar, va gunhoringni ochib bermadilar sening surgunlikni qaytarish uchun, balki senga soxta yuklamalar va aldashlarni koʻrdilar.",
   "tokens": [
     {
       "surface": "נביאיך",
-      "gloss": "paygʻambarlaring"
+      "gloss": "nabiylaring"
     },
     {
       "surface": "חזו",
@@ -73,5 +73,13 @@
     }
   ],
   "timestamp": "2026-08-26T07:15:59.066181929Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Paygʻambarlaring": "Nabiylaring",
+      "paygʻambarlaring": "nabiylaring"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

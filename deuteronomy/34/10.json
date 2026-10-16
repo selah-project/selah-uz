@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 34,
-  "translation": "Va Yisroilda Mohegacha paygʻambar yana turmadi — uni Yahve yuzma-yuz tanigandi.",
+  "translation": "Va Yisroilda Mohegacha nabiy yana turmadi — uni Yahve yuzma-yuz tanigandi.",
   "tokens": [
     {
       "surface": "ולא",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "עוד",
@@ -57,5 +57,12 @@
     }
   ],
   "timestamp": "2026-08-26T02:10:10.975762756Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

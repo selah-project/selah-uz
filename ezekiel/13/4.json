@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Tulki kabi xarobalarda — Isroil, sening paygʻambarlaringiz shunday boʻlgan.",
+  "translation": "Tulki kabi xarobalarda — Isroil, sening nabiylaringiz shunday boʻlgan.",
   "tokens": [
     {
       "surface": "כשעלים",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נביאיך",
-      "gloss": "paygʻambarlaringiz"
+      "gloss": "nabiylaringiz"
     },
     {
       "surface": "ישראל",
@@ -29,5 +29,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:12:52.007169827Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlaringiz": "nabiylaringiz"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

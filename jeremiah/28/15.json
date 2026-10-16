@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Va Yeremiya paygʻambar Xananya paygʻambar aytdi: Tingla endi, Xananya! Yahve seni yubormagan, va sen bu xalqni ⟨את⟩ yolgʻonga ishontirding.",
+  "translation": "Va Yeremiya nabiy Xananya nabiy aytdi: Tingla endi, Xananya! Yahve seni yubormagan, va sen bu xalqni ⟨את⟩ yolgʻonga ishontirding.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "שמע",
@@ -86,5 +86,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:54:40.847963591Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

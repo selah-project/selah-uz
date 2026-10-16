@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Otalaringiz Misr yeridan chiqqan kundan bu kungacha men sizlarga ⟨את⟩ barcha xizmatkorlarimni — paygʻambarlarni — erta turib, yuborib kelmoqdaman.",
+  "translation": "Otalaringiz Misr yeridan chiqqan kundan bu kungacha men sizlarga ⟨את⟩ barcha xizmatkorlarimni — nabiylarni — erta turib, yuborib kelmoqdaman.",
   "tokens": [
     {
       "surface": "למן",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlarni"
+      "gloss": "nabiylarni"
     },
     {
       "surface": "יום",
@@ -86,5 +86,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:43:10.683612936Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarni": "nabiylarni"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

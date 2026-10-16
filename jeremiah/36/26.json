@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 36,
-  "translation": "Va podshoh Yeraxmaelni — podshoh oʻgʻlini — va Serayahunı, Azriel oʻgʻlini, va Shelemayahunı, Avdeel oʻgʻlini Barux kotibni va YirmeYahu paygʻambarni olishga buyurdi, va Yahve ularni yashirdi.",
+  "translation": "Va podshoh Yeraxmaelni — podshoh oʻgʻlini — va Serayahunı, Azriel oʻgʻlini, va Shelemayahunı, Avdeel oʻgʻlini Barux kotibni va YirmeYahu nabiyni olishga buyurdi, va Yahve ularni yashirdi.",
   "tokens": [
     {
       "surface": "ויצוה",
@@ -94,7 +94,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ויסתרם",
@@ -106,5 +106,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:59:42.337752519Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarni": "nabiyni",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

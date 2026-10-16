@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Yedutunga — Yedutun oʻgʻillari: Gedalyahu va Tseri va Yeshayahu, Xashavyahu va Mattityahu — oltitalik, otalari Yedutun qoʻllari ostida, kinor bilan paygʻambarlik qiluvchi ⟨edi⟩, Yahvega minnatdorchilik va maqtovlarda.",
+  "translation": "Yedutunga — Yedutun oʻgʻillari: Gedalyahu va Tseri va Yeshayahu, Xashavyahu va Mattityahu — oltitalik, otalari Yedutun qoʻllari ostida, kinor bilan nabiylik qiluvchi ⟨edi⟩, Yahvega minnatdorchilik va maqtovlarda.",
   "tokens": [
     {
       "surface": "לידותון",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "paygʻambarlik qiluvchi"
+      "gloss": "nabiylik qiluvchi"
     },
     {
       "surface": "על",
@@ -85,5 +85,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:02:23.776329613Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

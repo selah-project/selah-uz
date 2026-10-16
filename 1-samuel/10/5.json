@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 10,
-  "translation": "Bundan keyin sen Elohim tepaligiga kelasan — u yerda Pelishtiy navkarlari ⟨bor⟩; va shaharga kelganingda u yerda balandlikdan tushayotgan paygʻambarlar guruhi bilan uchraysan, ularning oldida arfa, doira, fleyta va chertma ⟨turadi⟩, va ular paygʻambarlik qilmoqdalar.",
+  "translation": "Bundan keyin sen Elohim tepaligiga kelasan — u yerda Pelishtiy navkarlari ⟨bor⟩; va shaharga kelganingda u yerda balandlikdan tushayotgan nabiylar guruhi bilan uchraysan, ularning oldida arfa, doira, fleyta va chertma ⟨turadi⟩, va ular nabiylik qilmoqdalar.",
   "tokens": [
     {
       "surface": "אחר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "נביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "ירדים",
@@ -105,9 +105,17 @@
     },
     {
       "surface": "מתנבאים",
-      "gloss": "paygʻambarlik qilmoqdalar"
+      "gloss": "nabiylik qilmoqdalar"
     }
   ],
   "timestamp": "2026-08-26T02:45:30.020353019Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar",
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

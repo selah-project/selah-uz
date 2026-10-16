@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Va Yerushalaim paygʻambarlarida dahshatli narsa koʻrdim: uxoʻblik qilish va yolgʻonda yurish; va ular yovulmar qoʻllarini mustahkamladilar — har bir kishi oʻz yomonligidan qaytmasin deb; ularning hammasi Menga Sodomdek, uning istiqomatgohlari esa Amoradek boʻldi.",
+  "translation": "Va Yerushalaim nabiylarida dahshatli narsa koʻrdim: uxoʻblik qilish va yolgʻonda yurish; va ular yovulmar qoʻllarini mustahkamladilar — har bir kishi oʻz yomonligidan qaytmasin deb; ularning hammasi Menga Sodomdek, uning istiqomatgohlari esa Amoradek boʻldi.",
   "tokens": [
     {
       "surface": "ובנבאי",
-      "gloss": "va ... paygʻambarlarida"
+      "gloss": "va ... nabiylarida"
     },
     {
       "surface": "ירושלם",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-08-26T09:56:09.039922623Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarida": "nabiylarida"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

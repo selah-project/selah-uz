@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Va boʻldi, Izabel Yahvening ⟨את⟩ paygʻambarlarini qirib tashlaganda, Obadyahu yuz paygʻambarni oldi va ularni yashirdi — ellik kishini bir gʻorda — va ularni non va suv bilan boqdi.",
+  "translation": "Va boʻldi, Izabel Yahvening ⟨את⟩ nabiylarini qirib tashlaganda, Obadyahu yuz nabiyni oldi va ularni yashirdi — ellik kishini bir gʻorda — va ularni non va suv bilan boqdi.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "paygʻambarlari"
+      "gloss": "nabiylari"
     },
     {
       "surface": "יהוה",
@@ -46,7 +46,7 @@
     },
     {
       "surface": "נבאים",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ויחביאם",
@@ -78,5 +78,15 @@
     }
   ],
   "timestamp": "2026-08-26T03:41:10.000536550Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarini": "nabiylarini",
+      "paygʻambarni": "nabiyni",
+      "paygʻambarlari": "nabiylari",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

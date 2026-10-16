@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Otalarlaringiz — qayerda ⟨ular⟩? Va paygʻambarlar — abadiy yashaydilarmi?",
+  "translation": "Otalarlaringiz — qayerda ⟨ular⟩? Va nabiylar — abadiy yashaydilarmi?",
   "tokens": [
     {
       "surface": "אבותיכם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "והנבאים",
-      "gloss": "Va paygʻambarlar"
+      "gloss": "Va nabiylar"
     },
     {
       "surface": "הלעולם",
@@ -33,5 +33,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:51:44.817106399Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 18,
-  "translation": "ki paygʻambar Yahve nomi bilan gapiradi va soʻz boʻlmaydi va roʻy bermaydi — ⟨u⟩ ⟨soʻz⟩dir ki uni Yahve gapirmagan; jasorat bilan gapirdi uni paygʻambar; undan qoʻrqma.",
+  "translation": "ki nabiy Yahve nomi bilan gapiradi va soʻz boʻlmaydi va roʻy bermaydi — ⟨u⟩ ⟨soʻz⟩dir ki uni Yahve gapirmagan; jasorat bilan gapirdi uni nabiy; undan qoʻrqma.",
   "tokens": [
     {
       "surface": "אשר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "בשם",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "לא",
@@ -97,5 +97,12 @@
     }
   ],
   "timestamp": "2026-08-26T01:57:39.995622479Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

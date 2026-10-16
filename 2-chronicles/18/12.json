@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Va Mixayyuni chaqirishga borgan elchi unga shunday dedi: Qarang, paygʻambarlarning soʻzlari ogʻiz birlik bilan podshohga yaxshilik aytyapti; iltimos, sening soʻzing ham ularning bittasidaysi boʻlsin va sen yaxshilik gapirgin.",
+  "translation": "Va Mixayyuni chaqirishga borgan elchi unga shunday dedi: Qarang, nabiylarning soʻzlari ogʻiz birlik bilan podshohga yaxshilik aytyapti; iltimos, sening soʻzing ham ularning bittasidaysi boʻlsin va sen yaxshilik gapirgin.",
   "tokens": [
     {
       "surface": "והמלאך",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlarning"
+      "gloss": "nabiylarning"
     },
     {
       "surface": "פה",
@@ -101,5 +101,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:10:13.748901634Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarning": "nabiylarning"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

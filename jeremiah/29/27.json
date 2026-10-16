@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 29,
-  "translation": "Va endi nega sen tanbeh bermading Yeremyaga, Anatotlikka — sizga oʻzini paygʻambar qilib yurganga?",
+  "translation": "Va endi nega sen tanbeh bermading Yeremyaga, Anatotlikka — sizga oʻzini nabiy qilib yurganga?",
   "tokens": [
     {
       "surface": "ועתה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "המתנבא",
-      "gloss": "oʻzini paygʻambar qilib yurgan"
+      "gloss": "oʻzini nabiy qilib yurgan"
     },
     {
       "surface": "לכם",
@@ -41,5 +41,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:55:18.038716976Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

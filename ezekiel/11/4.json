@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Shuning uchun ular haqida paygʻambarlik qil, paygʻambarlik qil, ey odam oʻgʻli.",
+  "translation": "Shuning uchun ular haqida nabiylik qil, nabiylik qil, ey odam oʻgʻli.",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "paygʻambarlik qil"
+      "gloss": "nabiylik qil"
     },
     {
       "surface": "עליהם",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "paygʻambarlik qil"
+      "gloss": "nabiylik qil"
     },
     {
       "surface": "בן",
@@ -33,5 +33,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:38:38.671569716Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

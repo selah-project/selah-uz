@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 5,
-  "translation": "U dedi: tinchlik; menga xoʻjayinim shuni aytib yubordi: qar-a endi, Efrayim togʻidan, paygʻambar oʻgʻillaridan ikki yigit oldimga keldi; ularga iltimos bilan bir kikor kumush va ikki almashtiriladigan kiyim ber.",
+  "translation": "U dedi: tinchlik; menga xoʻjayinim shuni aytib yubordi: qar-a endi, Efrayim togʻidan, nabiy oʻgʻillaridan ikki yigit oldimga keldi; ularga iltimos bilan bir kikor kumush va ikki almashtiriladigan kiyim ber.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -69,7 +69,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "תנה",
@@ -105,5 +105,12 @@
     }
   ],
   "timestamp": "2026-08-26T03:50:50.801907845Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

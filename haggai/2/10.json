@@ -5,7 +5,7 @@
   "book": "haggai",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Oyning yigirmata toʻqqizinchi kunida, Daryavushning ikkinchi yilida, Yahvening soʻzi Haggay paygʻambarga boʻldi, degan:",
+  "translation": "Oyning yigirmata toʻqqizinchi kunida, Daryavushning ikkinchi yilida, Yahvening soʻzi Haggay nabiyga boʻldi, degan:",
   "tokens": [
     {
       "surface": "בעשרים",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "לאמר",
@@ -61,5 +61,13 @@
     }
   ],
   "timestamp": "2026-08-26T05:50:30.715931532Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarga": "nabiyga",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

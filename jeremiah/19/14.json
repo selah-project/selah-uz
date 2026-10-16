@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Va Yirmeyahu u yernga — u erga Yahve uni payg'ambarlik qilishga yuborgan — To'fexdan qaytdi, va Yahve uyining hovlisida turdi va butun xalqga aytdi:",
+  "translation": "Va Yirmeyahu u yernga — u erga Yahve uni nabiylik qilishga yuborgan — To'fexdan qaytdi, va Yahve uyining hovlisida turdi va butun xalqga aytdi:",
   "tokens": [
     {
       "surface": "ויבא",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "להנבא",
-      "gloss": "payg'ambarlik qilishga"
+      "gloss": "nabiylik qilishga"
     },
     {
       "surface": "ויעמד",
@@ -73,5 +73,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:48:32.702420675Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "payg'ambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

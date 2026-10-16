@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 12,
-  "translation": "Va u dedi: endi soʻzlarimni eshitinglar; agar sizning paygʻambaringiz boʻlsa — Yahve, koʻrinishda Oʻzini unga tanitadi, tushda uning bilan gapiradi.",
+  "translation": "Va u dedi: endi soʻzlarimni eshitinglar; agar sizning nabiyingiz boʻlsa — Yahve, koʻrinishda Oʻzini unga tanitadi, tushda uning bilan gapiradi.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "נביאכם",
-      "gloss": "paygʻambaringiz"
+      "gloss": "nabiyingiz"
     },
     {
       "surface": "יהוה",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-26T01:33:20.159479946Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambaringiz": "nabiyingiz"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

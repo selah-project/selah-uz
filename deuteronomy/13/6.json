@@ -5,11 +5,11 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Va oʻsha paygʻambar yoki oʻsha tush koʻrgan kishi oʻldirilsin, chunki u Yahve Eloheyingiz — ⟨את⟩ sizni Misr yeridan chiqargan va sizni qullar uyidan qutqargan Zotga — isyon soʻzi gapirdi, sizni Yahve Eloheyingiz yurishni buyurgan yoʻldan chalgʻitish uchun; va yomonni oʻzingizning ortangizdan yoʻq qilasizlar.",
+  "translation": "Va oʻsha nabiy yoki oʻsha tush koʻrgan kishi oʻldirilsin, chunki u Yahve Eloheyingiz — ⟨את⟩ sizni Misr yeridan chiqargan va sizni qullar uyidan qutqargan Zotga — isyon soʻzi gapirdi, sizni Yahve Eloheyingiz yurishni buyurgan yoʻldan chalgʻitish uchun; va yomonni oʻzingizning ortangizdan yoʻq qilasizlar.",
   "tokens": [
     {
       "surface": "והנביא",
-      "gloss": "Va oʻsha paygʻambar"
+      "gloss": "Va oʻsha nabiy"
     },
     {
       "surface": "ההוא",
@@ -138,5 +138,12 @@
     }
   ],
   "timestamp": "2026-08-26T01:57:14.580167697Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

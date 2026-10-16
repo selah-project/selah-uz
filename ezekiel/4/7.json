@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 4,
-  "translation": "Va Yerushalaim qamaliga yuzingni qaratasan, va qoʻling ochiq (yalangʻoch) boʻlur, va sen unga qarshi paygʻambarlik qilasan.",
+  "translation": "Va Yerushalaim qamaliga yuzingni qaratasan, va qoʻling ochiq (yalangʻoch) boʻlur, va sen unga qarshi nabiylik qilasan.",
   "tokens": [
     {
       "surface": "ואל",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "ונבאת",
-      "gloss": "va paygʻambarlik qilasan"
+      "gloss": "va nabiylik qilasan"
     },
     {
       "surface": "עליה",
@@ -45,5 +45,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:09:14.389689837Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

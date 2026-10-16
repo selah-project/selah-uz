@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 1,
-  "translation": "Va qirol Dovud aytdi: Menga chaqiringlar Tsadok kohenni, va Natan paygʻambarni, va Benayahuni, Yehoyada oʻgʻlini. Va ular qirol huzuriga keldilar.",
+  "translation": "Va qirol Dovud aytdi: Menga chaqiringlar Tsadok kohenni, va Natan nabiyni, va Benayahuni, Yehoyada oʻgʻlini. Va ular qirol huzuriga keldilar.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambarni"
+      "gloss": "nabiyni"
     },
     {
       "surface": "ולבניהו",
@@ -69,5 +69,12 @@
     }
   ],
   "timestamp": "2026-08-26T03:25:41.898537336Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarni": "nabiyni"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 8,
-  "translation": "Oʻsha vaqtda, — deydi Yahve, — ular Yahudo qirollarining ⟨את⟩ suyaklarini va uning sarkardalarining ⟨את⟩ suyaklarini va kohinlarning ⟨את⟩ suyaklarini va paygʻambarlarning ⟨את⟩ suyaklarini va Yerushalaim aholisining ⟨את⟩ suyaklarini qabrlaridan chiqaradilar.",
+  "translation": "Oʻsha vaqtda, — deydi Yahve, — ular Yahudo qirollarining ⟨את⟩ suyaklarini va uning sarkardalarining ⟨את⟩ suyaklarini va kohinlarning ⟨את⟩ suyaklarini va nabiylarning ⟨את⟩ suyaklarini va Yerushalaim aholisining ⟨את⟩ suyaklarini qabrlaridan chiqaradilar.",
   "tokens": [
     {
       "surface": "בעת",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlarning"
+      "gloss": "nabiylarning"
     },
     {
       "surface": "ואת",
@@ -106,5 +106,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:43:51.083891982Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarning": "nabiylarning"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

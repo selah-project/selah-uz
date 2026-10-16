@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Chunki ham paygʻambar, ham kohén — ikkalasi ham muningib; hatto uyimda topdim ularning yomonligini, — Yahve neʼm degan.",
+  "translation": "Chunki ham nabiy, ham kohén — ikkalasi ham muningib; hatto uyimda topdim ularning yomonligini, — Yahve neʼm degan.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "גם",
@@ -57,5 +57,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:50:17.564052658Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

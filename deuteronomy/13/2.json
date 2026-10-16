@@ -5,7 +5,7 @@
   "book": "deuteronomy",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Agar oʻrtangizda paygʻambar turadi yoki tush koʻruvchi tush koʻradi, va sizga belgi yoki moʻjiza beradi —",
+  "translation": "Agar oʻrtangizda nabiy turadi yoki tush koʻruvchi tush koʻradi, va sizga belgi yoki moʻjiza beradi —",
   "tokens": [
     {
       "surface": "כי",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "או",
@@ -57,5 +57,12 @@
     }
   ],
   "timestamp": "2026-08-26T01:56:12.422980083Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

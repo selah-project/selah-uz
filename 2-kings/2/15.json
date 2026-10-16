@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Va uni Yerixodagi qarshisidagi paygʻambar oʻgʻillari koʻrdilar va dedilar: «Eliyahuning ruhi Elishe ustiga qoʻndi.» Va uning oldiga chiqdilar va unga yerga yuzi tushgan holda sajda qildilar.",
+  "translation": "Va uni Yerixodagi qarshisidagi nabiy oʻgʻillari koʻrdilar va dedilar: «Eliyahuning ruhi Elishe ustiga qoʻndi.» Va uning oldiga chiqdilar va unga yerga yuzi tushgan holda sajda qildilar.",
   "tokens": [
     {
       "surface": "ויראהו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "אשר",
@@ -77,5 +77,13 @@
     }
   ],
   "timestamp": "2026-08-26T03:47:51.307228542Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "uz",
   "chapter": 29,
-  "translation": "Va David podshohning ishlari, avvalgilari hamda oxirgilari — mana, ular yozilgan: Shemuel koʻruvchining soʻzlari ustida, va Natan paygʻambarning soʻzlari ustida, va Gad koʻruvchining soʻzlari ustida.",
+  "translation": "Va David podshohning ishlari, avvalgilari hamda oxirgilari — mana, ular yozilgan: Shemuel koʻruvchining soʻzlari ustida, va Natan nabiyning soʻzlari ustida, va Gad koʻruvchining soʻzlari ustida.",
   "tokens": [
     {
       "surface": "ודברי",
@@ -65,7 +65,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ועל",
@@ -85,5 +85,13 @@
     }
   ],
   "timestamp": "2026-08-26T08:03:55.682037704Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarning": "nabiyning",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

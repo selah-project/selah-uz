@@ -5,7 +5,7 @@
   "book": "micah",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Uning boshliqlari pora uchun hukm chiqaradilar, uning kohinlari haq evaziga oʻrgatadilar, uning paygʻambarlari kumush evaziga fol ochadilar, va Yahvega tayanganlar deb: „Yahve bizning oʻrtamizda emasmi? Yomonlik bizning ustimizga kelmaydi“ — ⟨deydilar⟩.",
+  "translation": "Uning boshliqlari pora uchun hukm chiqaradilar, uning kohinlari haq evaziga oʻrgatadilar, uning nabiylari kumush evaziga fol ochadilar, va Yahvega tayanganlar deb: „Yahve bizning oʻrtamizda emasmi? Yomonlik bizning ustimizga kelmaydi“ — ⟨deydilar⟩.",
   "tokens": [
     {
       "surface": "ראשיה",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "ונביאיה",
-      "gloss": "va uning paygʻambarlari"
+      "gloss": "va uning nabiylari"
     },
     {
       "surface": "בכסף",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:44:52.344145893Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlari": "nabiylari"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

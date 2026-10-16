@@ -5,7 +5,7 @@
   "book": "amos",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Sizlar esa nazirlarga ichirdingiz ⟨את⟩ vino va paygʻambarlarga buyruq berdingiz: „Paygʻambarlik qilmanglar“, deb.",
+  "translation": "Sizlar esa nazirlarga ichirdingiz ⟨את⟩ vino va nabiylarga buyruq berdingiz: „Nabiylik qilmanglar“, deb.",
   "tokens": [
     {
       "surface": "ותשקו",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "צויתם",
@@ -46,9 +46,19 @@
     },
     {
       "surface": "תנבאו",
-      "gloss": "paygʻambarlik qilmanglar"
+      "gloss": "nabiylik qilmanglar"
     }
   ],
   "timestamp": "2026-08-26T05:40:02.706986927Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarga": "nabiylarga",
+      "Paygʻambarlik": "Nabiylik",
+      "paygʻambarlar": "nabiylar",
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

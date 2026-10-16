@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Va Shmuel Shoulga aytdi: nima uchun meni bezovta qilding, ⟨את⟩ meni koʻtarib chiqarish uchun? Va Shoul aytdi: menga juda tor; Plishtimlar menga qarshi urushmoqda, va Elohim mendan yuz oʻgirdi va menga boshqa javob bermadi — na paygʻambarlar qoʻli bilan, na tushlar bilan; va seni chaqirdim, menga xabar berishing uchun — nima qilay?",
+  "translation": "Va Shmuel Shoulga aytdi: nima uchun meni bezovta qilding, ⟨את⟩ meni koʻtarib chiqarish uchun? Va Shoul aytdi: menga juda tor; Plishtimlar menga qarshi urushmoqda, va Elohim mendan yuz oʻgirdi va menga boshqa javob bermadi — na nabiylar qoʻli bilan, na tushlar bilan; va seni chaqirdim, menga xabar berishing uchun — nima qilay?",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -106,7 +106,7 @@
     },
     {
       "surface": "הנביאם",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "גם",
@@ -138,5 +138,12 @@
     }
   ],
   "timestamp": "2026-08-26T02:59:57.104423890Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

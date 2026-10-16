@@ -5,11 +5,11 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Paygʻambarlar — mendan oldin va sendan oldin, qadim zamonlardan boʻlganlar — koʻp yerlar va buyuk shohliklarga qarshi urush va yomonlik va vabo haqida paygʻambarlik qilganlar.",
+  "translation": "Nabiylar — mendan oldin va sendan oldin, qadim zamonlardan boʻlganlar — koʻp yerlar va buyuk shohliklarga qarshi urush va yomonlik va vabo haqida nabiylik qilganlar.",
   "tokens": [
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "אשר",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "וינבאו",
-      "gloss": "va paygʻambarlik qilganlar"
+      "gloss": "va nabiylik qilganlar"
     },
     {
       "surface": "אל",
@@ -77,5 +77,14 @@
     }
   ],
   "timestamp": "2026-08-26T04:55:00.429320732Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Paygʻambarlar": "Nabiylar",
+      "paygʻambarlik": "nabiylik",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

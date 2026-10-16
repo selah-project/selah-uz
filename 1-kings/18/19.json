@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Va endi yubor, menga Isroilning ⟨את⟩ barchasini Karmel togʻiga yigʻ, va Baalning paygʻambarlarini ⟨את⟩ — toʻrt yuz elliktasini, va Asheraning paygʻambarlarini — toʻrt yuztasini, Izevel dasturxoni yeganlarini.",
+  "translation": "Va endi yubor, menga Isroilning ⟨את⟩ barchasini Karmel togʻiga yigʻ, va Baalning nabiylarini ⟨את⟩ — toʻrt yuz elliktasini, va Asheraning nabiylarini — toʻrt yuztasini, Izevel dasturxoni yeganlarini.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "הבעל",
@@ -75,7 +75,7 @@
     },
     {
       "surface": "ונביאי",
-      "gloss": "va paygʻambarlar"
+      "gloss": "va nabiylar"
     },
     {
       "surface": "האשרה",
@@ -103,5 +103,13 @@
     }
   ],
   "timestamp": "2026-08-26T03:41:40.780178689Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarini": "nabiylarini",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

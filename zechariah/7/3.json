@@ -5,7 +5,7 @@
   "book": "zechariah",
   "lang": "uz",
   "chapter": 7,
-  "translation": "Kohinlarga — Yahve Tsevaot baytiga tegishlilariga — va paygʻambarlarga aytish uchun: „Beshinchi oyda yigʻlayinmi, oʻzimni tiyinmi, xuddi shu koʻp yillarda qilganimdek?“",
+  "translation": "Kohinlarga — Yahve Tsevaot baytiga tegishlilariga — va nabiylarga aytish uchun: „Beshinchi oyda yigʻlayinmi, oʻzimni tiyinmi, xuddi shu koʻp yillarda qilganimdek?“",
   "tokens": [
     {
       "surface": "לאמר",
@@ -41,7 +41,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "לאמר",
@@ -85,5 +85,13 @@
     }
   ],
   "timestamp": "2026-08-26T05:53:16.759768052Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarga": "nabiylarga",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

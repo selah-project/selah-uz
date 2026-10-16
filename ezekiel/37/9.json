@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 37,
-  "translation": "Va ⟨u⟩ menga dedi: Ruaxga paygʻambarlik qil, paygʻambarlik qil, odam oʻgʻli, va ruaxga ayt: Shunday deydi Adonay Yahve: Toʻrt ruaxdan kel, ey ruax, va bu oʻldirilganlarda pufla, va ⟨ular⟩ tirilsinlar.",
+  "translation": "Va ⟨u⟩ menga dedi: Ruaxga nabiylik qil, nabiylik qil, odam oʻgʻli, va ruaxga ayt: Shunday deydi Adonay Yahve: Toʻrt ruaxdan kel, ey ruax, va bu oʻldirilganlarda pufla, va ⟨ular⟩ tirilsinlar.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "paygʻambarlik qil"
+      "gloss": "nabiylik qil"
     },
     {
       "surface": "אל",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "paygʻambarlik qil"
+      "gloss": "nabiylik qil"
     },
     {
       "surface": "בן",
@@ -101,5 +101,12 @@
     }
   ],
   "timestamp": "2026-08-26T10:23:50.321736830Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va lagerda ikki kishi qoldi — birining nomi Eldad, ikkinchining nomi Medad; va ruax ular ustiga qoʻndi — ular roʻyxatga olinganlar orasidan edilar, biroq chodirga chiqmagan edilar — va ular lagerda paygʻambarlik qildilar.",
+  "translation": "Va lagerda ikki kishi qoldi — birining nomi Eldad, ikkinchining nomi Medad; va ruax ular ustiga qoʻndi — ular roʻyxatga olinganlar orasidan edilar, biroq chodirga chiqmagan edilar — va ular lagerda nabiylik qildilar.",
   "tokens": [
     {
       "surface": "וישארו",
@@ -81,7 +81,7 @@
     },
     {
       "surface": "ויתנבאו",
-      "gloss": "va paygʻambarlik qildilar"
+      "gloss": "va nabiylik qildilar"
     },
     {
       "surface": "במחנה",
@@ -89,5 +89,12 @@
     }
   ],
   "timestamp": "2026-08-26T01:32:22.053723941Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

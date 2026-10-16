@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 36,
-  "translation": "Shuning uchun paygʻambarlik qil va ayt: Shunday deydi Adonay Yahve: Chunki, haqiqatan ham xarob qilinishingiz va atrofdan yutilishingiz ⟨את⟩ uchun — xalqlar qoldigʻiga meros boʻlishingiz uchun, til labida va xalq igʻvosi boʻlib koʻtarilganingiz uchun —",
+  "translation": "Shuning uchun nabiylik qil va ayt: Shunday deydi Adonay Yahve: Chunki, haqiqatan ham xarob qilinishingiz va atrofdan yutilishingiz ⟨את⟩ uchun — xalqlar qoldigʻiga meros boʻlishingiz uchun, til labida va xalq igʻvosi boʻlib koʻtarilganingiz uchun —",
   "tokens": [
     {
       "surface": "לכן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנבא",
-      "gloss": "paygʻambarlik qil"
+      "gloss": "nabiylik qil"
     },
     {
       "surface": "ואמרת",
@@ -102,5 +102,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:26:36.742383985Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

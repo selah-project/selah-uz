@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Kohinlar aytmadilar: «Qayerda Yahve?» va Torni ushlaganlar Meni bilmadilar, choʻponlar Menga qarshi isyon koʻtardilar, va paygʻambarlar Baal nomiga paygʻambarlik qildilar va foyda bermaydiganlarning ortidan yurdilar.",
+  "translation": "Kohinlar aytmadilar: «Qayerda Yahve?» va Torni ushlaganlar Meni bilmadilar, choʻponlar Menga qarshi isyon koʻtardilar, va nabiylar Baal nomiga nabiylik qildilar va foyda bermaydiganlarning ortidan yurdilar.",
   "tokens": [
     {
       "surface": "הכהנים",
@@ -57,11 +57,11 @@
     },
     {
       "surface": "והנביאים",
-      "gloss": "va paygʻambarlar"
+      "gloss": "va nabiylar"
     },
     {
       "surface": "נבאו",
-      "gloss": "paygʻambarlik qildilar"
+      "gloss": "nabiylik qildilar"
     },
     {
       "surface": "בבעל",
@@ -85,5 +85,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:36:00.156759380Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar",
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

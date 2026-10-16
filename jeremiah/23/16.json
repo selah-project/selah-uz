@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 23,
-  "translation": "Shunday deydi Yahve Sebaot: Sizlarga paygʻambarlik qilayotgan paygʻambarlarning soʻzlariga quloq solmanglar — ular sizlarni ⟨את⟩ boʻsh narsalarga aldamoqdalar; ular oʻz qalblarining koʻrinishini gapiradilar, Yahve ogʻzidan emas.",
+  "translation": "Shunday deydi Yahve Sebaot: Sizlarga nabiylik qilayotgan nabiylarning soʻzlariga quloq solmanglar — ular sizlarni ⟨את⟩ boʻsh narsalarga aldamoqdalar; ular oʻz qalblarining koʻrinishini gapiradilar, Yahve ogʻzidan emas.",
   "tokens": [
     {
       "surface": "כה",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlarning"
+      "gloss": "nabiylarning"
     },
     {
       "surface": "הנבאים",
-      "gloss": "paygʻambarlik qilayotgan"
+      "gloss": "nabiylik qilayotgan"
     },
     {
       "surface": "לכם",
@@ -90,5 +90,13 @@
     }
   ],
   "timestamp": "2026-08-26T08:37:30.266138093Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik",
+      "paygʻambarlarning": "nabiylarning"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

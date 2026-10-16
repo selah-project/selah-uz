@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va paygʻambarlar oʻgʻillaridan bir kishi oʻz yoriga Yahve soʻzi bilan dedi: Ur meni, iltimos. Va erkak uni urishdan bosh tortdi.",
+  "translation": "Va nabiylar oʻgʻillaridan bir kishi oʻz yoriga Yahve soʻzi bilan dedi: Ur meni, iltimos. Va erkak uni urishdan bosh tortdi.",
   "tokens": [
     {
       "surface": "ואיש",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "אמר",
@@ -65,5 +65,12 @@
     }
   ],
   "timestamp": "2026-08-26T03:44:20.308574088Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

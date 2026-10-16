@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va Yahve bulutda tushdi va u bilan gaplashdi va u ustidagi ruaxdan ayirdi va yetmish kishi — keksalarning ustiga qoʻydi; va boʻldiki, ruax ular ustiga qoʻngach, ular paygʻambarlik qildilar va davom etmadilar.",
+  "translation": "Va Yahve bulutda tushdi va u bilan gaplashdi va u ustidagi ruaxdan ayirdi va yetmish kishi — keksalarning ustiga qoʻydi; va boʻldiki, ruax ular ustiga qoʻngach, ular nabiylik qildilar va davom etmadilar.",
   "tokens": [
     {
       "surface": "וירד",
@@ -85,7 +85,7 @@
     },
     {
       "surface": "ויתנבאו",
-      "gloss": "va paygʻambarlik qildilar"
+      "gloss": "va nabiylik qildilar"
     },
     {
       "surface": "ולא",
@@ -97,5 +97,12 @@
     }
   ],
   "timestamp": "2026-08-26T01:32:22.053421280Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

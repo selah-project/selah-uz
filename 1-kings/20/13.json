@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va mana, bir paygʻambar Yisroil shohi Axabga yaqinlashdi va dedi: Shunday aytdi Yahve: ⟨את⟩ shu buyuk olomonning hammasini koʻrdingmi? Mana, men uni bugun qoʻlingga beraman, va bilursanki men Yahveman.",
+  "translation": "Va mana, bir nabiy Yisroil shohi Axabga yaqinlashdi va dedi: Shunday aytdi Yahve: ⟨את⟩ shu buyuk olomonning hammasini koʻrdingmi? Mana, men uni bugun qoʻlingga beraman, va bilursanki men Yahveman.",
   "tokens": [
     {
       "surface": "והנה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "אחד",
@@ -114,5 +114,12 @@
     }
   ],
   "timestamp": "2026-08-26T03:44:40.477689863Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

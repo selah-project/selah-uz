@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 13,
-  "translation": "Uni yoʻldan qaytargan paygʻambar eshitdi va dedi: bu — Elohim odami, u Yahvening ogʻziga qarshi isyon qildi; va Yahve uni aryonga berdi, u esa uni yaraladi va oʻldirdi — Yahve unga aytgan soʻzi boʻyicha.",
+  "translation": "Uni yoʻldan qaytargan nabiy eshitdi va dedi: bu — Elohim odami, u Yahvening ogʻziga qarshi isyon qildi; va Yahve uni aryonga berdi, u esa uni yaraladi va oʻldirdi — Yahve unga aytgan soʻzi boʻyicha.",
   "tokens": [
     {
       "surface": "וישמע",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "אשר",
@@ -110,5 +110,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:32:15.374625186Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Yeremiya barcha sarkdalarga va butun xalqga dedi: „Yahve meni bu uyga va bu shaharga ⟨את⟩ eshitgan barcha soʻzlarni paygʻambarlik qilish uchun yubordi“.",
+  "translation": "Yeremiya barcha sarkdalarga va butun xalqga dedi: „Yahve meni bu uyga va bu shaharga ⟨את⟩ eshitgan barcha soʻzlarni nabiylik qilish uchun yubordi“.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -53,7 +53,7 @@
     },
     {
       "surface": "להנבא",
-      "gloss": "paygʻambarlik qilish uchun"
+      "gloss": "nabiylik qilish uchun"
     },
     {
       "surface": "אל",
@@ -102,5 +102,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:49:57.530882111Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

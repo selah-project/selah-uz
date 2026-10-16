@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va Elishe Yisroel malikiga dedi: „Menga va senga nima? Otangning paygʻambarlari oldiga va onangning paygʻambarlari oldiga bor.“ Va Yisroel maliki unga dedi: „Yoʻq, chunki Yahve shu uch malikni chaqirdi — ⟨את⟩ ularni Moab qoʻliga berish uchun.“",
+  "translation": "Va Elishe Yisroel malikiga dedi: „Menga va senga nima? Otangning nabiylari oldiga va onangning nabiylari oldiga bor.“ Va Yisroel maliki unga dedi: „Yoʻq, chunki Yahve shu uch malikni chaqirdi — ⟨את⟩ ularni Moab qoʻliga berish uchun.“",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -49,7 +49,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "paygʻambarlari"
+      "gloss": "nabiylari"
     },
     {
       "surface": "אביך",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "paygʻambarlari"
+      "gloss": "nabiylari"
     },
     {
       "surface": "אמך",
@@ -130,5 +130,12 @@
     }
   ],
   "timestamp": "2026-08-26T03:47:44.631763433Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlari": "nabiylari"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

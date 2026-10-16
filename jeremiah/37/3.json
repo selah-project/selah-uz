@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 37,
-  "translation": "Va podshoh Tsidkiyaxu yubordi ⟨את⟩ Yahukalni, Shelemyaxu oʻgʻlini, va ⟨את⟩ Tsefanyaxuni, Maaseyaxu oʻgʻli kohenni, Yirmeyaxu paygʻambarga, deyib: iltijo qil, iltimos, bizning uchun Yahve — Elohimimiz — bizning Elohimimizga.",
+  "translation": "Va podshoh Tsidkiyaxu yubordi ⟨את⟩ Yahukalni, Shelemyaxu oʻgʻlini, va ⟨את⟩ Tsefanyaxuni, Maaseyaxu oʻgʻli kohenni, Yirmeyaxu nabiyga, deyib: iltijo qil, iltimos, bizning uchun Yahve — Elohimimiz — bizning Elohimimizga.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "לאמר",
@@ -99,5 +99,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:59:35.065511392Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarga": "nabiyga",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

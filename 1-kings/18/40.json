@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Va dedi Eliyahu ularga: Tutib olinglar ⟨את⟩ Baal paygʻambarlarini; bir kishi ham qochib qolmasin ular ichidan. Va ularni tutib olishdi, va tushirdi ularni Eliyahu Kishon vodiysiga, va soʻydi ularni u yerda.",
+  "translation": "Va dedi Eliyahu ularga: Tutib olinglar ⟨את⟩ Baal nabiylarini; bir kishi ham qochib qolmasin ular ichidan. Va ularni tutib olishdi, va tushirdi ularni Eliyahu Kishon vodiysiga, va soʻydi ularni u yerda.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -30,7 +30,7 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "paygʻambarlari"
+      "gloss": "nabiylari"
     },
     {
       "surface": "הבעל",
@@ -70,7 +70,7 @@
     },
     {
       "surface": "נחל",
-      "gloss": "vodiy \/ soy"
+      "gloss": "vodiy / soy"
     },
     {
       "surface": "קישון",
@@ -86,5 +86,13 @@
     }
   ],
   "timestamp": "2026-08-26T03:42:56.663739204Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlarini": "nabiylarini",
+      "paygʻambarlari": "nabiylari"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

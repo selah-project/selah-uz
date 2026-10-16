@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Oʻgʻri topilganda uyalmagandek, Isroil xonadoni ham uyaldi — ular, ularning podshohlari, sarkardalari, kohinlari va paygʻambarlari.",
+  "translation": "Oʻgʻri topilganda uyalmagandek, Isroil xonadoni ham uyaldi — ular, ularning podshohlari, sarkardalari, kohinlari va nabiylari.",
   "tokens": [
     {
       "surface": "כבשת",
@@ -57,9 +57,16 @@
     },
     {
       "surface": "ונביאיהם",
-      "gloss": "va paygʻambarlari"
+      "gloss": "va nabiylari"
     }
   ],
   "timestamp": "2026-08-26T04:36:09.808311324Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlari": "nabiylari"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

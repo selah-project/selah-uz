@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 38,
-  "translation": "Egam, podshoh, yomonlik qildilar bu odamlar — ⟨את⟩ barcha narsada niki qildilar Yeremiyuga paygʻambarga, ⟨את⟩ niki tashladilar chuqurga, va u oʻlmoqda joyida ochlik sababli, chunki yoʻq non endi shaharda.",
+  "translation": "Egam, podshoh, yomonlik qildilar bu odamlar — ⟨את⟩ barcha narsada niki qildilar Yeremiyuga nabiyga, ⟨את⟩ niki tashladilar chuqurga, va u oʻlmoqda joyida ochlik sababli, chunki yoʻq non endi shaharda.",
   "tokens": [
     {
       "surface": "אדני",
@@ -50,7 +50,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "את",
@@ -111,5 +111,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:59:48.462923830Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarga": "nabiyga",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

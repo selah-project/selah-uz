@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 37,
-  "translation": "Va qayerda endi sizning paygʻambarlaringiz, sizga paygʻambarlik qilib: „Bobil podshohi sizning ustingizga va bu yerga kelmaydi“, deganlar?",
+  "translation": "Va qayerda endi sizning nabiylaringiz, sizga nabiylik qilib: „Bobil podshohi sizning ustingizga va bu yerga kelmaydi“, deganlar?",
   "tokens": [
     {
       "surface": "ואיו",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "נביאיכם",
-      "gloss": "paygʻambarlaringiz"
+      "gloss": "nabiylaringiz"
     },
     {
       "surface": "אשר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נבאו",
-      "gloss": "paygʻambarlik qildilar"
+      "gloss": "nabiylik qildilar"
     },
     {
       "surface": "לכם",
@@ -65,5 +65,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:59:30.284944428Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlaringiz": "nabiylaringiz",
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 3,
-  "translation": "Va Yahushafot aytdi: Bu yerda Yahve paygʻambari yoʻqmi, va biz ⟨את⟩ Yahvedan ⟨את⟩ undan soʻraylik? Va Isroil podshohining qullaridan biri javob berib aytdi: Bu yerda Elişa bor, Shafatning oʻgʻli, u Eliyahu qoʻllariga suv quygani.",
+  "translation": "Va Yahushafot aytdi: Bu yerda Yahve nabiyi yoʻqmi, va biz ⟨את⟩ Yahvedan ⟨את⟩ undan soʻraylik? Va Isroil podshohining qullaridan biri javob berib aytdi: Bu yerda Elişa bor, Shafatning oʻgʻli, u Eliyahu qoʻllariga suv quygani.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ליהוה",
@@ -114,5 +114,13 @@
     }
   ],
   "timestamp": "2026-08-26T03:47:27.550029522Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambari": "nabiyi",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

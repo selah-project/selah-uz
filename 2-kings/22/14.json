@@ -5,7 +5,7 @@
   "book": "2-kings",
   "lang": "uz",
   "chapter": 22,
-  "translation": "Kohin Xilqiyo va Axikam va Axbor va Shafan va Asayo paygʻambar ayol Xuldaning oldiga bordilar — Shalum xotini, Tikva oʻgʻli, Xarxas oʻgʻli, kiyimlar qoʻriqchisi — u esa Yerushalaimda, Mishneda yashar edi; va unga gapirdilar.",
+  "translation": "Kohin Xilqiyo va Axikam va Axbor va Shafan va Asayo nabiy ayol Xuldaning oldiga bordilar — Shalum xotini, Tikva oʻgʻli, Xarxas oʻgʻli, kiyimlar qoʻriqchisi — u esa Yerushalaimda, Mishneda yashar edi; va unga gapirdilar.",
   "tokens": [
     {
       "surface": "וילך",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "הנביאה",
-      "gloss": "paygʻambar ayol"
+      "gloss": "nabiy ayol"
     },
     {
       "surface": "אשת",
@@ -105,5 +105,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:02:40.347193084Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

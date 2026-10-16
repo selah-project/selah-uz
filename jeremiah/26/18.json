@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 26,
-  "translation": "Mikayahu Morashtilik paygʻambarlik qildi Chizkiyaxu, Yahudo qiroli kunlarida, va butun Yahudo xalqiga dedi, deyib: shunday deydi Yahve Tsevaot: Siyon dala boʻlib haydaladi va Yerushalaim xarobalarga aylanadi va uy togʻi oʻrmon balandliklariga aylanadi.",
+  "translation": "Mikayahu Morashtilik nabiylik qildi Chizkiyaxu, Yahudo qiroli kunlarida, va butun Yahudo xalqiga dedi, deyib: shunday deydi Yahve Tsevaot: Siyon dala boʻlib haydaladi va Yerushalaim xarobalarga aylanadi va uy togʻi oʻrmon balandliklariga aylanadi.",
   "tokens": [
     {
       "surface": "מיכיה",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נבא",
-      "gloss": "paygʻambarlik qildi"
+      "gloss": "nabiylik qildi"
     },
     {
       "surface": "בימי",
@@ -121,5 +121,12 @@
     }
   ],
   "timestamp": "2026-08-26T04:52:30.682599226Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

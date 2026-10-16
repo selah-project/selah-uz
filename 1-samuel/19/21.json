@@ -5,7 +5,7 @@
   "book": "1-samuel",
   "lang": "uz",
   "chapter": 19,
-  "translation": "Va Sha ULga xabar berishdi, va u boshqa elchilar yubordi, va ular ham paygʻambarlik qildilar; va Sha UL yana qoʻshib elchilar uchinchi marta yubordi, va ular ham paygʻambarlik qildilar.",
+  "translation": "Va Sha ULga xabar berishdi, va u boshqa elchilar yubordi, va ular ham nabiylik qildilar; va Sha UL yana qoʻshib elchilar uchinchi marta yubordi, va ular ham nabiylik qildilar.",
   "tokens": [
     {
       "surface": "ויגדו",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "ויתנבאו",
-      "gloss": "va paygʻambarlik qildilar"
+      "gloss": "va nabiylik qildilar"
     },
     {
       "surface": "גם",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "ויתנבאו",
-      "gloss": "va paygʻambarlik qildilar"
+      "gloss": "va nabiylik qildilar"
     },
     {
       "surface": "גם",
@@ -73,5 +73,12 @@
     }
   ],
   "timestamp": "2026-08-26T02:54:19.916932574Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

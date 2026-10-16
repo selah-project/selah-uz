@@ -5,15 +5,15 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 5,
-  "translation": "Paygʻambarlar yolgʻon paygʻambarlik qildilar va kohinlar ularning qoʻli ostida hukm surdilar; xalqim esa buni yaxshi koʻrdi — oxirida esa nima qilasizlar?",
+  "translation": "Nabiylar yolgʻon nabiylik qildilar va kohinlar ularning qoʻli ostida hukm surdilar; xalqim esa buni yaxshi koʻrdi — oxirida esa nima qilasizlar?",
   "tokens": [
     {
       "surface": "הנביאים",
-      "gloss": "paygʻambarlar"
+      "gloss": "nabiylar"
     },
     {
       "surface": "נבאו",
-      "gloss": "paygʻambarlik qildilar"
+      "gloss": "nabiylik qildilar"
     },
     {
       "surface": "בשקר",
@@ -61,5 +61,14 @@
     }
   ],
   "timestamp": "2026-08-26T04:39:50.090803580Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "Paygʻambarlar": "Nabiylar",
+      "paygʻambarlik": "nabiylik",
+      "paygʻambarlar": "nabiylar"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

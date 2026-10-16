@@ -5,7 +5,7 @@
   "book": "lamentations",
   "lang": "uz",
   "chapter": 2,
-  "translation": "Yerga choʻkdi uning darvozalari, vayron qildi va sindirdi uning zanjirlarini; uning qiroli va uning sarkardalari xalqlar ⟨orasida⟩ — Tavot yoʻq, uning paygʻambarlari ham Yahve'dan koʻrinish topmadilar.",
+  "translation": "Yerga choʻkdi uning darvozalari, vayron qildi va sindirdi uning zanjirlarini; uning qiroli va uning sarkardalari xalqlar ⟨orasida⟩ — Tavot yoʻq, uning nabiylari ham Yahve'dan koʻrinish topmadilar.",
   "tokens": [
     {
       "surface": "טבעו",
@@ -57,7 +57,7 @@
     },
     {
       "surface": "נביאיה",
-      "gloss": "uning paygʻambarlari"
+      "gloss": "uning nabiylari"
     },
     {
       "surface": "לא",
@@ -77,5 +77,12 @@
     }
   ],
   "timestamp": "2026-08-26T07:16:51.622928121Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlari": "nabiylari"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

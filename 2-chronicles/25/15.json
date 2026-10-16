@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 25,
-  "translation": "Va Yahvening gʻazabi Amatsiyaga alanglandi va u unga paygʻambar yubordi; u unga aytdi: nima uchun ⟨את⟩ xalqning elohimlarini soʻrading — ⟨את⟩ oʻz xalqini qoʻlingdan qutqara olmaganlarni?",
+  "translation": "Va Yahvening gʻazabi Amatsiyaga alanglandi va u unga nabiy yubordi; u unga aytdi: nima uchun ⟨את⟩ xalqning elohimlarini soʻrading — ⟨את⟩ oʻz xalqini qoʻlingdan qutqara olmaganlarni?",
   "tokens": [
     {
       "surface": "ויחר",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ויאמר",
@@ -91,5 +91,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:13:06.100048218Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

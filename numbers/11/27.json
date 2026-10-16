@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "uz",
   "chapter": 11,
-  "translation": "Va yigit yugurib kelib Moshega xabar berdi va dedi: Eldad va Medad lagerda paygʻambarlik qilmoqdalar.",
+  "translation": "Va yigit yugurib kelib Moshega xabar berdi va dedi: Eldad va Medad lagerda nabiylik qilmoqdalar.",
   "tokens": [
     {
       "surface": "וירץ",
@@ -37,7 +37,7 @@
     },
     {
       "surface": "מתנבאים",
-      "gloss": "paygʻambarlik qilmoqdalar"
+      "gloss": "nabiylik qilmoqdalar"
     },
     {
       "surface": "במחנה",
@@ -45,5 +45,12 @@
     }
   ],
   "timestamp": "2026-08-26T01:32:22.053885757Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlik": "nabiylik"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

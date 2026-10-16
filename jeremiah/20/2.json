@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 20,
-  "translation": "Va Pashxur Yeremiyuni ⟨את⟩, paygʻambarni, sildi va uni ⟨את⟩ Yahve uyidagi Binyamin yuqori darvozasidagi qamchilash moslamasiga qoʻydi.",
+  "translation": "Va Pashxur Yeremiyuni ⟨את⟩, nabiyni, sildi va uni ⟨את⟩ Yahve uyidagi Binyamin yuqori darvozasidagi qamchilash moslamasiga qoʻydi.",
   "tokens": [
     {
       "surface": "ויכה",
@@ -26,7 +26,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "ויתן",
@@ -75,5 +75,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:50:03.501396476Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarni": "nabiyni",
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "uz",
   "chapter": 14,
-  "translation": "Chunki Yisroil xonadonidan yoki Yisroilda mujoʻr boʻlib yashovchi musofirdan Mendan yiroqlashgan har bir kishi — oʻz butlarini yuragiga koʻtarsa va gunohining toʻsigʻini oʻz yuzining qarshisiga qoʻysa va paygʻambar huzuriga, Menden oʻzi uchun soʻrashga kelsa — Men, Yahve, unga Oʻzim javob beraman.",
+  "translation": "Chunki Yisroil xonadonidan yoki Yisroilda mujoʻr boʻlib yashovchi musofirdan Mendan yiroqlashgan har bir kishi — oʻz butlarini yuragiga koʻtarsa va gunohining toʻsigʻini oʻz yuzining qarshisiga qoʻysa va nabiy huzuriga, Menden oʻzi uchun soʻrashga kelsa — Men, Yahve, unga Oʻzim javob beraman.",
   "tokens": [
     {
       "surface": "כי",
@@ -97,7 +97,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "לדרש",
@@ -133,5 +133,12 @@
     }
   ],
   "timestamp": "2026-08-26T05:15:03.774192506Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

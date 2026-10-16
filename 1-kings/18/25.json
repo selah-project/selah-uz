@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "uz",
   "chapter": 18,
-  "translation": "Va Eliyahu Baal paygʻambarlariga aytdi: tanlang oʻzingizga bitta buqani, va birinchi tayyorlang, chunki siz koʻpsizlar, va xudolaringizning nomida chaqiringlar, olov esa qoʻymangiz.",
+  "translation": "Va Eliyahu Baal nabiylariga aytdi: tanlang oʻzingizga bitta buqani, va birinchi tayyorlang, chunki siz koʻpsizlar, va xudolaringizning nomida chaqiringlar, olov esa qoʻymangiz.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "לנביאי",
-      "gloss": "paygʻambarlariga"
+      "gloss": "nabiylariga"
     },
     {
       "surface": "הבעל",
@@ -85,5 +85,12 @@
     }
   ],
   "timestamp": "2026-08-26T08:32:40.859215089Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambarlariga": "nabiylariga"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

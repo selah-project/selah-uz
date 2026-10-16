@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "uz",
   "chapter": 28,
-  "translation": "Va Xananya paygʻambar ⟨את⟩ boʻyinturuqni Yirmiyo paygʻambarning boʻynidan oldi va uni sindirdi.",
+  "translation": "Va Xananya nabiy ⟨את⟩ boʻyinturuqni Yirmiyo nabiyning boʻynidan oldi va uni sindirdi.",
   "tokens": [
     {
       "surface": "ויקח",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambar"
+      "gloss": "nabiy"
     },
     {
       "surface": "את",
@@ -42,7 +42,7 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "paygʻambarning"
+      "gloss": "nabiyning"
     },
     {
       "surface": "וישברהו",
@@ -50,5 +50,13 @@
     }
   ],
   "timestamp": "2026-08-26T04:53:06.547450922Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "forms": {
+      "paygʻambar": "nabiy",
+      "paygʻambarning": "nabiyning"
+    },
+    "rule": "no-later-prophets-in-the-tanakh (2026-09-17): the cognate of נביא"
+  }
 }

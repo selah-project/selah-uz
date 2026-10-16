@@ -5,7 +5,7 @@
   "book": "2-chronicles",
   "lang": "uz",
   "chapter": 34,
-  "translation": "Xilkiyahu va podshohning ⟨odamlari⟩ Xulda paygʻambaraning — Shalumning xotini, Tokat oʻgʻlining, Xasra oʻgʻlining, kiyimlarni saqlovchining — oldiga bordilar; u esa Yerushalaimda, Mishnada yashar edi, va u bilan shunday gaplashdilar.",
+  "translation": "Xilkiyahu va podshohning ⟨odamlari⟩ Xulda nabiyaning — Shalumning xotini, Tokat oʻgʻlining, Xasra oʻgʻlining, kiyimlarni saqlovchining — oldiga bordilar; u esa Yerushalaimda, Mishnada yashar edi, va u bilan shunday gaplashdilar.",
   "tokens": [
     {
       "surface": "וילך",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "הנביאה",
-      "gloss": "paygʻambaraning"
+      "gloss": "nabiyaning"
     },
     {
       "surface": "אשת",
@@ -97,5 +97,13 @@
     }
   ],
   "timestamp": "2026-08-26T08:16:55.096177846Z",
-  "model": "glm-5.3"
+  "model": "glm-5.3",
+  "prophet_canon": {
+    "date": "2026-10-16",
+    "hand": [
+      "paygʻambaraning",
+      "nabiyaning (הנביאה, the prophetess)"
+    ],
+    "rule": "no-later-prophets-in-the-tanakh"
+  }
 }

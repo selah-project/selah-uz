@@ -13,7 +13,7 @@ taxmindan ajrating.
 - Agar xato ham, tuzatish ham ravshan boʻlsa — **Pull request**
   oching.
 - Dasturiy yoki xavfsizlik/hisob/maxfiylik masalalarida —
-  [Selah Support](https://selahproject.com/support).
+  [Selah Support](https://s33k3r.com/learn/support).
 
 ## Nimalarni kiritish foydali
 
